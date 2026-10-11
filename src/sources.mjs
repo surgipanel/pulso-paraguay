@@ -1,0 +1,105 @@
+// Registro de medios. Verificado a mano el 11/10/2026: solo se listan URLs que respondieron.
+// kind: "rss" | "atom" | "news-sitemap"
+// enrich: "og-description" → el feed trae solo título; se lee la meta description de la nota
+//         (una petición por nota, con pausa, respetando crawl-delay del robots.txt).
+export const SOURCES = [
+  {
+    id: "abc",
+    name: "ABC Color",
+    homepage: "https://www.abc.com.py",
+    kind: "rss",
+    url: "https://www.abc.com.py/arc/outboundfeeds/rss/?outputType=xml",
+    region: "nacional",
+  },
+  {
+    id: "lanacion",
+    name: "La Nación",
+    homepage: "https://www.lanacion.com.py",
+    kind: "rss",
+    url: "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml",
+    region: "nacional",
+  },
+  {
+    id: "ultimahora",
+    name: "Última Hora",
+    homepage: "https://www.ultimahora.com",
+    kind: "news-sitemap",
+    url: "https://www.ultimahora.com/news-sitemap.xml",
+    enrich: "og-description",
+    crawlDelayMs: 10_000, // robots.txt: Crawl-delay: 10
+    maxEnrich: 10,
+    region: "nacional",
+    note: "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
+  },
+  {
+    id: "elnacional",
+    name: "El Nacional",
+    homepage: "https://elnacional.com.py",
+    kind: "rss",
+    url: "https://elnacional.com.py/feed/",
+    region: "nacional",
+  },
+  {
+    id: "adn",
+    name: "ADN Digital",
+    homepage: "https://www.adndigital.com.py",
+    kind: "rss",
+    url: "https://www.adndigital.com.py/feed/",
+    region: "Alto Paraná",
+  },
+  {
+    id: "npy",
+    name: "NPY",
+    homepage: "https://www.npy.com.py",
+    kind: "rss",
+    url: "https://www.npy.com.py/index.rss",
+    region: "nacional",
+  },
+  {
+    id: "telefuturo",
+    name: "Telefuturo",
+    homepage: "https://www.telefuturo.com.py",
+    kind: "atom",
+    url: "https://www.telefuturo.com.py/index.atom",
+    region: "nacional",
+  },
+  {
+    id: "vanguardia",
+    name: "Vanguardia",
+    homepage: "https://www.diariovanguardia.com.py",
+    kind: "rss",
+    url: "https://www.diariovanguardia.com.py/feed/",
+    region: "Ciudad del Este",
+  },
+  {
+    id: "hoy",
+    name: "HOY",
+    homepage: "https://www.hoy.com.py",
+    kind: "rss",
+    url: "https://www.hoy.com.py/feed/",
+    region: "nacional",
+    note: "El feed responde pero devuelve notas de 2023: se verifica en cada corrida y se descarta si sigue viejo.",
+  },
+  {
+    id: "ip",
+    name: "Agencia IP (estatal)",
+    homepage: "https://www.ip.gov.py",
+    kind: "rss",
+    url: "https://www.ip.gov.py/ip/feed/",
+    region: "nacional",
+    note: "Agencia de noticias del Estado. Su feed quedó desactualizado (agosto 2026) al momento de la verificación.",
+  },
+  {
+    id: "5dias",
+    name: "5Días",
+    homepage: "https://www.5dias.com.py",
+    kind: "none",
+    url: null,
+    region: "nacional",
+    note: "No expone RSS ni sitemap de noticias accesible (verificado 11/10/2026). No se raspa el sitio.",
+  },
+];
+
+export function sourceById(id) {
+  return SOURCES.find((s) => s.id === id);
+}

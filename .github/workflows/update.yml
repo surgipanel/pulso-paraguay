@@ -1,0 +1,75 @@
+name: Actualizar edición
+
+on:
+  schedule:
+    # Horarios en hora de Asunción (GitHub admite "timezone" por entrada de cron).
+    # Minuto 7 en vez de 0: los horarios "en punto" son los más demorados por carga de la plataforma.
+    - cron: "7 5 * * *"
+      timezone: "America/Asuncion"
+    - cron: "7 17 * * *"
+      timezone: "America/Asuncion"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Repetir aunque ya haya corrido este turno (--force)"
+        type: boolean
+        default: false
+
+# Nunca dos corridas a la vez; la segunda espera a que termine la primera (no se cancela).
+concurrency:
+  group: pulso-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      PULSO_MODEL: ${{ vars.PULSO_MODEL }}
+      PULSO_AI_MODE: ${{ vars.PULSO_AI_MODE }}
+      PULSO_MAX_EVENTS: ${{ vars.PULSO_MAX_EVENTS }}
+      TZ: America/Asuncion
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Correr proceso editorial
+        id: run
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            node scripts/update.mjs --force
+          else
+            node scripts/update.mjs
+          fi
+
+      # Se publica también cuando el proceso falló: latest.json y runs.json registran el fallo
+      # y la web sigue mostrando la última edición válida con su fecha real.
+      - name: Publicar datos
+        if: always()
+        run: |
+          git config user.name "pulso-bot"
+          git config user.email "pulso-bot@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "Sin cambios que publicar."
+            exit 0
+          fi
+          git commit -m "Edición $(TZ=America/Asuncion date '+%Y-%m-%d %H:%M') (${{ steps.run.outcome }})"
+          # Reintentos limitados por si otro commit llegó mientras corría.
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase && sleep 5
+          done
+          exit 1

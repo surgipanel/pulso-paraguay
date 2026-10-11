@@ -1,0 +1,19 @@
+{
+  "name": "pulso-paraguay",
+  "version": "0.1.0",
+  "description": "Diario digital de Paraguay: agrupa la cobertura de medios paraguayos en acontecimientos, con resumen propio y enlaces a las fuentes.",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "update:force": "node scripts/update.mjs --force",
+    "check-sources": "node scripts/update.mjs --check-sources",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0",
+    "fast-xml-parser": "^5.2.5",
+    "zod": "^4.1.0"
+  }
+}
