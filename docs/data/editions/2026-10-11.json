@@ -1,9 +1,9 @@
 {
   "date": "2026-10-11",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-11T18:54:12.868Z",
-  "aiMode": "extractivo",
-  "model": null,
+  "generatedAt": "2026-10-11T23:34:27.949Z",
+  "aiMode": "ia",
+  "model": "claude-opus-5-5",
   "maxEvents": 20,
   "events": [
     {
@@ -62,23 +62,31 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 17.7
+      "score": 17.31
     },
     {
       "id": "ev-1lpjmd0",
-      "title": "El papa anuncia que será operado de un nódulo en el pulmón “en los próximos días”",
-      "summary": "El papa León XIV anunció este domingo que se someterá a una intervención quirúrgica “en los próximos días” para extirpar un nódulo “localizado en el pulmón” que se ha detectado “en un estadio muy temprano”. \"Está en una fase muy temprana y bien localizado\", explicó a los fieles tras el rezo del Ángelus.",
+      "title": "León XIV será operado de un nódulo pulmonar y recibe mensajes de apoyo",
+      "summary": "El papa León XIV, de 71 años, anunció tras el Ángelus del domingo que en los próximos días será operado para extirpar un nódulo en el pulmón detectado en una fase muy inicial y bien localizado. El anuncio generó mensajes de solidaridad de los presidentes Javier Milei y Fujimori, de la Conferencia Episcopal Argentina y de un cardenal hondureño, a un mes de su visita a Sudamérica.",
       "keyPoints": [
-        "El papa León XIV anunció este domingo que se someterá a una intervención quirúrgica “en los próximos días” para extirpar un nódulo “localizado en el pulmón” que se ha detectado “en un estadio muy temprano”.",
-        "\"Está en una fase muy temprana y bien localizado\", explicó a los fieles tras el rezo del Ángelus.",
-        "Durante una homilía en la Basílica Menor de Suyapa, en Tegucigalpa, Rodríguez expresó su deseo de que el pontífice supere satisfactoriamente la operación a la que será sometido.",
-        "\"La Conferencia Episcopal Argentina invita a todo el Pueblo de Dios a unirse en una oración especial por el Papa León XIV, ante la intervención quirúrgica a la que será sometido\", dijeron los prelados en un…"
+        "León XIV anunció que será operado de un nódulo pulmonar en los próximos días.",
+        "Según el pontífice, el nódulo fue detectado en una fase muy inicial.",
+        "Milei y Fujimori le desearon una pronta recuperación.",
+        "La Iglesia argentina y un cardenal hondureño pidieron oraciones."
       ],
       "category": "pais",
       "scope": "internacional",
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Milei expresa su deseo de que León XIV tenga una \"pronta\" recuperación",
+          "url": "https://www.abc.com.py/internacionales/2026/10/11/milei-expresa-su-deseo-de-que-leon-xiv-tenga-una-pronta-recuperacion",
+          "publishedAt": "2026-10-11T18:25:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -93,6 +101,14 @@
           "title": "Iglesia en Argentina pide orar por la salud de León XIV cuando resta un mes para su visita",
           "url": "https://www.abc.com.py/internacionales/2026/10/11/iglesia-en-argentina-pide-orar-por-la-salud-de-leon-xiv-cuando-resta-un-mes-para-su-visita",
           "publishedAt": "2026-10-11T17:45:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fujimori expresa afecto y solidaridad con el papa León XIV tras anuncio de operación",
+          "url": "https://www.abc.com.py/internacionales/2026/10/11/fujimori-expresa-afecto-y-solidaridad-con-el-papa-leon-xiv-tras-anuncio-de-operacion",
+          "publishedAt": "2026-10-11T17:20:12.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
@@ -127,9 +143,68 @@
       },
       "firstSeenAt": "2026-10-11T18:54:12.868Z",
       "firstSlot": "tarde",
-      "updatedAt": "2026-10-11T18:54:12.868Z",
+      "updatedAt": "2026-10-11T23:34:27.949Z",
       "updatedSlot": "tarde",
-      "score": 15.42
+      "score": 15.07
+    },
+    {
+      "id": "ev-1iptucf",
+      "title": "Olimpia empata sin goles con Rubio Ñu y Delmás sale con molestias",
+      "summary": "Olimpia igualó 0-0 con Rubio Ñu en La Arboleda, por la decimocuarta fecha del Clausura 2026, en un partido condicionado por la lluvia y el terreno pesado. El Franjeado tuvo un cabezazo de Gabriel Ávalos en el poste y queda pendiente de Libertad, que puede desplazarlo de la cima. Además, Eduardo Delmás salió por una sobrecarga muscular y deberá realizarse estudios.",
+      "keyPoints": [
+        "Rubio Ñu y Olimpia empataron sin goles por la fecha 14 del Clausura.",
+        "Un cabezazo de Gabriel Ávalos pegó en el poste.",
+        "Olimpia puede perder la punta según el resultado de Libertad.",
+        "Eduardo Delmás abandonó el campo por una sobrecarga muscular."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Olimpia, en alerta por Eduardo Delmás: una molestia recurrente que obliga a realizar estudios",
+          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/11/olimpia-en-alerta-por-eduardo-delmas-una-molestia-recurrente-que-obliga-a-realizar-estudios",
+          "publishedAt": "2026-10-11T23:18:22.000Z",
+          "image": "https://www.abc.com.py/resizer/3dVn3ewy6sLEXZ629oTV911wAMk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/O2ECXOILIND45HOHNVNP42BIBQ.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rubio Ñu y Olimpia igualan sin goles en un partidazo condicionado por el clima",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/11/rubio-nu-y-olimpia-igualan-sin-goles-en-un-partidazo-condicionado-por-el-clima",
+          "publishedAt": "2026-10-11T22:06:58.000Z",
+          "image": "https://www.abc.com.py/resizer/CH0OBSKdwgMGu6yeBC5LH5HwS4I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WX4GZTJZKBGITNJA7PNDNBPKWU.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Olimpia se empantana en La Arboleda",
+          "url": "https://elnacional.com.py/deportes/olimpia-empantana-arboleda-n113444",
+          "publishedAt": "2026-10-11T22:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6acc06ede4751.jfif"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rubio Ñu vs. Olimpia: decimocuarta ronda del Clausura 2026 en vivo",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/11/rubio-nu-vs-olimpia-decimocuarta-ronda-del-clausura-2026-en-vivo",
+          "publishedAt": "2026-10-11T18:47:07.000Z",
+          "image": "https://www.abc.com.py/resizer/KQeNxNXbLr3BGtG67qO_68IudtA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EWEW7DGNSNARJMTDGRYEKAV46E.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/3dVn3ewy6sLEXZ629oTV911wAMk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/O2ECXOILIND45HOHNVNP42BIBQ.jpeg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/11/olimpia-en-alerta-por-eduardo-delmas-una-molestia-recurrente-que-obliga-a-realizar-estudios"
+      },
+      "firstSeenAt": "2026-10-11T18:54:12.868Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-11T23:34:27.949Z",
+      "updatedSlot": "tarde",
+      "score": 11.98
     },
     {
       "id": "ev-1atvddy",
@@ -188,7 +263,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 11.65
+      "score": 11.26
     },
     {
       "id": "ev-1cjncum",
@@ -238,7 +313,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 11.38
+      "score": 10.99
     },
     {
       "id": "ev-0lp6z5n",
@@ -287,7 +362,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 10.84
+      "score": 10.45
     },
     {
       "id": "ev-1sce2ug",
@@ -328,7 +403,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 9.97
+      "score": 9.58
     },
     {
       "id": "ev-09cokz1",
@@ -369,7 +444,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 9.96
+      "score": 9.58
     },
     {
       "id": "ev-0zquum1",
@@ -410,7 +485,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 9.84
+      "score": 9.45
     },
     {
       "id": "ev-1rbr4dt",
@@ -451,7 +526,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 9.81
+      "score": 9.42
     },
     {
       "id": "ev-085kecw",
@@ -492,7 +567,66 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 9.6
+      "score": 9.21
+    },
+    {
+      "id": "ev-1giivl4",
+      "title": "Informe del BCP señala mayor liquidez y solvencia del sistema financiero",
+      "summary": "Un informe de Indicadores Financieros del Banco Central del Paraguay muestra, según La Nación, que el sistema financiero fortaleció su liquidez y solvencia en el último año. Tras analizar el documento, senadores destacaron la estabilidad del sector y descartaron riesgos. El informe surge luego de semanas de rumores y especulaciones sobre un banco en particular, que el diario atribuye a intereses empresariales y políticos.",
+      "keyPoints": [
+        "El BCP publicó su informe de Indicadores Financieros.",
+        "Según La Nación, el sistema mejoró en liquidez y solvencia en el último año.",
+        "Senadores ratificaron la estabilidad del sistema y descartaron riesgos.",
+        "Hubo semanas de rumores sobre un banco en particular."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Sistema financiero se fortaleció en liquidez y solvencia en el último año, según informe del BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/11/sistema-financiero-se-fortalecio-en-liquidez-y-solvencia-en-el-ultimo-ano-segun-informe-del-bcp",
+          "publishedAt": "2026-10-11T21:39:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/seHq96bF3Pr2qjGNDnJUmjHURxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PV7QO7PDRBH3JNBI5O57DBLMYY.JPG"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senadores destacan la solidez financiera tras informe del Banco Central del Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/10/11/senadores-destacan-la-solidez-financiera-tras-informe-del-banco-central-del-paraguay",
+          "publishedAt": "2026-10-11T11:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aDjmQMUnn6paGOhOsw5QLTh_IXQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W3HVUQ4OAJCXVGRU2XRYMJINQY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senadores destacan la solidez financiera tras informe del BCP",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/11/senadores-destacan-la-solidez-financiera-tras-informe-del-bcp",
+          "publishedAt": "2026-10-11T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aDjmQMUnn6paGOhOsw5QLTh_IXQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W3HVUQ4OAJCXVGRU2XRYMJINQY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP ya habló",
+          "url": "https://www.lanacion.com.py/columnistas/2026/10/11/el-bcp-ya-hablo",
+          "publishedAt": "2026-10-11T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9tQKmOzLkfUm2om7z6AgKUpfTkc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MUKAT4X33NHVFLDOLUIDH4EHVU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/seHq96bF3Pr2qjGNDnJUmjHURxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PV7QO7PDRBH3JNBI5O57DBLMYY.JPG",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/11/sistema-financiero-se-fortalecio-en-liquidez-y-solvencia-en-el-ultimo-ano-segun-informe-del-bcp"
+      },
+      "firstSeenAt": "2026-10-11T18:54:12.868Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-11T23:34:27.949Z",
+      "updatedSlot": "tarde",
+      "score": 8.84
     },
     {
       "id": "ev-09e4fr7",
@@ -533,7 +667,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 6.67
+      "score": 6.28
     },
     {
       "id": "ev-0uh25yq",
@@ -574,47 +708,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 6.42
-    },
-    {
-      "id": "ev-1giivl4",
-      "title": "Senadores destacan la solidez financiera tras informe del Banco Central del Paraguay",
-      "summary": "Tras examinar el informe del BCP, el Senado ratificó la estabilidad del sistema financiero y descartó riesgos, resaltando la solvencia y efectividad de los controles bancarios. Tras examinar el informe del BCP, el Senado ratificó la estabilidad del sistema financiero y descartó riesgos, resaltando la solvencia y efectividad de los controles bancarios.",
-      "keyPoints": [
-        "Tras examinar el informe del BCP, el Senado ratificó la estabilidad del sistema financiero y descartó riesgos, resaltando la solvencia y efectividad de los controles bancarios."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senadores destacan la solidez financiera tras informe del Banco Central del Paraguay",
-          "url": "https://www.lanacion.com.py/politica/2026/10/11/senadores-destacan-la-solidez-financiera-tras-informe-del-banco-central-del-paraguay",
-          "publishedAt": "2026-10-11T11:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aDjmQMUnn6paGOhOsw5QLTh_IXQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W3HVUQ4OAJCXVGRU2XRYMJINQY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senadores destacan la solidez financiera tras informe del BCP",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/11/senadores-destacan-la-solidez-financiera-tras-informe-del-bcp",
-          "publishedAt": "2026-10-11T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aDjmQMUnn6paGOhOsw5QLTh_IXQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W3HVUQ4OAJCXVGRU2XRYMJINQY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/aDjmQMUnn6paGOhOsw5QLTh_IXQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W3HVUQ4OAJCXVGRU2XRYMJINQY.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/11/senadores-destacan-la-solidez-financiera-tras-informe-del-banco-central-del-paraguay"
-      },
-      "firstSeenAt": "2026-10-11T18:54:12.868Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-11T18:54:12.868Z",
-      "updatedSlot": "tarde",
-      "score": 6.34
+      "score": 6.04
     },
     {
       "id": "ev-1ihnhdg",
@@ -655,39 +749,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 6.25
-    },
-    {
-      "id": "ev-1iptucf",
-      "title": "Rubio Ñu vs. Olimpia: decimocuarta ronda del Clausura 2026 en vivo",
-      "summary": "Con realidades totalmente opuestas en la tabla, el local y el visitante se verán las caras con un objetivo común: la victoria. Por un lado, los albiverdes luchan metro a metro por evitar el fantasma del descenso; por el otro, los franjeados pugnan por revalidar el título y no perder pisada en la parte alta.",
-      "keyPoints": [
-        "Con realidades totalmente opuestas en la tabla, el local y el visitante se verán las caras con un objetivo común: la victoria."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Rubio Ñu vs. Olimpia: decimocuarta ronda del Clausura 2026 en vivo",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/10/11/rubio-nu-vs-olimpia-decimocuarta-ronda-del-clausura-2026-en-vivo",
-          "publishedAt": "2026-10-11T18:47:07.000Z",
-          "image": "https://www.abc.com.py/resizer/KQeNxNXbLr3BGtG67qO_68IudtA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EWEW7DGNSNARJMTDGRYEKAV46E.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.abc.com.py/resizer/KQeNxNXbLr3BGtG67qO_68IudtA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EWEW7DGNSNARJMTDGRYEKAV46E.jpg",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/10/11/rubio-nu-vs-olimpia-decimocuarta-ronda-del-clausura-2026-en-vivo"
-      },
-      "firstSeenAt": "2026-10-11T18:54:12.868Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-11T18:54:12.868Z",
-      "updatedSlot": "tarde",
-      "score": 5.99
+      "score": 5.86
     },
     {
       "id": "ev-1ph6bih",
@@ -719,7 +781,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 5.96
+      "score": 5.57
     },
     {
       "id": "ev-0raigam",
@@ -751,7 +813,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 5.92
+      "score": 5.54
     },
     {
       "id": "ev-11tr2xb",
@@ -783,7 +845,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 5.92
+      "score": 5.54
     },
     {
       "id": "ev-1phsv02",
@@ -815,7 +877,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 5.91
+      "score": 5.53
     },
     {
       "id": "ev-12alvrw",
@@ -847,7 +909,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-11T18:54:12.868Z",
       "updatedSlot": "tarde",
-      "score": 5.91
+      "score": 5.52
     }
   ],
   "runs": [
@@ -857,6 +919,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 32
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-11T23:34:27.949Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 12
     }
   ]
 }
