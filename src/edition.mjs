@@ -58,6 +58,7 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
         match.summaryKind = cand.summaryKind;
         match.model = cand.model;
         match.sources = merged;
+        match.image = cand.image ?? match.image ?? null;
         match.updatedAt = nowIso;
         match.updatedSlot = slot;
         updated += 1;
@@ -103,6 +104,7 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
       summaryKind: cand.summaryKind,
       model: cand.model,
       sources: cand.sources,
+      image: cand.image ?? null,
       firstSeenAt: nowIso,
       firstSlot: slot,
       updatedAt: nowIso,

@@ -1,7 +1,7 @@
 // Descarga y parseo de feeds (RSS, Atom, sitemap de noticias) con reintentos limitados.
 import { XMLParser } from "fast-xml-parser";
 import { FETCH_RETRIES, FETCH_TIMEOUT_MS, STALE_HOURS, USER_AGENT, WINDOW_HOURS } from "./config.mjs";
-import { canonicalUrl, excerptOf, hoursBetween, parseDate, shortId, squeeze, stripHtml } from "./text.mjs";
+import { canonicalUrl, decodeEntities, excerptOf, hoursBetween, parseDate, shortId, squeeze, stripHtml } from "./text.mjs";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -73,6 +73,36 @@ function asArray(x) {
   return Array.isArray(x) ? x : [x];
 }
 
+// Imagen de portada de una nota, tomada del feed (media:content, media:thumbnail, enclosure o
+// primer <img> del contenido). Siempre es la URL original del medio: no se copia el archivo.
+function imageFromItem(it) {
+  const candidates = [];
+  for (const m of [...asArray(it["media:content"]), ...asArray(it["media:thumbnail"])]) {
+    const url = m?.["@_url"];
+    const type = m?.["@_type"] ?? "";
+    const medium = m?.["@_medium"] ?? "";
+    if (url && (type.startsWith("image/") || medium === "image" || /\.(jpe?g|png|webp|gif)(\?|$)/i.test(url) || (!type && !medium))) candidates.push(url);
+  }
+  for (const e of asArray(it.enclosure)) {
+    const url = e?.["@_url"];
+    if (url && (e?.["@_type"] ?? "").startsWith("image/")) candidates.push(url);
+  }
+  const html = `${text(it["content:encoded"])} ${text(it.description)} ${text(it.content)} ${text(it.summary)}`;
+  const m = decodeEntities(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (m) candidates.push(m[1]);
+  return normalizeImageUrl(candidates[0]);
+}
+
+function normalizeImageUrl(url) {
+  if (!url) return null;
+  let u = String(url).trim();
+  if (u.startsWith("//")) u = "https:" + u;
+  if (u.startsWith("http://")) u = "https://" + u.slice(7);
+  if (!/^https:\/\//.test(u)) return null;
+  if (/\.(svg|gif)(\?|$)/i.test(u) || /(\/|_)(logo|placeholder|default|avatar|icon)/i.test(u)) return null;
+  return u;
+}
+
 function parseRss(xml) {
   const doc = parser.parse(xml);
   const channel = doc?.rss?.channel ?? doc?.["rdf:RDF"] ?? null;
@@ -83,6 +113,7 @@ function parseRss(xml) {
     publishedAt: parseDate(text(it.pubDate) || text(it["dc:date"]) || text(it.published)),
     body: text(it.description) || text(it["content:encoded"]) || "",
     fullBody: text(it["content:encoded"]) || "",
+    image: imageFromItem(it),
   }));
 }
 
@@ -99,6 +130,7 @@ function parseAtom(xml) {
       publishedAt: parseDate(text(e.published) || text(e.updated)),
       body: text(e.summary) || text(e.content) || "",
       fullBody: text(e.content) || "",
+      image: imageFromItem(e),
     };
   });
 }
@@ -129,19 +161,29 @@ async function parseNewsSitemap(xml) {
       body: "",
       fullBody: "",
       keywords: text(news["news:keywords"]),
+      image: normalizeImageUrl(text(asArray(u["image:image"])[0]?.["image:loc"])),
     };
   });
 }
 
-// Lee la meta description pública de una nota (no el artículo completo).
-async function fetchOgDescription(url) {
+function metaContent(head, names) {
+  for (const name of names) {
+    const m =
+      head.match(new RegExp(`<meta\\s+(?:property|name)=["']${name}["']\\s+content=["']([^"']*)["']`, "i")) ||
+      head.match(new RegExp(`<meta\\s+content=["']([^"']*)["']\\s+(?:property|name)=["']${name}["']`, "i"));
+    if (m) return m[1];
+  }
+  return "";
+}
+
+// Lee la meta description y la imagen pública (og:image) de una nota; no el artículo completo.
+async function fetchOgMeta(url) {
   const { body } = await fetchText(url, { retries: 0, accept: "text/html" });
   const head = body.slice(0, 200_000);
-  const m =
-    head.match(/<meta\s+(?:property|name)=["']og:description["']\s+content=["']([^"']*)["']/i) ||
-    head.match(/<meta\s+content=["']([^"']*)["']\s+(?:property|name)=["']og:description["']/i) ||
-    head.match(/<meta\s+name=["']description["']\s+content=["']([^"']*)["']/i);
-  return m ? squeeze(stripHtml(m[1])) : "";
+  return {
+    description: squeeze(stripHtml(metaContent(head, ["og:description", "description"]))),
+    image: normalizeImageUrl(decodeEntities(metaContent(head, ["og:image", "twitter:image"]))),
+  };
 }
 
 function statusFromItems(items, now) {
@@ -210,14 +252,18 @@ export async function fetchSource(source, { now = new Date(), log = console } = 
     let usable = status === "ok" ? fresh : [];
     usable.sort((a, b) => b.publishedAt - a.publishedAt);
 
-    if (source.enrich === "og-description" && usable.length) {
+    // "og-description": el feed solo trae título → se lee descripción e imagen de la nota.
+    // "og-image": el feed trae texto pero no imagen → se lee solo la imagen.
+    if ((source.enrich === "og-description" || source.enrich === "og-image") && usable.length) {
       const limit = Math.min(usable.length, source.maxEnrich ?? 12);
       usable = usable.slice(0, limit);
       for (let i = 0; i < usable.length; i++) {
         try {
-          usable[i].body = await fetchOgDescription(usable[i].url);
+          const meta = await fetchOgMeta(usable[i].url);
+          if (source.enrich === "og-description") usable[i].body = meta.description;
+          if (!usable[i].image) usable[i].image = meta.image;
         } catch (err) {
-          log.warn?.(`  ${source.name}: sin descripción para ${usable[i].url} (${err.message})`);
+          log.warn?.(`  ${source.name}: sin metadatos para ${usable[i].url} (${err.message})`);
         }
         if (i < usable.length - 1) await sleep(source.crawlDelayMs ?? 2000);
       }
@@ -230,6 +276,7 @@ export async function fetchSource(source, { now = new Date(), log = console } = 
       title: i.title,
       url: i.url,
       excerpt: excerptOf(i.body || i.fullBody || "", 700),
+      image: i.image ?? null,
       publishedAt: i.publishedAt.toISOString(),
       fetchedAt: now.toISOString(),
     }));

@@ -22,6 +22,15 @@ const log = {
   warn: (m) => console.warn(m),
 };
 
+// Foto referencial del acontecimiento: la de la nota cuyo título coincide con el del evento
+// (modo extractivo) o, si no, la más reciente que tenga imagen. Siempre con crédito al medio.
+function pickImage(d) {
+  const withImg = d.sources.filter((s) => s.image);
+  if (!withImg.length) return null;
+  const main = withImg.find((s) => s.title === d.title) ?? withImg[0];
+  return { url: main.image, credit: main.sourceName, articleUrl: main.url };
+}
+
 function fmtAsu(d) {
   return new Intl.DateTimeFormat("es-PY", { timeZone: TIMEZONE, dateStyle: "short", timeStyle: "short" }).format(d);
 }
@@ -63,6 +72,8 @@ async function main() {
       log.info(`  ${tag} ${r.name.padEnd(22)} notas=${String(r.items).padStart(3)} del día=${String(r.freshItems).padStart(3)} ${r.ms} ms ${r.error ? "· " + r.error : ""}${r.note && r.status !== "ok" ? " · " + r.note : ""}`);
     }
     run.sourcesOk = reports.filter((r) => r.status === "ok").length;
+    // Si casi ningún medio respondió, algo está roto (red, bug): no se toca la edición vigente.
+    if (run.sourcesOk < 2 && !CHECK_ONLY) throw new Error(`solo ${run.sourcesOk} medio(s) respondieron con notas del día; se conserva la edición anterior`);
     if (!DRY_RUN) await writeSources({ checkedAt: now.toISOString(), timezone: TIMEZONE, sources: reports });
     if (CHECK_ONLY) return 0;
 
@@ -103,9 +114,10 @@ async function main() {
         sources: d.articleIds
           .map((id) => articleById.get(id))
           .filter(Boolean)
-          .map((a) => ({ sourceId: a.sourceId, sourceName: a.sourceName, title: a.title, url: a.url, publishedAt: a.publishedAt })),
+          .map((a) => ({ sourceId: a.sourceId, sourceName: a.sourceName, title: a.title, url: a.url, publishedAt: a.publishedAt, image: a.image ?? null })),
       }))
-      .filter((d) => d.sources.length > 0);
+      .filter((d) => d.sources.length > 0)
+      .map((d) => ({ ...d, image: pickImage(d) }));
     log.info(`   ${candidates.length} acontecimientos redactados${stats.aiErrors.length ? ` · ${stats.aiErrors.length} lotes cayeron a modo extractivo` : ""}`);
 
     // 5) Edición

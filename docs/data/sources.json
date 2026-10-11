@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-11T18:03:08.819Z",
+  "checkedAt": "2026-10-11T18:54:12.868Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -15,10 +15,10 @@
       "items": 100,
       "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-10-11T17:55:16.000Z",
-      "ms": 1082,
+      "newestAt": "2026-10-11T18:47:07.000Z",
+      "ms": 337,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "lanacion",
@@ -31,12 +31,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 98,
+      "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-10-11T17:49:51.000Z",
-      "ms": 270,
+      "newestAt": "2026-10-11T18:24:19.000Z",
+      "ms": 299,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 183,
+      "items": 185,
       "freshItems": 81,
       "undated": 0,
-      "newestAt": "2026-10-11T17:41:33.000Z",
-      "ms": 93200,
+      "newestAt": "2026-10-11T18:25:53.000Z",
+      "ms": 93826,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "elnacional",
@@ -69,10 +69,10 @@
       "items": 65,
       "freshItems": 38,
       "undated": 0,
-      "newestAt": "2026-10-11T17:30:00.000Z",
-      "ms": 290,
+      "newestAt": "2026-10-11T18:00:00.000Z",
+      "ms": 318,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "adn",
@@ -88,9 +88,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-10-11T15:18:46.000Z",
-      "ms": 292,
+      "ms": 34351,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-10T13:29:51.000Z",
-      "ms": 588,
+      "ms": 208,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "telefuturo",
@@ -124,9 +124,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-09T19:01:41.000Z",
-      "ms": 599,
+      "ms": 196,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "vanguardia",
@@ -135,16 +135,16 @@
       "kind": "rss",
       "url": "https://www.diariovanguardia.com.py/feed/",
       "region": "Ciudad del Este",
-      "note": "Conecta bien pero no publicó notas en las últimas 24 h.",
-      "status": "quiet",
+      "note": "El feed devuelve notas antiguas; no se usa como información del día.",
+      "status": "stale",
       "httpStatus": 200,
       "items": 10,
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-09T18:16:52.000Z",
-      "ms": 4436,
+      "ms": 5781,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "hoy",
@@ -160,9 +160,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2023-12-31T14:00:25.000Z",
-      "ms": 1610,
+      "ms": 2089,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "ip",
@@ -178,9 +178,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-08-03T19:27:19.000Z",
-      "ms": 401,
+      "ms": 483,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     },
     {
       "id": "5dias",
@@ -198,7 +198,7 @@
       "newestAt": null,
       "ms": 0,
       "error": null,
-      "checkedAt": "2026-10-11T18:03:08.819Z"
+      "checkedAt": "2026-10-11T18:54:12.868Z"
     }
   ]
 }

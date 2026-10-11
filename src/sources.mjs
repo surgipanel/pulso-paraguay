@@ -45,6 +45,9 @@ export const SOURCES = [
     homepage: "https://www.adndigital.com.py",
     kind: "rss",
     url: "https://www.adndigital.com.py/feed/",
+    enrich: "og-image",
+    crawlDelayMs: 1500,
+    maxEnrich: 10,
     region: "Alto Paraná",
   },
   {
@@ -53,6 +56,9 @@ export const SOURCES = [
     homepage: "https://www.npy.com.py",
     kind: "rss",
     url: "https://www.npy.com.py/index.rss",
+    enrich: "og-image",
+    crawlDelayMs: 1500,
+    maxEnrich: 10,
     region: "nacional",
   },
   {
@@ -61,6 +67,9 @@ export const SOURCES = [
     homepage: "https://www.telefuturo.com.py",
     kind: "atom",
     url: "https://www.telefuturo.com.py/index.atom",
+    enrich: "og-image",
+    crawlDelayMs: 1500,
+    maxEnrich: 10,
     region: "nacional",
   },
   {
@@ -69,6 +78,9 @@ export const SOURCES = [
     homepage: "https://www.diariovanguardia.com.py",
     kind: "rss",
     url: "https://www.diariovanguardia.com.py/feed/",
+    enrich: "og-image",
+    crawlDelayMs: 1500,
+    maxEnrich: 10,
     region: "Ciudad del Este",
   },
   {

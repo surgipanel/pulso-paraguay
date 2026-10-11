@@ -20,14 +20,7 @@
   const catsEl = $("#cats");
   const searchInput = $("#search-input");
 
-  const state = {
-    latest: null,
-    edition: null, // edición mostrada actualmente
-    editions: {}, // cache por fecha
-    index: null,
-    sources: null,
-    saved: loadSaved(),
-  };
+  const state = { latest: null, editions: {}, index: null, sources: null, saved: loadSaved() };
 
   // ---------- utilidades ----------
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
@@ -40,6 +33,7 @@
   };
   const fold = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const distinctSources = (ev) => [...new Map(ev.sources.map((s) => [s.sourceId, s.sourceName])).values()];
+  const latestAt = (ev) => ev.sources.map((s) => s.publishedAt).sort().at(-1);
   const relTime = (iso) => {
     if (!iso) return "";
     const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
@@ -51,16 +45,10 @@
   };
 
   function loadSaved() {
-    try {
-      return JSON.parse(localStorage.getItem(SAVED_KEY) || "{}");
-    } catch {
-      return {};
-    }
+    try { return JSON.parse(localStorage.getItem(SAVED_KEY) || "{}"); } catch { return {}; }
   }
   function persistSaved() {
-    try {
-      localStorage.setItem(SAVED_KEY, JSON.stringify(state.saved));
-    } catch {}
+    try { localStorage.setItem(SAVED_KEY, JSON.stringify(state.saved)); } catch {}
     const n = Object.keys(state.saved).length;
     const b = $("#saved-count");
     b.textContent = n;
@@ -73,7 +61,7 @@
   }
 
   async function getJson(path) {
-    const res = await fetch(`${path}${path.includes("?") ? "&" : "?"}t=${Math.floor(Date.now() / 60000)}`, { cache: "no-cache" });
+    const res = await fetch(`${path}?t=${Math.floor(Date.now() / 60000)}`, { cache: "no-cache" });
     if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
     return res.json();
   }
@@ -90,18 +78,16 @@
       statusEl.innerHTML = `<span class="dot bad"></span> Todavía no hay ninguna edición publicada.`;
       return;
     }
-    const mode = l.aiMode === "ia" ? `Resúmenes con IA (${esc(l.model)})` : l.aiMode === "mixto" ? `Resúmenes con IA y extractos (${esc(l.model)})` : "Resúmenes extractivos, sin IA";
-    const parts = [
-      `<span class="dot ${l.ok ? "" : "bad"}"></span>`,
-      `<span>Última actualización: <b>${esc(fmtDateTime(l.generatedAt))}</b> (hora de Asunción, ${esc(relTime(l.generatedAt))})</span>`,
-      `<span class="pill">Edición del ${esc(l.editionDate)}: ${l.eventsCount} de hasta ${l.maxEvents ?? 20} acontecimientos</span>`,
-      `<span class="pill">${mode}</span>`,
-    ];
-    statusEl.innerHTML = parts.join(" ");
+    const mode = l.aiMode === "ia" ? `redacción con IA` : l.aiMode === "mixto" ? `redacción con IA y extractos` : `resúmenes extractivos, sin IA`;
+    statusEl.innerHTML = `
+      <span class="dot ${l.ok ? "" : "bad"}"></span>
+      <span>Actualizado <b>${esc(fmtDateTime(l.generatedAt))}</b> · hora de Asunción · ${esc(relTime(l.generatedAt))}</span>
+      <span>·</span><span>${l.eventsCount} de hasta ${l.maxEvents ?? 20} acontecimientos</span>
+      <span>·</span><span>${mode}</span>`;
     if (!l.ok) {
       statusEl.insertAdjacentHTML("beforeend", `<div class="alert" style="flex-basis:100%">⚠️ ${esc(l.message || "La última actualización falló.")} Se muestra la última edición válida${l.lastSuccessAt ? `, generada el ${esc(fmtDateTime(l.lastSuccessAt))}` : ""}.</div>`);
     }
-    $("#foot-meta").textContent = `Datos: ${l.editions ?? 1} ${l.editions === 1 ? "edición" : "ediciones"} en el archivo · Zona horaria ${TZ}.`;
+    $("#foot-meta").textContent = `${l.editions ?? 1} ${l.editions === 1 ? "edición" : "ediciones"} en el archivo · Zona horaria ${TZ}. Las fotos se muestran desde el sitio de cada medio y les pertenecen.`;
   }
 
   function renderCats(active) {
@@ -115,24 +101,35 @@
   }
 
   // ---------- tarjetas ----------
-  function cardHtml(ev, editionDate, { lead = false } = {}) {
+  function mediaHtml(ev, { credit = false } = {}) {
+    const initial = (CAT_LABEL[ev.category] ?? "P")[0];
+    if (!ev.image?.url) return `<div class="media is-empty" data-initial="${esc(initial)}"></div>`;
+    return `<div class="media" data-initial="${esc(initial)}">
+      <img src="${esc(ev.image.url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('is-empty')">
+      ${credit ? `<span class="media__credit">Foto: ${esc(ev.image.credit)}</span>` : ""}
+    </div>`;
+  }
+
+  function cardHtml(ev, editionDate, variant = "") {
     const srcs = distinctSources(ev);
     const saved = Boolean(state.saved[ev.id]);
-    const updated = ev.updatedSlot && ev.updatedAt !== ev.firstSeenAt;
-    const latestAt = ev.sources.map((s) => s.publishedAt).sort().at(-1);
+    const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
     return `
-      <article class="card ${lead ? "card--lead" : ""}">
-        <div class="card__meta">
-          <span class="cat">${esc(CAT_LABEL[ev.category] ?? ev.category)}</span>
-          <span>·</span><span>${esc(fmtTime(latestAt))}</span>
-          ${updated ? `<span class="tag updated">actualizado ${esc(fmtTime(ev.updatedAt))}</span>` : ""}
-          ${ev.summaryKind === "extractivo" ? `<span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}
-        </div>
-        <h2 class="card__title"><a href="#/noticia/${esc(ev.id)}?e=${esc(editionDate)}">${esc(ev.title)}</a></h2>
-        <p class="card__summary">${esc(ev.summary)}</p>
-        <div class="card__foot">
-          <div class="sources-mini" title="${esc(srcs.join(", "))}">${srcs.slice(0, 4).map((s) => `<span class="chip">${esc(s)}</span>`).join("")}${srcs.length > 4 ? `<span class="chip">+${srcs.length - 4}</span>` : ""}</div>
-          <button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(editionDate)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "☆ Guardar"}</button>
+      <article class="card ${variant}">
+        ${mediaHtml(ev)}
+        <div class="card__body">
+          <div class="card__meta">
+            <span class="cat">${esc(CAT_LABEL[ev.category] ?? ev.category)}</span>
+            <span>${esc(fmtTime(latestAt(ev)))}</span>
+            ${updated ? `<span class="tag updated">actualizado</span>` : ""}
+            ${ev.summaryKind === "extractivo" ? `<span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}
+          </div>
+          <h3 class="card__title"><a href="#/noticia/${esc(ev.id)}?e=${esc(editionDate)}">${esc(ev.title)}</a></h3>
+          <p class="card__summary">${esc(ev.summary)}</p>
+          <div class="card__foot">
+            <div class="sources-mini" title="${esc(srcs.join(", "))}">${srcs.slice(0, 3).map((s) => `<span class="chip">${esc(s)}</span>`).join("")}${srcs.length > 3 ? `<span class="chip">+${srcs.length - 3}</span>` : ""}</div>
+            <button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(editionDate)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "☆ Guardar"}</button>
+          </div>
         </div>
       </article>`;
   }
@@ -152,33 +149,50 @@
     });
   }
 
-  function listView({ title, events, editionDate, count, emptyText, lead = true }) {
+  function gridView({ title, events, editionDate, count, emptyText }) {
     main.innerHTML = `
       <div class="section-title"><h1>${esc(title)}</h1><span class="count">${esc(count ?? "")}</span></div>
-      ${events.length ? `<div class="grid">${events.map((ev, i) => cardHtml(ev, editionDate, { lead: lead && i === 0 })).join("")}</div>` : `<p class="empty">${esc(emptyText || "No hay acontecimientos en esta sección.")}</p>`}`;
+      ${events.length ? `<div class="grid">${events.map((ev) => cardHtml(ev, editionDate)).join("")}</div>` : `<p class="empty">${esc(emptyText || "No hay acontecimientos en esta sección.")}</p>`}`;
     const byId = new Map(events.map((e) => [e.id, e]));
     bindSaveButtons(main, (id) => byId.get(id));
   }
 
   // ---------- vistas ----------
-  async function viewHome(category, archiveDate) {
+  async function viewHome(archiveDate) {
     const date = archiveDate || state.latest?.editionDate;
     const edition = await loadEdition(date);
-    renderCats(category);
+    renderCats("");
     setActiveNav(archiveDate ? "archivo" : "");
-    if (!edition) {
-      main.innerHTML = `<p class="empty">Todavía no hay una edición publicada. Ejecutá la actualización para generar la primera.</p>`;
+    if (!edition || !edition.events.length) {
+      main.innerHTML = `<p class="empty">Todavía no hay una edición publicada.</p>`;
       return;
     }
-    const events = category ? edition.events.filter((e) => e.category === category) : edition.events;
-    const title = archiveDate ? `Edición del ${fmtDay(date)}` : category ? CAT_LABEL[category] : `Lo que pasó · ${fmtDay(date)}`;
-    listView({
-      title,
-      events,
-      editionDate: date,
-      count: `${events.length} ${events.length === 1 ? "acontecimiento" : "acontecimientos"}${category ? "" : ` de hasta ${edition.maxEvents ?? 20} por día`}`,
-      emptyText: category ? `Hoy no hay acontecimientos verificados en ${CAT_LABEL[category]}.` : "La edición está vacía.",
-    });
+    const events = edition.events; // ya vienen ordenados por cobertura y recencia
+    const hero = events.slice(0, 3);
+    const rest = events.slice(3);
+    const sections = CATS.map((c) => ({ ...c, events: rest.filter((e) => e.category === c.id) })).filter((s) => s.events.length);
+    main.innerHTML = `
+      <div class="section-title"><h1>${archiveDate ? "Edición del " : ""}${esc(fmtDay(date))}</h1><span class="count">${events.length} acontecimientos · ${edition.aiMode === "extractivo" ? "sin IA" : "con IA"}</span></div>
+      <div class="hero">
+        ${cardHtml(hero[0], date, "card--lead")}
+        ${hero.slice(1).map((ev) => cardHtml(ev, date, "card--row")).join("")}
+      </div>
+      ${sections.map((s) => `
+        <section class="section">
+          <div class="section-title"><h2>${esc(s.label)}</h2><a class="more" href="#/categoria/${s.id}">Ver todo ${esc(s.label)} →</a></div>
+          <div class="grid grid--4">${s.events.map((ev) => cardHtml(ev, date)).join("")}</div>
+        </section>`).join("")}`;
+    const byId = new Map(events.map((e) => [e.id, e]));
+    bindSaveButtons(main, (id) => byId.get(id));
+  }
+
+  async function viewCategory(category) {
+    const date = state.latest?.editionDate;
+    const edition = await loadEdition(date);
+    renderCats(category);
+    setActiveNav("");
+    const events = (edition?.events ?? []).filter((e) => e.category === category);
+    gridView({ title: CAT_LABEL[category] ?? category, events, editionDate: date, count: `${events.length} hoy`, emptyText: `Hoy no hay acontecimientos verificados en ${CAT_LABEL[category] ?? category}.` });
   }
 
   async function viewDetail(id, editionDate) {
@@ -203,14 +217,15 @@
     const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
     main.innerHTML = `
       <article class="detail">
-        <a class="back" href="javascript:history.length>1?history.back():location.assign('#/')">← Volver</a>
+        <a class="back" href="#/">← Portada</a>
         <div class="card__meta">
           <span class="cat">${esc(CAT_LABEL[ev.category] ?? ev.category)}</span>
-          <span>·</span><span>Edición del ${esc(date)}</span>
+          <span>Edición del ${esc(date)}</span>
           ${updated ? `<span class="tag updated">actualizado ${esc(fmtDateTime(ev.updatedAt))}</span>` : ""}
           ${ev.summaryKind === "extractivo" ? `<span class="tag extractivo">resumen sin IA</span>` : `<span class="tag">resumen con IA</span>`}
         </div>
         <h1>${esc(ev.title)}</h1>
+        ${ev.image?.url ? `${mediaHtml(ev, { credit: true })}<p class="photo-credit">Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</p>` : ""}
         <p class="lead">${esc(ev.summary)}</p>
         <button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(date)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "☆ Guardar"}</button>
         <h2>Puntos clave</h2>
@@ -232,7 +247,6 @@
       <div class="section-title"><h1>Noticias guardadas</h1><span class="count">${items.length}</span></div>
       ${items.length ? `<div class="grid">${items.map((it) => cardHtml(it.event, it.editionDate)).join("")}</div>` : `<p class="empty">Todavía no guardaste nada. Tocá “Guardar” en cualquier acontecimiento; queda en este dispositivo.</p>`}`;
     bindSaveButtons(main, (id) => state.saved[id]?.event);
-    // Al quitar desde esta vista, se refresca la lista.
     main.querySelectorAll("[data-save]").forEach((b) => b.addEventListener("click", () => setTimeout(viewSaved, 150)));
   }
 
@@ -240,11 +254,7 @@
     renderCats(null);
     setActiveNav("medios");
     if (!state.sources) {
-      try {
-        state.sources = await getJson("data/sources.json");
-      } catch {
-        state.sources = { sources: [] };
-      }
+      try { state.sources = await getJson("data/sources.json"); } catch { state.sources = { sources: [] }; }
     }
     const S = { ok: ["ok", "Conectado"], quiet: ["warn", "Sin notas recientes"], stale: ["warn", "Devuelve notas viejas"], error: ["bad", "Error"], unavailable: ["bad", "Sin feed público"] };
     const rows = (state.sources.sources ?? []).map((s) => {
@@ -269,20 +279,16 @@
     renderCats(null);
     setActiveNav("archivo");
     if (!state.index) {
-      try {
-        state.index = await getJson("data/editions/index.json");
-      } catch {
-        state.index = [];
-      }
+      try { state.index = await getJson("data/editions/index.json"); } catch { state.index = []; }
     }
     main.innerHTML = `
       <div class="section-title"><h1>Archivo de ediciones</h1><span class="count">${state.index.length}</span></div>
       ${state.index.length ? `<ul class="editions">${state.index
-        .map((e) => `<li><div><div class="ed-date"><a href="#/archivo/${esc(e.date)}">${esc(fmtDay(e.date))}</a></div><div class="ed-head">${esc(e.headline || "")}</div></div><span class="count" style="color:var(--muted);font-size:13px;white-space:nowrap">${e.events} acont.</span></li>`)
+        .map((e) => `<li><div><div class="ed-date"><a href="#/archivo/${esc(e.date)}">${esc(fmtDay(e.date))}</a></div><div class="ed-head">${esc(e.headline || "")}</div></div><span style="color:var(--muted);font-size:13px;white-space:nowrap">${e.events} acont.</span></li>`)
         .join("")}</ul>` : `<p class="empty">Todavía no hay ediciones archivadas.</p>`}`;
   }
 
-  async function viewSearch(q) {
+  async function viewSearch(q, all) {
     renderCats(null);
     setActiveNav("");
     const needle = fold(q).trim();
@@ -290,18 +296,18 @@
     if (!needle) return viewHome();
     const matches = (ev) => [ev.title, ev.summary, ...(ev.keyPoints || []), ...ev.sources.map((s) => `${s.sourceName} ${s.title}`)].some((t) => fold(t).includes(needle));
     const current = state.latest?.editionDate;
-    const ed = await loadEdition(current);
-    let results = (ed?.events ?? []).filter(matches).map((e) => ({ ev: e, date: current }));
+    let results = [];
     let scope = "la edición de hoy";
-    const all = new URLSearchParams(location.hash.split("?")[1] || "").get("todo") === "1";
     if (all) {
       if (!state.index) state.index = await getJson("data/editions/index.json").catch(() => []);
-      results = [];
       for (const e of state.index) {
         const x = await loadEdition(e.date).catch(() => null);
         for (const ev of x?.events ?? []) if (matches(ev)) results.push({ ev, date: e.date });
       }
       scope = `todas las ediciones (${state.index.length})`;
+    } else {
+      const ed = await loadEdition(current);
+      results = (ed?.events ?? []).filter(matches).map((e) => ({ ev: e, date: current }));
     }
     main.innerHTML = `
       <div class="section-title"><h1>Resultados para “${esc(q)}”</h1><span class="count">${results.length} en ${esc(scope)}</span></div>
@@ -320,13 +326,13 @@
     window.scrollTo({ top: 0 });
     try {
       if (parts.length === 0) return await viewHome();
-      if (parts[0] === "categoria") return await viewHome(parts[1]);
+      if (parts[0] === "categoria") return await viewCategory(parts[1]);
       if (parts[0] === "noticia") return await viewDetail(parts[1], params.get("e"));
       if (parts[0] === "guardadas") return viewSaved();
       if (parts[0] === "medios") return await viewSources();
-      if (parts[0] === "archivo" && parts[1]) return await viewHome(null, parts[1]);
+      if (parts[0] === "archivo" && parts[1]) return await viewHome(parts[1]);
       if (parts[0] === "archivo") return await viewArchive();
-      if (parts[0] === "buscar") return await viewSearch(params.get("q") || "");
+      if (parts[0] === "buscar") return await viewSearch(params.get("q") || "", params.get("todo") === "1");
       return await viewHome();
     } catch (err) {
       main.innerHTML = `<p class="empty">No se pudo cargar esta sección (${esc(err.message)}).</p>`;
@@ -341,11 +347,7 @@
 
   async function boot() {
     persistSaved();
-    try {
-      state.latest = await getJson("data/latest.json");
-    } catch {
-      state.latest = null;
-    }
+    try { state.latest = await getJson("data/latest.json"); } catch { state.latest = null; }
     renderStatus();
     window.addEventListener("hashchange", route);
     await route();
