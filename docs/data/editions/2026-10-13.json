@@ -1,20 +1,20 @@
 {
   "date": "2026-10-13",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-13T15:51:30.494Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-13T23:41:59.716Z",
+  "aiMode": "ia",
+  "model": "claude-opus-5-5",
   "maxEvents": 20,
   "events": [
     {
       "id": "ev-0vlxxeo",
-      "title": "Alliana admite que Cartes se inclinaría por Baruja como candidato de HC para 2028",
-      "summary": "El vicepresidente Pedro Alliana afirmó que el ministro de Urbanismo, Juan Carlos Baruja, sería el candidato presidencial de Honor Colorado para 2028 en su reemplazo, aunque dijo no haber recibido comunicación oficial. Señaló que no se bajará por ahora. El senador Silvio Ovelar se declaró dolido, mientras el presidente del Congreso, Basilio Núñez, dijo desconocer la situación y que se definirá tras una reunión de la dirigencia.",
+      "title": "Cartes aparta a Alliana de la chapa de Honor Colorado y apuesta por Baruja",
+      "summary": "El vicepresidente Pedro Alliana confirmó en conferencia de prensa que Horacio Cartes decidió reemplazarlo por Juan Carlos Baruja como precandidato presidencial de Honor Colorado para 2028. Alliana dijo que su candidatura sigue firme, cuestionó que no se le comunicara directamente y señaló que definirá sus próximos pasos. Según Última Hora, junto a Santiago Peña busca evitar una ruptura y no descarta competir en internas.",
       "keyPoints": [
-        "Alliana dijo estar prácticamente seguro de que Baruja lo reemplazaría como candidato de HC.",
-        "Según versiones citadas por medios, Horacio Cartes habría retirado su respaldo a Alliana.",
-        "Alliana aseguró que no dará un paso al costado por el momento.",
-        "Basilio Núñez afirmó desconocer la situación de la chapa presidencial."
+        "Alliana confirmó que Cartes impulsa a Juan Carlos Baruja para encabezar la chapa de HC.",
+        "Según Alliana, Santiago Peña le confirmó la decisión de Cartes.",
+        "Alliana afirmó que mantiene su precandidatura y recibió ofrecimientos, entre ellos el Senado.",
+        "Miguel Prieto dijo que había anticipado el cambio tras las elecciones municipales."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,52 +22,68 @@
       "model": "claude-opus-5-5",
       "sources": [
         {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Alliana dice que Baruja lo reemplazaría como candidato de HC para el 2028",
-          "url": "https://www.adndigital.com.py/alliana-dice-que-baruja-lo-reemplazaria-como-candidato-de-hc-para-el-2028",
-          "publishedAt": "2026-10-13T13:16:06.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/pedro-alliana.jpg"
-        },
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Cartes le bajaría el pulgar a Alliana y apostaría por Baruja para 2028",
-          "url": "https://diariovanguardia.com.py/cartes-le-bajaria-el-pulgar-a-alliana-y-apostaria-por-baruja-para-2028",
-          "publishedAt": "2026-10-13T13:04:44.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/HC-y-baruja.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Golpe a Alliana: HC apuesta por Baruja para 2028",
-          "url": "https://elnacional.com.py/politica/golpe-alliana-hc-apuesta-baruja-2028-n113515",
-          "publishedAt": "2026-10-13T12:34:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69e8da50c8640.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Versiones sobre un posible cambio de candidato generan tensiones en Honor Colorado",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/versiones-sobre-un-posible-cambio-de-candidato-generan-tensiones-en-honor-colorado",
-          "publishedAt": "2026-10-13T13:55:54.000Z",
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Alliana y Peña resisten en Honor Colorado y evitan ruptura pese a exclusión de Cartes",
+          "url": "https://www.ultimahora.com/alliana-y-pena-resisten-en-honor-colorado-y-evitan-ruptura-pese-a-exclusion-de-cartes",
+          "publishedAt": "2026-10-13T22:19:10.000Z",
           "image": null
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Alliana ya no estaría en la chapa de Honor Colorado para el 2028",
-          "url": "https://www.abc.com.py/politica/2026/10/13/cartes-aparta-a-alliana-de-la-chapa-de-honor-colorado-para-el-2028-confirma-el-vicepresidente",
-          "publishedAt": "2026-10-13T12:31:11.000Z",
-          "image": "https://www.abc.com.py/resizer/1V8wt64RqO4-bfYCNUy3I32Rtv4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IBRO7FSJYRHWHDR2JTZ46XWAZQ.jpg"
+          "title": "Alliana fuera de la chapa de HC: “No me equivoqué” dijo el presidenciable Miguel Prieto",
+          "url": "https://www.abc.com.py/politica/2026/10/13/alliana-fuera-de-la-chapa-de-hc-no-me-equivoque-dijo-el-presidenciable-miguel-prieto",
+          "publishedAt": "2026-10-13T20:20:57.000Z",
+          "image": "https://www.abc.com.py/resizer/yCw5bEok-541v6uf0Yr8HIWcjqc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ASJSBSAQZNBPVENOWKBSVBOTKE.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Honor Colorado: ¿cambia de chapa presidencial?",
+          "url": "https://www.telefuturo.com.py/honor-colorado-cambia-de-chapa-presidencial",
+          "publishedAt": "2026-10-13T17:36:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Pedro Alliana confirma que Horacio Cartes lo reemplazó por Juan Carlos Baruja en la chapa presidencial",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-confirma-que-horacio-cartes-lo-reemplazo-por-juan-carlos-baruja-en-la-chapa-presidencial",
+          "publishedAt": "2026-10-13T17:25:22.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Reclamar a Cartes le habría costado a Alliana la precandidatura",
+          "url": "https://diariovanguardia.com.py/reclamar-a-cartes-le-habria-costado-a-alliana-la-precandidatura",
+          "publishedAt": "2026-10-13T17:21:13.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/alliana-y-santi-1024x650.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana confirma cambio de chapa en Honor Colorado",
+          "url": "https://www.lanacion.com.py/politica/2026/10/13/alliana-confirma-cambio-de-chapa-en-honor-colorado",
+          "publishedAt": "2026-10-13T16:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/37ZjysFjYm4ub6KVJr_JXRhT5yw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X5GUIUYG35BSLBN4J26PHIBSX4.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana sobre decisión de Cartes: \"Mi candidatura hoy sigue firme\"",
+          "url": "https://elnacional.com.py/politica/alliana-sobre-decision-cartes-mi-candidatura-hoy-sigue-firme-n113548",
+          "publishedAt": "2026-10-13T16:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "“Bachi” Núñez desconoce situación de la chapa presidencial de Honor Colorado",
-          "url": "https://www.abc.com.py/politica/2026/10/13/bachi-nunez-desconoce-situacion-de-la-chapa-presidencial-de-honor-colorado",
-          "publishedAt": "2026-10-13T14:19:41.000Z",
-          "image": "https://www.abc.com.py/resizer/_DSc1ZSGQN-ohG1_vRaEoGXduU8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BXFLLJUUFRF2RJPRDXDISH3SQQ.jpg"
+          "title": "Crisis en Honor Colorado: un “dolido” Silvio Ovelar afirma que apoya a Pedro Alliana",
+          "url": "https://www.abc.com.py/politica/2026/10/13/crisis-en-honor-colorado-un-dolido-silvio-ovelar-afirma-que-apoya-a-pedro-alliana",
+          "publishedAt": "2026-10-13T14:44:25.000Z",
+          "image": "https://www.abc.com.py/resizer/cH3GpQLulALgTT-2Jqr7R_f4_EQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/73BV3YV53VDMVARVRY4RPDVXJU.jpg"
         },
         {
           "sourceId": "ultimahora",
@@ -88,38 +104,239 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Crisis en Honor Colorado: un “dolido” Silvio Ovelar afirma que apoya a Pedro Alliana",
-          "url": "https://www.abc.com.py/politica/2026/10/13/crisis-en-honor-colorado-un-dolido-silvio-ovelar-afirma-que-apoya-a-pedro-alliana",
-          "publishedAt": "2026-10-13T14:44:25.000Z",
-          "image": "https://www.abc.com.py/resizer/cH3GpQLulALgTT-2Jqr7R_f4_EQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/73BV3YV53VDMVARVRY4RPDVXJU.jpg"
+          "title": "“Bachi” Núñez desconoce situación de la chapa presidencial de Honor Colorado",
+          "url": "https://www.abc.com.py/politica/2026/10/13/bachi-nunez-desconoce-situacion-de-la-chapa-presidencial-de-honor-colorado",
+          "publishedAt": "2026-10-13T14:19:41.000Z",
+          "image": "https://www.abc.com.py/resizer/_DSc1ZSGQN-ohG1_vRaEoGXduU8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BXFLLJUUFRF2RJPRDXDISH3SQQ.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Versiones sobre un posible cambio de candidato generan tensiones en Honor Colorado",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/versiones-sobre-un-posible-cambio-de-candidato-generan-tensiones-en-honor-colorado",
+          "publishedAt": "2026-10-13T13:55:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Baruja encabezaría la chapa oficialista: Alliana revela conversación con Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/10/13/baruja-encabezaria-la-chapa-oficialista-alliana-revela-conversacion-con-pena",
+          "publishedAt": "2026-10-13T13:48:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/S8X3tOMQxvln2AgA8LyUbYlJyRE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PNESYKUCBRCOPLZAFIZWGMT5NM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana dice que Baruja lo reemplazaría como candidato de HC para el 2028",
+          "url": "https://www.adndigital.com.py/alliana-dice-que-baruja-lo-reemplazaria-como-candidato-de-hc-para-el-2028",
+          "publishedAt": "2026-10-13T13:16:06.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/pedro-alliana.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Cartes le bajaría el pulgar a Alliana y apostaría por Baruja para 2028",
+          "url": "https://diariovanguardia.com.py/cartes-le-bajaria-el-pulgar-a-alliana-y-apostaria-por-baruja-para-2028",
+          "publishedAt": "2026-10-13T13:04:44.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/HC-y-baruja.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana apunta a Cartes tras quedar fuera de la chapa: \"No es la forma\"",
+          "url": "https://elnacional.com.py/politica/alliana-apunta-cartes-tras-quedar-fuera-chapa-no-forma-n113519",
+          "publishedAt": "2026-10-13T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac296fb58b07.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Golpe a Alliana: HC apuesta por Baruja para 2028",
+          "url": "https://elnacional.com.py/politica/golpe-alliana-hc-apuesta-baruja-2028-n113515",
+          "publishedAt": "2026-10-13T12:34:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69e8da50c8640.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alliana ya no estaría en la chapa de Honor Colorado para el 2028",
+          "url": "https://www.abc.com.py/politica/2026/10/13/cartes-aparta-a-alliana-de-la-chapa-de-honor-colorado-para-el-2028-confirma-el-vicepresidente",
+          "publishedAt": "2026-10-13T12:31:11.000Z",
+          "image": "https://www.abc.com.py/resizer/1V8wt64RqO4-bfYCNUy3I32Rtv4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IBRO7FSJYRHWHDR2JTZ46XWAZQ.jpg"
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/pedro-alliana.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/alliana-dice-que-baruja-lo-reemplazaria-como-candidato-de-hc-para-el-2028"
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/alliana-y-santi-1024x650.jpeg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/reclamar-a-cartes-le-habria-costado-a-alliana-la-precandidatura"
       },
       "firstSeenAt": "2026-10-13T15:51:30.494Z",
       "firstSlot": "tarde",
-      "updatedAt": "2026-10-13T15:51:30.494Z",
+      "updatedAt": "2026-10-13T23:41:59.716Z",
       "updatedSlot": "tarde",
-      "score": 23.91
+      "score": 29.88
+    },
+    {
+      "id": "ev-0k5jtw5",
+      "title": "El papa León XIV fue operado con éxito de un adenocarcinoma pulmonar",
+      "summary": "El papa León XIV, de 71 años, fue operado en el Hospital Gemelli de Roma, donde le extirparon el lóbulo inferior del pulmón derecho mediante cirugía videoasistida. Según la oficina de prensa del Vaticano, un examen confirmó un adenocarcinoma pulmonar y la intervención duró unos 90 minutos sin complicaciones. La recuperación podría tomar una semana, antes de su viaje previsto a Uruguay, Argentina y Perú en noviembre.",
+      "keyPoints": [
+        "El Vaticano confirmó el diagnóstico de adenocarcinoma pulmonar.",
+        "La cirugía duró unos 90 minutos y fue exitosa, según la Santa Sede.",
+        "Argentina deseó su recuperación y sigue preparando la visita papal."
+      ],
+      "category": "pais",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El tipo de cáncer que afecta al Papa León XIV y que lo llevó a una cirugía hoy",
+          "url": "https://www.abc.com.py/internacionales/2026/10/13/leon-xiv-es-operado-de-un-adenocarcinoma-un-tipo-de-cancer-de-pulmon",
+          "publishedAt": "2026-10-13T22:36:32.000Z",
+          "image": "https://www.abc.com.py/resizer/oiiABNSZRIBcZlA8Lzl1o2QHL0E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ELNL7GEBGZHWPMU4KL32ABTJDE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El Vaticano informó que al papa León XIV le extirparon un tumor canceroso del pulmón",
+          "url": "https://www.adndigital.com.py/el-vaticano-informo-que-al-papa-leon-xiv-le-extirparon-un-tumor-canceroso-del-pulmon",
+          "publishedAt": "2026-10-13T21:49:35.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-18-at-083422.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El papa León XIV es operado de un adenocarcinoma, un tipo de cáncer de pulmón",
+          "url": "https://www.ultimahora.com/el-papa-leon-xiv-es-operado-de-un-adenocarcinoma-un-tipo-de-cancer-de-pulmon",
+          "publishedAt": "2026-10-13T21:42:05.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Argentina desea pronta recuperación a León XIV y prosigue con preparativos para su visita",
+          "url": "https://www.abc.com.py/internacionales/2026/10/13/argentina-desea-pronta-recuperacion-a-leon-xiv-y-prosigue-con-preparativos-para-su-visita",
+          "publishedAt": "2026-10-13T20:55:16.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Médicos confirman que el papa León XIV tiene cáncer de pulmón",
+          "url": "https://elnacional.com.py/mundo/medicos-confirman-papa-leon-xiv-tiene-cancer-pulmon-n113557",
+          "publishedAt": "2026-10-13T20:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa81d8bec93c.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Médicos detectan una masa cancerosa en el pulmón del papa León XIV",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/13/medicos-detectan-una-masa-cancerosa-en-el-pulmon-del-papa-leon-xiv",
+          "publishedAt": "2026-10-13T20:47:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3-ZK3kR_jNvDZ_djbu4_6RB-EJ0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJHE6O3MJZFNZGCATTMHYCJHME.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Papa León XIV fue operado de un adenocarcinoma pulmonar",
+          "url": "https://www.abc.com.py/internacionales/2026/10/13/el-papa-ha-sido-operado-de-un-adenocarcinoma-pulmonar",
+          "publishedAt": "2026-10-13T20:35:07.000Z",
+          "image": "https://www.abc.com.py/resizer/zchqI1W7eoT5-15IQvnsIFiefbk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AJHXS2MQOZFDRLXJH4K5N3CN5I.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El Vaticano confirmó que la cirugía del papa León XIV \"concluyó con éxito\"",
+          "url": "https://elnacional.com.py/mundo/el-vaticano-confirmo-cirugia-papa-leon-xiv-concluyo-exito-n113554",
+          "publishedAt": "2026-10-13T20:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace8648cf640.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa León XIV se somete este martes a una cirugía de bajo riesgo",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/13/el-papa-leon-xiv-se-somete-este-martes-a-una-cirugia-de-bajo-riesgo",
+          "publishedAt": "2026-10-13T14:04:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BDL4IRdEkdKlmFnxpxp0Uhk_E4k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7PE3R4GUQFCSTON74CSSW4JALE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El papa León XIV será operado de pulmón este martes",
+          "url": "https://elnacional.com.py/mundo/el-papa-leon-xiv-sera-operado-pulmon-martes-n113522",
+          "publishedAt": "2026-10-13T13:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6abd02e7e1976.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "El papa León XIV será internado este martes para someterse a una cirugía",
+          "url": "https://diariovanguardia.com.py/el-papa-leon-xiv-sera-internado-este-martes-para-someterse-a-una-cirugia",
+          "publishedAt": "2026-10-13T12:45:02.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/PAG-9B-2.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Salud del papa León XIV: ¿qué es un nódulo pulmonar?",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/13/salud-del-papa-leon-xiv-que-es-un-nodulo-pulmonar",
+          "publishedAt": "2026-10-13T09:16:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8WbjpKfK_NOjoT_rgJ9Cx8QGmXU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WAEOAO6N5RB3DNFWJBYTVRNAUQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa León XIV será hospitalizado este martes en Roma para ser operado del pulmón",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/13/el-papa-leon-xiv-sera-hospitalizado-este-martes-en-roma-para-ser-operado-del-pulmon",
+          "publishedAt": "2026-10-13T09:06:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nWmEkPNWQBNbDDFpzoz6t1QB8V8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WM2HIY23NBFORMOFYCXO36B7KU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/oiiABNSZRIBcZlA8Lzl1o2QHL0E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ELNL7GEBGZHWPMU4KL32ABTJDE.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/13/leon-xiv-es-operado-de-un-adenocarcinoma-un-tipo-de-cancer-de-pulmon"
+      },
+      "firstSeenAt": "2026-10-13T15:51:30.494Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-13T23:41:59.716Z",
+      "updatedSlot": "tarde",
+      "score": 21.41
     },
     {
       "id": "ev-10gzdcp",
-      "title": "Los 15 gobernadores colorados respaldan por unanimidad la candidatura de Alliana",
-      "summary": "El Consejo de Gobernadores colorados anunció su apoyo unánime a la candidatura presidencial del vicepresidente Pedro Alliana para 2028, en medio de las tensiones en Honor Colorado. Su presidente, el gobernador de Guairá César Sosa, dijo que lo seguirán aun fuera del movimiento, pero que el compañero de fórmula debe ser un gobernador o un diputado. Anunciaron reuniones con el Gobierno y la ANR.",
+      "title": "Gobernadores colorados respaldan a Alliana y visitan a Peña en Mburuvicha Róga",
+      "summary": "Los gobernadores colorados expresaron por unanimidad su respaldo a Pedro Alliana como candidato presidencial para 2028, en medio de la crisis interna de Honor Colorado. Por la noche acudieron en bloque a Mburuvicha Róga para llevar su apoyo al presidente Santiago Peña y al vicepresidente. Según Presidencia, el encuentro concluyó cerca de las 19:30 con hermetismo. También llamaron a resolver las diferencias mediante el diálogo.",
       "keyPoints": [
-        "Los 15 gobernadores colorados respaldaron a Alliana por unanimidad.",
-        "César Sosa afirmó que lo apoyarán dentro o fuera de Honor Colorado.",
-        "Según Sosa, la dupla debe salir de un gobernador o un diputado.",
-        "Los gobernadores anunciaron reuniones con el Gobierno y la ANR."
+        "Los gobernadores colorados ratificaron su apoyo a Alliana para 2028.",
+        "Acudieron en bloque a Mburuvicha Róga para respaldar a Peña y Alliana.",
+        "El sector pidió resolver las diferencias internas mediante el diálogo."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
       "model": "claude-opus-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gobernadores colorados llevan apoyo a Peña y Alliana ante quiebre en HC",
+          "url": "https://www.abc.com.py/politica/2026/10/13/gobernadores-colorados-llevan-apoyo-a-pena-y-alliana-ante-quiebre-en-hc",
+          "publishedAt": "2026-10-13T23:12:16.000Z",
+          "image": "https://www.abc.com.py/resizer/RiKpdgJTln-bsfrPcEJGWsaygl0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSD3EFKPYNHNDBWJ2XBXA6W35Y.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Quiebre en Honor Colorado, EN VIVO: gobernadores colorados llevan apoyo a Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/10/13/quiebre-en-honor-colorado-en-vivo-alliana-a-un-paso-de-postularse-fuera-del-cartismo",
+          "publishedAt": "2026-10-13T23:06:46.000Z",
+          "image": "https://www.abc.com.py/resizer/npAUKuBVTyfklQuJEV6hv__V8ug=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKK62UPEMBBEDINURJ7UJYG4SA.png"
+        },
         {
           "sourceId": "npy",
           "sourceName": "NPY",
@@ -139,6 +356,14 @@
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
+          "title": "\"Dupla tiene que salir de un gobernador o diputado\" dice Cesarito en medio de férreo apoyo a Alliana",
+          "url": "https://www.ultimahora.com/dupla-tiene-que-salir-de-un-gobernador-o-diputado-dice-cesarito-en-medio-de-ferreo-apoyo-a-alliana",
+          "publishedAt": "2026-10-13T15:09:39.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
           "title": "Gobernadores colorados anuncian 100% de respaldo a Pedro Alliana",
           "url": "https://www.ultimahora.com/gobernadores-colorados-anuncian-100-de-respaldo-a-pedro-alliana",
           "publishedAt": "2026-10-13T14:57:10.000Z",
@@ -151,14 +376,6 @@
           "url": "https://elnacional.com.py/politica/por-unanimidad-15-gobernadores-colorados-dan-su-respaldo-alliana-n113539",
           "publishedAt": "2026-10-13T14:52:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/10/6ace455266833.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "\"Dupla tiene que salir de un gobernador o diputado\" dice Cesarito en medio de férreo apoyo a Alliana",
-          "url": "https://www.ultimahora.com/dupla-tiene-que-salir-de-un-gobernador-o-diputado-dice-cesarito-en-medio-de-ferreo-apoyo-a-alliana",
-          "publishedAt": "2026-10-13T15:09:39.000Z",
-          "image": null
         },
         {
           "sourceId": "abc",
@@ -178,15 +395,97 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/tHobvGKWvLMyVLaOU8tMwMr5HPg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6V5PTC6UMFHIFHJQQRXLCJN4BY.jpeg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/13/gobernadores-se-inclinan-hacia-alliana"
+        "url": "https://www.abc.com.py/resizer/RiKpdgJTln-bsfrPcEJGWsaygl0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSD3EFKPYNHNDBWJ2XBXA6W35Y.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/13/gobernadores-colorados-llevan-apoyo-a-pena-y-alliana-ante-quiebre-en-hc"
       },
       "firstSeenAt": "2026-10-13T15:51:30.494Z",
       "firstSlot": "tarde",
-      "updatedAt": "2026-10-13T15:51:30.494Z",
+      "updatedAt": "2026-10-13T23:41:59.716Z",
       "updatedSlot": "tarde",
-      "score": 20.98
+      "score": 20.96
+    },
+    {
+      "id": "ev-1b77ej3",
+      "title": "Cierre de la Costanera Norte por los World Skate Games genera caos vial",
+      "summary": "El cierre parcial de la Costanera Norte por seguridad de los World Skate Games 2026 provocó una fuerte congestión en hora pico y colapsos en la avenida Artigas, con quejas por falta de información. Tras el caos, la organización reajustó horarios: el miércoles el bloqueo comenzará a las 9:00. Los desvíos se extenderán hasta el sábado.",
+      "keyPoints": [
+        "El bloqueo del martes se adelantó una hora y coincidió con la hora pico.",
+        "El cierre del miércoles se retrasará a las 9:00.",
+        "Los desvíos se mantendrán hasta el sábado."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tras el caos, reajustan los cierres de la Costanera Norte",
+          "url": "https://elnacional.com.py/nacionales/tras-caos-reajustan-cierres-costanera-norte-n113544",
+          "publishedAt": "2026-10-13T17:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace14b9d6f5d.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tras el caos, abren la Costanera por dos horas y este miércoles el cierre será a las 9:00",
+          "url": "https://www.lanacion.com.py/pais/2026/10/13/tras-el-caos-abren-la-costanera-por-dos-horas-y-este-miercoles-el-cierre-sera-a-las-900",
+          "publishedAt": "2026-10-13T14:33:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/IfAr6yFNBugQL8p1taEaMggpCrk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZEJCFFWPJZEZZNFZIWRCQ3SPNE.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Desvíos en Costanera Norte se extenderán hasta el sábado",
+          "url": "https://www.telefuturo.com.py/desvios-en-costanera-norte-se-extenderan-hasta-el-sabado",
+          "publishedAt": "2026-10-13T14:04:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caos vehicular e indignación por el cierre de la Costanera Norte debido a evento deportivo",
+          "url": "https://www.lanacion.com.py/pais/2026/10/13/caos-vehicular-e-indignacion-por-el-cierre-de-la-costanera-norte-debido-a-evento-deportivo",
+          "publishedAt": "2026-10-13T13:09:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lFCkCT5w6UgT7cbka93mtRziwpQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7HCWXN5UPBEBFBD3NB5ULJRKQA.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Acceso a Asunción colapsa por cierre de la Costanera Norte",
+          "url": "https://www.adndigital.com.py/acceso-a-asuncion-colapsa-por-cierre-de-la-costanera-norte",
+          "publishedAt": "2026-10-13T12:34:50.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-13-at-093213-1024x518.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Incompetencia vial: El adelanto del bloqueo en la Costanera atrapa a miles de trabajadores",
+          "url": "https://elnacional.com.py/nacionales/incompetencia-vial-adelanto-bloqueo-costanera-atrapa-miles-trabajadores-n113512",
+          "publishedAt": "2026-10-13T11:08:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace14b9d6f5d.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Restringen tránsito vehicular en la Costanera Norte por cinco días debido a los World Skate Games ASU26",
+          "url": "https://elnacional.com.py/nacionales/restringen-transito-vehicular-costanera-norte-cinco-dias-debido-world-skate-games-asu26-n113510",
+          "publishedAt": "2026-10-13T10:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/11/6911d0d9b6d78.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ace14b9d6f5d.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/tras-caos-reajustan-cierres-costanera-norte-n113544"
+      },
+      "firstSeenAt": "2026-10-13T15:51:30.494Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-13T23:41:59.716Z",
+      "updatedSlot": "tarde",
+      "score": 17.48
     },
     {
       "id": "ev-08txjog",
@@ -244,82 +543,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 17.98
-    },
-    {
-      "id": "ev-1b77ej3",
-      "title": "Cierre de la Costanera Norte por los World Skate Games colapsa el acceso a Asunción",
-      "summary": "El cierre parcial de la Costanera Norte, desde General Santos hasta el Palacio de Gobierno, por los World Skate Games 2026 provocó un fuerte congestionamiento en las avenidas Artigas y General Santos en hora pico. Hubo quejas por falta de información. Tras el caos, la vía se abrió por dos horas y el miércoles el cierre comenzará a las 9:00. Las restricciones seguirán hasta el sábado.",
-      "keyPoints": [
-        "El bloqueo se dispuso por seguridad para los World Skate Games 2026.",
-        "Miles de conductores quedaron atrapados en el tránsito durante la mañana del martes.",
-        "El miércoles el cierre empezará a las 9:00 para evitar la hora pico.",
-        "Los desvíos se extenderán hasta el sábado."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tras el caos, abren la Costanera por dos horas y este miércoles el cierre será a las 9:00",
-          "url": "https://www.lanacion.com.py/pais/2026/10/13/tras-el-caos-abren-la-costanera-por-dos-horas-y-este-miercoles-el-cierre-sera-a-las-900",
-          "publishedAt": "2026-10-13T14:33:37.000Z",
-          "image": "https://www.lanacion.com.py/resizer/IfAr6yFNBugQL8p1taEaMggpCrk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZEJCFFWPJZEZZNFZIWRCQ3SPNE.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Desvíos en Costanera Norte se extenderán hasta el sábado",
-          "url": "https://www.telefuturo.com.py/desvios-en-costanera-norte-se-extenderan-hasta-el-sabado",
-          "publishedAt": "2026-10-13T14:04:21.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caos vehicular e indignación por el cierre de la Costanera Norte debido a evento deportivo",
-          "url": "https://www.lanacion.com.py/pais/2026/10/13/caos-vehicular-e-indignacion-por-el-cierre-de-la-costanera-norte-debido-a-evento-deportivo",
-          "publishedAt": "2026-10-13T13:09:46.000Z",
-          "image": "https://www.lanacion.com.py/resizer/lFCkCT5w6UgT7cbka93mtRziwpQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7HCWXN5UPBEBFBD3NB5ULJRKQA.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Acceso a Asunción colapsa por cierre de la Costanera Norte",
-          "url": "https://www.adndigital.com.py/acceso-a-asuncion-colapsa-por-cierre-de-la-costanera-norte",
-          "publishedAt": "2026-10-13T12:34:50.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-13-at-093213-1024x518.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Incompetencia vial: El adelanto del bloqueo en la Costanera atrapa a miles de trabajadores",
-          "url": "https://elnacional.com.py/nacionales/incompetencia-vial-adelanto-bloqueo-costanera-atrapa-miles-trabajadores-n113512",
-          "publishedAt": "2026-10-13T11:08:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ace14b9d6f5d.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Restringen tránsito vehicular en la Costanera Norte por cinco días debido a los World Skate Games ASU26",
-          "url": "https://elnacional.com.py/nacionales/restringen-transito-vehicular-costanera-norte-cinco-dias-debido-world-skate-games-asu26-n113510",
-          "publishedAt": "2026-10-13T10:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/11/6911d0d9b6d78.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/IfAr6yFNBugQL8p1taEaMggpCrk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZEJCFFWPJZEZZNFZIWRCQ3SPNE.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/13/tras-el-caos-abren-la-costanera-por-dos-horas-y-este-miercoles-el-cierre-sera-a-las-900"
-      },
-      "firstSeenAt": "2026-10-13T15:51:30.494Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-13T15:51:30.494Z",
-      "updatedSlot": "tarde",
-      "score": 17.89
+      "score": 17.33
     },
     {
       "id": "ev-12kcjfa",
@@ -377,7 +601,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 17.83
+      "score": 17.18
     },
     {
       "id": "ev-0qleum7",
@@ -484,7 +708,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 14.94
+      "score": 14.29
     },
     {
       "id": "ev-17297mk",
@@ -542,7 +766,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 14.72
+      "score": 14.07
     },
     {
       "id": "ev-147rak1",
@@ -592,7 +816,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 13.99
+      "score": 13.34
     },
     {
       "id": "ev-1fgffa4",
@@ -643,7 +867,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 13.96
+      "score": 13.31
     },
     {
       "id": "ev-18cnl2q",
@@ -693,7 +917,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 13.94
+      "score": 13.29
     },
     {
       "id": "ev-06zia2q",
@@ -743,73 +967,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 13.54
-    },
-    {
-      "id": "ev-0k5jtw5",
-      "title": "El papa León XIV ingresa al Gemelli para ser operado de un nódulo pulmonar",
-      "summary": "El papa León XIV, de 71 años, fue trasladado este martes al hospital Gemelli de Roma para someterse a una cirugía por un nódulo detectado en un pulmón, descrita como de bajo riesgo. Al salir del Vaticano, el pontífice saludó desde la ventanilla del vehículo a los fieles reunidos. El Gemelli es el centro donde tradicionalmente reciben atención los papas.",
-      "keyPoints": [
-        "León XIV fue internado en el Policlínico Gemelli de Roma.",
-        "Será operado de un nódulo pulmonar en una cirugía de bajo riesgo.",
-        "El pontífice tiene 71 años."
-      ],
-      "category": "pais",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa León XIV se somete este martes a una cirugía de bajo riesgo",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/13/el-papa-leon-xiv-se-somete-este-martes-a-una-cirugia-de-bajo-riesgo",
-          "publishedAt": "2026-10-13T14:04:50.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BDL4IRdEkdKlmFnxpxp0Uhk_E4k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7PE3R4GUQFCSTON74CSSW4JALE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "El papa León XIV será operado de pulmón este martes",
-          "url": "https://elnacional.com.py/mundo/el-papa-leon-xiv-sera-operado-pulmon-martes-n113522",
-          "publishedAt": "2026-10-13T13:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6abd02e7e1976.jpg"
-        },
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "El papa León XIV será internado este martes para someterse a una cirugía",
-          "url": "https://diariovanguardia.com.py/el-papa-leon-xiv-sera-internado-este-martes-para-someterse-a-una-cirugia",
-          "publishedAt": "2026-10-13T12:45:02.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/PAG-9B-2.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Salud del papa León XIV: ¿qué es un nódulo pulmonar?",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/13/salud-del-papa-leon-xiv-que-es-un-nodulo-pulmonar",
-          "publishedAt": "2026-10-13T09:16:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8WbjpKfK_NOjoT_rgJ9Cx8QGmXU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WAEOAO6N5RB3DNFWJBYTVRNAUQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa León XIV será hospitalizado este martes en Roma para ser operado del pulmón",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/13/el-papa-leon-xiv-sera-hospitalizado-este-martes-en-roma-para-ser-operado-del-pulmon",
-          "publishedAt": "2026-10-13T09:06:56.000Z",
-          "image": "https://www.lanacion.com.py/resizer/nWmEkPNWQBNbDDFpzoz6t1QB8V8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WM2HIY23NBFORMOFYCXO36B7KU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/BDL4IRdEkdKlmFnxpxp0Uhk_E4k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7PE3R4GUQFCSTON74CSSW4JALE.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/13/el-papa-leon-xiv-se-somete-este-martes-a-una-cirugia-de-bajo-riesgo"
-      },
-      "firstSeenAt": "2026-10-13T15:51:30.494Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-13T15:51:30.494Z",
-      "updatedSlot": "tarde",
-      "score": 12.35
+      "score": 12.89
     },
     {
       "id": "ev-15sbvcz",
@@ -868,7 +1026,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 11.98
+      "score": 11.33
     },
     {
       "id": "ev-05g495r",
@@ -919,7 +1077,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 10.68
+      "score": 10.03
     },
     {
       "id": "ev-0bnriap",
@@ -961,7 +1119,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 9.97
+      "score": 9.31
     },
     {
       "id": "ev-09p9h4a",
@@ -1003,7 +1161,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 9.96
+      "score": 9.3
     },
     {
       "id": "ev-02ol4cq",
@@ -1045,7 +1203,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 9.93
+      "score": 9.28
     },
     {
       "id": "ev-1smn5tq",
@@ -1087,7 +1245,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 9.88
+      "score": 9.22
     },
     {
       "id": "ev-1ns3pmn",
@@ -1129,7 +1287,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 9.68
+      "score": 9.03
     },
     {
       "id": "ev-18sf4x0",
@@ -1171,7 +1329,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-13T15:51:30.494Z",
       "updatedSlot": "tarde",
-      "score": 8.93
+      "score": 8.28
     }
   ],
   "runs": [
@@ -1181,6 +1339,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 39
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-13T23:41:59.716Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 14
     }
   ]
 }
