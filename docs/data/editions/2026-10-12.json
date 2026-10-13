@@ -1,26 +1,73 @@
 {
   "date": "2026-10-12",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-12T17:43:53.607Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-13T01:57:39.054Z",
+  "aiMode": "ia",
+  "model": "claude-opus-5-5",
   "maxEvents": 20,
   "events": [
     {
       "id": "ev-1m149zy",
-      "title": "Crecida del río Paraná obliga a evacuar familias en Ciudad del Este y Ayolas",
-      "summary": "El río Paraná sube con rapidez por las intensas lluvias en Brasil y la crecida del Iguazú, según Itaipú. En Ciudad del Este hay unas 60 familias evacuadas del barrio San Rafael y cerca de un centenar de viviendas afectadas. En Ayolas, el COE intensificó los traslados porque, según la EBY, el río podría superar el umbral de inundabilidad.",
+      "title": "Itaipú mantiene abiertas sus compuertas y alerta por rápida crecida del Paraná",
+      "summary": "Itaipú alertó sobre un rápido aumento del río Paraná por las intensas lluvias en Brasil y mantiene abiertas desde hace días las seis compuertas de su vertedero. La situación afecta a unas 100 familias del barrio San Rafael de Ciudad del Este, donde comenzaron evacuaciones, mientras el volumen de agua descargado atrae a numerosos visitantes de ambos lados de la frontera.",
       "keyPoints": [
-        "Itaipú advirtió que el Paraná seguirá subiendo por lluvias en Brasil y la crecida del Iguazú.",
-        "Un superintendente de Itaipú afirmó que la crecida superó la capacidad de regulación de la represa.",
-        "En Ciudad del Este fueron evacuadas unas 60 familias del barrio San Rafael, según El Nacional.",
-        "En Ayolas se reubicaron unas 51 familias y la EBY prevé que el río llegue a 5,10 metros."
+        "Itaipú mantiene abiertas las seis compuertas de su vertedero.",
+        "Unas 100 familias del barrio San Rafael de Ciudad del Este están afectadas.",
+        "La crecida se debe a intensas lluvias en Brasil."
       ],
       "category": "pais",
       "scope": "paraguay",
       "summaryKind": "ia",
       "model": "claude-opus-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Crecida del río Paraná expulsa a familias de sus casas en Alto Paraná y Misiones",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/12/audio-crecida-del-rio-parana-expulsa-a-familias-de-sus-casas-en-alto-parana-y-misiones",
+          "publishedAt": "2026-10-12T22:57:21.000Z",
+          "image": "https://www.abc.com.py/resizer/1rgKTZj8MOo0gEHlpN28KalJv4E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WM626L57A5ALFGJGZP3TTVC2OY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Crecida dispar: Río Paraná está en alerta de inundación y el Paraguay no recupera su nivel normal",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/12/audio-crecida-dispar-rio-parana-esta-en-alerta-de-inundacion-y-el-paraguay-no-recupera-su-nivel-normal",
+          "publishedAt": "2026-10-12T22:49:03.000Z",
+          "image": "https://www.abc.com.py/resizer/XuPugTH9rOFJbEpGqhmCqUGTOuo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ET5T5VV3RJAYZHFMRVM5LOI5O4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: impactante evacuación de agua del río Paraná por las compuertas de Itaipú",
+          "url": "https://www.abc.com.py/clima/2026/10/12/video-impactante-evacuacion-de-agua-del-rio-parana-por-las-compuertas-de-itaipu",
+          "publishedAt": "2026-10-12T21:17:56.000Z",
+          "image": "https://www.abc.com.py/resizer/AmVW3XVpjfGz1LOtcVJnWyG45kk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DZD3EYXWOZB6LBJJL3TFWLA46Y.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Gobierno despliega fuerza operativa para asistir a familias afectadas por crecida del río Paraná",
+          "url": "https://elnacional.com.py/nacionales/gobierno-despliega-fuerza-operativa-asistir-familias-afectadas-crecida-rio-parana-n113491",
+          "publishedAt": "2026-10-12T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6acd3f66b8bb7.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Crecida del Paraná: evacúan a 25 familias en Ayolas",
+          "url": "https://www.telefuturo.com.py/crecida-del-parana-evacuan-a-25-familias-en-ayolas",
+          "publishedAt": "2026-10-12T20:07:26.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña ordenó despliegue de fuerza operativa para asistir a familias por crecida en el Este",
+          "url": "https://www.lanacion.com.py/politica/2026/10/12/pena-ordeno-despliegue-de-fuerza-operativa-para-asistir-a-familias-por-crecida-en-el-este",
+          "publishedAt": "2026-10-12T18:12:18.000Z",
+          "image": "https://www.lanacion.com.py/resizer/N4LT9L776GilEfjXGtAQfeGu9Sg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7H2UZN75ZNE7BBSPZOU2524LPU.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -63,15 +110,90 @@
         }
       ],
       "image": {
-        "url": "https://www.abc.com.py/resizer/a3O-47ERlajRPbMRS4g_IfAPWIw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IMPN2C24BZFBFKJO4Z67ZTJR3Y.jpg",
+        "url": "https://www.abc.com.py/resizer/AmVW3XVpjfGz1LOtcVJnWyG45kk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DZD3EYXWOZB6LBJJL3TFWLA46Y.jpg",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/10/12/ayolas-aceleran-evacuaciones-ante-la-crecida-del-rio-parana"
+        "articleUrl": "https://www.abc.com.py/clima/2026/10/12/video-impactante-evacuacion-de-agua-del-rio-parana-por-las-compuertas-de-itaipu"
       },
       "firstSeenAt": "2026-10-12T17:43:53.607Z",
       "firstSlot": "tarde",
-      "updatedAt": "2026-10-12T17:43:53.607Z",
+      "updatedAt": "2026-10-13T01:57:39.054Z",
       "updatedSlot": "tarde",
-      "score": 17.98
+      "score": 20.75
+    },
+    {
+      "id": "ev-1kwdwpj",
+      "title": "Asalto a estación de servicios en Sajonia termina con persecución, disparos y tres detenidos",
+      "summary": "Un asalto armado a una estación de servicios en el barrio Sajonia de Asunción derivó en una persecución policial con intercambio de disparos que concluyó en Ita Pytã Punta. Tres sospechosos fueron aprehendidos y se recuperó dinero, celulares y otros objetos. Según Telefuturo, el botín recuperado asciende a 45 millones de guaraníes. El director de Policía de Asunción, Francisco Ávalos, detalló el operativo en conferencia.",
+      "keyPoints": [
+        "Agentes de la Comisaría 1.ª detectaron un vehículo sospechoso que salía rápidamente del lugar del asalto.",
+        "La persecución culminó en Ita Pytã Punta con tres aprehendidos.",
+        "Telefuturo informó la recuperación de 45 millones de guaraníes.",
+        "La Policía reveló las identidades de los detenidos en conferencia de prensa."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Persecución y balacera en Sajonia: revelan las identidades de los tres detenidos",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/12/audio-persecucion-y-balacera-en-sajonia-revelan-las-identidades-de-los-tres-detenidos",
+          "publishedAt": "2026-10-12T22:53:27.000Z",
+          "image": "https://www.abc.com.py/resizer/d-0wwQpyQCXpk8yxuLmBxp80OD4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LFOXOX7K55HPNJBZHGGGRWWRTU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Persecución y balacera en Sajonia: revelan las identidades de los tres detenidos",
+          "url": "https://www.abc.com.py/nacionales/2026/10/12/persecucion-y-balacera-en-sajonia-revelan-las-identidades-de-los-tres-detenidos",
+          "publishedAt": "2026-10-12T21:06:08.000Z",
+          "image": "https://www.abc.com.py/resizer/d-0wwQpyQCXpk8yxuLmBxp80OD4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LFOXOX7K55HPNJBZHGGGRWWRTU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tras asalto a surtidor y posterior balacera en Sajonia, atrapan a tres sospechosos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/12/tras-asalto-a-surtidor-y-posterior-balacera-en-sajonia-atrapan-a-tres-sospechosos",
+          "publishedAt": "2026-10-12T18:35:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/x8SB9pNOc1AIHD08IzY0k82bE50=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A4Z43CSCONAW7NWQT5PDSFFUBM.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Persecución y balacera en Sajonia: detienen a tres asaltantes y recuperan G. 45 millones",
+          "url": "https://www.telefuturo.com.py/persecucion-y-balacera-en-sajonia-detienen-a-tres-asaltantes-y-recuperan-g-45-millones",
+          "publishedAt": "2026-10-12T17:33:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Persecución y balacera en Sajonia tras asalto a una gasolinera",
+          "url": "https://elnacional.com.py/nacionales/persecucion-balacera-sajonia-tras-asalto-una-gasolinera-n113476",
+          "publishedAt": "2026-10-12T15:37:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6accff0a377eb.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Asalto a una estación de servicios deriva en persecución y balacera en Asunción",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/asalto-a-una-estacion-de-servicios-deriva-en-persecucion-y-balacera-en-asuncion",
+          "publishedAt": "2026-10-12T14:53:18.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/d-0wwQpyQCXpk8yxuLmBxp80OD4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LFOXOX7K55HPNJBZHGGGRWWRTU.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/periodisticamente/2026/10/12/audio-persecucion-y-balacera-en-sajonia-revelan-las-identidades-de-los-tres-detenidos"
+      },
+      "firstSeenAt": "2026-10-12T17:43:53.607Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-13T01:57:39.054Z",
+      "updatedSlot": "tarde",
+      "score": 20.74
     },
     {
       "id": "ev-0os4xwb",
@@ -170,57 +292,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 17.88
-    },
-    {
-      "id": "ev-1kwdwpj",
-      "title": "Asalto a gasolinera en Sajonia termina en persecución, disparos y detenidos",
-      "summary": "Un asalto armado a una estación de servicios en el barrio Sajonia de Asunción derivó en una persecución policial con intercambio de disparos. Según Telefuturo y NPY, tres sospechosos fueron aprehendidos y se recuperó el dinero robado, unos 45 millones de guaraníes, además de celulares y otros objetos. Una versión inicial de El Nacional reportaba un detenido y dos fugados.",
-      "keyPoints": [
-        "El asalto ocurrió en una estación de servicios de Sajonia, Asunción.",
-        "Hubo persecución con disparos que culminó en Ita Pytã Punta, según Telefuturo.",
-        "Tres sospechosos fueron aprehendidos y se recuperaron 45 millones de guaraníes."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Persecución y balacera en Sajonia: detienen a tres asaltantes y recuperan G. 45 millones",
-          "url": "https://www.telefuturo.com.py/persecucion-y-balacera-en-sajonia-detienen-a-tres-asaltantes-y-recuperan-g-45-millones",
-          "publishedAt": "2026-10-12T17:33:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Persecución y balacera en Sajonia tras asalto a una gasolinera",
-          "url": "https://elnacional.com.py/nacionales/persecucion-balacera-sajonia-tras-asalto-una-gasolinera-n113476",
-          "publishedAt": "2026-10-12T15:37:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6accff0a377eb.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Asalto a una estación de servicios deriva en persecución y balacera en Asunción",
-          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/asalto-a-una-estacion-de-servicios-deriva-en-persecucion-y-balacera-en-asuncion",
-          "publishedAt": "2026-10-12T14:53:18.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6accff0a377eb.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/persecucion-balacera-sajonia-tras-asalto-una-gasolinera-n113476"
-      },
-      "firstSeenAt": "2026-10-12T17:43:53.607Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-12T17:43:53.607Z",
-      "updatedSlot": "tarde",
-      "score": 13.98
+      "score": 17.2
     },
     {
       "id": "ev-0smz7li",
@@ -271,7 +343,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 13.91
+      "score": 13.22
     },
     {
       "id": "ev-1da202z",
@@ -330,7 +402,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 12.43
+      "score": 11.74
     },
     {
       "id": "ev-04swnw6",
@@ -380,7 +452,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 10.92
+      "score": 10.23
     },
     {
       "id": "ev-112fz5v",
@@ -422,7 +494,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.99
+      "score": 9.31
     },
     {
       "id": "ev-0abhcpn",
@@ -465,7 +537,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.97
+      "score": 9.29
     },
     {
       "id": "ev-0ppj541",
@@ -507,7 +579,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.97
+      "score": 9.28
     },
     {
       "id": "ev-1tbwj7h",
@@ -549,7 +621,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.97
+      "score": 9.28
     },
     {
       "id": "ev-1d081hn",
@@ -592,7 +664,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.96
+      "score": 9.27
     },
     {
       "id": "ev-1qtamkm",
@@ -634,7 +706,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.96
+      "score": 9.27
     },
     {
       "id": "ev-16ns3bv",
@@ -677,7 +749,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.95
+      "score": 9.27
     },
     {
       "id": "ev-0gk5zlo",
@@ -719,7 +791,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.88
+      "score": 9.19
     },
     {
       "id": "ev-0peai8u",
@@ -761,7 +833,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.85
+      "score": 9.17
     },
     {
       "id": "ev-1l98qn9",
@@ -803,7 +875,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 9.77
+      "score": 9.09
     },
     {
       "id": "ev-0afop2l",
@@ -845,7 +917,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 7.48
+      "score": 6.8
     },
     {
       "id": "ev-1qrt7mv",
@@ -887,7 +959,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 6.63
+      "score": 5.95
     },
     {
       "id": "ev-1km7bg2",
@@ -922,7 +994,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 6
+      "score": 5.31
     },
     {
       "id": "ev-0jyakq7",
@@ -956,7 +1028,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-12T17:43:53.607Z",
       "updatedSlot": "tarde",
-      "score": 5.99
+      "score": 5.31
     }
   ],
   "runs": [
@@ -966,6 +1038,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 42
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-13T01:57:39.054Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 13
     }
   ]
 }
