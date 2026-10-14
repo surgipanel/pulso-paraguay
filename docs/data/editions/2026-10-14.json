@@ -1,20 +1,19 @@
 {
   "date": "2026-10-14",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-14T13:35:33.532Z",
+  "generatedAt": "2026-10-14T23:07:14.425Z",
   "aiMode": "ia",
   "model": "claude-opus-5-5",
   "maxEvents": 20,
   "events": [
     {
       "id": "ev-0qdgenp",
-      "title": "Cartes reemplaza a Alliana por Baruja y desata una crisis en Honor Colorado",
-      "summary": "Horacio Cartes designó a Juan Carlos Baruja como precandidato presidencial de Honor Colorado para 2028, en lugar de Pedro Alliana. El vicepresidente confirmó el cambio, aseguró que su candidatura sigue firme y dijo que evaluará sus próximos pasos. Según ABC Color, Alliana recibió el respaldo de gobernadores colorados. El senador Gustavo Leite ratificó su lealtad a Cartes, mientras Beto Ovelar consideró irreversible la crisis.",
+      "title": "Disputa por la candidatura presidencial divide a Honor Colorado",
+      "summary": "La preferencia de Horacio Cartes por Juan Carlos Baruja como candidato presidencial para 2028 abrió un conflicto con el vicepresidente Pedro Alliana. Según ABC Color, Alliana recibió el respaldo de los gobernadores colorados y legisladores clave, y no descarta competir fuera de la estructura tradicional. El presidente Santiago Peña enfrenta una definición clave, según El Nacional.",
       "keyPoints": [
-        "Cartes designó a Juan Carlos Baruja como precandidato presidencial de Honor Colorado para 2028.",
-        "Pedro Alliana confirmó su reemplazo, pero dijo que mantiene su precandidatura.",
-        "Según ABC Color, gobernadores colorados respaldaron a Alliana y a Peña.",
-        "Gustavo Leite afirmó que Cartes sigue siendo el gran elector del partido."
+        "Cartes optó por Juan Carlos Baruja para la chapa presidencial de 2028.",
+        "Pedro Alliana cuenta con apoyo de gobernadores y sectores de Diputados, según los medios.",
+        "Alliana no descarta competir por fuera de la estructura, según ABC Color."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,28 +21,20 @@
       "model": "claude-opus-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Cartes designa a Baruja candidato presidencial de Honor Colorado",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/14/cartes-designa-a-baruja-candidato-presidencial-de-honor-colorado",
-          "publishedAt": "2026-10-14T04:45:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/FGw38bqcIbKBi7i2mHfD-pDKEBA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NXGTDAB2JBCUXEEXASZJSAQTYU.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Pedro Alliana confirma que Horacio Cartes lo reemplazó por Juan Carlos Baruja en la chapa presidencial",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-confirma-que-horacio-cartes-lo-reemplazo-por-juan-carlos-baruja-en-la-chapa-presidencial",
-          "publishedAt": "2026-10-13T17:25:22.000Z",
-          "image": null
-        },
-        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Alliana sobre decisión de Cartes: \"Mi candidatura hoy sigue firme\"",
-          "url": "https://elnacional.com.py/politica/alliana-sobre-decision-cartes-mi-candidatura-hoy-sigue-firme-n113548",
-          "publishedAt": "2026-10-13T16:50:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+          "title": "¿Qué está en juego con la disputa por la chapa presidencial de Honor Colorado?",
+          "url": "https://elnacional.com.py/politica/que-esta-juego-disputa-chapa-presidencial-honor-colorado-n113585",
+          "publishedAt": "2026-10-14T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa3ebb63cacb.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Leite insiste con salidas del BCP y reafirma lealtad a Cartes en medio de crisis en el oficialismo",
+          "url": "https://www.ultimahora.com/leite-insiste-con-salidas-del-bcp-y-reafirma-lealtad-a-cartes-en-medio-de-crisis-en-el-oficialismo",
+          "publishedAt": "2026-10-14T13:26:09.000Z",
+          "image": null
         },
         {
           "sourceId": "abc",
@@ -52,6 +43,46 @@
           "url": "https://www.abc.com.py/politica/2026/10/14/honor-colorado-en-crisis-en-vivo-alliana-resiste-con-apoyo-de-gobernadores",
           "publishedAt": "2026-10-14T12:59:48.000Z",
           "image": "https://www.abc.com.py/resizer/aPz3sigBmRyl-zOtYS7KkLxKje8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LCU2LZPUZRBUHNE7OROYBCZEQY.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Leite destaca el peso del respaldo popular en el liderazgo de Cartes",
+          "url": "https://www.adndigital.com.py/leite-destaca-el-peso-del-respaldo-popular-en-el-liderazgo-de-cartes",
+          "publishedAt": "2026-10-14T12:49:06.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-14-at-092637.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Leite respalda a Cartes: “El gran elector dentro del Partido Colorado sigue siendo él”",
+          "url": "https://www.abc.com.py/politica/2026/10/14/leite-respalda-a-cartes-el-gran-elector-dentro-del-partido-colorado-sigue-siendo-el",
+          "publishedAt": "2026-10-14T12:44:50.000Z",
+          "image": "https://www.abc.com.py/resizer/fvTg33dg1YraqqyoV1GzZoWQ6XI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4XN5KDJZFNANXNTZFW4IYD2NBM.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Beto Ovelar cree que la crisis en Honor Colorado es irreversible y descarta marcha atrás",
+          "url": "https://elnacional.com.py/politica/beto-ovelar-cree-crisis-honor-colorado-irreversible-descarta-marcha-atras-n113578",
+          "publishedAt": "2026-10-14T12:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6abbb93c307ce.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cartes sacude el tablero colorado",
+          "url": "https://elnacional.com.py/politica/cartes-sacude-tablero-colorado-n113564",
+          "publishedAt": "2026-10-14T08:04:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6acf382fe9888.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cartes designa a Baruja candidato presidencial de Honor Colorado",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/14/cartes-designa-a-baruja-candidato-presidencial-de-honor-colorado",
+          "publishedAt": "2026-10-14T04:45:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FGw38bqcIbKBi7i2mHfD-pDKEBA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NXGTDAB2JBCUXEEXASZJSAQTYU.jpg"
         },
         {
           "sourceId": "abc",
@@ -70,48 +101,205 @@
           "image": null
         },
         {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Pedro Alliana confirma que Horacio Cartes lo reemplazó por Juan Carlos Baruja en la chapa presidencial",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-confirma-que-horacio-cartes-lo-reemplazo-por-juan-carlos-baruja-en-la-chapa-presidencial",
+          "publishedAt": "2026-10-13T17:25:22.000Z",
+          "image": null
+        },
+        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Beto Ovelar cree que la crisis en Honor Colorado es irreversible y descarta marcha atrás",
-          "url": "https://elnacional.com.py/politica/beto-ovelar-cree-crisis-honor-colorado-irreversible-descarta-marcha-atras-n113578",
-          "publishedAt": "2026-10-14T12:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6abbb93c307ce.jpg"
+          "title": "Alliana sobre decisión de Cartes: \"Mi candidatura hoy sigue firme\"",
+          "url": "https://elnacional.com.py/politica/alliana-sobre-decision-cartes-mi-candidatura-hoy-sigue-firme-n113548",
+          "publishedAt": "2026-10-13T16:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6acf382fe9888.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/cartes-sacude-tablero-colorado-n113564"
+      },
+      "firstSeenAt": "2026-10-14T13:35:33.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-14T23:07:14.425Z",
+      "updatedSlot": "tarde",
+      "score": 26.24
+    },
+    {
+      "id": "ev-04njcpc",
+      "title": "Detienen a joven por presunto feminicidio de una mujer en Villarrica",
+      "summary": "Teresita de Jesús Sánchez Báez, de 27 años, fue hallada sin vida en un terreno baldío del barrio Santa Librada de Villarrica. Paulo Storm Chamorro, de 20 años y señalado como su pareja, fue aprehendido cerca del lugar y, según los medios, habría admitido haberla estrangulado. Ante la prensa reconoció haberla sujetado del cuello, aunque intentó minimizar lo ocurrido.",
+      "keyPoints": [
+        "El cuerpo fue hallado de madrugada en un baldío del barrio Santa Librada.",
+        "El sospechoso fue detenido a unos 200 metros del lugar.",
+        "Según los reportes, habría confesado haber estrangulado a la víctima."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Presunto feminicidio en Villarrica: joven de 20 años confesó el crimen",
+          "url": "https://www.telefuturo.com.py/presunto-feminicidio-en-villarrica-joven-de-20-anos-confeso-el-crimen",
+          "publishedAt": "2026-10-14T18:45:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "“Ella tenía asma, yo no le apreté mucho tiempo”: la indignante declaración del sospechoso de matar a una joven",
+          "url": "https://www.lanacion.com.py/pais/2026/10/14/ella-tenia-asma-yo-no-le-aprete-mucho-tiempo-la-indignante-declaracion-del-sospechoso-de-matar-a-una-joven",
+          "publishedAt": "2026-10-14T13:44:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-iE3-twDKpJJk9sc96_9b0Q1MjY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DWEQ3ASZMZC37GR7JNR53QNL6I.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Villarrica: hallan a una mujer estrangulada en un patio baldío y sospechan de otro feminicidio",
+          "url": "https://www.lanacion.com.py/pais/2026/10/14/villarrica-hallan-a-una-mujer-estrangulada-en-un-patio-baldio-y-sospechan-de-otro-feminicidio",
+          "publishedAt": "2026-10-14T13:37:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jkqutJrJ-VBd5y043B4c4adrdyA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TMRAEIEULVDUDCLIPP2XUVVQVQ.jpeg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Leite respalda a Cartes: “El gran elector dentro del Partido Colorado sigue siendo él”",
-          "url": "https://www.abc.com.py/politica/2026/10/14/leite-respalda-a-cartes-el-gran-elector-dentro-del-partido-colorado-sigue-siendo-el",
-          "publishedAt": "2026-10-14T12:44:50.000Z",
-          "image": "https://www.abc.com.py/resizer/fvTg33dg1YraqqyoV1GzZoWQ6XI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4XN5KDJZFNANXNTZFW4IYD2NBM.jpeg"
+          "title": "Feminicidio en Villarrica: matan a una mujer que se resistió a una violación",
+          "url": "https://www.abc.com.py/policiales/2026/10/14/feminicidio-en-villarrica-matan-a-una-mujer-que-se-resistio-a-una-violacion",
+          "publishedAt": "2026-10-14T13:16:21.000Z",
+          "image": "https://www.abc.com.py/resizer/RLrKl1DAbNnQqT2xjvuIdjd7rCs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6ZHHQQ7GTBAJLMJGA2HL5Z7W24.jpg"
         },
         {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Leite destaca el peso del respaldo popular en el liderazgo de Cartes",
-          "url": "https://www.adndigital.com.py/leite-destaca-el-peso-del-respaldo-popular-en-el-liderazgo-de-cartes",
-          "publishedAt": "2026-10-14T12:49:06.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-14-at-092637.jpeg"
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Presunto feminicidio en Villarrica: sospechoso confesó haber estrangulado a su pareja",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/presunto-feminicidio-en-villarrica-sospechoso-confeso-haber-estrangulado-a-su-pareja",
+          "publishedAt": "2026-10-14T13:00:00.000Z",
+          "image": null
         },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
-          "title": "Leite insiste con salidas del BCP y reafirma lealtad a Cartes en medio de crisis en el oficialismo",
-          "url": "https://www.ultimahora.com/leite-insiste-con-salidas-del-bcp-y-reafirma-lealtad-a-cartes-en-medio-de-crisis-en-el-oficialismo",
-          "publishedAt": "2026-10-14T13:26:09.000Z",
+          "title": "Mujer es hallada muerta en Villarrica y apuntan a un presunto feminicidio",
+          "url": "https://www.ultimahora.com/mujer-es-hallada-muerta-en-villarrica-y-apuntan-a-un-presunto-feminicidio",
+          "publishedAt": "2026-10-14T12:55:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nuevo caso de feminicidio: Estrangulan a una joven y abandonan su cuerpo en un yuyal",
+          "url": "https://elnacional.com.py/nacionales/nuevo-caso-feminicidio-estrangulan-una-joven-abandonan-su-cuerpo-yuyal-n113579",
+          "publishedAt": "2026-10-14T12:54:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/12/fba16cbab192898eb6938cc03841bcbb.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/-iE3-twDKpJJk9sc96_9b0Q1MjY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DWEQ3ASZMZC37GR7JNR53QNL6I.png",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/14/ella-tenia-asma-yo-no-le-aprete-mucho-tiempo-la-indignante-declaracion-del-sospechoso-de-matar-a-una-joven"
+      },
+      "firstSeenAt": "2026-10-14T13:35:33.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-14T23:07:14.425Z",
+      "updatedSlot": "tarde",
+      "score": 23.64
+    },
+    {
+      "id": "ev-0j1qzx5",
+      "title": "Hugo Javier González sale del hospital para cumplir 90 días de prisión domiciliaria",
+      "summary": "El exgobernador de Central Hugo Javier González abandonó el Hospital Nacional de Itauguá tras 38 días de internación, luego de que el juez Carlos Luis Mendoza Peña le otorgara prisión domiciliaria por 90 días para su recuperación. Había ingresado el 6 de setiembre por meningitis bacteriana y traumatismo craneoencefálico. La Policía Nacional desplegó un operativo de seguridad para su traslado, con decenas de personas aguardando en el lugar.",
+      "keyPoints": [
+        "El juez Carlos Luis Mendoza Peña otorgó prisión domiciliaria por 90 días.",
+        "González estuvo internado 38 días en el Hospital Nacional de Itauguá.",
+        "Según NPY, cumplirá la medida con monitoreo electrónico y control médico.",
+        "La Policía Nacional organizó un operativo de seguridad para el traslado."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hugo Javier deja el hospital y cumplirá arresto domiciliario durante 90 días",
+          "url": "https://elnacional.com.py/politica/hugo-javier-deja-hospital-cumplira-arresto-domiciliario-durante-90-dias-n113611",
+          "publishedAt": "2026-10-14T22:15:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6acfff28004cb.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hugo Javier deja el Hospital de Itauguá tras 38 días de internación y va a casa",
+          "url": "https://www.lanacion.com.py/politica/2026/10/14/hugo-javier-deja-el-hospital-de-itaugua-tras-38-dias-de-internacion-y-va-a-casa",
+          "publishedAt": "2026-10-14T18:22:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/V0hYFPtU6JAue1l74HD5qO6kuW8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TDT5KKLGTZFT7IG36OB3YOV74A.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Preparan traslado de Hugo Javier para cumplir arresto domiciliario",
+          "url": "https://www.adndigital.com.py/preparan-traslado-de-hugo-javier-para-cumplir-arresto-domiciliario",
+          "publishedAt": "2026-10-14T18:21:09.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-13-at-142934.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Disponen prisión domiciliaria para Hugo Javier",
+          "url": "https://www.telefuturo.com.py/disponen-prision-domiciliaria-para-hugo-javier",
+          "publishedAt": "2026-10-14T13:56:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Hugo Javier recibe el alta médica y cumplirá prisión domiciliaria",
+          "url": "https://www.npy.com.py/noticias/nacionales/hugo-javier-recibe-el-alta-medica-y-cumplira-prision-domiciliaria",
+          "publishedAt": "2026-10-14T12:10:31.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hugo Javier González obtiene prisión domiciliaria por 90 días para su recuperación",
+          "url": "https://www.lanacion.com.py/politica/2026/10/14/hugo-javier-gonzalez-obtiene-prision-domiciliaria-por-90-dias-para-su-recuperacion",
+          "publishedAt": "2026-10-14T10:27:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VYMhsamMivKV12kcRCJIHtywALw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55TVHXDZ5RAW7BHDC36O6LJMLI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Juez concede prisión domiciliaria a Hugo Javier y ordena uso de tobillera electrónica",
+          "url": "https://www.adndigital.com.py/juez-concede-prision-domiciliaria-a-hugo-javier-y-ordena-uso-de-tobillera-electronica",
+          "publishedAt": "2026-10-14T10:16:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-13-at-104559.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Aguardan resolución sobre el caso Hugo Javier",
+          "url": "https://www.telefuturo.com.py/aguardan-resolucion-sobre-el-caso-hugo-javier",
+          "publishedAt": "2026-10-13T18:29:13.000Z",
           "image": null
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/FGw38bqcIbKBi7i2mHfD-pDKEBA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NXGTDAB2JBCUXEEXASZJSAQTYU.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/14/cartes-designa-a-baruja-candidato-presidencial-de-honor-colorado"
+        "url": "https://statics.elnacional.com.py/2026/10/6acfff28004cb.webp",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/hugo-javier-deja-hospital-cumplira-arresto-domiciliario-durante-90-dias-n113611"
       },
       "firstSeenAt": "2026-10-14T13:35:33.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-14T13:35:33.532Z",
-      "updatedSlot": "manana",
-      "score": 26.99
+      "updatedAt": "2026-10-14T23:07:14.425Z",
+      "updatedSlot": "tarde",
+      "score": 20.93
     },
     {
       "id": "ev-09bvhhi",
@@ -177,7 +365,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 20.92
+      "score": 20.12
+    },
+    {
+      "id": "ev-0jvknei",
+      "title": "Meteorología alerta por tormentas, lluvias intensas y posible granizo",
+      "summary": "La Dirección de Meteorología anunció una jornada fresca a cálida con lluvias y tormentas eléctricas en gran parte del país, con acumulados de entre 30 y 80 milímetros. Se advierte sobre ráfagas de viento y probable caída puntual de granizo, con especial riesgo en cinco departamentos y extensión de las tormentas hacia el norte y el este.",
+      "keyPoints": [
+        "Se prevén tormentas eléctricas en gran parte del país.",
+        "Los acumulados estimados van de 30 a 80 milímetros.",
+        "Existe probabilidad de granizo y ráfagas de viento.",
+        "La alerta afecta especialmente a cinco departamentos."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tormentas fuertes y granizos amenazan a cinco departamentos",
+          "url": "https://elnacional.com.py/nacionales/tormentas-fuertes-granizos-amenazan-cinco-departamentos-n113588",
+          "publishedAt": "2026-10-14T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/02/699836d1e8ace.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Aviso especial meteorológico: Prevén tormentas fuertes y caída de granizos en 12 departamentos",
+          "url": "https://www.ultimahora.com/aviso-especial-meteorologico-preven-tormentas-fuertes-y-caida-de-granizos-en-12-departamentos",
+          "publishedAt": "2026-10-14T12:05:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tormentas eléctricas se extienden al norte y este del país con severos acumulados",
+          "url": "https://www.lanacion.com.py/pais/2026/10/14/tormentas-electricas-se-extienden-al-norte-y-este-del-pais-con-severos-acumulados",
+          "publishedAt": "2026-10-14T09:58:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cLgDFbBjv8l768sK9475L-Kvuvc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M37YMGX32NAKXMLCMY4NX4GRVU.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Anuncian día fresco a cálido y tormentas eléctricas",
+          "url": "https://www.npy.com.py/noticias/nacionales/anuncian-dia-fresco-a-calido-y-tormentas-electricas",
+          "publishedAt": "2026-10-14T09:40:48.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Ocho departamentos bajo alerta por tormentas fuertes y posible caída de granizo",
+          "url": "https://elnacional.com.py/nacionales/ocho-departamentos-alerta-tormentas-fuertes-posible-caida-granizo-n113543",
+          "publishedAt": "2026-10-13T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/cLgDFbBjv8l768sK9475L-Kvuvc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M37YMGX32NAKXMLCMY4NX4GRVU.jpeg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/14/tormentas-electricas-se-extienden-al-norte-y-este-del-pais-con-severos-acumulados"
+      },
+      "firstSeenAt": "2026-10-14T13:35:33.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-14T23:07:14.425Z",
+      "updatedSlot": "tarde",
+      "score": 17.28
     },
     {
       "id": "ev-0a1um3e",
@@ -235,182 +490,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 17.99
+      "score": 17.19
     },
     {
-      "id": "ev-04njcpc",
-      "title": "Mujer de 27 años muere estrangulada en Villarrica y detienen a su pareja",
-      "summary": "Teresita de Jesús Sánchez Báez, de 27 años, fue hallada sin vida en un baldío del barrio Santa Librada de Villarrica, Guairá, en un presunto feminicidio. Según la Policía, murió por asfixia por estrangulamiento. Su pareja, Paulo Storm Chamorro, de 20 años, fue detenido y, de acuerdo con varios medios, habría confesado el crimen.",
+      "id": "ev-1qnnesg",
+      "title": "Exportaciones paraguayas crecen impulsadas por la soja y sus derivados",
+      "summary": "Las exportaciones registradas de Paraguay sumaron cerca de USD 15.972,6 millones al cierre de setiembre, con un crecimiento del 25,7%, impulsadas sobre todo por granos, aceite y harina de soja. Además, según la Ventanilla Única de Exportación, los envíos con Certificado de Origen llegaron a USD 936 millones en setiembre, un 15% más que en agosto.",
       "keyPoints": [
-        "El cuerpo fue hallado el miércoles 14 en el barrio Santa Librada de Villarrica.",
-        "La víctima falleció por asfixia por estrangulamiento, según fuentes policiales.",
-        "El sospechoso, de 20 años, fue detenido y habría confesado."
+        "Las exportaciones registradas alcanzaron USD 15.972,6 millones al cierre de setiembre.",
+        "El crecimiento interanual reportado fue del 25,7%.",
+        "La soja, el aceite y la harina de soja fueron los principales impulsores.",
+        "Los envíos con Certificado de Origen sumaron USD 936 millones en setiembre."
       ],
-      "category": "pais",
+      "category": "economia",
       "scope": "paraguay",
       "summaryKind": "ia",
       "model": "claude-opus-5-5",
       "sources": [
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Feminicidio en Villarrica: matan a una mujer que se resistió a una violación",
-          "url": "https://www.abc.com.py/policiales/2026/10/14/feminicidio-en-villarrica-matan-a-una-mujer-que-se-resistio-a-una-violacion",
-          "publishedAt": "2026-10-14T13:16:21.000Z",
-          "image": "https://www.abc.com.py/resizer/RLrKl1DAbNnQqT2xjvuIdjd7rCs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6ZHHQQ7GTBAJLMJGA2HL5Z7W24.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Exportaciones con Certificado de Origen aumentaron 15 % en setiembre",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/14/exportaciones-con-certificado-de-origen-aumentaron-15-en-setiembre",
+          "publishedAt": "2026-10-14T17:22:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/905-Apa_t3JmMmljPAolfORa-O4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EFWQFL2JMVCKFMBIF4KVFT52RU.jpg"
         },
         {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Presunto feminicidio en Villarrica: sospechoso confesó haber estrangulado a su pareja",
-          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/presunto-feminicidio-en-villarrica-sospechoso-confeso-haber-estrangulado-a-su-pareja",
-          "publishedAt": "2026-10-14T13:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Mujer es hallada muerta en Villarrica y apuntan a un presunto feminicidio",
-          "url": "https://www.ultimahora.com/mujer-es-hallada-muerta-en-villarrica-y-apuntan-a-un-presunto-feminicidio",
-          "publishedAt": "2026-10-14T12:55:09.000Z",
-          "image": null
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Soja y derivados impulsan exportaciones paraguayas",
+          "url": "https://diariovanguardia.com.py/soja-y-derivados-impulsan-exportaciones-paraguayas",
+          "publishedAt": "2026-10-14T13:25:07.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/PAG-7B-1024x681.jpg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Nuevo caso de feminicidio: Estrangulan a una joven y abandonan su cuerpo en un yuyal",
-          "url": "https://elnacional.com.py/nacionales/nuevo-caso-feminicidio-estrangulan-una-joven-abandonan-su-cuerpo-yuyal-n113579",
-          "publishedAt": "2026-10-14T12:54:00.000Z",
-          "image": "https://statics.elnacional.com.py/2024/12/fba16cbab192898eb6938cc03841bcbb.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.abc.com.py/resizer/RLrKl1DAbNnQqT2xjvuIdjd7rCs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6ZHHQQ7GTBAJLMJGA2HL5Z7W24.jpg",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/10/14/feminicidio-en-villarrica-matan-a-una-mujer-que-se-resistio-a-una-violacion"
-      },
-      "firstSeenAt": "2026-10-14T13:35:33.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-14T13:35:33.532Z",
-      "updatedSlot": "manana",
-      "score": 17.97
-    },
-    {
-      "id": "ev-0j1qzx5",
-      "title": "Juez otorga prisión domiciliaria por 90 días a Hugo Javier González",
-      "summary": "El juez de Ejecución Carlos Luis Mendoza Peña concedió prisión domiciliaria por 90 días al exgobernador de Central Hugo Javier González, condenado a 10 años de cárcel, para su recuperación. Estuvo internado desde el 6 de setiembre en el Hospital de Itauguá por meningitis bacteriana y un traumatismo craneoencefálico. Cumplirá la medida en Emboscada con tobillera electrónica.",
-      "keyPoints": [
-        "La prisión domiciliaria fue otorgada por 90 días.",
-        "Hugo Javier recibió el alta del Hospital Nacional de Itauguá.",
-        "Usará tobillera electrónica en una vivienda de su hermana en Emboscada."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Hugo Javier recibe el alta médica y cumplirá prisión domiciliaria",
-          "url": "https://www.npy.com.py/noticias/nacionales/hugo-javier-recibe-el-alta-medica-y-cumplira-prision-domiciliaria",
-          "publishedAt": "2026-10-14T12:10:31.000Z",
-          "image": null
+          "title": "Paraguay exportó casi USD 16.000 millones al cierre de setiembre, con un crecimiento del 25,7%",
+          "url": "https://elnacional.com.py/economia/paraguay-exporto-casi-usd-16000-millones-cierre-setiembre-crecimiento-257-n113546",
+          "publishedAt": "2026-10-14T09:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/10/3acf103e1a4dd22b389437ffacddc2a7.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Hugo Javier González obtiene prisión domiciliaria por 90 días para su recuperación",
-          "url": "https://www.lanacion.com.py/politica/2026/10/14/hugo-javier-gonzalez-obtiene-prision-domiciliaria-por-90-dias-para-su-recuperacion",
-          "publishedAt": "2026-10-14T10:27:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/VYMhsamMivKV12kcRCJIHtywALw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55TVHXDZ5RAW7BHDC36O6LJMLI.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Juez concede prisión domiciliaria a Hugo Javier y ordena uso de tobillera electrónica",
-          "url": "https://www.adndigital.com.py/juez-concede-prision-domiciliaria-a-hugo-javier-y-ordena-uso-de-tobillera-electronica",
-          "publishedAt": "2026-10-14T10:16:05.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-13-at-104559.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Aguardan resolución sobre el caso Hugo Javier",
-          "url": "https://www.telefuturo.com.py/aguardan-resolucion-sobre-el-caso-hugo-javier",
-          "publishedAt": "2026-10-13T18:29:13.000Z",
-          "image": null
+          "title": "Las exportaciones crecieron 25,7% al cierre de setiembre",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/14/las-exportaciones-crecieron-257-al-cierre-de-setiembre",
+          "publishedAt": "2026-10-14T04:42:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4QD97PYfpITbnty43f9L_-Gk8RE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SFQ6OX5XVBH6LJGXHXL7NXVOVI.jpg"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/VYMhsamMivKV12kcRCJIHtywALw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55TVHXDZ5RAW7BHDC36O6LJMLI.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/14/hugo-javier-gonzalez-obtiene-prision-domiciliaria-por-90-dias-para-su-recuperacion"
+        "url": "https://statics.elnacional.com.py/2024/10/3acf103e1a4dd22b389437ffacddc2a7.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/paraguay-exporto-casi-usd-16000-millones-cierre-setiembre-crecimiento-257-n113546"
       },
       "firstSeenAt": "2026-10-14T13:35:33.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-14T13:35:33.532Z",
-      "updatedSlot": "manana",
-      "score": 17.88
-    },
-    {
-      "id": "ev-0jvknei",
-      "title": "Meteorología alerta por tormentas fuertes y posible granizo en varios departamentos",
-      "summary": "La Dirección de Meteorología e Hidrología emitió avisos por tormentas que podrían traer lluvias intensas, descargas eléctricas, ráfagas de viento y granizo puntual, con mayor incidencia en el norte y este del país. Los acumulados previstos van de 30 a 80 milímetros. La cantidad de departamentos bajo alerta varió entre boletines, y las autoridades pidieron a la población mantenerse informada y tomar precauciones.",
-      "keyPoints": [
-        "Meteorología emitió alertas por tiempo severo en el noreste de ambas regiones.",
-        "Se prevén acumulados de entre 30 y 80 mm, según NPY.",
-        "Un boletín inicial abarcaba ocho departamentos y uno posterior, 12.",
-        "Hay probabilidad de granizo y fuertes ráfagas de viento."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Aviso especial meteorológico: Prevén tormentas fuertes y caída de granizos en 12 departamentos",
-          "url": "https://www.ultimahora.com/aviso-especial-meteorologico-preven-tormentas-fuertes-y-caida-de-granizos-en-12-departamentos",
-          "publishedAt": "2026-10-14T12:05:07.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tormentas eléctricas se extienden al norte y este del país con severos acumulados",
-          "url": "https://www.lanacion.com.py/pais/2026/10/14/tormentas-electricas-se-extienden-al-norte-y-este-del-pais-con-severos-acumulados",
-          "publishedAt": "2026-10-14T09:58:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cLgDFbBjv8l768sK9475L-Kvuvc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M37YMGX32NAKXMLCMY4NX4GRVU.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Anuncian día fresco a cálido y tormentas eléctricas",
-          "url": "https://www.npy.com.py/noticias/nacionales/anuncian-dia-fresco-a-calido-y-tormentas-electricas",
-          "publishedAt": "2026-10-14T09:40:48.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Ocho departamentos bajo alerta por tormentas fuertes y posible caída de granizo",
-          "url": "https://elnacional.com.py/nacionales/ocho-departamentos-alerta-tormentas-fuertes-posible-caida-granizo-n113543",
-          "publishedAt": "2026-10-13T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/cLgDFbBjv8l768sK9475L-Kvuvc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M37YMGX32NAKXMLCMY4NX4GRVU.jpeg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/14/tormentas-electricas-se-extienden-al-norte-y-este-del-pais-con-severos-acumulados"
-      },
-      "firstSeenAt": "2026-10-14T13:35:33.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-14T13:35:33.532Z",
-      "updatedSlot": "manana",
-      "score": 17.87
+      "updatedAt": "2026-10-14T23:07:14.425Z",
+      "updatedSlot": "tarde",
+      "score": 14.52
     },
     {
       "id": "ev-0xzh5ap",
@@ -484,7 +623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 14.95
+      "score": 14.16
     },
     {
       "id": "ev-16la6hr",
@@ -551,57 +690,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 14.84
-    },
-    {
-      "id": "ev-1qnnesg",
-      "title": "Exportaciones paraguayas suben 25,7% hasta setiembre impulsadas por la soja",
-      "summary": "Las exportaciones registradas de Paraguay sumaron USD 15.972,6 millones al cierre de setiembre, frente a USD 12.709,1 millones del mismo periodo de 2025, lo que representa un crecimiento del 25,7%. El aumento se explica principalmente por mayores envíos de granos de soja, aceite y harina de soja, según los datos reportados por los medios.",
-      "keyPoints": [
-        "Las exportaciones totalizaron USD 15.972,6 millones a setiembre.",
-        "En el mismo lapso de 2025 sumaron USD 12.709,1 millones.",
-        "La soja y sus derivados fueron el principal motor del crecimiento."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Soja y derivados impulsan exportaciones paraguayas",
-          "url": "https://diariovanguardia.com.py/soja-y-derivados-impulsan-exportaciones-paraguayas",
-          "publishedAt": "2026-10-14T13:25:07.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/PAG-7B-1024x681.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Paraguay exportó casi USD 16.000 millones al cierre de setiembre, con un crecimiento del 25,7%",
-          "url": "https://elnacional.com.py/economia/paraguay-exporto-casi-usd-16000-millones-cierre-setiembre-crecimiento-257-n113546",
-          "publishedAt": "2026-10-14T09:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2024/10/3acf103e1a4dd22b389437ffacddc2a7.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Las exportaciones crecieron 25,7% al cierre de setiembre",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/14/las-exportaciones-crecieron-257-al-cierre-de-setiembre",
-          "publishedAt": "2026-10-14T04:42:22.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4QD97PYfpITbnty43f9L_-Gk8RE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SFQ6OX5XVBH6LJGXHXL7NXVOVI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/PAG-7B-1024x681.jpg",
-        "credit": "Vanguardia",
-        "articleUrl": "https://diariovanguardia.com.py/soja-y-derivados-impulsan-exportaciones-paraguayas"
-      },
-      "firstSeenAt": "2026-10-14T13:35:33.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-14T13:35:33.532Z",
-      "updatedSlot": "manana",
-      "score": 13.99
+      "score": 14.05
     },
     {
       "id": "ev-1dwhc3h",
@@ -652,7 +741,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 13.87
+      "score": 13.07
     },
     {
       "id": "ev-1ah5jkn",
@@ -727,7 +816,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 12.33
+      "score": 11.53
     },
     {
       "id": "ev-1q59tvz",
@@ -778,7 +867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 10.96
+      "score": 10.17
     },
     {
       "id": "ev-1innx0g",
@@ -828,7 +917,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 10.96
+      "score": 10.16
     },
     {
       "id": "ev-1wv71mu",
@@ -871,7 +960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 9.96
+      "score": 9.16
     },
     {
       "id": "ev-1b4815l",
@@ -913,7 +1002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.16
     },
     {
       "id": "ev-0ya24a6",
@@ -956,7 +1045,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 9.78
+      "score": 8.99
     },
     {
       "id": "ev-0fqpjdd",
@@ -998,7 +1087,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 9.74
+      "score": 8.95
     },
     {
       "id": "ev-13v5n5k",
@@ -1041,7 +1130,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 7.4
+      "score": 6.6
     },
     {
       "id": "ev-1moiph6",
@@ -1083,7 +1172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 6.62
+      "score": 5.83
     },
     {
       "id": "ev-1lc99cq",
@@ -1125,7 +1214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-14T13:35:33.532Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.33
     }
   ],
   "runs": [
@@ -1135,6 +1224,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 40
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-14T23:07:14.425Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 16
     }
   ]
 }

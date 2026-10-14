@@ -1,5 +1,32 @@
 [
   {
+    "startedAt": "2026-10-14T23:07:14.425Z",
+    "finishedAt": "2026-10-14T23:09:40.550Z",
+    "edition": "2026-10-14",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-opus-5-5",
+    "articles": 279,
+    "clusters": 218,
+    "candidates": 12,
+    "added": 0,
+    "updated": 5,
+    "eventsTotal": 20,
+    "sourcesOk": 8,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 2,
+      "aiErrors": [],
+      "inputTokens": 12425,
+      "outputTokens": 5807,
+      "fallbacks": 0
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-10-14T13:35:33.532Z",
     "finishedAt": "2026-10-14T13:39:28.109Z",
     "edition": "2026-10-14",
