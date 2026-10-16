@@ -1,0 +1,936 @@
+{
+  "date": "2026-10-16",
+  "timezone": "America/Asuncion",
+  "generatedAt": "2026-10-16T13:11:00.529Z",
+  "aiMode": "ia",
+  "model": "claude-opus-5-5",
+  "maxEvents": 20,
+  "events": [
+    {
+      "id": "ev-1jt7ggi",
+      "title": "Meteorología prevé días frescos a cálidos y pocas lluvias en el país",
+      "summary": "La Dirección Nacional de Meteorología pronosticó para este viernes y los próximos días mañanas frescas y tardes cálidas en todo el territorio. Las mínimas rondan entre 15 y 20 °C y las máximas llegan hasta 28 °C en la Región Occidental. La probabilidad de lluvias es baja en general, aunque se esperan precipitaciones en el extremo norte del país.",
+      "keyPoints": [
+        "Las temperaturas mínimas previstas oscilan entre 15 y 20 °C.",
+        "Las máximas van de 25 a 27 °C en la Región Oriental y de 26 a 28 °C en la Occidental.",
+        "Según Última Hora, hay altas probabilidades de lluvia solo en el extremo norte.",
+        "Se anuncian vientos del sur y cielo mayormente nublado."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Ambiente fresco a cálido para los próximos dí­as",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-ambiente-fresco-calido-proximos-dias-n113673",
+          "publishedAt": "2026-10-16T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/10/8c83a627fc2f52d85fb033c8e4c2bf58.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ambiente fresco a cálido y baja probabilidad de lluvias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/16/ambiente-fresco-a-calido-y-baja-probabilidad-de-lluvias",
+          "publishedAt": "2026-10-16T10:01:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Qaeiwz-mCcjKt5oB6CN66xZRhRg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7GZPTXXNEJA6PNT625CCIYBQTU.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ambiente fresco a cálido para los próximos dí­as",
+          "url": "https://www.adndigital.com.py/ambiente-fresco-a-calido-para-los-proximos-di%c2%adas",
+          "publishedAt": "2026-10-16T09:56:18.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/06/amanecer-clima-1-1024x768.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Viernes fresco a cálido y con lluvias solo en el extremo norte de Paraguay",
+          "url": "https://www.ultimahora.com/viernes-fresco-a-calido-y-con-lluvias-solo-en-el-extremo-norte-de-paraguay",
+          "publishedAt": "2026-10-16T09:42:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Viernes fresco y con pocas probabilidades de lluvia",
+          "url": "https://www.npy.com.py/noticias/nacionales/viernes-fresco-y-con-pocas-probabilidades-de-lluvia",
+          "publishedAt": "2026-10-16T09:40:42.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2024/10/8c83a627fc2f52d85fb033c8e4c2bf58.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/clima-paraguay-ambiente-fresco-calido-proximos-dias-n113673"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 20.76
+    },
+    {
+      "id": "ev-0312jlc",
+      "title": "Dirigentes colorados respaldan a Alliana tras el giro de Cartes hacia Baruja",
+      "summary": "Tras la decisión de Horacio Cartes de optar por Juan Carlos Baruja como precandidato presidencial de Honor Colorado para 2028, varios dirigentes colorados ratificaron su apoyo a Pedro Alliana. El ministro del Interior, Enrique Riera, se alineó con Santiago Peña y cuestionó el acercamiento entre Cartes y Abdo, mientras la gobernadora Norma Zárate afirmó que los 15 gobernadores colorados mantienen su respaldo.",
+      "keyPoints": [
+        "Cartes optó por Juan Carlos Baruja como precandidato de Honor Colorado, desplazando a Alliana.",
+        "Enrique Riera dijo que le dolió el acercamiento entre Cartes y Abdo.",
+        "Según Norma Zárate, los 15 gobernadores colorados siguen apoyando a Alliana.",
+        "Presidentes de seccionales también expresaron respaldo a Alliana, según Vanguardia."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Líderes colorados defienden candidatura de Pedro Alliana",
+          "url": "https://diariovanguardia.com.py/lideres-colorados-defienden-candidatura-de-pedro-alliana",
+          "publishedAt": "2026-10-16T11:11:28.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/687a62f7a00a4_940_529.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La gobernadora Norma Zárate ratifica su apoyo a Pedro Alliana",
+          "url": "https://www.ultimahora.com/la-gobernadora-norma-zarate-ratifica-su-apoyo-a-pedro-alliana",
+          "publishedAt": "2026-10-16T10:53:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Riera se alinea a Peña y respalda candidatura de Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/16/riera-se-alinea-a-pena-y-respalda-candidatura-de-alliana",
+          "publishedAt": "2026-10-16T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cgzqYT7VedrMUnavWL4R-nzFa5Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7G3M5QOEVBDJ3GQTVGAAYLLUYA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Riera cuestiona el abrazo entre Cartes y Abdo y defiende la precandidatura de Alliana",
+          "url": "https://elnacional.com.py/politica/riera-cuestiona-abrazo-cartes-abdo-defiende-precandidatura-alliana-n113648",
+          "publishedAt": "2026-10-15T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6a9ad021696d6.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/687a62f7a00a4_940_529.jpg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/lideres-colorados-defienden-candidatura-de-pedro-alliana"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 17.83
+    },
+    {
+      "id": "ev-1497y8p",
+      "title": "Crecida histórica del Paraná deja más de 2.000 evacuados en Ayolas",
+      "summary": "La crecida del río Paraná mantiene bajo agua a gran parte de Ayolas, en Misiones, con más de 2.000 personas evacuadas. El nivel llegó a 6,30 metros, un pico comparable a la inundación de 1983, según el intendente Carlos Duarte. Las previsiones indican que podría subir unos 30 centímetros más y las autoridades advierten secuelas económicas hasta 2027.",
+      "keyPoints": [
+        "El río Paraná alcanzó 6,30 metros en Ayolas.",
+        "Más de 2.000 personas debieron abandonar sus hogares.",
+        "El intendente Carlos Duarte comparó la situación con la crecida de 1983.",
+        "Las previsiones indican que el nivel podría subir otros 30 centímetros."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ayolas sufre una crecida histórica del Paraná y suma más de 2.000 evacuados",
+          "url": "https://www.lanacion.com.py/pais/2026/10/16/ayolas-sufre-una-crecida-historica-del-parana-y-suma-mas-de-2000-evacuados",
+          "publishedAt": "2026-10-16T12:54:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7ebb4knV68s0JzA3JI115eVsVQo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JFNP22B7XNAMTAJU45ADVDMYYM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ayolas enfrenta una crecida histórica del Paraná con más de 2.000 evacuados",
+          "url": "https://www.adndigital.com.py/ayolas-enfrenta-una-crecida-historica-del-parana-con-mas-de-2-000-evacuados",
+          "publishedAt": "2026-10-16T12:08:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-090511-1024x576.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ayolas bajo agua: “Estamos teniendo alturas históricas”, afirma intendente",
+          "url": "https://www.ultimahora.com/ayolas-bajo-agua-estamos-teniendo-alturas-historicas-afirma-intendente",
+          "publishedAt": "2026-10-16T11:18:31.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/7ebb4knV68s0JzA3JI115eVsVQo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JFNP22B7XNAMTAJU45ADVDMYYM.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/16/ayolas-sufre-una-crecida-historica-del-parana-y-suma-mas-de-2000-evacuados"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 13.98
+    },
+    {
+      "id": "ev-0h5rbp2",
+      "title": "World Skate Games aclaran que las pruebas de velocidad en la Costanera siguen",
+      "summary": "La organización de los World Skate Games ASU26 aclaró que las competencias de velocidad en ruta en la Costanera de Asunción no fueron canceladas definitivamente y continuarán este viernes. La coordinadora general, Larissa Schaerer, explicó que habrá ajustes en el trazado y nuevos horarios, luego de la confusión generada por publicaciones sobre una suspensión y de problemas vinculados al estado de la Costanera.",
+      "keyPoints": [
+        "Las pruebas de velocidad en ruta continuarán este viernes en la Costanera.",
+        "Larissa Schaerer confirmó ajustes en el trazado y nuevos horarios.",
+        "Según El Nacional, pruebas fueron afectadas por el mal estado de la Costanera."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Los World Skate Games continúan sin ninguna cancelación",
+          "url": "https://www.adndigital.com.py/los-world-skate-games-continuan-sin-ninguna-cancelacion",
+          "publishedAt": "2026-10-16T11:53:18.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-081930-1-1024x682.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "World Skate Games: reprograman las pruebas canceladas por el mal estado de la Costanera",
+          "url": "https://elnacional.com.py/deportes/world-skate-games-reprograman-pruebas-canceladas-mal-estado-costanera-n113666",
+          "publishedAt": "2026-10-15T20:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad13b9ab2422.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "World Skate Games: pruebas de velocidad seguirán este viernes en la Costanera",
+          "url": "https://www.lanacion.com.py/pais/2026/10/15/world-skate-games-pruebas-de-velocidad-seguiran-este-viernes-en-la-costanera",
+          "publishedAt": "2026-10-15T23:07:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/axdGsIvdepDa4z9bDXsBU3kZhZA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5OAYQHR3GZCRHK2CYOWRYYDK5M.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-081930-1-1024x682.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/los-world-skate-games-continuan-sin-ninguna-cancelacion"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 13.89
+    },
+    {
+      "id": "ev-01ynmj4",
+      "title": "Subsecretario de Estado de EE. UU. Christopher Landau visitará Paraguay el domingo",
+      "summary": "El subsecretario de Estado de Estados Unidos, Christopher Landau, llegará el domingo a Paraguay para cumplir una agenda con reuniones con autoridades nacionales y políticas, una ofrenda floral en el Panteón de los Héroes y una visita a Itaipú prevista para el lunes. Según ABC Color, aún no se difundió una agenda oficial detallada y la visita coincide con tensiones internas en Honor Colorado.",
+      "keyPoints": [
+        "Landau llegará a Paraguay el domingo.",
+        "Prevé reunirse con autoridades nacionales y visitar Itaipú el lunes.",
+        "Según ABC Color, no hay todavía una agenda oficial detallada."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Christopher Landau llega el domingo a Paraguay en medio de la crisis interna de Honor Colorado",
+          "url": "https://www.abc.com.py/politica/2026/10/16/christopher-landau-llega-el-domingo-a-paraguay-en-medio-de-la-crisis-interna-de-honor-colorado",
+          "publishedAt": "2026-10-16T11:17:30.000Z",
+          "image": "https://www.abc.com.py/resizer/DxfGIB9DQkKgxz83PGoJ8GQgO7s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RFX76FVRVVAKBFI5BI5I3I2ARY.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Subsecretario de Estado de EEUU regresa a Paraguay este fin de semana",
+          "url": "https://elnacional.com.py/politica/subsecretario-estado-eeuu-regresa-paraguay-fin-semana-n113670",
+          "publishedAt": "2026-10-16T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a22c72fdb0ec.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Subsecretario de Estado de EE. UU. Laudau estará en el país y se reunirá con autoridades",
+          "url": "https://www.lanacion.com.py/politica/2026/10/15/subsecretario-de-estado-de-ee-uu-laudau-estara-en-el-pais-y-se-reunira-con-autoridades",
+          "publishedAt": "2026-10-15T20:48:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UV3W_3gWg6cZjYVXC3OnjZSmEOM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ASSYRH5J35DMBBHHJXJNH6XDXY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/DxfGIB9DQkKgxz83PGoJ8GQgO7s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RFX76FVRVVAKBFI5BI5I3I2ARY.jfif",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/16/christopher-landau-llega-el-domingo-a-paraguay-en-medio-de-la-crisis-interna-de-honor-colorado"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 13.84
+    },
+    {
+      "id": "ev-0se43jn",
+      "title": "Tesla presenta el nuevo Roadster con propulsores de SpaceX capaces de elevarlo",
+      "summary": "Tesla presentó en las instalaciones de SpaceX en McGregor, Texas, la nueva generación de su deportivo eléctrico Roadster, equipado con propulsores que le permiten elevarse y realizar maniobras aéreas. En una demostración, el vehículo dio una voltereta y aterrizó de forma controlada. Según los reportes, acelera de 0 a cerca de 100 km/h en menos de un segundo y Elon Musk anunció su producción para 2028.",
+      "keyPoints": [
+        "La presentación se realizó en el centro de pruebas de SpaceX en McGregor, Texas.",
+        "El Roadster realizó una voltereta en el aire y aterrizó con sus propulsores.",
+        "Acelera de 0 a cerca de 100 km/h en menos de un segundo.",
+        "Musk anunció que la producción iniciará en 2028."
+      ],
+      "category": "tecnologia",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El auto volador ya es real: Tesla presenta el nuevo Roadster con propulsión de SpaceX y aceleración récord",
+          "url": "https://www.abc.com.py/internacionales/2026/10/16/tesla-presenta-un-roadster-capaz-de-volar-y-acelerar-de-0-a-100-en-menos-de-un-segundo",
+          "publishedAt": "2026-10-16T12:51:56.000Z",
+          "image": "https://www.abc.com.py/resizer/5cWRX7ZFFRilRpLlUdiRAFUHOIo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ALLVF2HDNNB7XNUBBK2LRS4XSE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Elon Musk presenta su auto “volador” y anuncia que su producción iniciará en 2028",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/16/elon-musk-presenta-su-auto-volador-y-anuncia-que-su-produccion-iniciara-en-2028",
+          "publishedAt": "2026-10-16T11:35:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/b07pU1K_owoy55oZwVWrh1hOpmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3U4RS57WPFFCHLAXY54YS7CHU4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Así es el Tesla Roadster: Vuela y acelera de 0 a 100 en menos de un segundo",
+          "url": "https://www.ultimahora.com/asi-es-el-tesla-roadster-vuela-y-acelera-de-0-a-100-en-menos-de-un-segundo",
+          "publishedAt": "2026-10-16T11:05:54.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/5cWRX7ZFFRilRpLlUdiRAFUHOIo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ALLVF2HDNNB7XNUBBK2LRS4XSE.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/16/tesla-presenta-un-roadster-capaz-de-volar-y-acelerar-de-0-a-100-en-menos-de-un-segundo"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 11.47
+    },
+    {
+      "id": "ev-0p9fmz6",
+      "title": "Confirman segundo juicio oral contra Miguel Prieto por el caso Tajy",
+      "summary": "El Tribunal de Apelación confirmó la elevación a juicio oral de la causa Tajy, en la que el exintendente de Ciudad del Este y aspirante presidencial Miguel Prieto está acusado de lesión de confianza, administración en provecho propio y asociación criminal. Según la investigación, el supuesto perjuicio asciende a unos G. 306 millones. El proceso se originó durante la pandemia del covid-19.",
+      "keyPoints": [
+        "El Tribunal de Apelación confirmó la elevación a juicio oral de la causa Tajy.",
+        "Prieto está acusado de lesión de confianza, administración en provecho propio y asociación criminal.",
+        "La investigación estima un supuesto perjuicio de G. 306 millones.",
+        "Será el segundo juicio oral que enfrenta el dirigente opositor."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Caso Tajy: Miguel Prieto enfrentará un segundo juicio oral por presunta corrupción",
+          "url": "https://www.adndigital.com.py/caso-tajy-miguel-prieto-enfrentara-un-segundo-juicio-oral-por-presunta-corrupcion",
+          "publishedAt": "2026-10-16T11:54:03.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-28-at-172300.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Tajy: Prieto enfrentará segundo juicio por corrupción",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/16/caso-tajy-prieto-enfrentara-segundo-juicio-por-corrupcion",
+          "publishedAt": "2026-10-16T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8m0ZENXOD4ktpE8U_yKgPSt0GkA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EUK6A2GVJFCNDFJGEO573Q724E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Tajy: confirman segundo juicio oral para Miguel Prieto por corrupción",
+          "url": "https://www.lanacion.com.py/judiciales/2026/10/15/caso-tajy-confirman-segundo-juicio-oral-para-miguel-prieto-por-corrupcion",
+          "publishedAt": "2026-10-15T23:54:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3ZgGr5awaSjoU5PbC9YWJ-Hlw8I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4LZLAVO7UNEEFINADYOOFKSGTY.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-28-at-172300.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/caso-tajy-miguel-prieto-enfrentara-un-segundo-juicio-oral-por-presunta-corrupcion"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 10.89
+    },
+    {
+      "id": "ev-0nu4jod",
+      "title": "SENAD desmantela centro de procesamiento de cocaína en Ciudad del Este",
+      "summary": "La Secretaría Nacional Antidrogas desmanteló un centro de procesamiento de drogas en el barrio María Auxiliadora de Ciudad del Este. En el allanamiento se incautaron más de 5.000 dosis de cocaína, equipos para preparar estupefacientes y un lote de medicamentos inyectables para adelgazar, cuyo origen y autenticidad deberán ser verificados por las autoridades.",
+      "keyPoints": [
+        "El allanamiento ocurrió en el barrio María Auxiliadora de Ciudad del Este.",
+        "Se incautaron más de 5.000 dosis de cocaína y equipos de preparación.",
+        "También se halló un lote de inyectables para adelgazar de origen por verificar."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Allanamiento antidrogas revela lote de inyectables para adelgazar",
+          "url": "https://diariovanguardia.com.py/allanamiento-antidrogas-revela-lote-de-inyectables-para-adelgazar",
+          "publishedAt": "2026-10-16T13:04:40.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/drogas-adelgazantes-1-1024x768.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Desmantelan centro de procesamiento de cocaína e incauta fármacos para adelgazar",
+          "url": "https://www.adndigital.com.py/desmantelan-centro-de-procesamiento-de-cocaina-e-incauta-farmacos-para-adelgazar",
+          "publishedAt": "2026-10-16T11:12:26.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-075147-1024x768.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/drogas-adelgazantes-1-1024x768.jpeg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/allanamiento-antidrogas-revela-lote-de-inyectables-para-adelgazar"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.99
+    },
+    {
+      "id": "ev-1dj7nlv",
+      "title": "Recoleta y Rubio Ñu abren la fecha 15 del Clausura",
+      "summary": "Recoleta FC y Rubio Ñu juegan este viernes a las 19:20 en el estadio Ricardo Gregor de Asunción, en el partido inaugural de la fecha 15 del torneo Clausura 2026. Ambos equipos llegan comprometidos: Recoleta, dirigido por Jorge González, complicado en el promedio, y Rubio Ñu, de Javier Torrente, peleando por la permanencia. Arbitra Derlis López.",
+      "keyPoints": [
+        "El partido se juega a las 19:20 en el estadio Ricardo Gregor.",
+        "Es el único duelo del viernes y abre la fecha 15.",
+        "Derlis López será el árbitro y Carlos Paul Benítez estará en el VAR."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Recoleta FC vs. Rubio Ñu: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/16/recoleta-fc-vs-rubio-nu-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-10-16T12:51:06.000Z",
+          "image": "https://www.abc.com.py/resizer/tk6qoZqX99x_ls686soLZu6PWh0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5JIUUSDWBVGL7JQ2QTTBGSUVOI.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Recoleta y Rubio Ñu inician la fecha 15",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/16/recoleta-y-rubio-nu-inician-la-fecha-15",
+          "publishedAt": "2026-10-16T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KlbjT0tc-YBP9beyVwRdJFpPgZI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ST47YRJEJ5AMFOU6VBA4KK34TE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/tk6qoZqX99x_ls686soLZu6PWh0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5JIUUSDWBVGL7JQ2QTTBGSUVOI.jpeg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/10/16/recoleta-fc-vs-rubio-nu-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.97
+    },
+    {
+      "id": "ev-1sasfte",
+      "title": "Nuevo cierre parcial de la Costanera de Asunción por los World Skate Games",
+      "summary": "La Municipalidad de Asunción volvió a cerrar este viernes la avenida Costanera, desde la rotonda de General Santos hasta la calle Río Blanco, por las competencias de los World Skate Games ASU 2026. El corte rige desde las 9:00 hasta las 18:30, aunque podría extenderse hasta las 19:00 por retrasos. ABC Color reportó congestión y escasa presencia de agentes de tránsito.",
+      "keyPoints": [
+        "El cierre abarca desde la rotonda de General Santos hasta la calle Río Blanco.",
+        "Rige de 9:00 a 18:30 y podría extenderse hasta las 19:00.",
+        "Hubo retrasos por la postergación del día anterior debido al estado del asfalto.",
+        "Según ABC Color, solo un agente de la PMT ordenaba el tránsito en la zona."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: Costanera cargada a minutos del cierre",
+          "url": "https://www.abc.com.py/nacionales/2026/10/16/video-costanera-cargada-a-minutos-antes-del-cierre",
+          "publishedAt": "2026-10-16T12:31:31.000Z",
+          "image": "https://www.abc.com.py/resizer/_Wu0QoESYZEsBC3QNX6_ABlI-DE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2UW3NZPDQVALPAOPZL3BWZXWZE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Reiteran cierre parcial de la Costanera de Asunción este viernes de 9:00 a 18:30",
+          "url": "https://www.lanacion.com.py/pais/2026/10/16/reiteran-cierre-parcial-de-la-costanera-de-asuncion-este-viernes-de-900-a-1830",
+          "publishedAt": "2026-10-16T10:34:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wKgsIZ2xYsrDGas2tnm_wAlGcUc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KHL45ZQMK5C5DN6ETTMKQEAR4M.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/_Wu0QoESYZEsBC3QNX6_ABlI-DE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2UW3NZPDQVALPAOPZL3BWZXWZE.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/16/video-costanera-cargada-a-minutos-antes-del-cierre"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.95
+    },
+    {
+      "id": "ev-18j2ce1",
+      "title": "Gremio IPPSE alerta que Paraguay dejará de tener abundancia eléctrica",
+      "summary": "El presidente del IPPSE, ingeniero Ángel Recalde, advirtió que la abundancia de energía eléctrica que Paraguay disfrutó durante décadas no se mantendrá en el futuro. Ante el aumento constante del consumo nacional, instó a planificar nuevas fuentes de generación y a diversificar la matriz energética del país para responder al crecimiento de la demanda.",
+      "keyPoints": [
+        "Ángel Recalde, presidente del IPPSE, hizo la advertencia.",
+        "Según el gremio, la abundancia energética actual no se mantendrá.",
+        "Recalde pidió nuevas fuentes de generación y diversificar la matriz energética."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "IPPSE advierte que la abundancia de energía eléctrica en Paraguay llegará a su fin",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/16/ippse-advierte-que-la-abundancia-de-energia-electrica-en-paraguay-llegara-a-su-fin",
+          "publishedAt": "2026-10-16T12:09:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FltXotxEjRb_SEChKq7n7IyTbNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SYIUWIBHTFDI5ETR3DG3KTVOW4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPPSE advierte que Paraguay perderá su abundancia de energía eléctrica",
+          "url": "https://www.adndigital.com.py/ippse-advierte-que-paraguay-perdera-su-abundancia-de-energia-electrica",
+          "publishedAt": "2026-10-16T10:40:09.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/FltXotxEjRb_SEChKq7n7IyTbNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SYIUWIBHTFDI5ETR3DG3KTVOW4.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/16/ippse-advierte-que-la-abundancia-de-energia-electrica-en-paraguay-llegara-a-su-fin"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.91
+    },
+    {
+      "id": "ev-1s5pklx",
+      "title": "IPS abonará aguinaldo a jubilados y pensionados desde el 17 de noviembre",
+      "summary": "El Instituto de Previsión Social desembolsará alrededor de G. 430.000 millones en aguinaldo para jubilados y pensionados a partir del 17 de noviembre, según confirmó la gerente financiera y administrativa Gladys Vera. El beneficio se pagará junto con los haberes de noviembre y será financiado con el rendimiento de las inversiones financieras del fondo previsional.",
+      "keyPoints": [
+        "El monto ronda los G. 430.000 millones.",
+        "El pago comenzará el 17 de noviembre junto con los haberes del mes.",
+        "Se financiará con el rendimiento de las inversiones del fondo previsional."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El IPS pagará G. 430.000 millones en aguinaldo a jubilados desde el 17 de noviembre",
+          "url": "https://www.lanacion.com.py/pais/2026/10/16/el-ips-pagara-g-430000-millones-en-aguinaldo-a-jubilados-desde-el-17-de-noviembre",
+          "publishedAt": "2026-10-16T12:07:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/rdx-7vo1RCOXAsZw13Canajva7s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XD3OONZLENCPTBD7P4FBFQ72FE.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPS pagará G. 430.000 millones de aguinaldo a jubilados desde el 17 de noviembre",
+          "url": "https://www.adndigital.com.py/ips-pagara-g-430-000-millones-de-aguinaldo-a-jubilados-desde-el-17-de-noviembre",
+          "publishedAt": "2026-10-16T09:59:09.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-065233.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/rdx-7vo1RCOXAsZw13Canajva7s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XD3OONZLENCPTBD7P4FBFQ72FE.jpeg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/16/el-ips-pagara-g-430000-millones-en-aguinaldo-a-jubilados-desde-el-17-de-noviembre"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.91
+    },
+    {
+      "id": "ev-08kgmvq",
+      "title": "Presidente del BCP agradece al FMI y al Banco Mundial por apoyo al desarrollo",
+      "summary": "Carlos Carvallo, presidente del Banco Central del Paraguay, participó en la sesión plenaria de las reuniones del Fondo Monetario Internacional y del Grupo Banco Mundial, donde agradeció a ambos organismos por acompañar el desarrollo del país en las últimas décadas. Según La Nación, Carvallo ejerció el rol de chairman del encuentro, que reúne a representantes de más de 180 países.",
+      "keyPoints": [
+        "Carlos Carvallo participó en la plenaria de las reuniones del FMI y el Banco Mundial.",
+        "Agradeció a ambas instituciones por apoyar el desarrollo de Paraguay.",
+        "De acuerdo con La Nación, ocupó el rol de chairman del encuentro con más de 180 países."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Gracias al aporte del FMI y el Banco Mundial se logró el gran desarrollo del país, aseguran",
+          "url": "https://www.adndigital.com.py/gracias-al-aporte-del-fmi-y-el-banco-mundial-se-logro-el-gran-desarrollo-del-pais-aseguran",
+          "publishedAt": "2026-10-16T12:04:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/whatsapp-image-2026-02-03-at-165820.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Carvallo destaca el aporte del FMI y el Banco Mundial en el desarrollo de Paraguay",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/16/carvallo-destaca-el-aporte-del-fmi-y-el-banco-mundial-en-el-desarrollo-de-paraguay",
+          "publishedAt": "2026-10-16T10:53:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/J-A9PuNAF2MElmtxUpIf2oCBmos=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QSG6OJLQRNFLXEDUDFOMHWD5VU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/whatsapp-image-2026-02-03-at-165820.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/gracias-al-aporte-del-fmi-y-el-banco-mundial-se-logro-el-gran-desarrollo-del-pais-aseguran"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.91
+    },
+    {
+      "id": "ev-1v6sdgu",
+      "title": "Niña de 5 años muere en un tajamar en J. Eulogio Estigarribia",
+      "summary": "Una niña de 5 años falleció, supuestamente ahogada, tras ingresar a un tajamar en la Colonia Menonita Bergthal, en J. Eulogio Estigarribia, departamento de Caaguazú. Un niño de 9 años que estaba con ella quedó en grave estado. La Policía y la Fiscalía investigan las circunstancias del hecho, según informó La Nación.",
+      "keyPoints": [
+        "Una niña de 5 años murió en un tajamar en Caaguazú.",
+        "Un niño de 9 años que la acompañaba quedó en estado grave.",
+        "La Policía y la Fiscalía investigan el caso."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Niña de 5 años murió ahogada en un tajamar y un menor de 9 años quedó en grave estado",
+          "url": "https://www.lanacion.com.py/pais/2026/10/16/nina-de-5-anos-murio-ahogada-en-un-tajamar-y-un-menor-de-9-anos-quedo-en-grave-estado",
+          "publishedAt": "2026-10-16T11:37:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4mOYS56HG-0JiRxUP_zwXQ2AXeg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5QIMWF33YZHXXHUWQLURMYJ2KI.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Niña de 5 años muere ahogada y niño de 9 años queda grave en J. Eulogio Estigarribia",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/nina-de-5-anos-muere-ahogada-y-nino-de-9-anos-queda-grave-en-j-eulogio-estigarribia",
+          "publishedAt": "2026-10-15T14:41:00.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/4mOYS56HG-0JiRxUP_zwXQ2AXeg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5QIMWF33YZHXXHUWQLURMYJ2KI.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/16/nina-de-5-anos-murio-ahogada-en-un-tajamar-y-un-menor-de-9-anos-quedo-en-grave-estado"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.87
+    },
+    {
+      "id": "ev-0ddgzx3",
+      "title": "Obrero de 27 años muere al caer de una obra en Hernandarias",
+      "summary": "Un joven trabajador murió al caer desde gran altura mientras colocaba el techo de una construcción en la zona industrial de Hernandarias. La Nación identificó a la víctima como Matías Alexis Sanabria Benítez, de 27 años, y señaló que la obra está a cargo de la constructora Rotesma. Los medios difieren sobre la altura de la caída: 14 o 16 metros.",
+      "keyPoints": [
+        "La víctima fue identificada como Matías Alexis Sanabria Benítez, de 27 años.",
+        "El accidente ocurrió en una obra cercana a la Ruta PY07, en Hernandarias.",
+        "La Nación reporta una caída de 14 metros y Vanguardia de 16 metros."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Mortal accidente laboral: obrero se precipita desde 16 metros de altura",
+          "url": "https://diariovanguardia.com.py/mortal-accidente-laboral-obrero-se-precipita-desde-16-metros-de-altura",
+          "publishedAt": "2026-10-16T11:32:25.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/Matias-Alexis-Sanabria-Benitez1-1024x1024.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hernandarias: en accidente laboral falleció un joven por caída desde 14 metros de altura",
+          "url": "https://www.lanacion.com.py/pais/2026/10/15/hernandarias-en-accidente-laboral-fallecio-un-joven-por-caida-desde-14-metros-de-altura",
+          "publishedAt": "2026-10-15T21:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dna4r6vAuC8PRPH62FU5t4BSyNk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FVJPEO4P55D7DECVGR4NVBO6O4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/Matias-Alexis-Sanabria-Benitez1-1024x1024.jpeg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/mortal-accidente-laboral-obrero-se-precipita-desde-16-metros-de-altura"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.86
+    },
+    {
+      "id": "ev-0ur8o3x",
+      "title": "Crecida del Paraná inunda barrios de Ciudad del Este y arrastra basura",
+      "summary": "La crecida del río Paraná y del arroyo Acaraymí dejó bajo agua decenas de viviendas en los barrios San Rafael y San Agustín de Ciudad del Este. Según ABC Color, grandes cantidades de residuos, como plásticos, restos de animales y bolsas, son arrastradas hacia el río y dificultan el paso de las embarcaciones de rescate y monitoreo.",
+      "keyPoints": [
+        "Decenas de viviendas están inundadas en los barrios San Rafael y San Agustín.",
+        "La crecida del Paraná y del arroyo Acaraymí provocó la inundación.",
+        "Según ABC Color, la basura acumulada dificulta las tareas de rescate."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Inundaciones dejan al descubierto un río de basura que termina en el Paraná",
+          "url": "https://www.abc.com.py/este/2026/10/16/inundaciones-dejan-al-descubierto-un-rio-de-basura-que-termina-en-el-parana",
+          "publishedAt": "2026-10-16T11:20:42.000Z",
+          "image": "https://www.abc.com.py/resizer/KJoAFxfahaMiuI4cWNdLUeoby1c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/247HNDQNCFEDNMEKGMUPLM2RJA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "CDE: inundación por crecida del río Paraná",
+          "url": "https://www.lanacion.com.py/ojo/2026/10/16/cde-inundacion-por-crecida-del-rio-parana",
+          "publishedAt": "2026-10-16T08:49:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HzesO9ZyO-ZABS2Q9GzryP6I33M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5REFSYFUVVCAHB2QYZ7VNPI4OI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/KJoAFxfahaMiuI4cWNdLUeoby1c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/247HNDQNCFEDNMEKGMUPLM2RJA.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/este/2026/10/16/inundaciones-dejan-al-descubierto-un-rio-de-basura-que-termina-en-el-parana"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.85
+    },
+    {
+      "id": "ev-1661bzk",
+      "title": "Mipymes acceden a descuentos en trámites ante Senatur y Dinapi",
+      "summary": "El Ministerio de Industria y Comercio lanzó beneficios para micro, pequeñas y medianas empresas en trámites ante la Secretaría Nacional de Turismo y la Dirección Nacional de Propiedad Intelectual. Las medidas incluyen exoneraciones y descuentos para establecimientos con cédula mipymes, en el marco de la Ley 7444/2025, con el objetivo de impulsar la formalización y facilitar el acceso a servicios públicos.",
+      "keyPoints": [
+        "El lanzamiento se realizó en el Ministerio de Industria y Comercio.",
+        "Los beneficios incluyen exoneraciones y descuentos en servicios de Senatur y Dinapi.",
+        "Las medidas se enmarcan en la Ley 7444/2025, conocida como Ley Mipymes."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Mipymes podrán ahorrar en trámites ante la Senatur y la Dinapi",
+          "url": "https://www.abc.com.py/negocios/2026/10/16/mipymes-podran-ahorrar-en-tramites-ante-la-senatur-y-la-dinapi",
+          "publishedAt": "2026-10-16T11:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/NTuyTgsMO8aseXfAHF17phihoI8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y2O3NZVKXVHHNBLM5SDNUH6EKM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Establecimientos turísticos con cédula mipymes podrán acceder a descuentos en trámites",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/15/establecimientos-turisticos-con-cedula-mipymes-podran-acceder-a-descuentos-en-tramites",
+          "publishedAt": "2026-10-15T20:20:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RfVKI6p1fbWwq12fCug-dYjcKLo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NP2AO7T3ZNFLHCETWE57CDJLSE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.abc.com.py/resizer/NTuyTgsMO8aseXfAHF17phihoI8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y2O3NZVKXVHHNBLM5SDNUH6EKM.jpg",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/negocios/2026/10/16/mipymes-podran-ahorrar-en-tramites-ante-la-senatur-y-la-dinapi"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 9.82
+    },
+    {
+      "id": "ev-0dcncex",
+      "title": "Cepal estima un aumento del 19 % en las exportaciones paraguayas en 2026",
+      "summary": "La Comisión Económica para América Latina y el Caribe (Cepal) proyecta que las exportaciones de Paraguay crecerán 19 % en 2026 y alcanzarán unos USD 18.789 millones. Según Daniela García, directora de Comercio Internacional e Integración del organismo, el impulso proviene principalmente de productos agrícolas y manufacturas de origen agropecuario, de acuerdo con declaraciones dadas a La Nación.",
+      "keyPoints": [
+        "La Cepal proyecta un crecimiento del 19 % en las exportaciones paraguayas en 2026.",
+        "Los envíos totalizarían USD 18.789 millones al cierre del ejercicio.",
+        "El crecimiento estaría impulsado por productos agrícolas y manufacturas agropecuarias."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cepal proyecta expansión de 19 % en exportaciones de Paraguay en 2026",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/16/cepal-proyecta-expansion-de-19-en-exportaciones-de-paraguay-en-2026",
+          "publishedAt": "2026-10-16T03:06:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BsbWfh01uuhrilH2eLUs-Gt1s1Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RH4WXPE4FVAVVHNZMEJV3JEBPI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cepal destaca el crecimiento exportador de Paraguay",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/15/cepal-destaca-el-crecimiento-exportador-de-paraguay",
+          "publishedAt": "2026-10-15T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qSH4MHiP1jlxGfZwz_NjC2nSbdE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QL456M377VF35PWMG5UJXN4BNY.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/BsbWfh01uuhrilH2eLUs-Gt1s1Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RH4WXPE4FVAVVHNZMEJV3JEBPI.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/16/cepal-proyecta-expansion-de-19-en-exportaciones-de-paraguay-en-2026"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 6.16
+    },
+    {
+      "id": "ev-1hgflpr",
+      "title": "Diputados aprueban pedido de informes al IPS sobre sus inmuebles y alquileres",
+      "summary": "La Cámara de Diputados aprobó un pedido de informes dirigido a las autoridades del Instituto de Previsión Social sobre su patrimonio inmobiliario, situación financiera, rentabilidad de inmuebles, contratos de alquiler y planes de monetización. El requerimiento incluye un inventario consolidado de los bienes inmuebles de dominio privado, con datos catastrales, dimensiones, ubicación, linderos y estado de titulación.",
+      "keyPoints": [
+        "Diputados aprobaron un pedido de informes al IPS.",
+        "El pedido abarca patrimonio inmobiliario, contratos de alquiler y planes de monetización.",
+        "Se exige un inventario consolidado de los inmuebles de dominio privado del instituto."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados solicitan varios informes a IPS",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/16/diputados-solicitan-varios-informes-a-ips",
+          "publishedAt": "2026-10-16T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KsFhmGT5-QMSC5XhbqUOiMi_1B0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2FQEM5UWBA77P7CBUC6CEGQLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Piden informes al IPS sobre el patrimonio inmobiliario y los contratos de alquiler",
+          "url": "https://www.lanacion.com.py/politica/2026/10/15/piden-informes-al-ips-sobre-el-patrimonio-inmobiliario-y-los-contratos-de-alquiler",
+          "publishedAt": "2026-10-15T19:29:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nbW1EpUN29xhnxyAybQIjoV4s8c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ASOTEAP7Y5C27EGGFTUHFE7KNU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/KsFhmGT5-QMSC5XhbqUOiMi_1B0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2FQEM5UWBA77P7CBUC6CEGQLA.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/16/diputados-solicitan-varios-informes-a-ips"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 6.15
+    },
+    {
+      "id": "ev-0bf0goj",
+      "title": "Basilio Núñez anunciará el lunes su postura de cara a las presidenciales",
+      "summary": "El senador Basilio Núñez informó que dará a conocer este lunes su definición política respecto a las elecciones presidenciales. Según La Nación, el legislador indicó que utilizará el fin de semana para analizar la situación junto a su equipo político antes de comunicar la decisión, que es esperada dentro del escenario electoral.",
+      "keyPoints": [
+        "Basilio Núñez definirá su postura para las presidenciales el lunes.",
+        "El senador analizará la situación con su equipo durante el fin de semana."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Basilio Núñez definirá este lunes su postura política para las presidenciales",
+          "url": "https://www.lanacion.com.py/politica/2026/10/16/basilio-nunez-definira-este-lunes-su-postura-politica-para-las-presidenciales",
+          "publishedAt": "2026-10-16T13:03:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NyfiQHj4Czss_01ox55S0gwxdLI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NG43JC4WXBGJTNN2JBIH4FZB6Q.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/NyfiQHj4Czss_01ox55S0gwxdLI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NG43JC4WXBGJTNN2JBIH4FZB6Q.jpg",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/16/basilio-nunez-definira-este-lunes-su-postura-politica-para-las-presidenciales"
+      },
+      "firstSeenAt": "2026-10-16T13:11:00.529Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-16T13:11:00.529Z",
+      "updatedSlot": "manana",
+      "score": 5.99
+    }
+  ],
+  "runs": [
+    {
+      "slot": "manana",
+      "at": "2026-10-16T13:11:00.529Z",
+      "added": 20,
+      "updated": 0,
+      "candidates": 34
+    }
+  ]
+}
