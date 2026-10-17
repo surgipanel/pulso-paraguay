@@ -1,7 +1,10 @@
-// Registro de medios. Verificado a mano el 11/10/2026: solo se listan URLs que respondieron.
-// kind: "rss" | "atom" | "news-sitemap"
+// Registro de medios. Verificado a mano el 11/10/2026 y revisado el 17/10/2026: solo se listan URLs que respondieron.
+// kind: "rss" | "atom" | "news-sitemap" | "portada"
+//   portada → el medio no expone feed ni sitemap con notas del día; se leen los enlaces de su
+//             portada (fecha en la URL) y la cabecera pública de cada nota. Nunca el artículo.
 // enrich: "og-description" → el feed trae solo título; se lee la meta description de la nota
 //         (una petición por nota, con pausa, respetando crawl-delay del robots.txt).
+//         "og-image" → el feed trae texto pero no imagen; se lee solo la imagen.
 export const SOURCES = [
   {
     id: "abc",
@@ -57,9 +60,10 @@ export const SOURCES = [
     kind: "rss",
     url: "https://www.npy.com.py/index.rss",
     enrich: "og-image",
-    crawlDelayMs: 1500,
+    crawlDelayMs: 10_000, // robots.txt: Crawl-delay: 10
     maxEnrich: 10,
     region: "nacional",
+    note: "El feed está al día con su web (coincide con su sitemap de noticias); publica pocas notas por día y a veces ninguna el fin de semana.",
   },
   {
     id: "telefuturo",
@@ -68,9 +72,10 @@ export const SOURCES = [
     kind: "atom",
     url: "https://www.telefuturo.com.py/index.atom",
     enrich: "og-image",
-    crawlDelayMs: 1500,
+    crawlDelayMs: 10_000, // robots.txt: Crawl-delay: 10
     maxEnrich: 10,
     region: "nacional",
+    note: "El feed está al día con su web (coincide con su sitemap de noticias); publica pocas notas por día y a veces ninguna el fin de semana.",
   },
   {
     id: "vanguardia",
@@ -82,33 +87,39 @@ export const SOURCES = [
     crawlDelayMs: 1500,
     maxEnrich: 10,
     region: "Ciudad del Este",
+    note: "El feed está al día con su portada; publica unas 10 notas por día hábil y suele no publicar los fines de semana.",
   },
   {
     id: "hoy",
     name: "HOY",
     homepage: "https://www.hoy.com.py",
-    kind: "rss",
-    url: "https://www.hoy.com.py/feed/",
+    kind: "portada",
+    url: "https://www.hoy.com.py/",
+    crawlDelayMs: 2000, // robots.txt: Allow: / sin Crawl-delay
+    maxEnrich: 12,
     region: "nacional",
-    note: "El feed responde pero devuelve notas de 2023: se verifica en cada corrida y se descarta si sigue viejo.",
+    note: "Su RSS y sus sitemaps quedaron congelados en diciembre de 2023 (cambio de sistema). Se leen los enlaces con fecha de su portada y la cabecera pública de cada nota (descripción, imagen y hora de publicación).",
   },
   {
     id: "ip",
-    name: "Agencia IP (estatal)",
-    homepage: "https://www.ip.gov.py",
+    name: "Agencia IP (Medios del Estado)",
+    homepage: "https://mediosdelestado.gov.py",
     kind: "rss",
-    url: "https://www.ip.gov.py/ip/feed/",
+    url: "https://mediosdelestado.gov.py/feed/",
     region: "nacional",
-    note: "Agencia de noticias del Estado. Su feed quedó desactualizado (agosto 2026) al momento de la verificación.",
+    note: "La Agencia IP dejó de publicar en ip.gov.py en agosto de 2026 y pasó a mediosdelestado.gov.py (portal de los medios públicos). Publica pocas notas por semana.",
   },
   {
     id: "5dias",
     name: "5Días",
-    homepage: "https://www.5dias.com.py",
-    kind: "none",
-    url: null,
+    homepage: "https://5dias.com.py",
+    kind: "news-sitemap",
+    url: "https://5dias.com.py/sitemap-latest.xml",
+    enrich: "og-description",
+    crawlDelayMs: 2000, // robots.txt sin restricciones ni Crawl-delay
+    maxEnrich: 10,
     region: "nacional",
-    note: "No expone RSS ni sitemap de noticias accesible (verificado 11/10/2026). No se raspa el sitio.",
+    note: "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota. Diario económico: no suele publicar los fines de semana.",
   },
 ];
 

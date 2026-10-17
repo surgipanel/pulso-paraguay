@@ -1,7 +1,7 @@
 // Descarga y parseo de feeds (RSS, Atom, sitemap de noticias) con reintentos limitados.
 import { XMLParser } from "fast-xml-parser";
 import { FETCH_RETRIES, FETCH_TIMEOUT_MS, STALE_HOURS, USER_AGENT, WINDOW_HOURS } from "./config.mjs";
-import { canonicalUrl, decodeEntities, excerptOf, hoursBetween, parseDate, shortId, squeeze, stripHtml } from "./text.mjs";
+import { asuncionDate, canonicalUrl, decodeEntities, excerptOf, hoursBetween, parseDate, shortId, squeeze, stripHtml } from "./text.mjs";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -176,14 +176,42 @@ function metaContent(head, names) {
   return "";
 }
 
-// Lee la meta description y la imagen pública (og:image) de una nota; no el artículo completo.
+// Lee la meta description, la imagen pública (og:image) y la fecha de publicación declarada
+// (article:published_time) de una nota; no el artículo completo.
 async function fetchOgMeta(url) {
   const { body } = await fetchText(url, { retries: 0, accept: "text/html" });
   const head = body.slice(0, 200_000);
   return {
+    title: squeeze(stripHtml(metaContent(head, ["og:title"]))),
     description: squeeze(stripHtml(metaContent(head, ["og:description", "description"]))),
     image: normalizeImageUrl(decodeEntities(metaContent(head, ["og:image", "twitter:image"]))),
+    publishedAt: parseDate(metaContent(head, ["article:published_time", "og:article:published_time"])),
   };
+}
+
+// "portada": el medio no expone feed ni sitemap con notas del día (HOY congeló su RSS en 2023),
+// pero su portada enlaza las notas con la fecha en la URL (/seccion/AAAA/MM/DD/titulo).
+// Se leen los enlaces de la portada (título = texto del enlace), se conservan solo los que
+// llevan fecha de hoy o de ayer en la URL, y de cada uno se lee la cabecera pública de la nota
+// (meta description, imagen y article:published_time) respetando la pausa entre peticiones.
+// Nunca se copia el cuerpo del artículo.
+function parsePortada(html, source, now) {
+  // Solo enlaces del propio dominio del medio (la portada también enlaza a sitios hermanos).
+  const host = new URL(source.homepage).host.replace(/\./g, "\\.");
+  const pattern = source.linkPattern ?? new RegExp(`href="(https?://${host}/[^"]*?/(20\\d{2})/(\\d{2})/(\\d{2})/[^"#?]+)"[^>]*>([\\s\\S]*?)</a>`, "g");
+  const recentDates = new Set([asuncionDate(now), asuncionDate(new Date(now.getTime() - 864e5))]);
+  const items = [];
+  const seen = new Set();
+  for (const m of html.matchAll(pattern)) {
+    const [, href, y, mo, d, inner] = m;
+    const url = canonicalUrl(decodeEntities(href));
+    if (seen.has(url) || !recentDates.has(`${y}-${mo}-${d}`)) continue;
+    const title = squeeze(stripHtml(inner));
+    if (title.length < 15) continue; // enlaces de imagen o "Leer más": se toma el del titular
+    seen.add(url);
+    items.push({ title, url, publishedAt: null, body: "", fullBody: "", image: null });
+  }
+  return items;
 }
 
 function statusFromItems(items, now) {
@@ -221,14 +249,29 @@ export async function fetchSource(source, { now = new Date(), log = console } = 
   }
   try {
     const { body, httpStatus } = await fetchText(source.url, {
-      accept: "application/rss+xml,application/atom+xml,application/xml,text/xml,*/*",
+      accept: source.kind === "portada" ? "text/html" : "application/rss+xml,application/atom+xml,application/xml,text/xml,*/*",
     });
     report.httpStatus = httpStatus;
     let items;
     if (source.kind === "rss") items = parseRss(body);
     else if (source.kind === "atom") items = parseAtom(body);
     else if (source.kind === "news-sitemap") items = await parseNewsSitemap(body);
-    else throw new Error(`tipo desconocido: ${source.kind}`);
+    else if (source.kind === "portada") {
+      // La portada solo da título y URL con fecha del día: la hora real, la descripción y la
+      // imagen salen de la cabecera pública de cada nota (una petición por nota, con pausa).
+      items = parsePortada(body, source, now).slice(0, source.maxEnrich ?? 12);
+      for (let i = 0; i < items.length; i++) {
+        try {
+          const meta = await fetchOgMeta(items[i].url);
+          items[i].publishedAt = meta.publishedAt;
+          items[i].body = meta.description;
+          items[i].image = meta.image;
+        } catch (err) {
+          log.warn?.(`  ${source.name}: sin cabecera para ${items[i].url} (${err.message})`);
+        }
+        if (i < items.length - 1) await sleep(source.crawlDelayMs ?? 2000);
+      }
+    } else throw new Error(`tipo desconocido: ${source.kind}`);
 
     items = items.filter((i) => i.title && i.url);
     // Dedupe por URL dentro del feed.

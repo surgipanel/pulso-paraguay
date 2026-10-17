@@ -32,7 +32,7 @@ Las variables de entorno y del repositorio conservan el prefijo `PULSO_` (`PULSO
 
 | Pieza | Estado |
 |---|---|
-| Lectura de medios | ABC Color, La Nación, Última Hora, El Nacional, ADN Digital conectan y aportan notas del día. NPY, Telefuturo y Vanguardia conectan pero no habían publicado en las últimas 24 h (domingo). HOY devuelve notas de 2023 y Agencia IP de agosto: se detectan como "viejos" y no se usan. 5Días no expone RSS ni sitemap de noticias: no se raspa. |
+| Lectura de medios | ABC Color, La Nación, Última Hora, El Nacional, ADN Digital y HOY conectan y aportan notas del día. HOY congeló su RSS en diciembre de 2023: desde el 17/10/2026 se leen los enlaces con fecha de su portada y la cabecera pública de cada nota (tipo `portada`). 5Días no publica RSS pero sí un sitemap de noticias (`sitemap-latest.xml`), en uso desde el 17/10/2026. Agencia IP se mudó a mediosdelestado.gov.py (feed al día, pocas notas por semana). NPY, Telefuturo, Vanguardia y 5Días conectan bien pero publican poco o nada los fines de semana: esos días figuran como "sin notas recientes". |
 | Verificación de fecha | Toda nota necesita fecha; se descarta lo que supera 24 h. Un feed cuya nota más nueva supera 48 h se marca "devuelve notas viejas". |
 | Agrupación por hecho | TF-IDF + nombres propios/cifras + palabras raras compartidas + ventana de 36 h. En una corrida real: 256 notas → 210 grupos, 17 con más de un medio. |
 | Edición del día | Máximo 20 acontecimientos por día en total; la corrida de la tarde actualiza los de la mañana (suma fuentes, reescribe) y agrega novedades sin duplicar. Si hay menos de 20 verificables, publica menos y lo dice. |
@@ -91,7 +91,7 @@ Resultado: `https://elprocer.com.py` y `https://www.elprocer.com.py` sirven la w
 | GitHub Actions | Repos públicos: minutos ilimitados. Privados: 2.000 min/mes gratis. | Nada en público. Un repo privado con corridas muy largas podría exceder los 2.000 min (acá ~180 min/mes). |
 | GitHub Pages | Gratis en repos públicos. Límites blandos: 100 GB/mes de tráfico, 10 builds/hora, sitio ≤ 1 GB. | Nada para un diario personal; con tráfico masivo GitHub pide reducirlo. |
 | Anthropic (Claude) | Sin plan gratuito; se paga por token. Opus 5.5: USD 4 / 20 por millón de tokens de entrada / salida. Haiku 4.5: USD 1 / 5. | Estimación con 6 llamadas por corrida (~30 k tokens entrada, ~12 k salida): **Opus 5.5 ≈ USD 0,36 por corrida ≈ USD 22/mes**; **Haiku 4.5 ≈ USD 0,09 por corrida ≈ USD 5,5/mes**. El modelo se cambia con la variable `PULSO_MODEL`; el log de cada corrida imprime los tokens usados. |
-| Medios | Solo feeds públicos, con identificación del agente y respetando `Crawl-delay` (Última Hora: 10 s entre notas). No se copian artículos completos: se usan extractos ≤ 700 caracteres como insumo y se enlaza siempre a la fuente. | Nada. |
+| Medios | Solo feeds públicos (o la portada, en el caso de HOY), con identificación del agente y respetando `Crawl-delay` (Última Hora, NPY y Telefuturo: 10 s entre notas). No se copian artículos completos: se usan extractos ≤ 700 caracteres como insumo y se enlaza siempre a la fuente. | Nada. |
 
 Advertencias de GitHub a tener en cuenta:
 - En repos públicos, **los cron se desactivan solos si el repositorio no tiene actividad en 60 días**. Los commits del bot suelen contar como actividad, pero conviene entrar a la pestaña Actions cada tanto; si aparece "This scheduled workflow is disabled", se reactiva con un clic.
