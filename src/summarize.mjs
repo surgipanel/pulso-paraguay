@@ -91,7 +91,7 @@ const EventSchema = z.object({
 });
 const OutputSchema = z.object({ events: z.array(EventSchema) });
 
-const SYSTEM_PROMPT = `Sos el editor de Pulso Paraguay, un diario digital que agrupa la cobertura de los medios paraguayos en acontecimientos y los explica con texto propio.
+const SYSTEM_PROMPT = `Sos el editor de El Prócer, un diario digital que agrupa la cobertura de los medios paraguayos en acontecimientos y los explica con texto propio.
 
 Recibís grupos candidatos de notas (cada grupo trae notas de uno o más medios que probablemente cubren el mismo hecho). Para cada grupo devolvés uno o más acontecimientos.
 

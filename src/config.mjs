@@ -38,7 +38,7 @@ export const AI_MODEL = env.PULSO_MODEL || "claude-opus-5-5";
 export const AI_MODE = (env.PULSO_AI_MODE || "auto").toLowerCase(); // auto | off
 
 export const USER_AGENT =
-  "Mozilla/5.0 (compatible; PulsoParaguay/0.1; +https://github.com/ ; agregador de noticias con enlace a la fuente)";
+  "Mozilla/5.0 (compatible; ElProcer/0.2; +https://elprocer.com.py ; diario digital que agrupa noticias con enlace a la fuente)";
 
 export const FETCH_TIMEOUT_MS = 25_000;
 export const FETCH_RETRIES = 2;

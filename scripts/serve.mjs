@@ -23,4 +23,4 @@ createServer(async (req, res) => {
     res.writeHead(404, { "content-type": "text/plain; charset=utf-8" });
     res.end("No encontrado");
   }
-}).listen(port, () => console.log(`Pulso Paraguay local → http://localhost:${port}`));
+}).listen(port, () => console.log(`El Prócer local → http://localhost:${port}`));

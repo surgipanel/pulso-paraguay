@@ -1,7 +1,8 @@
-/* Pulso Paraguay — frontend estático. Lee los JSON de data/ generados por el proceso editorial. */
+/* El Prócer — frontend estático. Lee los JSON de data/ generados por el proceso editorial. */
 (() => {
   "use strict";
 
+  const SITE = "El Prócer";
   const TZ = "America/Asuncion";
   const CATS = [
     { id: "pais", label: "País" },
@@ -12,7 +13,8 @@
     { id: "tecnologia", label: "Tecnología" },
   ];
   const CAT_LABEL = Object.fromEntries(CATS.map((c) => [c.id, c.label]));
-  const SAVED_KEY = "pulso.saved.v1";
+  const SAVED_KEY = "procer.saved.v1";
+  const LEGACY_SAVED_KEY = "pulso.saved.v1";
 
   const $ = (sel, el = document) => el.querySelector(sel);
   const main = $("#main");
@@ -43,16 +45,33 @@
     if (h < 48) return `hace ${h} h`;
     return `hace ${Math.round(h / 24)} días`;
   };
+  const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
+  const srcLine = (ev, max = 2) => {
+    const names = distinctSources(ev);
+    const shown = names.slice(0, max).join(" · ");
+    return names.length > max ? `${shown} · +${names.length - max}` : shown;
+  };
+  const srcSentence = (ev) => {
+    const names = distinctSources(ev);
+    if (names.length <= 3) return names.join(", ").replace(/, ([^,]*)$/, " y $1");
+    return `${names.slice(0, 3).join(", ")} y ${plural(names.length - 3, "medio más", "medios más")}`;
+  };
+  const setTitle = (t) => { document.title = t ? `${t} | ${SITE}` : `${SITE} | Libres para informar`; };
 
   function loadSaved() {
-    try { return JSON.parse(localStorage.getItem(SAVED_KEY) || "{}"); } catch { return {}; }
+    try {
+      const cur = localStorage.getItem(SAVED_KEY);
+      if (cur) return JSON.parse(cur);
+      const legacy = localStorage.getItem(LEGACY_SAVED_KEY);
+      if (legacy) { localStorage.setItem(SAVED_KEY, legacy); return JSON.parse(legacy); }
+    } catch {}
+    return {};
   }
   function persistSaved() {
     try { localStorage.setItem(SAVED_KEY, JSON.stringify(state.saved)); } catch {}
     const n = Object.keys(state.saved).length;
     const b = $("#saved-count");
-    b.textContent = n;
-    b.hidden = n === 0;
+    if (b) { b.textContent = n; b.hidden = n === 0; }
   }
   function toggleSave(ev, editionDate) {
     if (state.saved[ev.id]) delete state.saved[ev.id];
@@ -71,36 +90,44 @@
     return state.editions[date];
   }
 
-  // ---------- estado de actualización ----------
+  // ---------- cabecera: estado, fecha, navegación ----------
   function renderStatus() {
     const l = state.latest;
+    const dateEl = $("#edition-date");
     if (!l) {
       statusEl.innerHTML = `<span class="dot bad"></span> Todavía no hay ninguna edición publicada.`;
+      dateEl.textContent = "Edición digital";
       return;
     }
-    const mode = l.aiMode === "ia" ? `redacción con IA` : l.aiMode === "mixto" ? `redacción con IA y extractos` : `resúmenes extractivos, sin IA`;
+    dateEl.textContent = `Edición digital · ${fmtDay(l.editionDate)}`;
+    const mode = l.aiMode === "ia" ? "redacción con IA" : l.aiMode === "mixto" ? "redacción con IA y extractos" : "resúmenes extractivos, sin IA";
     statusEl.innerHTML = `
       <span class="dot ${l.ok ? "" : "bad"}"></span>
-      <span>Actualizado <b>${esc(fmtDateTime(l.generatedAt))}</b> · hora de Asunción · ${esc(relTime(l.generatedAt))}</span>
+      <span>Actualizado <b>${esc(fmtDateTime(l.generatedAt))}</b> (${esc(relTime(l.generatedAt))})</span>
       <span>·</span><span>${l.eventsCount} de hasta ${l.maxEvents ?? 20} acontecimientos</span>
       <span>·</span><span>${mode}</span>`;
     if (!l.ok) {
-      statusEl.insertAdjacentHTML("beforeend", `<div class="alert" style="flex-basis:100%">⚠️ ${esc(l.message || "La última actualización falló.")} Se muestra la última edición válida${l.lastSuccessAt ? `, generada el ${esc(fmtDateTime(l.lastSuccessAt))}` : ""}.</div>`);
+      statusEl.insertAdjacentHTML("beforeend", `<div class="alert">${esc(l.message || "La última actualización falló.")} Se muestra la última edición válida${l.lastSuccessAt ? `, generada el ${esc(fmtDateTime(l.lastSuccessAt))}` : ""}.</div>`);
     }
-    $("#foot-meta").textContent = `${l.editions ?? 1} ${l.editions === 1 ? "edición" : "ediciones"} en el archivo · Zona horaria ${TZ}. Las fotos se muestran desde el sitio de cada medio y les pertenecen.`;
+    $("#foot-meta").textContent = `${plural(l.editions ?? 1, "edición", "ediciones")} en el archivo · Horarios de Asunción · Las fotos se muestran desde el sitio de cada medio y les pertenecen.`;
   }
 
-  function renderCats(active) {
+  function renderCats(active, tool) {
     const items = [{ id: "", label: "Portada" }, ...CATS];
+    const savedN = Object.keys(state.saved).length;
     catsEl.innerHTML = items
-      .map((c) => `<a href="#/${c.id ? "categoria/" + c.id : ""}" class="${(active ?? "") === c.id ? "is-active" : ""}">${esc(c.label)}</a>`)
-      .join("");
-  }
-  function setActiveNav(name) {
-    document.querySelectorAll("[data-nav]").forEach((a) => a.classList.toggle("is-active", a.dataset.nav === name));
+      .map((c) => `<a href="#/${c.id ? "categoria/" + c.id : ""}" class="${active === c.id ? "is-active" : ""}">${esc(c.label)}</a>`)
+      .join("") +
+      `<span class="nav__gap" aria-hidden="true"></span>` +
+      [
+        ["guardadas", `Guardadas<span class="badge" id="saved-count" ${savedN ? "" : "hidden"}>${savedN}</span>`],
+        ["medios", "Medios"],
+        ["archivo", "Archivo"],
+        ["criterios", "Criterios"],
+      ].map(([id, html]) => `<a href="#/${id}" class="nav__tool ${tool === id ? "is-active" : ""}" data-nav="${id}">${html}</a>`).join("");
   }
 
-  // ---------- tarjetas ----------
+  // ---------- piezas ----------
   function mediaHtml(ev, { credit = false } = {}) {
     const initial = (CAT_LABEL[ev.category] ?? "P")[0];
     if (!ev.image?.url) return `<div class="media is-empty" data-initial="${esc(initial)}"></div>`;
@@ -109,27 +136,42 @@
       ${credit ? `<span class="media__credit">Foto: ${esc(ev.image.credit)}</span>` : ""}
     </div>`;
   }
+  function kickerHtml(ev, extra) {
+    const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
+    return `<p class="kicker">${esc(CAT_LABEL[ev.category] ?? ev.category)}<span class="sep">·</span>${esc(extra ?? fmtTime(latestAt(ev)))}${updated ? ` <span class="tag updated">actualizado</span>` : ""}${ev.summaryKind === "extractivo" ? ` <span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}</p>`;
+  }
+  function saveBtn(ev, editionDate) {
+    const saved = Boolean(state.saved[ev.id]);
+    return `<button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(editionDate)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "Guardar"}</button>`;
+  }
+  const link = (ev, editionDate) => `#/noticia/${esc(ev.id)}?e=${esc(editionDate)}`;
 
   function cardHtml(ev, editionDate, variant = "") {
-    const srcs = distinctSources(ev);
-    const saved = Boolean(state.saved[ev.id]);
-    const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
     return `
       <article class="card ${variant}">
-        ${mediaHtml(ev)}
-        <div class="card__body">
-          <div class="card__meta">
-            <span class="cat">${esc(CAT_LABEL[ev.category] ?? ev.category)}</span>
-            <span>${esc(fmtTime(latestAt(ev)))}</span>
-            ${updated ? `<span class="tag updated">actualizado</span>` : ""}
-            ${ev.summaryKind === "extractivo" ? `<span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}
-          </div>
-          <h3 class="card__title"><a href="#/noticia/${esc(ev.id)}?e=${esc(editionDate)}">${esc(ev.title)}</a></h3>
-          <p class="card__summary">${esc(ev.summary)}</p>
-          <div class="card__foot">
-            <div class="sources-mini" title="${esc(srcs.join(", "))}">${srcs.slice(0, 3).map((s) => `<span class="chip">${esc(s)}</span>`).join("")}${srcs.length > 3 ? `<span class="chip">+${srcs.length - 3}</span>` : ""}</div>
-            <button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(editionDate)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "☆ Guardar"}</button>
-          </div>
+        <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
+        ${kickerHtml(ev)}
+        <h3 class="card__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h3>
+        <p class="card__summary">${esc(ev.summary)}</p>
+        <div class="card__foot">
+          <span class="srcs" title="${esc(distinctSources(ev).join(", "))}">${esc(srcLine(ev))}</span>
+          ${saveBtn(ev, editionDate)}
+        </div>
+      </article>`;
+  }
+
+  function leadHtml(ev, editionDate) {
+    const n = distinctSources(ev).length;
+    return `
+      <article class="lead">
+        <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
+        ${kickerHtml(ev, n > 1 ? `${plural(n, "medio", "medios")} · ${fmtTime(latestAt(ev))}` : undefined)}
+        <h2 class="lead__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h2>
+        <p class="lead__deck">${esc(ev.summary)}</p>
+        <p class="lead__meta">Cobertura: ${esc(srcSentence(ev))}.</p>
+        <div class="lead__actions">
+          <a class="readmore" href="${link(ev, editionDate)}">Leer el acontecimiento →</a>
+          ${saveBtn(ev, editionDate)}
         </div>
       </article>`;
   }
@@ -144,14 +186,15 @@
         const saved = Boolean(state.saved[ev.id]);
         btn.classList.toggle("is-saved", saved);
         btn.setAttribute("aria-pressed", String(saved));
-        btn.textContent = saved ? "✓ Guardada" : "☆ Guardar";
+        btn.textContent = saved ? "✓ Guardada" : "Guardar";
       });
     });
   }
 
-  function gridView({ title, events, editionDate, count, emptyText }) {
+  function gridView({ title, events, editionDate, count, emptyText, lede }) {
     main.innerHTML = `
-      <div class="section-title"><h1>${esc(title)}</h1><span class="count">${esc(count ?? "")}</span></div>
+      <div class="page-head"><h1>${esc(title)}</h1><span class="count">${esc(count ?? "")}</span></div>
+      ${lede ? `<p class="lede">${lede}</p>` : ""}
       ${events.length ? `<div class="grid">${events.map((ev) => cardHtml(ev, editionDate)).join("")}</div>` : `<p class="empty">${esc(emptyText || "No hay acontecimientos en esta sección.")}</p>`}`;
     const byId = new Map(events.map((e) => [e.id, e]));
     bindSaveButtons(main, (id) => byId.get(id));
@@ -161,26 +204,44 @@
   async function viewHome(archiveDate) {
     const date = archiveDate || state.latest?.editionDate;
     const edition = await loadEdition(date);
-    renderCats("");
-    setActiveNav(archiveDate ? "archivo" : "");
+    renderCats("", archiveDate ? "archivo" : null);
+    setTitle(archiveDate ? `Edición del ${fmtDay(date)}` : "");
     if (!edition || !edition.events.length) {
       main.innerHTML = `<p class="empty">Todavía no hay una edición publicada.</p>`;
       return;
     }
     const events = edition.events; // ya vienen ordenados por cobertura y recencia
-    const hero = events.slice(0, 3);
+    const lead = events[0];
+    const second = events.slice(1, 3);
     const rest = events.slice(3);
+    const mostCovered = [...events]
+      .filter((e) => e !== lead)
+      .sort((a, b) => distinctSources(b).length - distinctSources(a).length || (latestAt(b) < latestAt(a) ? -1 : 1))
+      .slice(0, 5);
     const sections = CATS.map((c) => ({ ...c, events: rest.filter((e) => e.category === c.id) })).filter((s) => s.events.length);
     main.innerHTML = `
-      <div class="section-title"><h1>${archiveDate ? "Edición del " : ""}${esc(fmtDay(date))}</h1><span class="count">${events.length} acontecimientos · ${edition.aiMode === "extractivo" ? "sin IA" : "con IA"}</span></div>
-      <div class="hero">
-        ${cardHtml(hero[0], date, "card--lead")}
-        ${hero.slice(1).map((ev) => cardHtml(ev, date, "card--row")).join("")}
+      ${archiveDate ? `<div class="page-head"><h1>Edición del ${esc(fmtDay(date))}</h1><span class="count">${events.length} acontecimientos · ${edition.aiMode === "extractivo" ? "sin IA" : "con IA"}</span></div>` : ""}
+      <div class="front">
+        <div class="front__lead">${leadHtml(lead, date)}</div>
+        <div class="front__second second">${second.map((ev) => cardHtml(ev, date, "card--second")).join("")}</div>
+        <aside class="front__aside">
+          <section class="panel" aria-labelledby="top-title">
+            <p class="kicker" id="top-title">Lo más cubierto</p>
+            <ol class="toplist">
+              ${mostCovered.map((ev) => `<li><a href="${link(ev, date)}">${esc(ev.title)}</a><small>${esc(plural(distinctSources(ev).length, "medio", "medios"))} · ${esc(CAT_LABEL[ev.category] ?? ev.category)} · ${esc(fmtTime(latestAt(ev)))}</small></li>`).join("")}
+            </ol>
+          </section>
+          <section class="panel" aria-labelledby="how-title">
+            <p class="kicker" id="how-title">Cómo se arma esta edición</p>
+            <p>Dos veces por día, a la mañana y a la tarde, se leen las notas publicadas por los medios paraguayos, se agrupan por acontecimiento y se redacta un título, un resumen y los puntos clave de cada uno. Hasta ${edition.maxEvents ?? 20} acontecimientos por día.</p>
+            <p><a href="#/criterios"><b>Criterios editoriales →</b></a></p>
+          </section>
+        </aside>
       </div>
       ${sections.map((s) => `
         <section class="section">
-          <div class="section-title"><h2>${esc(s.label)}</h2><a class="more" href="#/categoria/${s.id}">Ver todo ${esc(s.label)} →</a></div>
-          <div class="grid grid--4">${s.events.map((ev) => cardHtml(ev, date)).join("")}</div>
+          <div class="section__head"><h2>${esc(s.label)}</h2><a href="#/categoria/${s.id}">Ver todo ${esc(s.label)} →</a></div>
+          <div class="grid">${s.events.map((ev) => cardHtml(ev, date)).join("")}</div>
         </section>`).join("")}`;
     const byId = new Map(events.map((e) => [e.id, e]));
     bindSaveButtons(main, (id) => byId.get(id));
@@ -189,15 +250,15 @@
   async function viewCategory(category) {
     const date = state.latest?.editionDate;
     const edition = await loadEdition(date);
-    renderCats(category);
-    setActiveNav("");
+    renderCats(category, null);
+    const label = CAT_LABEL[category] ?? category;
+    setTitle(label);
     const events = (edition?.events ?? []).filter((e) => e.category === category);
-    gridView({ title: CAT_LABEL[category] ?? category, events, editionDate: date, count: `${events.length} hoy`, emptyText: `Hoy no hay acontecimientos verificados en ${CAT_LABEL[category] ?? category}.` });
+    gridView({ title: label, events, editionDate: date, count: `${plural(events.length, "acontecimiento", "acontecimientos")} hoy`, emptyText: `Hoy no hay acontecimientos verificados en ${label}.` });
   }
 
   async function viewDetail(id, editionDate) {
-    renderCats(null);
-    setActiveNav("");
+    renderCats(null, null);
     let ev = null;
     let date = editionDate || state.latest?.editionDate;
     try {
@@ -209,50 +270,49 @@
       date = state.saved[id].editionDate;
     }
     if (!ev) {
+      setTitle("No encontrado");
       main.innerHTML = `<p class="empty">No encontramos ese acontecimiento. <a href="#/">Volver a la portada</a></p>`;
       return;
     }
-    const saved = Boolean(state.saved[ev.id]);
+    setTitle(ev.title);
     const srcs = [...ev.sources].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
     main.innerHTML = `
-      <article class="detail">
+      <article class="article">
         <a class="back" href="#/">← Portada</a>
-        <div class="card__meta">
-          <span class="cat">${esc(CAT_LABEL[ev.category] ?? ev.category)}</span>
-          <span>Edición del ${esc(date)}</span>
-          ${updated ? `<span class="tag updated">actualizado ${esc(fmtDateTime(ev.updatedAt))}</span>` : ""}
-          ${ev.summaryKind === "extractivo" ? `<span class="tag extractivo">resumen sin IA</span>` : `<span class="tag">resumen con IA</span>`}
-        </div>
+        ${kickerHtml(ev, `Edición del ${fmtDay(date)}`)}
         <h1>${esc(ev.title)}</h1>
-        ${ev.image?.url ? `${mediaHtml(ev, { credit: true })}<p class="photo-credit">Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</p>` : ""}
-        <p class="lead">${esc(ev.summary)}</p>
-        <button class="save ${saved ? "is-saved" : ""}" data-save="${esc(ev.id)}" data-edition="${esc(date)}" aria-pressed="${saved}">${saved ? "✓ Guardada" : "☆ Guardar"}</button>
+        <div class="article__bar">
+          <span>${esc(plural(distinctSources(ev).length, "medio", "medios"))} · última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
+          ${saveBtn(ev, date)}
+        </div>
+        ${ev.image?.url ? `<figure>${mediaHtml(ev, { credit: true })}<figcaption>Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</figcaption></figure>` : ""}
+        <p class="article__lead">${esc(ev.summary)}</p>
         <h2>Puntos clave</h2>
         <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>
         <h2>Fuentes (${srcs.length})</h2>
         <ul class="sources">
           ${srcs.map((s) => `<li><span class="src-name">${esc(s.sourceName)}</span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="src-time">${esc(fmtDateTime(s.publishedAt))}</span></li>`).join("")}
         </ul>
-        <p class="note">${ev.summaryKind === "extractivo" ? "Este resumen se armó automáticamente con extractos publicados por el medio, sin inteligencia artificial." : `Título, resumen y puntos clave redactados con IA (${esc(ev.model || "")}) a partir de los extractos de las notas enlazadas. Puede contener errores: verificá siempre en la fuente original.`}</p>
+        <p class="note">${ev.summaryKind === "extractivo" ? "Este resumen se armó automáticamente con extractos publicados por el medio, sin inteligencia artificial." : `Título, resumen y puntos clave redactados con inteligencia artificial (${esc(ev.model || "")}) a partir de los extractos de las notas enlazadas. Puede contener errores: verificá siempre en la fuente original.`}</p>
       </article>`;
     bindSaveButtons(main, () => ev);
   }
 
   function viewSaved() {
-    renderCats(null);
-    setActiveNav("guardadas");
+    renderCats(null, "guardadas");
+    setTitle("Guardadas");
     const items = Object.values(state.saved).sort((a, b) => (a.savedAt < b.savedAt ? 1 : -1));
     main.innerHTML = `
-      <div class="section-title"><h1>Noticias guardadas</h1><span class="count">${items.length}</span></div>
-      ${items.length ? `<div class="grid">${items.map((it) => cardHtml(it.event, it.editionDate)).join("")}</div>` : `<p class="empty">Todavía no guardaste nada. Tocá “Guardar” en cualquier acontecimiento; queda en este dispositivo.</p>`}`;
+      <div class="page-head"><h1>Guardadas</h1><span class="count">${items.length}</span></div>
+      ${items.length ? `<div class="grid">${items.map((it) => cardHtml(it.event, it.editionDate)).join("")}</div>` : `<p class="empty">Todavía no guardaste nada. Tocá «Guardar» en cualquier acontecimiento; queda en este dispositivo.</p>`}`;
     bindSaveButtons(main, (id) => state.saved[id]?.event);
     main.querySelectorAll("[data-save]").forEach((b) => b.addEventListener("click", () => setTimeout(viewSaved, 150)));
   }
 
   async function viewSources() {
-    renderCats(null);
-    setActiveNav("medios");
+    renderCats(null, "medios");
+    setTitle("Medios");
     if (!state.sources) {
       try { state.sources = await getJson("data/sources.json"); } catch { state.sources = { sources: [] }; }
     }
@@ -270,27 +330,55 @@
       </tr>`;
     });
     main.innerHTML = `
-      <div class="section-title"><h1>Medios</h1><span class="count">verificado ${esc(fmtDateTime(state.sources.checkedAt))}</span></div>
-      <p style="color:var(--muted);font-size:14px;margin-top:0">Estado real de cada conexión en la última corrida. Solo se usan notas con fecha verificable dentro de las últimas 24 horas; un feed que devuelve notas antiguas se marca y no se usa.</p>
+      <div class="page-head"><h1>Medios</h1><span class="count">verificado ${esc(fmtDateTime(state.sources.checkedAt))}</span></div>
+      <p class="lede">Estado real de cada conexión en la última corrida. Solo se usan notas con fecha verificable dentro de las últimas 24 horas; un feed que devuelve notas antiguas se marca y no se usa.</p>
       <table class="table"><thead><tr><th>Medio</th><th>Estado</th><th>Conexión</th><th>Notas</th><th>Última nota</th><th>Detalle</th></tr></thead><tbody>${rows.join("") || `<tr><td colspan="6" class="empty">Sin datos todavía.</td></tr>`}</tbody></table>`;
   }
 
   async function viewArchive() {
-    renderCats(null);
-    setActiveNav("archivo");
+    renderCats(null, "archivo");
+    setTitle("Archivo");
     if (!state.index) {
       try { state.index = await getJson("data/editions/index.json"); } catch { state.index = []; }
     }
     main.innerHTML = `
-      <div class="section-title"><h1>Archivo de ediciones</h1><span class="count">${state.index.length}</span></div>
+      <div class="page-head"><h1>Archivo de ediciones</h1><span class="count">${plural(state.index.length, "edición", "ediciones")}</span></div>
       ${state.index.length ? `<ul class="editions">${state.index
-        .map((e) => `<li><div><div class="ed-date"><a href="#/archivo/${esc(e.date)}">${esc(fmtDay(e.date))}</a></div><div class="ed-head">${esc(e.headline || "")}</div></div><span style="color:var(--muted);font-size:13px;white-space:nowrap">${e.events} acont.</span></li>`)
+        .map((e) => `<li><div><div class="ed-date"><a href="#/archivo/${esc(e.date)}">${esc(fmtDay(e.date))}</a></div><div class="ed-head">${esc(e.headline || "")}</div></div><span class="ed-count">${e.events} acont.</span></li>`)
         .join("")}</ul>` : `<p class="empty">Todavía no hay ediciones archivadas.</p>`}`;
   }
 
+  function viewCriteria() {
+    renderCats(null, "criterios");
+    setTitle("Criterios editoriales");
+    const l = state.latest;
+    main.innerHTML = `
+      <div class="page-head"><h1>Criterios editoriales</h1><span class="count">Libres para informar</span></div>
+      <div class="prose">
+        <p>El Prócer es un diario digital que informa sobre Paraguay con claridad, contexto y fuentes identificables. No escribe noticias desde cero: lee lo que publican los medios paraguayos, agrupa las notas que cubren un mismo hecho y lo explica en un texto propio, breve y atribuido.</p>
+        <h2>Qué es un acontecimiento</h2>
+        <p>Un hecho, no una nota. Cuando varios medios cubren lo mismo, acá aparece una sola vez, con un título y un resumen de entre 40 y 70 palabras, los puntos clave y el enlace a cada una de las notas originales, con el nombre del medio y la hora de publicación.</p>
+        <h2>De dónde sale la información</h2>
+        <ul>
+          <li>Solo se usan notas con fecha verificable publicadas en las últimas 24 horas. Un medio que devuelve notas viejas se marca y no se usa.</li>
+          <li>El sistema recibe únicamente el título, un extracto y la fecha de cada nota. Tiene prohibido agregar datos que no estén en ese material.</li>
+          <li>La página <a href="#/medios">Medios</a> muestra el estado real de cada conexión en la última corrida.</li>
+        </ul>
+        <h2>Uso de inteligencia artificial</h2>
+        <p>Los títulos, resúmenes y puntos clave se redactan con inteligencia artificial${l?.model ? ` (${esc(l.model)})` : ""} a partir de los extractos de las notas. Cada acontecimiento lo declara al pie. Cuando la IA no interviene, el resumen se arma con extractos del medio y se marca «sin IA». Nunca se presenta un extracto como texto generado ni un texto generado como una cita.</p>
+        <p>La redacción automática puede contener errores. Las denuncias y acusaciones se atribuyen; se distingue proyecto de ley de ley, media sanción de sanción, imputación de condena. Ante cualquier duda, la fuente original manda.</p>
+        <h2>Fotografías</h2>
+        <p>Las imágenes se muestran desde el sitio de cada medio y les pertenecen; en cada acontecimiento figura el crédito y el enlace a la nota de origen. El Prócer no crea ni altera imágenes.</p>
+        <h2>Ritmo</h2>
+        <p>Dos ediciones por día, a la mañana y a la tarde (hora de Asunción). La edición de la tarde actualiza los acontecimientos de la mañana y agrega novedades sin duplicar. Si en un día hay menos de ${l?.maxEvents ?? 20} acontecimientos verificables, se publican menos y se dice.</p>
+        <h2>Independencia</h2>
+        <p>El Prócer no representa a ningún organismo del Estado ni a ningún partido. El nombre remite a la idea de independencia; la identidad evita símbolos oficiales y referencias partidarias.</p>
+      </div>`;
+  }
+
   async function viewSearch(q, all) {
-    renderCats(null);
-    setActiveNav("");
+    renderCats(null, null);
+    setTitle(`Buscar: ${q}`);
     const needle = fold(q).trim();
     searchInput.value = q;
     if (!needle) return viewHome();
@@ -310,8 +398,8 @@
       results = (ed?.events ?? []).filter(matches).map((e) => ({ ev: e, date: current }));
     }
     main.innerHTML = `
-      <div class="section-title"><h1>Resultados para “${esc(q)}”</h1><span class="count">${results.length} en ${esc(scope)}</span></div>
-      ${!all ? `<p style="font-size:14px;color:var(--muted);margin-top:0"><a href="#/buscar?q=${encodeURIComponent(q)}&todo=1">Buscar también en el archivo</a></p>` : ""}
+      <div class="page-head"><h1>Resultados para «${esc(q)}»</h1><span class="count">${results.length} en ${esc(scope)}</span></div>
+      ${!all ? `<p class="lede"><a href="#/buscar?q=${encodeURIComponent(q)}&todo=1"><b>Buscar también en el archivo →</b></a></p>` : ""}
       ${results.length ? `<div class="grid">${results.map((r) => cardHtml(r.ev, r.date)).join("")}</div>` : `<p class="empty">Nada coincide con esa búsqueda.</p>`}`;
     const byId = new Map(results.map((r) => [r.ev.id, r.ev]));
     bindSaveButtons(main, (id) => byId.get(id));
@@ -330,6 +418,7 @@
       if (parts[0] === "noticia") return await viewDetail(parts[1], params.get("e"));
       if (parts[0] === "guardadas") return viewSaved();
       if (parts[0] === "medios") return await viewSources();
+      if (parts[0] === "criterios") return viewCriteria();
       if (parts[0] === "archivo" && parts[1]) return await viewHome(parts[1]);
       if (parts[0] === "archivo") return await viewArchive();
       if (parts[0] === "buscar") return await viewSearch(params.get("q") || "", params.get("todo") === "1");
@@ -346,7 +435,7 @@
   });
 
   async function boot() {
-    persistSaved();
+    renderCats("", null);
     try { state.latest = await getJson("data/latest.json"); } catch { state.latest = null; }
     renderStatus();
     window.addEventListener("hashchange", route);

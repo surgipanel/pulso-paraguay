@@ -42,7 +42,7 @@ async function main() {
   const startedAt = now.toISOString();
   const { mode: aiMode, reason: aiReason } = resolveAiMode();
 
-  log.info(`Pulso Paraguay · corrida ${slot} · edición ${date} · ${fmtAsu(now)} (${TIMEZONE})`);
+  log.info(`El Prócer · corrida ${slot} · edición ${date} · ${fmtAsu(now)} (${TIMEZONE})`);
   log.info(`Redacción: ${aiMode} (${aiReason})`);
 
   // Guardia contra corridas duplicadas (p. ej. cron + disparo manual casi al mismo tiempo).

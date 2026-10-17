@@ -3,43 +3,75 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Pulso Paraguay</title>
-  <meta name="description" content="Las noticias de Paraguay agrupadas por acontecimiento, con resumen propio y enlaces a las notas originales de cada medio." />
+  <title>El Prócer | Libres para informar</title>
+  <meta name="description" content="El Prócer, diario digital de Paraguay: las noticias del día agrupadas por acontecimiento, con resumen propio, puntos clave y enlaces a las notas originales de cada medio." />
+  <meta property="og:site_name" content="El Prócer" />
+  <meta property="og:title" content="El Prócer | Libres para informar" />
+  <meta property="og:description" content="Las noticias de Paraguay agrupadas por acontecimiento, con resumen propio y enlaces a todas las fuentes." />
+  <meta property="og:type" content="website" />
   <meta name="color-scheme" content="light dark" />
   <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
-  <meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)" />
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d52b1e'/%3E%3Cpath d='M6 20l5-8 4 6 3-4 4 6h4' fill='none' stroke='%23fff' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" />
+  <meta name="theme-color" content="#050d1d" media="(prefers-color-scheme: dark)" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23071C39'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='Georgia,Times New Roman,serif' font-weight='700' font-size='16' fill='%23fff'%3EEP%3C/text%3E%3Crect x='7' y='25' width='18' height='2' fill='%23E52531'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Tinos:wght@700&display=swap" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <a class="skip" href="#main">Ir al contenido</a>
-  <header class="top">
-    <div class="wrap top__row">
-      <a class="brand" href="#/" aria-label="Pulso Paraguay, portada">
-        <svg class="brand__mark" aria-hidden="true" viewBox="0 0 32 32" width="26" height="26"><rect width="32" height="32" rx="8" fill="#d52b1e"/><path d="M6 20l5-8 4 6 3-4 4 6h4" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span class="brand__name">Pulso <b>Paraguay</b></span>
-      </a>
-      <form class="search" role="search" id="search-form">
-        <input id="search-input" type="search" placeholder="Buscar en las noticias…" autocomplete="off" aria-label="Buscar" />
-      </form>
-      <nav class="top__nav" aria-label="Secciones">
-        <a href="#/guardadas" data-nav="guardadas">Guardadas <span class="badge" id="saved-count" hidden>0</span></a>
-        <a href="#/medios" data-nav="medios">Medios</a>
-        <a href="#/archivo" data-nav="archivo">Archivo</a>
-      </nav>
-    </div>
+
+  <header class="mast">
     <div class="wrap">
-      <nav class="cats" id="cats" aria-label="Categorías"></nav>
+      <p class="mast__kicker">Paraguay · Diario digital</p>
+      <a class="mast__brand" href="#/" aria-label="El Prócer, portada">
+        <span class="mast__name">EL PRÓCER</span>
+        <span class="mast__stripe" aria-hidden="true"></span>
+        <span class="mast__motto">Libres para informar</span>
+      </a>
+    </div>
+    <nav class="nav" aria-label="Secciones">
+      <div class="wrap nav__row" id="cats"></div>
+    </nav>
+    <div class="wrap edition">
+      <span class="edition__date" id="edition-date">Edición digital</span>
+      <form class="search" role="search" id="search-form">
+        <input id="search-input" type="search" placeholder="Buscar en la edición…" autocomplete="off" aria-label="Buscar" />
+      </form>
+      <span class="edition__place">Asunción, Paraguay</span>
     </div>
   </header>
 
-  <div class="wrap status" id="status" aria-live="polite"></div>
+  <div class="wrap"><div class="status" id="status" aria-live="polite"></div></div>
 
   <main class="wrap" id="main"></main>
 
-  <footer class="wrap foot">
-    <p>Pulso Paraguay agrupa la cobertura de medios paraguayos en acontecimientos y la resume con texto propio. Cada acontecimiento enlaza a las notas originales; el contenido pertenece a cada medio.</p>
-    <p id="foot-meta"></p>
+  <footer class="foot">
+    <div class="wrap">
+      <section class="pledge" aria-labelledby="pledge-title">
+        <p class="kicker">Nuestro compromiso</p>
+        <h2 id="pledge-title">Una redacción que explica cómo informa</h2>
+        <div class="three">
+          <div>
+            <h3>Hechos, no invenciones</h3>
+            <p>Cada acontecimiento se redacta solo a partir de los títulos y extractos publicados por los medios. El sistema tiene prohibido agregar datos que no estén en las notas.</p>
+          </div>
+          <div>
+            <h3>Fuentes visibles</h3>
+            <p>Todo acontecimiento enlaza a las notas originales, con el nombre del medio y la hora de publicación. El contenido pertenece a cada medio.</p>
+          </div>
+          <div>
+            <h3>Transparencia en la IA</h3>
+            <p>Títulos, resúmenes y puntos clave se redactan con inteligencia artificial y se identifican como tales. Cuando la IA no interviene, el resumen se marca «sin IA». Verificá siempre en la fuente.</p>
+          </div>
+        </div>
+      </section>
+      <div class="foot__bar">
+        <span><span class="foot__brand">EL PRÓCER</span> · Libres para informar</span>
+        <nav aria-label="Pie"><a href="#/criterios">Criterios editoriales</a><a href="#/medios">Medios</a><a href="#/archivo">Archivo</a><a href="#/guardadas">Guardadas</a></nav>
+        <span id="foot-meta"></span>
+      </div>
+    </div>
   </footer>
 
   <script src="app.js"></script>

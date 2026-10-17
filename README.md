@@ -1,6 +1,6 @@
-# Pulso Paraguay
+# El Prócer
 
-Diario digital que agrupa la cobertura de los medios paraguayos en **acontecimientos**: un título y un resumen propios por hecho, puntos clave y enlaces a todas las notas originales. Se actualiza solo dos veces por día (05:00 y 17:00, hora de Asunción) sin que nadie tenga nada abierto.
+**Libres para informar.** Diario digital de Paraguay que agrupa la cobertura de los medios paraguayos en **acontecimientos**: un título y un resumen propios por hecho, puntos clave y enlaces a todas las notas originales. Se actualiza solo dos veces por día (05:00 y 17:00, hora de Asunción) sin que nadie tenga nada abierto.
 
 ## Arquitectura (y por qué)
 
@@ -13,13 +13,20 @@ GitHub Actions (cron 05:07 y 17:07 America/Asuncion)
         ├─ redacta título + resumen (40–70 palabras) + puntos clave  ← Claude (API de Anthropic)
         ├─ fusiona con la edición del día (máx. 20 acontecimientos, sin duplicar)
         └─ escribe docs/data/*.json  →  commit al repositorio
-GitHub Pages sirve docs/  (web estática: portada, categorías, buscador, detalle, guardadas, medios, archivo)
+GitHub Pages sirve docs/  (web estática: portada, categorías, buscador, detalle, guardadas, medios, archivo, criterios)
+   └─ dominio propio: elprocer.com.py (DNS en Bluehost apuntando a GitHub Pages)
 ```
 
 - **Sin servidor propio.** El "backend" es un script de Node que corre dentro de GitHub Actions. El almacenamiento persistente es el propio repositorio (`docs/data/`): cada edición es un archivo JSON versionado, y el archivo histórico sale gratis.
 - **Programador real.** El cron de GitHub Actions corre aunque tu computadora esté apagada. GitHub admite `timezone: America/Asuncion` por entrada de cron, así que los horarios no dependen de la hora UTC.
 - **Frontend estático** (HTML + CSS + JS sin frameworks ni build). Carga los JSON y los muestra. "Guardadas" se guarda en el navegador (localStorage).
 - **IA opcional y declarada.** Con `ANTHROPIC_API_KEY`, Claude redacta título, resumen y puntos clave. Sin clave, el sistema publica igual con **resúmenes extractivos** (extractos del medio) marcados en la web como "sin IA". Nunca se presenta un extracto como texto generado por IA.
+
+## Identidad visual (desde el 17/10/2026)
+
+La web aplica el **Manual de Marca El Prócer v1.0**: azul noche `#071C39` (color dominante), blanco, rojo editorial `#E52531` solo para alertas, la franja del logotipo y el destacado activo, y azul digital `#1455A4` para enlaces. Titulares en serif (Liberation Serif; en la web se carga **Tinos**, la misma letra publicada en Google Fonts) y texto e interfaz en **Lato**. Cabecera centrada con lema, navegación sobria con regla gruesa, tarjetas sin cajas separadas por filetes, modo oscuro automático. El favicon es el monograma EP provisorio del manual.
+
+Las variables de entorno y del repositorio conservan el prefijo `PULSO_` (`PULSO_MODEL`, `PULSO_AI_MODE`, `PULSO_MAX_EVENTS`) para no romper la configuración ya cargada en GitHub.
 
 ## Qué quedó funcionando (verificado el 11/10/2026)
 
@@ -58,6 +65,24 @@ Requisitos: cuenta de GitHub, `git` instalado.
 ### Probar la corrida con IA antes de confiar en el cron
 
 Después del paso 7, revisá en la pestaña Actions el log de la corrida: la línea `Redacción: ia (modelo …)` y las líneas `IA lote: N eventos, …, tokens in=… out=…`. En la web, cada acontecimiento muestra "resumen con IA" y una nota al pie con el modelo. Si algún lote de la IA falla, ese grupo cae a extractivo y se marca "sin IA"; el estado general dice "mixto".
+
+## Dominio propio: elprocer.com.py (Bluehost → GitHub Pages)
+
+El dominio está registrado en Bluehost. No hace falta alojar archivos ahí: basta con que su DNS apunte a GitHub Pages, que sirve la web y emite el certificado HTTPS gratis. El cron y los commits del bot no cambian.
+
+**Orden importante: primero el DNS en Bluehost, después el dominio en GitHub.** Si se configura primero en GitHub, la URL `surgipanel.github.io/pulso-paraguay` empieza a redirigir al dominio antes de que este responda.
+
+1. **Bluehost** → Domains → elprocer.com.py → DNS (zona avanzada):
+   - Borrar el registro **A** de `@` que apunta al servidor de Bluehost (hoy 74.220.219.243).
+   - Crear cuatro registros **A** para `@`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
+   - Crear un registro **CNAME** para `www` → `surgipanel.github.io`.
+   - Guardar. La propagación suele tardar de minutos a un par de horas.
+2. Comprobar desde una terminal: `nslookup elprocer.com.py` debe devolver alguna de las IP 185.199.x.153.
+3. **GitHub** → repositorio `surgipanel/pulso-paraguay` → Settings → Pages → **Custom domain**: `elprocer.com.py` → Save. GitHub crea el archivo `docs/CNAME` con un commit (conviene hacer `git pull` después).
+4. Esperar a que la verificación DNS quede en verde y marcar **Enforce HTTPS** (el certificado puede tardar hasta una hora).
+5. Opcional pero recomendable: Settings de la cuenta/organización → Pages → **Verified domains** → verificar `elprocer.com.py` con el registro TXT que indica GitHub. Evita que otro repositorio pueda reclamar el dominio.
+
+Resultado: `https://elprocer.com.py` y `https://www.elprocer.com.py` sirven la web; `surgipanel.github.io/pulso-paraguay` redirige al dominio.
 
 ## Costos reales (verificados 11/10/2026)
 
