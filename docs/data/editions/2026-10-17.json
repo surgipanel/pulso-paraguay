@@ -1,9 +1,9 @@
 {
   "date": "2026-10-17",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-17T12:06:59.265Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-17T22:10:57.567Z",
+  "aiMode": "ia",
+  "model": "claude-opus-5-5",
   "maxEvents": 20,
   "events": [
     {
@@ -79,7 +79,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 20.95
+      "score": 20.12
     },
     {
       "id": "ev-142ddjl",
@@ -146,7 +146,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 17.72
+      "score": 16.88
+    },
+    {
+      "id": "ev-1np1dr6",
+      "title": "Prevén leve descenso del río Paraná, aunque aún insuficiente",
+      "summary": "El nivel del río Paraná registraría un leve descenso en los próximos días ante la ausencia de lluvias en el pronóstico extendido, aunque la baja sería todavía insuficiente. Itaipú pidió prudencia ante posibles precipitaciones y sigue con el monitoreo y la asistencia a familias afectadas. Según HOY, más de 600 personas ya fueron evacuadas en Ciudad del Este.",
+      "keyPoints": [
+        "Se espera un leve descenso del río Paraná por falta de lluvias.",
+        "Itaipú solicitó prudencia ante próximas precipitaciones.",
+        "Más de 600 personas fueron evacuadas en Ciudad del Este, según HOY."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Estiman leve descenso del río Paraná para los próximos días",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/17/estiman-leve-descenso-del-rio-parana-para-los-proximos-dias",
+          "publishedAt": "2026-10-17T15:29:25.800Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/TJIGUH4PTFE7FG7JM2RPZRSYMM.jpg?auth=4609a1649f26c201f4a1d8ae2f0ebd145ea607a101d71c5d12abc1328aaf55d7&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nivel del río Paraná bajará levemente, pero piden prudencia ante próximas precipitaciones",
+          "url": "https://www.lanacion.com.py/pais/2026/10/17/nivel-del-rio-parana-bajara-levemente-pero-piden-prudencia-ante-proximas-precipitaciones",
+          "publishedAt": "2026-10-17T10:47:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/__tadILTwTu4jXzeYiDnUuaaWkE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CJDAQAJQ7ZENDOLGPSNCQWHSQA.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Histórica crecida del río Paraná deja más de 2.000 evacuados en Ayolas",
+          "url": "https://www.telefuturo.com.py/historica-crecida-del-rio-parana-deja-mas-de-2-000-evacuados-en-ayolas",
+          "publishedAt": "2026-10-16T14:16:36.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/TJIGUH4PTFE7FG7JM2RPZRSYMM.jpg?auth=4609a1649f26c201f4a1d8ae2f0ebd145ea607a101d71c5d12abc1328aaf55d7&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/17/estiman-leve-descenso-del-rio-parana-para-los-proximos-dias"
+      },
+      "firstSeenAt": "2026-10-17T12:06:59.265Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-17T22:10:57.567Z",
+      "updatedSlot": "tarde",
+      "score": 13.44
     },
     {
       "id": "ev-167nkj3",
@@ -196,7 +246,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 12.95
+      "score": 12.11
     },
     {
       "id": "ev-12ugi19",
@@ -246,22 +296,30 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 12.74
+      "score": 12
     },
     {
       "id": "ev-0r0sb7m",
-      "title": "Costanera de Asunción vuelve a cerrar por jornada de los World Skate Games",
-      "summary": "La avenida Costanera de Asunción permanece cerrada este sábado desde las 8:00 hasta las 19:00 por las competencias de los World Skate Games ASU26, entre la rotonda de General Santos y la calle Río Blanco. La PMT advirtió que la reapertura depende del desarrollo de las pruebas, retrasadas según el inspector Daniel Cárdenas por el mal estado de la pista. El viernes hubo gran concurrencia de público.",
+      "title": "World Skate Games cierran en Asunción con balance de luces y sombras",
+      "summary": "Los World Skate Games ASU26, realizados en Asunción del 2 al 18 de octubre con representantes de 90 países, llegan a su cierre. Según ABC Color, el evento dejó aspectos positivos para el deporte nacional pero también dificultades organizativas. La Costanera de Asunción recibió el viernes otra jornada de competencias con importante presencia de público.",
       "keyPoints": [
-        "El cierre rige de 8:00 a 19:00 entre General Santos y Río Blanco.",
-        "La PMT indicó que la reapertura depende del avance de las competencias.",
-        "La jornada del viernes reunió a numerosos espectadores."
+        "El evento reunió a representantes de 90 países.",
+        "ABC Color señaló dificultades organizativas durante su desarrollo.",
+        "La Costanera fue escenario de competencias con buena concurrencia el viernes."
       ],
-      "category": "pais",
+      "category": "deportes",
       "scope": "paraguay",
       "summaryKind": "ia",
       "model": "claude-opus-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los World Skate Games se despiden de Asunción con altibajos",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/10/17/los-world-skate-games-se-despiden-de-asuncion-con-altibajos",
+          "publishedAt": "2026-10-17T21:23:48.000Z",
+          "image": "https://www.abc.com.py/resizer/9GoLjkDtJSM2UJbRwyqE7oINRUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/M6DYNS4LERGJTCCL6RFPZQOJYU.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -280,15 +338,15 @@
         }
       ],
       "image": {
-        "url": "https://www.abc.com.py/resizer/WV4ly-KeUymVme9n25TW-i1pHdA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BI4MP6VRQJCAJNGY2JAF3BQIFI.jpg",
+        "url": "https://www.abc.com.py/resizer/9GoLjkDtJSM2UJbRwyqE7oINRUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/M6DYNS4LERGJTCCL6RFPZQOJYU.jpg",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/17/nuevo-cierre-de-la-costanera-pesimo-estado-de-la-pista-retrasa-competencias-lamenta-pmt"
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/10/17/los-world-skate-games-se-despiden-de-asuncion-con-altibajos"
       },
       "firstSeenAt": "2026-10-17T12:06:59.265Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-17T12:06:59.265Z",
-      "updatedSlot": "manana",
-      "score": 9.95
+      "updatedAt": "2026-10-17T22:10:57.567Z",
+      "updatedSlot": "tarde",
+      "score": 10.93
     },
     {
       "id": "ev-0sepjc6",
@@ -330,7 +388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.11
     },
     {
       "id": "ev-19lgc5a",
@@ -372,49 +430,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.91
-    },
-    {
-      "id": "ev-1np1dr6",
-      "title": "Crecida del río Paraná deja más de 2.000 evacuados en Ayolas",
-      "summary": "Ayolas enfrenta la mayor crecida del río Paraná desde 1983, con un nivel de 6,30 metros y más de 2.000 personas evacuadas, según Telefuturo. Itaipú prevé un leve descenso del nivel del río, aunque pidió prudencia ante las próximas lluvias y mantiene el monitoreo y la asistencia a las familias afectadas.",
-      "keyPoints": [
-        "El río alcanzó 6,30 metros en Ayolas, el nivel más alto desde 1983.",
-        "Más de 2.000 personas fueron evacuadas en Ayolas.",
-        "Itaipú anticipa un leve descenso, pero pide prudencia por futuras precipitaciones."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Histórica crecida del río Paraná deja más de 2.000 evacuados en Ayolas",
-          "url": "https://www.telefuturo.com.py/historica-crecida-del-rio-parana-deja-mas-de-2-000-evacuados-en-ayolas",
-          "publishedAt": "2026-10-16T14:16:36.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Nivel del río Paraná bajará levemente, pero piden prudencia ante próximas precipitaciones",
-          "url": "https://www.lanacion.com.py/pais/2026/10/17/nivel-del-rio-parana-bajara-levemente-pero-piden-prudencia-ante-proximas-precipitaciones",
-          "publishedAt": "2026-10-17T10:47:02.000Z",
-          "image": "https://www.lanacion.com.py/resizer/__tadILTwTu4jXzeYiDnUuaaWkE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CJDAQAJQ7ZENDOLGPSNCQWHSQA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/__tadILTwTu4jXzeYiDnUuaaWkE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CJDAQAJQ7ZENDOLGPSNCQWHSQA.jpg",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/17/nivel-del-rio-parana-bajara-levemente-pero-piden-prudencia-ante-proximas-precipitaciones"
-      },
-      "firstSeenAt": "2026-10-17T12:06:59.265Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-17T12:06:59.265Z",
-      "updatedSlot": "manana",
-      "score": 9.89
+      "score": 9.07
     },
     {
       "id": "ev-0hp65uq",
@@ -456,7 +472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.82
+      "score": 8.98
     },
     {
       "id": "ev-12wvr45",
@@ -498,7 +514,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.48
+      "score": 8.64
     },
     {
       "id": "ev-0629r35",
@@ -540,7 +556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.45
+      "score": 8.62
     },
     {
       "id": "ev-0vftbja",
@@ -582,7 +598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.48
     },
     {
       "id": "ev-0evyj0p",
@@ -625,7 +641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.03
     },
     {
       "id": "ev-0gp5kp9",
@@ -667,7 +683,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8
     },
     {
       "id": "ev-12791da",
@@ -709,7 +725,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 6.5
+      "score": 5.66
     },
     {
       "id": "ev-07jtvm3",
@@ -751,7 +767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 6.29
+      "score": 5.45
     },
     {
       "id": "ev-06dpgi7",
@@ -794,7 +810,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 6.26
+      "score": 5.42
     },
     {
       "id": "ev-04pf1z5",
@@ -828,7 +844,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.15
     },
     {
       "id": "ev-0liu21a",
@@ -862,7 +878,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.15
     },
     {
       "id": "ev-1bc8som",
@@ -896,7 +912,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-17T12:06:59.265Z",
       "updatedSlot": "manana",
-      "score": 5.98
+      "score": 5.14
     }
   ],
   "runs": [
@@ -906,6 +922,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 35
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-17T22:10:57.567Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 13
     }
   ]
 }
