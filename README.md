@@ -115,6 +115,7 @@ En Windows, en vez de `.env` podés definir la variable en PowerShell: `$env:ANT
 .github/workflows/update.yml   programador (cron) + commit de datos
 scripts/update.mjs             corrida editorial completa (CLI)
 scripts/serve.mjs              servidor local para ver docs/
+scripts/mercado.mjs            baja la cotización de referencia del BCP (sin IA) → docs/data/mercado.json
 src/config.mjs                 parámetros (zona horaria, máximos, modelo, ventana)
 src/sources.mjs                registro de medios (qué URL, qué tipo, notas de verificación)
 src/fetch.mjs                  descarga con reintentos, parseo RSS/Atom/sitemap, verificación de fechas
@@ -129,7 +130,15 @@ docs/data/editions/AAAA-MM-DD.json   una edición por día
 docs/data/editions/index.json  archivo
 docs/data/sources.json         estado real de cada medio
 docs/data/runs.json            registro de corridas (ok/error, conteos, tokens)
+docs/data/mercado.json         cotizaciones de referencia del BCP (scripts/mercado.mjs, workflow mercado.yml)
 ```
+
+## Datos del día (cotizaciones y clima)
+
+Debajo de la fecha de edición hay una franja fina con la cotización de referencia del Banco Central del Paraguay (USD, BRL, ARS, EUR) y la temperatura actual en Asunción; al tocarla se abre una ventana con la tabla completa, el dólar interbancario (compra/venta) y el pronóstico de cuatro días.
+
+- **Cotizaciones**: `scripts/mercado.mjs` lee las páginas públicas del BCP (su robots.txt no restringe) y escribe `docs/data/mercado.json`. El workflow `mercado.yml` lo corre cada dos horas en días hábiles (08:23 a 18:23, hora de Asunción), sin IA ni claves, y solo commitea si cambió algo. Se descartó la API de una casa de cambios porque su robots.txt la prohíbe. Las cotizaciones de ventanilla (bancos, casas de cambio) difieren de la referencia del BCP; mostrar la de un banco requiere un acuerdo con ese banco.
+- **Clima**: el navegador consulta Open-Meteo (gratis, sin clave) y guarda la respuesta 15 minutos.
 
 ## Reglas editoriales que aplica el sistema
 

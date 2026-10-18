@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-10-18T12:43:09.082Z",
+  "source": {
+    "name": "Banco Central del Paraguay",
+    "url": "https://www.bcp.gov.py/webapps/web/cotizacion/monedas"
+  },
+  "date": "2026-10-16",
+  "rates": [
+    {
+      "code": "USD",
+      "name": "Dólar estadounidense",
+      "short": "Dólar",
+      "gs": 5770.91
+    },
+    {
+      "code": "BRL",
+      "name": "Real brasileño",
+      "short": "Real",
+      "gs": 1136.45
+    },
+    {
+      "code": "ARS",
+      "name": "Peso argentino",
+      "short": "Peso arg.",
+      "gs": 3.82
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "short": "Euro",
+      "gs": 6496.31
+    }
+  ],
+  "usdInterbank": {
+    "date": "2026-10-16",
+    "compra": 5767.88,
+    "venta": 5768.46,
+    "label": "cierre 16/10"
+  }
+}

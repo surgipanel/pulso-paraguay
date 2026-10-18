@@ -40,7 +40,18 @@
       </form>
       <span class="edition__place">Asunción, Paraguay</span>
     </div>
+    <div class="wrap">
+      <button class="ticker" id="ticker" type="button" aria-haspopup="dialog" aria-controls="datos" hidden></button>
+    </div>
   </header>
+
+  <dialog class="datos" id="datos" aria-labelledby="datos-title">
+    <div class="datos__head">
+      <h2 id="datos-title">Datos del día</h2>
+      <button class="datos__close" type="button" data-close aria-label="Cerrar">×</button>
+    </div>
+    <div class="datos__body" id="datos-body"></div>
+  </dialog>
 
   <div class="wrap"><div class="status" id="status" aria-live="polite"></div></div>
 

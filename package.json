@@ -9,6 +9,7 @@
     "update": "node scripts/update.mjs",
     "update:force": "node scripts/update.mjs --force",
     "check-sources": "node scripts/update.mjs --check-sources",
+    "mercado": "node scripts/mercado.mjs",
     "serve": "node scripts/serve.mjs"
   },
   "dependencies": {

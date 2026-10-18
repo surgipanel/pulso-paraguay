@@ -413,8 +413,88 @@
     location.hash = q ? `#/buscar?q=${encodeURIComponent(q)}` : "#/";
   });
 
+  // ---------- datos del día: cotizaciones (BCP, vía data/mercado.json) y clima (Open-Meteo, en vivo) ----------
+  const WEATHER_URL = "https://api.open-meteo.com/v1/forecast?latitude=-25.2637&longitude=-57.5759&current=temperature_2m,weather_code,is_day&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FAsuncion&forecast_days=4";
+  const WEATHER_KEY = "procer.clima.v1";
+  const WEATHER_TTL = 15 * 60 * 1000;
+  const wmo = (code, day = 1) => {
+    if (code === 0) return [day ? "☀️" : "🌙", "Despejado"];
+    if (code <= 2) return [day ? "🌤️" : "☁️", "Parcialmente nublado"];
+    if (code === 3) return ["☁️", "Nublado"];
+    if (code <= 48) return ["🌫️", "Niebla"];
+    if (code <= 57) return ["🌦️", "Llovizna"];
+    if (code <= 67) return ["🌧️", "Lluvia"];
+    if (code <= 77) return ["🌨️", "Nieve"];
+    if (code <= 82) return ["🌦️", "Chaparrones"];
+    return ["⛈️", "Tormenta"];
+  };
+  const gs = (n, code) => new Intl.NumberFormat("es-PY", { maximumFractionDigits: code === "ARS" ? 2 : 0 }).format(n);
+  const gs2 = (n) => new Intl.NumberFormat("es-PY", { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(n);
+  const dayShort = (ymd) => { const [y, m, d] = ymd.split("-").map(Number); return new Intl.DateTimeFormat("es-PY", { timeZone: "UTC", weekday: "short", day: "numeric" }).format(new Date(Date.UTC(y, m - 1, d))); };
+
+  async function loadWeather() {
+    try {
+      const c = JSON.parse(localStorage.getItem(WEATHER_KEY) || "null");
+      if (c && Date.now() - c.at < WEATHER_TTL) return c.data;
+    } catch {}
+    const res = await fetch(WEATHER_URL);
+    if (!res.ok) throw new Error("clima");
+    const data = await res.json();
+    try { localStorage.setItem(WEATHER_KEY, JSON.stringify({ at: Date.now(), data })); } catch {}
+    return data;
+  }
+
+  async function renderTicker() {
+    const [mercado, clima] = await Promise.all([
+      getJson("data/mercado.json").catch(() => null),
+      loadWeather().catch(() => null),
+    ]);
+    const btn = $("#ticker");
+    if (!mercado && !clima) { btn.hidden = true; return; }
+    const parts = [];
+    if (mercado) {
+      parts.push(`<span class="tk tk--label">Cotización BCP</span>`);
+      mercado.rates.forEach((r, i) => parts.push(`<span class="tk ${i >= 2 ? "tk--sec" : ""}">${esc(r.code)} <b>${esc(gs(r.gs, r.code))}</b></span>`));
+    }
+    if (clima) {
+      const [ico, desc] = wmo(clima.current.weather_code, clima.current.is_day);
+      parts.push(`<span class="tk" title="${esc(desc)}">${ico} <b>${Math.round(clima.current.temperature_2m)}°</b> Asunción</span>`);
+    }
+    parts.push(`<span class="tk tk--more">Ver más →</span>`);
+    btn.innerHTML = parts.join("");
+    btn.hidden = false;
+
+    const body = $("#datos-body");
+    body.innerHTML = `
+      ${clima ? `
+        <h3>Clima en Asunción</h3>
+        <div class="clima">
+          <span class="clima__now">${Math.round(clima.current.temperature_2m)}°</span>
+          <span class="clima__desc">${esc(wmo(clima.current.weather_code, clima.current.is_day)[1])} ahora<br>Mín. ${Math.round(clima.daily.temperature_2m_min[0])}° · Máx. ${Math.round(clima.daily.temperature_2m_max[0])}°</span>
+        </div>
+        <div class="clima__days">
+          ${clima.daily.time.map((d, i) => `<div>${i === 0 ? "Hoy" : esc(dayShort(d))}<span class="ico">${wmo(clima.daily.weather_code[i])[0]}</span><b>${Math.round(clima.daily.temperature_2m_min[i])}° / ${Math.round(clima.daily.temperature_2m_max[i])}°</b></div>`).join("")}
+        </div>
+        <p class="fine">Datos de Open-Meteo; se actualizan cada 15 minutos.</p>` : ""}
+      ${mercado ? `
+        <h3>Cotizaciones de referencia</h3>
+        <table>
+          <thead><tr><th>Moneda</th><th class="num">Guaraníes por unidad</th></tr></thead>
+          <tbody>${mercado.rates.map((r) => `<tr><td>${esc(r.name)} (${esc(r.code)})</td><td class="num"><b>${esc(gs(r.gs, r.code))}</b></td></tr>`).join("")}</tbody>
+        </table>
+        ${mercado.usdInterbank ? `<p class="fine">Dólar interbancario (${esc(mercado.usdInterbank.label)}): compra <b>${esc(gs2(mercado.usdInterbank.compra))}</b> · venta <b>${esc(gs2(mercado.usdInterbank.venta))}</b>.</p>` : ""}
+        <p class="fine">Cotización de referencia del <a href="${esc(mercado.source.url)}" target="_blank" rel="noopener">Banco Central del Paraguay</a> del ${esc(fmtDay(mercado.date))}. Las cotizaciones de ventanilla de bancos y casas de cambio difieren.</p>` : ""}`;
+  }
+
+  (() => {
+    const dlg = $("#datos");
+    $("#ticker").addEventListener("click", () => { if (!dlg.open) dlg.showModal(); });
+    dlg.addEventListener("click", (e) => { if (e.target === dlg || e.target.closest("[data-close]")) dlg.close(); });
+  })();
+
   async function boot() {
     renderCats("", null);
+    renderTicker();
     try { state.latest = await getJson("data/latest.json"); } catch { state.latest = null; }
     renderStatus();
     window.addEventListener("hashchange", route);

@@ -89,6 +89,37 @@ img { display: block; max-width: 100%; }
   .edition__place { order: 2; margin-left: 0; }
 }
 
+/* ---------- Datos del día: franja fina + ventana ---------- */
+.ticker { display: flex; align-items: center; gap: 6px 14px; flex-wrap: wrap; width: 100%; padding: 8px 0; border: 0; border-bottom: 1px solid var(--line-soft); background: transparent; color: var(--muted); font: 12px/1.5 var(--sans); text-align: left; cursor: pointer; }
+.ticker[hidden] { display: none; }
+.ticker:hover { color: var(--text); }
+.ticker .tk { white-space: nowrap; }
+.ticker .tk b { font-weight: 700; color: var(--text); }
+.ticker .tk--label { font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; color: var(--ink); font-size: 11px; }
+.ticker .tk--more { margin-left: auto; color: var(--link); font-weight: 700; }
+@media (max-width: 600px) { .ticker .tk--sec { display: none; } }
+
+.datos { width: min(560px, calc(100% - 32px)); max-height: calc(100% - 32px); padding: 0; border: 1px solid var(--line); background: var(--bg); color: var(--text); }
+.datos::backdrop { background: rgba(7, 28, 57, .55); }
+.datos__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 20px 12px; border-bottom: 3px solid var(--ink); }
+.datos__head h2 { margin: 0; font: 700 24px/1.2 var(--serif); color: var(--ink); }
+.datos__close { border: 0; background: transparent; color: var(--muted); font: 28px/1 var(--sans); cursor: pointer; padding: 0 4px; }
+.datos__close:hover { color: var(--text); }
+.datos__body { padding: 4px 20px 20px; }
+.datos__body h3 { margin: 18px 0 8px; font: 700 12px/1.5 var(--sans); letter-spacing: 1.6px; text-transform: uppercase; color: var(--ink); }
+.datos__body table { width: 100%; border-collapse: collapse; font: 15px/1.5 var(--sans); }
+.datos__body th, .datos__body td { padding: 8px 0; border-bottom: 1px solid var(--line-soft); text-align: left; }
+.datos__body th { font: 700 11px/1.5 var(--sans); letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); }
+.datos__body td.num, .datos__body th.num { text-align: right; font-variant-numeric: tabular-nums; }
+.datos__body .fine { margin: 10px 0 0; font: 12px/1.5 var(--sans); color: var(--muted); }
+.clima { display: flex; align-items: center; gap: 14px; margin: 4px 0 12px; }
+.clima__now { font: 700 40px/1 var(--serif); color: var(--ink); }
+.clima__desc { font: 14px/1.5 var(--sans); color: var(--muted); }
+.clima__days { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; text-align: center; }
+.clima__days div { padding: 8px 0; border-top: 1px solid var(--line-soft); font: 12px/1.5 var(--sans); color: var(--muted); }
+.clima__days b { display: block; font: 700 14px/1.5 var(--sans); color: var(--text); }
+.clima__days .ico { display: block; font-size: 22px; line-height: 1.3; }
+
 /* ---------- Estado ---------- */
 .status { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; padding: 10px 0 0; font: 12px/1.5 var(--sans); color: var(--muted); }
 .status:empty { display: none; }
