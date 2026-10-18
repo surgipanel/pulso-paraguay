@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-17T22:10:57.567Z",
+  "checkedAt": "2026-10-18T12:34:37.532Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -13,12 +13,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 95,
+      "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-10-17T22:00:37.000Z",
-      "ms": 739,
+      "newestAt": "2026-10-18T12:30:06.000Z",
+      "ms": 639,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "lanacion",
@@ -33,10 +33,10 @@
       "items": 100,
       "freshItems": 99,
       "undated": 0,
-      "newestAt": "2026-10-17T22:00:00.000Z",
-      "ms": 307,
+      "newestAt": "2026-10-18T12:25:33.000Z",
+      "ms": 641,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 156,
-      "freshItems": 50,
+      "items": 182,
+      "freshItems": 78,
       "undated": 0,
-      "newestAt": "2026-10-17T21:22:43.000Z",
-      "ms": 94203,
+      "newestAt": "2026-10-18T12:24:55.000Z",
+      "ms": 92322,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "elnacional",
@@ -67,12 +67,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 65,
-      "freshItems": 35,
+      "freshItems": 38,
       "undated": 0,
-      "newestAt": "2026-10-17T22:00:00.000Z",
-      "ms": 662,
+      "newestAt": "2026-10-18T12:00:00.000Z",
+      "ms": 566,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "adn",
@@ -87,10 +87,10 @@
       "items": 10,
       "freshItems": 10,
       "undated": 0,
-      "newestAt": "2026-10-17T17:00:27.000Z",
-      "ms": 25625,
+      "newestAt": "2026-10-18T12:28:33.000Z",
+      "ms": 18367,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T17:03:00.000Z",
-      "ms": 1040,
+      "ms": 1034,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "telefuturo",
@@ -124,9 +124,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T19:44:42.000Z",
-      "ms": 1195,
+      "ms": 1042,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "vanguardia",
@@ -142,9 +142,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T19:06:32.000Z",
-      "ms": 8641,
+      "ms": 7367,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "hoy",
@@ -157,12 +157,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 12,
-      "freshItems": 12,
+      "freshItems": 11,
       "undated": 0,
-      "newestAt": "2026-10-17T21:00:00.000Z",
-      "ms": 25345,
+      "newestAt": "2026-10-18T12:00:00.000Z",
+      "ms": 26202,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "ip",
@@ -178,9 +178,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-15T17:00:40.000Z",
-      "ms": 2251,
+      "ms": 2286,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     },
     {
       "id": "5dias",
@@ -192,13 +192,13 @@
       "note": "Conecta bien pero no publicó notas en las últimas 24 h.",
       "status": "quiet",
       "httpStatus": 200,
-      "items": 33,
+      "items": 17,
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T19:32:00.000Z",
-      "ms": 1804,
+      "ms": 1263,
       "error": null,
-      "checkedAt": "2026-10-17T22:10:57.567Z"
+      "checkedAt": "2026-10-18T12:34:37.532Z"
     }
   ]
 }
