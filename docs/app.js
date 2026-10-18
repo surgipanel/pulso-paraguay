@@ -334,6 +334,7 @@
         </ul>
       </article>`;
     bindSaveButtons(main, () => ev);
+    showShare(ev);
   }
 
   function viewSaved() {
@@ -461,6 +462,67 @@
     bindSaveButtons(main, (id) => byId.get(id));
   }
 
+  // ---------- compartir: botón flotante en cada noticia ----------
+  // Se comparte la página propia de la noticia (/n/<id>/), que lleva su foto y resumen en la
+  // vista previa de WhatsApp, Facebook y X.
+  const SITE_URL = "https://elprocer.com.py";
+  const ICON = {
+    share: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="2.8" fill="currentColor"/><circle cx="6" cy="12" r="2.8" fill="currentColor"/><circle cx="18" cy="19" r="2.8" fill="currentColor"/><path d="M8.5 13.4l7 4.2M15.5 6.4l-7 4.2" stroke="currentColor" stroke-width="2" fill="none"/></svg>',
+    close: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" fill="none"/></svg>',
+    facebook: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.6 22v-8.1h2.7l.4-3.2h-3.1V8.7c0-.9.3-1.5 1.6-1.5h1.7V4.4c-.3 0-1.3-.1-2.5-.1-2.4 0-4.1 1.5-4.1 4.2v2.3H7.6v3.2h2.7V22h3.3z"/></svg>',
+    x: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.8 3h3.1l-6.8 7.8 8 10.2h-6.3l-4.9-6.4L5.3 21H2.2l7.3-8.4L1.8 3h6.4l4.4 5.9L17.8 3zm-1.1 16.2h1.7L7.4 4.7H5.5l11.2 14.5z"/></svg>',
+    whatsapp: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.6 19.4l1.1-3.5a8 8 0 1 1 2.8 2.7z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path fill="currentColor" d="M9.3 8.3c.2-.4.5-.4.8-.4h.5c.2 0 .4.1.5.4l.6 1.4c.1.3 0 .5-.2.7l-.5.5c.6 1.2 1.6 2.2 2.8 2.8l.5-.5c.2-.2.4-.3.7-.2l1.4.6c.3.1.4.3.4.5v.5c0 .3 0 .6-.4.8-.6.4-1.5.6-2.4.3-2.3-.8-4.2-2.7-5-5-.3-.9-.1-1.8.3-2.4z"/></svg>',
+    mail: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3.8 7.2l8.2 5.9 8.2-5.9" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
+    link: '<svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></g></svg>',
+  };
+  const shareEl = document.createElement("div");
+  shareEl.className = "share";
+  shareEl.hidden = true;
+  shareEl.innerHTML = `
+    <div class="share__list" hidden>
+      <a class="share__btn share__btn--facebook" data-net="facebook" target="_blank" rel="noopener" aria-label="Compartir en Facebook">${ICON.facebook}</a>
+      <a class="share__btn share__btn--x" data-net="x" target="_blank" rel="noopener" aria-label="Compartir en X">${ICON.x}</a>
+      <a class="share__btn share__btn--whatsapp" data-net="whatsapp" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp">${ICON.whatsapp}</a>
+      <a class="share__btn share__btn--mail" data-net="mail" aria-label="Compartir por correo">${ICON.mail}</a>
+      <button class="share__btn share__btn--link" type="button" data-net="link" aria-label="Copiar enlace">${ICON.link}</button>
+    </div>
+    <button class="share__toggle" type="button" aria-expanded="false" aria-label="Compartir">${ICON.share}</button>
+    <span class="share__toast" role="status" hidden>Enlace copiado</span>`;
+  document.body.append(shareEl);
+  const shareList = shareEl.querySelector(".share__list");
+  const shareToggle = shareEl.querySelector(".share__toggle");
+  const shareToast = shareEl.querySelector(".share__toast");
+  const setShareOpen = (open) => {
+    shareList.hidden = !open;
+    shareToggle.setAttribute("aria-expanded", String(open));
+    shareToggle.setAttribute("aria-label", open ? "Cerrar" : "Compartir");
+    shareToggle.innerHTML = open ? ICON.close : ICON.share;
+    shareToggle.classList.toggle("is-open", open);
+  };
+  shareToggle.addEventListener("click", () => setShareOpen(shareList.hidden));
+  shareEl.querySelector('[data-net="link"]').addEventListener("click", async () => {
+    const url = shareEl.dataset.url;
+    try { await navigator.clipboard.writeText(url); } catch { window.prompt("Copiá el enlace:", url); return; }
+    shareToast.hidden = false;
+    setTimeout(() => { shareToast.hidden = true; }, 1800);
+  });
+  function showShare(ev) {
+    const url = `${SITE_URL}/n/${encodeURIComponent(ev.id)}/`;
+    const t = ev.title;
+    const enc = encodeURIComponent;
+    shareEl.dataset.url = url;
+    shareEl.querySelector('[data-net="facebook"]').href = `https://www.facebook.com/sharer/sharer.php?u=${enc(url)}`;
+    shareEl.querySelector('[data-net="x"]').href = `https://twitter.com/intent/tweet?text=${enc(t)}&url=${enc(url)}`;
+    shareEl.querySelector('[data-net="whatsapp"]').href = `https://wa.me/?text=${enc(t + " " + url)}`;
+    shareEl.querySelector('[data-net="mail"]').href = `mailto:?subject=${enc(t)}&body=${enc((ev.summary || "") + "\n\n" + url)}`;
+    setShareOpen(false);
+    shareEl.hidden = false;
+  }
+  function hideShare() {
+    setShareOpen(false);
+    shareEl.hidden = true;
+  }
+
   // ---------- router ----------
   async function route() {
     const hash = location.hash.replace(/^#/, "") || "/";
@@ -468,6 +530,7 @@
     const params = new URLSearchParams(qs || "");
     const parts = path.split("/").filter(Boolean);
     window.scrollTo({ top: 0 });
+    hideShare();
     try {
       if (parts.length === 0) return await viewHome();
       if (parts[0] === "categoria") return await viewCategory(parts[1]);

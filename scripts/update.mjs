@@ -13,6 +13,7 @@ import {
   appendRun, readEdition, readLatest, readRuns, rebuildEditionIndex, writeEdition, writeLatest, writeSources,
 } from "../src/store.mjs";
 import { asuncionDate, hoursBetween, slotFor } from "../src/text.mjs";
+import { writeSharePages, writeSitemap } from "../src/sharepages.mjs";
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -187,6 +188,10 @@ async function main() {
     run.ok = true;
     await writeEdition(result.edition);
     const index = await rebuildEditionIndex();
+    // Página propia por noticia (vista previa al compartir) y sitemap para buscadores.
+    const pages = await writeSharePages([result.edition]);
+    await writeSitemap(index, readEdition);
+    log.info(`   ${pages} páginas para compartir actualizadas`);
     await writeLatest({
       editionDate: date,
       timezone: TIMEZONE,

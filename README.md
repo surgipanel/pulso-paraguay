@@ -148,7 +148,7 @@ Las fotos genéricas de sección (ABC pone «Internacionales», «Ciencia» o f�
 
 ## Compartir e ícono
 
-`docs/og-image.png` (1200×630) es la vista previa al compartir en WhatsApp y redes; `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` y `site.webmanifest` dan el ícono EP al agregar el sitio a la pantalla de inicio. Como la web es una sola página, la vista previa es la misma para cualquier enlace.
+`docs/og-image.png` (1200×630) es la vista previa al compartir en WhatsApp y redes; `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` y `site.webmanifest` dan el ícono EP al agregar el sitio a la pantalla de inicio. Cada noticia tiene además su propia página, `docs/n/<id>/index.html` (`src/sharepages.mjs`): una copia de `index.html` con el título, el resumen y la foto de la noticia en las etiquetas de vista previa, porque WhatsApp, Facebook y X no leen lo que va después del `#`. Al abrirla, la web muestra esa noticia. El bot las genera en cada corrida junto con `docs/sitemap.xml` (y `docs/robots.txt` apunta al sitemap). En el detalle, un botón flotante rojo abre las opciones de compartir (Facebook, X, WhatsApp, correo y copiar enlace) usando esa dirección.
 
 ## Reglas editoriales que aplica el sistema
 

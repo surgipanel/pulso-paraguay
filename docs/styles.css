@@ -228,6 +228,22 @@ figure:has(.media.is-brand) figcaption { display: none; }
 .sources .src-time { font: 8px/1.4 var(--sans); color: color-mix(in srgb, var(--faint) 60%, var(--bg)); }
 .note { margin-top: 28px; padding: 14px 16px; background: var(--panel); border-left: 3px solid var(--ink); font: 14px/1.6 var(--sans); color: var(--muted); }
 
+/* ---------- Compartir (botón flotante en cada noticia) ---------- */
+.share { position: fixed; right: 16px; bottom: calc(20px + env(safe-area-inset-bottom)); z-index: 40; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.share[hidden], .share__list[hidden], .share__toast[hidden] { display: none; }
+.share__list { display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.share__btn, .share__toggle { display: grid; place-items: center; width: 50px; height: 50px; border: 0; border-radius: 50%; color: #ffffff; cursor: pointer; box-shadow: 0 3px 10px rgba(7, 28, 57, .28); }
+.share__btn svg, .share__toggle svg { width: 24px; height: 24px; }
+.share__btn:hover, .share__toggle:hover { filter: brightness(1.08); text-decoration: none; }
+.share__toggle { width: 56px; height: 56px; background: var(--rojo); }
+.share__toggle.is-open { background: var(--noche); }
+.share__btn--facebook { background: #1877F2; }
+.share__btn--x { background: #000000; }
+.share__btn--whatsapp { background: #25D366; }
+.share__btn--mail { background: #2B2F36; }
+.share__btn--link { background: #E9EDF2; color: #18202A; }
+.share__toast { position: absolute; right: 66px; bottom: 14px; white-space: nowrap; padding: 6px 10px; background: var(--noche); color: #ffffff; font: 700 12px/1.4 var(--sans); }
+
 /* ---------- Criterios ---------- */
 .prose { max-width: 760px; margin: 0 auto; }
 .prose h2 { margin: 30px 0 10px; font: 700 24px/1.2 var(--serif); color: var(--ink); }
