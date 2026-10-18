@@ -128,9 +128,19 @@
       ${credit ? `<span class="media__credit">Foto: ${esc(ev.image.credit)}</span>` : ""}
     </div>`;
   }
+  const asuDate = (iso) => new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date(iso));
+  const isExpired = (ev) => Boolean(ev.expiresAt) && new Date(ev.expiresAt) < new Date();
+  // Hora de la última nota; si no es de hoy, con el día ("Ayer · 17:30", "vie 16 oct · 09:00").
+  const whenLabel = (ev) => {
+    const iso = latestAt(ev);
+    if (!iso) return "—";
+    const today = asuDate(new Date().toISOString());
+    const d = asuDate(iso);
+    return d === today ? fmtTime(iso) : `${dayLabel(d)} · ${fmtTime(iso)}`;
+  };
   function kickerHtml(ev, extra) {
     const updated = ev.updatedAt && ev.updatedAt !== ev.firstSeenAt;
-    return `<p class="kicker">${esc(CAT_LABEL[ev.category] ?? ev.category)}<span class="sep">·</span>${esc(extra ?? fmtTime(latestAt(ev)))}${updated ? ` <span class="tag updated">actualizado</span>` : ""}${ev.summaryKind === "extractivo" ? ` <span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}</p>`;
+    return `<p class="kicker">${esc(CAT_LABEL[ev.category] ?? ev.category)}<span class="sep">·</span>${esc(extra ?? whenLabel(ev))}${isExpired(ev) ? ` <span class="tag vencido" title="Aviso de servicio cuya vigencia ya terminó">finalizado</span>` : ""}${updated ? ` <span class="tag updated">actualizado</span>` : ""}${ev.summaryKind === "extractivo" ? ` <span class="tag extractivo" title="Resumen armado con extractos del medio, sin IA">sin IA</span>` : ""}</p>`;
   }
   function saveBtn(ev, editionDate) {
     const saved = Boolean(state.saved[ev.id]);
@@ -249,7 +259,7 @@
       ${sections.map((s) => `
         <section class="section">
           <div class="section__head"><h2>${esc(s.label)}</h2><a href="#/categoria/${s.id}">Ver todo ${esc(s.label)} →</a></div>
-          <div class="grid">${s.items.map((it) => cardHtml(it.ev, it.date, "", { dated: it.dated })).join("")}</div>
+          ${olderBlock(s.items)}
         </section>`).join("")}`;
     const byId = new Map([...older.map((o) => [o.ev.id, o.ev]), ...events.map((e) => [e.id, e])]);
     bindSaveButtons(main, (id) => byId.get(id));
@@ -272,9 +282,18 @@
     }
     main.innerHTML = `
       <div class="page-head"><h1>${esc(label)}</h1><span class="count">${esc(plural(today.length, "acontecimiento", "acontecimientos"))} hoy</span></div>
-      ${items.length ? `<div class="grid">${items.map((it) => cardHtml(it.ev, it.date, "", { dated: it.dated })).join("")}</div>` : `<p class="empty">Todavía no hay acontecimientos en ${esc(label)}.</p>`}`;
+      ${items.length ? olderBlock(items) : `<p class="empty">Todavía no hay acontecimientos en ${esc(label)}.</p>`}`;
     const byId = new Map(items.map((it) => [it.ev.id, it.ev]));
     bindSaveButtons(main, (id) => byId.get(id));
+  }
+
+  // Tarjetas de hoy y, debajo y rotuladas aparte, las de días anteriores que completan la sección.
+  function olderBlock(items) {
+    const now = items.filter((it) => !it.dated);
+    const old = items.filter((it) => it.dated);
+    const grid = (list) => `<div class="grid">${list.map((it) => cardHtml(it.ev, it.date, "", { dated: it.dated })).join("")}</div>`;
+    return (now.length ? grid(now) : "") +
+      (old.length ? `<p class="older-label">De días anteriores</p>${grid(old)}` : "");
   }
 
   // Acontecimientos de los días anteriores (hasta tres ediciones), del más reciente al más viejo.
@@ -320,6 +339,7 @@
         <a class="back" href="#/">← Portada</a>
         ${kickerHtml(ev, `Edición del ${fmtDay(date)}`)}
         <h1>${esc(ev.title)}</h1>
+        ${isExpired(ev) ? `<p class="expired-note">Aviso de servicio: su vigencia terminó el ${esc(fmtDateTime(ev.expiresAt))}. Se mantiene como registro.</p>` : ""}
         <div class="article__bar">
           <span>Última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
           ${saveBtn(ev, date)}
@@ -328,7 +348,7 @@
         <p class="article__lead">${esc(ev.summary)}</p>
         <h2>Puntos clave</h2>
         <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>
-        <h2 class="sources-head">Fuentes (${srcs.length})</h2>
+        <h2 class="sources-head">Fuentes: ${esc(plural(srcs.length, "nota", "notas"))} de ${esc(plural(distinctSources(ev).length, "medio", "medios"))}</h2>
         <ul class="sources">
           ${srcs.map((s) => `<li><span class="src-name">${esc(s.sourceName)}</span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="src-time">${esc(fmtDateTime(s.publishedAt))}</span></li>`).join("")}
         </ul>
@@ -419,10 +439,14 @@
         <h2>Cómo trabajamos</h2>
         <ul>
           <li><b>Un hecho, un acontecimiento.</b> Cuando varios medios cubren lo mismo, acá aparece una sola vez, con título, resumen, puntos clave y las notas originales de cada medio.</li>
-          <li><b>Solo lo reciente.</b> Usamos notas con fecha verificable publicadas en las últimas 24 horas. Un medio que publica notas antiguas no se usa ese día.</li>
+          <li><b>Solo lo reciente.</b> Cada edición se arma con notas con fecha verificable publicadas en las últimas 24 horas. Un medio que publica notas antiguas no se usa ese día. Cuando una sección no tiene suficientes novedades del día, se completa con las más recientes de los días anteriores, siempre separadas bajo «De días anteriores» y con su fecha.</li>
+          <li><b>Fecha y hora visibles.</b> Cada acontecimiento muestra la hora de su nota más reciente y, si no es de hoy, también el día. Los avisos de servicio (cortes de calle, cierres, horarios especiales) indican hasta cuándo valen y, una vez vencidos, se marcan «finalizado».</li>
           <li><b>Secciones.</b> País y Política reúnen solo hechos de Paraguay; Internacional, lo que pasa en el resto del mundo. Economía, Deportes, Cultura y Tecnología combinan noticias nacionales e internacionales.</li>
           <li><b>Ritmo.</b> Una edición completa a la mañana y cuatro actualizaciones durante el día, en hora de Asunción. Cada actualización suma las novedades y actualiza los hechos que cambiaron, sin duplicar.</li>
         </ul>
+
+        <h2>Límites de este método</h2>
+        <p>Trabajamos con los títulos y extractos que publican los medios, no con los artículos completos: pueden quedar afuera matices, condiciones, antecedentes o desmentidos posteriores. Por eso cada acontecimiento enlaza a las notas originales. Que varias notas cuenten lo mismo no equivale a que el hecho haya sido confirmado por fuentes independientes: indicamos cuántas notas y cuántos medios lo cubren, y cuando se trata de un reclamo o una acusación, aclaramos de quién es la versión y si la otra parte respondió.</p>
 
         <h2>Uso de inteligencia artificial</h2>
         <p>Los títulos, resúmenes y puntos clave se redactan con ayuda de inteligencia artificial, a partir únicamente de los títulos y extractos publicados por los medios, y bajo todas las reglas de esta página. Cuando un resumen se arma solo con extractos del medio, sin intervención de la IA, lo marcamos «sin IA». La redacción automática puede contener errores: ante cualquier duda, la nota original manda.</p>

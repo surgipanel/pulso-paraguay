@@ -11,20 +11,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { DATA_DIR } from "./store.mjs";
-import { STOPWORDS, fold, strongTokens } from "./text.mjs";
-
-// Nombres propios y cifras de un título, incluida la primera palabra (donde suele ir el nombre:
-// «Davidovich, en conversaciones…», «Landau responde…»).
-function keyTokens(title = "") {
-  const out = new Set(strongTokens(title));
-  for (const raw of String(title).split(/\s+/)) {
-    const w = raw.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "");
-    if (!/^[A-ZÁÉÍÓÚÑ]/.test(w)) continue;
-    const f = fold(w).replace(/[^a-z0-9ñ]/g, "");
-    if (f.length >= 4 && !STOPWORDS.has(f)) out.add(f);
-  }
-  return out;
-}
+import { nameTokens as keyTokens } from "./text.mjs";
 
 const FILE = path.join(DATA_DIR, "generic-images.json");
 const KEEP = 600;

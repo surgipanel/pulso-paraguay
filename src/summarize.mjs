@@ -73,6 +73,7 @@ export function extractiveEvent(cluster) {
     keyPoints,
     category: majority(cluster.articles.map(categoryHint), "pais"),
     scope: majority(cluster.articles.map(scopeHint), "paraguay"),
+    expiresAt: null,
     summaryKind: "extractivo",
     model: null,
   };
@@ -88,6 +89,7 @@ const EventSchema = z.object({
   key_points: z.array(z.string()),
   category: z.enum(CATEGORY_IDS),
   scope: z.enum(["paraguay", "internacional"]),
+  expires_at: z.string().nullable(),
 });
 const OutputSchema = z.object({ events: z.array(EventSchema) });
 
@@ -98,10 +100,11 @@ Recibís grupos candidatos de notas (cada grupo trae notas de uno o más medios 
 Reglas editoriales (obligatorias):
 1. Un acontecimiento = un hecho concreto. Si un grupo mezcla hechos distintos (aunque sean del mismo tema), dividilo en varios acontecimientos y asigná cada nota al que corresponde. No fusiones hechos distintos. No dejes notas sin asignar salvo que no sean noticia (publicidad, horóscopo, etc.); en ese caso omitilas.
 2. Usá SOLO la información que aparece en los títulos y extractos recibidos. No inventes datos, cifras, nombres ni contexto. Si los extractos son escasos, el resumen es más corto y general, nunca inventado.
-3. Título propio: máximo 14 palabras, en español de Paraguay. Tiene que dar ganas de leer: empezá por el dato más fuerte, con verbo activo y sujeto concreto (quién hizo qué). Prohibido el sensacionalismo y el clickbait: nada de signos de exclamación, mayúsculas sostenidas, "impactante", "polémica", "escándalo", "no vas a creer", preguntas como título ni adjetivos que el hecho no justifique. No copies el título de ningún medio.
+3. Título propio: máximo 14 palabras, en español de Paraguay. Tiene que dar ganas de leer: empezá por el dato más fuerte, con verbo activo y sujeto concreto (quién hizo qué). Prohibido el sensacionalismo y el clickbait: nada de signos de exclamación, mayúsculas sostenidas, "impactante", "polémica", "escándalo", "no vas a creer", preguntas como título ni adjetivos que el hecho no justifique. No copies el título de ningún medio. El título nunca es más seguro que el texto: si las notas dicen "habría", "presuntamente", "según…" o algo no está confirmado, el título conserva esa duda ("habría quedado sin frenos", "según la Policía"). Nunca conviertas una hipótesis, una sospecha o una versión en un hecho.
 4. Resumen propio: entre ${SUMMARY_MIN_WORDS} y ${SUMMARY_MAX_WORDS} palabras, un solo párrafo. Voz de El Prócer: directa, clara y cercana, como un buen periodista que le cuenta el hecho a un lector inteligente que tiene poco tiempo. Primero qué pasó, después por qué importa. Frases cortas, palabras comunes, cero relleno. Sin opinión propia ni juicios de valor. No copies frases enteras de las notas.
 5. Puntos clave: entre 2 y 4, una oración corta cada uno, hechos verificables en los extractos.
-6. Atribuí siempre denuncias, acusaciones y versiones ("según la Fiscalía", "denunció el senador X", "de acuerdo con ABC Color"). Nunca presentes una acusación como hecho probado.
+6. Atribuí siempre denuncias, acusaciones y versiones ("según la Fiscalía", "denunció el senador X", "de acuerdo con ABC Color"). Nunca presentes una acusación como hecho probado. Si es un reclamo o una acusación contra alguien y las notas traen la respuesta de la otra parte, incluila; si no la traen, dejá claro que es la posición de quien reclama, sin inventar la respuesta.
+   Nombres y cargos: si los medios nombran a una misma persona, institución o cargo de formas distintas, elegí una sola forma, la más precisa y completa, y usala igual en título, resumen y puntos clave.
 7. Distinguí con precisión: un proyecto de ley no es una ley; media sanción no es sanción; una imputación no es una condena; un anuncio no es una ejecución.
 8. Categoría: una de ${CATEGORIES.map((c) => `${c.id} (${c.label})`).join(", ")}.
    - "pais": SOLO hechos de Paraguay (sociedad, sucesos, salud, educación, clima, ciudades e interior). Nunca un hecho ocurrido en otro país.
@@ -109,6 +112,7 @@ Reglas editoriales (obligatorias):
    - "internacional": todo hecho ocurrido fuera de Paraguay que no sea de deportes, economía, cultura ni tecnología: política extranjera, el Papa y el Vaticano, conflictos, sucesos y sociedad de otros países. Si un hecho extranjero involucra directamente a Paraguay (un paraguayo afectado, un acuerdo con el país), va en la sección paraguaya que corresponda.
    - "economia", "deportes", "cultura" (espectáculos, música, cine, libros, arte, farándula, tradiciones) y "tecnologia" (tecnología, ciencia, internet, innovación) admiten hechos nacionales e internacionales.
 9. scope: "paraguay" si el hecho ocurre en Paraguay o involucra directamente al país; "internacional" si no.
+11. Avisos con vigencia: si el hecho es un aviso de servicio con hora límite (corte o cierre de calles, desvíos, cortes de luz o agua, horarios especiales, alertas por un período), escribí en título o resumen el día y la hora concretos ("el domingo 18 hasta las 14:00"), nunca solo "hoy" o "mañana", y en "expires_at" poné el momento en que deja de valer en formato AAAA-MM-DDTHH:MM:00-03:00 (hora de Asunción). En cualquier otro caso, "expires_at" es null.
 10. Ética: presunción de inocencia (un detenido o imputado no es culpable; usá "acusado", "imputado", "según la Fiscalía"). Nunca nombres ni des datos que identifiquen a menores de edad involucrados en delitos o a víctimas de delitos sexuales. En suicidios no detalles el método ni lo presentes como solución. Sin detalles morbosos de violencia o accidentes. Sin estigmatizar por origen, religión, género, orientación sexual, discapacidad o condición social.
 
 Devolvé únicamente JSON con el formato pedido.`;
@@ -124,6 +128,14 @@ function clusterPayload(cluster) {
       fecha: a.publishedAt,
     })),
   };
+}
+
+// Vencimiento de un aviso de servicio (corte de calle, cierre, horario especial): fecha y hora
+// ISO. Si no es una fecha válida o no corresponde, null.
+function validExpiry(value) {
+  if (!value) return null;
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? null : d.toISOString();
 }
 
 function validateEvents(parsed, clusters) {
@@ -155,6 +167,7 @@ function validateEvents(parsed, clusters) {
       keyPoints,
       category: ev.category,
       scope: ev.scope,
+      expiresAt: validExpiry(ev.expires_at),
       summaryKind: "ia",
       model: AI_MODEL,
     });

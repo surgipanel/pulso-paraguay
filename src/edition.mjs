@@ -2,7 +2,7 @@
 // no duplica acontecimientos y respeta el máximo diario.
 import { EDITION_MIN_PER_CATEGORY, MAX_EVENTS_PER_DAY, MAX_PER_CATEGORY, TIMEZONE } from "./config.mjs";
 import { eventId } from "./summarize.mjs";
-import { fold, tokens } from "./text.mjs";
+import { fold, nameTokens, tokens } from "./text.mjs";
 
 function jaccard(a, b) {
   const A = new Set(a), B = new Set(b);
@@ -18,7 +18,15 @@ function sameEvent(existing, candidate) {
   // Sin URL en común: títulos muy parecidos (p. ej. la IA reescribió el mismo hecho).
   const t = jaccard(tokens(existing.title), tokens(candidate.title));
   const s = jaccard(tokens(existing.summary), tokens(candidate.summary));
-  return t >= 0.5 || (t >= 0.34 && s >= 0.3);
+  if (t >= 0.5 || (t >= 0.34 && s >= 0.3)) return true;
+  // Mismo protagonista, misma sección y resúmenes parecidos: el mismo hecho contado con otras
+  // palabras (p. ej. "Vicesecretario … Landau visita Paraguay" y "Subsecretario Landau llega a
+  // Paraguay"). Calibrado con las ediciones reales: hechos distintos pero cercanos (la crecida en
+  // Ayolas y en Cerrito) quedan por debajo.
+  if (existing.category !== candidate.category) return false;
+  const a = nameTokens(existing.title);
+  const shared = [...nameTokens(candidate.title)].some((x) => x.length >= 5 && a.has(x));
+  return shared && s >= 0.18;
 }
 
 function mergeSources(a, b) {
@@ -33,7 +41,9 @@ function scoreEvent(ev, now) {
   const ageH = (now.getTime() - newest) / 36e5;
   const recency = Math.max(0, 2 - ageH / 12);
   const scopePenalty = ev.scope === "internacional" ? -2.5 : 0;
-  return distinct * 3 + Math.min(ev.sources.length, 4) + recency + scopePenalty;
+  // Un aviso de servicio que ya venció baja al fondo (no se muestra como vigente).
+  const expiredPenalty = ev.expiresAt && new Date(ev.expiresAt) < now ? -6 : 0;
+  return distinct * 3 + Math.min(ev.sources.length, 4) + recency + scopePenalty + expiredPenalty;
 }
 
 // candidates: eventos producidos en esta corrida, ya con `sources` resueltas.
@@ -55,6 +65,7 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
         match.keyPoints = cand.keyPoints;
         match.category = cand.category;
         match.scope = cand.scope ?? match.scope;
+        match.expiresAt = cand.expiresAt ?? match.expiresAt ?? null;
         match.summaryKind = cand.summaryKind;
         match.model = cand.model;
         match.sources = merged;
@@ -66,7 +77,16 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
         skipped += 1;
       }
     } else {
-      fresh.push(cand);
+      // También puede repetirse dentro de esta misma corrida (dos grupos del mismo hecho).
+      const twin = fresh.find((f) => sameEvent(f, cand));
+      if (twin) {
+        const merged = mergeSources(twin.sources, cand.sources);
+        if (cand.sources.length > twin.sources.length) Object.assign(twin, { ...cand, sources: merged });
+        else twin.sources = merged;
+        skipped += 1;
+      } else {
+        fresh.push(cand);
+      }
     }
   }
 
@@ -112,6 +132,7 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
       keyPoints: cand.keyPoints,
       category: cand.category,
       scope: cand.scope ?? "paraguay",
+      expiresAt: cand.expiresAt ?? null,
       summaryKind: cand.summaryKind,
       model: cand.model,
       sources: cand.sources,

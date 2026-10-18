@@ -103,6 +103,20 @@ export function strongTokens(title = "") {
   return out;
 }
 
+// Nombres propios y cifras de un título, incluida la primera palabra (donde suele ir el nombre:
+// «Davidovich, en conversaciones…», «Landau responde…»). Sirve para saber si dos títulos hablan
+// de lo mismo aunque estén redactados distinto.
+export function nameTokens(title = "") {
+  const out = new Set(strongTokens(title));
+  for (const raw of String(title).split(/s+/)) {
+    const w = raw.replace(/^[^p{L}p{N}]+|[^p{L}p{N}]+$/gu, "");
+    if (!/^[A-ZÁÉÍÓÚÑ]/.test(w)) continue;
+    const f = fold(w).replace(/[^a-z0-9ñ]/g, "");
+    if (f.length >= 4 && !STOPWORDS.has(f)) out.add(f);
+  }
+  return out;
+}
+
 // ---------- Fechas (zona America/Asuncion) ----------
 
 const dtfParts = new Intl.DateTimeFormat("en-CA", {
