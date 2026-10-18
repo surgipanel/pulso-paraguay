@@ -51,11 +51,6 @@
     const shown = names.slice(0, max).join(" · ");
     return names.length > max ? `${shown} · +${names.length - max}` : shown;
   };
-  const srcSentence = (ev) => {
-    const names = distinctSources(ev);
-    if (names.length <= 3) return names.join(", ").replace(/, ([^,]*)$/, " y $1");
-    return `${names.slice(0, 3).join(", ")} y ${plural(names.length - 3, "medio más", "medios más")}`;
-  };
   const setTitle = (t) => { document.title = t ? `${t} | ${SITE}` : `${SITE} | Libres para informar`; };
 
   function loadSaved() {
@@ -166,7 +161,6 @@
         ${kickerHtml(ev)}
         <h2 class="lead__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h2>
         <p class="lead__deck">${esc(ev.summary)}</p>
-        <p class="lead__meta">Cobertura: ${esc(srcSentence(ev))}.</p>
         <div class="lead__actions">
           <a class="readmore" href="${link(ev, editionDate)}">Leer el acontecimiento →</a>
           ${saveBtn(ev, editionDate)}
