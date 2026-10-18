@@ -144,6 +144,8 @@ Debajo de la fecha de edición hay una franja fina con la cotización de referen
 
 Cada foto se verifica antes de publicarse pidiéndola como lo hace un navegador (`probeImage` en `src/fetch.mjs`). Se guarda la dirección final tras las redirecciones: algunas direcciones viejas de ABC y La Nación (`www.medio/resizer/...=/cloudfront...`) redirigen a su CDN y a veces cortan la conexión a los navegadores. En los CDN de Arc se pide un ancho de 1200 px. Si la foto de una nota no carga, se prueba la de otra nota del mismo hecho.
 
+Las fotos genéricas de sección (ABC pone «Internacionales», «Ciencia» o fútbol internacional a las notas de agencia sin foto propia; La Nación, «Mundo») no se usan nunca. `src/images.mjs` las detecta solo: una foto repetida en notas de hechos distintos cuyos títulos no comparten ningún nombre propio ni cifra. Las detectadas se guardan en `docs/data/generic-images.json`. Si ningún medio tiene foto propia del hecho, la web muestra una imagen de El Prócer con el nombre de la sección (`docs/img/seccion-*.png`), que también reemplaza a cualquier foto que no cargue.
+
 ## Compartir e ícono
 
 `docs/og-image.png` (1200×630) es la vista previa al compartir en WhatsApp y redes; `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` y `site.webmanifest` dan el ícono EP al agregar el sitio a la pantalla de inicio. Como la web es una sola página, la vista previa es la misma para cualquier enlace.

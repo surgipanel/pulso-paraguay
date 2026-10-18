@@ -5,6 +5,7 @@ import { AI_MODEL, DUPLICATE_RUN_GUARD_HOURS, MAX_CLUSTERS_TO_AI, MAX_EVENTS_PER
 import { SOURCES } from "../src/sources.mjs";
 import { fetchAllSources, probeImage } from "../src/fetch.mjs";
 import { clusterCategory } from "../src/heuristics.mjs";
+import { detectGenericImages, imageKey, readGenericImages, writeGenericImages } from "../src/images.mjs";
 import { clusterArticles, scoreCluster } from "../src/cluster.mjs";
 import { resolveAiMode, summarizeClusters } from "../src/summarize.mjs";
 import { mergeEdition } from "../src/edition.mjs";
@@ -26,8 +27,9 @@ const log = {
 // Foto referencial del acontecimiento: la de la nota cuyo título coincide con el del evento
 // (modo extractivo) o, si no, la más reciente que tenga imagen. Siempre con crédito al medio.
 // Cada foto se verifica antes de publicarla; si no carga, se prueba la de otra nota del mismo hecho.
-async function pickImage(d) {
-  const withImg = d.sources.filter((s) => s.image);
+async function pickImage(d, generic) {
+  // Las fotos genéricas de sección de los medios (ver src/images.mjs) no se usan nunca.
+  const withImg = d.sources.filter((s) => s.image && !generic.has(imageKey(s.image)));
   const main = withImg.find((s) => s.title === d.title);
   const ordered = main ? [main, ...withImg.filter((s) => s !== main)] : withImg;
   for (const s of ordered.slice(0, 4)) {
@@ -129,6 +131,9 @@ async function main() {
     const known = new Set((existing?.events ?? []).flatMap((e) => e.sources.map((s) => s.url)));
     let clusters = clusterArticles(articles, { liberal: aiMode === "ia" });
     run.clusters = clusters.length;
+    // Fotos genéricas: las ya conocidas más las que se repiten en esta corrida.
+    const generic = new Set([...(await readGenericImages()), ...detectGenericImages(clusters)]);
+    if (!DRY_RUN) await writeGenericImages(generic);
     const withNews = clusters.filter((c) => c.articles.some((a) => !known.has(a.url)));
     withNews.sort((a, b) => scoreCluster(b, now) - scoreCluster(a, now));
     const multi = withNews.filter((c) => c.sourceCount > 1).length;
@@ -158,7 +163,7 @@ async function main() {
           .map((a) => ({ sourceId: a.sourceId, sourceName: a.sourceName, title: a.title, url: a.url, publishedAt: a.publishedAt, image: a.image ?? null })),
       }))
       .filter((d) => d.sources.length > 0);
-    await mapLimit(candidates, 8, async (d) => { d.image = await pickImage(d); });
+    await mapLimit(candidates, 8, async (d) => { d.image = await pickImage(d, generic); });
     log.info(`   ${candidates.length} acontecimientos redactados${stats.aiErrors.length ? ` · ${stats.aiErrors.length} lotes cayeron a modo extractivo` : ""}`);
 
     // 5) Edición

@@ -118,11 +118,13 @@
   }
 
   // ---------- piezas ----------
+  // Sin foto propia del medio (o si no carga): imagen de El Prócer con el nombre de la sección.
+  const brandImg = (cat) => `img/seccion-${CAT_LABEL[cat] ? cat : "pais"}.png`;
   function mediaHtml(ev, { credit = false } = {}) {
-    const initial = (CAT_LABEL[ev.category] ?? "P")[0];
-    if (!ev.image?.url) return `<div class="media is-empty" data-initial="${esc(initial)}"></div>`;
-    return `<div class="media" data-initial="${esc(initial)}">
-      <img src="${esc(ev.image.url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('is-empty')">
+    const brand = brandImg(ev.category);
+    if (!ev.image?.url) return `<div class="media is-brand"><img src="${brand}" alt="" loading="lazy"></div>`;
+    return `<div class="media">
+      <img src="${esc(ev.image.url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${brand}';this.parentNode.classList.add('is-brand')">
       ${credit ? `<span class="media__credit">Foto: ${esc(ev.image.credit)}</span>` : ""}
     </div>`;
   }
@@ -326,7 +328,7 @@
         <p class="article__lead">${esc(ev.summary)}</p>
         <h2>Puntos clave</h2>
         <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>
-        <h2>Fuentes (${srcs.length})</h2>
+        <h2 class="sources-head">Fuentes (${srcs.length})</h2>
         <ul class="sources">
           ${srcs.map((s) => `<li><span class="src-name">${esc(s.sourceName)}</span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="src-time">${esc(fmtDateTime(s.publishedAt))}</span></li>`).join("")}
         </ul>
