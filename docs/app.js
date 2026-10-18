@@ -339,7 +339,7 @@
         <a class="back" href="#/">← Portada</a>
         ${kickerHtml(ev, `Edición del ${fmtDay(date)}`)}
         <h1>${esc(ev.title)}</h1>
-        ${isExpired(ev) ? `<p class="expired-note">Aviso de servicio: su vigencia terminó el ${esc(fmtDateTime(ev.expiresAt))}. Se mantiene como registro.</p>` : ""}
+        ${isExpired(ev) ? `<p class="expired-note">Aviso de servicio finalizado: valía hasta el ${esc(fmtDateTime(ev.expiresAt))}; queda como registro.</p>` : ""}
         <div class="article__bar">
           <span>Última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
           ${saveBtn(ev, date)}

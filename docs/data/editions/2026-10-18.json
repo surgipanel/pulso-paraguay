@@ -1160,7 +1160,8 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.51
+      "score": 9.51,
+      "expiresAt": "2026-10-18T17:00:00.000Z"
     },
     {
       "id": "ev-1yzw2z2",
@@ -1206,8 +1207,8 @@
     },
     {
       "id": "ev-1tkivhp",
-      "title": "Vicesecretario de Estado de EE.UU. Christopher Landau visita Paraguay y se reunirá con Peña",
-      "summary": "Christopher Landau, vicesecretario de Estado de Estados Unidos, llega a Paraguay en una gira que incluye Buenos Aires. Según ABC Color, se reunirá el lunes con el presidente Santiago Peña para tratar comercio y seguridad y encabezará una delegación de empresas estadounidenses interesadas en invertir. De acuerdo con HOY, permanecerá tres días en el país, y el propio Landau corrigió a un comunicador que describió la visita como una breve escala.",
+      "title": "Subsecretario de Estado de EE.UU. Christopher Landau visita Paraguay y se reunirá con Peña",
+      "summary": "Christopher Landau, subsecretario de Estado de Estados Unidos, llega a Paraguay en una gira que incluye Buenos Aires. Según ABC Color, se reunirá el lunes con el presidente Santiago Peña para tratar comercio y seguridad y encabezará una delegación de empresas estadounidenses interesadas en invertir. De acuerdo con HOY, permanecerá tres días en el país, y el propio Landau corrigió a un comunicador que describió la visita como una breve escala.",
       "keyPoints": [
         "Landau visitará al presidente Santiago Peña, según el Departamento de Estado.",
         "Lo acompaña Juan Pablo Segura, secretario de Estado adjunto para el Hemisferio Occidental.",
@@ -1220,55 +1221,20 @@
       "model": "claude-opus-5-5",
       "sources": [
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "EE.UU.: Peña recibe mañana a Landau para hablar de comercio y seguridad",
-          "url": "https://www.abc.com.py/politica/2026/10/18/eeuu-pena-recibe-manana-a-landau-para-hablar-de-comercio-y-seguridad",
-          "publishedAt": "2026-10-18T12:00:00.000Z",
-          "image": "https://www.abc.com.py/resizer/SKCZU7wsZ3YqwuFbSfRMmbeG1JY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NW245TQTAZHBVFXIW27EFIVRBA.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Landau corrige a cuestionado comunicador: “¿Cómo se le ocurre?”",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/17/landau-corrige-a-cuestionado-comunicador-como-se-le-ocurre",
-          "publishedAt": "2026-10-17T17:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/QCW4DJQFZRAPHPFESDN33NXYOU.jpg?auth=e861a817e9fd688d039e4c33fb04eff5557ad97a26315f43ed39b8c082d7ffcc&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NW245TQTAZHBVFXIW27EFIVRBA.jpeg?auth=3702100891432c2d3b6d8723ebb94fe6af381c7551454a1e12c4daea82e9e73f&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/eeuu-pena-recibe-manana-a-landau-para-hablar-de-comercio-y-seguridad"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 9.49
-    },
-    {
-      "id": "ev-0mgphx2",
-      "title": "Subsecretario Landau llega a Paraguay para visita oficial de tres días",
-      "summary": "El subsecretario de Estado de Estados Unidos, Christopher Landau, llega a Asunción para una visita oficial de tres días. Viene al frente de una delegación de empresarios norteamericanos. La agenda busca fortalecer las relaciones bilaterales, las inversiones y el comercio. Landau aseguró que la visita es muy importante para él.",
-      "keyPoints": [
-        "La visita oficial dura tres días.",
-        "Landau encabeza una delegación de empresarios estadounidenses.",
-        "El objetivo es fortalecer relaciones, inversiones y comercio.",
-        "Landau respondió a críticas sobre el carácter de la visita."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Visita de Landau apunta a profundizar vínculos estratégicos entre Paraguay y EE. UU.",
           "url": "https://www.lanacion.com.py/politica/2026/10/18/visita-de-landau-apunta-a-profundizar-vinculos-estrategicos-entre-paraguay-y-ee-uu",
           "publishedAt": "2026-10-18T16:22:25.000Z",
           "image": "https://www.lanacion.com.py/resizer/MJGuctDYC8cFNPqMHl_c7RbRyGU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QCW4DJQFZRAPHPFESDN33NXYOU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "EE.UU.: Peña recibe mañana a Landau para hablar de comercio y seguridad",
+          "url": "https://www.abc.com.py/politica/2026/10/18/eeuu-pena-recibe-manana-a-landau-para-hablar-de-comercio-y-seguridad",
+          "publishedAt": "2026-10-18T12:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/SKCZU7wsZ3YqwuFbSfRMmbeG1JY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NW245TQTAZHBVFXIW27EFIVRBA.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -1301,22 +1267,30 @@
           "url": "https://www.lanacion.com.py/politica/2026/10/17/landau-responde-a-desacertado-comentario-de-periodista-no-es-de-ninguna-manera-una-breve-escala",
           "publishedAt": "2026-10-17T19:30:00.000Z",
           "image": "https://www.lanacion.com.py/resizer/MJGuctDYC8cFNPqMHl_c7RbRyGU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QCW4DJQFZRAPHPFESDN33NXYOU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Landau corrige a cuestionado comunicador: “¿Cómo se le ocurre?”",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/17/landau-corrige-a-cuestionado-comunicador-como-se-le-ocurre",
+          "publishedAt": "2026-10-17T17:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QCW4DJQFZRAPHPFESDN33NXYOU.jpg?auth=e861a817e9fd688d039e4c33fb04eff5557ad97a26315f43ed39b8c082d7ffcc&width=1200&height=630&smart=true"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QCW4DJQFZRAPHPFESDN33NXYOU.jpg?auth=e861a817e9fd688d039e4c33fb04eff5557ad97a26315f43ed39b8c082d7ffcc&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/visita-de-landau-apunta-a-profundizar-vinculos-estrategicos-entre-paraguay-y-ee-uu"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NW245TQTAZHBVFXIW27EFIVRBA.jpeg?auth=3702100891432c2d3b6d8723ebb94fe6af381c7551454a1e12c4daea82e9e73f&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/eeuu-pena-recibe-manana-a-landau-para-hablar-de-comercio-y-seguridad"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 8.85
+      "updatedAt": "2026-10-18T20:09:15.197Z",
+      "updatedSlot": "manana",
+      "score": 9.49
     },
     {
       "id": "ev-0lfbhi1",
-      "title": "Adolescente muere atropellado por un camión sin frenos en Ciudad del Este",
+      "title": "Adolescente muere atropellado por un camión que habría quedado sin frenos en Ciudad del Este",
       "summary": "Un adolescente de 17 años, identificado como Isaías Otazú, murió en el barrio San Miguel de Ciudad del Este al ser arrollado por un tractocamión que habría quedado sin frenos. Según La Nación, el vehículo sufrió una falla mecánica tras descargar mercaderías, tomó velocidad en una pendiente, chocó contra tres automóviles y terminó incrustado en una vivienda.",
       "keyPoints": [
         "La víctima fue Isaías Otazú, de 17 años.",
@@ -1353,7 +1327,7 @@
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedAt": "2026-10-18T20:09:15.197Z",
       "updatedSlot": "manana",
       "score": 8.19
     },
