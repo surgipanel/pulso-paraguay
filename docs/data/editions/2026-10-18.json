@@ -1,9 +1,9 @@
 {
   "date": "2026-10-18",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-18T18:09:39.867Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-18T21:33:48.478Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -79,7 +79,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 23.94
+      "score": 23.66
     },
     {
       "id": "ev-0ignndj",
@@ -170,7 +170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 23.74
+      "score": 23.45
     },
     {
       "id": "ev-04w5hom",
@@ -245,23 +245,99 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 23.67
+      "score": 23.39
+    },
+    {
+      "id": "ev-1u65ku4",
+      "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
+      "summary": "El presidente de la ANR, Horacio Cartes, anunció este domingo que su movimiento Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas previstas para 2027. Según las notas, Cartes dijo que se concentrará en el fortalecimiento institucional del partido. La decisión llega después de que un ministro descartara integrar la chapa presidencial.",
+      "keyPoints": [
+        "Cartes anunció la decisión este domingo 18 de octubre.",
+        "Honor Colorado no presentará candidaturas para las internas partidarias previstas para 2027.",
+        "Cartes dijo que se concentrará en el fortalecimiento institucional del partido.",
+        "La decisión se conoce después del anuncio del ministro Juan Carlos Baruja."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/honor-colorado-no-presentara-candidaturas-nacionales-ni-partidarias-para-las-internas",
+          "publishedAt": "2026-10-18T21:05:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UGIr2lbCWnx_cBvP1A08Y2FYaBY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4VOCWXGOARCSBEVB6BHUUAWDN4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
+          "url": "https://www.adndigital.com.py/cartes-anuncia-que-honor-colorado-no-presentara-candidaturas-en-las-internas-de-2027",
+          "publishedAt": "2026-10-18T20:59:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "HC anuncia que Honor Colorado no presentará candidaturas para internas del 2027",
+          "url": "https://www.hoy.com.py/politica/2026/10/18/cartes-confirma-que-honor-colorado-no-presentara-candidaturas-para-las-internas-del-2027",
+          "publishedAt": "2026-10-18T20:55:25.910Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/WAZ5C5YBLBCG3I7R6RKZBE5X6M.jpeg?auth=e3e278e08c1f89d27af3455f815f76e761687e82cb45ca5027e9aa18a925ba5e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Giro político: Cartes anuncia que Honor Colorado no presentará candidato presidencial",
+          "url": "https://elnacional.com.py/politica/giro-politico-cartes-anuncia-honor-colorado-presentara-candidato-presidencial-n113826",
+          "publishedAt": "2026-10-18T20:48:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a4fc3e87b9b2.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Horacio Cartes anuncia que Honor Colorado no presentará candidatura para internas del 2027",
+          "url": "https://www.ultimahora.com/horacio-cartes-anuncia-que-honor-colorado-no-presentara-candidatura-para-internas-del-2027",
+          "publishedAt": "2026-10-18T20:44:04.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4VOCWXGOARCSBEVB6BHUUAWDN4.jpeg?auth=5681002adfd5eb5238fda9dc1c6d7fa7ba4332ef9999267168043f4bc19f70ba&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/honor-colorado-no-presentara-candidaturas-nacionales-ni-partidarias-para-las-internas"
+      },
+      "firstSeenAt": "2026-10-18T21:33:48.478Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T21:33:48.478Z",
+      "updatedSlot": "tarde",
+      "score": 20.96
     },
     {
       "id": "ev-1yg0ra8",
-      "title": "Liberales conmemoran 135 años de la gesta del 18 de Octubre de 1891",
-      "summary": "El Partido Liberal Radical Auténtico recordó el levantamiento de 1891 contra el gobierno de Juan Gualberto González. Hubo una ofrenda floral en el Panteón 18 de Octubre, en el Cementerio de la Recoleta. El acto también tuvo reivindicaciones de género y una campaña de afiliación masiva. El partido abrió una ronda de diálogo rumbo al 2028.",
+      "title": "El PLRA conmemora los 135 años de la gesta del 18 de octubre de 1891",
+      "summary": "Dirigentes y autoridades del PLRA realizaron un acto cívico y una ofrenda floral en el Panteón 18 de Octubre, en el Cementerio de la Recoleta, en Asunción. La jornada recordó el levantamiento de 1891, un hecho clave en la identidad histórica del partido. El acto estuvo marcado por reclamos de paridad y una campaña de afiliación.",
       "keyPoints": [
-        "La ofrenda floral se hizo en el Panteón 18 de Octubre.",
-        "La gesta de 1891 cumple 135 años.",
-        "El acto incluyó un llamado a la paridad.",
-        "El PLRA abrió una ronda de diálogo rumbo al 2028."
+        "El acto recordó los 135 años de la gesta de 1891.",
+        "La ceremonia se hizo en el Panteón 18 de Octubre, en la Recoleta.",
+        "La jornada incluyó un llamado a la paridad de género.",
+        "El partido también lanzó una campaña de afiliación masiva."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "PLRA conmemora la gesta del 18 de octubre y apunta a liderar el diálogo opositor rumbo al 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/plra-conmemora-la-gesta-del-18-de-octubre-y-apunta-a-liderar-el-dialogo-opositor-rumbo-al-2028",
+          "publishedAt": "2026-10-18T18:44:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/N88nU-FOFlXvdlP__3SzhAbWyVY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3744633FCVAKNEPTQGBBYBTGRI.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -312,15 +388,16 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2022/10/2ff7a989f3eb8f2649a437e873b28080.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/con-su-polca-partidaria-plra-conmemora-gesta-revolucionaria-18-octubre-n113805"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3744633FCVAKNEPTQGBBYBTGRI.jpg?auth=e169921118eeeab32ee41eb25f02e01ea870f2432447521059ccfa8ad93af93b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/plra-conmemora-la-gesta-del-18-de-octubre-y-apunta-a-liderar-el-dialogo-opositor-rumbo-al-2028"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedAt": "2026-10-18T21:33:48.478Z",
       "updatedSlot": "tarde",
-      "score": 20.9
+      "score": 20.76,
+      "expiresAt": null
     },
     {
       "id": "ev-12sixmg",
@@ -387,823 +464,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 15.49
-    },
-    {
-      "id": "ev-0l7gniu",
-      "title": "Fernando Lugo reaparece junto al intendente electo de Ciudad del Este",
-      "summary": "El expresidente Fernando Lugo reapareció este fin de semana junto a Dani Mujica, intendente electo de Ciudad del Este. Lugo estaba alejado del foco público desde agosto de 2022, tras un accidente cerebrovascular. Mujica asumirá la jefatura municipal el 3 de noviembre.",
-      "keyPoints": [
-        "Lugo estuvo alejado de la vida pública desde agosto de 2022.",
-        "Lugo sufrió un accidente cerebrovascular en 2022.",
-        "Daniel Pereira Mujica asumirá la Intendencia de Ciudad del Este el 3 de noviembre.",
-        "Mujica es del Partido Yo Creo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Expresidente Fernando Lugo aparece abrazado al intendente de Ciudad del Este, Dani Mujica, de cara al 2028",
-          "url": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028",
-          "publishedAt": "2026-10-18T15:39:33.000Z",
-          "image": "https://www.abc.com.py/resizer/APV9FzrAk85XM3nw1c21FWkHpp4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lugo reaparece y dialoga con intendente esteño",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/lugo-reaparece-y-dialoga-con-intendente-esteno",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fdEaNHgmBRAPxceKKl9AVJiGODA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GY57AL7ROVCTVAHZDOVHMHT7KQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Lugo reaparece en la arena política: Daniel Mujica recibió al expresidente y hablaron de unidad",
-          "url": "https://elnacional.com.py/politica/lugo-reaparece-arena-politica-daniel-mujica-recibio-expresidente-hablaron-unidad-n113747",
-          "publishedAt": "2026-10-17T21:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad301a511bb1.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg?auth=07ecd76f5dec901fccd1cb94806866331677d121ed04aab89e17c53acac1ecb3&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 13.79
-    },
-    {
-      "id": "ev-05yngoc",
-      "title": "Olimpia vence 3-0 a Sportivo 2 de Mayo y queda en la cima del Clausura",
-      "summary": "Olimpia derrotó por 3 a 0 a Sportivo 2 de Mayo en Sajonia y pasó a ocupar el primer puesto del torneo Clausura 2026, a la espera del resultado de Libertad. Los goles fueron de Gabriel Ávalos, con un tanto destacado al inicio, y de Mateo Gamarra y Rodney Redes en el tramo final. Los medios coinciden en que el Franjeado dominó el encuentro.",
-      "keyPoints": [
-        "Olimpia ganó 3-0 a Sportivo 2 de Mayo en Sajonia.",
-        "Anotaron Gabriel Ávalos, Mateo Gamarra y Rodney Redes.",
-        "Con el triunfo, Olimpia lidera el Clausura 2026 a la espera de Libertad."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Con jerarquía y contundencia, Olimpia golea al 2 de Mayo para recuperar la punta del Clausura",
-          "url": "https://www.adndigital.com.py/con-jerarquia-y-contundencia-olimpia-golea-al-2-de-mayo-para-recuperar-la-punta-del-clausura",
-          "publishedAt": "2026-10-18T10:32:01.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-073034.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La punta ya es del Franjeado",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/18/la-punta-ya-es-del-franjeado",
-          "publishedAt": "2026-10-18T03:05:40.000Z",
-          "image": "https://www.lanacion.com.py/resizer/j59tbB7_avUDV7Sc1LyubD8fRKw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATRUO4FJNBVTDB2U4BEHM6XFM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Olimpia golea a Sportivo 2 de Mayo y le arrebata el liderato",
-          "url": "https://elnacional.com.py/deportes/olimpia-golea-sportivo-2-mayo-le-arrebata-liderato-n113788",
-          "publishedAt": "2026-10-18T00:15:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad410afa88a8.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-073034.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/con-jerarquia-y-contundencia-olimpia-golea-al-2-de-mayo-para-recuperar-la-punta-del-clausura"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 13.36
-    },
-    {
-      "id": "ev-1x8xm8k",
-      "title": "León XIV reaparece en el ángelus y anuncia regreso gradual a sus actividades",
-      "summary": "El papa León XIV, de 71 años, encabezó este domingo el rezo del ángelus desde la ventana del Palacio Apostólico ante miles de fieles en la plaza de San Pedro. En una alocución breve dijo que retomará sus actividades de forma gradual tras la cirugía en la que le extirparon el lóbulo inferior del pulmón derecho, y agradeció el apoyo recibido.",
-      "keyPoints": [
-        "El pontífice fue operado el martes 13 de octubre en el hospital Gemelli de Roma.",
-        "Afirmó que retomará gradualmente sus actividades.",
-        "Dijo sentirse especialmente cerca de quienes padecen enfermedades y discapacidades."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "León XIV reaparece en el ángelus y dice que retomará gradualmente su actividad",
-          "url": "https://www.ultimahora.com/leon-xiv-reaparece-en-el-angelus-y-dice-que-retomara-gradualmente-su-actividad",
-          "publishedAt": "2026-10-18T12:24:55.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "El Papa vuelve a saludar a la multitud en el Vaticano tras operarse",
-          "url": "https://www.adndigital.com.py/el-papa-vuelve-a-saludar-a-la-multitud-en-el-vaticano-tras-operarse",
-          "publishedAt": "2026-10-18T12:15:26.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091311.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "León XIV reaparece en el ángelus y dice que retomará gradualmente su actividad",
-          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-reaparece-en-el-angelus-y-dice-que-retomara-gradualmente-su-actividad",
-          "publishedAt": "2026-10-18T12:05:10.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "León XIV dice que retomará gradualmente su actividad y agradece el apoyo recibido",
-          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-dice-que-retomara-gradualmente-su-actividad-y-agradece-el-apoyo-recibido",
-          "publishedAt": "2026-10-18T10:40:54.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "León XIV reaparece en el rezo del ángelus en el Vaticano tras su operación de pulmón",
-          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-reaparece-en-el-rezo-del-angelus-en-el-vaticano-tras-su-operacion-de-pulmon",
-          "publishedAt": "2026-10-18T10:10:58.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091311.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/el-papa-vuelve-a-saludar-a-la-multitud-en-el-vaticano-tras-operarse"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 12.02
-    },
-    {
-      "id": "ev-00jg9rq",
-      "title": "Protestas por el costo de vida en Francia dejan más de 1.800 detenidos",
-      "summary": "Las manifestaciones contra el encarecimiento de la vida en Francia del sábado derivaron en choques con la policía, incendios y saqueos de comercios, sobre todo en París. Según el ministro del Interior, Laurent Núñez, hubo más de 1.800 detenidos y unos 500 agentes heridos, cifras provisionales. Núñez atribuyó la violencia a grupos de ultraizquierda y delincuentes. Las protestas ocurren en un final de mandato complicado para Emmanuel Macron.",
-      "keyPoints": [
-        "El ministro Laurent Núñez informó más de 1.800 detenidos, según un balance provisional.",
-        "Según Núñez, 500 policías, gendarmes y bomberos resultaron heridos.",
-        "En París hubo incendios de autos y papeleras y saqueos de comercios.",
-        "Las autoridades desplegaron unidades antidisturbios de élite."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "El gobierno de Francia reportó más de 1.800 detenidos durante las violentas protestas del sábado",
-          "url": "https://www.adndigital.com.py/el-gobierno-de-francia-reporto-mas-de-1-800-detenidos-durante-las-violentas-protestas-del-sabado",
-          "publishedAt": "2026-10-18T11:41:26.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-084033.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los detenidos en las protestas en Francia ascienden a 1.800 con 500 agentes heridos",
-          "url": "https://www.abc.com.py/internacionales/2026/10/18/los-detenidos-en-las-protestas-en-francia-ascienden-a-1800-con-500-agentes-heridos",
-          "publishedAt": "2026-10-18T09:50:07.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Protestas por el costo de vida",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/18/protestas-por-el-costo-de-vida",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/EvOgMOdw6ZE4EWOe-F1x5zRFJPU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKWIRUE52JH2PIRCYIQR32J3N4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Francia estalla contra el costo de vida y las protestas dejan cientos de detenidos",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/17/francia-estalla-contra-el-costo-de-vida-y-las-protestas-dejan-cientos-de-detenidos",
-          "publishedAt": "2026-10-17T19:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-Up705onzoYdZj-I-mGjnpVssRU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4YBMWLCGKBAVDHCH75NNGLCTEI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Protestas por la vida cara encienden Francia y acorralan el fin de mandato de Macron",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/17/protestas-por-la-vida-cara-encienden-francia-y-acorralan-el-fin-de-mandato-de-macron",
-          "publishedAt": "2026-10-17T16:50:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/scDyfIYCxvKLTCi0ihDQIMUdMIU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/URKN4GELDJEAJHW4EUMH6YJWQI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-084033.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/el-gobierno-de-francia-reporto-mas-de-1-800-detenidos-durante-las-violentas-protestas-del-sabado"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 11.96
-    },
-    {
-      "id": "ev-0dcqlbi",
-      "title": "León XIV recibe el alta tras ser operado de cáncer de pulmón",
-      "summary": "El papa León XIV recibió el alta el sábado y dejó el Hospital Gemelli de Roma, donde fue operado de un adenocarcinoma pulmonar, informó la oficina de prensa del Vaticano. Los médicos señalaron que su recuperación avanza con normalidad, aunque aguardan otras pruebas. Según Última Hora, el cirujano que lo operó afirmó que el pontífice puede viajar, lo que reaviva su gira latinoamericana.",
-      "keyPoints": [
-        "El papa abandonó el Hospital Gemelli y regresó al Vaticano el sábado.",
-        "Los médicos esperan pruebas para saber si el cáncer pudo extenderse.",
-        "Según Última Hora, su cirujano aseguró que puede viajar a América Latina."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "León XIV recibe el alta hospitalaria y regresará al Vaticano",
-          "url": "https://www.adndigital.com.py/leon-xiv-recibe-el-alta-hospitalaria-y-regresara-al-vaticano",
-          "publishedAt": "2026-10-17T17:00:27.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/whatsapp-image-2025-07-13-at-093638.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "León XIV deja el hospital y vuelve al Vaticano tras su cirugía de cáncer de pulmón",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/17/leon-xiv-deja-el-hospital-y-vuelve-al-vaticano-tras-su-cirugia-de-cancer-de-pulmon",
-          "publishedAt": "2026-10-17T16:51:27.000Z",
-          "image": "https://www.lanacion.com.py/resizer/xoRqJ4DSkHpnI_BAGnRl__-Q4NE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UK5XEIIPPBBNJMDPYQJLOYCFI4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa regresa al Vaticano tras ser operado de cáncer de pulmón",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/18/el-papa-regresa-al-vaticano-tras-ser-operado-de-cancer-de-pulmon",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/x6OhphJk6lwiHiFlfvXG38ALoYE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DDKQJF56KNG6PKKRCVUN7FKVBQ.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Papa recibe el alta y la gira por A. Latina revive",
-          "url": "https://www.ultimahora.com/papa-recibe-el-alta-y-la-gira-por-a-latina-revive",
-          "publishedAt": "2026-10-18T10:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/whatsapp-image-2025-07-13-at-093638.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/leon-xiv-recibe-el-alta-hospitalaria-y-regresara-al-vaticano"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 11.82
-    },
-    {
-      "id": "ev-0wzu5th",
-      "title": "Un sacerdote muere en Ecuador tras caerle una cruz durante una misa en vivo",
-      "summary": "Un sacerdote murió en Guayaquil, Ecuador, tras caerle encima una gran cruz durante una misa transmitida en directo por redes sociales. Según ABC Color, el sacerdote fue identificado como Patricio Sánchez Molinari. El arzobispo de Guayaquil, Luis Gerardo Cabrera, confirmó el fallecimiento mediante un comunicado.",
-      "keyPoints": [
-        "El hecho ocurrió en Guayaquil, la ciudad más poblada de Ecuador.",
-        "La cruz cayó durante una misa transmitida en vivo por redes sociales.",
-        "El arzobispo Luis Gerardo Cabrera confirmó la muerte en un comunicado."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Ecuador: Sacerdote muere tras caerle una cruz durante misa transmitida en vivo",
-          "url": "https://www.ultimahora.com/ecuador-sacerdote-muere-tras-caerle-una-cruz-durante-misa-transmitida-en-vivo",
-          "publishedAt": "2026-10-18T16:01:06.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Un sacerdote muere en Ecuador tras caerle una cruz en una misa transmitida en directo",
-          "url": "https://www.abc.com.py/internacionales/2026/10/18/un-sacerdote-muere-en-ecuador-tras-caerle-una-cruz-en-una-misa-transmitida-en-directo",
-          "publishedAt": "2026-10-18T15:15:12.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Una cruz cayó sobre un sacerdote durante una misa y le causó la muerte",
-          "url": "https://elnacional.com.py/mundo/una-cruz-cayo-sobre-sacerdote-durante-una-misa-le-causo-muerte-n113800",
-          "publishedAt": "2026-10-18T13:10:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad4e003ac864.png"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ad4e003ac864.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/una-cruz-cayo-sobre-sacerdote-durante-una-misa-le-causo-muerte-n113800"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 11.32
-    },
-    {
-      "id": "ev-0omish5",
-      "title": "Iglesia pide coherencia a las autoridades al despedir la Espada de San Miguel",
-      "summary": "El obispo auxiliar de Asunción, Gabriel Escobar Ayala, pidió en una homilía en la Catedral Metropolitana que no se justifique la corrupción en nombre de la fe. Señaló que la devoción a San Miguel Arcángel no es solo un rito. Pidió a las autoridades compromiso con la justicia, el desarrollo y la transparencia. La visita de la Espada concluye este domingo tras recorrer Caacupé, Villarrica y San Lorenzo.",
-      "keyPoints": [
-        "La homilía fue en la Catedral Metropolitana de Asunción.",
-        "El obispo Gabriel Escobar Ayala cuestionó a quienes usan el poder para enriquecerse.",
-        "La Espada de San Miguel concluye su peregrinación este domingo 18 de octubre.",
-        "El recorrido incluyó las diócesis de Caacupé, Villarrica y San Lorenzo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "“No se puede rezar a San Miguel y justificar la corrupción”, advierte la Iglesia al despedir la espada del arcángel",
-          "url": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel",
-          "publishedAt": "2026-10-18T17:08:58.000Z",
-          "image": "https://www.abc.com.py/resizer/cxXg8shRKxSgEOCnJJm7moX6O0k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Preparan las últimas celebraciones religiosas para despedir a la Espada de San Miguel Arcángel",
-          "url": "https://www.lanacion.com.py/pais/2026/10/17/preparan-las-ultimas-celebraciones-religiosas-para-despedir-a-la-espada-de-san-miguel-arcangel",
-          "publishedAt": "2026-10-17T18:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TwQKmIVXoO1s3t1jL16P-PqrEvo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CETUFVSMIFHUZDHXHSBLJIAZXM.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg?auth=e282d30df7c6f9234fc9b83cdff1819f77ab80cd0630a054f82a21cd419fc14f&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.92
-    },
-    {
-      "id": "ev-02pzn3w",
-      "title": "Nicanor Duarte Frutos valora la decisión de Baruja por la unidad colorada",
-      "summary": "El expresidente Nicanor Duarte Frutos destacó la decisión del ministro Juan Carlos Baruja de apartarse de la candidatura vicepresidencial de 2028. Según Duarte Frutos, el gesto abre una oportunidad para el diálogo dentro de la ANR. Sus declaraciones se dan en medio de la disputa interna por la fórmula colorada.",
-      "keyPoints": [
-        "Duarte Frutos valoró el desprendimiento político de Baruja.",
-        "Dijo que el gesto abre una oportunidad para la unidad en la ANR."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Duarte Frutos ve en la decisión de Baruja una oportunidad para la unidad colorada",
-          "url": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada",
-          "publishedAt": "2026-10-18T15:31:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pXWNxlsNvufYDk-EoAy3UK4bw6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABYDGNKASVGUZPIURGOCUCHBGU.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Nicanor sobre Baruja: \"Está obrando prudentemente\"",
-          "url": "https://elnacional.com.py/politica/nicanor-sobre-baruja-esta-obrando-prudentemente-n113798",
-          "publishedAt": "2026-10-18T15:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6aa42110d2704.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABYDGNKASVGUZPIURGOCUCHBGU.jpg?auth=0610e2046dba851ba1848a64e3e659889e0560fd0223a7a8afba42aa1c838dca&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.78
-    },
-    {
-      "id": "ev-1rpi9w3",
-      "title": "Estigarribia pide que el candidato opositor para 2028 surja en las urnas",
-      "summary": "El gobernador de Central Ricardo Estigarribia sostuvo que el candidato de la oposición para 2028 debe salir de la voluntad ciudadana y no de acuerdos entre dirigentes. Al ser consultado sobre Baruja, dijo que no quiere enfocarse en los problemas internos del Partido Colorado.",
-      "keyPoints": [
-        "Estigarribia pidió que el candidato surja de las urnas.",
-        "Dijo no tenerle miedo a ninguna contienda electoral.",
-        "No quiso opinar sobre los problemas internos colorados."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Estigarribia pide que la oposición elija en las urnas a su candidato para 2028",
-          "url": "https://www.adndigital.com.py/estigarribia-pide-que-la-oposicion-elija-en-las-urnas-a-su-candidato-para-2028",
-          "publishedAt": "2026-10-18T15:26:13.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Reacción de Estigarribia al rechazo de Baruja a chapa presidencial en ANR",
-          "url": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr",
-          "publishedAt": "2026-10-18T14:56:57.000Z",
-          "image": "https://www.abc.com.py/resizer/pj20m5mEWL5jw1GmfEdRmkx_usc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V54EHJWAN5GNTOTNFECA7ACAXU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/V54EHJWAN5GNTOTNFECA7ACAXU.jpg?auth=03eca65b0325437fbd7c221bc2da42445373a8b36fda682f3a144c929405e1a2&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.77
-    },
-    {
-      "id": "ev-1qsoz89",
-      "title": "Fitch Ratings mantiene la calificación crediticia de ueno bank",
-      "summary": "La calificadora internacional Fitch Ratings ratificó la calificación crediticia de ueno bank, con una nota BB según La Nación. La evaluación corresponde a datos del segundo trimestre de 2026 y, de acuerdo con la cobertura de los medios, la agencia destacó la fortaleza y solidez del modelo de negocio de la entidad financiera paraguaya.",
-      "keyPoints": [
-        "Fitch Ratings ratificó la calificación de ueno bank.",
-        "La Nación informó que la nota de la entidad es BB.",
-        "La evaluación toma datos al segundo trimestre de 2026."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fitch ratifica la calificación de ueno bank y su perfil crediticio",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/18/fitch-ratifica-la-calificacion-de-ueno-bank-y-su-perfil-crediticio",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aBTkehSeW-f4FIfyjmOYjbg56B0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6UKD72Z4BVE4XOIOYJXNM5QYGY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fitch ratifica la calificación de ueno bank y resalta la solidez de su modelo de negocio",
-          "url": "https://www.hoy.com.py/negocios/comercio-e-industrias/2026/10/17/fitch-ratifica-la-calificacion-de-ueno-bank-y-resalta-la-solidez-de-su-modelo-de-negocio",
-          "publishedAt": "2026-10-17T23:06:05.700Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fitch mantiene calificación de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/17/fitch-mantiene-calificacion-de-ueno-bank",
-          "publishedAt": "2026-10-17T12:43:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vkYC3mkFfYOICM10zPeCMz7XSQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GALBTPNI3BFPVCWZXWY6RLALRA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6UKD72Z4BVE4XOIOYJXNM5QYGY.jpg?auth=e4c2c60ff16a7d14277a2874e04aacf615f4f7d7ea965a9988fd26a4522cdeee&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/18/fitch-ratifica-la-calificacion-de-ueno-bank-y-su-perfil-crediticio"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 9.74
-    },
-    {
-      "id": "ev-0bb69df",
-      "title": "Cerrito bajo agua: casi 400 familias afectadas por la crecida del Paraná",
-      "summary": "La crecida del río Paraná dejó gran parte del casco urbano de Cerrito bajo agua. Según el registro municipal, hasta el sábado había 398 familias afectadas y 314 viviendas inundadas. La Municipalidad advierte que el nivel del río podría subir entre 20 y 30 centímetros más en 24 horas.",
-      "keyPoints": [
-        "398 familias afectadas según el registro municipal.",
-        "314 viviendas inundadas y 182 aisladas.",
-        "El río llegó a 6,70 metros en el puerto de Cerrito.",
-        "La Municipalidad prevé una nueva subida del río."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
-          "url": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana",
-          "publishedAt": "2026-10-18T14:36:56.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Cerrito bajo agua: 398 familias afectadas y crecen los reclamos por asistencia",
-          "url": "https://www.abc.com.py/clima/2026/10/18/cerrito-bajo-agua-398-familias-afectadas-y-crecen-los-reclamos-por-asistencia",
-          "publishedAt": "2026-10-18T13:28:17.000Z",
-          "image": "https://www.abc.com.py/resizer/ABGVPMbDKU_tXelQduouG5UzdUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NUUZ2JCL3NHQZBOC4TRNCUUNZ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.7
-    },
-    {
-      "id": "ev-0vx8bba",
-      "title": "Dionisio Amarilla pide al PLRA un proyecto más allá de los espacios de poder",
-      "summary": "El senador Dionisio Amarilla sostuvo que el PLRA debe recuperar su identidad y construir alianzas desde una posición propia. En una entrevista señaló que la oposición necesita una estrategia definida y un programa de gobierno. Dijo que esto servirá para recuperar la confianza ciudadana.",
-      "keyPoints": [
-        "Amarilla habló en una entrevista con Nación Media.",
-        "Propuso que el PLRA recupere su identidad antes de hacer alianzas.",
-        "Consideró necesario un programa de gobierno y propuestas concretas."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Para ser opción, la oposición debe tener un proyecto que vaya más allá de peleas por espacios de poder, dicen",
-          "url": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen",
-          "publishedAt": "2026-10-18T14:25:16.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Dionisio Amarilla: “Necesitamos un proyecto político que vaya más allá de las disputas por espacios de poder”",
-          "url": "https://www.lanacion.com.py/politica/2026/10/18/dionisio-amarilla-necesitamos-un-proyecto-politico-que-vaya-mas-alla-de-las-disputas-por-los-espacios-de-poder",
-          "publishedAt": "2026-10-18T11:50:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jiyuXfC6r4DUXp_mN4mtw819hdw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6BCPWE57LNFNFNMWB53E2RSESA.JPG"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.69
-    },
-    {
-      "id": "ev-1u59tj1",
-      "title": "Riveros rechaza que el candidato liberal para 2028 se defina por imposición",
-      "summary": "El presidente del PLRA, Alcides Riveros, afirmó que la candidatura presidencial de 2028 no puede definirse a dedo. Respondió así a la propuesta del senador Salyn Buzarquis de ceder ese espacio a Miguel Prieto, de Yo Creo. Riveros pidió abrir el debate y llegar a un acuerdo para la chapa.",
-      "keyPoints": [
-        "Riveros rechazó una candidatura definida por imposición.",
-        "Respondió a una propuesta del senador Salyn Buzarquis.",
-        "La propuesta apunta a ceder el espacio a Miguel Prieto.",
-        "Riveros pidió abrir el debate y buscar un acuerdo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Riveros rechaza que la oposición elija a dedo al candidato presidencial para 2028",
-          "url": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028",
-          "publishedAt": "2026-10-18T14:17:53.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Presidente del PLRA advierte sobre Prieto: “No se elegirá a dedo”",
-          "url": "https://www.lanacion.com.py/politica/2026/10/17/presidente-del-plra-advierte-sobre-prieto-no-se-elegira-a-dedo",
-          "publishedAt": "2026-10-17T23:45:59.000Z",
-          "image": "https://www.lanacion.com.py/resizer/UZ61Q-Xz1YeR4h0zGU0goEp2Wm0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5CBW7GLWXVDZFBNERTBBIHXMA4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.68
-    },
-    {
-      "id": "ev-1okj052",
-      "title": "Festival de la Raza abre su 43ª edición con gran concurrencia en Villarrica",
-      "summary": "El Festival de la Raza celebró la primera jornada de su 43ª edición en el Club Cerro Corá de Villarrica, Guairá. Según ABC Color, una multitud llegó desde distintos puntos del país para disfrutar de música, baile y expresiones artísticas. La programación incluyó artistas nacionales y exponentes de la escena local. El evento busca destacar el talento regional y es una de las principales celebraciones culturales del interior.",
-      "keyPoints": [
-        "La primera jornada se realizó este sábado en el Club Cerro Corá de Villarrica.",
-        "Se trata de la edición 43 del Festival de la Raza.",
-        "La Noche Gigante reunió artistas nacionales y de la escena local.",
-        "La cobertura destaca la gran concurrencia del público."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Festival de la Raza vivió una exitosa primera jornada y se alista para su cierre solidario",
-          "url": "https://www.ultimahora.com/festival-de-la-raza-vivio-una-exitosa-primera-jornada-y-se-alista-para-su-cierre-solidario",
-          "publishedAt": "2026-10-18T13:55:41.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
-          "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica",
-          "publishedAt": "2026-10-18T12:15:14.000Z",
-          "image": "https://www.abc.com.py/resizer/lP1S7haeR3U3VcVk0tK7rdIQWzE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg?auth=e7c47606715dedfbb414067d26b38e3898dcd09ee156f4ee2e69c6676d4fc00d&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.65
-    },
-    {
-      "id": "ev-17y9iex",
-      "title": "World Skate Games ASU26 cierra con su última jornada en Asunción",
-      "summary": "Los World Skate Games ASU26 llegan hoy a su última jornada de competencias. Habrá finales, definiciones por medallas y ceremonias de premiación en el Comité Olímpico Paraguayo y en la Costanera de Asunción. Según La Nación, la jornada previa en la Costanera tuvo buena asistencia del público. El cierre del evento reúne a deportistas y espectadores en la capital.",
-      "keyPoints": [
-        "La última jornada incluye finales y definiciones por medallas.",
-        "Las premiaciones se harán en el COP y en la Costanera de Asunción.",
-        "La Costanera registró fuerte acompañamiento del público según La Nación."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Hoy se realiza la última roleada en los World Skate Games ASU 26",
-          "url": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26",
-          "publishedAt": "2026-10-18T13:24:58.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fin con éxito del World Skate Games ASU26",
-          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/18/fin-con-exito-del-world-skate-games-asu26",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BYg_sbNl0OuApFYsru0fSONQB2Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YNXNNAFDIND6NBCUHU32I44GAI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.6
-    },
-    {
-      "id": "ev-1ndfhdl",
-      "title": "Costanera de Asunción cerrada este domingo por los World Skate Games",
-      "summary": "La avenida Costanera de Asunción y el Corredor Vial Botánico permanecen cerrados al tránsito desde las 04:00 de este domingo 18 de octubre por las competencias de los World Skate Games ASU26. La restricción abarca el tramo hasta la avenida El Paraguayo Independiente y se mantendrá hasta las 14:00, según los reportes.",
-      "keyPoints": [
-        "El cierre rige desde las 04:00 hasta las 14:00.",
-        "Afecta el tramo entre el Corredor Vial Botánico y la avenida El Paraguayo Independiente.",
-        "La medida responde a competencias de los World Skate Games ASU26."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Costanera y Corredor Vial Botánico permanecen cerrados hasta las 14:00",
-          "url": "https://www.adndigital.com.py/costanera-y-corredor-vial-botanico-permanecen-cerrados-hasta-las-1400",
-          "publishedAt": "2026-10-18T12:19:58.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091906.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Costanera de Asunción: cerrada este domingo desde las 04:00",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/18/costanera-de-asuncion-cerrada-este-domingo-desde-las-0400",
-          "publishedAt": "2026-10-18T09:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/KHL45ZQMK5C5DN6ETTMKQEAR4M.jpg?auth=3c55ea8e5f9d1b65be81bec835cbcbb6caef48c2b44a4e7993a34909f908f938&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091906.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/costanera-y-corredor-vial-botanico-permanecen-cerrados-hasta-las-1400"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 9.51,
-      "expiresAt": "2026-10-18T17:00:00.000Z"
-    },
-    {
-      "id": "ev-1yzw2z2",
-      "title": "Asunción ofrece 10% de descuento en impuestos inmobiliarios de 2026",
-      "summary": "La Municipalidad de Asunción lanzó la campaña “Asunción se viste de Rosa: Cumplí, Ahorrá y Sumate”, que otorga una reducción del 10% a quienes paguen al contado los impuestos inmobiliarios y tasas especiales del ejercicio fiscal 2026. El beneficio alcanza a contribuyentes sin deudas de años anteriores y tendrá vigencia hasta el 31 de octubre.",
-      "keyPoints": [
-        "El descuento es del 10% por pago al contado.",
-        "Abarca impuestos inmobiliarios y tasas especiales de 2026.",
-        "Es para contribuyentes al día y rige hasta el 31 de octubre."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Contribuyentes de Asunción que paguen sus impuestos de este año tendrán 10% de descuento",
-          "url": "https://www.adndigital.com.py/contribuyentes-de-asuncion-que-paguen-sus-impuestos-de-este-ano-tendran-10-de-descuento",
-          "publishedAt": "2026-10-18T12:04:59.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/muni-asuncion-1024x683.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Incentivo tributario en Asunción: 10% de descuento para el pago de impuestos 2026",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/17/incentivo-tributario-en-asuncion-10-de-descuento-para-el-pago-de-impuestos-2026",
-          "publishedAt": "2026-10-17T22:17:54.235Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/PSJURIFNXNBTJMOGY4SS4LNLUU.jpg?auth=cdd332bcad7cad82e0ea89d8b889dbdf3d8f17fcacec4b81494809cad06b96a1&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/muni-asuncion-1024x683.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/contribuyentes-de-asuncion-que-paguen-sus-impuestos-de-este-ano-tendran-10-de-descuento"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 9.49
+      "score": 15.21
     },
     {
       "id": "ev-1tkivhp",
@@ -1286,7 +547,842 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T20:09:15.197Z",
       "updatedSlot": "manana",
+      "score": 14.57
+    },
+    {
+      "id": "ev-0l7gniu",
+      "title": "Fernando Lugo reaparece junto al intendente electo de Ciudad del Este",
+      "summary": "El expresidente Fernando Lugo reapareció este fin de semana junto a Dani Mujica, intendente electo de Ciudad del Este. Lugo estaba alejado del foco público desde agosto de 2022, tras un accidente cerebrovascular. Mujica asumirá la jefatura municipal el 3 de noviembre.",
+      "keyPoints": [
+        "Lugo estuvo alejado de la vida pública desde agosto de 2022.",
+        "Lugo sufrió un accidente cerebrovascular en 2022.",
+        "Daniel Pereira Mujica asumirá la Intendencia de Ciudad del Este el 3 de noviembre.",
+        "Mujica es del Partido Yo Creo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente Fernando Lugo aparece abrazado al intendente de Ciudad del Este, Dani Mujica, de cara al 2028",
+          "url": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028",
+          "publishedAt": "2026-10-18T15:39:33.000Z",
+          "image": "https://www.abc.com.py/resizer/APV9FzrAk85XM3nw1c21FWkHpp4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lugo reaparece y dialoga con intendente esteño",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/lugo-reaparece-y-dialoga-con-intendente-esteno",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fdEaNHgmBRAPxceKKl9AVJiGODA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GY57AL7ROVCTVAHZDOVHMHT7KQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lugo reaparece en la arena política: Daniel Mujica recibió al expresidente y hablaron de unidad",
+          "url": "https://elnacional.com.py/politica/lugo-reaparece-arena-politica-daniel-mujica-recibio-expresidente-hablaron-unidad-n113747",
+          "publishedAt": "2026-10-17T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad301a511bb1.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg?auth=07ecd76f5dec901fccd1cb94806866331677d121ed04aab89e17c53acac1ecb3&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 13.51
+    },
+    {
+      "id": "ev-05yngoc",
+      "title": "Olimpia vence 3-0 a Sportivo 2 de Mayo y queda en la cima del Clausura",
+      "summary": "Olimpia derrotó por 3 a 0 a Sportivo 2 de Mayo en Sajonia y pasó a ocupar el primer puesto del torneo Clausura 2026, a la espera del resultado de Libertad. Los goles fueron de Gabriel Ávalos, con un tanto destacado al inicio, y de Mateo Gamarra y Rodney Redes en el tramo final. Los medios coinciden en que el Franjeado dominó el encuentro.",
+      "keyPoints": [
+        "Olimpia ganó 3-0 a Sportivo 2 de Mayo en Sajonia.",
+        "Anotaron Gabriel Ávalos, Mateo Gamarra y Rodney Redes.",
+        "Con el triunfo, Olimpia lidera el Clausura 2026 a la espera de Libertad."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Con jerarquía y contundencia, Olimpia golea al 2 de Mayo para recuperar la punta del Clausura",
+          "url": "https://www.adndigital.com.py/con-jerarquia-y-contundencia-olimpia-golea-al-2-de-mayo-para-recuperar-la-punta-del-clausura",
+          "publishedAt": "2026-10-18T10:32:01.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-073034.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La punta ya es del Franjeado",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/18/la-punta-ya-es-del-franjeado",
+          "publishedAt": "2026-10-18T03:05:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j59tbB7_avUDV7Sc1LyubD8fRKw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATRUO4FJNBVTDB2U4BEHM6XFM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Olimpia golea a Sportivo 2 de Mayo y le arrebata el liderato",
+          "url": "https://elnacional.com.py/deportes/olimpia-golea-sportivo-2-mayo-le-arrebata-liderato-n113788",
+          "publishedAt": "2026-10-18T00:15:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad410afa88a8.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-073034.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/con-jerarquia-y-contundencia-olimpia-golea-al-2-de-mayo-para-recuperar-la-punta-del-clausura"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 13.08
+    },
+    {
+      "id": "ev-0dcqlbi",
+      "title": "El papa León XIV saluda a fieles en el Vaticano tras su cirugía",
+      "summary": "El papa León XIV saludó a miles de personas en la plaza de San Pedro, en su primera aparición pública después de su cirugía. Los médicos indicaron que su recuperación avanzaba con normalidad. Todavía esperan otros estudios para saber si el cáncer de pulmón por el que fue operado se extendió.",
+      "keyPoints": [
+        "El papa saludó a fieles en la plaza de San Pedro este domingo.",
+        "Fue su primera aparición tras la cirugía.",
+        "Fue operado de cáncer de pulmón.",
+        "Aún esperan pruebas sobre una posible extensión del cáncer."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa saludó a cientos de fieles en el Vaticano, por primera vez después de su cirugía",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/18/el-papa-saludo-a-cientos-de-fieles-en-el-vaticano-por-primera-vez-despues-de-su-cirugia",
+          "publishedAt": "2026-10-18T12:49:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ChYCtB6plqV449hMrdQJkgc3NCk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DD3KI66SVVHHFHCHCUV7QRTQIY.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Papa recibe el alta y la gira por A. Latina revive",
+          "url": "https://www.ultimahora.com/papa-recibe-el-alta-y-la-gira-por-a-latina-revive",
+          "publishedAt": "2026-10-18T10:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa regresa al Vaticano tras ser operado de cáncer de pulmón",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/18/el-papa-regresa-al-vaticano-tras-ser-operado-de-cancer-de-pulmon",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/x6OhphJk6lwiHiFlfvXG38ALoYE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DDKQJF56KNG6PKKRCVUN7FKVBQ.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "León XIV recibe el alta hospitalaria y regresará al Vaticano",
+          "url": "https://www.adndigital.com.py/leon-xiv-recibe-el-alta-hospitalaria-y-regresara-al-vaticano",
+          "publishedAt": "2026-10-17T17:00:27.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/whatsapp-image-2025-07-13-at-093638.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV deja el hospital y vuelve al Vaticano tras su cirugía de cáncer de pulmón",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/17/leon-xiv-deja-el-hospital-y-vuelve-al-vaticano-tras-su-cirugia-de-cancer-de-pulmon",
+          "publishedAt": "2026-10-17T16:51:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xoRqJ4DSkHpnI_BAGnRl__-Q4NE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UK5XEIIPPBBNJMDPYQJLOYCFI4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DD3KI66SVVHHFHCHCUV7QRTQIY.jpg?auth=763d03701407f4ec538408a6ec70ae843a448630f14449bf1f87b81a5236886f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/18/el-papa-saludo-a-cientos-de-fieles-en-el-vaticano-por-primera-vez-despues-de-su-cirugia"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T21:33:48.478Z",
+      "updatedSlot": "tarde",
+      "score": 11.77,
+      "expiresAt": null
+    },
+    {
+      "id": "ev-1x8xm8k",
+      "title": "León XIV reaparece en el ángelus y anuncia regreso gradual a sus actividades",
+      "summary": "El papa León XIV, de 71 años, encabezó este domingo el rezo del ángelus desde la ventana del Palacio Apostólico ante miles de fieles en la plaza de San Pedro. En una alocución breve dijo que retomará sus actividades de forma gradual tras la cirugía en la que le extirparon el lóbulo inferior del pulmón derecho, y agradeció el apoyo recibido.",
+      "keyPoints": [
+        "El pontífice fue operado el martes 13 de octubre en el hospital Gemelli de Roma.",
+        "Afirmó que retomará gradualmente sus actividades.",
+        "Dijo sentirse especialmente cerca de quienes padecen enfermedades y discapacidades."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "León XIV reaparece en el ángelus y dice que retomará gradualmente su actividad",
+          "url": "https://www.ultimahora.com/leon-xiv-reaparece-en-el-angelus-y-dice-que-retomara-gradualmente-su-actividad",
+          "publishedAt": "2026-10-18T12:24:55.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El Papa vuelve a saludar a la multitud en el Vaticano tras operarse",
+          "url": "https://www.adndigital.com.py/el-papa-vuelve-a-saludar-a-la-multitud-en-el-vaticano-tras-operarse",
+          "publishedAt": "2026-10-18T12:15:26.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091311.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV reaparece en el ángelus y dice que retomará gradualmente su actividad",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-reaparece-en-el-angelus-y-dice-que-retomara-gradualmente-su-actividad",
+          "publishedAt": "2026-10-18T12:05:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV dice que retomará gradualmente su actividad y agradece el apoyo recibido",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-dice-que-retomara-gradualmente-su-actividad-y-agradece-el-apoyo-recibido",
+          "publishedAt": "2026-10-18T10:40:54.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV reaparece en el rezo del ángelus en el Vaticano tras su operación de pulmón",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/leon-xiv-reaparece-en-el-rezo-del-angelus-en-el-vaticano-tras-su-operacion-de-pulmon",
+          "publishedAt": "2026-10-18T10:10:58.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091311.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/el-papa-vuelve-a-saludar-a-la-multitud-en-el-vaticano-tras-operarse"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 11.74
+    },
+    {
+      "id": "ev-00jg9rq",
+      "title": "Protestas por el costo de vida en Francia dejan más de 1.800 detenidos",
+      "summary": "Las manifestaciones contra el encarecimiento de la vida en Francia del sábado derivaron en choques con la policía, incendios y saqueos de comercios, sobre todo en París. Según el ministro del Interior, Laurent Núñez, hubo más de 1.800 detenidos y unos 500 agentes heridos, cifras provisionales. Núñez atribuyó la violencia a grupos de ultraizquierda y delincuentes. Las protestas ocurren en un final de mandato complicado para Emmanuel Macron.",
+      "keyPoints": [
+        "El ministro Laurent Núñez informó más de 1.800 detenidos, según un balance provisional.",
+        "Según Núñez, 500 policías, gendarmes y bomberos resultaron heridos.",
+        "En París hubo incendios de autos y papeleras y saqueos de comercios.",
+        "Las autoridades desplegaron unidades antidisturbios de élite."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El gobierno de Francia reportó más de 1.800 detenidos durante las violentas protestas del sábado",
+          "url": "https://www.adndigital.com.py/el-gobierno-de-francia-reporto-mas-de-1-800-detenidos-durante-las-violentas-protestas-del-sabado",
+          "publishedAt": "2026-10-18T11:41:26.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-084033.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los detenidos en las protestas en Francia ascienden a 1.800 con 500 agentes heridos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/los-detenidos-en-las-protestas-en-francia-ascienden-a-1800-con-500-agentes-heridos",
+          "publishedAt": "2026-10-18T09:50:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Protestas por el costo de vida",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/18/protestas-por-el-costo-de-vida",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EvOgMOdw6ZE4EWOe-F1x5zRFJPU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKWIRUE52JH2PIRCYIQR32J3N4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Francia estalla contra el costo de vida y las protestas dejan cientos de detenidos",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/17/francia-estalla-contra-el-costo-de-vida-y-las-protestas-dejan-cientos-de-detenidos",
+          "publishedAt": "2026-10-17T19:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-Up705onzoYdZj-I-mGjnpVssRU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4YBMWLCGKBAVDHCH75NNGLCTEI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Protestas por la vida cara encienden Francia y acorralan el fin de mandato de Macron",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/17/protestas-por-la-vida-cara-encienden-francia-y-acorralan-el-fin-de-mandato-de-macron",
+          "publishedAt": "2026-10-17T16:50:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/scDyfIYCxvKLTCi0ihDQIMUdMIU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/URKN4GELDJEAJHW4EUMH6YJWQI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-084033.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/el-gobierno-de-francia-reporto-mas-de-1-800-detenidos-durante-las-violentas-protestas-del-sabado"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 11.68
+    },
+    {
+      "id": "ev-0wzu5th",
+      "title": "Un sacerdote muere en Ecuador tras caerle una cruz durante una misa en vivo",
+      "summary": "Un sacerdote murió en Guayaquil, Ecuador, tras caerle encima una gran cruz durante una misa transmitida en directo por redes sociales. Según ABC Color, el sacerdote fue identificado como Patricio Sánchez Molinari. El arzobispo de Guayaquil, Luis Gerardo Cabrera, confirmó el fallecimiento mediante un comunicado.",
+      "keyPoints": [
+        "El hecho ocurrió en Guayaquil, la ciudad más poblada de Ecuador.",
+        "La cruz cayó durante una misa transmitida en vivo por redes sociales.",
+        "El arzobispo Luis Gerardo Cabrera confirmó la muerte en un comunicado."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ecuador: Sacerdote muere tras caerle una cruz durante misa transmitida en vivo",
+          "url": "https://www.ultimahora.com/ecuador-sacerdote-muere-tras-caerle-una-cruz-durante-misa-transmitida-en-vivo",
+          "publishedAt": "2026-10-18T16:01:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un sacerdote muere en Ecuador tras caerle una cruz en una misa transmitida en directo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/un-sacerdote-muere-en-ecuador-tras-caerle-una-cruz-en-una-misa-transmitida-en-directo",
+          "publishedAt": "2026-10-18T15:15:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Una cruz cayó sobre un sacerdote durante una misa y le causó la muerte",
+          "url": "https://elnacional.com.py/mundo/una-cruz-cayo-sobre-sacerdote-durante-una-misa-le-causo-muerte-n113800",
+          "publishedAt": "2026-10-18T13:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad4e003ac864.png"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad4e003ac864.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/una-cruz-cayo-sobre-sacerdote-durante-una-misa-le-causo-muerte-n113800"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 11.04
+    },
+    {
+      "id": "ev-0omish5",
+      "title": "Iglesia pide coherencia a las autoridades al despedir la Espada de San Miguel",
+      "summary": "El obispo auxiliar de Asunción, Gabriel Escobar Ayala, pidió en una homilía en la Catedral Metropolitana que no se justifique la corrupción en nombre de la fe. Señaló que la devoción a San Miguel Arcángel no es solo un rito. Pidió a las autoridades compromiso con la justicia, el desarrollo y la transparencia. La visita de la Espada concluye este domingo tras recorrer Caacupé, Villarrica y San Lorenzo.",
+      "keyPoints": [
+        "La homilía fue en la Catedral Metropolitana de Asunción.",
+        "El obispo Gabriel Escobar Ayala cuestionó a quienes usan el poder para enriquecerse.",
+        "La Espada de San Miguel concluye su peregrinación este domingo 18 de octubre.",
+        "El recorrido incluyó las diócesis de Caacupé, Villarrica y San Lorenzo."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“No se puede rezar a San Miguel y justificar la corrupción”, advierte la Iglesia al despedir la espada del arcángel",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel",
+          "publishedAt": "2026-10-18T17:08:58.000Z",
+          "image": "https://www.abc.com.py/resizer/cxXg8shRKxSgEOCnJJm7moX6O0k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Preparan las últimas celebraciones religiosas para despedir a la Espada de San Miguel Arcángel",
+          "url": "https://www.lanacion.com.py/pais/2026/10/17/preparan-las-ultimas-celebraciones-religiosas-para-despedir-a-la-espada-de-san-miguel-arcangel",
+          "publishedAt": "2026-10-17T18:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TwQKmIVXoO1s3t1jL16P-PqrEvo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CETUFVSMIFHUZDHXHSBLJIAZXM.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg?auth=e282d30df7c6f9234fc9b83cdff1819f77ab80cd0630a054f82a21cd419fc14f&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.63
+    },
+    {
+      "id": "ev-02pzn3w",
+      "title": "Nicanor Duarte Frutos valora la decisión de Baruja por la unidad colorada",
+      "summary": "El expresidente Nicanor Duarte Frutos destacó la decisión del ministro Juan Carlos Baruja de apartarse de la candidatura vicepresidencial de 2028. Según Duarte Frutos, el gesto abre una oportunidad para el diálogo dentro de la ANR. Sus declaraciones se dan en medio de la disputa interna por la fórmula colorada.",
+      "keyPoints": [
+        "Duarte Frutos valoró el desprendimiento político de Baruja.",
+        "Dijo que el gesto abre una oportunidad para la unidad en la ANR."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Duarte Frutos ve en la decisión de Baruja una oportunidad para la unidad colorada",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada",
+          "publishedAt": "2026-10-18T15:31:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pXWNxlsNvufYDk-EoAy3UK4bw6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABYDGNKASVGUZPIURGOCUCHBGU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nicanor sobre Baruja: \"Está obrando prudentemente\"",
+          "url": "https://elnacional.com.py/politica/nicanor-sobre-baruja-esta-obrando-prudentemente-n113798",
+          "publishedAt": "2026-10-18T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa42110d2704.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABYDGNKASVGUZPIURGOCUCHBGU.jpg?auth=0610e2046dba851ba1848a64e3e659889e0560fd0223a7a8afba42aa1c838dca&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.5
+    },
+    {
+      "id": "ev-1rpi9w3",
+      "title": "Estigarribia pide que el candidato opositor para 2028 surja en las urnas",
+      "summary": "El gobernador de Central Ricardo Estigarribia sostuvo que el candidato de la oposición para 2028 debe salir de la voluntad ciudadana y no de acuerdos entre dirigentes. Al ser consultado sobre Baruja, dijo que no quiere enfocarse en los problemas internos del Partido Colorado.",
+      "keyPoints": [
+        "Estigarribia pidió que el candidato surja de las urnas.",
+        "Dijo no tenerle miedo a ninguna contienda electoral.",
+        "No quiso opinar sobre los problemas internos colorados."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Estigarribia pide que la oposición elija en las urnas a su candidato para 2028",
+          "url": "https://www.adndigital.com.py/estigarribia-pide-que-la-oposicion-elija-en-las-urnas-a-su-candidato-para-2028",
+          "publishedAt": "2026-10-18T15:26:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Reacción de Estigarribia al rechazo de Baruja a chapa presidencial en ANR",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr",
+          "publishedAt": "2026-10-18T14:56:57.000Z",
+          "image": "https://www.abc.com.py/resizer/pj20m5mEWL5jw1GmfEdRmkx_usc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V54EHJWAN5GNTOTNFECA7ACAXU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/V54EHJWAN5GNTOTNFECA7ACAXU.jpg?auth=03eca65b0325437fbd7c221bc2da42445373a8b36fda682f3a144c929405e1a2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
       "score": 9.49
+    },
+    {
+      "id": "ev-1qsoz89",
+      "title": "Fitch Ratings mantiene la calificación crediticia de ueno bank",
+      "summary": "La calificadora internacional Fitch Ratings ratificó la calificación crediticia de ueno bank, con una nota BB según La Nación. La evaluación corresponde a datos del segundo trimestre de 2026 y, de acuerdo con la cobertura de los medios, la agencia destacó la fortaleza y solidez del modelo de negocio de la entidad financiera paraguaya.",
+      "keyPoints": [
+        "Fitch Ratings ratificó la calificación de ueno bank.",
+        "La Nación informó que la nota de la entidad es BB.",
+        "La evaluación toma datos al segundo trimestre de 2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fitch ratifica la calificación de ueno bank y su perfil crediticio",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/18/fitch-ratifica-la-calificacion-de-ueno-bank-y-su-perfil-crediticio",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aBTkehSeW-f4FIfyjmOYjbg56B0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6UKD72Z4BVE4XOIOYJXNM5QYGY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fitch ratifica la calificación de ueno bank y resalta la solidez de su modelo de negocio",
+          "url": "https://www.hoy.com.py/negocios/comercio-e-industrias/2026/10/17/fitch-ratifica-la-calificacion-de-ueno-bank-y-resalta-la-solidez-de-su-modelo-de-negocio",
+          "publishedAt": "2026-10-17T23:06:05.700Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fitch mantiene calificación de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/17/fitch-mantiene-calificacion-de-ueno-bank",
+          "publishedAt": "2026-10-17T12:43:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vkYC3mkFfYOICM10zPeCMz7XSQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GALBTPNI3BFPVCWZXWY6RLALRA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6UKD72Z4BVE4XOIOYJXNM5QYGY.jpg?auth=e4c2c60ff16a7d14277a2874e04aacf615f4f7d7ea965a9988fd26a4522cdeee&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/18/fitch-ratifica-la-calificacion-de-ueno-bank-y-su-perfil-crediticio"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 9.46
+    },
+    {
+      "id": "ev-0bb69df",
+      "title": "Cerrito bajo agua: casi 400 familias afectadas por la crecida del Paraná",
+      "summary": "La crecida del río Paraná dejó gran parte del casco urbano de Cerrito bajo agua. Según el registro municipal, hasta el sábado había 398 familias afectadas y 314 viviendas inundadas. La Municipalidad advierte que el nivel del río podría subir entre 20 y 30 centímetros más en 24 horas.",
+      "keyPoints": [
+        "398 familias afectadas según el registro municipal.",
+        "314 viviendas inundadas y 182 aisladas.",
+        "El río llegó a 6,70 metros en el puerto de Cerrito.",
+        "La Municipalidad prevé una nueva subida del río."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
+          "url": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana",
+          "publishedAt": "2026-10-18T14:36:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerrito bajo agua: 398 familias afectadas y crecen los reclamos por asistencia",
+          "url": "https://www.abc.com.py/clima/2026/10/18/cerrito-bajo-agua-398-familias-afectadas-y-crecen-los-reclamos-por-asistencia",
+          "publishedAt": "2026-10-18T13:28:17.000Z",
+          "image": "https://www.abc.com.py/resizer/ABGVPMbDKU_tXelQduouG5UzdUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NUUZ2JCL3NHQZBOC4TRNCUUNZ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.42
+    },
+    {
+      "id": "ev-0vx8bba",
+      "title": "Dionisio Amarilla pide al PLRA un proyecto más allá de los espacios de poder",
+      "summary": "El senador Dionisio Amarilla sostuvo que el PLRA debe recuperar su identidad y construir alianzas desde una posición propia. En una entrevista señaló que la oposición necesita una estrategia definida y un programa de gobierno. Dijo que esto servirá para recuperar la confianza ciudadana.",
+      "keyPoints": [
+        "Amarilla habló en una entrevista con Nación Media.",
+        "Propuso que el PLRA recupere su identidad antes de hacer alianzas.",
+        "Consideró necesario un programa de gobierno y propuestas concretas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Para ser opción, la oposición debe tener un proyecto que vaya más allá de peleas por espacios de poder, dicen",
+          "url": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen",
+          "publishedAt": "2026-10-18T14:25:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Dionisio Amarilla: “Necesitamos un proyecto político que vaya más allá de las disputas por espacios de poder”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/dionisio-amarilla-necesitamos-un-proyecto-politico-que-vaya-mas-alla-de-las-disputas-por-los-espacios-de-poder",
+          "publishedAt": "2026-10-18T11:50:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jiyuXfC6r4DUXp_mN4mtw819hdw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6BCPWE57LNFNFNMWB53E2RSESA.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.4
+    },
+    {
+      "id": "ev-1u59tj1",
+      "title": "Riveros rechaza que el candidato liberal para 2028 se defina por imposición",
+      "summary": "El presidente del PLRA, Alcides Riveros, afirmó que la candidatura presidencial de 2028 no puede definirse a dedo. Respondió así a la propuesta del senador Salyn Buzarquis de ceder ese espacio a Miguel Prieto, de Yo Creo. Riveros pidió abrir el debate y llegar a un acuerdo para la chapa.",
+      "keyPoints": [
+        "Riveros rechazó una candidatura definida por imposición.",
+        "Respondió a una propuesta del senador Salyn Buzarquis.",
+        "La propuesta apunta a ceder el espacio a Miguel Prieto.",
+        "Riveros pidió abrir el debate y buscar un acuerdo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Riveros rechaza que la oposición elija a dedo al candidato presidencial para 2028",
+          "url": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028",
+          "publishedAt": "2026-10-18T14:17:53.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presidente del PLRA advierte sobre Prieto: “No se elegirá a dedo”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/17/presidente-del-plra-advierte-sobre-prieto-no-se-elegira-a-dedo",
+          "publishedAt": "2026-10-17T23:45:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UZ61Q-Xz1YeR4h0zGU0goEp2Wm0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5CBW7GLWXVDZFBNERTBBIHXMA4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.39
+    },
+    {
+      "id": "ev-1okj052",
+      "title": "Festival de la Raza abre su 43ª edición con gran concurrencia en Villarrica",
+      "summary": "El Festival de la Raza celebró la primera jornada de su 43ª edición en el Club Cerro Corá de Villarrica, Guairá. Según ABC Color, una multitud llegó desde distintos puntos del país para disfrutar de música, baile y expresiones artísticas. La programación incluyó artistas nacionales y exponentes de la escena local. El evento busca destacar el talento regional y es una de las principales celebraciones culturales del interior.",
+      "keyPoints": [
+        "La primera jornada se realizó este sábado en el Club Cerro Corá de Villarrica.",
+        "Se trata de la edición 43 del Festival de la Raza.",
+        "La Noche Gigante reunió artistas nacionales y de la escena local.",
+        "La cobertura destaca la gran concurrencia del público."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Festival de la Raza vivió una exitosa primera jornada y se alista para su cierre solidario",
+          "url": "https://www.ultimahora.com/festival-de-la-raza-vivio-una-exitosa-primera-jornada-y-se-alista-para-su-cierre-solidario",
+          "publishedAt": "2026-10-18T13:55:41.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica",
+          "publishedAt": "2026-10-18T12:15:14.000Z",
+          "image": "https://www.abc.com.py/resizer/lP1S7haeR3U3VcVk0tK7rdIQWzE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg?auth=e7c47606715dedfbb414067d26b38e3898dcd09ee156f4ee2e69c6676d4fc00d&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.36
+    },
+    {
+      "id": "ev-17y9iex",
+      "title": "World Skate Games ASU26 cierra con su última jornada en Asunción",
+      "summary": "Los World Skate Games ASU26 llegan hoy a su última jornada de competencias. Habrá finales, definiciones por medallas y ceremonias de premiación en el Comité Olímpico Paraguayo y en la Costanera de Asunción. Según La Nación, la jornada previa en la Costanera tuvo buena asistencia del público. El cierre del evento reúne a deportistas y espectadores en la capital.",
+      "keyPoints": [
+        "La última jornada incluye finales y definiciones por medallas.",
+        "Las premiaciones se harán en el COP y en la Costanera de Asunción.",
+        "La Costanera registró fuerte acompañamiento del público según La Nación."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Hoy se realiza la última roleada en los World Skate Games ASU 26",
+          "url": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26",
+          "publishedAt": "2026-10-18T13:24:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fin con éxito del World Skate Games ASU26",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/18/fin-con-exito-del-world-skate-games-asu26",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BYg_sbNl0OuApFYsru0fSONQB2Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YNXNNAFDIND6NBCUHU32I44GAI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.32
+    },
+    {
+      "id": "ev-1yzw2z2",
+      "title": "Asunción ofrece 10% de descuento en impuestos inmobiliarios de 2026",
+      "summary": "La Municipalidad de Asunción lanzó la campaña “Asunción se viste de Rosa: Cumplí, Ahorrá y Sumate”, que otorga una reducción del 10% a quienes paguen al contado los impuestos inmobiliarios y tasas especiales del ejercicio fiscal 2026. El beneficio alcanza a contribuyentes sin deudas de años anteriores y tendrá vigencia hasta el 31 de octubre.",
+      "keyPoints": [
+        "El descuento es del 10% por pago al contado.",
+        "Abarca impuestos inmobiliarios y tasas especiales de 2026.",
+        "Es para contribuyentes al día y rige hasta el 31 de octubre."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Contribuyentes de Asunción que paguen sus impuestos de este año tendrán 10% de descuento",
+          "url": "https://www.adndigital.com.py/contribuyentes-de-asuncion-que-paguen-sus-impuestos-de-este-ano-tendran-10-de-descuento",
+          "publishedAt": "2026-10-18T12:04:59.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/muni-asuncion-1024x683.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Incentivo tributario en Asunción: 10% de descuento para el pago de impuestos 2026",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/17/incentivo-tributario-en-asuncion-10-de-descuento-para-el-pago-de-impuestos-2026",
+          "publishedAt": "2026-10-17T22:17:54.235Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PSJURIFNXNBTJMOGY4SS4LNLUU.jpg?auth=cdd332bcad7cad82e0ea89d8b889dbdf3d8f17fcacec4b81494809cad06b96a1&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/muni-asuncion-1024x683.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/contribuyentes-de-asuncion-que-paguen-sus-impuestos-de-este-ano-tendran-10-de-descuento"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 9.21
+    },
+    {
+      "id": "ev-10zhssa",
+      "title": "Messi marca doblete ante Atlanta United y llega a 25 goles en la MLS",
+      "summary": "Lionel Messi anotó dos goles en la victoria de Inter Miami por 3-1 ante Atlanta United, dirigido por Gerardo Tata Martino. Con el doblete, el argentino alcanzó los 25 goles en la Major League Soccer. Germán Berterame abrió el marcador antes del descanso. Entre los protagonistas estuvo también el paraguayo Junior Alonso, ex Cerro Porteño, con quien Messi festejó su segundo tanto junto a Rodrigo De Paul.",
+      "keyPoints": [
+        "Inter Miami ganó 3-1 a Atlanta United.",
+        "Messi hizo dos goles y llegó a 25 en la MLS.",
+        "Berterame abrió el marcador al borde del descanso.",
+        "Messi celebró su segundo gol junto a Rodrigo De Paul."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El video inédito del festejo de Lionel Messi y Rodrigo De Paul frente a Junior Alonso",
+          "url": "https://elnacional.com.py/deportes/el-video-inedito-festejo-lionel-messi-rodrigo-paul-frente-junior-alonso-n113824",
+          "publishedAt": "2026-10-18T18:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad50b8c4eb6c.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lionel Messi se tomó revancha ante Junior Alonso: \"Todavía estás girando\"",
+          "url": "https://elnacional.com.py/deportes/lionel-messi-tomo-revancha-junior-alonso-todavia-estas-girando-n113790",
+          "publishedAt": "2026-10-18T10:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad433232bffb.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Messi deslumbra ante los paraguayos Miguel Almirón y Junior Alonso",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/18/messi-deslumbra-griezmann-arrasa-y-martin-ojeda-firma-el-gol-de-la-jornada",
+          "publishedAt": "2026-10-18T04:15:07.000Z",
+          "image": "https://www.abc.com.py/resizer/nh8C1LWPngzRjoPkeCyuBYbqjtg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6R3K2UTODBEX3OGZQOPXV4OOKU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad50b8c4eb6c.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/deportes/el-video-inedito-festejo-lionel-messi-rodrigo-paul-frente-junior-alonso-n113824"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T21:33:48.478Z",
+      "updatedSlot": "tarde",
+      "score": 8.22,
+      "expiresAt": null
     },
     {
       "id": "ev-0lfbhi1",
@@ -1329,50 +1425,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T20:09:15.197Z",
       "updatedSlot": "manana",
-      "score": 8.19
-    },
-    {
-      "id": "ev-10zhssa",
-      "title": "Messi marca doblete ante Atlanta United con Almirón y Alonso en cancha",
-      "summary": "Lionel Messi anotó dos goles en la victoria 3-1 del Inter Miami sobre Atlanta United en la MLS. Con el doblete llegó a 25 goles en la liga. Según ABC Color, el paraguayo Miguel Almirón y Junior Alonso también estuvieron en el partido, dirigido por Gerardo Martino. Messi celebró su segundo tanto junto a Rodrigo De Paul.",
-      "keyPoints": [
-        "Messi marcó dos goles en la victoria 3-1 ante Atlanta United.",
-        "Llegó a 25 goles en la Major League Soccer.",
-        "Miguel Almirón y Junior Alonso formaron parte del partido.",
-        "Germán Berterame abrió el marcador antes del descanso."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Lionel Messi se tomó revancha ante Junior Alonso: \"Todavía estás girando\"",
-          "url": "https://elnacional.com.py/deportes/lionel-messi-tomo-revancha-junior-alonso-todavia-estas-girando-n113790",
-          "publishedAt": "2026-10-18T10:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad433232bffb.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Messi deslumbra ante los paraguayos Miguel Almirón y Junior Alonso",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/18/messi-deslumbra-griezmann-arrasa-y-martin-ojeda-firma-el-gol-de-la-jornada",
-          "publishedAt": "2026-10-18T04:15:07.000Z",
-          "image": "https://www.abc.com.py/resizer/nh8C1LWPngzRjoPkeCyuBYbqjtg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6R3K2UTODBEX3OGZQOPXV4OOKU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ad433232bffb.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/deportes/lionel-messi-tomo-revancha-junior-alonso-todavia-estas-girando-n113790"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 6.88
+      "score": 8
     },
     {
       "id": "ev-0kweh26",
@@ -1414,7 +1467,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 6.71
+      "score": 6.43
     },
     {
       "id": "ev-11ioi72",
@@ -1444,7 +1497,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.98
+      "score": 5.7
     },
     {
       "id": "ev-0ck40ec",
@@ -1479,7 +1532,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.98
+      "score": 5.7
     },
     {
       "id": "ev-12ln3k8",
@@ -1514,7 +1567,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.97
+      "score": 5.69
     },
     {
       "id": "ev-1qoyp3w",
@@ -1545,7 +1598,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.96
+      "score": 5.68
     },
     {
       "id": "ev-109iues",
@@ -1580,7 +1633,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.91
+      "score": 5.63
     },
     {
       "id": "ev-0uu441l",
@@ -1615,7 +1668,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.9
+      "score": 5.62
     },
     {
       "id": "ev-0we1opx",
@@ -1648,7 +1701,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.9
+      "score": 5.62
     },
     {
       "id": "ev-1mkvjfh",
@@ -1682,7 +1735,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.9
+      "score": 5.61
     },
     {
       "id": "ev-1j0rb9e",
@@ -1716,7 +1769,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.89
+      "score": 5.6
     },
     {
       "id": "ev-14438el",
@@ -1750,7 +1803,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.86
+      "score": 5.57
     },
     {
       "id": "ev-0xetdww",
@@ -1793,7 +1846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.46
     },
     {
       "id": "ev-1ueq9ey",
@@ -1835,7 +1888,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.46
     },
     {
       "id": "ev-187l6pf",
@@ -1877,7 +1930,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.46
     },
     {
       "id": "ev-1p91oe1",
@@ -1919,7 +1972,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.46
     },
     {
       "id": "ev-0cfl063",
@@ -1953,7 +2006,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.67
+      "score": 5.38
     },
     {
       "id": "ev-1aprb2e",
@@ -1983,7 +2036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.24
     },
     {
       "id": "ev-0yxtha5",
@@ -2015,7 +2068,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.19
+      "score": 4.9
     },
     {
       "id": "ev-018uf81",
@@ -2049,7 +2102,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.17
+      "score": 4.89
     },
     {
       "id": "ev-0u2ev0r",
@@ -2082,7 +2135,50 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 4.74
+      "score": 4.46
+    },
+    {
+      "id": "ev-1ndfhdl",
+      "title": "Costanera de Asunción cerrada este domingo por los World Skate Games",
+      "summary": "La avenida Costanera de Asunción y el Corredor Vial Botánico permanecen cerrados al tránsito desde las 04:00 de este domingo 18 de octubre por las competencias de los World Skate Games ASU26. La restricción abarca el tramo hasta la avenida El Paraguayo Independiente y se mantendrá hasta las 14:00, según los reportes.",
+      "keyPoints": [
+        "El cierre rige desde las 04:00 hasta las 14:00.",
+        "Afecta el tramo entre el Corredor Vial Botánico y la avenida El Paraguayo Independiente.",
+        "La medida responde a competencias de los World Skate Games ASU26."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Costanera y Corredor Vial Botánico permanecen cerrados hasta las 14:00",
+          "url": "https://www.adndigital.com.py/costanera-y-corredor-vial-botanico-permanecen-cerrados-hasta-las-1400",
+          "publishedAt": "2026-10-18T12:19:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091906.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Costanera de Asunción: cerrada este domingo desde las 04:00",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/18/costanera-de-asuncion-cerrada-este-domingo-desde-las-0400",
+          "publishedAt": "2026-10-18T09:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/KHL45ZQMK5C5DN6ETTMKQEAR4M.jpg?auth=3c55ea8e5f9d1b65be81bec835cbcbb6caef48c2b44a4e7993a34909f908f938&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-091906.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/costanera-y-corredor-vial-botanico-permanecen-cerrados-hasta-las-1400"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T12:34:37.532Z",
+      "updatedSlot": "manana",
+      "score": 3.23,
+      "expiresAt": "2026-10-18T17:00:00.000Z"
     },
     {
       "id": "ev-19lihy1",
@@ -2117,7 +2213,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.46
+      "score": 3.18
     },
     {
       "id": "ev-1l1piv9",
@@ -2152,7 +2248,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.46
+      "score": 3.18
     },
     {
       "id": "ev-0ad5cwf",
@@ -2183,7 +2279,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.43
+      "score": 3.15
     },
     {
       "id": "ev-1ua4px3",
@@ -2213,7 +2309,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.42
+      "score": 3.14
     }
   ],
   "runs": [
@@ -2230,6 +2326,13 @@
       "added": 30,
       "updated": 6,
       "candidates": 50
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-18T21:33:48.478Z",
+      "added": 1,
+      "updated": 3,
+      "candidates": 21
     }
   ]
 }

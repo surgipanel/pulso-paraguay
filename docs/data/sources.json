@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-18T18:09:39.867Z",
+  "checkedAt": "2026-10-18T21:33:48.478Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -15,10 +15,10 @@
       "items": 100,
       "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-10-18T18:05:10.000Z",
-      "ms": 443,
+      "newestAt": "2026-10-18T21:20:11.000Z",
+      "ms": 707,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "lanacion",
@@ -31,12 +31,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 82,
+      "freshItems": 80,
       "undated": 0,
-      "newestAt": "2026-10-18T16:58:32.000Z",
-      "ms": 281,
+      "newestAt": "2026-10-18T21:29:01.000Z",
+      "ms": 792,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 164,
+      "items": 169,
       "freshItems": 75,
       "undated": 0,
-      "newestAt": "2026-10-18T17:58:36.000Z",
-      "ms": 93662,
+      "newestAt": "2026-10-18T20:44:04.000Z",
+      "ms": 96499,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "elnacional",
@@ -67,12 +67,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 65,
-      "freshItems": 42,
+      "freshItems": 41,
       "undated": 0,
-      "newestAt": "2026-10-18T17:50:00.000Z",
-      "ms": 510,
+      "newestAt": "2026-10-18T21:00:00.000Z",
+      "ms": 855,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "adn",
@@ -87,10 +87,10 @@
       "items": 10,
       "freshItems": 10,
       "undated": 0,
-      "newestAt": "2026-10-18T15:26:13.000Z",
-      "ms": 23970,
+      "newestAt": "2026-10-18T20:59:59.000Z",
+      "ms": 22914,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T17:03:00.000Z",
-      "ms": 749,
+      "ms": 1091,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "telefuturo",
@@ -117,16 +117,16 @@
       "kind": "atom",
       "url": "https://www.telefuturo.com.py/index.atom",
       "region": "nacional",
-      "note": "Conecta bien pero no publicó notas en las últimas 24 h.",
-      "status": "quiet",
+      "note": "El feed devuelve notas antiguas; no se usa como información del día.",
+      "status": "stale",
       "httpStatus": 200,
       "items": 71,
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T19:44:42.000Z",
-      "ms": 1076,
+      "ms": 1688,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "vanguardia",
@@ -135,16 +135,16 @@
       "kind": "rss",
       "url": "https://www.diariovanguardia.com.py/feed/",
       "region": "Ciudad del Este",
-      "note": "Conecta bien pero no publicó notas en las últimas 24 h.",
-      "status": "quiet",
+      "note": "El feed devuelve notas antiguas; no se usa como información del día.",
+      "status": "stale",
       "httpStatus": 200,
       "items": 10,
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-16T19:06:32.000Z",
-      "ms": 6233,
+      "ms": 7308,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "hoy",
@@ -157,12 +157,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 12,
-      "freshItems": 10,
+      "freshItems": 11,
       "undated": 0,
-      "newestAt": "2026-10-18T18:04:00.000Z",
-      "ms": 26067,
+      "newestAt": "2026-10-18T20:55:25.910Z",
+      "ms": 26499,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "ip",
@@ -178,9 +178,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-15T17:00:40.000Z",
-      "ms": 2967,
+      "ms": 2432,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     },
     {
       "id": "5dias",
@@ -193,12 +193,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 5,
-      "freshItems": 4,
+      "freshItems": 5,
       "undated": 0,
-      "newestAt": "2026-10-18T14:15:00.000Z",
-      "ms": 9129,
+      "newestAt": "2026-10-18T16:08:00.000Z",
+      "ms": 12698,
       "error": null,
-      "checkedAt": "2026-10-18T18:09:39.867Z"
+      "checkedAt": "2026-10-18T21:33:48.478Z"
     }
   ]
 }
