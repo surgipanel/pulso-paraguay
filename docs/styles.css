@@ -163,8 +163,7 @@ a:hover .media img, .card:hover .media img { filter: brightness(1.05); }
 .card__title a:hover { text-decoration: none; }
 .card__title a::after { content: ""; position: absolute; inset: 0; }
 .card__summary { margin: 0 0 12px; font: 14.5px/1.55 var(--sans); color: var(--text); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.card__foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: auto; font: 12px/1.5 var(--sans); color: var(--muted); }
-.srcs { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.card__foot { display: flex; align-items: center; justify-content: flex-end; gap: 10px; margin-top: auto; }
 .card--second .card__summary { display: none; }
 .card--second .card__title { font-size: 20px; }
 

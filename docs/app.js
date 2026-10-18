@@ -46,11 +46,6 @@
     return `hace ${Math.round(h / 24)} días`;
   };
   const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
-  const srcLine = (ev, max = 2) => {
-    const names = distinctSources(ev);
-    const shown = names.slice(0, max).join(" · ");
-    return names.length > max ? `${shown} · +${names.length - max}` : shown;
-  };
   const setTitle = (t) => { document.title = t ? `${t} | ${SITE}` : `${SITE} | Libres para informar`; };
 
   function loadSaved() {
@@ -148,7 +143,6 @@
         <h3 class="card__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h3>
         <p class="card__summary">${esc(ev.summary)}</p>
         <div class="card__foot">
-          <span class="srcs" title="${esc(distinctSources(ev).join(", "))}">${esc(srcLine(ev))}</span>
           ${saveBtn(ev, editionDate)}
         </div>
       </article>`;
