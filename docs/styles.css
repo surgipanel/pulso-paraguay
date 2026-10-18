@@ -227,6 +227,8 @@ a:hover .media img, .card:hover .media img { filter: brightness(1.05); }
 /* ---------- Criterios ---------- */
 .prose { max-width: 760px; margin: 0 auto; }
 .prose h2 { margin: 30px 0 10px; font: 700 24px/1.2 var(--serif); color: var(--ink); }
+.prose h3 { margin: 20px 0 4px; font: 700 18px/1.3 var(--serif); color: var(--ink); }
+.prose h3 + p { margin-top: 0; }
 .prose p, .prose li { font: 17px/1.65 var(--sans); color: var(--text); }
 .prose ul { padding-left: 20px; }
 
@@ -252,13 +254,18 @@ a:hover .media img, .card:hover .media img { filter: brightness(1.05); }
 .editions .ed-count { font: 12px/1.5 var(--sans); color: var(--muted); white-space: nowrap; }
 
 /* ---------- Pie ---------- */
-.foot { margin-top: 56px; border-top: 3px solid var(--ink); }
-.pledge { padding: 26px 0 6px; }
-.pledge h2 { margin: 6px 0 20px; font: 700 clamp(24px, 3vw, 30px)/1.2 var(--serif); color: var(--ink); }
+.foot { margin-top: 56px; }
+.pledge { padding: 34px 0 36px; background: var(--noche); color: #ffffff; border-bottom: 4px solid var(--rojo); }
+.pledge__head { display: flex; align-items: center; gap: 18px; margin-bottom: 24px; }
+.pledge__mark { flex: none; width: 64px; height: 64px; }
+.pledge .kicker { color: #c9d4e5; }
+.pledge h2 { margin: 6px 0 0; font: 700 clamp(24px, 3vw, 30px)/1.2 var(--serif); color: #ffffff; }
 .three { display: grid; gap: 24px 28px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-.three h3 { margin: 0 0 6px; font: 700 19px/1.3 var(--serif); color: var(--ink); }
-.three p { margin: 0; font: 14px/1.65 var(--sans); color: var(--muted); }
-.foot__bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 24px; margin-top: 28px; padding: 18px 0 40px; border-top: 1px solid var(--line); font: 12px/1.6 var(--sans); color: var(--muted); }
+.three h3 { margin: 0 0 6px; font: 700 19px/1.3 var(--serif); color: #ffffff; }
+.three p { margin: 0; font: 14px/1.65 var(--sans); color: #d7dfeb; }
+.three a { color: #ffffff; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+@media (prefers-color-scheme: dark) { .pledge { background: #0b2148; } }
+.foot__bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 24px; padding: 18px 0 40px; font: 12px/1.6 var(--sans); color: var(--muted); }
 .foot__brand { font: 700 15px/1 var(--serif); color: var(--ink); }
 .foot__bar nav { display: flex; gap: 16px; flex-wrap: wrap; }
 .foot__bar nav a { font-weight: 700; color: var(--muted); }

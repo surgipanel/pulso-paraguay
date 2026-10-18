@@ -7,6 +7,7 @@
   const CATS = [
     { id: "pais", label: "País" },
     { id: "politica", label: "Política" },
+    { id: "internacional", label: "Internacional" },
     { id: "economia", label: "Economía" },
     { id: "deportes", label: "Deportes" },
     { id: "cultura", label: "Cultura" },
@@ -135,11 +136,22 @@
   }
   const link = (ev, editionDate) => `#/noticia/${esc(ev.id)}?e=${esc(editionDate)}`;
 
-  function cardHtml(ev, editionDate, variant = "") {
+  const dayLabel = (ymd) => {
+    const today = state.latest?.editionDate;
+    if (today) {
+      const [y, m, d] = today.split("-").map(Number);
+      const yesterday = new Date(Date.UTC(y, m - 1, d - 1)).toISOString().slice(0, 10);
+      if (ymd === yesterday) return "Ayer";
+    }
+    const [y, m, d] = ymd.split("-").map(Number);
+    return new Intl.DateTimeFormat("es-PY", { timeZone: "UTC", weekday: "short", day: "numeric", month: "short" }).format(new Date(Date.UTC(y, m - 1, d)));
+  };
+
+  function cardHtml(ev, editionDate, variant = "", { dated = false } = {}) {
     return `
       <article class="card ${variant}">
         <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
-        ${kickerHtml(ev)}
+        ${kickerHtml(ev, dated ? `${dayLabel(editionDate)} · ${fmtTime(latestAt(ev))}` : undefined)}
         <h3 class="card__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h3>
         <p class="card__summary">${esc(ev.summary)}</p>
         <div class="card__foot">
@@ -204,7 +216,20 @@
       .filter((e) => e !== lead)
       .sort((a, b) => distinctSources(b).length - distinctSources(a).length || (latestAt(b) < latestAt(a) ? -1 : 1))
       .slice(0, 5);
-    const sections = CATS.map((c) => ({ ...c, events: rest.filter((e) => e.category === c.id) })).filter((s) => s.events.length);
+    const shown = new Set(events.map((e) => e.id));
+    const shownTitles = new Set(events.map((e) => fold(e.title)));
+    const older = archiveDate ? [] : await previousEvents(date);
+    const sections = CATS.map((c) => {
+      const items = rest.filter((e) => e.category === c.id).map((ev) => ({ ev, date, dated: false }));
+      for (const o of older) {
+        if (items.length >= SECTION_MIN) break;
+        if (o.ev.category !== c.id || shown.has(o.ev.id) || shownTitles.has(fold(o.ev.title))) continue;
+        items.push({ ...o, dated: true });
+        shown.add(o.ev.id);
+        shownTitles.add(fold(o.ev.title));
+      }
+      return { ...c, items };
+    }).filter((s) => s.items.length);
     main.innerHTML = `
       ${archiveDate ? `<div class="page-head"><h1>Edición del ${esc(fmtDay(date))}</h1><span class="count">${events.length} acontecimientos · ${edition.aiMode === "extractivo" ? "sin IA" : "con IA"}</span></div>` : ""}
       <div class="front">
@@ -222,9 +247,9 @@
       ${sections.map((s) => `
         <section class="section">
           <div class="section__head"><h2>${esc(s.label)}</h2><a href="#/categoria/${s.id}">Ver todo ${esc(s.label)} →</a></div>
-          <div class="grid">${s.events.map((ev) => cardHtml(ev, date)).join("")}</div>
+          <div class="grid">${s.items.map((it) => cardHtml(it.ev, it.date, "", { dated: it.dated })).join("")}</div>
         </section>`).join("")}`;
-    const byId = new Map(events.map((e) => [e.id, e]));
+    const byId = new Map([...older.map((o) => [o.ev.id, o.ev]), ...events.map((e) => [e.id, e])]);
     bindSaveButtons(main, (id) => byId.get(id));
   }
 
@@ -234,8 +259,38 @@
     renderCats(category, null);
     const label = CAT_LABEL[category] ?? category;
     setTitle(label);
-    const events = (edition?.events ?? []).filter((e) => e.category === category);
-    gridView({ title: label, events, editionDate: date, count: `${plural(events.length, "acontecimiento", "acontecimientos")} hoy`, emptyText: `Hoy no hay acontecimientos verificados en ${label}.` });
+    const today = (edition?.events ?? []).filter((e) => e.category === category);
+    const items = today.map((ev) => ({ ev, date, dated: false }));
+    const seen = new Set(today.map((e) => fold(e.title)));
+    for (const o of await previousEvents(date)) {
+      if (items.length >= CATEGORY_MIN) break;
+      if (o.ev.category !== category || seen.has(fold(o.ev.title))) continue;
+      items.push({ ...o, dated: true });
+      seen.add(fold(o.ev.title));
+    }
+    main.innerHTML = `
+      <div class="page-head"><h1>${esc(label)}</h1><span class="count">${esc(plural(today.length, "acontecimiento", "acontecimientos"))} hoy</span></div>
+      ${items.length ? `<div class="grid">${items.map((it) => cardHtml(it.ev, it.date, "", { dated: it.dated })).join("")}</div>` : `<p class="empty">Todavía no hay acontecimientos en ${esc(label)}.</p>`}`;
+    const byId = new Map(items.map((it) => [it.ev.id, it.ev]));
+    bindSaveButtons(main, (id) => byId.get(id));
+  }
+
+  // Acontecimientos de los días anteriores (hasta tres ediciones), del más reciente al más viejo.
+  // Sirven para que una sección no quede vacía cuando hoy todavía no hay novedades de ese tema.
+  const SECTION_MIN = 3;
+  const CATEGORY_MIN = 6;
+  let olderCache = null;
+  async function previousEvents(currentDate) {
+    if (olderCache?.date === currentDate) return olderCache.list;
+    if (!state.index) state.index = await getJson("data/editions/index.json").catch(() => []);
+    const dates = state.index.map((e) => e.date).filter((d) => d < currentDate).sort().reverse().slice(0, 3);
+    const list = [];
+    for (const d of dates) {
+      const ed = await loadEdition(d).catch(() => null);
+      for (const ev of ed?.events ?? []) list.push({ ev, date: d });
+    }
+    olderCache = { date: currentDate, list };
+    return list;
   }
 
   async function viewDetail(id, editionDate) {
@@ -331,27 +386,47 @@
   function viewCriteria() {
     renderCats(null, "criterios");
     setTitle("Criterios editoriales");
-    const l = state.latest;
     main.innerHTML = `
       <div class="page-head"><h1>Criterios editoriales</h1><span class="count">Libres para informar</span></div>
       <div class="prose">
-        <p>El Prócer es un diario digital que informa sobre Paraguay con claridad, contexto y fuentes identificables. No escribe noticias desde cero: lee lo que publican los medios paraguayos, agrupa las notas que cubren un mismo hecho y lo explica en un texto propio, breve y atribuido.</p>
-        <h2>Qué es un acontecimiento</h2>
-        <p>Un hecho, no una nota. Cuando varios medios cubren lo mismo, acá aparece una sola vez, con un título y un resumen de entre 40 y 70 palabras, los puntos clave y el enlace a cada una de las notas originales, con el nombre del medio y la hora de publicación.</p>
-        <h2>De dónde sale la información</h2>
+        <p>El Prócer es un diario digital que informa sobre Paraguay y el mundo con claridad, contexto y fuentes identificables. No escribe noticias desde cero: lee lo que publican los medios, agrupa las notas que cubren un mismo hecho y lo cuenta con un texto propio, breve y atribuido. Estos son los compromisos que guían cada acontecimiento publicado.</p>
+
+        <h2>Nuestro marco ético</h2>
+        <h3>1. Veracidad ante todo</h3>
+        <p>Publicamos solo hechos informados por medios identificables, con fecha verificable. No inventamos datos, cifras, nombres ni declaraciones. Si la información disponible es escasa, el texto es más breve, nunca rellenado.</p>
+        <h3>2. Independencia</h3>
+        <p>El Prócer no responde a ningún gobierno, partido político, empresa ni anunciante. Ninguna noticia se publica, se oculta ni se modifica a cambio de dinero o favores. El nombre remite a la independencia; la identidad evita símbolos oficiales y partidarios.</p>
+        <h3>3. Pluralidad</h3>
+        <p>Leemos medios con líneas editoriales distintas. Cuando un hecho tiene versiones encontradas, las contamos atribuidas a quien las sostiene, sin tomar partido.</p>
+        <h3>4. Presunción de inocencia</h3>
+        <p>Un detenido, imputado o acusado no es culpable hasta que lo diga una sentencia firme. Lo nombramos como tal y atribuimos siempre las acusaciones («según la Fiscalía», «denunció…»). Distinguimos con precisión una denuncia de una imputación, una imputación de una condena, un proyecto de una ley y un anuncio de un hecho cumplido.</p>
+        <h3>5. Protección de menores y víctimas</h3>
+        <p>Nunca publicamos nombres, fotos ni datos que permitan identificar a menores de edad involucrados en delitos o a víctimas de delitos sexuales.</p>
+        <h3>6. Dignidad y no discriminación</h3>
+        <p>No usamos detalles morbosos de violencia, accidentes o tragedias. No estigmatizamos a nadie por su origen, religión, género, orientación sexual, discapacidad o condición social.</p>
+        <h3>7. Salud mental y suicidio</h3>
+        <p>Cuando informamos sobre suicidios lo hacemos con cuidado: sin describir métodos ni presentarlo como solución a un problema.</p>
+        <h3>8. Títulos con gancho, nunca engañosos</h3>
+        <p>Queremos que cada título dé ganas de leer, empezando por el dato más fuerte. Pero el título siempre cuenta lo que dice la nota: sin sensacionalismo, sin exageraciones ni trampas para conseguir clics.</p>
+        <h3>9. Información, no opinión</h3>
+        <p>Nuestros resúmenes informan; no opinan ni juzgan. Cuando una nota recoge opiniones, las presentamos como tales y con su autor.</p>
+        <h3>10. Corrección de errores</h3>
+        <p>Si nos equivocamos, corregimos apenas lo detectamos y no ocultamos el error.</p>
+
+        <h2>Cómo trabajamos</h2>
         <ul>
-          <li>Solo se usan notas con fecha verificable publicadas en las últimas 24 horas. Un medio que devuelve notas viejas se marca y no se usa.</li>
-          <li>El sistema recibe únicamente el título, un extracto y la fecha de cada nota. Tiene prohibido agregar datos que no estén en ese material.</li>
+          <li><b>Un hecho, un acontecimiento.</b> Cuando varios medios cubren lo mismo, acá aparece una sola vez, con título, resumen, puntos clave y las notas originales de cada medio.</li>
+          <li><b>Solo lo reciente.</b> Usamos notas con fecha verificable publicadas en las últimas 24 horas. Un medio que publica notas antiguas no se usa ese día.</li>
+          <li><b>Secciones.</b> País y Política reúnen solo hechos de Paraguay; Internacional, lo que pasa en el resto del mundo. Economía, Deportes, Cultura y Tecnología combinan noticias nacionales e internacionales.</li>
+          <li><b>Ritmo.</b> Una edición completa a la mañana y cuatro actualizaciones durante el día, en hora de Asunción. Cada actualización suma las novedades y actualiza los hechos que cambiaron, sin duplicar.</li>
         </ul>
+
         <h2>Uso de inteligencia artificial</h2>
-        <p>Los títulos, resúmenes y puntos clave se redactan con inteligencia artificial${l?.model ? ` (${esc(l.model)})` : ""} a partir de los extractos de las notas. Se declara en esta página y en el pie del sitio. Cuando la IA no interviene, el resumen se arma con extractos del medio y se marca «sin IA». Nunca se presenta un extracto como texto generado ni un texto generado como una cita.</p>
-        <p>La redacción automática puede contener errores. Las denuncias y acusaciones se atribuyen; se distingue proyecto de ley de ley, media sanción de sanción, imputación de condena. Ante cualquier duda, la fuente original manda.</p>
-        <h2>Fotografías</h2>
-        <p>Las imágenes se muestran desde el sitio de cada medio y les pertenecen; en cada acontecimiento figura el crédito y el enlace a la nota de origen. El Prócer no crea ni altera imágenes.</p>
-        <h2>Ritmo</h2>
-        <p>Una edición completa a la mañana y cuatro actualizaciones durante el día (hora de Asunción). Cada actualización suma las novedades y reescribe los acontecimientos que cambiaron, sin duplicar. Si en un día hay menos de ${l?.maxEvents ?? 20} acontecimientos verificables, se publican menos y se dice.</p>
-        <h2>Independencia</h2>
-        <p>El Prócer no representa a ningún organismo del Estado ni a ningún partido. El nombre remite a la idea de independencia; la identidad evita símbolos oficiales y referencias partidarias.</p>
+        <p>Los títulos, resúmenes y puntos clave se redactan con ayuda de inteligencia artificial, a partir únicamente de los títulos y extractos publicados por los medios, y bajo todas las reglas de esta página. Cuando un resumen se arma solo con extractos del medio, sin intervención de la IA, lo marcamos «sin IA». La redacción automática puede contener errores: ante cualquier duda, la nota original manda.</p>
+
+        <h2>Fuentes, derechos y fotografías</h2>
+        <p>El contenido original pertenece a cada medio. Usamos solo extractos breves como insumo, citamos siempre al medio y enlazamos a su nota original desde cada acontecimiento. Las fotografías se muestran desde el sitio de cada medio, con su crédito; El Prócer no crea ni altera imágenes.</p>
+        <p>Las cotizaciones del día son la referencia publicada por el Banco Central del Paraguay y el clima proviene de Open-Meteo.</p>
       </div>`;
   }
 

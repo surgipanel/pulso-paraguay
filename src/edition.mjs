@@ -1,6 +1,6 @@
 // Construcción y actualización de la edición del día: fusiona lo nuevo con lo ya publicado,
 // no duplica acontecimientos y respeta el máximo diario.
-import { MAX_EVENTS_PER_DAY, MAX_PER_CATEGORY, TIMEZONE } from "./config.mjs";
+import { EDITION_MIN_PER_CATEGORY, MAX_EVENTS_PER_DAY, MAX_PER_CATEGORY, TIMEZONE } from "./config.mjs";
 import { eventId } from "./summarize.mjs";
 import { fold, tokens } from "./text.mjs";
 
@@ -76,16 +76,27 @@ export function mergeEdition({ existing, candidates, date, slot, now, aiMode, mo
   const perCategory = new Map();
   for (const e of events) perCategory.set(e.category, (perCategory.get(e.category) ?? 0) + 1);
   const chosen = [];
+  const chosenSet = new Set();
   const deferred = [];
+  const take = (cand) => {
+    chosen.push(cand);
+    chosenSet.add(cand);
+    perCategory.set(cand.category, (perCategory.get(cand.category) ?? 0) + 1);
+  };
+  // 1) Reserva: cada sección hasta su mínimo, para que ninguna quede vacía.
   for (const cand of fresh) {
     if (chosen.length >= room) break;
-    const n = perCategory.get(cand.category) ?? 0;
-    if (n >= MAX_PER_CATEGORY) {
+    if ((perCategory.get(cand.category) ?? 0) < EDITION_MIN_PER_CATEGORY) take(cand);
+  }
+  // 2) El resto por relevancia, con tope por sección.
+  for (const cand of fresh) {
+    if (chosen.length >= room) break;
+    if (chosenSet.has(cand)) continue;
+    if ((perCategory.get(cand.category) ?? 0) >= MAX_PER_CATEGORY) {
       deferred.push(cand);
       continue;
     }
-    perCategory.set(cand.category, n + 1);
-    chosen.push(cand);
+    take(cand);
   }
   // Si sobró lugar, entran los diferidos por categoría llena.
   for (const cand of deferred) {

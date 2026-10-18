@@ -166,6 +166,44 @@ async function parseNewsSitemap(xml) {
   });
 }
 
+// Verifica una foto como la pediría un navegador (Accept de imágenes modernas) y devuelve la
+// dirección final tras las redirecciones. Algunas direcciones viejas de ABC y La Nación
+// (www.medio/resizer/...=/cloudfront...) redirigen a su CDN y a veces cortan la conexión a los
+// navegadores; la dirección final del CDN sí carga. Si no responde como imagen, devuelve null.
+const IMAGE_ACCEPT = "image/avif,image/webp,image/apng,image/*,*/*;q=0.8";
+export async function probeImage(url, { timeoutMs = 12_000 } = {}) {
+  if (!url) return null;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, { redirect: "follow", signal: ctrl.signal, headers: { "user-agent": USER_AGENT, accept: IMAGE_ACCEPT } });
+      const type = res.headers.get("content-type") || "";
+      res.body?.cancel().catch(() => {});
+      if (res.ok && type.startsWith("image/")) return lightenImageUrl(res.url || url);
+    } catch {
+      // reintento
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+  return null;
+}
+
+// Los CDN de Arc (ABC, La Nación) aceptan un ancho: se pide 1200 px en vez del original
+// (hay fotos de 4000 px y más de 700 KB).
+export function lightenImageUrl(url) {
+  try {
+    const u = new URL(url);
+    if (/\/resizer\/v2\//.test(u.pathname) && u.searchParams.has("auth") && !u.searchParams.has("width")) {
+      u.searchParams.set("width", "1200");
+    }
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
+
 function metaContent(head, names) {
   for (const name of names) {
     const m =

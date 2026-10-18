@@ -8,7 +8,8 @@ const URL_CATEGORY = [
   [/\/(deportes|futbol|polideportivo|motor)\//, "deportes"],
   [/\/(espectaculos|cultura|arte|musica|cine|tv|farandula|gente|vida|tendencias|artes-y-espectaculos)\//, "cultura"],
   [/\/(tecnologia|ciencia|ciencia-y-tecnologia|tech|innovacion)\//, "tecnologia"],
-  [/\/(nacionales|pais|locales|sociedad|policiales|sucesos|interior|mundo|internacionales|salud|comunidad)\//, "pais"],
+  [/\/(mundo|internacional|internacionales|world|america-latina|latinoamerica)\//, "internacional"],
+  [/\/(nacionales|pais|locales|sociedad|policiales|sucesos|interior|salud|comunidad)\//, "pais"],
 ];
 
 const KEYWORD_CATEGORY = [
@@ -19,12 +20,26 @@ const KEYWORD_CATEGORY = [
   ["cultura", /\b(festival|concierto|museo|teatro|cine|pelicula|serie|musica|cantante|artista|exposicion|libro|feria|cultura|folklore|polca|guarania|miss|carnaval|espectaculo|ceramista|poesia)\b/],
 ];
 
-export function categoryHint(article) {
+function rawCategory(article) {
   const url = fold(article.url ?? "");
   for (const [re, cat] of URL_CATEGORY) if (re.test(url)) return cat;
   const text = fold(`${article.title} ${article.excerpt ?? ""}`);
   for (const [cat, re] of KEYWORD_CATEGORY) if (re.test(text)) return cat;
   return "pais";
+}
+
+// País y Política son solo Paraguay: un hecho de otro país en esas secciones pasa a Internacional.
+// Deportes, economía, cultura y tecnología admiten hechos nacionales e internacionales.
+export function categoryHint(article) {
+  const cat = rawCategory(article);
+  const foreign = scopeHint(article) === "internacional";
+  if (cat === "internacional") return foreign ? "internacional" : "pais";
+  if ((cat === "pais" || cat === "politica") && foreign) return "internacional";
+  return cat;
+}
+
+export function clusterCategory(cluster) {
+  return majority(cluster.articles.map(categoryHint), "pais");
 }
 
 const PY_STRONG = /\b(paraguay\w*|asuncion|guarani\w*|albirroja|itaipu|yacyreta|santiago pena|senado paraguayo|congreso nacional|bcp|petropar|essap|dnit|tacumbu|caacupe|ciudad del este|encarnacion|luque|lambare|capiata|san lorenzo|fernando de la mora|mariano roque alonso|nemby|villarrica|coronel oviedo|pedro juan caballero|caaguazu|concepcion|chaco paraguayo|alto parana|san pedro|cordillera|itapua|canindeyu|amambay|misiones|neembucu|boqueron|presidente hayes|cerro porteno|olimpia|club libertad|club guarani|club nacional|sportivo|apf|cartes|pena pide|ips)\b/;

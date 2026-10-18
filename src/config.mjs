@@ -24,6 +24,7 @@ export const SUMMARY_MAX_WORDS = 70;
 export const CATEGORIES = [
   { id: "pais", label: "País" },
   { id: "politica", label: "Política" },
+  { id: "internacional", label: "Internacional" },
   { id: "economia", label: "Economía" },
   { id: "deportes", label: "Deportes" },
   { id: "cultura", label: "Cultura" },
@@ -32,7 +33,13 @@ export const CATEGORIES = [
 export const CATEGORY_IDS = CATEGORIES.map((c) => c.id);
 
 // Máximo de acontecimientos de una misma categoría (para que la portada no sea solo deportes).
-export const MAX_PER_CATEGORY = 7;
+export const MAX_PER_CATEGORY = 12;
+
+// Mínimo que se intenta cubrir en cada sección: cultura o tecnología rara vez son las notas
+// más cubiertas, así que sin reserva quedarían vacías. Se aplica al elegir qué grupos se
+// redactan (SELECT_MIN) y al decidir qué entra en la edición (EDITION_MIN).
+export const SELECT_MIN_PER_CATEGORY = 5;
+export const EDITION_MIN_PER_CATEGORY = 4;
 
 export const AI_MODEL = env.PULSO_MODEL || "claude-haiku-5-5";
 export const AI_MODE = (env.PULSO_AI_MODE || "auto").toLowerCase(); // auto | off

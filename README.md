@@ -11,7 +11,7 @@ GitHub Actions (cron 05:07, 09:37, 13:07, 16:37 y 20:07 America/Asuncion)
         ├─ descarta notas sin fecha o fuera de las últimas 24 h
         ├─ agrupa notas que cubren el mismo hecho
         ├─ redacta título + resumen (40–70 palabras) + puntos clave  ← Claude (API de Anthropic)
-        ├─ fusiona con la edición del día (máx. 20 acontecimientos, sin duplicar)
+        ├─ fusiona con la edición del día (máx. 50 acontecimientos, mínimo por sección, sin duplicar)
         └─ escribe docs/data/*.json  →  commit al repositorio
 GitHub Pages sirve docs/  (web estática: portada, categorías, buscador, detalle, guardadas, medios, archivo, criterios)
    └─ dominio propio: elprocer.com.py (DNS en Bluehost apuntando a GitHub Pages)
@@ -35,9 +35,9 @@ Las variables de entorno y del repositorio conservan el prefijo `PULSO_` (`PULSO
 | Lectura de medios | ABC Color, La Nación, Última Hora, El Nacional, ADN Digital y HOY conectan y aportan notas del día. HOY congeló su RSS en diciembre de 2023: desde el 17/10/2026 se leen los enlaces con fecha de su portada y la cabecera pública de cada nota (tipo `portada`). 5Días no publica RSS pero sí un sitemap de noticias (`sitemap-latest.xml`), en uso desde el 17/10/2026. Agencia IP se mudó a mediosdelestado.gov.py (feed al día, pocas notas por semana). NPY, Telefuturo, Vanguardia y 5Días conectan bien pero publican poco o nada los fines de semana: esos días figuran como "sin notas recientes". |
 | Verificación de fecha | Toda nota necesita fecha; se descarta lo que supera 24 h. Un feed cuya nota más nueva supera 48 h se marca "devuelve notas viejas". |
 | Agrupación por hecho | TF-IDF + nombres propios/cifras + palabras raras compartidas + ventana de 36 h. En una corrida real: 256 notas → 210 grupos, 17 con más de un medio. |
-| Edición del día | Máximo 20 acontecimientos por día en total; la corrida de la tarde actualiza los de la mañana (suma fuentes, reescribe) y agrega novedades sin duplicar. Si hay menos de 20 verificables, publica menos y lo dice. |
+| Edición del día | Hasta 50 acontecimientos por día (máximo 12 por sección). Antes de ordenar por relevancia se reserva un mínimo de 4 por sección y, al elegir qué grupos se redactan, un mínimo de 5: así Cultura y Tecnología no quedan vacías. Una edición completa a la mañana y cuatro actualizaciones que suman novedades y reescriben lo que cambió. En la web, una sección con pocas novedades se completa con lo más reciente de los tres días anteriores, marcado con su fecha. |
 | Fallos | Si una corrida falla, `latest.json` conserva la última edición válida con su fecha real y el mensaje de error; la web lo muestra. Guardia contra corridas duplicadas (3 h por turno), reintentos limitados en descargas y en la IA, registro en `runs.json`. |
-| Web | Portada con tarjetas, 6 categorías, buscador (edición actual y archivo), detalle con resumen/puntos clave/fuentes (enlaces discretos a cada nota original), guardadas, estado de última actualización, archivo de ediciones. La página de medios con el estado real de cada conexión existe pero no aparece en ningún menú: uso interno, solo por URL directa `elprocer.com.py/#/medios` (no es privada: cualquiera con el enlace la ve). Desde el 18/10/2026 no se declara la IA en cada noticia, solo en Criterios y en el pie. Claro/oscuro automático, pensada para celular. |
+| Web | Portada con tarjetas, 7 secciones (País y Política solo Paraguay; Internacional; Economía, Deportes, Cultura y Tecnología mixtas), buscador (edición actual y archivo), detalle con resumen/puntos clave/fuentes (enlaces discretos a cada nota original), guardadas, estado de última actualización, archivo de ediciones. La página de medios con el estado real de cada conexión existe pero no aparece en ningún menú: uso interno, solo por URL directa `elprocer.com.py/#/medios` (no es privada: cualquiera con el enlace la ve). Desde el 18/10/2026 no se declara la IA en cada noticia, solo en Criterios y en el pie. Claro/oscuro automático, pensada para celular. |
 | Corrida real local | Ejecutada en modo extractivo (sin clave): 20 acontecimientos publicados en `docs/data/editions/2026-10-11.json`. |
 
 ## Qué necesita una credencial o configuración tuya
@@ -139,6 +139,14 @@ Debajo de la fecha de edición hay una franja fina con la cotización de referen
 
 - **Cotizaciones**: `scripts/mercado.mjs` lee las páginas públicas del BCP (su robots.txt no restringe) y escribe `docs/data/mercado.json`. El workflow `mercado.yml` lo corre cada dos horas en días hábiles (08:23 a 18:23, hora de Asunción), sin IA ni claves, y solo commitea si cambió algo. Se descartó la API de una casa de cambios porque su robots.txt la prohíbe. Las cotizaciones de ventanilla (bancos, casas de cambio) difieren de la referencia del BCP; mostrar la de un banco requiere un acuerdo con ese banco.
 - **Clima**: el navegador consulta Open-Meteo (gratis, sin clave) y guarda la respuesta 15 minutos.
+
+## Fotos
+
+Cada foto se verifica antes de publicarse pidiéndola como lo hace un navegador (`probeImage` en `src/fetch.mjs`). Se guarda la dirección final tras las redirecciones: algunas direcciones viejas de ABC y La Nación (`www.medio/resizer/...=/cloudfront...`) redirigen a su CDN y a veces cortan la conexión a los navegadores. En los CDN de Arc se pide un ancho de 1200 px. Si la foto de una nota no carga, se prueba la de otra nota del mismo hecho.
+
+## Compartir e ícono
+
+`docs/og-image.png` (1200×630) es la vista previa al compartir en WhatsApp y redes; `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` y `site.webmanifest` dan el ícono EP al agregar el sitio a la pantalla de inicio. Como la web es una sola página, la vista previa es la misma para cualquier enlace.
 
 ## Reglas editoriales que aplica el sistema
 
