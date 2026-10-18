@@ -460,7 +460,6 @@
       const [ico, desc] = wmo(clima.current.weather_code, clima.current.is_day);
       parts.push(`<span class="tk" title="${esc(desc)}">${ico} <b>${Math.round(clima.current.temperature_2m)}°</b> Asunción</span>`);
     }
-    parts.push(`<span class="tk tk--more">Ver más →</span>`);
     btn.innerHTML = parts.join("");
     btn.hidden = false;
 

@@ -96,7 +96,6 @@ img { display: block; max-width: 100%; }
 .ticker .tk { white-space: nowrap; }
 .ticker .tk b { font-weight: 700; color: var(--text); }
 .ticker .tk--label { font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; color: var(--ink); font-size: 11px; }
-.ticker .tk--more { margin-left: auto; color: var(--link); font-weight: 700; }
 @media (max-width: 600px) { .ticker .tk--sec { display: none; } }
 
 .datos { width: min(560px, calc(100% - 32px)); max-height: calc(100% - 32px); padding: 0; border: 1px solid var(--line); background: var(--bg); color: var(--text); }
