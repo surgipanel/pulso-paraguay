@@ -5,7 +5,7 @@
 ## Arquitectura (y por qué)
 
 ```
-GitHub Actions (cron 05:07 y 17:07 America/Asuncion)
+GitHub Actions (cron 05:07, 09:37, 13:07, 16:37 y 20:07 America/Asuncion)
    └─ node scripts/update.mjs
         ├─ lee RSS / Atom / sitemap de noticias de cada medio
         ├─ descarta notas sin fecha o fuera de las últimas 24 h
@@ -60,7 +60,7 @@ Requisitos: cuenta de GitHub, `git` instalado.
 5. (Opcional) Variables en Settings → Secrets and variables → Actions → **Variables**: `PULSO_MODEL` (por defecto `claude-opus-5-5`; alternativa barata `claude-haiku-4-5`), `PULSO_AI_MODE` (`auto` u `off`), `PULSO_MAX_EVENTS` (20).
 6. **Permisos del bot**: Settings → Actions → General → Workflow permissions → "Read and write permissions" → Save (el workflow necesita hacer commit de `docs/data`).
 7. **Primera corrida manual**: pestaña Actions → "Actualizar edición" → Run workflow. Esperá que termine en verde y abrí la web: el estado arriba debe decir "Resúmenes con IA (claude-…)".
-8. A partir de ahí el cron corre solo a las 05:07 y 17:07 (hora de Asunción). Se eligió :07 porque GitHub demora más los horarios "en punto". GitHub advierte que un cron puede atrasarse varios minutos (a veces más) en horas de mucha carga; no es un fallo del sistema.
+8. A partir de ahí el cron corre solo a las 05:07, 09:37, 13:07, 16:37 y 20:07 (hora de Asunción). Se eligió :07 porque GitHub demora más los horarios "en punto". GitHub advierte que un cron puede atrasarse varios minutos (a veces más) en horas de mucha carga; no es un fallo del sistema.
 
 ### Probar la corrida con IA antes de confiar en el cron
 

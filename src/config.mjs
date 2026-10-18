@@ -3,7 +3,7 @@ import { env } from "node:process";
 
 export const TIMEZONE = "America/Asuncion";
 
-export const MAX_EVENTS_PER_DAY = clampInt(env.PULSO_MAX_EVENTS, 1, 50, 20);
+export const MAX_EVENTS_PER_DAY = clampInt(env.PULSO_MAX_EVENTS, 1, 50, 50);
 
 // Ventana de recencia: un artículo entra a la edición del día si fue publicado
 // dentro de estas horas antes de la corrida. 05:00 del día D cubre la tarde/noche de D-1.
@@ -14,7 +14,7 @@ export const WINDOW_HOURS = 24;
 export const STALE_HOURS = 48;
 
 // Cuántos grupos candidatos (ordenados por relevancia) se mandan a la IA en cada corrida.
-export const MAX_CLUSTERS_TO_AI = 36;
+export const MAX_CLUSTERS_TO_AI = 60;
 export const CLUSTERS_PER_AI_CALL = 6;
 
 // Resumen: límites en palabras.
@@ -34,7 +34,7 @@ export const CATEGORY_IDS = CATEGORIES.map((c) => c.id);
 // Máximo de acontecimientos de una misma categoría (para que la portada no sea solo deportes).
 export const MAX_PER_CATEGORY = 7;
 
-export const AI_MODEL = env.PULSO_MODEL || "claude-opus-5-5";
+export const AI_MODEL = env.PULSO_MODEL || "claude-haiku-5-5";
 export const AI_MODE = (env.PULSO_AI_MODE || "auto").toLowerCase(); // auto | off
 
 export const USER_AGENT =

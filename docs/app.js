@@ -349,7 +349,7 @@
         <h2>Fotografías</h2>
         <p>Las imágenes se muestran desde el sitio de cada medio y les pertenecen; en cada acontecimiento figura el crédito y el enlace a la nota de origen. El Prócer no crea ni altera imágenes.</p>
         <h2>Ritmo</h2>
-        <p>Dos ediciones por día, a la mañana y a la tarde (hora de Asunción). La edición de la tarde actualiza los acontecimientos de la mañana y agrega novedades sin duplicar. Si en un día hay menos de ${l?.maxEvents ?? 20} acontecimientos verificables, se publican menos y se dice.</p>
+        <p>Una edición completa a la mañana y cuatro actualizaciones durante el día (hora de Asunción). Cada actualización suma las novedades y reescribe los acontecimientos que cambiaron, sin duplicar. Si en un día hay menos de ${l?.maxEvents ?? 20} acontecimientos verificables, se publican menos y se dice.</p>
         <h2>Independencia</h2>
         <p>El Prócer no representa a ningún organismo del Estado ni a ningún partido. El nombre remite a la idea de independencia; la identidad evita símbolos oficiales y referencias partidarias.</p>
       </div>`;

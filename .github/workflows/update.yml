@@ -4,9 +4,17 @@ on:
   schedule:
     # Horarios en hora de Asunción (GitHub admite "timezone" por entrada de cron).
     # Minuto 7 en vez de 0: los horarios "en punto" son los más demorados por carga de la plataforma.
+    # Una edición completa a la mañana y cuatro actualizaciones. Separadas más de 3 h
+    # (la guardia de corridas duplicadas no deja pasar dos del mismo turno más cerca).
     - cron: "7 5 * * *"
       timezone: "America/Asuncion"
-    - cron: "7 17 * * *"
+    - cron: "37 9 * * *"
+      timezone: "America/Asuncion"
+    - cron: "7 13 * * *"
+      timezone: "America/Asuncion"
+    - cron: "37 16 * * *"
+      timezone: "America/Asuncion"
+    - cron: "7 20 * * *"
       timezone: "America/Asuncion"
   workflow_dispatch:
     inputs:
