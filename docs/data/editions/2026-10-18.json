@@ -1,26 +1,109 @@
 {
   "date": "2026-10-18",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-18T12:34:37.532Z",
+  "generatedAt": "2026-10-18T18:09:39.867Z",
   "aiMode": "mixto",
   "model": null,
-  "maxEvents": 20,
+  "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0ignndj",
-      "title": "Domingo con mañana fresca, tarde cálida y baja probabilidad de lluvias",
-      "summary": "La Dirección de Meteorología e Hidrología pronosticó para este domingo un inicio fresco que se tornará cálido por la tarde, con máximas de entre 23 y 28 °C en ambas regiones del país. Se espera cielo parcialmente nublado, vientos del sur y escasas chances de precipitaciones, que según HOY podrían aumentar desde el martes en el norte.",
+      "id": "ev-0evwadi",
+      "title": "Asoban pide transparencia y criterios iguales tras respuestas del BCP",
+      "summary": "La Asociación de Bancos del Paraguay (Asoban) considera que las respuestas del Banco Central a los pedidos de informes del Senado no aclararon las dudas sobre la supervisión bancaria. El gremio reclama información más precisa sobre la solvencia de las entidades y criterios iguales para todos los bancos. En un comunicado, Asoban rechazó que el debate sea una guerra comercial. El tema toca la confianza en el sistema financiero del país.",
       "keyPoints": [
-        "Las máximas oscilarían entre 23 y 28 °C en las regiones Oriental y Occidental.",
-        "El cielo estaría parcialmente nublado con vientos predominantes del sur.",
-        "Los amaneceres frescos y tardes cálidas persistirían el lunes y martes, según ABC Color.",
-        "Las lluvias podrían aumentar desde el martes en el norte, de acuerdo con HOY."
+        "Asoban emitió un comunicado tras las respuestas del BCP.",
+        "Las respuestas fueron a pedidos de informes del Senado.",
+        "Asoban sostiene que las dudas sobre la supervisión bancaria siguen sin resolverse.",
+        "El gremio pide igualdad ante la ley y transparencia."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Banqueros se rebelan contra el Central",
+          "url": "https://elnacional.com.py/economia/banqueros-rebelan-central-n113809",
+          "publishedAt": "2026-10-18T17:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/03/6980ef0e1f9fecb67730744769bf354e.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Asoban reclama mayor claridad al BCP sobre la supervisión del sistema financiero",
+          "url": "https://www.adndigital.com.py/asoban-reclama-mayor-claridad-al-bcp-sobre-la-supervision-del-sistema-financiero",
+          "publishedAt": "2026-10-18T14:50:39.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-114323.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "ASOBAN cuestiona respuestas del BCP y exige las mismas reglas para todos los bancos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/18/asoban-cuestiona-respuestas-del-bcp-y-exige-las-mismas-reglas-para-todos-los-bancos",
+          "publishedAt": "2026-10-18T11:35:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MUKAT4X33NHVFLDOLUIDH4EHVU.jpg?auth=1d7677ae9d635cbcaddf04ba61e002ef18d21074e1ab4049e1d58d909efe6e71&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Bancos critican respuesta \"incompleta\" del BCP al Senado y descartan guerra comercial",
+          "url": "https://www.ultimahora.com/bancos-critican-respuesta-incompleta-del-bcp-al-senado-y-descartan-guerra-comercial",
+          "publishedAt": "2026-10-18T11:32:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Asoban pide transparencia y criterios iguales para todos los bancos",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/18/asoban-pide-transparencia-y-criterios-iguales-para-todos-los-bancos",
+          "publishedAt": "2026-10-18T11:04:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-DrEnmlasqcmcqBUXts4zXenQFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KET7RQMS6NCP5PCFGQSKGJSZVA.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Es igualdad ante la ley y transparencia, no guerra comercial",
+          "url": "https://5dias.com.py/article/es-igualdad-ante-la-ley-y-transparencia-no-guerra-comercial",
+          "publishedAt": "2026-10-18T09:21:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/canva_web_55_20261018_094107.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/03/6980ef0e1f9fecb67730744769bf354e.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/banqueros-rebelan-central-n113809"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 23.94
+    },
+    {
+      "id": "ev-0ignndj",
+      "title": "Domingo fresco y sin lluvias, con cambio previsto desde el martes",
+      "summary": "La Dirección de Meteorología e Hidrología prevé un domingo fresco por la mañana y cálido por la tarde, con máximas de 23 a 28 grados. La probabilidad de lluvias será baja hasta el lunes. Desde el martes aumentaría la posibilidad de lluvias, sobre todo en el norte del país.",
+      "keyPoints": [
+        "Las máximas irán de 23 a 28 grados este domingo.",
+        "La probabilidad de lluvias será baja el domingo y el lunes.",
+        "Desde el martes aumentaría la posibilidad de lluvias.",
+        "Las lluvias afectarían principalmente al norte del país."
       ],
       "category": "pais",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Dónde y desde cuándo se esperan lluvias en Paraguay? Esto dice la DMH",
+          "url": "https://www.abc.com.py/clima/2026/10/18/donde-y-desde-cuando-se-esperan-lluvias-en-paraguay-esto-dice-la-dmh",
+          "publishedAt": "2026-10-18T14:59:03.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -79,31 +162,39 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KIRKT4OIYBGJBL3L7ZVANJPO3Y.jpg?auth=c02f6c7013d5535ddd0edcb901460f7769743a6e924d7e74d7090d53c4fcfb12&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/18/anuncian-un-domingo-fresco-y-sin-probabilidades-de-lluvias"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YD4JBU4GEBAI5NEUJ3E2HYTPSA.jpeg?auth=14fc6703df13fe8cfdd9d6c41a35eca5a8c777839b68c2268584cb88b429c1d6&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/10/18/asi-estara-el-tiempo-este-domingo-preven-maximas-de-hasta-28-c"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 23.88
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 23.74
     },
     {
       "id": "ev-04w5hom",
-      "title": "Juan Carlos Baruja descarta integrar una fórmula presidencial para 2028",
-      "summary": "El ministro de Urbanismo, Vivienda y Hábitat, Juan Carlos Baruja, comunicó que no integrará ninguna dupla presidencial para las elecciones generales de 2028, ni como candidato a presidente ni a vicepresidente. El dirigente de Honor Colorado calificó la decisión como la más difícil de su carrera, ratificó su lealtad a Horacio Cartes y apeló a preservar la cohesión de su movimiento.",
+      "title": "Baruja descarta integrar cualquier dupla presidencial colorada para 2028",
+      "summary": "El ministro de Urbanismo, Vivienda y Hábitat, Juan Carlos Baruja, anunció que no integrará ninguna dupla presidencial para las elecciones de 2028. Según su comunicado, no quiere que su nombre divida al movimiento Honor Colorado. La decisión llega tras semanas de fricciones internas en la ANR. Baruja dijo que la decisión fue difícil y reafirmó su lealtad a Horacio Cartes.",
       "keyPoints": [
-        "Baruja anunció su decisión mediante un comunicado difundido en redes sociales.",
-        "Había sido mencionado como posible candidato a vicepresidente y luego a presidente por el cartismo.",
-        "Según El Nacional, el paso al costado ocurre tras semanas de fricciones internas en Honor Colorado.",
-        "Ratificó su lealtad a Horacio Cartes, según HOY."
+        "Baruja anunció la decisión mediante un comunicado.",
+        "No aceptará ser candidato a presidente ni vicepresidente en 2028.",
+        "Argumentó que busca evitar divisiones en Honor Colorado.",
+        "Ratificó su lealtad a Horacio Cartes."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Baruja anuncia que no integrará ninguna dupla presidencial para el 2028",
+          "url": "https://www.adndigital.com.py/baruja-anuncia-que-no-integrara-ninguna-dupla-presidencial-para-el-2028",
+          "publishedAt": "2026-10-18T14:11:28.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-111018.jpeg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -146,80 +237,47 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/4GBUP5OCCJHQRCRDY6G5UVBGNE.jpg?auth=17d1f4fb2ac84304ae4da1ddbd7569d3969704ac2415e5e6c8685a19145af35e&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/baruja-se-baja-de-la-carrera-presidencial-y-descarta-integrar-una-dupla-para-2028"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-111018.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/baruja-anuncia-que-no-integrara-ninguna-dupla-presidencial-para-el-2028"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 20.91
-    },
-    {
-      "id": "ev-0evwadi",
-      "title": "Asoban critica respuestas del Banco Central al Senado sobre supervisión bancaria",
-      "summary": "La Asociación de Bancos del Paraguay emitió un comunicado en el que sostiene que las respuestas del Banco Central del Paraguay a los pedidos de informes del Senado no despejaron las dudas sobre la supervisión bancaria. El gremio reclamó transparencia, igualdad de criterios para todas las entidades y medidas correctivas oportunas, y según Última Hora descartó una guerra comercial.",
-      "keyPoints": [
-        "Asoban considera que las respuestas del BCP al Senado no despejaron inquietudes.",
-        "El gremio pidió transparencia y los mismos criterios para todos los bancos.",
-        "Según Última Hora, Asoban calificó la respuesta de incompleta y descartó una guerra comercial."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "ASOBAN cuestiona respuestas del BCP y exige las mismas reglas para todos los bancos",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/18/asoban-cuestiona-respuestas-del-bcp-y-exige-las-mismas-reglas-para-todos-los-bancos",
-          "publishedAt": "2026-10-18T11:35:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MUKAT4X33NHVFLDOLUIDH4EHVU.jpg?auth=1d7677ae9d635cbcaddf04ba61e002ef18d21074e1ab4049e1d58d909efe6e71&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Bancos critican respuesta \"incompleta\" del BCP al Senado y descartan guerra comercial",
-          "url": "https://www.ultimahora.com/bancos-critican-respuesta-incompleta-del-bcp-al-senado-y-descartan-guerra-comercial",
-          "publishedAt": "2026-10-18T11:32:42.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Asoban pide transparencia y criterios iguales para todos los bancos",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/18/asoban-pide-transparencia-y-criterios-iguales-para-todos-los-bancos",
-          "publishedAt": "2026-10-18T11:04:16.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-DrEnmlasqcmcqBUXts4zXenQFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KET7RQMS6NCP5PCFGQSKGJSZVA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/MUKAT4X33NHVFLDOLUIDH4EHVU.jpg?auth=1d7677ae9d635cbcaddf04ba61e002ef18d21074e1ab4049e1d58d909efe6e71&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/18/asoban-cuestiona-respuestas-del-bcp-y-exige-las-mismas-reglas-para-todos-los-bancos"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 13.92
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 23.67
     },
     {
       "id": "ev-1yg0ra8",
-      "title": "El PLRA recuerda 135 años de la gesta de 1891 con la vista en 2028",
-      "summary": "El Partido Liberal Radical Auténtico, presidido por Alcides Riveros, conmemora este domingo los 135 años de la revolución del 18 de octubre de 1891 con un acto en el Cementerio de la Recoleta. Luego, la conducción iniciará reuniones con intendentes, legisladores y dirigentes con miras a 2028, tras unas municipales en las que, según ABC Color, perdió varias intendencias.",
+      "title": "Liberales conmemoran 135 años de la gesta del 18 de Octubre de 1891",
+      "summary": "El Partido Liberal Radical Auténtico recordó el levantamiento de 1891 contra el gobierno de Juan Gualberto González. Hubo una ofrenda floral en el Panteón 18 de Octubre, en el Cementerio de la Recoleta. El acto también tuvo reivindicaciones de género y una campaña de afiliación masiva. El partido abrió una ronda de diálogo rumbo al 2028.",
       "keyPoints": [
-        "El acto central está previsto a las 09:30 en el Cementerio de la Recoleta.",
-        "La dirigencia abrirá una ronda de diálogo con sectores del partido pensando en 2028.",
-        "Según ABC Color, el PLRA administrará 61 de las 263 intendencias."
+        "La ofrenda floral se hizo en el Panteón 18 de Octubre.",
+        "La gesta de 1891 cumple 135 años.",
+        "El acto incluyó un llamado a la paridad.",
+        "El PLRA abrió una ronda de diálogo rumbo al 2028."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Con su polca partidaria, el PLRA conmemora la gesta revolucionaria del 18 de Octubre",
+          "url": "https://elnacional.com.py/politica/con-su-polca-partidaria-plra-conmemora-gesta-revolucionaria-18-octubre-n113805",
+          "publishedAt": "2026-10-18T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2022/10/2ff7a989f3eb8f2649a437e873b28080.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Liberales recuerdan la gesta revolucionaria de 1891 con un llamado a la paridad",
+          "url": "https://www.ultimahora.com/liberales-recuerdan-la-gesta-revolucionaria-de-1981-con-un-llamado-a-la-paridad",
+          "publishedAt": "2026-10-18T15:22:34.000Z",
+          "image": null
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -227,6 +285,14 @@
           "url": "https://www.adndigital.com.py/el-plra-hoy-conmemora-los-135-anos-del-18-de-octubre-y-mira-al-2028",
           "publishedAt": "2026-10-18T11:28:05.000Z",
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-082540.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "18 de octubre: un nuevo aniversario de la gesta que marcó la historia de los liberales en paraguay",
+          "url": "https://elnacional.com.py/politica/18-octubre-nuevo-aniversario-gesta-marco-historia-liberales-paraguay-n113766",
+          "publishedAt": "2026-10-18T10:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69eb0db0f3bcb.webp"
         },
         {
           "sourceId": "abc",
@@ -246,15 +312,133 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-082540.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/el-plra-hoy-conmemora-los-135-anos-del-18-de-octubre-y-mira-al-2028"
+        "url": "https://statics.elnacional.com.py/2022/10/2ff7a989f3eb8f2649a437e873b28080.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/con-su-polca-partidaria-plra-conmemora-gesta-revolucionaria-18-octubre-n113805"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 13.91
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 20.9
+    },
+    {
+      "id": "ev-12sixmg",
+      "title": "Lula y Flávio Bolsonaro se enfrentan en su primer debate antes del balotaje",
+      "summary": "Lula da Silva y Flávio Bolsonaro se enfrentan este domingo en el primer debate electoral de la campaña en Brasil, a una semana de la segunda vuelta. El debate se transmite por la cadena Band. Antes, ambos realizaron actos masivos en la avenida Paulista. Flávio Bolsonaro ganó la primera vuelta con 47% frente al 45% de Lula, según El Nacional. Las encuestas daban ventaja al mandatario, aunque medios señalan que ahora Lula gana terreno.",
+      "keyPoints": [
+        "El debate se realiza este domingo a las 20:00 hora local en la cadena Band.",
+        "Flávio Bolsonaro obtuvo 47% en la primera vuelta del 4 de octubre, frente a 45% de Lula.",
+        "Ambos candidatos hicieron marchas en la avenida Paulista antes del debate.",
+        "Flávio Bolsonaro dijo que va a cuestionar los delitos atribuidos a Lula, sin detallar acusaciones."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Bolsonaro promete en un mitin \"refregarle\" a Lula sus posibles delitos en debate electoral",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/bolsonaro-promete-en-un-mitin-refregarle-a-lula-sus-posibles-delitos-en-debate-electoral",
+          "publishedAt": "2026-10-18T18:05:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lula y Bolsonaro se enfrentan en su primer debate a una semana del balotaje en Brasil",
+          "url": "https://elnacional.com.py/mundo/lula-bolsonaro-enfrentan-su-primer-debate-una-semana-balotaje-brasil-n113819",
+          "publishedAt": "2026-10-18T17:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6abe5e453728f.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio tiñe São Paulo de verde y amarillo con una marcha horas antes del debate con Lula",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/flavio-tine-sao-paulo-de-verde-y-amarillo-con-una-marcha-horas-antes-del-debate-con-lula",
+          "publishedAt": "2026-10-18T16:55:50.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lula gana terreno frente a Flávio Bolsonaro a una semana de las presidenciales en Brasil",
+          "url": "https://www.ultimahora.com/lula-gana-terreno-frente-a-flavio-bolsonaro-a-una-semana-de-las-presidenciales-en-brasil",
+          "publishedAt": "2026-10-18T14:39:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Lula da Silva y Flávio Bolsonaro se enfrentarán cara a cara en su primer debate a una semana del balotaje en Brasil",
+          "url": "https://www.adndigital.com.py/lula-da-silva-y-flavio-bolsonaro-se-enfrentaran-cara-a-cara-en-su-primer-debate-a-una-semana-del-balotaje-en-brasil",
+          "publishedAt": "2026-10-18T13:35:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-29-at-150047.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg?auth=af21fffb866efe059006e6c98a79ad3cc96cb597e29061d022f5aafd3f78d1f5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/18/bolsonaro-promete-en-un-mitin-refregarle-a-lula-sus-posibles-delitos-en-debate-electoral"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 15.49
+    },
+    {
+      "id": "ev-0l7gniu",
+      "title": "Fernando Lugo reaparece junto al intendente electo de Ciudad del Este",
+      "summary": "El expresidente Fernando Lugo reapareció este fin de semana junto a Dani Mujica, intendente electo de Ciudad del Este. Lugo estaba alejado del foco público desde agosto de 2022, tras un accidente cerebrovascular. Mujica asumirá la jefatura municipal el 3 de noviembre.",
+      "keyPoints": [
+        "Lugo estuvo alejado de la vida pública desde agosto de 2022.",
+        "Lugo sufrió un accidente cerebrovascular en 2022.",
+        "Daniel Pereira Mujica asumirá la Intendencia de Ciudad del Este el 3 de noviembre.",
+        "Mujica es del Partido Yo Creo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente Fernando Lugo aparece abrazado al intendente de Ciudad del Este, Dani Mujica, de cara al 2028",
+          "url": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028",
+          "publishedAt": "2026-10-18T15:39:33.000Z",
+          "image": "https://www.abc.com.py/resizer/APV9FzrAk85XM3nw1c21FWkHpp4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lugo reaparece y dialoga con intendente esteño",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/lugo-reaparece-y-dialoga-con-intendente-esteno",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fdEaNHgmBRAPxceKKl9AVJiGODA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GY57AL7ROVCTVAHZDOVHMHT7KQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lugo reaparece en la arena política: Daniel Mujica recibió al expresidente y hablaron de unidad",
+          "url": "https://elnacional.com.py/politica/lugo-reaparece-arena-politica-daniel-mujica-recibio-expresidente-hablaron-unidad-n113747",
+          "publishedAt": "2026-10-17T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad301a511bb1.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3L46ASR6WJENVMJVSDCJFZZQ6U.jpg?auth=07ecd76f5dec901fccd1cb94806866331677d121ed04aab89e17c53acac1ecb3&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/expresidente-fernando-lugo-aparece-abrazado-al-intendente-de-ciudad-del-este-dani-mujica-de-cara-al-2028"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 13.79
     },
     {
       "id": "ev-05yngoc",
@@ -304,7 +488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 13.83
+      "score": 13.36
     },
     {
       "id": "ev-1x8xm8k",
@@ -370,7 +554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 12.49
+      "score": 12.02
     },
     {
       "id": "ev-00jg9rq",
@@ -437,7 +621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 12.43
+      "score": 11.96
     },
     {
       "id": "ev-0dcqlbi",
@@ -495,7 +679,183 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 12.29
+      "score": 11.82
+    },
+    {
+      "id": "ev-0wzu5th",
+      "title": "Un sacerdote muere en Ecuador tras caerle una cruz durante una misa en vivo",
+      "summary": "Un sacerdote murió en Guayaquil, Ecuador, tras caerle encima una gran cruz durante una misa transmitida en directo por redes sociales. Según ABC Color, el sacerdote fue identificado como Patricio Sánchez Molinari. El arzobispo de Guayaquil, Luis Gerardo Cabrera, confirmó el fallecimiento mediante un comunicado.",
+      "keyPoints": [
+        "El hecho ocurrió en Guayaquil, la ciudad más poblada de Ecuador.",
+        "La cruz cayó durante una misa transmitida en vivo por redes sociales.",
+        "El arzobispo Luis Gerardo Cabrera confirmó la muerte en un comunicado."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ecuador: Sacerdote muere tras caerle una cruz durante misa transmitida en vivo",
+          "url": "https://www.ultimahora.com/ecuador-sacerdote-muere-tras-caerle-una-cruz-durante-misa-transmitida-en-vivo",
+          "publishedAt": "2026-10-18T16:01:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un sacerdote muere en Ecuador tras caerle una cruz en una misa transmitida en directo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/un-sacerdote-muere-en-ecuador-tras-caerle-una-cruz-en-una-misa-transmitida-en-directo",
+          "publishedAt": "2026-10-18T15:15:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Una cruz cayó sobre un sacerdote durante una misa y le causó la muerte",
+          "url": "https://elnacional.com.py/mundo/una-cruz-cayo-sobre-sacerdote-durante-una-misa-le-causo-muerte-n113800",
+          "publishedAt": "2026-10-18T13:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad4e003ac864.png"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg?auth=af21fffb866efe059006e6c98a79ad3cc96cb597e29061d022f5aafd3f78d1f5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/18/un-sacerdote-muere-en-ecuador-tras-caerle-una-cruz-en-una-misa-transmitida-en-directo"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 11.32
+    },
+    {
+      "id": "ev-0omish5",
+      "title": "Iglesia pide coherencia a las autoridades al despedir la Espada de San Miguel",
+      "summary": "El obispo auxiliar de Asunción, Gabriel Escobar Ayala, pidió en una homilía en la Catedral Metropolitana que no se justifique la corrupción en nombre de la fe. Señaló que la devoción a San Miguel Arcángel no es solo un rito. Pidió a las autoridades compromiso con la justicia, el desarrollo y la transparencia. La visita de la Espada concluye este domingo tras recorrer Caacupé, Villarrica y San Lorenzo.",
+      "keyPoints": [
+        "La homilía fue en la Catedral Metropolitana de Asunción.",
+        "El obispo Gabriel Escobar Ayala cuestionó a quienes usan el poder para enriquecerse.",
+        "La Espada de San Miguel concluye su peregrinación este domingo 18 de octubre.",
+        "El recorrido incluyó las diócesis de Caacupé, Villarrica y San Lorenzo."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“No se puede rezar a San Miguel y justificar la corrupción”, advierte la Iglesia al despedir la espada del arcángel",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel",
+          "publishedAt": "2026-10-18T17:08:58.000Z",
+          "image": "https://www.abc.com.py/resizer/cxXg8shRKxSgEOCnJJm7moX6O0k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Preparan las últimas celebraciones religiosas para despedir a la Espada de San Miguel Arcángel",
+          "url": "https://www.lanacion.com.py/pais/2026/10/17/preparan-las-ultimas-celebraciones-religiosas-para-despedir-a-la-espada-de-san-miguel-arcangel",
+          "publishedAt": "2026-10-17T18:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TwQKmIVXoO1s3t1jL16P-PqrEvo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CETUFVSMIFHUZDHXHSBLJIAZXM.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2Y2J3UQMGBBENAAMY2K45PENAQ.jpg?auth=e282d30df7c6f9234fc9b83cdff1819f77ab80cd0630a054f82a21cd419fc14f&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.92
+    },
+    {
+      "id": "ev-02pzn3w",
+      "title": "Nicanor Duarte Frutos valora la decisión de Baruja por la unidad colorada",
+      "summary": "El expresidente Nicanor Duarte Frutos destacó la decisión del ministro Juan Carlos Baruja de apartarse de la candidatura vicepresidencial de 2028. Según Duarte Frutos, el gesto abre una oportunidad para el diálogo dentro de la ANR. Sus declaraciones se dan en medio de la disputa interna por la fórmula colorada.",
+      "keyPoints": [
+        "Duarte Frutos valoró el desprendimiento político de Baruja.",
+        "Dijo que el gesto abre una oportunidad para la unidad en la ANR."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Duarte Frutos ve en la decisión de Baruja una oportunidad para la unidad colorada",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada",
+          "publishedAt": "2026-10-18T15:31:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pXWNxlsNvufYDk-EoAy3UK4bw6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABYDGNKASVGUZPIURGOCUCHBGU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nicanor sobre Baruja: \"Está obrando prudentemente\"",
+          "url": "https://elnacional.com.py/politica/nicanor-sobre-baruja-esta-obrando-prudentemente-n113798",
+          "publishedAt": "2026-10-18T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa42110d2704.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABYDGNKASVGUZPIURGOCUCHBGU.jpg?auth=0610e2046dba851ba1848a64e3e659889e0560fd0223a7a8afba42aa1c838dca&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.78
+    },
+    {
+      "id": "ev-1rpi9w3",
+      "title": "Estigarribia pide que el candidato opositor para 2028 surja en las urnas",
+      "summary": "El gobernador de Central Ricardo Estigarribia sostuvo que el candidato de la oposición para 2028 debe salir de la voluntad ciudadana y no de acuerdos entre dirigentes. Al ser consultado sobre Baruja, dijo que no quiere enfocarse en los problemas internos del Partido Colorado.",
+      "keyPoints": [
+        "Estigarribia pidió que el candidato surja de las urnas.",
+        "Dijo no tenerle miedo a ninguna contienda electoral.",
+        "No quiso opinar sobre los problemas internos colorados."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Estigarribia pide que la oposición elija en las urnas a su candidato para 2028",
+          "url": "https://www.adndigital.com.py/estigarribia-pide-que-la-oposicion-elija-en-las-urnas-a-su-candidato-para-2028",
+          "publishedAt": "2026-10-18T15:26:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Reacción de Estigarribia al rechazo de Baruja a chapa presidencial en ANR",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr",
+          "publishedAt": "2026-10-18T14:56:57.000Z",
+          "image": "https://www.abc.com.py/resizer/pj20m5mEWL5jw1GmfEdRmkx_usc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V54EHJWAN5GNTOTNFECA7ACAXU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/V54EHJWAN5GNTOTNFECA7ACAXU.jpg?auth=03eca65b0325437fbd7c221bc2da42445373a8b36fda682f3a144c929405e1a2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/reaccion-de-estigarribia-a-rechazo-de-baruja-a-chapa-presidencial-en-anr"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.77
     },
     {
       "id": "ev-1qsoz89",
@@ -545,7 +905,220 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 10.2
+      "score": 9.74
+    },
+    {
+      "id": "ev-0bb69df",
+      "title": "Cerrito bajo agua: casi 400 familias afectadas por la crecida del Paraná",
+      "summary": "La crecida del río Paraná dejó gran parte del casco urbano de Cerrito bajo agua. Según el registro municipal, hasta el sábado había 398 familias afectadas y 314 viviendas inundadas. La Municipalidad advierte que el nivel del río podría subir entre 20 y 30 centímetros más en 24 horas.",
+      "keyPoints": [
+        "398 familias afectadas según el registro municipal.",
+        "314 viviendas inundadas y 182 aisladas.",
+        "El río llegó a 6,70 metros en el puerto de Cerrito.",
+        "La Municipalidad prevé una nueva subida del río."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
+          "url": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana",
+          "publishedAt": "2026-10-18T14:36:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerrito bajo agua: 398 familias afectadas y crecen los reclamos por asistencia",
+          "url": "https://www.abc.com.py/clima/2026/10/18/cerrito-bajo-agua-398-familias-afectadas-y-crecen-los-reclamos-por-asistencia",
+          "publishedAt": "2026-10-18T13:28:17.000Z",
+          "image": "https://www.abc.com.py/resizer/ABGVPMbDKU_tXelQduouG5UzdUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NUUZ2JCL3NHQZBOC4TRNCUUNZ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.7
+    },
+    {
+      "id": "ev-0vx8bba",
+      "title": "Dionisio Amarilla pide al PLRA un proyecto más allá de los espacios de poder",
+      "summary": "El senador Dionisio Amarilla sostuvo que el PLRA debe recuperar su identidad y construir alianzas desde una posición propia. En una entrevista señaló que la oposición necesita una estrategia definida y un programa de gobierno. Dijo que esto servirá para recuperar la confianza ciudadana.",
+      "keyPoints": [
+        "Amarilla habló en una entrevista con Nación Media.",
+        "Propuso que el PLRA recupere su identidad antes de hacer alianzas.",
+        "Consideró necesario un programa de gobierno y propuestas concretas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Para ser opción, la oposición debe tener un proyecto que vaya más allá de peleas por espacios de poder, dicen",
+          "url": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen",
+          "publishedAt": "2026-10-18T14:25:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Dionisio Amarilla: “Necesitamos un proyecto político que vaya más allá de las disputas por espacios de poder”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/dionisio-amarilla-necesitamos-un-proyecto-politico-que-vaya-mas-alla-de-las-disputas-por-los-espacios-de-poder",
+          "publishedAt": "2026-10-18T11:50:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jiyuXfC6r4DUXp_mN4mtw819hdw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6BCPWE57LNFNFNMWB53E2RSESA.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-05-at-172629.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/para-ser-opcion-la-oposicion-debe-tener-un-proyecto-que-vaya-mas-alla-de-peleas-por-espacios-de-poder-dicen"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.69
+    },
+    {
+      "id": "ev-1u59tj1",
+      "title": "Riveros rechaza que el candidato liberal para 2028 se defina por imposición",
+      "summary": "El presidente del PLRA, Alcides Riveros, afirmó que la candidatura presidencial de 2028 no puede definirse a dedo. Respondió así a la propuesta del senador Salyn Buzarquis de ceder ese espacio a Miguel Prieto, de Yo Creo. Riveros pidió abrir el debate y llegar a un acuerdo para la chapa.",
+      "keyPoints": [
+        "Riveros rechazó una candidatura definida por imposición.",
+        "Respondió a una propuesta del senador Salyn Buzarquis.",
+        "La propuesta apunta a ceder el espacio a Miguel Prieto.",
+        "Riveros pidió abrir el debate y buscar un acuerdo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Riveros rechaza que la oposición elija a dedo al candidato presidencial para 2028",
+          "url": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028",
+          "publishedAt": "2026-10-18T14:17:53.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presidente del PLRA advierte sobre Prieto: “No se elegirá a dedo”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/17/presidente-del-plra-advierte-sobre-prieto-no-se-elegira-a-dedo",
+          "publishedAt": "2026-10-17T23:45:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UZ61Q-Xz1YeR4h0zGU0goEp2Wm0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5CBW7GLWXVDZFBNERTBBIHXMA4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.68
+    },
+    {
+      "id": "ev-1okj052",
+      "title": "Festival de la Raza abre su 43ª edición con gran concurrencia en Villarrica",
+      "summary": "El Festival de la Raza celebró la primera jornada de su 43ª edición en el Club Cerro Corá de Villarrica, Guairá. Según ABC Color, una multitud llegó desde distintos puntos del país para disfrutar de música, baile y expresiones artísticas. La programación incluyó artistas nacionales y exponentes de la escena local. El evento busca destacar el talento regional y es una de las principales celebraciones culturales del interior.",
+      "keyPoints": [
+        "La primera jornada se realizó este sábado en el Club Cerro Corá de Villarrica.",
+        "Se trata de la edición 43 del Festival de la Raza.",
+        "La Noche Gigante reunió artistas nacionales y de la escena local.",
+        "La cobertura destaca la gran concurrencia del público."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Festival de la Raza vivió una exitosa primera jornada y se alista para su cierre solidario",
+          "url": "https://www.ultimahora.com/festival-de-la-raza-vivio-una-exitosa-primera-jornada-y-se-alista-para-su-cierre-solidario",
+          "publishedAt": "2026-10-18T13:55:41.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica",
+          "publishedAt": "2026-10-18T12:15:14.000Z",
+          "image": "https://www.abc.com.py/resizer/lP1S7haeR3U3VcVk0tK7rdIQWzE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F7OJOYUWFRD3NC7VWG6JGNAXQQ.jpg?auth=e7c47606715dedfbb414067d26b38e3898dcd09ee156f4ee2e69c6676d4fc00d&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.65
+    },
+    {
+      "id": "ev-17y9iex",
+      "title": "World Skate Games ASU26 cierra con su última jornada en Asunción",
+      "summary": "Los World Skate Games ASU26 llegan hoy a su última jornada de competencias. Habrá finales, definiciones por medallas y ceremonias de premiación en el Comité Olímpico Paraguayo y en la Costanera de Asunción. Según La Nación, la jornada previa en la Costanera tuvo buena asistencia del público. El cierre del evento reúne a deportistas y espectadores en la capital.",
+      "keyPoints": [
+        "La última jornada incluye finales y definiciones por medallas.",
+        "Las premiaciones se harán en el COP y en la Costanera de Asunción.",
+        "La Costanera registró fuerte acompañamiento del público según La Nación."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Hoy se realiza la última roleada en los World Skate Games ASU 26",
+          "url": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26",
+          "publishedAt": "2026-10-18T13:24:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fin con éxito del World Skate Games ASU26",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/18/fin-con-exito-del-world-skate-games-asu26",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BYg_sbNl0OuApFYsru0fSONQB2Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YNXNNAFDIND6NBCUHU32I44GAI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-093732.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/hoy-se-realiza-la-ultima-roleada-en-los-world-skate-games-asu-26"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 9.6
     },
     {
       "id": "ev-1ndfhdl",
@@ -587,7 +1160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.98
+      "score": 9.51
     },
     {
       "id": "ev-1yzw2z2",
@@ -629,7 +1202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.96
+      "score": 9.49
     },
     {
       "id": "ev-1tkivhp",
@@ -672,49 +1245,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.49
     },
     {
-      "id": "ev-0l7gniu",
-      "title": "Fernando Lugo reaparece en reunión con el intendente electo de Ciudad del Este",
-      "summary": "El expresidente y líder del Frente Guasu, Fernando Lugo, alejado de la actividad pública desde agosto de 2022, se reunió con Daniel Mujica, intendente electo de Ciudad del Este. Según El Nacional, conversaron sobre los desafíos de la capital de Alto Paraná y sobre la construcción de una amplia unidad de cara a las elecciones generales de 2028.",
+      "id": "ev-0mgphx2",
+      "title": "Subsecretario Landau llega a Paraguay para visita oficial de tres días",
+      "summary": "El subsecretario de Estado de Estados Unidos, Christopher Landau, llega a Asunción para una visita oficial de tres días. Viene al frente de una delegación de empresarios norteamericanos. La agenda busca fortalecer las relaciones bilaterales, las inversiones y el comercio. Landau aseguró que la visita es muy importante para él.",
       "keyPoints": [
-        "Lugo estaba alejado de las actividades desde agosto de 2022.",
-        "Se reunió con Daniel Mujica, intendente electo de Ciudad del Este.",
-        "Hablaron de unidad política con miras a las elecciones de 2028."
+        "La visita oficial dura tres días.",
+        "Landau encabeza una delegación de empresarios estadounidenses.",
+        "El objetivo es fortalecer relaciones, inversiones y comercio.",
+        "Landau respondió a críticas sobre el carácter de la visita."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Lugo reaparece y dialoga con intendente esteño",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/lugo-reaparece-y-dialoga-con-intendente-esteno",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fdEaNHgmBRAPxceKKl9AVJiGODA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GY57AL7ROVCTVAHZDOVHMHT7KQ.jpg"
+          "title": "Visita de Landau apunta a profundizar vínculos estratégicos entre Paraguay y EE. UU.",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/visita-de-landau-apunta-a-profundizar-vinculos-estrategicos-entre-paraguay-y-ee-uu",
+          "publishedAt": "2026-10-18T16:22:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MJGuctDYC8cFNPqMHl_c7RbRyGU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QCW4DJQFZRAPHPFESDN33NXYOU.jpg"
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Lugo reaparece en la arena política: Daniel Mujica recibió al expresidente y hablaron de unidad",
-          "url": "https://elnacional.com.py/politica/lugo-reaparece-arena-politica-daniel-mujica-recibio-expresidente-hablaron-unidad-n113747",
-          "publishedAt": "2026-10-17T21:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad301a511bb1.jpeg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Para Landau, visita a Paraguay es de alta prioridad y emotiva",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/para-landau-visita-a-paraguay-es-de-alta-prioridad-y-emotiva",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/J9o3hZ8enyP9dW5pZ8OxP4MSiXk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O5KM7Y7YBZEULOF443QUKWCD4E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Con visita de Landau, EE. UU. prioriza sintonía con Paraguay",
+          "url": "https://www.lanacion.com.py/editorial/2026/10/18/con-visita-de-landau-ee-uu-prioriza-sintonia-con-paraguay",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Subsecretario estadounidense traerá propuestas de inversiones y cooperación",
+          "url": "https://www.lanacion.com.py/politica/2026/10/17/subsecretario-estadounidense-traera-propuestas-de-inversiones-y-cooperacion",
+          "publishedAt": "2026-10-17T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8oQ_zZJb97Tw46J2vV9OE1BfJOw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JHDLJC4PZJDS7HCOEJ6O3PVNOY.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Landau responde a desacertado comentario de periodista: “No es de ninguna manera una breve escala”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/17/landau-responde-a-desacertado-comentario-de-periodista-no-es-de-ninguna-manera-una-breve-escala",
+          "publishedAt": "2026-10-17T19:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MJGuctDYC8cFNPqMHl_c7RbRyGU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QCW4DJQFZRAPHPFESDN33NXYOU.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GY57AL7ROVCTVAHZDOVHMHT7KQ.jpg?auth=72319ccc6f7ca3386574e8d3cc7a4d356e5ae0fc1b615d438723c109d1975a9e&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QCW4DJQFZRAPHPFESDN33NXYOU.jpg?auth=e861a817e9fd688d039e4c33fb04eff5557ad97a26315f43ed39b8c082d7ffcc&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/lugo-reaparece-y-dialoga-con-intendente-esteno"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/visita-de-landau-apunta-a-profundizar-vinculos-estrategicos-entre-paraguay-y-ee-uu"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 9.2
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 8.85
     },
     {
       "id": "ev-0lfbhi1",
@@ -757,58 +1355,432 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 8.66
+      "score": 8.19
     },
     {
-      "id": "ev-0mgphx2",
-      "title": "Subsecretario estadounidense Christopher Landau inicia visita de tres días a Paraguay",
-      "summary": "El subsecretario de Estado de Estados Unidos, Christopher Landau, llega a Paraguay para cumplir una agenda de tres días. Landau calificó la visita como de alta prioridad y emotiva, y respondió a un comentario periodístico afirmando que no se trata de una breve escala. Según La Nación, el viaje refleja la importancia que Washington atribuye a su relación con el país.",
+      "id": "ev-10zhssa",
+      "title": "Messi marca doblete ante Atlanta United con Almirón y Alonso en cancha",
+      "summary": "Lionel Messi anotó dos goles en la victoria 3-1 del Inter Miami sobre Atlanta United en la MLS. Con el doblete llegó a 25 goles en la liga. Según ABC Color, el paraguayo Miguel Almirón y Junior Alonso también estuvieron en el partido, dirigido por Gerardo Martino. Messi celebró su segundo tanto junto a Rodrigo De Paul.",
       "keyPoints": [
-        "Landau es subsecretario de Estado de Estados Unidos.",
-        "Su agenda en Paraguay se extenderá por tres días.",
-        "Afirmó que su visita no es una breve escala.",
-        "Describió el viaje como de alta prioridad y emotivo."
+        "Messi marcó dos goles en la victoria 3-1 ante Atlanta United.",
+        "Llegó a 25 goles en la Major League Soccer.",
+        "Miguel Almirón y Junior Alonso formaron parte del partido.",
+        "Germán Berterame abrió el marcador antes del descanso."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lionel Messi se tomó revancha ante Junior Alonso: \"Todavía estás girando\"",
+          "url": "https://elnacional.com.py/deportes/lionel-messi-tomo-revancha-junior-alonso-todavia-estas-girando-n113790",
+          "publishedAt": "2026-10-18T10:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad433232bffb.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Messi deslumbra ante los paraguayos Miguel Almirón y Junior Alonso",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/18/messi-deslumbra-griezmann-arrasa-y-martin-ojeda-firma-el-gol-de-la-jornada",
+          "publishedAt": "2026-10-18T04:15:07.000Z",
+          "image": "https://www.abc.com.py/resizer/nh8C1LWPngzRjoPkeCyuBYbqjtg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6R3K2UTODBEX3OGZQOPXV4OOKU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad433232bffb.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/deportes/lionel-messi-tomo-revancha-junior-alonso-todavia-estas-girando-n113790"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 6.88
+    },
+    {
+      "id": "ev-0kweh26",
+      "title": "Alliana y Cartes se disputan la fórmula presidencial colorada para 2028",
+      "summary": "Dentro de Honor Colorado crece la disputa por la fórmula presidencial. El diputado Alejandro Aguilera afirmó que su sector mantendrá el respaldo al vicepresidente Pedro Alliana, pese a que Horacio Cartes se inclinó por Baruja. La diputada Rocío Abed sostuvo que la decisión sobre la dupla le corresponde a Alliana.",
+      "keyPoints": [
+        "Aguilera afirmó que mantendrán el respaldo a Alliana.",
+        "Cartes se inclinó por Juan Carlos Baruja para la candidatura.",
+        "Abed sostuvo que la dupla debe definirla Alliana."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Aguilera: \"Tenemos la palabra empeñada con Alliana\"",
+          "url": "https://elnacional.com.py/politica/aguilera-tenemos-palabra-empenada-alliana-n113783",
+          "publishedAt": "2026-10-18T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad2e7e0f2bc0.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Rocío Abed sobre la dupla de Alliana: \"Estoy convencida de que esa decisión le corresponde a él\"",
+          "url": "https://elnacional.com.py/politica/rocio-abed-sobre-dupla-alliana-estoy-convencida-esa-decision-le-corresponde-el-n113778",
+          "publishedAt": "2026-10-18T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2023/07/398f509bdd89cd1f0a9df189d4bce594.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad2e7e0f2bc0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/aguilera-tenemos-palabra-empenada-alliana-n113783"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 6.71
+    },
+    {
+      "id": "ev-11ioi72",
+      "title": "El río Paraná roza los 6,50 metros y deja más de 3.000 damnificados en Ayolas",
+      "summary": "El río Paraná alcanzó los 6,46 metros en Ayolas, Misiones, y sigue avanzando sobre zonas bajas de la ciudad. Las autoridades reportan más de 3.000 damnificados. En los barrios anegados se realizan rescates de animales, que siguen sin pausa. Las zonas más bajas del municipio siguen anegadas.",
+      "keyPoints": [
+        "El río Paraná llegó a 6,46 metros en Ayolas.",
+        "Las autoridades reportan más de 3.000 damnificados.",
+        "Hay rescates de animales en barrios anegados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ayolas bajo agua: El río Paraná roza los 6,50 metros y arrastra más de 3.000 damnificados",
+          "url": "https://www.ultimahora.com/ayolas-bajo-agua-el-rio-parana-roza-los-6-50-metros-y-arrastra-mas-de-3-000-damnificados",
+          "publishedAt": "2026-10-18T17:58:36.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.98
+    },
+    {
+      "id": "ev-0ck40ec",
+      "title": "Brasileño con alerta roja de Interpol es detenido en el Chaco",
+      "summary": "Un ciudadano brasileño con notificación roja de Interpol fue detenido en Infante Rivarola, Chaco paraguayo. El hombre había acudido a un puesto migratorio para hacer trámites. Según HOY, la captura se produjo en ese control. La situación judicial del detenido no se detalla en la nota.",
+      "keyPoints": [
+        "El detenido es ciudadano brasileño.",
+        "Tenía notificación roja de Interpol.",
+        "Fue capturado en Infante Rivarola, Chaco.",
+        "Se encontraba en un puesto migratorio para trámites."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Brasileño con “alerta roja” de Interpol es capturado en el Chaco",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/18/brasileno-con-alerta-roja-de-interpol-es-capturado-en-el-chaco",
+          "publishedAt": "2026-10-18T17:56:26.149Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/V2IWEQ47DJFTVK2SR4LIRDM5OE.jpg?auth=c9c41261608b2ff523096f041fe94572628cd299b9e47e792ec50d7fdad162dc&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/V2IWEQ47DJFTVK2SR4LIRDM5OE.jpg?auth=c9c41261608b2ff523096f041fe94572628cd299b9e47e792ec50d7fdad162dc&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/18/brasileno-con-alerta-roja-de-interpol-es-capturado-en-el-chaco"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.98
+    },
+    {
+      "id": "ev-12ln3k8",
+      "title": "Lima, San Pedro, suma obras de salud por G. 2.492 millones",
+      "summary": "El intendente de Lima, Juan Manuel Ávalos, informó sobre nuevas obras para el servicio de salud de la localidad sanpedrina. Incluyen un área de urgencias, un laboratorio, una caseta para residuos hospitalarios y la ampliación del bloque existente. Los trabajos se hicieron en el marco de un convenio con el Ministerio de Salud. El objetivo es mejorar la cobertura sanitaria local, aunque el municipio aún espera equipamiento y personal.",
+      "keyPoints": [
+        "Las obras incluyen urgencias, laboratorio y ampliación del bloque existente.",
+        "La inversión fue de G. 2.492 millones.",
+        "Los trabajos se realizaron con un convenio con el Ministerio de Salud.",
+        "El municipio aguarda equipamiento y personal para el servicio."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lima entrega obras para fortalecer los servicios de salud y aguarda equipamiento y personal",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/lima-entrega-obras-para-fortalecer-los-servicios-de-salud-y-aguarda-equipamiento-y-personal",
+          "publishedAt": "2026-10-18T17:49:53.000Z",
+          "image": "https://www.abc.com.py/resizer/eQPrbWObmhLaS8FwRa_phXIR3hI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/I7XAZLHWRVEJFNHAFWZEDR67VY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/I7XAZLHWRVEJFNHAFWZEDR67VY.jpg?auth=bc9341b55ab58dd37f6f6f00cc36e2e60e0c2ac9fc550856cffe418a69becb47&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/18/lima-entrega-obras-para-fortalecer-los-servicios-de-salud-y-aguarda-equipamiento-y-personal"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.97
+    },
+    {
+      "id": "ev-1qoyp3w",
+      "title": "Asoban pide al BCP informar sobre solvencia de bancos fusionados",
+      "summary": "La Asociación de Bancos del Paraguay, que reúne a 14 bancos privados, pidió al Banco Central que informe sobre la solvencia de las entidades que recibieron facilidades en procesos de fusión. El pedido surge después de que el BCP informara al Senado sobre varias instituciones privadas, entre ellas Ueno Bank. Según la prensa local, esa entidad captó depósitos gubernamentales en pocos años.",
+      "keyPoints": [
+        "Asoban agrupa a 14 bancos privados del país.",
+        "Pide al BCP aclarar dudas sobre entidades fusionadas.",
+        "El BCP informó al Senado sobre el accionar de varias instituciones.",
+        "Ueno Bank es una de las entidades mencionadas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Asociación bancaria paraguaya pide al emisor aclarar \"dudas\" sobre entidades fusionadas",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/asociacion-bancaria-paraguaya-pide-al-emisor-aclarar-dudas-sobre-entidades-fusionadas",
+          "publishedAt": "2026-10-18T17:40:57.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg?auth=af21fffb866efe059006e6c98a79ad3cc96cb597e29061d022f5aafd3f78d1f5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/18/asociacion-bancaria-paraguaya-pide-al-emisor-aclarar-dudas-sobre-entidades-fusionadas"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.96
+    },
+    {
+      "id": "ev-109iues",
+      "title": "Michael Collins presenta concierto gratuito que mezcla música clásica y rock",
+      "summary": "El pianista estadounidense Michael Collins presentará el concierto Nocturnos de neón este lunes 19 de octubre, a las 20:00. La función será en el Auditorio Remigio Pereira de la Orquesta Sinfónica Nacional. El acceso es libre y gratuito. Participan el Instituto Musical Chopin y la Orquesta Sinfónica Nacional.",
+      "keyPoints": [
+        "El concierto será el lunes 19 de octubre a las 20:00.",
+        "Se realizará en el Auditorio Remigio Pereira, en Asunción.",
+        "El acceso es libre y gratuito.",
+        "Participan el Instituto Musical Chopin y la Orquesta Sinfónica Nacional."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Michael Collins presentará “Nocturnos de neón”, un encuentro entre la música clásica y el rock",
+          "url": "https://www.abc.com.py/espectaculos/musica/2026/10/18/michael-collins-presentara-nocturnos-de-neon-un-encuentro-entre-la-musica-clasica-y-el-rock",
+          "publishedAt": "2026-10-18T17:07:27.000Z",
+          "image": "https://www.abc.com.py/resizer/1HqKlnj4Y_YAd09m44DYdal3wmo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KTVWZZWK3NFKHI2C6DDEYCURQI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/KTVWZZWK3NFKHI2C6DDEYCURQI.jpg?auth=5a5722c3cc7908098c1ddd4d1a5db7987ff0d012486e2fc7ec2ef8eb88cc1cbd&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/espectaculos/musica/2026/10/18/michael-collins-presentara-nocturnos-de-neon-un-encuentro-entre-la-musica-clasica-y-el-rock"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0uu441l",
+      "title": "Más de 3.100 personas evacuadas en Ayolas por la crecida del río Paraná",
+      "summary": "En Ayolas, unas 3.144 personas fueron evacuadas hasta el 17 de octubre por la crecida del río Paraná aguas abajo de la represa Yacyretá. El Centro de Operaciones de Emergencia informó que se habilitaron 17 albergues, donde hay 746 personas. El nivel del río sigue subiendo, y se estima que llegue a 6,50 metros este domingo. El fenómeno de El Niño está asociado a la situación.",
+      "keyPoints": [
+        "3.144 personas evacuadas según el COE de Ayolas",
+        "17 albergues temporales con 746 personas",
+        "El río Paraná registra una cota de 6,45 metros en el puerto local",
+        "Se estima una altura de 6,50 metros para este domingo"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Inundaciones en Ayolas: 3.144 personas fueron evacuadas",
+          "url": "https://www.abc.com.py/clima/2026/10/18/inundaciones-en-ayolas-3144-personas-fueron-evacuadas",
+          "publishedAt": "2026-10-18T16:59:03.000Z",
+          "image": "https://www.abc.com.py/resizer/H4WSk3rDo36buruR1FKNrGbnwLw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/367W2D6IAFES3AC526AAEENDFI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/367W2D6IAFES3AC526AAEENDFI.jpg?auth=aa325ff71eb58a948e2a0527b7c2779f7bb3a5ba6686d559b861038d4fbe6f18&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/10/18/inundaciones-en-ayolas-3144-personas-fueron-evacuadas"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.9
+    },
+    {
+      "id": "ev-0we1opx",
+      "title": "Policía recibió más de 200 denuncias por violencia familiar en un día",
+      "summary": "La Policía registró más de 200 denuncias por violencia familiar en un solo día. En el mismo período, recibió más de 3.800 llamadas de no emergencia. Según la nota, esas llamadas pueden retrasar la atención de quienes más necesitan ayuda.",
+      "keyPoints": [
+        "Más de 200 denuncias por violencia familiar en un día",
+        "Más de 3.800 contactos de no emergencia registrados"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Para Landau, visita a Paraguay es de alta prioridad y emotiva",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/para-landau-visita-a-paraguay-es-de-alta-prioridad-y-emotiva",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/J9o3hZ8enyP9dW5pZ8OxP4MSiXk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O5KM7Y7YBZEULOF443QUKWCD4E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Con visita de Landau, EE. UU. prioriza sintonía con Paraguay",
-          "url": "https://www.lanacion.com.py/editorial/2026/10/18/con-visita-de-landau-ee-uu-prioriza-sintonia-con-paraguay",
-          "publishedAt": "2026-10-18T03:02:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Landau responde a desacertado comentario de periodista: “No es de ninguna manera una breve escala”",
-          "url": "https://www.lanacion.com.py/politica/2026/10/17/landau-responde-a-desacertado-comentario-de-periodista-no-es-de-ninguna-manera-una-breve-escala",
-          "publishedAt": "2026-10-17T19:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/MJGuctDYC8cFNPqMHl_c7RbRyGU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QCW4DJQFZRAPHPFESDN33NXYOU.jpg"
+          "title": "Policía recibió más de 200 denuncias por violencia familiar en un solo día",
+          "url": "https://www.lanacion.com.py/pais/2026/10/18/policia-recibio-mas-de-200-denuncias-por-violencia-familiar-en-un-solo-dia",
+          "publishedAt": "2026-10-18T16:58:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/WN2190g341-RYkkH5rleplU3giY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PBLW3FTFQBDQHPAISLF3EDXFUY.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/O5KM7Y7YBZEULOF443QUKWCD4E.jpg?auth=8bd94d5624dddb405425263a873959eec12933ed96b4f10bdf971021697690f8&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PBLW3FTFQBDQHPAISLF3EDXFUY.jpg?auth=26fef9629cf0094a9b8722f5544a1ac08125b7bc056f6bb932381511ca42d2c5&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/18/para-landau-visita-a-paraguay-es-de-alta-prioridad-y-emotiva"
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/18/policia-recibio-mas-de-200-denuncias-por-violencia-familiar-en-un-solo-dia"
       },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T12:34:37.532Z",
-      "updatedSlot": "manana",
-      "score": 7.2
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.9
+    },
+    {
+      "id": "ev-1mkvjfh",
+      "title": "Sol de América vence 1-0 a Benjamín Aceval en la División Intermedia",
+      "summary": "Sol de América ganó 1-0 a Benjamín Aceval en Villa Hayes, en un partido de la División Intermedia 2026. Julio Rivarola marcó el gol del triunfo. Benjamín Aceval, que llegó a liderar el torneo, cerró su participación sin alcanzar el ascenso.",
+      "keyPoints": [
+        "Sol de América ganó 1-0 en el Isidro Roussillón",
+        "Julio Rivarola marcó el gol del triunfo",
+        "Benjamín Aceval llegó a ser líder de la División Intermedia 2026"
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sol de América se impone en Villa Hayes sobre Benjamín Aceval",
+          "url": "https://www.abc.com.py/deportes/futbol/intermedia/2026/10/18/sol-de-america-se-impone-en-villa-hayes-sobre-benjamin-aceval",
+          "publishedAt": "2026-10-18T16:55:52.000Z",
+          "image": "https://www.abc.com.py/resizer/B6KyBX4AawhPht822gvP-UAaL6w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SOMEMVA6I5FKRMNZSS2E3XXGQE.png"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SOMEMVA6I5FKRMNZSS2E3XXGQE.png?auth=b3bd711b58f505d2428f4b23277699d367acf7cf952fcc8de3ec47d73c500289&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/intermedia/2026/10/18/sol-de-america-se-impone-en-villa-hayes-sobre-benjamin-aceval"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.9
+    },
+    {
+      "id": "ev-1j0rb9e",
+      "title": "Detienen a una mujer por el crimen de un hombre en Presidente Franco",
+      "summary": "La Policía aprehendió a una mujer en la comunidad Puerto Torocua'i, en Alto Paraná, en el marco de una causa por homicidio. La víctima, Rosalino Montanía de 79 años, fue hallada maniatada y muerta en su casa de Presidente Franco el viernes 16 de octubre. La mujer es investigada en el caso, según la información publicada.",
+      "keyPoints": [
+        "Una mujer fue aprehendida en Ñacunday, Alto Paraná",
+        "La causa investiga el homicidio de Rosalino Montanía, de 79 años",
+        "El hombre fue hallado muerto en su vivienda de Presidente Franco el 16 de octubre"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Detienen a una mujer quien estaría involucrada en crimen de un hombre en Pdte. Franco",
+          "url": "https://www.lanacion.com.py/pais/2026/10/18/detienen-a-una-mujer-quien-estaria-involucrada-en-crimen-de-un-hombre-en-pdte-franco",
+          "publishedAt": "2026-10-18T16:47:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DQMft_aOHmDwJndeM6HWcHkD7Dg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EBVIQX6USJAUDBOCFHJU6ZBOYM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/EBVIQX6USJAUDBOCFHJU6ZBOYM.jpg?auth=fa39cf0107ba38e1a4374e6b39dd08b4187e6b2489798e66343e541c03b780ba&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/18/detienen-a-una-mujer-quien-estaria-involucrada-en-crimen-de-un-hombre-en-pdte-franco"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.89
+    },
+    {
+      "id": "ev-14438el",
+      "title": "La Bolsa de Valores de Asunción apunta a superar su récord de operaciones",
+      "summary": "La Bolsa de Valores de Asunción (BVA) proyecta superar este año el volumen de negociaciones de US$ 8.000 millones registrado en 2025. El impulso llega tras una recuperación en septiembre, cuando las operaciones crecieron 22,4% frente a agosto y alcanzaron G. 5,2 billones. Es una señal de mayor actividad en el mercado de capitales paraguayo.",
+      "keyPoints": [
+        "La BVA proyecta superar el volumen de US$ 8.000 millones del año pasado.",
+        "En septiembre, el volumen de operaciones alcanzó G. 5,2 billones.",
+        "La cifra representó un aumento de 22,4% respecto de agosto."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Mercado bursátil: Bolsa de Valores apunta a superar récord de US$ 8.000 millones en operaciones este año",
+          "url": "https://www.abc.com.py/economia/2026/10/18/mercado-bursatil-bolsa-de-valores-apunta-a-superar-record-de-us-8000-millones-en-operaciones-este-ano",
+          "publishedAt": "2026-10-18T16:25:22.000Z",
+          "image": "https://www.abc.com.py/resizer/U2krJPZ42lD998h92KJxuxwONhg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4VJVQNEV45CIVJUJS7GTGGDHQ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/4VJVQNEV45CIVJUJS7GTGGDHQ4.jpg?auth=89ddb4804a7c7b18d64ceb6c3a4ee673d378d7916ea104bd741e8d4c13e773dc&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/10/18/mercado-bursatil-bolsa-de-valores-apunta-a-superar-record-de-us-8000-millones-en-operaciones-este-ano"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.86
     },
     {
       "id": "ev-0xetdww",
@@ -851,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.74
     },
     {
       "id": "ev-1ueq9ey",
@@ -893,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.74
     },
     {
       "id": "ev-187l6pf",
@@ -935,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.74
     },
     {
       "id": "ev-1p91oe1",
@@ -977,7 +1949,41 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.74
+    },
+    {
+      "id": "ev-0cfl063",
+      "title": "La OSCA ofrecerá un concierto gratuito en la plaza Batallón 40",
+      "summary": "La Orquesta Sinfónica de la Ciudad de Asunción dará un concierto gratuito este lunes 19 de octubre, a las 20:00, en la plaza Batallón 40. La presentación forma parte del ciclo \"Naturaleza y Música\", dirigido a toda la familia. Combina obras musicales con contenidos educativos sobre biodiversidad.",
+      "keyPoints": [
+        "El concierto será el lunes 19 de octubre a las 20:00.",
+        "Se realizará en la plaza Batallón 40, en Asunción.",
+        "Es parte del ciclo \"Naturaleza y Música\"."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La OSCA ofrecerá un concierto gratuito en la plaza Batallón 40",
+          "url": "https://www.abc.com.py/espectaculos/musica/2026/10/18/la-osca-ofrecera-un-concierto-gratuito-en-la-plaza-batallon-40",
+          "publishedAt": "2026-10-18T14:10:26.000Z",
+          "image": "https://www.abc.com.py/resizer/1aaSShNfRfDch1QinZ2xFrOlh3w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/I7IXPAUYZNH6TD23VBNRESUOFI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/I7IXPAUYZNH6TD23VBNRESUOFI.jpg?auth=37a5aaf9f160bf462163b6aac1d6499ad1fde030937a0bef580b3879510448e2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/espectaculos/musica/2026/10/18/la-osca-ofrecera-un-concierto-gratuito-en-la-plaza-batallon-40"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.67
     },
     {
       "id": "ev-1aprb2e",
@@ -1007,7 +2013,245 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.53
+    },
+    {
+      "id": "ev-0yxtha5",
+      "title": "Una conversación en el Archivo Nacional",
+      "summary": "A veces, de una conversación fortuita pueden surgir ideas muy útiles o sólidas. He aquí un ejemplo de ello, que pudo haber ocurrido en 1976, 1980 o 1982, o tal vez no; ya no lo recuerdo.",
+      "keyPoints": [
+        "A veces, de una conversación fortuita pueden surgir ideas muy útiles o sólidas."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Una conversación en el Archivo Nacional",
+          "url": "https://elnacional.com.py/cultura/una-conversacion-archivo-nacional-n113757",
+          "publishedAt": "2026-10-18T08:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad264c566e9f.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad264c566e9f.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/cultura/una-conversacion-archivo-nacional-n113757"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.19
+    },
+    {
+      "id": "ev-018uf81",
+      "title": "Un repaso por las huellas alemanas del filósofo paraguayo Juan Santiago Dávalos",
+      "summary": "Un artículo recorre la trayectoria del filósofo paraguayo Juan Santiago Dávalos (1927-1973). Estudió en Asunción, Buenos Aires, Madrid y universidades alemanas. Al volver al país, su formación combinaba filosofía con sociología y otras ciencias humanas.",
+      "keyPoints": [
+        "Dávalos vivió entre 1927 y 1973.",
+        "Hizo su trayectoria en la filosofía desde fines de los años 1940.",
+        "Pasó por universidades alemanas antes de regresar al Paraguay."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juan Santiago Dávalos en Tübingen. Las huellas alemanas de un filósofo paraguayo",
+          "url": "https://elnacional.com.py/cultura/juan-santiago-davalos-tbingen-huellas-alemanas-filosofo-paraguayo-n113708",
+          "publishedAt": "2026-10-18T08:15:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad23f4d97c7c.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad23f4d97c7c.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/cultura/juan-santiago-davalos-tbingen-huellas-alemanas-filosofo-paraguayo-n113708"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 5.17
+    },
+    {
+      "id": "ev-0u2ev0r",
+      "title": "Comienzan trabajos de campo para estudiar la flora nativa",
+      "summary": "Comenzaron trabajos de campo para estudiar la flora nativa. El objetivo es ampliar el conocimiento científico sobre los recursos fitogenéticos. Las notas disponibles son breves y no detallan en qué zonas se realizan los trabajos ni qué instituciones participan. Por ahora, el dato disponible es general.",
+      "keyPoints": [
+        "Los trabajos buscan ampliar el conocimiento científico sobre recursos fitogenéticos.",
+        "El foco está en la flora nativa."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inician trabajos de campo para estudiar la flora nativa",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/18/inician-trabajos-de-campo-para-estudiar-la-flora-nativa",
+          "publishedAt": "2026-10-18T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0g1snFEHT63Rw4diXzSEOYU0qlo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7W7XYNRQEBHJ5OJG737KYDKYUM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7W7XYNRQEBHJ5OJG737KYDKYUM.jpg?auth=66b368fd7c1c9247b018db84e0ce3450125d309ff6c15b780382392ba4aceba4&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/18/inician-trabajos-de-campo-para-estudiar-la-flora-nativa"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 4.74
+    },
+    {
+      "id": "ev-19lihy1",
+      "title": "Davidovich mantiene conversaciones para ser quinto jugador de Copa Davis",
+      "summary": "El tenista español Pablo Davidovich dijo que habló con el capitán Ferrer y que se ofreció para ser el quinto jugador del equipo de Copa Davis. Lo dijo tras ganar el Másters 1.000 de Shanghái ante Rafa Jódar. Según la prensa española, Ferrer ya eligió a cuatro jugadores y la quinta plaza sigue abierta.",
+      "keyPoints": [
+        "Davidovich dijo que se ofreció como quinto jugador.",
+        "Según la prensa, Carlos Alcaraz, Granollers, Martínez y Jódar ya están elegidos.",
+        "La quinta plaza aún no fue adjudicada.",
+        "La victoria fue en la final del Másters 1.000 de Shanghái."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Davidovich, en \"conversaciones\" para ser el quinto elegido por Ferrer para la Copa Davis",
+          "url": "https://www.abc.com.py/deportes/tenis/2026/10/18/davidovich-en-conversaciones-para-ser-el-quinto-elegido-por-ferrer-para-la-copa-davis",
+          "publishedAt": "2026-10-18T17:41:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Gp2LSAqLoR9lSxn2dpR6y71lG_Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/A5DQC3KIFFBS5EZVY4IFROKFVY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/A5DQC3KIFFBS5EZVY4IFROKFVY.jpg?auth=24ca1c3dc3b6e039205a74cc58d3dab454766bac6a730b9436eef57db724ec83&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/tenis/2026/10/18/davidovich-en-conversaciones-para-ser-el-quinto-elegido-por-ferrer-para-la-copa-davis"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 3.46
+    },
+    {
+      "id": "ev-1l1piv9",
+      "title": "Entrenador de Davidovich destaca su cambio de confianza y disfrute",
+      "summary": "El entrenador de Davidovich explicó que el tenista logró disfrutar más del juego dentro y fuera de la cancha. Según dijo, antes se tensionaba mucho antes de los partidos. Lo afirmó tras la victoria de su pupilo ante Rafa Jódar, en declaraciones a EFE.",
+      "keyPoints": [
+        "El entrenador trabajó en que Davidovich disfrute más del juego.",
+        "Antes el tenista se tensionaba mucho en los partidos.",
+        "La declaración fue dada a EFE tras vencer a Rafa Jódar.",
+        "El entrenador destaca la confianza en sí mismo."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tener más confianza y aprender a disfrutar han cambiado a Davidovich, afirma su entrenador",
+          "url": "https://www.abc.com.py/deportes/tenis/2026/10/18/tener-mas-confianza-y-aprender-a-disfrutar-han-cambiado-a-davidovich-afirma-su-entrenador",
+          "publishedAt": "2026-10-18T17:41:02.000Z",
+          "image": "https://www.abc.com.py/resizer/Gp2LSAqLoR9lSxn2dpR6y71lG_Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/A5DQC3KIFFBS5EZVY4IFROKFVY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/A5DQC3KIFFBS5EZVY4IFROKFVY.jpg?auth=24ca1c3dc3b6e039205a74cc58d3dab454766bac6a730b9436eef57db724ec83&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/tenis/2026/10/18/tener-mas-confianza-y-aprender-a-disfrutar-han-cambiado-a-davidovich-afirma-su-entrenador"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 3.46
+    },
+    {
+      "id": "ev-0ad5cwf",
+      "title": "Texans vencen 34-31 a Jaguars en Wembley con gol de campo final",
+      "summary": "Los Houston Texans ganaron 34-31 a los Jacksonville Jaguars en el partido disputado en Wembley. Stroud completó 24 de 34 pases para 312 yardas y tres touchdowns. Los Jaguars igualaron en el último cuarto, pero Fairbairn decidió el partido con un gol de campo.",
+      "keyPoints": [
+        "Houston ganó 34-31 a Jacksonville.",
+        "Stroud lanzó tres touchdowns y 312 yardas.",
+        "Jacksonville igualó a falta de un minuto y 55 segundos.",
+        "Fairbairn anotó el gol de campo decisivo."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "34-31. Los Texans dan un golpe en la mesa en Wembley",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/10/18/34-31-los-texans-dan-un-golpe-en-la-mesa-en-wembley",
+          "publishedAt": "2026-10-18T17:20:14.000Z",
+          "image": "https://www.abc.com.py/resizer/11H5TTAzbzXQ7OY2lxEgCrj_2Y8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3IJZ3QIUVJGC5BIWUT6Q526X6U.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3IJZ3QIUVJGC5BIWUT6Q526X6U.jpg?auth=b0918c43f591b6a8e4dfc21054839f460ed2d7084acaa4c40ce1b741b4253a83&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/10/18/34-31-los-texans-dan-un-golpe-en-la-mesa-en-wembley"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 3.43
+    },
+    {
+      "id": "ev-1ua4px3",
+      "title": "Estudio alerta sobre extinción de plantas en cumbres montañosas europeas",
+      "summary": "Un estudio publicado en la revista Science analizó la vegetación de 62 cumbres europeas entre 2001 y 2022. Según la Universidad de Granada, las extinciones locales de plantas se aceleraron en los últimos 20 años por el calentamiento climático. El calentamiento redujo el frío que antes limitaba la distribución de la flora de montaña.",
+      "keyPoints": [
+        "El estudio analizó 62 cumbres en cuatro ocasiones entre 2001 y 2022.",
+        "Las tasas de extinción local se aceleraron en los últimos 20 años.",
+        "Los investigadores atribuyen el fenómeno al calentamiento climático."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Científicos comprueban extinciones de plantas en las cumbres montañosas europeas",
+          "url": "https://www.abc.com.py/ciencia/2026/10/18/cientificos-comprueban-extinciones-de-plantas-en-las-cumbres-montanosas-europeas",
+          "publishedAt": "2026-10-18T17:15:17.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg?auth=2bd63ea2dcf0a0b68b689c174bdff6c41f79fab8a1b055508158717585710e52&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/ciencia/2026/10/18/cientificos-comprueban-extinciones-de-plantas-en-las-cumbres-montanosas-europeas"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedSlot": "tarde",
+      "score": 3.42
     }
   ],
   "runs": [
@@ -1017,6 +2261,13 @@
       "added": 20,
       "updated": 0,
       "candidates": 35
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-18T18:09:39.867Z",
+      "added": 30,
+      "updated": 6,
+      "candidates": 50
     }
   ]
 }
