@@ -121,7 +121,6 @@
       `<span class="nav__gap" aria-hidden="true"></span>` +
       [
         ["guardadas", `Guardadas<span class="badge" id="saved-count" ${savedN ? "" : "hidden"}>${savedN}</span>`],
-        ["medios", "Medios"],
         ["archivo", "Archivo"],
         ["criterios", "Criterios"],
       ].map(([id, html]) => `<a href="#/${id}" class="nav__tool ${tool === id ? "is-active" : ""}" data-nav="${id}">${html}</a>`).join("");
@@ -161,11 +160,10 @@
   }
 
   function leadHtml(ev, editionDate) {
-    const n = distinctSources(ev).length;
     return `
       <article class="lead">
         <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
-        ${kickerHtml(ev, n > 1 ? `${plural(n, "medio", "medios")} · ${fmtTime(latestAt(ev))}` : undefined)}
+        ${kickerHtml(ev)}
         <h2 class="lead__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h2>
         <p class="lead__deck">${esc(ev.summary)}</p>
         <p class="lead__meta">Cobertura: ${esc(srcSentence(ev))}.</p>
@@ -228,13 +226,8 @@
           <section class="panel" aria-labelledby="top-title">
             <p class="kicker" id="top-title">Lo más cubierto</p>
             <ol class="toplist">
-              ${mostCovered.map((ev) => `<li><a href="${link(ev, date)}">${esc(ev.title)}</a><small>${esc(plural(distinctSources(ev).length, "medio", "medios"))} · ${esc(CAT_LABEL[ev.category] ?? ev.category)} · ${esc(fmtTime(latestAt(ev)))}</small></li>`).join("")}
+              ${mostCovered.map((ev) => `<li><a href="${link(ev, date)}">${esc(ev.title)}</a><small>${esc(CAT_LABEL[ev.category] ?? ev.category)} · ${esc(fmtTime(latestAt(ev)))}</small></li>`).join("")}
             </ol>
-          </section>
-          <section class="panel" aria-labelledby="how-title">
-            <p class="kicker" id="how-title">Cómo se arma esta edición</p>
-            <p>Dos veces por día, a la mañana y a la tarde, se leen las notas publicadas por los medios paraguayos, se agrupan por acontecimiento y se redacta un título, un resumen y los puntos clave de cada uno. Hasta ${edition.maxEvents ?? 20} acontecimientos por día.</p>
-            <p><a href="#/criterios"><b>Criterios editoriales →</b></a></p>
           </section>
         </aside>
       </div>
@@ -283,7 +276,7 @@
         ${kickerHtml(ev, `Edición del ${fmtDay(date)}`)}
         <h1>${esc(ev.title)}</h1>
         <div class="article__bar">
-          <span>${esc(plural(distinctSources(ev).length, "medio", "medios"))} · última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
+          <span>Última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
           ${saveBtn(ev, date)}
         </div>
         ${ev.image?.url ? `<figure>${mediaHtml(ev, { credit: true })}<figcaption>Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</figcaption></figure>` : ""}
@@ -294,7 +287,6 @@
         <ul class="sources">
           ${srcs.map((s) => `<li><span class="src-name">${esc(s.sourceName)}</span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="src-time">${esc(fmtDateTime(s.publishedAt))}</span></li>`).join("")}
         </ul>
-        <p class="note">${ev.summaryKind === "extractivo" ? "Este resumen se armó automáticamente con extractos publicados por el medio, sin inteligencia artificial." : `Título, resumen y puntos clave redactados con inteligencia artificial (${esc(ev.model || "")}) a partir de los extractos de las notas enlazadas. Puede contener errores: verificá siempre en la fuente original.`}</p>
       </article>`;
     bindSaveButtons(main, () => ev);
   }
@@ -319,7 +311,7 @@
     const S = { ok: ["ok", "Conectado"], quiet: ["warn", "Sin notas recientes"], stale: ["warn", "Devuelve notas viejas"], error: ["bad", "Error"], unavailable: ["bad", "Sin feed público"] };
     const rows = (state.sources.sources ?? []).map((s) => {
       const [cls, label] = S[s.status] ?? ["bad", s.status];
-      const kind = { rss: "RSS", atom: "Atom", "news-sitemap": "Sitemap de noticias", none: "—" }[s.kind] ?? s.kind;
+      const kind = { rss: "RSS", atom: "Atom", "news-sitemap": "Sitemap de noticias", portada: "Portada del medio", none: "—" }[s.kind] ?? s.kind;
       return `<tr>
         <td data-label="Medio"><b>${esc(s.name)}</b><br><a href="${esc(s.homepage)}" target="_blank" rel="noopener" style="font-size:12px">${esc(s.homepage.replace(/^https?:\/\//, ""))}</a></td>
         <td data-label="Estado"><span class="st"><span class="dot ${cls === "ok" ? "" : cls}"></span>${esc(label)}</span></td>
@@ -362,10 +354,9 @@
         <ul>
           <li>Solo se usan notas con fecha verificable publicadas en las últimas 24 horas. Un medio que devuelve notas viejas se marca y no se usa.</li>
           <li>El sistema recibe únicamente el título, un extracto y la fecha de cada nota. Tiene prohibido agregar datos que no estén en ese material.</li>
-          <li>La página <a href="#/medios">Medios</a> muestra el estado real de cada conexión en la última corrida.</li>
         </ul>
         <h2>Uso de inteligencia artificial</h2>
-        <p>Los títulos, resúmenes y puntos clave se redactan con inteligencia artificial${l?.model ? ` (${esc(l.model)})` : ""} a partir de los extractos de las notas. Cada acontecimiento lo declara al pie. Cuando la IA no interviene, el resumen se arma con extractos del medio y se marca «sin IA». Nunca se presenta un extracto como texto generado ni un texto generado como una cita.</p>
+        <p>Los títulos, resúmenes y puntos clave se redactan con inteligencia artificial${l?.model ? ` (${esc(l.model)})` : ""} a partir de los extractos de las notas. Se declara en esta página y en el pie del sitio. Cuando la IA no interviene, el resumen se arma con extractos del medio y se marca «sin IA». Nunca se presenta un extracto como texto generado ni un texto generado como una cita.</p>
         <p>La redacción automática puede contener errores. Las denuncias y acusaciones se atribuyen; se distingue proyecto de ley de ley, media sanción de sanción, imputación de condena. Ante cualquier duda, la fuente original manda.</p>
         <h2>Fotografías</h2>
         <p>Las imágenes se muestran desde el sitio de cada medio y les pertenecen; en cada acontecimiento figura el crédito y el enlace a la nota de origen. El Prócer no crea ni altera imágenes.</p>
