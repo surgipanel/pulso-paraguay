@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T15:07:37.418Z",
+  "checkedAt": "2026-10-19T15:19:04.678Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -13,12 +13,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 98,
+      "freshItems": 99,
       "undated": 0,
-      "newestAt": "2026-10-19T15:05:12.000Z",
-      "ms": 765,
+      "newestAt": "2026-10-19T15:13:32.000Z",
+      "ms": 605,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "lanacion",
@@ -34,9 +34,9 @@
       "freshItems": 100,
       "undated": 0,
       "newestAt": "2026-10-19T15:04:00.000Z",
-      "ms": 759,
+      "ms": 588,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 149,
-      "freshItems": 63,
+      "items": 150,
+      "freshItems": 64,
       "undated": 0,
-      "newestAt": "2026-10-19T15:05:07.000Z",
-      "ms": 94574,
+      "newestAt": "2026-10-19T15:10:18.000Z",
+      "ms": 96358,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "elnacional",
@@ -70,9 +70,9 @@
       "freshItems": 36,
       "undated": 0,
       "newestAt": "2026-10-19T15:00:00.000Z",
-      "ms": 587,
+      "ms": 723,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "adn",
@@ -88,9 +88,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-10-19T15:02:43.000Z",
-      "ms": 30900,
+      "ms": 18549,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 5,
       "undated": 0,
       "newestAt": "2026-10-19T14:03:25.000Z",
-      "ms": 42779,
+      "ms": 42274,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "telefuturo",
@@ -124,9 +124,9 @@
       "freshItems": 3,
       "undated": 0,
       "newestAt": "2026-10-19T14:24:27.000Z",
-      "ms": 22430,
+      "ms": 22314,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "vanguardia",
@@ -142,9 +142,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-10-19T14:07:59.000Z",
-      "ms": 24403,
+      "ms": 26359,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "hoy",
@@ -154,15 +154,15 @@
       "url": "https://www.hoy.com.py/",
       "region": "nacional",
       "note": "Su RSS y sus sitemaps quedaron congelados en diciembre de 2023 (cambio de sistema). Se leen los enlaces con fecha de su portada y la cabecera pública de cada nota (descripción, imagen y hora de publicación).",
-      "status": "ok",
-      "httpStatus": 200,
-      "items": 12,
-      "freshItems": 12,
+      "status": "error",
+      "httpStatus": null,
+      "items": 0,
+      "freshItems": 0,
       "undated": 0,
-      "newestAt": "2026-10-19T15:01:31.921Z",
-      "ms": 25360,
-      "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "newestAt": null,
+      "ms": 79503,
+      "error": "timeout tras 25000 ms",
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "ip",
@@ -178,9 +178,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-10-15T17:00:40.000Z",
-      "ms": 2283,
+      "ms": 3333,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     },
     {
       "id": "5dias",
@@ -196,9 +196,9 @@
       "freshItems": 19,
       "undated": 0,
       "newestAt": "2026-10-19T11:49:00.000Z",
-      "ms": 24427,
+      "ms": 23985,
       "error": null,
-      "checkedAt": "2026-10-19T15:07:37.418Z"
+      "checkedAt": "2026-10-19T15:19:04.678Z"
     }
   ]
 }

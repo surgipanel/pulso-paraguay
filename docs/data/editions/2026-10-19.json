@@ -1,20 +1,20 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-19T15:07:37.418Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-19T15:19:04.678Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0fh61p6",
-      "title": "Bachi Núñez respalda a Pedro Alliana para la candidatura presidencial de 2028",
-      "summary": "El presidente del Congreso, Basilio Núñez, anunció que apoyará la precandidatura presidencial de Pedro Alliana para 2028. Lo hizo tras la decisión de Horacio Cartes de que Honor Colorado no presente candidaturas en las internas de 2027. Núñez también agradeció a Cartes por su liderazgo. El presidente Santiago Peña dijo que buscará recomponer la relación con la ANR.",
+      "title": "Honor Colorado no presentará candidaturas en las internas de 2027",
+      "summary": "Horacio Cartes anunció que Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas de la ANR previstas para diciembre de 2027. Su jefe de Gabinete, Eduardo González, dijo que la decisión busca pacificar el partido y no responde a un problema de salud. El senador Antonio Barrios sostuvo que Cartes seguirá siendo clave para el partido.",
       "keyPoints": [
-        "Basilio Núñez respalda la precandidatura de Pedro Alliana para 2028.",
-        "Honor Colorado no presentará candidatos en las internas de 2027, según anunció Horacio Cartes.",
-        "Núñez dijo que buscará la reelección en el Senado.",
-        "Peña ratificó su respaldo a Alliana y dijo que buscará la armonía con la ANR."
+        "Cartes anunció la decisión el domingo 18 de octubre.",
+        "Las internas partidarias están previstas para el 19 de diciembre de 2027.",
+        "González afirmó que la decisión no obedece a un conflicto de salud de Cartes.",
+        "González dejará de ser apoderado de movimientos internos de la ANR."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -95,12 +95,28 @@
           "image": "https://statics.elnacional.com.py/2026/05/6a0b1e092cfc3.jpeg"
         },
         {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Allegados a Cartes responden a rumores sobre su estado de salud",
+          "url": "https://www.adndigital.com.py/allegados-a-cartes-responden-a-rumores-sobre-su-estado-de-salud",
+          "publishedAt": "2026-10-19T13:28:27.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-23-at-103937.jpeg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Nicanor: “Veremos si Peña y Alliana tienen la capacidad de aglutinar a la fuerza electoral de Honor Colorado”",
           "url": "https://www.abc.com.py/politica/2026/10/19/nicanor-veremos-si-pena-y-alliana-tienen-la-capacidad-de-aglutinar-a-la-fuerza-electoral-de-honor-colorado",
           "publishedAt": "2026-10-19T13:13:20.000Z",
           "image": "https://www.abc.com.py/resizer/OUO_LitQUikVgw6gYH1C8qer-NU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VKFOJ7DGVBFH7PDW5FIH56AKGE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Barrios asegura que Cartes sigue siendo el “gran elector” de la ANR para 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/barrios-asegura-que-cartes-sigue-siendo-el-gran-elector-de-la-anr-para-2028",
+          "publishedAt": "2026-10-19T13:09:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/h-RxCzZScQIaG7RmYzr4KiHkomQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J3NO7P2OHZHP5BUT6JYDAGBDKI.jpg"
         },
         {
           "sourceId": "elnacional",
@@ -119,12 +135,44 @@
           "image": "https://www.lanacion.com.py/resizer/n6R65QCf4aun2h8lxIUSX2gPgX0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/22CZTUCJOFBXLH7W7FHBDSDRKA.jpg"
         },
         {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senador Barrios defiende el peso político de Cartes y advierte sobre el futuro electoral de la ANR",
+          "url": "https://www.adndigital.com.py/senador-barrios-defiende-el-peso-politico-de-cartes-y-advierte-sobre-el-futuro-electoral-de-la-anr",
+          "publishedAt": "2026-10-19T12:51:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/08/whatsapp-image-2024-08-08-at-185555.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "González aclara que retiro de Cartes busca pacificar la ANR y no responde a salud",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/gonzalez-aclara-que-retiro-de-cartes-busca-pacificar-la-anr-y-no-responde-a-salud",
+          "publishedAt": "2026-10-19T12:50:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DinwaSsh9-wS6NFGMISjcodjy44=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AJ6SMGNXCJGPXJVCIXQ5LNW2IE.jpg"
+        },
+        {
           "sourceId": "hoy",
           "sourceName": "HOY",
           "title": "Bachi anuncia apoyo a Pedro Alliana y da las gracias a Cartes",
           "url": "https://www.hoy.com.py/politica/2026/10/19/bachi-anuncia-apoyo-a-pedro-alliana-y-da-las-gracias-a-cartes",
           "publishedAt": "2026-10-19T11:53:54.663Z",
           "image": "https://www.lanacion.com.py/resizer/v2/7L3WASKAVVBYZB26BF2DGMYOFM.jpg?auth=850dca983de83d5ffe69d7a044aa343eed7d4ab422ffbe73a486d871be8dde0c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Eduardo González dejará de ser apoderado de movimientos internos de la ANR",
+          "url": "https://elnacional.com.py/politica/eduardo-gonzalez-dejara-ser-apoderado-movimientos-internos-anr-n113832",
+          "publishedAt": "2026-10-19T11:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2022/08/92ba616ffde50a706185e4215642e424.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Analista descarta el fin de Honor Colorado y ve a Cartes como garante en la ANR",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/analista-descarta-el-fin-de-honor-colorado-y-ve-a-cartes-como-garante-en-la-anr",
+          "publishedAt": "2026-10-19T10:54:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zqulfgc5fwyxWDh4TcV6a2UcLt0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EJ7SRDOFYBAEXNEU43KHGUXPHA.jpg"
         },
         {
           "sourceId": "hoy",
@@ -184,15 +232,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-23-at-103937.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/allegados-a-cartes-responden-a-rumores-sobre-su-estado-de-salud"
       },
       "firstSeenAt": "2026-10-19T10:54:06.982Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-19T15:07:37.418Z",
+      "updatedAt": "2026-10-19T15:19:04.678Z",
       "updatedSlot": "tarde",
-      "score": 29.99
+      "score": 29.97
     },
     {
       "id": "ev-0lw6cuu",
@@ -300,7 +348,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 26.86
+      "score": 26.85
     },
     {
       "id": "ev-1spiu0s",
@@ -367,7 +415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 20.6
+      "score": 20.58
     },
     {
       "id": "ev-0v4mcwd",
@@ -435,7 +483,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T15:07:37.418Z",
       "updatedSlot": "tarde",
-      "score": 18.42
+      "score": 18.41
     },
     {
       "id": "ev-1hbu3do",
@@ -503,7 +551,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 17.94
+      "score": 17.92
     },
     {
       "id": "ev-0idtcyr",
@@ -570,7 +618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 17.12
+      "score": 17.11
     },
     {
       "id": "ev-1uur9xp",
@@ -629,7 +677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 14.45
+      "score": 14.43
     },
     {
       "id": "ev-1wuec3q",
@@ -688,7 +736,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 12.11
+      "score": 12.09
     },
     {
       "id": "ev-0xlkbky",
@@ -772,7 +820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T15:07:37.418Z",
       "updatedSlot": "tarde",
-      "score": 11.97
+      "score": 11.95
     },
     {
       "id": "ev-04w5hom",
@@ -839,7 +887,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 11.14
+      "score": 11.13
+    },
+    {
+      "id": "ev-0ujpabj",
+      "title": "Incendio destruye dos ómnibus incautados en Curuguaty",
+      "summary": "Un incendio destruyó dos ómnibus que estaban incautados y en el patio de la Comisaría 5.ª de Curuguaty. Los vehículos estaban bajo custodia de la Senabico por desperfectos mecánicos. Los bomberos controlaron las llamas, pero los buses quedaron inservibles. Criminalística investiga el origen del fuego.",
+      "keyPoints": [
+        "El incendio destruyó dos ómnibus incautados.",
+        "Los vehículos estaban en la Comisaría 5.ª de Curuguaty.",
+        "Los bomberos controlaron las llamas.",
+        "Criminalística investiga el origen del siniestro."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Incendio destruye dos ómnibus incautados en A Ultranza Py",
+          "url": "https://elnacional.com.py/nacionales/incendio-destruye-dos-omnibus-incautados-ultranza-py-n113840",
+          "publishedAt": "2026-10-19T13:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad61b928a45e.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Incendio consumió buses incautados en A Ultranza Py",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/19/incendio-consumio-buses-incautados-en-a-ultranza-py",
+          "publishedAt": "2026-10-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PtAR6lGWeBSbF4uTjd9lKw8ra50=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CDDJG4PKNRD4DCPIN3LGBIGKXU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "A Ultranza: incendio destruyó buses incautados que estaban en una comisaría de Curuguaty",
+          "url": "https://www.lanacion.com.py/pais/2026/10/18/a-ultranza-incendio-destruyo-buses-incautados-que-estaban-en-una-comisaria-de-curuguaty",
+          "publishedAt": "2026-10-18T18:46:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2nzDwHy8of-SoiLhxRj2-qEgrkY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ONT4NVHXZFFK7KHKZMUOUMHDVE.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad61b928a45e.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/incendio-destruye-dos-omnibus-incautados-ultranza-py-n113840"
+      },
+      "firstSeenAt": "2026-10-19T10:54:06.982Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-19T15:19:04.678Z",
+      "updatedSlot": "tarde",
+      "score": 10.88
     },
     {
       "id": "ev-0d11tnj",
@@ -890,7 +990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.51
+      "score": 10.49
     },
     {
       "id": "ev-1odxwep",
@@ -941,7 +1041,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.98
     },
     {
       "id": "ev-1vv5zr5",
@@ -984,7 +1084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.61
     },
     {
       "id": "ev-0ac21pt",
@@ -1027,7 +1127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.55
+      "score": 9.54
     },
     {
       "id": "ev-0j7u7i9",
@@ -1071,7 +1171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.55
+      "score": 9.53
     },
     {
       "id": "ev-1devse9",
@@ -1122,7 +1222,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.99
+      "score": 7.97
     },
     {
       "id": "ev-1x724cu",
@@ -1174,7 +1274,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.5
+      "score": 7.49
     },
     {
       "id": "ev-06gxekz",
@@ -1217,7 +1317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.04
+      "score": 7.03
     },
     {
       "id": "ev-04wz6k0",
@@ -1261,7 +1361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.99
+      "score": 6.97
     },
     {
       "id": "ev-0nlv18d",
@@ -1305,7 +1405,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.95
     },
     {
       "id": "ev-0wt1hai",
@@ -1349,7 +1449,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.54
+      "score": 6.53
     },
     {
       "id": "ev-11acg37",
@@ -1392,7 +1492,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.5
+      "score": 6.48
     },
     {
       "id": "ev-0cp0l0p",
@@ -1435,7 +1535,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.49
+      "score": 6.48
     },
     {
       "id": "ev-0mleveh",
@@ -1478,50 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.99
-    },
-    {
-      "id": "ev-0ujpabj",
-      "title": "Incendio destruye buses incautados que estaban en una comisaría de Curuguaty",
-      "summary": "Un incendio consumió buses incautados que se encontraban en una comisaría de Curuguaty, en el distrito de A Ultranza. Los bomberos controlaron las llamas, pero los vehículos quedaron inservibles. Hasta el momento se desconoce el origen del siniestro.",
-      "keyPoints": [
-        "Los buses estaban incautados y guardados en una comisaría.",
-        "Los bomberos lograron controlar las llamas.",
-        "El origen del incendio aún se desconoce."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "A Ultranza: incendio destruyó buses incautados que estaban en una comisaría de Curuguaty",
-          "url": "https://www.lanacion.com.py/pais/2026/10/18/a-ultranza-incendio-destruyo-buses-incautados-que-estaban-en-una-comisaria-de-curuguaty",
-          "publishedAt": "2026-10-18T18:46:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/2nzDwHy8of-SoiLhxRj2-qEgrkY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ONT4NVHXZFFK7KHKZMUOUMHDVE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Incendio consumió buses incautados en A Ultranza Py",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/19/incendio-consumio-buses-incautados-en-a-ultranza-py",
-          "publishedAt": "2026-10-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PtAR6lGWeBSbF4uTjd9lKw8ra50=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CDDJG4PKNRD4DCPIN3LGBIGKXU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ONT4NVHXZFFK7KHKZMUOUMHDVE.jpeg?auth=c85ac8e2c1e22961f4b1895ffcdb48bb8cfe6cea4b854acefe6e3ef3313e640b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/18/a-ultranza-incendio-destruyo-buses-incautados-que-estaban-en-una-comisaria-de-curuguaty"
-      },
-      "firstSeenAt": "2026-10-19T10:54:06.982Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-19T10:54:06.982Z",
-      "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.98
     },
     {
       "id": "ev-0ff71gs",
@@ -1556,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.63
     },
     {
       "id": "ev-0sokdgo",
@@ -1591,7 +1648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.62
     },
     {
       "id": "ev-1qxlohy",
@@ -1625,7 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.62
     },
     {
       "id": "ev-1pfoxhb",
@@ -1660,7 +1717,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.61
     },
     {
       "id": "ev-0uj0ggo",
@@ -1695,7 +1752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.61
     },
     {
       "id": "ev-163igi8",
@@ -1730,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.6
     },
     {
       "id": "ev-11cq33p",
@@ -1765,7 +1822,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.58
     },
     {
       "id": "ev-0p8utuu",
@@ -1800,7 +1857,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.58
     },
     {
       "id": "ev-07xh0ja",
@@ -1832,7 +1889,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.56
     },
     {
       "id": "ev-1c48jer",
@@ -1867,7 +1924,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.54
     },
     {
       "id": "ev-0nwk6jr",
@@ -1902,7 +1959,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.54
+      "score": 5.52
     },
     {
       "id": "ev-1qplwr8",
@@ -1934,7 +1991,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.54
+      "score": 5.52
     },
     {
       "id": "ev-06dnx42",
@@ -1969,7 +2026,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.52
     },
     {
       "id": "ev-0x5ui62",
@@ -2004,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-1ti1ulr",
@@ -2039,7 +2096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.47
     },
     {
       "id": "ev-16ovols",
@@ -2074,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.47
     },
     {
       "id": "ev-1vcsuhc",
@@ -2110,7 +2167,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.47
     },
     {
       "id": "ev-05fqq2k",
@@ -2145,7 +2202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.47
     },
     {
       "id": "ev-0s0ahnw",
@@ -2180,7 +2237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.45
     },
     {
       "id": "ev-1ayzmw0",
@@ -2214,7 +2271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.43
     },
     {
       "id": "ev-0bo264c",
@@ -2249,7 +2306,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.42
+      "score": 5.4
     },
     {
       "id": "ev-0d061ms",
@@ -2301,7 +2358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:58:27.620Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.98
     },
     {
       "id": "ev-1dgjxsh",
@@ -2336,7 +2393,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.04
+      "score": 3.03
     },
     {
       "id": "ev-1lipl1w",
@@ -2367,7 +2424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.01
+      "score": 2.99
     },
     {
       "id": "ev-1y8hjxy",
@@ -2398,7 +2455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3
+      "score": 2.98
     }
   ],
   "runs": [
@@ -2429,6 +2486,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 15
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-19T15:19:04.678Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 13
     }
   ]
 }
