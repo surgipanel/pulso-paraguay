@@ -14,7 +14,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { env, exit } from "node:process";
 import { renderCard, distinctSourceNames, fontsAvailable } from "../src/card.mjs";
-import { credentialsFromEnv, uploadImage, createPost, xLength } from "../src/x-client.mjs";
+import { credentialsFromEnv, uploadImage, createPost, xLength, whoAmI } from "../src/x-client.mjs";
 import { TIMEZONE } from "../src/config.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -109,13 +109,31 @@ async function main() {
   const creds = credentialsFromEnv();
   if (!creds) { log("sin credenciales de X (X_API_KEY…); se omite la publicación"); return; }
 
-  const record = { day: today, eventId: ev.id, title: ev.title, category: ev.category, edition: latest.editionDate, at: new Date().toISOString(), withLink, ok: false, tweetId: null, error: null };
+  const record = { day: today, eventId: ev.id, title: ev.title, category: ev.category, edition: latest.editionDate, at: new Date().toISOString(), withLink, ok: false, tweetId: null, withImage: true, error: null };
+  const lastErr = social.posts.at(-1)?.error || "";
   try {
-    const mediaId = await uploadImage(creds, png, "image/png");
-    const post = await createPost(creds, text, [mediaId]);
+    // Si la publicación anterior falló por autenticación, primero se verifica la identidad de las claves.
+    if (/HTTP 40[13]/.test(lastErr)) {
+      try {
+        const me = await whoAmI(creds);
+        log(`credenciales válidas: @${me?.username ?? "?"}`);
+      } catch (e) {
+        throw new Error(`Credenciales rechazadas por X (${String(e.message).slice(0, 120)}). Revisar los cuatro secretos X_API_KEY / X_API_SECRET / X_ACCESS_TOKEN / X_ACCESS_SECRET en GitHub; el Access Token debe decir "Read and Write".`);
+      }
+    }
+    let mediaIds = [];
+    try {
+      mediaIds = [await uploadImage(creds, png, "image/png")];
+    } catch (e) {
+      // La imagen no debe frenar la noticia: se publica solo texto y se deja constancia.
+      log(`aviso: no se pudo subir la tarjeta (${String(e.message).slice(0, 160)}); se publica sin imagen`);
+      record.withImage = false;
+      record.imageError = String(e.message).slice(0, 200);
+    }
+    const post = await createPost(creds, text, mediaIds);
     record.ok = true;
     record.tweetId = post?.id ?? null;
-    log(`publicado: https://x.com/i/web/status/${record.tweetId}`);
+    log(`publicado: https://x.com/i/web/status/${record.tweetId}${record.withImage ? "" : " (sin imagen)"}`);
   } catch (err) {
     record.error = String(err.message).slice(0, 300);
     log(`ERROR al publicar: ${record.error}`);

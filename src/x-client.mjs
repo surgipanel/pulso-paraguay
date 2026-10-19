@@ -61,6 +61,12 @@ async function request(creds, method, pathname, { json, form, query } = {}) {
   return data;
 }
 
+/** Diagnóstico: identidad de las credenciales (GET /2/users/me). Lanza si X las rechaza. */
+export async function whoAmI(creds) {
+  const res = await request(creds, "GET", "/2/users/me");
+  return res?.data ?? res;
+}
+
 /** Sube una imagen PNG/JPEG y devuelve su media id. */
 export async function uploadImage(creds, buffer, mediaType = "image/png") {
   const init = await request(creds, "POST", "/2/media/upload/initialize", {
