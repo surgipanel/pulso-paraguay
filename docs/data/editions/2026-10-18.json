@@ -1,26 +1,34 @@
 {
   "date": "2026-10-18",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-18T21:33:48.478Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-19T01:06:53.080Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0evwadi",
-      "title": "Asoban pide transparencia y criterios iguales tras respuestas del BCP",
-      "summary": "La Asociación de Bancos del Paraguay (Asoban) considera que las respuestas del Banco Central a los pedidos de informes del Senado no aclararon las dudas sobre la supervisión bancaria. El gremio reclama información más precisa sobre la solvencia de las entidades y criterios iguales para todos los bancos. En un comunicado, Asoban rechazó que el debate sea una guerra comercial. El tema toca la confianza en el sistema financiero del país.",
+      "title": "Asoban reclama mayor claridad al BCP sobre la supervisión del sistema financiero",
+      "summary": "ASUNCIÓN. La Asociación de Bancos del Paraguay (Asoban) manifestó que las respuestas remitidas por el Banco Central del Paraguay (BCP) a los pedidos de informes del Congreso Nacional no lograron aclarar las principales dudas sobre el ejercicio de la supervisión bancaria.",
       "keyPoints": [
-        "Asoban emitió un comunicado tras las respuestas del BCP.",
-        "Las respuestas fueron a pedidos de informes del Senado.",
-        "Asoban sostiene que las dudas sobre la supervisión bancaria siguen sin resolverse.",
-        "El gremio pide igualdad ante la ley y transparencia."
+        "ASUNCIÓN.",
+        "Paraguay cuenta con un marco institucional y jurídico que contribuye a sostener la confianza de los inversionistas, en un escenario en el que la previsibilidad y el funcionamiento del sistema financiero mantienen un papel relevante.",
+        "La Asoban considera que las respuestas brindadas por el BCP, a los pedidos de informes del Senado, no lograron despejar las principales inquietudes planteadas sobre el ejercicio de la supervisión bancaria.",
+        "La Asociación de Bancos del Paraguay (ASOBAN) emitió un comunicado en el cual fija su postura tras las respuestas brindadas por el Banco Central del Paraguay (BCP) a los pedidos de informes solicitados por el Senado…"
       ],
       "category": "economia",
       "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BID Invest valora llamado de Asoban a mantener la prudencia y fortalecer el sistema financiero",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/18/bid-invest-valora-llamado-de-asoban-a-mantener-la-prudencia-y-fortalecer-el-sistema-financiero",
+          "publishedAt": "2026-10-18T23:08:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/P_4WiC2_3TBQxk4he_bVnnrJbig=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TE7ROHNKCZCCNLJKVZJA7YUUDM.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -71,15 +79,224 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/03/6980ef0e1f9fecb67730744769bf354e.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/banqueros-rebelan-central-n113809"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-114323.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/asoban-reclama-mayor-claridad-al-bcp-sobre-la-supervision-del-sistema-financiero"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedAt": "2026-10-19T01:06:53.080Z",
       "updatedSlot": "tarde",
-      "score": 23.66
+      "score": 23.84,
+      "expiresAt": null
+    },
+    {
+      "id": "ev-1u65ku4",
+      "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
+      "summary": "ASUNCIÓN- El presidente de la Asociación Nacional Republicana (ANR) y líder de Honor Colorado, Horacio Cartes, anunció este domingo que el movimiento no presentará candidaturas en las elecciones partidarias previstas para 2027. A través de una publicación en sus redes sociales comunicó su decisión y señaló que se concentrará en el fortalecimiento institucional del Partido …",
+      "keyPoints": [
+        "ASUNCIÓN- El presidente de la Asociación Nacional Republicana (ANR) y líder de Honor Colorado, Horacio Cartes, anunció este domingo que el movimiento no presentará candidaturas en las elecciones partidarias previstas para 2027.",
+        "El presidente de la ANR, Horacio Cartes, anunció que el movimiento Honor Colorado no presentará candidaturas para las elecciones internas del próximo año.",
+        "Horacio Cartes, presidente de la Asociación Nacional Republicana (ANR) y líder de Honor Colorado, anunció en la tarde de este domingo que su movimiento no presentará candidatura alguna para las internas partidarias a celebrarse en el…",
+        "El presidente de la ANR comunicó que el movimiento oficialista no postulará nombres para los próximos comicios internos."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sin reelección de Cartes ni chapa propia: HC se retira de las internas coloradas del 2027",
+          "url": "https://www.abc.com.py/politica/2026/10/18/horacio-cartes-anuncia-que-honor-colorado-no-presentara-candidato-a-la-anr-en-2027",
+          "publishedAt": "2026-10-18T21:31:44.000Z",
+          "image": "https://www.abc.com.py/resizer/T3i2ly4M6GyMpKXcVGcaTvjJynU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YGCRI2KBIZGA3B23FVOVKXVIGU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/honor-colorado-no-presentara-candidaturas-nacionales-ni-partidarias-para-las-internas",
+          "publishedAt": "2026-10-18T21:05:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UGIr2lbCWnx_cBvP1A08Y2FYaBY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4VOCWXGOARCSBEVB6BHUUAWDN4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
+          "url": "https://www.adndigital.com.py/cartes-anuncia-que-honor-colorado-no-presentara-candidaturas-en-las-internas-de-2027",
+          "publishedAt": "2026-10-18T20:59:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "HC anuncia que Honor Colorado no presentará candidaturas para internas del 2027",
+          "url": "https://www.hoy.com.py/politica/2026/10/18/cartes-confirma-que-honor-colorado-no-presentara-candidaturas-para-las-internas-del-2027",
+          "publishedAt": "2026-10-18T20:55:25.910Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/WAZ5C5YBLBCG3I7R6RKZBE5X6M.jpeg?auth=e3e278e08c1f89d27af3455f815f76e761687e82cb45ca5027e9aa18a925ba5e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Giro político: Cartes anuncia que Honor Colorado no presentará candidato presidencial",
+          "url": "https://elnacional.com.py/politica/giro-politico-cartes-anuncia-honor-colorado-presentara-candidato-presidencial-n113826",
+          "publishedAt": "2026-10-18T20:48:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a4fc3e87b9b2.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Giro político: Cartes anuncia que Honor Colorado no presentará candidatura para internas del 2027",
+          "url": "https://elnacional.com.py/politica/giro-politico-cartes-anuncia-honor-colorado-presentara-candidatura-internas-2027-n113826",
+          "publishedAt": "2026-10-18T20:48:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a4fc3e87b9b2.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Horacio Cartes anuncia que Honor Colorado no presentará candidatura para internas del 2027",
+          "url": "https://www.ultimahora.com/horacio-cartes-anuncia-que-honor-colorado-no-presentara-candidatura-para-internas-del-2027",
+          "publishedAt": "2026-10-18T20:44:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Diputado Esgaib ratifica su lealtad a Cartes",
+          "url": "https://www.adndigital.com.py/diputado-esgaib-ratifica-su-lealtad-a-cartes",
+          "publishedAt": "2026-10-18T15:20:09.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/whatsapp-image-2026-03-01-at-120149.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YGCRI2KBIZGA3B23FVOVKXVIGU.jpg?auth=db9468cb10e699c02617f16bdf7aa5ee991e152fb5d533f75ca27dccdf9f9b09&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/horacio-cartes-anuncia-que-honor-colorado-no-presentara-candidato-a-la-anr-en-2027"
+      },
+      "firstSeenAt": "2026-10-18T21:33:48.478Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-19T01:06:53.080Z",
+      "updatedSlot": "tarde",
+      "score": 23.7
+    },
+    {
+      "id": "ev-04w5hom",
+      "title": "Baruja descarta integrar una chapa presidencial para el 2028",
+      "summary": "El ministro de Urbanismo, Vivienda y Hábitat (MUVH), y dirigente colorado Juan Carlos Baruja anunció este domingo su decisión de declinar su candidatura presidencial para el 2028. Sostuvo que no está interesado en integrar ninguna chapa presidencial, independientemente del lugar que pudiera ocupar en ella.",
+      "keyPoints": [
+        "El ministro de Urbanismo, Vivienda y Hábitat (MUVH), y dirigente colorado Juan Carlos Baruja anunció este domingo su decisión de declinar su candidatura presidencial para el 2028.",
+        "ASUNCIÓN.",
+        "El expresidente de la República valoró la decisión del ministro de Vivienda de apartarse de cualquier candidatura a la vicepresidencia para las elecciones de 2028.",
+        "El expresidente de la República Nicanor Duarte Frutos destacó el desprendimiento político del ministro de Urbanismo, Vivienda y Hábitat, Juan Carlos Baruja al renunciar a su postulación a integrar la dupla presidencial para el 2028."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Duarte Frutos ve en la decisión de Baruja una oportunidad para la unidad colorada",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/duarte-frutos-ve-en-la-decision-de-baruja-una-oportunidad-para-la-unidad-colorada",
+          "publishedAt": "2026-10-18T15:31:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pXWNxlsNvufYDk-EoAy3UK4bw6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABYDGNKASVGUZPIURGOCUCHBGU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Estigarribia pide que la oposición elija en las urnas a su candidato para 2028",
+          "url": "https://www.adndigital.com.py/estigarribia-pide-que-la-oposicion-elija-en-las-urnas-a-su-candidato-para-2028",
+          "publishedAt": "2026-10-18T15:26:13.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-11-at-102721.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nicanor sobre Baruja: \"Está obrando prudentemente\"",
+          "url": "https://elnacional.com.py/politica/nicanor-sobre-baruja-esta-obrando-prudentemente-n113798",
+          "publishedAt": "2026-10-18T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa42110d2704.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Riveros rechaza que la oposición elija a dedo al candidato presidencial para 2028",
+          "url": "https://www.adndigital.com.py/riveros-rechaza-que-la-oposicion-elija-a-dedo-al-candidato-presidencial-para-2028",
+          "publishedAt": "2026-10-18T14:17:53.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-04-at-0816401.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Baruja anuncia que no integrará ninguna dupla presidencial para el 2028",
+          "url": "https://www.adndigital.com.py/baruja-anuncia-que-no-integrara-ninguna-dupla-presidencial-para-el-2028",
+          "publishedAt": "2026-10-18T14:11:28.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-111018.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Baruja da un paso al costado en la disputa por chapa presidencial: “No está en mi interés”",
+          "url": "https://www.ultimahora.com/baruja-da-un-paso-al-costado-en-la-disputa-por-chapa-presidencial-no-esta-en-mi-interes",
+          "publishedAt": "2026-10-18T11:26:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Baruja rechaza integrar una dupla presidencial para el 2028",
+          "url": "https://www.abc.com.py/politica/2026/10/18/baruja-se-baja-de-la-carrera-presidencial-y-descarta-integrar-una-dupla-para-2028",
+          "publishedAt": "2026-10-18T11:25:39.000Z",
+          "image": "https://www.abc.com.py/resizer/G-hPKl5NWfh5o1BmigPX4zt9WF0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4GBUP5OCCJHQRCRDY6G5UVBGNE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nicanor Duarte Frutos fulmina al equipo económico de Peña",
+          "url": "https://elnacional.com.py/economia/nicanor-duarte-frutos-fulmina-equipo-economico-pena-n113776",
+          "publishedAt": "2026-10-18T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/07/340630177238115bd5f08ea49572e234.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juan Carlos Baruja descarta su candidatura y agita la interna de Honor Colorado",
+          "url": "https://elnacional.com.py/politica/juan-carlos-baruja-descarta-su-candidatura-agita-interna-honor-colorado-n113794",
+          "publishedAt": "2026-10-18T11:09:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac32cbe495d7.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Baruja descarta integrar una chapa presidencial para el 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/baruja-descarta-integrar-una-chapa-presidencial-para-el-2028",
+          "publishedAt": "2026-10-18T10:57:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/35OFgydkEkby-x1CekGWLtiCow0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q72YVODRSRA7VFDJSF6G3DRVHE.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Baruja se retira de la disputa por la chapa presidencial",
+          "url": "https://www.hoy.com.py/politica/2026/10/18/baruja-se-retira-de-la-disputa-por-la-chapa-presidencial",
+          "publishedAt": "2026-10-18T10:46:37.450Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/5HOUJCJPPJHP5OI464SSCZLHF4.jpeg?auth=b50d360be705076290979b7242a3e7d265fc19ef6d0c5fad12dd94762ac5dfc5&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/Q72YVODRSRA7VFDJSF6G3DRVHE.jpg?auth=b9ba2acb6649b25f64046a448e8acaf493022bf541fcf306b146c3094001159c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/baruja-descarta-integrar-una-chapa-presidencial-para-el-2028"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-19T01:06:53.080Z",
+      "updatedSlot": "tarde",
+      "score": 23.2,
+      "expiresAt": null
     },
     {
       "id": "ev-0ignndj",
@@ -170,150 +387,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 23.45
-    },
-    {
-      "id": "ev-04w5hom",
-      "title": "Baruja descarta integrar cualquier dupla presidencial colorada para 2028",
-      "summary": "El ministro de Urbanismo, Vivienda y Hábitat, Juan Carlos Baruja, anunció que no integrará ninguna dupla presidencial para las elecciones de 2028. Según su comunicado, no quiere que su nombre divida al movimiento Honor Colorado. La decisión llega tras semanas de fricciones internas en la ANR. Baruja dijo que la decisión fue difícil y reafirmó su lealtad a Horacio Cartes.",
-      "keyPoints": [
-        "Baruja anunció la decisión mediante un comunicado.",
-        "No aceptará ser candidato a presidente ni vicepresidente en 2028.",
-        "Argumentó que busca evitar divisiones en Honor Colorado.",
-        "Ratificó su lealtad a Horacio Cartes."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Baruja anuncia que no integrará ninguna dupla presidencial para el 2028",
-          "url": "https://www.adndigital.com.py/baruja-anuncia-que-no-integrara-ninguna-dupla-presidencial-para-el-2028",
-          "publishedAt": "2026-10-18T14:11:28.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-111018.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Baruja da un paso al costado en la disputa por chapa presidencial: “No está en mi interés”",
-          "url": "https://www.ultimahora.com/baruja-da-un-paso-al-costado-en-la-disputa-por-chapa-presidencial-no-esta-en-mi-interes",
-          "publishedAt": "2026-10-18T11:26:52.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Baruja rechaza integrar una dupla presidencial para el 2028",
-          "url": "https://www.abc.com.py/politica/2026/10/18/baruja-se-baja-de-la-carrera-presidencial-y-descarta-integrar-una-dupla-para-2028",
-          "publishedAt": "2026-10-18T11:25:39.000Z",
-          "image": "https://www.abc.com.py/resizer/G-hPKl5NWfh5o1BmigPX4zt9WF0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4GBUP5OCCJHQRCRDY6G5UVBGNE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Juan Carlos Baruja descarta su candidatura y agita la interna de Honor Colorado",
-          "url": "https://elnacional.com.py/politica/juan-carlos-baruja-descarta-su-candidatura-agita-interna-honor-colorado-n113794",
-          "publishedAt": "2026-10-18T11:09:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac32cbe495d7.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Baruja descarta integrar una chapa presidencial para el 2028",
-          "url": "https://www.lanacion.com.py/politica/2026/10/18/baruja-descarta-integrar-una-chapa-presidencial-para-el-2028",
-          "publishedAt": "2026-10-18T10:57:21.000Z",
-          "image": "https://www.lanacion.com.py/resizer/35OFgydkEkby-x1CekGWLtiCow0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q72YVODRSRA7VFDJSF6G3DRVHE.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Baruja se retira de la disputa por la chapa presidencial",
-          "url": "https://www.hoy.com.py/politica/2026/10/18/baruja-se-retira-de-la-disputa-por-la-chapa-presidencial",
-          "publishedAt": "2026-10-18T10:46:37.450Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/5HOUJCJPPJHP5OI464SSCZLHF4.jpeg?auth=b50d360be705076290979b7242a3e7d265fc19ef6d0c5fad12dd94762ac5dfc5&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-111018.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/baruja-anuncia-que-no-integrara-ninguna-dupla-presidencial-para-el-2028"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 23.39
-    },
-    {
-      "id": "ev-1u65ku4",
-      "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
-      "summary": "El presidente de la ANR, Horacio Cartes, anunció este domingo que su movimiento Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas previstas para 2027. Según las notas, Cartes dijo que se concentrará en el fortalecimiento institucional del partido. La decisión llega después de que un ministro descartara integrar la chapa presidencial.",
-      "keyPoints": [
-        "Cartes anunció la decisión este domingo 18 de octubre.",
-        "Honor Colorado no presentará candidaturas para las internas partidarias previstas para 2027.",
-        "Cartes dijo que se concentrará en el fortalecimiento institucional del partido.",
-        "La decisión se conoce después del anuncio del ministro Juan Carlos Baruja."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Honor Colorado no presentará candidaturas nacionales ni partidarias para las internas",
-          "url": "https://www.lanacion.com.py/politica/2026/10/18/honor-colorado-no-presentara-candidaturas-nacionales-ni-partidarias-para-las-internas",
-          "publishedAt": "2026-10-18T21:05:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/UGIr2lbCWnx_cBvP1A08Y2FYaBY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4VOCWXGOARCSBEVB6BHUUAWDN4.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
-          "url": "https://www.adndigital.com.py/cartes-anuncia-que-honor-colorado-no-presentara-candidaturas-en-las-internas-de-2027",
-          "publishedAt": "2026-10-18T20:59:59.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "HC anuncia que Honor Colorado no presentará candidaturas para internas del 2027",
-          "url": "https://www.hoy.com.py/politica/2026/10/18/cartes-confirma-que-honor-colorado-no-presentara-candidaturas-para-las-internas-del-2027",
-          "publishedAt": "2026-10-18T20:55:25.910Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/WAZ5C5YBLBCG3I7R6RKZBE5X6M.jpeg?auth=e3e278e08c1f89d27af3455f815f76e761687e82cb45ca5027e9aa18a925ba5e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Giro político: Cartes anuncia que Honor Colorado no presentará candidato presidencial",
-          "url": "https://elnacional.com.py/politica/giro-politico-cartes-anuncia-honor-colorado-presentara-candidato-presidencial-n113826",
-          "publishedAt": "2026-10-18T20:48:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a4fc3e87b9b2.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Horacio Cartes anuncia que Honor Colorado no presentará candidatura para internas del 2027",
-          "url": "https://www.ultimahora.com/horacio-cartes-anuncia-que-honor-colorado-no-presentara-candidatura-para-internas-del-2027",
-          "publishedAt": "2026-10-18T20:44:04.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4VOCWXGOARCSBEVB6BHUUAWDN4.jpeg?auth=5681002adfd5eb5238fda9dc1c6d7fa7ba4332ef9999267168043f4bc19f70ba&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/18/honor-colorado-no-presentara-candidaturas-nacionales-ni-partidarias-para-las-internas"
-      },
-      "firstSeenAt": "2026-10-18T21:33:48.478Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T21:33:48.478Z",
-      "updatedSlot": "tarde",
-      "score": 20.96
+      "score": 23.16
     },
     {
       "id": "ev-1yg0ra8",
@@ -396,24 +470,48 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T21:33:48.478Z",
       "updatedSlot": "tarde",
-      "score": 20.76,
+      "score": 20.47,
       "expiresAt": null
     },
     {
       "id": "ev-12sixmg",
-      "title": "Lula y Flávio Bolsonaro se enfrentan en su primer debate antes del balotaje",
-      "summary": "Lula da Silva y Flávio Bolsonaro se enfrentan este domingo en el primer debate electoral de la campaña en Brasil, a una semana de la segunda vuelta. El debate se transmite por la cadena Band. Antes, ambos realizaron actos masivos en la avenida Paulista. Flávio Bolsonaro ganó la primera vuelta con 47% frente al 45% de Lula, según El Nacional. Las encuestas daban ventaja al mandatario, aunque medios señalan que ahora Lula gana terreno.",
+      "title": "Lula y Bolsonaro se enfrentan en su primer debate a una semana del balotaje en Brasil",
+      "summary": "Tras una jornada de movilizaciones de la derecha y la izquierda, incluidos actos en el mar, Luiz Inácio Lula da Silva y Flávio Bolsonaro se enfrentan este domingo en su primer cara a cara, a una semana de un balotaje en un Brasil muy polarizado.",
       "keyPoints": [
-        "El debate se realiza este domingo a las 20:00 hora local en la cadena Band.",
-        "Flávio Bolsonaro obtuvo 47% en la primera vuelta del 4 de octubre, frente a 45% de Lula.",
-        "Ambos candidatos hicieron marchas en la avenida Paulista antes del debate.",
-        "Flávio Bolsonaro dijo que va a cuestionar los delitos atribuidos a Lula, sin detallar acusaciones."
+        "Tras una jornada de movilizaciones de la derecha y la izquierda, incluidos actos en el mar, Luiz Inácio Lula da Silva y Flávio Bolsonaro se enfrentan este domingo en su primer cara a cara, a una…",
+        "El hijo del expresidente ultraderechista Jair Bolsonaro, venció la primera vuelta del 4 de octubre con 47% de los votos, frente a 45% de Lula.",
+        "El presidente Luiz Inácio Lula da Silva, candidato a su cuarto mandato no consecutivo por el Partido de los Trabajadores (PT) y el senador Flávio Bolsonaro, aspirante a su primer mandato como jefe de Estado por…",
+        "Los dos candidatos se atacaron mutuamente y se interrumpieron durante el primer debate en esta campaña electoral, retransmitido en la cadena Band, con las sospechas que pesan sobre algunos de sus allegados."
       ],
       "category": "internacional",
       "scope": "internacional",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula y Flávio Bolsonaro chocan en debate por las sospechas de corrupción de sus entornos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/lula-y-flavio-bolsonaro-chocan-en-debate-por-las-sospechas-de-corrupcion-de-sus-entornos",
+          "publishedAt": "2026-10-19T00:35:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula y Bolsonaro coinciden en preocupación por la seguridad en el primer debate electoral",
+          "url": "https://www.abc.com.py/internacionales/2026/10/18/lula-y-bolsonaro-coinciden-en-preocupacion-por-la-seguridad-en-el-primer-debate-electoral",
+          "publishedAt": "2026-10-19T00:05:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lula y Bolsonaro se enfrentan en su primer debate a una semana del balotaje en Brasil",
+          "url": "https://www.ultimahora.com/lula-y-bolsonaro-se-enfrentan-en-su-primer-debate-a-una-semana-del-balotaje-en-brasil",
+          "publishedAt": "2026-10-18T22:21:00.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -462,25 +560,34 @@
       },
       "firstSeenAt": "2026-10-18T18:09:39.867Z",
       "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
+      "updatedAt": "2026-10-19T01:06:53.080Z",
       "updatedSlot": "tarde",
-      "score": 15.21
+      "score": 15.46,
+      "expiresAt": null
     },
     {
       "id": "ev-1tkivhp",
-      "title": "Subsecretario de Estado de EE.UU. Christopher Landau visita Paraguay y se reunirá con Peña",
-      "summary": "Christopher Landau, subsecretario de Estado de Estados Unidos, llega a Paraguay en una gira que incluye Buenos Aires. Según ABC Color, se reunirá el lunes con el presidente Santiago Peña para tratar comercio y seguridad y encabezará una delegación de empresas estadounidenses interesadas en invertir. De acuerdo con HOY, permanecerá tres días en el país, y el propio Landau corrigió a un comunicador que describió la visita como una breve escala.",
+      "title": "Christopher Landau llega a Asunción para una visita oficial de tres días",
+      "summary": "El subsecretario de Estado de Estados Unidos, Christopher Landau, llega a Paraguay para una visita oficial de tres días. Viene al frente de una delegación de empresarios norteamericanos. La agenda busca fortalecer la relación bilateral, las inversiones y el comercio. Landau vivió en Paraguay entre 1972 y 1977, cuando su padre fue embajador.",
       "keyPoints": [
-        "Landau visitará al presidente Santiago Peña, según el Departamento de Estado.",
-        "Lo acompaña Juan Pablo Segura, secretario de Estado adjunto para el Hemisferio Occidental.",
-        "Encabezará una delegación comercial de empresas estadounidenses.",
-        "Según HOY, Landau corrigió a un comunicador que habló de una breve escala."
+        "Landau es subsecretario de Estado de Estados Unidos.",
+        "La visita oficial dura tres días.",
+        "Llega acompañado de una delegación de empresarios norteamericanos.",
+        "El objetivo es fortalecer inversiones, comercio y relaciones bilaterales."
       ],
       "category": "politica",
       "scope": "paraguay",
       "summaryKind": "ia",
-      "model": "claude-opus-5-5",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Este lunes llega a Paraguay Christopher Landau, de vuelta al escenario de su infancia",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/18/este-lunes-llega-a-paraguay-christopher-landau-de-vuelta-al-escenario-de-su-infancia",
+          "publishedAt": "2026-10-19T00:01:53.473Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QR4OP6QRTBGKFCC3LSUH3GVGEU.jpg?auth=2682382e57d3ba9dd5cc750862d0c187b91214fd92bd3e55194bf68286c00aaf&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -539,15 +646,84 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NW245TQTAZHBVFXIW27EFIVRBA.jpeg?auth=3702100891432c2d3b6d8723ebb94fe6af381c7551454a1e12c4daea82e9e73f&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/18/eeuu-pena-recibe-manana-a-landau-para-hablar-de-comercio-y-seguridad"
+        "url": "https://www.lanacion.com.py/resizer/v2/QR4OP6QRTBGKFCC3LSUH3GVGEU.jpg?auth=2682382e57d3ba9dd5cc750862d0c187b91214fd92bd3e55194bf68286c00aaf&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/18/este-lunes-llega-a-paraguay-christopher-landau-de-vuelta-al-escenario-de-su-infancia"
       },
       "firstSeenAt": "2026-10-18T12:34:37.532Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-18T20:09:15.197Z",
-      "updatedSlot": "manana",
-      "score": 14.57
+      "updatedAt": "2026-10-19T01:06:53.080Z",
+      "updatedSlot": "tarde",
+      "score": 14.91,
+      "expiresAt": null
+    },
+    {
+      "id": "ev-0bb69df",
+      "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
+      "summary": "CERRITO. El río Paraná llegó a los 6,70 metros en el puerto de Cerrito, 90 centímetros por encima de la marca de inundabilidad. La Municipalidad advierte que el nivel podría aumentar entre 20 y 30 centímetros en las próximas 24 horas.",
+      "keyPoints": [
+        "CERRITO.",
+        "CIUDAD DEL ESTE.",
+        "La marca alcanzada de los 6,46 metros en el río Paraná este domingo confirma el avance del agua en zonas bajas de Ayolas, Departamento de Misiones.",
+        "En los últimos días se registraron variaciones en el nivel del río Paraguay , en la zona de Concepción."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Concepción: Río Paraguay sube 9 centímetros, pero no se reportan inundaciones",
+          "url": "https://www.abc.com.py/nacionales/2026/10/18/concepcion-rio-paraguay-sube-9-centimetros-pero-no-se-reportan-inundaciones",
+          "publishedAt": "2026-10-18T23:58:04.000Z",
+          "image": "https://www.abc.com.py/resizer/YyxMfiWsY7vNPIdxQQCvxCrABwI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NBL2RPWH4JGG5CJC5EJREV7P2Y.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ayolas bajo agua: El río Paraná roza los 6,50 metros y arrastra más de 3.000 damnificados",
+          "url": "https://www.ultimahora.com/ayolas-bajo-agua-el-rio-parana-roza-los-6-50-metros-y-arrastra-mas-de-3-000-damnificados",
+          "publishedAt": "2026-10-18T17:38:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
+          "url": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana",
+          "publishedAt": "2026-10-18T14:36:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Río Paraná baja levemente, pero prevén nuevas lluvias",
+          "url": "https://www.adndigital.com.py/rio-parana-baja-levemente-pero-preven-nuevas-lluvias",
+          "publishedAt": "2026-10-18T13:54:40.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-094806.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerrito bajo agua: 398 familias afectadas y crecen los reclamos por asistencia",
+          "url": "https://www.abc.com.py/clima/2026/10/18/cerrito-bajo-agua-398-familias-afectadas-y-crecen-los-reclamos-por-asistencia",
+          "publishedAt": "2026-10-18T13:28:17.000Z",
+          "image": "https://www.abc.com.py/resizer/ABGVPMbDKU_tXelQduouG5UzdUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NUUZ2JCL3NHQZBOC4TRNCUUNZ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana"
+      },
+      "firstSeenAt": "2026-10-18T18:09:39.867Z",
+      "firstSlot": "tarde",
+      "updatedAt": "2026-10-19T01:06:53.080Z",
+      "updatedSlot": "tarde",
+      "score": 14.9,
+      "expiresAt": null
     },
     {
       "id": "ev-0l7gniu",
@@ -598,7 +774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 13.51
+      "score": 13.21
     },
     {
       "id": "ev-05yngoc",
@@ -648,7 +824,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 13.08
+      "score": 12.78
     },
     {
       "id": "ev-0dcqlbi",
@@ -715,7 +891,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T21:33:48.478Z",
       "updatedSlot": "tarde",
-      "score": 11.77,
+      "score": 11.48,
       "expiresAt": null
     },
     {
@@ -782,7 +958,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 11.74
+      "score": 11.44
     },
     {
       "id": "ev-00jg9rq",
@@ -849,7 +1025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 11.68
+      "score": 11.38
     },
     {
       "id": "ev-0wzu5th",
@@ -899,7 +1075,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 11.04
+      "score": 10.74
     },
     {
       "id": "ev-0omish5",
@@ -942,7 +1118,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.63
+      "score": 9.34
     },
     {
       "id": "ev-02pzn3w",
@@ -983,7 +1159,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.5
+      "score": 9.2
     },
     {
       "id": "ev-1rpi9w3",
@@ -1025,7 +1201,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.49
+      "score": 9.19
     },
     {
       "id": "ev-1qsoz89",
@@ -1075,50 +1251,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.46
-    },
-    {
-      "id": "ev-0bb69df",
-      "title": "Cerrito bajo agua: casi 400 familias afectadas por la crecida del Paraná",
-      "summary": "La crecida del río Paraná dejó gran parte del casco urbano de Cerrito bajo agua. Según el registro municipal, hasta el sábado había 398 familias afectadas y 314 viviendas inundadas. La Municipalidad advierte que el nivel del río podría subir entre 20 y 30 centímetros más en 24 horas.",
-      "keyPoints": [
-        "398 familias afectadas según el registro municipal.",
-        "314 viviendas inundadas y 182 aisladas.",
-        "El río llegó a 6,70 metros en el puerto de Cerrito.",
-        "La Municipalidad prevé una nueva subida del río."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Cerrito está bajo agua en un 50% y prevén otra subida del río Paraná",
-          "url": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana",
-          "publishedAt": "2026-10-18T14:36:56.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Cerrito bajo agua: 398 familias afectadas y crecen los reclamos por asistencia",
-          "url": "https://www.abc.com.py/clima/2026/10/18/cerrito-bajo-agua-398-familias-afectadas-y-crecen-los-reclamos-por-asistencia",
-          "publishedAt": "2026-10-18T13:28:17.000Z",
-          "image": "https://www.abc.com.py/resizer/ABGVPMbDKU_tXelQduouG5UzdUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NUUZ2JCL3NHQZBOC4TRNCUUNZ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-113546.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/cerrito-esta-bajo-agua-en-un-50-y-preven-otra-subida-del-rio-parana"
-      },
-      "firstSeenAt": "2026-10-18T18:09:39.867Z",
-      "firstSlot": "tarde",
-      "updatedAt": "2026-10-18T18:09:39.867Z",
-      "updatedSlot": "tarde",
-      "score": 9.42
+      "score": 9.16
     },
     {
       "id": "ev-0vx8bba",
@@ -1160,7 +1293,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.4
+      "score": 9.11
     },
     {
       "id": "ev-1u59tj1",
@@ -1203,7 +1336,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.39
+      "score": 9.1
     },
     {
       "id": "ev-1okj052",
@@ -1246,7 +1379,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.36
+      "score": 9.07
     },
     {
       "id": "ev-17y9iex",
@@ -1288,7 +1421,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 9.32
+      "score": 9.03
     },
     {
       "id": "ev-1yzw2z2",
@@ -1330,7 +1463,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 9.21
+      "score": 8.91
+    },
+    {
+      "id": "ev-0lfbhi1",
+      "title": "Adolescente muere atropellado por un camión que habría quedado sin frenos en Ciudad del Este",
+      "summary": "Un adolescente de 17 años, identificado como Isaías Otazú, murió en el barrio San Miguel de Ciudad del Este al ser arrollado por un tractocamión que habría quedado sin frenos. Según La Nación, el vehículo sufrió una falla mecánica tras descargar mercaderías, tomó velocidad en una pendiente, chocó contra tres automóviles y terminó incrustado en una vivienda.",
+      "keyPoints": [
+        "La víctima fue Isaías Otazú, de 17 años.",
+        "El hecho ocurrió en el barrio San Miguel de Ciudad del Este.",
+        "El camión habría quedado sin frenos tras descargar mercaderías.",
+        "El vehículo embistió tres automóviles y terminó en una vivienda."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "summaryKind": "ia",
+      "model": "claude-opus-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Camión sin frenos atropella y mata a adolescente en Ciudad del Este",
+          "url": "https://elnacional.com.py/nacionales/camion-frenos-atropella-mata-adolescente-ciudad-este-n113759",
+          "publishedAt": "2026-10-17T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad3b2a562204.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Un adolescente murió tras ser arrollado por un camión sin frenos en Ciudad del Este",
+          "url": "https://www.lanacion.com.py/pais/2026/10/17/un-adolescente-murio-tras-ser-arrollado-por-un-camion-sin-frenos-en-ciudad-del-este",
+          "publishedAt": "2026-10-17T15:30:39.000Z",
+          "image": "https://www.lanacion.com.py/resizer/QXbRkyaZJ6zR8S8GWmnCoqVdJ_s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FRIQH6VUKVHSRN6Y6TCLUWNBQU.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad3b2a562204.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/camion-frenos-atropella-mata-adolescente-ciudad-este-n113759"
+      },
+      "firstSeenAt": "2026-10-18T12:34:37.532Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-18T20:09:15.197Z",
+      "updatedSlot": "manana",
+      "score": 8
     },
     {
       "id": "ev-10zhssa",
@@ -1381,51 +1557,8 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T21:33:48.478Z",
       "updatedSlot": "tarde",
-      "score": 8.22,
+      "score": 7.92,
       "expiresAt": null
-    },
-    {
-      "id": "ev-0lfbhi1",
-      "title": "Adolescente muere atropellado por un camión que habría quedado sin frenos en Ciudad del Este",
-      "summary": "Un adolescente de 17 años, identificado como Isaías Otazú, murió en el barrio San Miguel de Ciudad del Este al ser arrollado por un tractocamión que habría quedado sin frenos. Según La Nación, el vehículo sufrió una falla mecánica tras descargar mercaderías, tomó velocidad en una pendiente, chocó contra tres automóviles y terminó incrustado en una vivienda.",
-      "keyPoints": [
-        "La víctima fue Isaías Otazú, de 17 años.",
-        "El hecho ocurrió en el barrio San Miguel de Ciudad del Este.",
-        "El camión habría quedado sin frenos tras descargar mercaderías.",
-        "El vehículo embistió tres automóviles y terminó en una vivienda."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "summaryKind": "ia",
-      "model": "claude-opus-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Camión sin frenos atropella y mata a adolescente en Ciudad del Este",
-          "url": "https://elnacional.com.py/nacionales/camion-frenos-atropella-mata-adolescente-ciudad-este-n113759",
-          "publishedAt": "2026-10-17T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad3b2a562204.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Un adolescente murió tras ser arrollado por un camión sin frenos en Ciudad del Este",
-          "url": "https://www.lanacion.com.py/pais/2026/10/17/un-adolescente-murio-tras-ser-arrollado-por-un-camion-sin-frenos-en-ciudad-del-este",
-          "publishedAt": "2026-10-17T15:30:39.000Z",
-          "image": "https://www.lanacion.com.py/resizer/QXbRkyaZJ6zR8S8GWmnCoqVdJ_s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FRIQH6VUKVHSRN6Y6TCLUWNBQU.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ad3b2a562204.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/camion-frenos-atropella-mata-adolescente-ciudad-este-n113759"
-      },
-      "firstSeenAt": "2026-10-18T12:34:37.532Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-18T20:09:15.197Z",
-      "updatedSlot": "manana",
-      "score": 8
     },
     {
       "id": "ev-0kweh26",
@@ -1467,7 +1600,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 6.43
+      "score": 6.13
     },
     {
       "id": "ev-11ioi72",
@@ -1497,7 +1630,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.7
+      "score": 5.41
     },
     {
       "id": "ev-0ck40ec",
@@ -1532,7 +1665,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.7
+      "score": 5.4
     },
     {
       "id": "ev-12ln3k8",
@@ -1567,7 +1700,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.69
+      "score": 5.39
     },
     {
       "id": "ev-1qoyp3w",
@@ -1598,7 +1731,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.68
+      "score": 5.38
     },
     {
       "id": "ev-109iues",
@@ -1633,7 +1766,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.63
+      "score": 5.33
     },
     {
       "id": "ev-0uu441l",
@@ -1668,7 +1801,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.62
+      "score": 5.32
     },
     {
       "id": "ev-0we1opx",
@@ -1701,7 +1834,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.62
+      "score": 5.32
     },
     {
       "id": "ev-1mkvjfh",
@@ -1735,7 +1868,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.61
+      "score": 5.32
     },
     {
       "id": "ev-1j0rb9e",
@@ -1769,7 +1902,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.6
+      "score": 5.31
     },
     {
       "id": "ev-14438el",
@@ -1803,7 +1936,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.57
+      "score": 5.28
     },
     {
       "id": "ev-0xetdww",
@@ -1846,7 +1979,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.16
     },
     {
       "id": "ev-1ueq9ey",
@@ -1888,7 +2021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.16
     },
     {
       "id": "ev-187l6pf",
@@ -1930,7 +2063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.16
     },
     {
       "id": "ev-1p91oe1",
@@ -1972,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.16
     },
     {
       "id": "ev-0cfl063",
@@ -2006,7 +2139,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 5.38
+      "score": 5.09
     },
     {
       "id": "ev-1aprb2e",
@@ -2036,7 +2169,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0yxtha5",
@@ -2068,7 +2201,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 4.9
+      "score": 4.61
     },
     {
       "id": "ev-018uf81",
@@ -2102,7 +2235,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 4.89
+      "score": 4.59
     },
     {
       "id": "ev-0u2ev0r",
@@ -2135,7 +2268,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 4.46
+      "score": 4.16
     },
     {
       "id": "ev-1ndfhdl",
@@ -2177,7 +2310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-18T12:34:37.532Z",
       "updatedSlot": "manana",
-      "score": 3.23,
+      "score": 2.93,
       "expiresAt": "2026-10-18T17:00:00.000Z"
     },
     {
@@ -2213,7 +2346,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.18
+      "score": 2.88
     },
     {
       "id": "ev-1l1piv9",
@@ -2248,7 +2381,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.18
+      "score": 2.88
     },
     {
       "id": "ev-0ad5cwf",
@@ -2279,7 +2412,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.15
+      "score": 2.85
     },
     {
       "id": "ev-1ua4px3",
@@ -2309,7 +2442,7 @@
       "firstSlot": "tarde",
       "updatedAt": "2026-10-18T18:09:39.867Z",
       "updatedSlot": "tarde",
-      "score": 3.14
+      "score": 2.84
     }
   ],
   "runs": [
@@ -2333,6 +2466,13 @@
       "added": 1,
       "updated": 3,
       "candidates": 21
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-19T01:06:53.080Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 12
     }
   ]
 }
