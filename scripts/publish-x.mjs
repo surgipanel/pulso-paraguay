@@ -7,8 +7,8 @@
 //
 // Variables: X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET (sin ellas, se omite sin error)
 //            X_LINK_MODE = none (por defecto) | daily (el 1.º post del día lleva enlace) | all
-//            X_MAX_POSTS_PER_DAY = 5
-//            X_CATEGORIES = politica (lista separada por comas; vacío o "todas" = cualquier categoría)
+//            X_MAX_POSTS_PER_DAY = 10 · X_POSTS_PER_RUN = 2 · X_POST_SPACING_MIN = 12
+//            X_CATEGORIES = politica,economia (lista separada por comas; vacío o "todas" = cualquier categoría)
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -27,9 +27,11 @@ const DRY = args.includes("--dry-run");
 const OUT = args.includes("--out") ? args[args.indexOf("--out") + 1] : path.join(ROOT, "tmp", "card.png");
 const FORCE_EVENT = args.includes("--event") ? args[args.indexOf("--event") + 1] : null;
 const LINK_MODE = (env.X_LINK_MODE || "none").trim().toLowerCase();
-const MAX_PER_DAY = Math.max(1, Number.parseInt(env.X_MAX_POSTS_PER_DAY || "5", 10) || 5);
-// Decisión editorial del dueño (19/10/2026): en X solo se publica Política.
-const CATEGORIES = (env.X_CATEGORIES || "politica").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
+const MAX_PER_DAY = Math.max(1, Number.parseInt(env.X_MAX_POSTS_PER_DAY || "10", 10) || 10);
+const POSTS_PER_RUN = Math.max(1, Number.parseInt(env.X_POSTS_PER_RUN || "2", 10) || 2);
+const SPACING_MIN = Math.max(0, Number.parseInt(env.X_POST_SPACING_MIN || "12", 10) || 0);
+// Decisión editorial del dueño (19/10/2026): en X solo se publican Política y Economía.
+const CATEGORIES = (env.X_CATEGORIES || "politica,economia").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
 
 const log = (...a) => console.log("[x]", ...a);
 
@@ -78,34 +80,27 @@ function composeText(ev, { withLink }) {
   return text;
 }
 
-async function main() {
-  const latest = await readJson(path.join(DATA, "latest.json"), null);
-  if (!latest?.editionDate) { log("sin edición publicada; nada que postear"); return; }
-  const edition = await readJson(path.join(DATA, "editions", `${latest.editionDate}.json`), null);
-  const events = edition?.events ?? [];
-  const social = await readJson(SOCIAL, { posts: [] });
-  const today = asuDay();
+async function publishOne({ events, social, latest, today, creds }) {
   const todayCount = social.posts.filter((p) => p.day === today && p.ok).length;
-  if (!DRY && todayCount >= MAX_PER_DAY) { log(`ya se publicaron ${todayCount} posts hoy (máx. ${MAX_PER_DAY}); se omite`); return; }
+  if (!DRY && todayCount >= MAX_PER_DAY) { log(`ya se publicaron ${todayCount} posts hoy (máx. ${MAX_PER_DAY}); se omite`); return "cap"; }
 
   const ev = FORCE_EVENT ? events.find((e) => e.id === FORCE_EVENT) : pickEvent(events, social.posts, today);
-  if (!ev) { log(`no hay ninguna noticia nueva para publicar${CATEGORIES.length ? ` en ${CATEGORIES.join(", ")}` : ""}`); return; }
+  if (!ev) { log(`no hay ninguna noticia nueva para publicar${CATEGORIES.length ? ` en ${CATEGORIES.join(", ")}` : ""}`); return "none"; }
 
   const withLink = LINK_MODE === "all" || (LINK_MODE === "daily" && todayCount === 0);
   const text = composeText(ev, { withLink });
-  if (!fontsAvailable()) throw new Error("faltan las fuentes en assets/fonts");
   const png = renderCard(ev);
   log(`elegida: ${ev.id} · ${distinctSourceNames(ev).length} medios · ${ev.category}`);
-  log(`texto (${xLength(text)} caracteres):\n${text}`);
+  log(`texto (${xLength(text)} caracteres):
+${text}`);
 
   if (DRY) {
     await mkdir(path.dirname(OUT), { recursive: true });
     await writeFile(OUT, png);
     log(`modo prueba: tarjeta guardada en ${OUT}; no se publicó nada`);
-    return;
+    social.posts.push({ day: today, eventId: ev.id, title: ev.title, category: ev.category, ok: true, dry: true });
+    return "dry";
   }
-  const creds = credentialsFromEnv();
-  if (!creds) { log("sin credenciales de X (X_API_KEY…); se omite la publicación"); return; }
 
   const record = { day: today, eventId: ev.id, title: ev.title, category: ev.category, edition: latest.editionDate, at: new Date().toISOString(), withLink, ok: false, tweetId: null, withImage: true, error: null };
   const lastErr = social.posts.at(-1)?.error || "";
@@ -140,7 +135,32 @@ async function main() {
   social.posts = social.posts.slice(-400);
   social.updatedAt = new Date().toISOString();
   await writeFile(SOCIAL, JSON.stringify(social, null, 2) + "\n");
-  if (!record.ok) exit(2);
+  return record.ok ? "ok" : "error";
+}
+
+async function main() {
+  const latest = await readJson(path.join(DATA, "latest.json"), null);
+  if (!latest?.editionDate) { log("sin edición publicada; nada que postear"); return; }
+  const edition = await readJson(path.join(DATA, "editions", latest.editionDate + ".json"), null);
+  const events = edition?.events ?? [];
+  const social = await readJson(SOCIAL, { posts: [] });
+  const today = asuDay();
+  if (!fontsAvailable()) throw new Error("faltan las fuentes en assets/fonts");
+  const creds = DRY ? null : credentialsFromEnv();
+  if (!DRY && !creds) { log("sin credenciales de X (X_API_KEY…); se omite la publicación"); return; }
+
+  // Varios posts por corrida, separados en el tiempo para no salir pegados.
+  let failed = false;
+  for (let n = 0; n < POSTS_PER_RUN; n++) {
+    if (n > 0) {
+      if (DRY) { log(`(prueba) esperaría ${SPACING_MIN} min antes del siguiente post`); }
+      else { log(`espero ${SPACING_MIN} min antes del siguiente post…`); await new Promise((r) => setTimeout(r, SPACING_MIN * 60_000)); }
+    }
+    const result = await publishOne({ events, social, latest, today, creds });
+    if (result === "error") failed = true;
+    if (result === "cap" || result === "none" || result === "error") break;
+  }
+  if (failed) exit(2);
 }
 
 main().catch((err) => { console.error("[x] fallo:", err); exit(1); });

@@ -62,20 +62,6 @@ jobs:
             node scripts/update.mjs
           fi
 
-      # Publica UNA noticia en X con tarjeta propia. Sin credenciales se omite; si falla, no frena la edición.
-      - name: Publicar en X
-        if: steps.run.outcome == 'success'
-        continue-on-error: true
-        env:
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
-          X_LINK_MODE: ${{ vars.X_LINK_MODE }}
-          X_MAX_POSTS_PER_DAY: ${{ vars.X_MAX_POSTS_PER_DAY }}
-          X_CATEGORIES: ${{ vars.X_CATEGORIES }}
-        run: node scripts/publish-x.mjs
-
       # Se publica también cuando el proceso falló: latest.json y runs.json registran el fallo
       # y la web sigue mostrando la última edición válida con su fecha real.
       - name: Publicar datos
@@ -90,6 +76,40 @@ jobs:
           fi
           git commit -m "Edición $(TZ=America/Asuncion date '+%Y-%m-%d %H:%M') (${{ steps.run.outcome }})"
           # Reintentos limitados por si otro commit llegó mientras corría.
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase && sleep 5
+          done
+          exit 1
+
+      # Publica en X (varios posts por corrida, espaciados) DESPUÉS de que la edición ya está en la web.
+      # Sin credenciales se omite; si falla, no afecta la edición.
+      - name: Publicar en X
+        if: steps.run.outcome == 'success'
+        continue-on-error: true
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_LINK_MODE: ${{ vars.X_LINK_MODE }}
+          X_MAX_POSTS_PER_DAY: ${{ vars.X_MAX_POSTS_PER_DAY }}
+          X_CATEGORIES: ${{ vars.X_CATEGORIES }}
+          X_POSTS_PER_RUN: ${{ vars.X_POSTS_PER_RUN }}
+          X_POST_SPACING_MIN: ${{ vars.X_POST_SPACING_MIN }}
+        run: node scripts/publish-x.mjs
+
+      - name: Publicar registro de X
+        if: always()
+        run: |
+          git config user.name "procer-bot"
+          git config user.email "procer-bot@users.noreply.github.com"
+          git add docs/data/social.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el registro de X."
+            exit 0
+          fi
+          git commit -m "X: registro de publicaciones $(TZ=America/Asuncion date '+%Y-%m-%d %H:%M')"
           for i in 1 2 3; do
             if git push; then exit 0; fi
             git pull --rebase && sleep 5
