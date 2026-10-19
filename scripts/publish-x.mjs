@@ -30,6 +30,9 @@ const LINK_MODE = (env.X_LINK_MODE || "none").trim().toLowerCase();
 const MAX_PER_DAY = Math.max(1, Number.parseInt(env.X_MAX_POSTS_PER_DAY || "10", 10) || 10);
 const POSTS_PER_RUN = Math.max(1, Number.parseInt(env.X_POSTS_PER_RUN || "2", 10) || 2);
 const SPACING_MIN = Math.max(0, Number.parseInt(env.X_POST_SPACING_MIN || "12", 10) || 0);
+// Si otra corrida publicó hace menos de estos minutos, esta no publica: evita que el disparo de respaldo
+// de GitHub (que a veces llega horas tarde) duplique el bloque que ya publicó cron-job.org.
+const MIN_GAP_MIN = Math.max(0, Number.parseInt(env.X_MIN_GAP_MIN || "150", 10) || 0);
 // Decisión editorial del dueño (19/10/2026): en X solo se publican Política y Economía.
 const CATEGORIES = (env.X_CATEGORIES || "politica,economia").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
 
@@ -148,6 +151,12 @@ async function main() {
   if (!fontsAvailable()) throw new Error("faltan las fuentes en assets/fonts");
   const creds = DRY ? null : credentialsFromEnv();
   if (!DRY && !creds) { log("sin credenciales de X (X_API_KEY…); se omite la publicación"); return; }
+
+  const lastOk = social.posts.filter((x) => x.ok && !x.dry && x.at).map((x) => new Date(x.at).getTime()).sort((a, b) => b - a)[0];
+  if (!DRY && !FORCE_EVENT && lastOk && Date.now() - lastOk < MIN_GAP_MIN * 60_000) {
+    log(`el último post salió hace ${Math.round((Date.now() - lastOk) / 60_000)} min (mínimo ${MIN_GAP_MIN}); esta corrida no publica`);
+    return;
+  }
 
   // Varios posts por corrida, separados en el tiempo para no salir pegados.
   let failed = false;
