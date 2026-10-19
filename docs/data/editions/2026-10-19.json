@@ -1,9 +1,9 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-19T14:51:05.278Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-19T14:58:27.620Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -128,7 +128,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 26.94
+      "score": 26.93
     },
     {
       "id": "ev-0lw6cuu",
@@ -236,7 +236,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 26.89
+      "score": 26.88
     },
     {
       "id": "ev-1spiu0s",
@@ -303,7 +303,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 20.62
+      "score": 20.61
     },
     {
       "id": "ev-1hbu3do",
@@ -371,7 +371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 17.96
+      "score": 17.95
     },
     {
       "id": "ev-0idtcyr",
@@ -438,7 +438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 17.15
+      "score": 17.14
     },
     {
       "id": "ev-1uur9xp",
@@ -497,7 +497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 14.47
+      "score": 14.46
     },
     {
       "id": "ev-1wuec3q",
@@ -556,7 +556,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 12.13
+      "score": 12.12
+    },
+    {
+      "id": "ev-0xlkbky",
+      "title": "Se activan protocolos de defensa costera en Pilar por crecida del río Paraguay",
+      "summary": "Las autoridades activaron los protocolos de defensa en la Costanera de Pilar, en Ñeembucú, tras la crecida del río Paraguay. Se cerraron las compuertas principales y el escurrimiento interno dependerá de 8 motobombas, según informó el ingeniero Diego Gómez. El vicepresidente Pedro Alliana recorrió las obras del sector y destacó avances en varios frentes. La obra busca proteger a la ciudad frente a la subida del nivel del agua.",
+      "keyPoints": [
+        "Se cerraron las compuertas principales de la Costanera de Pilar.",
+        "El escurrimiento interno dependerá de 8 motobombas.",
+        "El vicepresidente Pedro Alliana recorrió las obras de la Costanera.",
+        "Las obras avanzan en Puerto Nuevo, barrio Obrero y cerca del club Deportivo Pilarense."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Pilar activa su defensa costera y los protocolos ante crecida del río Paraguay",
+          "url": "https://www.adndigital.com.py/pilar-activa-su-defensa-costera-y-los-protocolos-ante-crecida-del-rio-paraguay",
+          "publishedAt": "2026-10-19T14:46:11.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inundaciones: cierran compuertas en Ñeembucú por crecida del río Paraguay",
+          "url": "https://www.lanacion.com.py/pais/2026/10/19/inundaciones-cierran-compuertas-en-neembucu-por-crecida-del-rio-paraguay",
+          "publishedAt": "2026-10-19T14:14:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cQeM3rMDOt0mAYjm4x9wJzV0PV0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GA6T2HENFVBH5KMDYKKPHFADEA.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Destacan avances en la defensa costera de Pilar",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/19/destacan-avances-en-la-defensa-costera-de-pilar",
+          "publishedAt": "2026-10-19T04:30:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pD5BLYLuOVwfi9s3eQOI8BFXT9I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DNQUZ5YEW5AVTJD74FIZHA4VD4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana recorre las obras de la Costanera de Pilar y destaca los avances en varios frentes",
+          "url": "https://www.lanacion.com.py/politica/2026/10/18/alliana-recorre-las-obras-de-la-costanera-de-pilar-y-destaca-los-avances-en-varios-frentes",
+          "publishedAt": "2026-10-18T20:22:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/72kFENpKaHVi7-JxeylHdZrh6ts=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A5VIFN2BOFFWTKYFZOCEOZ3XPY.png"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GA6T2HENFVBH5KMDYKKPHFADEA.jpeg?auth=8786223ae8798ad11097705a1775b7dfa6293946b1b687f54450c976faf920bd&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/19/inundaciones-cierran-compuertas-en-neembucu-por-crecida-del-rio-paraguay"
+      },
+      "firstSeenAt": "2026-10-19T10:54:06.982Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-19T14:58:27.620Z",
+      "updatedSlot": "manana",
+      "score": 11.98
     },
     {
       "id": "ev-04w5hom",
@@ -623,7 +683,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 11.17
+      "score": 11.15
     },
     {
       "id": "ev-0v4mcwd",
@@ -675,7 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 11.13
+      "score": 11.12
     },
     {
       "id": "ev-0d11tnj",
@@ -726,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.53
+      "score": 10.52
     },
     {
       "id": "ev-1odxwep",
@@ -777,7 +837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.02
+      "score": 10
     },
     {
       "id": "ev-1vv5zr5",
@@ -820,7 +880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.65
+      "score": 9.64
     },
     {
       "id": "ev-0ac21pt",
@@ -863,7 +923,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.57
+      "score": 9.56
     },
     {
       "id": "ev-0j7u7i9",
@@ -907,7 +967,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.57
+      "score": 9.56
     },
     {
       "id": "ev-1devse9",
@@ -958,7 +1018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 8.01
+      "score": 8
     },
     {
       "id": "ev-1x724cu",
@@ -1010,7 +1070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.52
+      "score": 7.51
     },
     {
       "id": "ev-06gxekz",
@@ -1053,7 +1113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.07
+      "score": 7.06
     },
     {
       "id": "ev-04wz6k0",
@@ -1097,7 +1157,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.01
+      "score": 7
     },
     {
       "id": "ev-0nlv18d",
@@ -1141,7 +1201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.99
+      "score": 6.98
     },
     {
       "id": "ev-0wt1hai",
@@ -1185,7 +1245,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.56
+      "score": 6.55
     },
     {
       "id": "ev-11acg37",
@@ -1228,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.52
+      "score": 6.51
     },
     {
       "id": "ev-0cp0l0p",
@@ -1271,50 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.52
-    },
-    {
-      "id": "ev-0xlkbky",
-      "title": "Alliana recorre obras de la Costanera de Pilar y destaca avances",
-      "summary": "El vicepresidente Pedro Alliana visitó el domingo las obras de la Costanera de Pilar, en Ñeembucú. Según compartió en redes sociales, los trabajos avanzan en varios frentes, entre ellos Puerto Nuevo, el barrio Obrero y las inmediaciones del club Deportivo Pilarense. Las obras son ejecutadas por el Gobierno nacional.",
-      "keyPoints": [
-        "Alliana recorrió la zona de obras el domingo.",
-        "Los trabajos avanzan en Puerto Nuevo, barrio Obrero y cerca del club Deportivo Pilarense.",
-        "El Gobierno nacional lleva adelante las obras de defensa costera."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Destacan avances en la defensa costera de Pilar",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/19/destacan-avances-en-la-defensa-costera-de-pilar",
-          "publishedAt": "2026-10-19T04:30:46.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pD5BLYLuOVwfi9s3eQOI8BFXT9I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DNQUZ5YEW5AVTJD74FIZHA4VD4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana recorre las obras de la Costanera de Pilar y destaca los avances en varios frentes",
-          "url": "https://www.lanacion.com.py/politica/2026/10/18/alliana-recorre-las-obras-de-la-costanera-de-pilar-y-destaca-los-avances-en-varios-frentes",
-          "publishedAt": "2026-10-18T20:22:35.000Z",
-          "image": "https://www.lanacion.com.py/resizer/72kFENpKaHVi7-JxeylHdZrh6ts=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A5VIFN2BOFFWTKYFZOCEOZ3XPY.png"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DNQUZ5YEW5AVTJD74FIZHA4VD4.jpg?auth=7459c0ab73858c8811c89405aa307f2c4fb5f5fef82182f73428ca6dbaf65f17&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/19/destacan-avances-en-la-defensa-costera-de-pilar"
-      },
-      "firstSeenAt": "2026-10-19T10:54:06.982Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-19T10:54:06.982Z",
-      "updatedSlot": "manana",
-      "score": 6.14
+      "score": 6.51
     },
     {
       "id": "ev-0mleveh",
@@ -1357,7 +1374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.02
+      "score": 6
     },
     {
       "id": "ev-0ujpabj",
@@ -1400,50 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.02
-    },
-    {
-      "id": "ev-0d061ms",
-      "title": "Ayolas: piden ayuda para alimentar a más de 300 animales rescatados de la inundación",
-      "summary": "En Ayolas, miles de personas fueron evacuadas por la inundación y más de 300 animales fueron rescatados. Una asociación animalera pide ayuda solidaria para alimentarlos. La Entidad Binacional Yacyretá aporta una clínica veterinaria móvil para desparasitación y atención primaria.",
-      "keyPoints": [
-        "Miles de personas fueron evacuadas en Ayolas.",
-        "Más de 300 animales fueron rescatados de la inundación.",
-        "La EBY aporta una clínica veterinaria móvil."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Emergencia en Ayolas: piden ayuda para alimentar a más de 300 animales rescatados",
-          "url": "https://www.lanacion.com.py/pais/2026/10/18/emergencia-en-ayolas-piden-ayuda-para-alimentar-a-mas-de-300-animales-rescatados",
-          "publishedAt": "2026-10-18T12:12:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/XMh04bJ-xlOoJ-ffpBB9CUCSiwc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KC6WMA2ME5G5BG3Q3D6D7DOE3A.jfif"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ayolas: miles de personas evacuadas y más de 300 animales rescatados",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/19/ayolas-miles-de-personas-evacuadas-y-mas-de-300-animales-rescatados",
-          "publishedAt": "2026-10-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/FDsNA84Osw1GINvOMCc-viMknMc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ECFB2MYI2JDSVB3WWAPMPITIRM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KC6WMA2ME5G5BG3Q3D6D7DOE3A.jfif?auth=89502045464419f0c8cfba516b21bbd649da05b412d52159c95b957ea342182a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/18/emergencia-en-ayolas-piden-ayuda-para-alimentar-a-mas-de-300-animales-rescatados"
-      },
-      "firstSeenAt": "2026-10-19T10:54:06.982Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-19T10:54:06.982Z",
-      "updatedSlot": "manana",
-      "score": 6.02
+      "score": 6
     },
     {
       "id": "ev-0ff71gs",
@@ -1478,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.66
     },
     {
       "id": "ev-0sokdgo",
@@ -1513,7 +1487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.65
     },
     {
       "id": "ev-1qxlohy",
@@ -1547,7 +1521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.65
     },
     {
       "id": "ev-1pfoxhb",
@@ -1582,7 +1556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.64
     },
     {
       "id": "ev-0uj0ggo",
@@ -1617,7 +1591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.64
     },
     {
       "id": "ev-163igi8",
@@ -1652,7 +1626,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.63
     },
     {
       "id": "ev-11cq33p",
@@ -1687,7 +1661,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.61
     },
     {
       "id": "ev-0p8utuu",
@@ -1722,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.6
     },
     {
       "id": "ev-07xh0ja",
@@ -1754,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.6
+      "score": 5.59
     },
     {
       "id": "ev-1c48jer",
@@ -1789,7 +1763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.57
     },
     {
       "id": "ev-0nwk6jr",
@@ -1824,7 +1798,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.56
+      "score": 5.55
     },
     {
       "id": "ev-1qplwr8",
@@ -1856,7 +1830,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.56
+      "score": 5.55
     },
     {
       "id": "ev-06dnx42",
@@ -1891,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.54
     },
     {
       "id": "ev-0x5ui62",
@@ -1926,7 +1900,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.54
+      "score": 5.53
     },
     {
       "id": "ev-1ti1ulr",
@@ -1961,7 +1935,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-16ovols",
@@ -1996,7 +1970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-1vcsuhc",
@@ -2032,7 +2006,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-05fqq2k",
@@ -2067,7 +2041,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-0s0ahnw",
@@ -2102,7 +2076,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.47
     },
     {
       "id": "ev-1ayzmw0",
@@ -2136,7 +2110,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.47
+      "score": 5.46
     },
     {
       "id": "ev-0bo264c",
@@ -2171,7 +2145,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.44
+      "score": 5.43
+    },
+    {
+      "id": "ev-0d061ms",
+      "title": "Crecida del Paraná obliga a evacuar a miles de familias en Ayolas",
+      "summary": "La rápida crecida del río Paraná dejó decenas de viviendas bajo agua en Ayolas, Misiones, y obligó a evacuar a miles de familias. También se rescataron más de 300 animales. Una asociación animalera pidió ayuda solidaria para alimentarlos.",
+      "keyPoints": [
+        "Decenas de viviendas quedaron bajo agua en Ayolas.",
+        "Miles de familias fueron evacuadas.",
+        "Más de 300 animales fueron rescatados.",
+        "Una asociación animalera pidió ayuda solidaria."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ayolas bajo agua",
+          "url": "https://www.lanacion.com.py/ojo/2026/10/19/ayolas-bajo-agua",
+          "publishedAt": "2026-10-19T09:03:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CO9nwoXxLzQQHjj3-5RkkYm_lQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OD3QEZIYGFGNJPEUCMN7233VZQ.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ayolas: miles de personas evacuadas y más de 300 animales rescatados",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/19/ayolas-miles-de-personas-evacuadas-y-mas-de-300-animales-rescatados",
+          "publishedAt": "2026-10-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FDsNA84Osw1GINvOMCc-viMknMc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ECFB2MYI2JDSVB3WWAPMPITIRM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Emergencia en Ayolas: piden ayuda para alimentar a más de 300 animales rescatados",
+          "url": "https://www.lanacion.com.py/pais/2026/10/18/emergencia-en-ayolas-piden-ayuda-para-alimentar-a-mas-de-300-animales-rescatados",
+          "publishedAt": "2026-10-18T12:12:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XMh04bJ-xlOoJ-ffpBB9CUCSiwc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KC6WMA2ME5G5BG3Q3D6D7DOE3A.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OD3QEZIYGFGNJPEUCMN7233VZQ.jpeg?auth=48bece1770b63cc885e3ba563f2d697287144d97ad7f99e1cc276b1b40da2cc3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/ojo/2026/10/19/ayolas-bajo-agua"
+      },
+      "firstSeenAt": "2026-10-19T10:54:06.982Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-19T14:58:27.620Z",
+      "updatedSlot": "manana",
+      "score": 5.01
     },
     {
       "id": "ev-1dgjxsh",
@@ -2206,7 +2232,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.07
+      "score": 3.06
     },
     {
       "id": "ev-1lipl1w",
@@ -2237,7 +2263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.03
+      "score": 3.02
     },
     {
       "id": "ev-1y8hjxy",
@@ -2268,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.02
+      "score": 3.01
     }
   ],
   "runs": [
@@ -2285,6 +2311,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 16
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-19T14:58:27.620Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 19
     }
   ]
 }
