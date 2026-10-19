@@ -97,6 +97,16 @@ Advertencias de GitHub a tener en cuenta:
 - En repos públicos, **los cron se desactivan solos si el repositorio no tiene actividad en 60 días**. Los commits del bot suelen contar como actividad, pero conviene entrar a la pestaña Actions cada tanto; si aparece "This scheduled workflow is disabled", se reactiva con un clic.
 - Los horarios programados pueden demorarse en momentos de carga.
 
+## Disparador externo (para que las corridas salgan a horario exacto)
+
+El 19/10/2026 GitHub no disparó ninguna de las corridas programadas de la mañana. El cron de GitHub Actions puede atrasarse horas o saltearse; por eso **la hora la pone un servicio externo** y el cron de GitHub queda solo como respaldo.
+
+- Servicio: [cron-job.org](https://cron-job.org) (gratuito, puntual al minuto, reintentos y aviso por correo si falla).
+- Qué hace: un `POST` a `https://api.github.com/repos/surgipanel/pulso-paraguay/actions/workflows/update.yml/dispatches` con cuerpo `{"ref":"main"}` y cabeceras `Accept: application/vnd.github+json`, `Authorization: Bearer <token>`, `X-GitHub-Api-Version: 2022-11-28`.
+- Token: *fine-grained personal access token* limitado al repositorio `pulso-paraguay` con permiso **Actions: Read and write**. Vence al año: renovarlo antes del 12/10/2027.
+- Horario en cron-job.org: minutos 7 y 37 de las horas 5, 9, 13, 16 y 20 (America/Asuncion). Son diez llamadas; la guardia de corridas duplicadas (3 h por turno) deja pasar cinco: 05:07, 09:07, 13:07, 16:37 y 20:07.
+- Si el externo y GitHub disparan el mismo turno, la segunda corrida se salta en segundos sin tocar la edición.
+
 ## Correr en tu computadora
 
 ```bash
