@@ -107,6 +107,17 @@ El 19/10/2026 GitHub no disparó ninguna de las corridas programadas de la maña
 - Horario en cron-job.org: minutos 7 y 37 de las horas 5, 9, 13, 16 y 20 (America/Asuncion). Son diez llamadas; la guardia de corridas duplicadas (3 h por turno) deja pasar cinco: 05:07, 09:07, 13:07, 16:37 y 20:07.
 - Si el externo y GitHub disparan el mismo turno, la segunda corrida se salta en segundos sin tocar la edición.
 
+## Publicación automática en X (Twitter)
+
+Al final de cada corrida exitosa, `scripts/publish-x.mjs` publica **una** noticia en X: cinco corridas por día → cinco posts por día. Elige la noticia más cubierta que todavía no se publicó (prefiere redacción con IA, varía la categoría respecto del post anterior y descarta lo de más de 18 h), arma el texto (titular, un punto clave que no repita el título, fuentes) y adjunta una **tarjeta de imagen propia** generada con `src/card.mjs` (marca El Prócer sobre azul noche, sin fotos de los medios). El registro de lo publicado vive en `docs/data/social.json`.
+
+- Sin las cuatro credenciales el paso se omite sin error. Si X falla, la edición se publica igual (`continue-on-error`).
+- **Secretos del repositorio** (Settings → Secrets and variables → Actions → Secrets): `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` (app en developer.x.com con OAuth 1.0a y permisos *Read and Write*).
+- **Variables** (misma pantalla, pestaña Variables): `X_LINK_MODE` = `none` (por defecto, sin enlace), `daily` (el primer post del día lleva enlace a la noticia) o `all`; `X_MAX_POSTS_PER_DAY` (5).
+- **Costo** (precios oficiales de X al 19/10/2026, pago por uso, sin abono): post sin enlace US$ 0,015; post con enlace US$ 0,20. Con `none`: ≈ US$ 2,25/mes. Con `all`: ≈ US$ 30/mes. X regala US$ 20 de crédito al cargar la tarjeta y hacer la primera compra. El plan gratuito ya no existe para cuentas nuevas desde febrero de 2026.
+- Prueba en seco (no publica, guarda la tarjeta en `tmp/card.png`): `npm run publish-x:dry`.
+- La cuenta de X debe marcarse como automatizada (Settings → Your account → Automation) según las reglas de X.
+
 ## Correr en tu computadora
 
 ```bash
@@ -140,6 +151,11 @@ docs/data/editions/AAAA-MM-DD.json   una edición por día
 docs/data/editions/index.json  archivo
 docs/data/sources.json         estado real de cada medio
 docs/data/runs.json            registro de corridas (ok/error, conteos, tokens)
+docs/data/social.json          registro de posts publicados en X
+src/card.mjs                   tarjeta de imagen de marca para redes (SVG → PNG)
+src/x-client.mjs               cliente API v2 de X (OAuth 1.0a, subida de imagen, post)
+scripts/publish-x.mjs          publica una noticia por corrida en X
+assets/fonts/                  Tinos Bold y Lato (licencia OFL) para las tarjetas
 docs/data/mercado.json         cotizaciones de referencia del BCP (scripts/mercado.mjs, workflow mercado.yml)
 ```
 

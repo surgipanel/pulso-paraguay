@@ -62,6 +62,19 @@ jobs:
             node scripts/update.mjs
           fi
 
+      # Publica UNA noticia en X con tarjeta propia. Sin credenciales se omite; si falla, no frena la edición.
+      - name: Publicar en X
+        if: steps.run.outcome == 'success'
+        continue-on-error: true
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_LINK_MODE: ${{ vars.X_LINK_MODE }}
+          X_MAX_POSTS_PER_DAY: ${{ vars.X_MAX_POSTS_PER_DAY }}
+        run: node scripts/publish-x.mjs
+
       # Se publica también cuando el proceso falló: latest.json y runs.json registran el fallo
       # y la web sigue mostrando la última edición válida con su fecha real.
       - name: Publicar datos

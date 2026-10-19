@@ -4,16 +4,21 @@
   "description": "El Prócer, diario digital de Paraguay: agrupa la cobertura de medios paraguayos en acontecimientos, con resumen propio y enlaces a las fuentes.",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "update": "node scripts/update.mjs",
     "update:force": "node scripts/update.mjs --force",
     "check-sources": "node scripts/update.mjs --check-sources",
     "mercado": "node scripts/mercado.mjs",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "publish-x": "node scripts/publish-x.mjs",
+    "publish-x:dry": "node scripts/publish-x.mjs --dry-run"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.80.0",
+    "@resvg/resvg-js": "^2.6.2",
     "fast-xml-parser": "^5.2.5",
     "zod": "^4.1.0"
   }
