@@ -7,13 +7,15 @@ import { env } from "node:process";
 const API = "https://api.x.com";
 
 export function credentialsFromEnv() {
+  // Se recortan espacios, saltos de línea y comillas que suelen colarse al pegar los secretos.
+  const clean = (v) => String(v ?? "").trim().replace(/^["']|["']$/g, "").trim();
   const c = {
-    consumerKey: env.X_API_KEY,
-    consumerSecret: env.X_API_SECRET,
-    token: env.X_ACCESS_TOKEN,
-    tokenSecret: env.X_ACCESS_SECRET,
+    consumerKey: clean(env.X_API_KEY),
+    consumerSecret: clean(env.X_API_SECRET),
+    token: clean(env.X_ACCESS_TOKEN),
+    tokenSecret: clean(env.X_ACCESS_SECRET),
   };
-  return Object.values(c).every((v) => v && v.trim()) ? c : null;
+  return Object.values(c).every((v) => v) ? c : null;
 }
 
 const enc = (s) => encodeURIComponent(s).replace(/[!'()*]/g, (c) => "%" + c.charCodeAt(0).toString(16).toUpperCase());

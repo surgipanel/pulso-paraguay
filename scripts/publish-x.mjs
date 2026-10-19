@@ -26,10 +26,10 @@ const args = process.argv.slice(2);
 const DRY = args.includes("--dry-run");
 const OUT = args.includes("--out") ? args[args.indexOf("--out") + 1] : path.join(ROOT, "tmp", "card.png");
 const FORCE_EVENT = args.includes("--event") ? args[args.indexOf("--event") + 1] : null;
-const LINK_MODE = (env.X_LINK_MODE || "none").toLowerCase();
+const LINK_MODE = (env.X_LINK_MODE || "none").trim().toLowerCase();
 const MAX_PER_DAY = Math.max(1, Number.parseInt(env.X_MAX_POSTS_PER_DAY || "5", 10) || 5);
 // Decisión editorial del dueño (19/10/2026): en X solo se publica Política.
-const CATEGORIES = (env.X_CATEGORIES ?? "politica").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
+const CATEGORIES = (env.X_CATEGORIES || "politica").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
 
 const log = (...a) => console.log("[x]", ...a);
 
