@@ -1,20 +1,20 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-19T14:58:27.620Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-19T15:07:37.418Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0fh61p6",
-      "title": "Horacio Cartes anuncia que Honor Colorado no presentará candidaturas en las internas de 2027",
-      "summary": "Horacio Cartes, presidente de la ANR y líder de Honor Colorado, anunció que su movimiento no presentará candidaturas nacionales ni partidarias para las internas previstas el 19 de diciembre de 2027. Cartes dijo que se dedicará al fortalecimiento de la institución y a garantizar elecciones internas democráticas.",
+      "title": "Bachi Núñez respalda a Pedro Alliana para la candidatura presidencial de 2028",
+      "summary": "El presidente del Congreso, Basilio Núñez, anunció que apoyará la precandidatura presidencial de Pedro Alliana para 2028. Lo hizo tras la decisión de Horacio Cartes de que Honor Colorado no presente candidaturas en las internas de 2027. Núñez también agradeció a Cartes por su liderazgo. El presidente Santiago Peña dijo que buscará recomponer la relación con la ANR.",
       "keyPoints": [
-        "Honor Colorado no presentará candidaturas nacionales ni partidarias.",
-        "Las internas partidarias están previstas para el 19 de diciembre de 2027.",
-        "Cartes dijo que se dedicará a fortalecer la ANR.",
-        "El anuncio se conoció el domingo 18 de octubre."
+        "Basilio Núñez respalda la precandidatura de Pedro Alliana para 2028.",
+        "Honor Colorado no presentará candidatos en las internas de 2027, según anunció Horacio Cartes.",
+        "Núñez dijo que buscará la reelección en el Senado.",
+        "Peña ratificó su respaldo a Alliana y dijo que buscará la armonía con la ANR."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -23,12 +23,44 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Peña dice que buscará \"armonía\" entre su gobierno y la ANR: \"Necesito trabajar con mi partido\"",
+          "url": "https://www.ultimahora.com/pena-dice-que-buscara-armonia-entre-su-gobierno-y-la-anr-necesito-trabajar-con-mi-partido",
+          "publishedAt": "2026-10-19T14:59:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña respalda a Alliana y anuncia que buscará dialogar con Cartes",
+          "url": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843",
+          "publishedAt": "2026-10-19T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg"
+        },
+        {
           "sourceId": "telefuturo",
           "sourceName": "Telefuturo",
           "title": "Nicanor afirma que Peña buscó desplazar a HC desde que asumió el poder",
           "url": "https://www.telefuturo.com.py/nicanor-afirma-que-pena-busco-desplazar-a-hc-desde-que-asumio-el-poder",
           "publishedAt": "2026-10-19T14:09:07.000Z",
           "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Basilio Núñez respalda a Pedro Alliana y anuncia una nueva configuración política",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/basilio-nunez-respalda-a-pedro-alliana-y-anuncia-una-nueva-configuracion-politica",
+          "publishedAt": "2026-10-19T14:03:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Bachi Núñez se suma al peñismo: “Honor Colorado no existe porque no tendrá elecciones”",
+          "url": "https://www.abc.com.py/politica/2026/10/16/bachi-nunez-anunciaria-el-lunes-su-pase-al-penismo",
+          "publishedAt": "2026-10-19T14:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/U-elBmIz6Hy9xdPKOPibIYHyCHM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3AKCEPWAXZFGZB6VA7SOGMH66M.jpeg"
         },
         {
           "sourceId": "telefuturo",
@@ -55,12 +87,44 @@
           "image": null
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Hay un altísimo respaldo\": Maidana sobre la decisión de Peña y Alliana",
+          "url": "https://elnacional.com.py/politica/hay-altisimo-respaldo-maidana-sobre-decision-pena-alliana-n113833",
+          "publishedAt": "2026-10-19T13:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/05/6a0b1e092cfc3.jpeg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Nicanor: “Veremos si Peña y Alliana tienen la capacidad de aglutinar a la fuerza electoral de Honor Colorado”",
           "url": "https://www.abc.com.py/politica/2026/10/19/nicanor-veremos-si-pena-y-alliana-tienen-la-capacidad-de-aglutinar-a-la-fuerza-electoral-de-honor-colorado",
           "publishedAt": "2026-10-19T13:13:20.000Z",
           "image": "https://www.abc.com.py/resizer/OUO_LitQUikVgw6gYH1C8qer-NU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VKFOJ7DGVBFH7PDW5FIH56AKGE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Bachi Núñez anuncia finalmente que deja a Cartes y da su respaldo a la candidatura de Alliana",
+          "url": "https://elnacional.com.py/politica/bachi-nunez-anuncia-finalmente-deja-cartes-da-su-respaldo-candidatura-alliana-n113836",
+          "publishedAt": "2026-10-19T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6acf93bfbbad5.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Núñez respalda a Pedro Alliana para 2028 y pide diálogo en las bases de la ANR",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/nunez-respalda-a-pedro-alliana-para-2028-y-pide-dialogo-en-las-bases-de-la-anr",
+          "publishedAt": "2026-10-19T12:55:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/n6R65QCf4aun2h8lxIUSX2gPgX0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/22CZTUCJOFBXLH7W7FHBDSDRKA.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Bachi anuncia apoyo a Pedro Alliana y da las gracias a Cartes",
+          "url": "https://www.hoy.com.py/politica/2026/10/19/bachi-anuncia-apoyo-a-pedro-alliana-y-da-las-gracias-a-cartes",
+          "publishedAt": "2026-10-19T11:53:54.663Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/7L3WASKAVVBYZB26BF2DGMYOFM.jpg?auth=850dca983de83d5ffe69d7a044aa343eed7d4ab422ffbe73a486d871be8dde0c&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "hoy",
@@ -120,15 +184,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/07/6a4fc3e87b9b2.jpeg",
+        "url": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/giro-politico-cartes-anuncia-honor-colorado-presentara-candidatura-internas-2027-n113826"
+        "articleUrl": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843"
       },
       "firstSeenAt": "2026-10-19T10:54:06.982Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-19T14:51:05.278Z",
-      "updatedSlot": "manana",
-      "score": 26.93
+      "updatedAt": "2026-10-19T15:07:37.418Z",
+      "updatedSlot": "tarde",
+      "score": 29.99
     },
     {
       "id": "ev-0lw6cuu",
@@ -236,7 +300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 26.88
+      "score": 26.86
     },
     {
       "id": "ev-1spiu0s",
@@ -303,7 +367,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 20.61
+      "score": 20.6
+    },
+    {
+      "id": "ev-0v4mcwd",
+      "title": "Justicia electoral de Brasil da 24 horas a Meta por trato igualitario a Lula y Bolsonaro",
+      "summary": "La justicia electoral de Brasil dio 24 horas a Meta para demostrar que aplica medidas de equidad entre las campañas de Lula da Silva y Flávio Bolsonaro. El magistrado Marco Aurélio Bellizze advirtió que, si no cumple, duplicará la multa diaria. Las campañas habían denunciado que Meta perjudica sus contenidos. La segunda vuelta será el domingo.",
+      "keyPoints": [
+        "La justicia electoral dio 24 horas a Meta para demostrar equidad entre candidatos.",
+        "El magistrado advirtió que podría duplicar la multa diaria, de hasta un millón de reales.",
+        "Ambas campañas denunciaron que Meta perjudica sus contenidos políticos.",
+        "Lula y Flávio Bolsonaro se enfrentaron en un debate televisado previo a la segunda vuelta."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Justicia electoral da 24 horas a Meta para demostrar que da el mismo trato a Lula y Flávio Bolsonaro",
+          "url": "https://www.ultimahora.com/justicia-electoral-da-24-horas-a-meta-para-demostrar-que-da-el-mismo-trato-a-lula-y-flavio-bolsonaro",
+          "publishedAt": "2026-10-19T14:12:43.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tribunal electoral de Brasil da 24 horas a Meta para garantizar equidad entre candidatos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/19/tribunal-electoral-de-brasil-da-24-horas-a-meta-para-garantizar-equidad-entre-candidatos",
+          "publishedAt": "2026-10-19T12:50:17.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula y Flávio Bolsonaro se cruzan con duros ataques en el primer debate cara a cara",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/19/lula-y-flavio-bolsonaro-se-cruzan-con-duros-ataques-en-el-primer-debate-cara-a-cara",
+          "publishedAt": "2026-10-19T10:26:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8XEf-zQXHGPq7eTo7WPE3N9DcHI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IM4KJCNZBJEIHH4L6YVMZTGBCU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula y Bolsonaro se insultan en el primer debate electoral en Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/19/lula-y-bolsonaro-se-insultan-en-el-primer-debate-electoral-en-brasil",
+          "publishedAt": "2026-10-19T08:31:52.443Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/AYSCRMJ5FJCW3H5QHJCDY4BHQM.jpg?auth=a393d4d9ac7fc5e6ea7eea30a2a2c1cf37af8b3cfe023594a5b3af4068e3479a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Lula y Bolsonaro llevan sus acusaciones al primer debate televisado",
+          "url": "https://5dias.com.py/article/lula-y-bolsonaro-llevan-sus-acusaciones-al-primer-debate-televisado",
+          "publishedAt": "2026-10-19T07:00:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-10-19T070745.814_20261019_070521.png"
+        }
+      ],
+      "image": {
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-10-19T070745.814_20261019_070521.png",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/lula-y-bolsonaro-llevan-sus-acusaciones-al-primer-debate-televisado"
+      },
+      "firstSeenAt": "2026-10-19T10:54:06.982Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-19T15:07:37.418Z",
+      "updatedSlot": "tarde",
+      "score": 18.42
     },
     {
       "id": "ev-1hbu3do",
@@ -371,7 +503,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 17.95
+      "score": 17.94
     },
     {
       "id": "ev-0idtcyr",
@@ -438,7 +570,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 17.14
+      "score": 17.12
     },
     {
       "id": "ev-1uur9xp",
@@ -497,7 +629,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 14.46
+      "score": 14.45
     },
     {
       "id": "ev-1wuec3q",
@@ -556,17 +688,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 12.12
+      "score": 12.11
     },
     {
       "id": "ev-0xlkbky",
-      "title": "Se activan protocolos de defensa costera en Pilar por crecida del río Paraguay",
-      "summary": "Las autoridades activaron los protocolos de defensa en la Costanera de Pilar, en Ñeembucú, tras la crecida del río Paraguay. Se cerraron las compuertas principales y el escurrimiento interno dependerá de 8 motobombas, según informó el ingeniero Diego Gómez. El vicepresidente Pedro Alliana recorrió las obras del sector y destacó avances en varios frentes. La obra busca proteger a la ciudad frente a la subida del nivel del agua.",
+      "title": "Pilar activa protocolos de defensa costera por la crecida del río Paraguay",
+      "summary": "Se activaron los protocolos de defensa en la Costanera de Pilar, en Ñeembucú, tras el cierre de compuertas principales por la crecida del río Paraguay. Según el ingeniero Diego Gómez, el escurrimiento interno dependerá de 8 motobombas. En Cerrito, la mitad de la comunidad está bajo agua, y en Ayolas, Misiones, decenas de viviendas fueron cubiertas por la crecida del Paraná. Las familias afectadas fueron evacuadas.",
       "keyPoints": [
         "Se cerraron las compuertas principales de la Costanera de Pilar.",
-        "El escurrimiento interno dependerá de 8 motobombas.",
-        "El vicepresidente Pedro Alliana recorrió las obras de la Costanera.",
-        "Las obras avanzan en Puerto Nuevo, barrio Obrero y cerca del club Deportivo Pilarense."
+        "El escurrimiento interno dependerá de 8 motobombas, según el ingeniero Diego Gómez.",
+        "En Cerrito, el río llegó a 6,70 metros, 90 centímetros por encima de la marca de inundabilidad.",
+        "En Ayolas, miles de familias fueron evacuadas y más de 300 animales rescatados."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -593,10 +725,34 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
+          "title": "Inundaciones en Ñeembucú: crecida del Paraná tiene a la mitad de Cerrito bajo agua",
+          "url": "https://www.lanacion.com.py/pais/2026/10/19/inundaciones-en-neembucu-crecida-del-parana-tiene-a-la-mitad-de-cerrito-bajo-agua",
+          "publishedAt": "2026-10-19T12:42:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JGko19KYAdR9VukX9MHpY6mPArk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GPWGFENEFBD6TJKB7ZRDBSQR54.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ayolas bajo agua",
+          "url": "https://www.lanacion.com.py/ojo/2026/10/19/ayolas-bajo-agua",
+          "publishedAt": "2026-10-19T09:03:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CO9nwoXxLzQQHjj3-5RkkYm_lQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OD3QEZIYGFGNJPEUCMN7233VZQ.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
           "title": "Destacan avances en la defensa costera de Pilar",
           "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/19/destacan-avances-en-la-defensa-costera-de-pilar",
           "publishedAt": "2026-10-19T04:30:46.000Z",
           "image": "https://www.lanacion.com.py/resizer/pD5BLYLuOVwfi9s3eQOI8BFXT9I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DNQUZ5YEW5AVTJD74FIZHA4VD4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ayolas: miles de personas evacuadas y más de 300 animales rescatados",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/19/ayolas-miles-de-personas-evacuadas-y-mas-de-300-animales-rescatados",
+          "publishedAt": "2026-10-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FDsNA84Osw1GINvOMCc-viMknMc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ECFB2MYI2JDSVB3WWAPMPITIRM.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -608,15 +764,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GA6T2HENFVBH5KMDYKKPHFADEA.jpeg?auth=8786223ae8798ad11097705a1775b7dfa6293946b1b687f54450c976faf920bd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/19/inundaciones-cierran-compuertas-en-neembucu-por-crecida-del-rio-paraguay"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/10/defensa-costera-pilar.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/pilar-activa-su-defensa-costera-y-los-protocolos-ante-crecida-del-rio-paraguay"
       },
       "firstSeenAt": "2026-10-19T10:54:06.982Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-19T14:58:27.620Z",
-      "updatedSlot": "manana",
-      "score": 11.98
+      "updatedAt": "2026-10-19T15:07:37.418Z",
+      "updatedSlot": "tarde",
+      "score": 11.97
     },
     {
       "id": "ev-04w5hom",
@@ -683,59 +839,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 11.15
-    },
-    {
-      "id": "ev-0v4mcwd",
-      "title": "Lula y Flávio Bolsonaro se enfrentan en el primer debate televisado antes del balotaje",
-      "summary": "Lula da Silva y Flávio Bolsonaro debatieron por primera vez en televisión, a una semana de la segunda vuelta presidencial en Brasil. El encuentro, transmitido por la cadena Band, combinó ataques personales con diferencias sobre seguridad pública, corrupción y política exterior. Según los medios, los dos candidatos empatan en las encuestas.",
-      "keyPoints": [
-        "El debate fue transmitido por la cadena Band.",
-        "Los candidatos discutieron seguridad pública, corrupción y política exterior.",
-        "Ambos defendieron propuestas para combatir el crimen.",
-        "La votación de segunda vuelta será el 25 de octubre."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lula y Flávio Bolsonaro se cruzan con duros ataques en el primer debate cara a cara",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/19/lula-y-flavio-bolsonaro-se-cruzan-con-duros-ataques-en-el-primer-debate-cara-a-cara",
-          "publishedAt": "2026-10-19T10:26:02.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8XEf-zQXHGPq7eTo7WPE3N9DcHI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IM4KJCNZBJEIHH4L6YVMZTGBCU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Lula y Bolsonaro se insultan en el primer debate electoral en Brasil",
-          "url": "https://www.hoy.com.py/mundo/2026/10/19/lula-y-bolsonaro-se-insultan-en-el-primer-debate-electoral-en-brasil",
-          "publishedAt": "2026-10-19T08:31:52.443Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/AYSCRMJ5FJCW3H5QHJCDY4BHQM.jpg?auth=a393d4d9ac7fc5e6ea7eea30a2a2c1cf37af8b3cfe023594a5b3af4068e3479a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Lula y Bolsonaro llevan sus acusaciones al primer debate televisado",
-          "url": "https://5dias.com.py/article/lula-y-bolsonaro-llevan-sus-acusaciones-al-primer-debate-televisado",
-          "publishedAt": "2026-10-19T07:00:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-10-19T070745.814_20261019_070521.png"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/IM4KJCNZBJEIHH4L6YVMZTGBCU.jpg?auth=7a95c71a9cae0cff5dbd6a707b6b5b9739fe1f53d1ffc446583f5a40df50ec10&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/19/lula-y-flavio-bolsonaro-se-cruzan-con-duros-ataques-en-el-primer-debate-cara-a-cara"
-      },
-      "firstSeenAt": "2026-10-19T10:54:06.982Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-19T10:54:06.982Z",
-      "updatedSlot": "manana",
-      "score": 11.12
+      "score": 11.14
     },
     {
       "id": "ev-0d11tnj",
@@ -786,7 +890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.52
+      "score": 10.51
     },
     {
       "id": "ev-1odxwep",
@@ -837,7 +941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10
+      "score": 9.99
     },
     {
       "id": "ev-1vv5zr5",
@@ -880,7 +984,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.64
+      "score": 9.62
     },
     {
       "id": "ev-0ac21pt",
@@ -923,7 +1027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.56
+      "score": 9.55
     },
     {
       "id": "ev-0j7u7i9",
@@ -967,7 +1071,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.56
+      "score": 9.55
     },
     {
       "id": "ev-1devse9",
@@ -1018,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 8
+      "score": 7.99
     },
     {
       "id": "ev-1x724cu",
@@ -1070,7 +1174,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.51
+      "score": 7.5
     },
     {
       "id": "ev-06gxekz",
@@ -1113,7 +1217,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.06
+      "score": 7.04
     },
     {
       "id": "ev-04wz6k0",
@@ -1157,7 +1261,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7
+      "score": 6.99
     },
     {
       "id": "ev-0nlv18d",
@@ -1201,7 +1305,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.98
+      "score": 6.97
     },
     {
       "id": "ev-0wt1hai",
@@ -1245,7 +1349,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.55
+      "score": 6.54
     },
     {
       "id": "ev-11acg37",
@@ -1288,7 +1392,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.51
+      "score": 6.5
     },
     {
       "id": "ev-0cp0l0p",
@@ -1331,7 +1435,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.51
+      "score": 6.49
     },
     {
       "id": "ev-0mleveh",
@@ -1374,7 +1478,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.99
     },
     {
       "id": "ev-0ujpabj",
@@ -1417,7 +1521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.99
     },
     {
       "id": "ev-0ff71gs",
@@ -1452,7 +1556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.64
     },
     {
       "id": "ev-0sokdgo",
@@ -1487,7 +1591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.64
     },
     {
       "id": "ev-1qxlohy",
@@ -1521,7 +1625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.64
     },
     {
       "id": "ev-1pfoxhb",
@@ -1556,7 +1660,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.63
     },
     {
       "id": "ev-0uj0ggo",
@@ -1591,7 +1695,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.63
     },
     {
       "id": "ev-163igi8",
@@ -1626,7 +1730,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.61
     },
     {
       "id": "ev-11cq33p",
@@ -1661,7 +1765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.59
     },
     {
       "id": "ev-0p8utuu",
@@ -1696,7 +1800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.6
+      "score": 5.59
     },
     {
       "id": "ev-07xh0ja",
@@ -1728,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.58
     },
     {
       "id": "ev-1c48jer",
@@ -1763,7 +1867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.55
     },
     {
       "id": "ev-0nwk6jr",
@@ -1798,7 +1902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.54
     },
     {
       "id": "ev-1qplwr8",
@@ -1830,7 +1934,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.54
     },
     {
       "id": "ev-06dnx42",
@@ -1865,7 +1969,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.54
+      "score": 5.53
     },
     {
       "id": "ev-0x5ui62",
@@ -1900,7 +2004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.51
     },
     {
       "id": "ev-1ti1ulr",
@@ -1935,7 +2039,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.5
+      "score": 5.49
     },
     {
       "id": "ev-16ovols",
@@ -1970,7 +2074,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.5
+      "score": 5.49
     },
     {
       "id": "ev-1vcsuhc",
@@ -2006,7 +2110,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.5
+      "score": 5.49
     },
     {
       "id": "ev-05fqq2k",
@@ -2041,7 +2145,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.5
+      "score": 5.49
     },
     {
       "id": "ev-0s0ahnw",
@@ -2076,7 +2180,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.47
+      "score": 5.46
     },
     {
       "id": "ev-1ayzmw0",
@@ -2110,7 +2214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.45
     },
     {
       "id": "ev-0bo264c",
@@ -2145,7 +2249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.42
     },
     {
       "id": "ev-0d061ms",
@@ -2197,7 +2301,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:58:27.620Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.99
     },
     {
       "id": "ev-1dgjxsh",
@@ -2232,7 +2336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.06
+      "score": 3.04
     },
     {
       "id": "ev-1lipl1w",
@@ -2263,7 +2367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.02
+      "score": 3.01
     },
     {
       "id": "ev-1y8hjxy",
@@ -2294,7 +2398,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 3.01
+      "score": 3
     }
   ],
   "runs": [
@@ -2318,6 +2422,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 19
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-19T15:07:37.418Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 15
     }
   ]
 }
