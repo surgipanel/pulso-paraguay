@@ -1,27 +1,59 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-19T18:49:34.648Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-19T23:01:21.524Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0fh61p6",
-      "title": "Bachi Núñez respalda a Pedro Alliana para la presidencia en 2028",
-      "summary": "El presidente del Congreso, Basilio Núñez, anunció mediante un comunicado que apoyará la precandidatura presidencial de Pedro Alliana para 2028. Agradeció a Horacio Cartes por su liderazgo y dijo que Honor Colorado fue su casa por 15 años. Según la información publicada, también descartó una alianza con el abdismo y anunció que buscará la reelección en el Senado.",
+      "title": "Beto Ovelar buscaría la presidencia de la ANR por el movimiento de Alliana",
+      "summary": "Ahora con Horacio Cartes fuera de las internas, el senador colorado dejó abierta la posibilidad de competir por la presidencia de la Junta de Gobierno de la ANR dentro del sector que respaldará la candidatura presidencial de Pedro Alliana. Afirmó que su aspiración siempre fue dirigir el partido, pero que evitaba competir contra Cartes por respeto.",
       "keyPoints": [
-        "Basilio Núñez es presidente del Congreso Nacional.",
-        "Anunció su respaldo a la precandidatura de Pedro Alliana.",
-        "Agradeció a Horacio Cartes por su contribución al partido.",
-        "Según las notas, buscará la reelección en el Senado."
+        "Ahora con Horacio Cartes fuera de las internas, el senador colorado dejó abierta la posibilidad de competir por la presidencia de la Junta de Gobierno de la ANR dentro del sector que respaldará la candidatura presidencial…",
+        "El titular del Congreso Nacional, Basilio “Bachi” Núñez emitió este lunes un comunicado anunciando su respaldo al proyecto presidencial de Pedro Alliana, rumbo a las elecciones internas de la Asociación Nacional Republicana (ANR), previstas para diciembre…",
+        "El presidente afirmó que Pedro Alliana es la candidatura que apoya para las elecciones presidenciales de 2028.",
+        "El presidente Santiago Peña se refirió al escenario político electoral tras el anuncio del líder del movimiento Honor Colorado, Horacio Cartes."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Duarte Penayo desafía a Hugo Meza y defiende su gestión al frente de la ANEAES",
+          "url": "https://www.ultimahora.com/duarte-penayo-desafia-a-hugo-meza-y-defiende-su-gestion-al-frente-de-la-aneaes",
+          "publishedAt": "2026-10-19T21:06:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Diputado peñista critica a Nicanor y pide que su hijo dé el paso al costado en ANEAES",
+          "url": "https://www.ultimahora.com/diputado-penista-critica-a-nicanor-y-pide-que-su-hijo-de-el-paso-al-costado-en-aneaes",
+          "publishedAt": "2026-10-19T21:00:57.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Retiro de Cartes motiva a Beto Ovelar a disputar la presidencia de la ANR por el peñismo",
+          "url": "https://www.ultimahora.com/retiro-de-cartes-motiva-a-beto-ovelar-a-disputar-la-presidencia-de-la-anr-por-el-penismo",
+          "publishedAt": "2026-10-19T20:53:22.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "José Duarte niega ser cupo de Nicanor, se desmarca de su padre y ratifica apoyo al Gobierno de Santi Peña",
+          "url": "https://www.abc.com.py/politica/2026/10/19/jose-duarte-niega-ser-cupo-de-nicanor-se-desmarca-de-su-padre-y-ratifica-apoyo-al-gobierno-de-santi-pena",
+          "publishedAt": "2026-10-19T19:29:09.000Z",
+          "image": "https://www.abc.com.py/resizer/cgQ70Dt4SIiwqSF-o4ajBp1KZpk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CCGZBROZBRCFXE7WSNQ6P6NOLY.jpg"
+        },
         {
           "sourceId": "vanguardia",
           "sourceName": "Vanguardia",
@@ -45,6 +77,22 @@
           "url": "https://elnacional.com.py/politica/honor-patriotico-bromea-bachi-sobre-nombre-nuevo-movimiento-pena-n113862",
           "publishedAt": "2026-10-19T17:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/10/6ac8f0bbd7f8f.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nicanor dice que Peña buscó desplazar a Cartes desde que asumió el poder",
+          "url": "https://elnacional.com.py/politica/nicanor-dice-pena-busco-desplazar-cartes-asumio-poder-n113844",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa42110d2704.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Beto Ovelar afirma que Peña será el nuevo líder del coloradismo tras el poscartismo",
+          "url": "https://elnacional.com.py/politica/beto-ovelar-afirma-pena-sera-nuevo-lider-coloradismo-tras-poscartismo-n113837",
+          "publishedAt": "2026-10-19T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a281b3ad087e.jpeg"
         },
         {
           "sourceId": "ultimahora",
@@ -175,6 +223,14 @@
           "image": "https://www.lanacion.com.py/resizer/DinwaSsh9-wS6NFGMISjcodjy44=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AJ6SMGNXCJGPXJVCIXQ5LNW2IE.jpg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Beto Ovelar buscaría la presidencia de la ANR por el movimiento de Alliana",
+          "url": "https://elnacional.com.py/politica/beto-ovelar-buscaria-presidencia-anr-movimiento-alliana-n113835",
+          "publishedAt": "2026-10-19T12:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2023/12/90df7d3df17edf16ad05f6dd6156ec5f.jpg"
+        },
+        {
           "sourceId": "hoy",
           "sourceName": "HOY",
           "title": "Bachi anuncia apoyo a Pedro Alliana y da las gracias a Cartes",
@@ -189,6 +245,14 @@
           "url": "https://elnacional.com.py/politica/eduardo-gonzalez-dejara-ser-apoderado-movimientos-internos-anr-n113832",
           "publishedAt": "2026-10-19T11:30:00.000Z",
           "image": "https://statics.elnacional.com.py/2022/08/92ba616ffde50a706185e4215642e424.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Silvio Ovelar busca presidir la ANR: “Es el único cargo que me falta en el partido”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/silvio-ovelar-busca-presidir-la-anr-es-el-unico-cargo-que-me-falta-en-el-partido",
+          "publishedAt": "2026-10-19T11:07:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cfo2b9opKaZjQ_fivWDnwaG1te8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4DOHERA6JZBWZGVUAPRM7CKLPM.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -256,15 +320,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ac8f0bbd7f8f.jpeg",
+        "url": "https://statics.elnacional.com.py/2023/12/90df7d3df17edf16ad05f6dd6156ec5f.jpg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/honor-patriotico-bromea-bachi-sobre-nombre-nuevo-movimiento-pena-n113862"
+        "articleUrl": "https://elnacional.com.py/politica/beto-ovelar-buscaria-presidencia-anr-movimiento-alliana-n113835"
       },
       "firstSeenAt": "2026-10-19T10:54:06.982Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-19T18:49:34.648Z",
+      "updatedAt": "2026-10-19T23:01:21.524Z",
       "updatedSlot": "tarde",
-      "score": 32.96
+      "score": 32.84
     },
     {
       "id": "ev-0lw6cuu",
@@ -396,7 +460,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T18:49:34.648Z",
       "updatedSlot": "tarde",
-      "score": 29.98
+      "score": 29.63
     },
     {
       "id": "ev-1odxwep",
@@ -472,7 +536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T18:49:34.648Z",
       "updatedSlot": "tarde",
-      "score": 20.98
+      "score": 20.63
     },
     {
       "id": "ev-1spiu0s",
@@ -539,7 +603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 20.29
+      "score": 19.94
     },
     {
       "id": "ev-0v4mcwd",
@@ -607,7 +671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T15:07:37.418Z",
       "updatedSlot": "tarde",
-      "score": 18.12
+      "score": 17.77
     },
     {
       "id": "ev-1hbu3do",
@@ -675,7 +739,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:51:05.278Z",
       "updatedSlot": "manana",
-      "score": 17.63
+      "score": 17.28
     },
     {
       "id": "ev-0idtcyr",
@@ -742,7 +806,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 16.81
+      "score": 16.46
     },
     {
       "id": "ev-1uur9xp",
@@ -801,7 +865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 14.14
+      "score": 13.79
     },
     {
       "id": "ev-1wuec3q",
@@ -860,7 +924,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 11.8
+      "score": 11.45
     },
     {
       "id": "ev-0xlkbky",
@@ -944,7 +1008,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T15:07:37.418Z",
       "updatedSlot": "tarde",
-      "score": 11.66
+      "score": 11.31
     },
     {
       "id": "ev-04w5hom",
@@ -1011,7 +1075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.83
+      "score": 10.48
     },
     {
       "id": "ev-0ujpabj",
@@ -1063,7 +1127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T15:19:04.678Z",
       "updatedSlot": "tarde",
-      "score": 10.58
+      "score": 10.23
     },
     {
       "id": "ev-0d11tnj",
@@ -1114,7 +1178,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 10.2
+      "score": 9.85
     },
     {
       "id": "ev-1vv5zr5",
@@ -1157,7 +1221,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.97
     },
     {
       "id": "ev-0ac21pt",
@@ -1200,7 +1264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.89
     },
     {
       "id": "ev-0j7u7i9",
@@ -1244,7 +1308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.89
     },
     {
       "id": "ev-1devse9",
@@ -1295,7 +1359,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.68
+      "score": 7.33
     },
     {
       "id": "ev-11cq33p",
@@ -1339,7 +1403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T18:49:34.648Z",
       "updatedSlot": "tarde",
-      "score": 7.41
+      "score": 7.06
     },
     {
       "id": "ev-1x724cu",
@@ -1391,7 +1455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 7.19
+      "score": 6.84
     },
     {
       "id": "ev-06gxekz",
@@ -1434,7 +1498,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.39
     },
     {
       "id": "ev-04wz6k0",
@@ -1478,7 +1542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.68
+      "score": 6.33
     },
     {
       "id": "ev-0nlv18d",
@@ -1522,7 +1586,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.31
     },
     {
       "id": "ev-0wt1hai",
@@ -1566,7 +1630,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.23
+      "score": 5.88
     },
     {
       "id": "ev-11acg37",
@@ -1609,7 +1673,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.19
+      "score": 5.84
     },
     {
       "id": "ev-0cp0l0p",
@@ -1652,7 +1716,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 6.18
+      "score": 5.83
     },
     {
       "id": "ev-0mleveh",
@@ -1695,7 +1759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-0ff71gs",
@@ -1730,7 +1794,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 4.99
     },
     {
       "id": "ev-0sokdgo",
@@ -1765,7 +1829,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 4.98
     },
     {
       "id": "ev-1qxlohy",
@@ -1799,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 4.98
     },
     {
       "id": "ev-1pfoxhb",
@@ -1834,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.97
     },
     {
       "id": "ev-0uj0ggo",
@@ -1869,7 +1933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.97
     },
     {
       "id": "ev-163igi8",
@@ -1904,7 +1968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.96
     },
     {
       "id": "ev-0p8utuu",
@@ -1939,7 +2003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.93
     },
     {
       "id": "ev-07xh0ja",
@@ -1971,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.27
+      "score": 4.92
     },
     {
       "id": "ev-1c48jer",
@@ -2006,7 +2070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.25
+      "score": 4.9
     },
     {
       "id": "ev-0nwk6jr",
@@ -2041,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.23
+      "score": 4.88
     },
     {
       "id": "ev-1qplwr8",
@@ -2073,7 +2137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.23
+      "score": 4.88
     },
     {
       "id": "ev-06dnx42",
@@ -2108,7 +2172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.22
+      "score": 4.87
     },
     {
       "id": "ev-0x5ui62",
@@ -2143,7 +2207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.21
+      "score": 4.86
     },
     {
       "id": "ev-1ti1ulr",
@@ -2178,7 +2242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.83
     },
     {
       "id": "ev-16ovols",
@@ -2213,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.83
     },
     {
       "id": "ev-1vcsuhc",
@@ -2249,7 +2313,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.83
     },
     {
       "id": "ev-05fqq2k",
@@ -2284,7 +2348,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.83
     },
     {
       "id": "ev-0s0ahnw",
@@ -2319,7 +2383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.8
     },
     {
       "id": "ev-1ayzmw0",
@@ -2353,7 +2417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.14
+      "score": 4.79
     },
     {
       "id": "ev-0bo264c",
@@ -2388,7 +2452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 5.11
+      "score": 4.76
     },
     {
       "id": "ev-0d061ms",
@@ -2440,7 +2504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T14:58:27.620Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.34
     },
     {
       "id": "ev-1dgjxsh",
@@ -2475,7 +2539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.39
     },
     {
       "id": "ev-1lipl1w",
@@ -2506,7 +2570,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 2.7
+      "score": 2.35
     },
     {
       "id": "ev-1y8hjxy",
@@ -2537,7 +2601,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-19T10:54:06.982Z",
       "updatedSlot": "manana",
-      "score": 2.69
+      "score": 2.34
     }
   ],
   "runs": [
@@ -2582,6 +2646,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 18
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-19T23:01:21.524Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
     }
   ]
 }

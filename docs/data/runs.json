@@ -1,5 +1,34 @@
 [
   {
+    "startedAt": "2026-10-19T23:01:21.524Z",
+    "finishedAt": "2026-10-19T23:03:51.678Z",
+    "edition": "2026-10-19",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 303,
+    "clusters": 241,
+    "candidates": 12,
+    "added": 0,
+    "updated": 2,
+    "eventsTotal": 50,
+    "sourcesOk": 10,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 1,
+      "aiErrors": [
+        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 7645 (line 1 column 7646)"
+      ],
+      "inputTokens": 3132,
+      "outputTokens": 1888,
+      "fallbacks": 6
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-10-19T18:49:34.648Z",
     "finishedAt": "2026-10-19T18:52:09.534Z",
     "edition": "2026-10-19",
