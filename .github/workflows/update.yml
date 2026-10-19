@@ -73,6 +73,7 @@ jobs:
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           X_LINK_MODE: ${{ vars.X_LINK_MODE }}
           X_MAX_POSTS_PER_DAY: ${{ vars.X_MAX_POSTS_PER_DAY }}
+          X_CATEGORIES: ${{ vars.X_CATEGORIES }}
         run: node scripts/publish-x.mjs
 
       # Se publica también cuando el proceso falló: latest.json y runs.json registran el fallo

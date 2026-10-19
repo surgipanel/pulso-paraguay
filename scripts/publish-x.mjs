@@ -8,6 +8,7 @@
 // Variables: X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET (sin ellas, se omite sin error)
 //            X_LINK_MODE = none (por defecto) | daily (el 1.º post del día lleva enlace) | all
 //            X_MAX_POSTS_PER_DAY = 5
+//            X_CATEGORIES = politica (lista separada por comas; vacío o "todas" = cualquier categoría)
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -27,6 +28,8 @@ const OUT = args.includes("--out") ? args[args.indexOf("--out") + 1] : path.join
 const FORCE_EVENT = args.includes("--event") ? args[args.indexOf("--event") + 1] : null;
 const LINK_MODE = (env.X_LINK_MODE || "none").toLowerCase();
 const MAX_PER_DAY = Math.max(1, Number.parseInt(env.X_MAX_POSTS_PER_DAY || "5", 10) || 5);
+// Decisión editorial del dueño (19/10/2026): en X solo se publica Política.
+const CATEGORIES = (env.X_CATEGORIES ?? "politica").split(",").map((s) => s.trim().toLowerCase()).filter((s) => s && s !== "todas");
 
 const log = (...a) => console.log("[x]", ...a);
 
@@ -44,6 +47,7 @@ function pickEvent(events, posted, today) {
   const lastCat = todays.at(-1)?.category;
   const now = Date.now();
   const fresh = events.filter((ev) => {
+    if (CATEGORIES.length && !CATEGORIES.includes(ev.category)) return false;
     if (postedKeys.has(ev.id) || postedTitles.has(fold(ev.title))) return false;
     const t = new Date(latestAt(ev)).getTime();
     return Number.isFinite(t) && now - t < 18 * 3600e3; // nada de más de 18 h
@@ -87,7 +91,7 @@ async function main() {
   if (!DRY && todayCount >= MAX_PER_DAY) { log(`ya se publicaron ${todayCount} posts hoy (máx. ${MAX_PER_DAY}); se omite`); return; }
 
   const ev = FORCE_EVENT ? events.find((e) => e.id === FORCE_EVENT) : pickEvent(events, social.posts, today);
-  if (!ev) { log("no hay ninguna noticia nueva para publicar"); return; }
+  if (!ev) { log(`no hay ninguna noticia nueva para publicar${CATEGORIES.length ? ` en ${CATEGORIES.join(", ")}` : ""}`); return; }
 
   const withLink = LINK_MODE === "all" || (LINK_MODE === "daily" && todayCount === 0);
   const text = composeText(ev, { withLink });

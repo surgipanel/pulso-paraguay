@@ -113,7 +113,7 @@ Al final de cada corrida exitosa, `scripts/publish-x.mjs` publica **una** notici
 
 - Sin las cuatro credenciales el paso se omite sin error. Si X falla, la edición se publica igual (`continue-on-error`).
 - **Secretos del repositorio** (Settings → Secrets and variables → Actions → Secrets): `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` (app en developer.x.com con OAuth 1.0a y permisos *Read and Write*).
-- **Variables** (misma pantalla, pestaña Variables): `X_LINK_MODE` = `none` (por defecto, sin enlace), `daily` (el primer post del día lleva enlace a la noticia) o `all`; `X_MAX_POSTS_PER_DAY` (5).
+- **Variables** (misma pantalla, pestaña Variables): `X_LINK_MODE` = `none` (por defecto, sin enlace), `daily` (el primer post del día lleva enlace a la noticia) o `all`; `X_MAX_POSTS_PER_DAY` (5); `X_CATEGORIES` (por defecto `politica`: en X solo se publican noticias de Política; lista separada por comas, o `todas`).
 - **Costo** (precios oficiales de X al 19/10/2026, pago por uso, sin abono): post sin enlace US$ 0,015; post con enlace US$ 0,20. Con `none`: ≈ US$ 2,25/mes. Con `all`: ≈ US$ 30/mes. X regala US$ 20 de crédito al cargar la tarjeta y hacer la primera compra. El plan gratuito ya no existe para cuentas nuevas desde febrero de 2026.
 - Prueba en seco (no publica, guarda la tarjeta en `tmp/card.png`): `npm run publish-x:dry`.
 - La cuenta de X debe marcarse como automatizada (Settings → Your account → Automation) según las reglas de X.
