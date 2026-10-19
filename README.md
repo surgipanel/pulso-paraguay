@@ -109,7 +109,7 @@ El 19/10/2026 GitHub no disparó ninguna de las corridas programadas de la maña
 
 ## Publicación automática en X (Twitter)
 
-Al final de cada corrida exitosa, `scripts/publish-x.mjs` publica **una** noticia en X: cinco corridas por día → cinco posts por día. Elige la noticia más cubierta que todavía no se publicó (prefiere redacción con IA, varía la categoría respecto del post anterior y descarta lo de más de 18 h), arma el texto (titular, un punto clave que no repita el título, fuentes) y adjunta una **tarjeta de imagen propia** generada con `src/card.mjs` (marca El Prócer sobre azul noche, sin fotos de los medios). El registro de lo publicado vive en `docs/data/social.json`.
+Al final de cada corrida exitosa, `scripts/publish-x.mjs` publica **una** noticia en X: cinco corridas por día → cinco posts por día. Elige la noticia más cubierta que todavía no se publicó (prefiere redacción con IA, varía la categoría respecto del post anterior y descarta lo de más de 18 h), arma el texto (titular y hasta dos puntos clave que no repitan el título; las fuentes van solo al pie de la tarjeta, por decisión editorial del 19/10/2026) y adjunta una **tarjeta de imagen propia** generada con `src/card.mjs` (marca El Prócer sobre azul noche, sin fotos de los medios). El registro de lo publicado vive en `docs/data/social.json`.
 
 - Sin las cuatro credenciales el paso se omite sin error. Si X falla, la edición se publica igual (`continue-on-error`).
 - **Secretos del repositorio** (Settings → Secrets and variables → Actions → Secrets): `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` (app en developer.x.com con OAuth 1.0a y permisos *Read and Write*).

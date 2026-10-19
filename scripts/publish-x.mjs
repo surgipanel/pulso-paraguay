@@ -62,20 +62,18 @@ function pickEvent(events, posted, today) {
 
 function composeText(ev, { withLink }) {
   const link = withLink ? `${SITE}/n/${ev.id}/` : "";
-  const names = distinctSourceNames(ev);
-  const sources = names.length ? `Fuentes: ${names.slice(0, 4).join(", ")}${names.length > 4 ? ` y ${names.length - 4} más` : ""}` : "";
+  // Decisión editorial (19/10/2026): las fuentes van solo al pie de la tarjeta, no en el texto.
+  const sources = "";
   // Punto clave que aporte algo: se descartan los que repiten más de la mitad de las palabras del título.
   const titleWords = new Set(fold(ev.title).split(" ").filter((w) => w.length > 3));
   const overlap = (k) => { const ws = fold(k).split(" ").filter((w) => w.length > 3); return ws.length ? ws.filter((w) => titleWords.has(w)).length / ws.length : 1; };
-  const point = (ev.keyPoints ?? []).find((k) => k && k.length <= 160 && overlap(k) < 0.5) ?? "";
-  const parts = [ev.title.trim()];
-  if (point) parts.push(`• ${point.trim()}`);
-  if (sources) parts.push(sources);
-  if (link) parts.push(link);
-  let text = parts.join("\n\n");
-  // Recorte progresivo: primero el punto clave, después las fuentes.
-  if (xLength(text) > 280 && point) text = [ev.title.trim(), sources, link].filter(Boolean).join("\n\n");
-  if (xLength(text) > 280 && sources) text = [ev.title.trim(), link].filter(Boolean).join("\n\n");
+  const points = (ev.keyPoints ?? []).filter((k) => k && k.length <= 160 && overlap(k) < 0.5).slice(0, 2);
+  const bullets = (n) => points.slice(0, n).map((k) => "• " + k.trim()).join("\n");
+  const build = (n) => [ev.title.trim(), n ? bullets(n) : "", sources, link].filter(Boolean).join("\n\n");
+  // Recorte progresivo: primero el segundo punto clave, después el primero.
+  let text = build(points.length);
+  if (xLength(text) > 280 && points.length > 1) text = build(1);
+  if (xLength(text) > 280 && points.length) text = build(0);
   if (xLength(text) > 280) text = [...ev.title.trim()].slice(0, 276).join("") + "…";
   return text;
 }
