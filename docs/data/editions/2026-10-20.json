@@ -1,19 +1,20 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-20T19:37:13.817Z",
+  "generatedAt": "2026-10-20T23:07:10.102Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0u2b9s0",
-      "title": "Meteorología alerta por tormentas y lluvias intensas hasta el fin de semana",
-      "summary": "La Dirección de Meteorología emitió una alerta por tormentas y lluvias intensas en el país. El miércoles las tormentas afectarían primero el sur y sureste de la Región Oriental. Desde la noche del miércoles y el jueves podrían llegar a departamentos del norte y noreste. Estiman acumulados de entre 100 y 150 milímetros en el centro y este de la Región Oriental, con riesgo de granizo e inundaciones.",
+      "title": "Meteorología prevé cinco días de tormentas, lluvias intensas y posible granizo",
+      "summary": "Meteorología advierte que las lluvias se extenderán del 21 al 25 de octubre en gran parte del país. En el centro y este de la Región Oriental se estiman acumulados de entre 100 y 150 milímetros, con posibles registros más altos en el sureste. Se esperan ráfagas de viento y riesgo de granizo e inundaciones. La cuenca del río Paraná permanece en alerta.",
       "keyPoints": [
-        "La alerta abarca tormentas desde el miércoles 21 hasta el 25 de octubre.",
-        "Se estiman acumulados de entre 100 y 150 milímetros en el centro y este de la Región Oriental.",
-        "Existe riesgo de granizo e inundaciones en varias zonas del país."
+        "Las precipitaciones se extenderían del 21 al 25 de octubre.",
+        "En el centro y este de la Región Oriental se estiman 100 a 150 milímetros.",
+        "Se prevé alta probabilidad de granizo puntual y fuertes ráfagas de viento.",
+        "La cuenca del río Paraná permanece bajo alerta."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alertan sobre tormentas intensas y alta probabilidad de granizo para los próximos días",
+          "url": "https://www.lanacion.com.py/pais/2026/10/20/alertan-sobre-tormentas-intensas-y-alta-probabilidad-de-granizo-para-los-proximos-dias",
+          "publishedAt": "2026-10-20T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aFwea7rDlkMw2WppvKhi5XrzL3o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MAEWL5ITOZGKJD6WEHXQ567Y7E.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -103,13 +112,13 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Y2YLVANNZVGCTIQQFO6P3PMSLY.jpg?auth=669fb7aab09d1c7b34ce4de5436c3175c6fced37be70bb605797044c6fb03480&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/10/20/lluvias-de-hasta-90-mm-y-vientos-que-superarian-los-90-kmh-se-esperan-para-manana-y-pasado"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MAEWL5ITOZGKJD6WEHXQ567Y7E.jpeg?auth=e34883e8c20485e5da9f9503572e468470a206165e071c5af5cc3a7869bf4215&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/20/alertan-sobre-tormentas-intensas-y-alta-probabilidad-de-granizo-para-los-proximos-dias"
       },
       "firstSeenAt": "2026-10-20T08:07:13.828Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-20T19:37:13.817Z",
+      "updatedAt": "2026-10-20T23:07:10.102Z",
       "updatedSlot": "tarde",
       "score": 29.91
     },
@@ -170,7 +179,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T19:37:13.817Z",
       "updatedSlot": "tarde",
-      "score": 14.82
+      "score": 14.53
     },
     {
       "id": "ev-06zylxf",
@@ -229,7 +238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 13.72
+      "score": 13.43
     },
     {
       "id": "ev-18qsj3r",
@@ -281,7 +290,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T16:07:13.617Z",
       "updatedSlot": "tarde",
-      "score": 13.52
+      "score": 13.23
     },
     {
       "id": "ev-05mt8tj",
@@ -400,7 +409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 11.74
+      "score": 11.45
     },
     {
       "id": "ev-15l515n",
@@ -451,7 +460,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.76
+      "score": 9.47
     },
     {
       "id": "ev-1vv63ao",
@@ -502,7 +511,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-0g805ep",
@@ -554,7 +563,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-15ivsw9",
@@ -597,7 +606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.05
     },
     {
       "id": "ev-182f86m",
@@ -640,7 +649,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 8
     },
     {
       "id": "ev-00uoo2z",
@@ -683,7 +692,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.17
+      "score": 8
     },
     {
       "id": "ev-083w6f5",
@@ -726,7 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.12
+      "score": 8
     },
     {
       "id": "ev-1xxneeq",
@@ -1067,7 +1076,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.41
     },
     {
       "id": "ev-07zkp7a",
@@ -1110,7 +1119,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0pvycl4",
@@ -1153,7 +1162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0uq5f4e",
@@ -1196,7 +1205,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0kxw0xu",
@@ -1239,7 +1248,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1fb20qk",
@@ -1283,7 +1292,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1mwjdtp",
@@ -1326,7 +1335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1r1ljcq",
@@ -1369,7 +1378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1g7ygnu",
@@ -1413,59 +1422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.62
-    },
-    {
-      "id": "ev-0nzodu4",
-      "title": "Olimpia vence 1-0 a Liga de Quito y sube en la Libertadores Femenina",
-      "summary": "Olimpia superó 1-0 a Liga de Quito por la segunda fecha del Grupo C de la Copa Libertadores Femenina 2026. El gol fue de Micaela Valdez. Con el resultado y la victoria de Cruzeiro, el equipo quedó segundo en zona de clasificación a cuartos de final.",
-      "keyPoints": [
-        "Micaela Valdez anotó el único gol del partido.",
-        "Olimpia había empatado 2-2 con Bolívar en el debut.",
-        "Olimpia ocupa el segundo lugar en zona de clasificación.",
-        "El partido se jugó en el estadio Rodrigo Paz Delgado de Quito."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Copa Libertadores Femenina: El Grupo D luego de la victoria de Libertad",
-          "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/10/20/copa-libertadores-femenina-el-grupo-d-luego-de-la-victoria-de-libertad",
-          "publishedAt": "2026-10-20T15:59:52.000Z",
-          "image": "https://www.abc.com.py/resizer/iEtjTPQ9PeOKS1DxryP_qKc_4GU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N74GJRIVXJEXFHVUIXK5Z7OSR4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Copa Libertadores Femenina: El Grupo C después del triunfo de Olimpia",
-          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia",
-          "publishedAt": "2026-10-20T12:45:26.000Z",
-          "image": "https://www.abc.com.py/resizer/VFVr9Dix0Mq5zQKwSBir8NcLVWI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad respira y deja a la “U” de Chile al borde del abismo en la Libertadores",
-          "url": "https://www.abc.com.py/deportes/futbol/libertadores/2026/10/20/libertad-respira-y-deja-a-la-u-de-chile-al-borde-del-abismo-en-la-libertadores",
-          "publishedAt": "2026-10-20T04:28:24.000Z",
-          "image": "https://www.abc.com.py/resizer/ni5B1_IIjSEr1U3VZEbj7z27LTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BOGJ5O7JSZAVZI3DEF3RDX4YQI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg?auth=d922d83f656c2c1cc30e1b706cc1df796e217275ac593158580256c13ea31263&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T16:07:13.617Z",
-      "updatedSlot": "tarde",
-      "score": 5.2
+      "score": 5.33
     },
     {
       "id": "ev-0f02adn",
@@ -1554,6 +1511,58 @@
       "score": 5
     },
     {
+      "id": "ev-0nzodu4",
+      "title": "Olimpia vence 1-0 a Liga de Quito y sube en la Libertadores Femenina",
+      "summary": "Olimpia superó 1-0 a Liga de Quito por la segunda fecha del Grupo C de la Copa Libertadores Femenina 2026. El gol fue de Micaela Valdez. Con el resultado y la victoria de Cruzeiro, el equipo quedó segundo en zona de clasificación a cuartos de final.",
+      "keyPoints": [
+        "Micaela Valdez anotó el único gol del partido.",
+        "Olimpia había empatado 2-2 con Bolívar en el debut.",
+        "Olimpia ocupa el segundo lugar en zona de clasificación.",
+        "El partido se jugó en el estadio Rodrigo Paz Delgado de Quito."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Copa Libertadores Femenina: El Grupo D luego de la victoria de Libertad",
+          "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/10/20/copa-libertadores-femenina-el-grupo-d-luego-de-la-victoria-de-libertad",
+          "publishedAt": "2026-10-20T15:59:52.000Z",
+          "image": "https://www.abc.com.py/resizer/iEtjTPQ9PeOKS1DxryP_qKc_4GU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N74GJRIVXJEXFHVUIXK5Z7OSR4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Copa Libertadores Femenina: El Grupo C después del triunfo de Olimpia",
+          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia",
+          "publishedAt": "2026-10-20T12:45:26.000Z",
+          "image": "https://www.abc.com.py/resizer/VFVr9Dix0Mq5zQKwSBir8NcLVWI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad respira y deja a la “U” de Chile al borde del abismo en la Libertadores",
+          "url": "https://www.abc.com.py/deportes/futbol/libertadores/2026/10/20/libertad-respira-y-deja-a-la-u-de-chile-al-borde-del-abismo-en-la-libertadores",
+          "publishedAt": "2026-10-20T04:28:24.000Z",
+          "image": "https://www.abc.com.py/resizer/ni5B1_IIjSEr1U3VZEbj7z27LTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BOGJ5O7JSZAVZI3DEF3RDX4YQI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg?auth=d922d83f656c2c1cc30e1b706cc1df796e217275ac593158580256c13ea31263&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T16:07:13.617Z",
+      "updatedSlot": "tarde",
+      "score": 4.91
+    },
+    {
       "id": "ev-1justh7",
       "title": "Andrés Báez presenta su colección en el AFW 2026",
       "summary": "Última Hora cubrió la colección de Andrés Báez presentada en el AFW 2026. La nota no trae más detalles sobre la muestra, por lo que la información disponible es breve. Se trata de una cobertura de moda que da cuenta de la participación del diseñador en el evento.",
@@ -1581,7 +1590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1su8e1z",
@@ -1611,7 +1620,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0wr3g41",
@@ -1641,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1rjmn4d",
@@ -1670,7 +1679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-10z0rwr",
@@ -1701,7 +1710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0odadbo",
@@ -1731,7 +1740,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1jj6kd9",
@@ -1765,7 +1774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.75
+      "score": 4.46
     },
     {
       "id": "ev-0zy6yij",
@@ -1798,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-16ils33",
@@ -1833,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.29
     },
     {
       "id": "ev-18tcp4t",
@@ -1868,7 +1877,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.17
+      "score": 4
     },
     {
       "id": "ev-05w1tq0",
@@ -2074,7 +2083,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.19
     },
     {
       "id": "ev-0g1b610",
@@ -2105,7 +2114,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 2.52
+      "score": 2.23
     },
     {
       "id": "ev-19nh6e8",
@@ -2140,7 +2149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 2.39
+      "score": 2.1
     }
   ],
   "runs": [
@@ -2171,6 +2180,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-20T23:07:10.102Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 14
     }
   ]
 }
