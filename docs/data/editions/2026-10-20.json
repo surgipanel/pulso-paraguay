@@ -1,11 +1,153 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-20T08:07:13.828Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-20T12:07:12.054Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0u2b9s0",
+      "title": "Meteorología prevé lluvias, tormentas y granizo del miércoles 21 al domingo 25",
+      "summary": "La Dirección de Meteorología e Hidrología advirtió sobre un período lluvioso desde el miércoles 21 hasta el domingo 25 de octubre. Se esperan acumulados de hasta 150 milímetros, principalmente en el centro y este del país y en la cuenca del río Paraná. También podrían registrarse tormentas con granizo, fuertes vientos y eventuales inundaciones.",
+      "keyPoints": [
+        "Las lluvias se extenderían desde el miércoles 21 hasta el domingo 25 de octubre.",
+        "Los acumulados podrían alcanzar los 150 milímetros en algunas zonas.",
+        "Podrían darse tormentas con granizo, vientos fuertes e inundaciones."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-10-26T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Meteorología alerta por una semana de lluvias y tormentas",
+          "url": "https://www.npy.com.py/noticias/nacionales/meteorologia-alerta-por-una-semana-de-lluvias-y-tormentas",
+          "publishedAt": "2026-10-20T11:23:50.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Prevén cinco días de tormentas, lluvias intensas y posible granizo",
+          "url": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880",
+          "publishedAt": "2026-10-20T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Lluvias de hasta 150 mm, tormentas y granizadas amenazan al país golpeado por crecidas",
+          "url": "https://www.adndigital.com.py/lluvias-de-hasta-150-mm-tormentas-y-granizadas-amenazan-al-pais-golpeado-por-crecidas",
+          "publishedAt": "2026-10-20T10:24:38.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/26c8.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Último día sin lluvias, temporal comienza mañana",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/20/ultimo-dia-sin-lluvias-temporal-comienza-manana",
+          "publishedAt": "2026-10-20T08:30:39.541Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/AVKY55Z3SNHVRFOBGDVVXLLSAM.jpg?auth=70f248b602f15f70aa1d0d5b268118114889fb5bdd959b9d8c5d82b24acfab48&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anuncian lluvias continuas y se eleva alerta de crecidas",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/20/anuncian-lluvias-continuas-y-se-eleva-alerta-de-crecidas",
+          "publishedAt": "2026-10-20T04:42:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ULY-UsGoj9nHX_PizDLDiFxU0P0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ICWASV6AZVDABP7UPFDDOJUHXY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anuncian cinco días consecutivos de tormentas y lluvias intensas en gran parte del país",
+          "url": "https://www.lanacion.com.py/pais/2026/10/19/anuncian-cinco-dias-consecutivos-de-tormentas-y-lluvias-intensas-en-gran-parte-del-pais",
+          "publishedAt": "2026-10-19T18:06:23.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ASbp6sq0qz3nlywuDlscnr6-FPo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6ZYBNGMVTBCDFNZ3YVIG67LBHA.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alerta para esta semana: lluvias intensas, granizo y vientos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/19/alerta-para-esta-semana-lluvias-intensas-granizo-y-rafagas-de-viento",
+          "publishedAt": "2026-10-19T14:19:37.965Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/5G2XHP65DFAGLBZLVN6NYV6D5I.jpg?auth=8d9a9a9d9bcacf52b4f9bcb323227bf3e76cb87f75d29adb26ba100abb938d41&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T12:07:12.054Z",
+      "updatedSlot": "manana",
+      "score": 20.94
+    },
+    {
+      "id": "ev-06zylxf",
+      "title": "Peña y Bachi Núñez respaldan a Pedro Alliana para 2028",
+      "summary": "El presidente Peña afirmó que Pedro Alliana es la candidatura que apoya para las elecciones presidenciales de 2028. Dijo que buscará dialogar con Horacio Cartes para lograr armonía entre el Gobierno y la ANR. Basilio Núñez también respaldó la precandidatura de Alliana, descartó una alianza con el abdismo y anunció que buscará la reelección en el Senado.",
+      "keyPoints": [
+        "Peña afirma que apoya a Pedro Alliana para las presidenciales de 2028.",
+        "Peña buscará dialogar con Cartes para lograr armonía entre el Gobierno y la ANR.",
+        "Basilio Núñez respalda a Alliana, descarta alianza con el abdismo y buscará la reelección en el Senado."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña, sin apuro en crear movimiento para respaldo a Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/pena-sin-apuro-en-crear-movimiento-para-respaldo-a-alliana",
+          "publishedAt": "2026-10-20T04:17:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GHjkNiW0c4RmA_JeGQlX2CvxqkM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TNWKHNV4XREVRPQAARTIHHOYMI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña respalda a Alliana y anuncia que buscará dialogar con Cartes",
+          "url": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843",
+          "publishedAt": "2026-10-19T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Basilio Núñez respalda a Pedro Alliana y anuncia una nueva configuración política",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/basilio-nunez-respalda-a-pedro-alliana-y-anuncia-una-nueva-configuracion-politica",
+          "publishedAt": "2026-10-19T14:03:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña señala que no hay apuros para crear un movimiento que impulse a Alliana al 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/19/pena-senala-que-no-hay-apuros-para-crear-un-movimiento-que-impulse-a-alliana-al-2028",
+          "publishedAt": "2026-10-19T13:57:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/i_UsRw8Y1Yf9hZwbQqL_yXAVf9Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WA7D724S4FCZ7A4RRWGRE5RW2E.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T12:07:12.054Z",
+      "updatedSlot": "manana",
+      "score": 14.35
+    },
     {
       "id": "ev-05mt8tj",
       "title": "Un hombre muere de un disparo durante forcejeo con guardia en Itauguá",
@@ -55,7 +197,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 12.77
+      "score": 12.43
+    },
+    {
+      "id": "ev-14vqi87",
+      "title": "Francia aplica toques de queda tras disturbios, saqueos y edificios incendiados",
+      "summary": "Francia vivió el sábado algunos de sus peores episodios de violencia callejera en años, con enfrentamientos, edificios públicos incendiados y saqueos. Las autoridades activaron toques de queda en varias ciudades para recuperar el control. Varios países, entre ellos Estados Unidos, China y Alemania, pidieron a sus ciudadanos extremar la vigilancia en el país. Los disturbios ocurren a seis meses de la elección del sucesor de Emmanuel Macron.",
+      "keyPoints": [
+        "Los disturbios incluyeron enfrentamientos, edificios públicos incendiados y saqueos de tiendas.",
+        "Los primeros toques de queda entraron en vigor en varias ciudades de Francia.",
+        "Estados Unidos, China y Alemania llamaron a sus ciudadanos a la vigilancia.",
+        "Actos de violencia también se registraron en Bélgica e Italia."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Francia: disturbios, saqueos y toques de queda para frenar la violencia",
+          "url": "https://www.abc.com.py/internacionales/2026/10/20/francia-empieza-a-juzgar-a-los-detenidos-durante-disturbios-y-anuncia-nuevos-toques-de-queda",
+          "publishedAt": "2026-10-20T10:32:38.000Z",
+          "image": "https://www.abc.com.py/resizer/gd5WKdVsaQx-ogPTK95bDREIPMM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KY5VZRXM3ZGKZENPAX35IFU7DA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Francia evaluará nuevos toques de queda locales tras una noche sin altercados graves",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/20/francia-evaluara-nuevos-toques-de-queda-locales-tras-una-noche-sin-altercados-graves",
+          "publishedAt": "2026-10-20T10:30:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yBasXU4_VaMJWb3U0lL_2JbmScQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GI6EM67LWNBNDBUXZVXCN6UCN4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Gobierno de Francia aplica toque de queda para frenar los disturbios",
+          "url": "https://www.ultimahora.com/gobierno-de-francia-aplica-toque-de-queda-para-frenar-los-disturbios",
+          "publishedAt": "2026-10-20T09:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Una noche tranquila en Francia gracias a las medidas de toque de queda, según Lecornu",
+          "url": "https://www.abc.com.py/internacionales/2026/10/20/una-noche-tranquila-en-francia-gracias-a-las-medidas-de-toque-de-queda-segun-lecornu",
+          "publishedAt": "2026-10-20T06:50:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Toques de queda en Francia",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/20/toques-de-queda-en-francia",
+          "publishedAt": "2026-10-20T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/189kW9Ha7hg5oT5ZyIxtFZqss7c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCE6QDALXNFMJLNKH6CGVENPGY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/KY5VZRXM3ZGKZENPAX35IFU7DA.jpg?auth=98ac6e34b9e872046c51a18ef35ef644686fa8556f5ea0c43a65a180c449716e&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/20/francia-empieza-a-juzgar-a-los-detenidos-durante-disturbios-y-anuncia-nuevos-toques-de-queda"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T12:07:12.054Z",
+      "updatedSlot": "manana",
+      "score": 12.37
     },
     {
       "id": "ev-15l515n",
@@ -106,110 +316,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.72
-    },
-    {
-      "id": "ev-0u2b9s0",
-      "title": "Meteorología anuncia lluvias intensas y tormentas por varios días",
-      "summary": "La Dirección de Meteorología e Hidrología emitió un informe especial por un frente de tormentas. Se prevén lluvias intensas, granizo y fuertes vientos entre el miércoles y el domingo. Los acumulados podrían llegar a 150 milímetros, lo que eleva la alerta por posibles crecidas.",
-      "keyPoints": [
-        "Se espera un frente de tormentas con lluvias intensas.",
-        "Los acumulados podrían llegar a 150 milímetros.",
-        "Podría haber granizo y fuertes ráfagas de viento.",
-        "La DMH emitió un informe especial."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Anuncian lluvias continuas y se eleva alerta de crecidas",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/20/anuncian-lluvias-continuas-y-se-eleva-alerta-de-crecidas",
-          "publishedAt": "2026-10-20T04:42:09.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ULY-UsGoj9nHX_PizDLDiFxU0P0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ICWASV6AZVDABP7UPFDDOJUHXY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Anuncian cinco días consecutivos de tormentas y lluvias intensas en gran parte del país",
-          "url": "https://www.lanacion.com.py/pais/2026/10/19/anuncian-cinco-dias-consecutivos-de-tormentas-y-lluvias-intensas-en-gran-parte-del-pais",
-          "publishedAt": "2026-10-19T18:06:23.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ASbp6sq0qz3nlywuDlscnr6-FPo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6ZYBNGMVTBCDFNZ3YVIG67LBHA.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alerta para esta semana: lluvias intensas, granizo y vientos",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/19/alerta-para-esta-semana-lluvias-intensas-granizo-y-rafagas-de-viento",
-          "publishedAt": "2026-10-19T14:19:37.965Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/5G2XHP65DFAGLBZLVN6NYV6D5I.jpg?auth=8d9a9a9d9bcacf52b4f9bcb323227bf3e76cb87f75d29adb26ba100abb938d41&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ICWASV6AZVDABP7UPFDDOJUHXY.jpg?auth=331f2f1c63a6c026867e382cfe6131ab41a745b3e34511e0d4e73a0618096780&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/20/anuncian-lluvias-continuas-y-se-eleva-alerta-de-crecidas"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 10.72
-    },
-    {
-      "id": "ev-06zylxf",
-      "title": "Peña dice que no hay apuros para crear un movimiento para Alliana",
-      "summary": "El presidente Santiago Peña dijo que no tiene apuro en crear un movimiento que respalde a Pedro Alliana rumbo a 2028. Pidió prudencia, calma y seguridad en el escenario político tras el anuncio de Horacio Cartes. Lo importante, según Peña, es mantener la calma dentro del Partido Colorado en este momento de cambios internos.",
-      "keyPoints": [
-        "Peña habló con la prensa sobre el escenario político interno.",
-        "Pidió prudencia y calma en el momento actual.",
-        "El anuncio de Horacio Cartes marcó el contexto de las declaraciones."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña, sin apuro en crear movimiento para respaldo a Alliana",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/pena-sin-apuro-en-crear-movimiento-para-respaldo-a-alliana",
-          "publishedAt": "2026-10-20T04:17:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GHjkNiW0c4RmA_JeGQlX2CvxqkM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TNWKHNV4XREVRPQAARTIHHOYMI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña respalda a Alliana y anuncia que buscará dialogar con Cartes",
-          "url": "https://elnacional.com.py/politica/pena-respalda-alliana-anuncia-buscara-dialogar-cartes-n113843",
-          "publishedAt": "2026-10-19T14:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad3bb1f11d99.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña señala que no hay apuros para crear un movimiento que impulse a Alliana al 2028",
-          "url": "https://www.lanacion.com.py/politica/2026/10/19/pena-senala-que-no-hay-apuros-para-crear-un-movimiento-que-impulse-a-alliana-al-2028",
-          "publishedAt": "2026-10-19T13:57:27.000Z",
-          "image": "https://www.lanacion.com.py/resizer/i_UsRw8Y1Yf9hZwbQqL_yXAVf9Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WA7D724S4FCZ7A4RRWGRE5RW2E.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TNWKHNV4XREVRPQAARTIHHOYMI.jpg?auth=8ddc807512b9c63ff546b088949fe5d06844cfd4b8c6f4c7d6aac7a3c49e46ae&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/pena-sin-apuro-en-crear-movimiento-para-respaldo-a-alliana"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 10.68
+      "score": 10.38
     },
     {
       "id": "ev-1vv63ao",
@@ -260,7 +367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0g805ep",
@@ -312,7 +419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-18qsj3r",
@@ -355,7 +462,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.64
+      "score": 9.31
     },
     {
       "id": "ev-15ivsw9",
@@ -398,7 +505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.3
+      "score": 8.97
     },
     {
       "id": "ev-182f86m",
@@ -441,7 +548,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.82
     },
     {
       "id": "ev-00uoo2z",
@@ -484,7 +591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.13
+      "score": 8.8
     },
     {
       "id": "ev-083w6f5",
@@ -527,7 +634,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.08
+      "score": 8.75
     },
     {
       "id": "ev-1xxneeq",
@@ -570,7 +677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.57
     },
     {
       "id": "ev-1x70pzz",
@@ -613,7 +720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.52
     },
     {
       "id": "ev-1t1n8kl",
@@ -652,7 +759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.51
     },
     {
       "id": "ev-0erginp",
@@ -695,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.66
+      "score": 8.32
     },
     {
       "id": "ev-162b6fl",
@@ -739,7 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.49
+      "score": 8.16
     },
     {
       "id": "ev-1hd4g8r",
@@ -782,7 +889,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8
     },
     {
       "id": "ev-1spiu0s",
@@ -826,50 +933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.18
-    },
-    {
-      "id": "ev-14vqi87",
-      "title": "Francia aplica toques de queda selectivos y la noche fue tranquila",
-      "summary": "Los toques de queda selectivos se aplicaron en sectores de ciudades como París, Lyon, Burdeos, Lille y Niza. Según el primer ministro Lecornu, contribuyeron a una noche tranquila. Las autoridades locales decidirán sobre el terreno si se repiten, junto con los alcaldes.",
-      "keyPoints": [
-        "Los toques de queda se aplicaron en sectores de varias ciudades francesas.",
-        "Lecornu dijo que la noche fue tranquila gracias a las medidas.",
-        "Volverán a aplicarse donde la situación lo necesite, según Lecornu."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Una noche tranquila en Francia gracias a las medidas de toque de queda, según Lecornu",
-          "url": "https://www.abc.com.py/internacionales/2026/10/20/una-noche-tranquila-en-francia-gracias-a-las-medidas-de-toque-de-queda-segun-lecornu",
-          "publishedAt": "2026-10-20T06:50:09.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Toques de queda en Francia",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/20/toques-de-queda-en-francia",
-          "publishedAt": "2026-10-20T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/189kW9Ha7hg5oT5ZyIxtFZqss7c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCE6QDALXNFMJLNKH6CGVENPGY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WCE6QDALXNFMJLNKH6CGVENPGY.jpg?auth=de534f2fb27116a27b7b21cf4f37d6693fc79d86f67b9908254bba22bb13a48e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/20/toques-de-queda-en-francia"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 7.39
+      "score": 8
     },
     {
       "id": "ev-04l5p9e",
@@ -911,7 +975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.32
     },
     {
       "id": "ev-07zkp7a",
@@ -954,7 +1018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0pvycl4",
@@ -997,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0uq5f4e",
@@ -1040,7 +1104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0kxw0xu",
@@ -1083,7 +1147,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1fb20qk",
@@ -1127,7 +1191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1mwjdtp",
@@ -1170,7 +1234,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1r1ljcq",
@@ -1213,7 +1277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1g7ygnu",
@@ -1257,7 +1321,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1justh7",
@@ -1287,7 +1351,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1su8e1z",
@@ -1317,7 +1381,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0wr3g41",
@@ -1347,7 +1411,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1rjmn4d",
@@ -1376,7 +1440,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-10z0rwr",
@@ -1407,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0odadbo",
@@ -1437,7 +1501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0f02adn",
@@ -1480,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.76
+      "score": 5.43
     },
     {
       "id": "ev-1jj6kd9",
@@ -1514,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.37
     },
     {
       "id": "ev-0nzodu4",
@@ -1549,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.36
     },
     {
       "id": "ev-12rubta",
@@ -1583,7 +1647,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.36
     },
     {
       "id": "ev-0zy6yij",
@@ -1616,7 +1680,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1r43fur",
@@ -1659,7 +1723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-16ils33",
@@ -1694,7 +1758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.54
+      "score": 5.21
     },
     {
       "id": "ev-18tcp4t",
@@ -1729,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.13
+      "score": 4.8
     },
     {
       "id": "ev-05w1tq0",
@@ -1764,7 +1828,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.82
+      "score": 4.49
     },
     {
       "id": "ev-15bt2og",
@@ -1799,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.45
     },
     {
       "id": "ev-0nww0y3",
@@ -1834,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.44
     },
     {
       "id": "ev-0jv9li1",
@@ -1865,7 +1929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.43
     },
     {
       "id": "ev-058nuqy",
@@ -1895,7 +1959,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.27
     },
     {
       "id": "ev-1x9nuth",
@@ -1935,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.11
     },
     {
       "id": "ev-0g1b610",
@@ -1966,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.14
     },
     {
       "id": "ev-19nh6e8",
@@ -2001,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.35
+      "score": 3.02
     }
   ],
   "runs": [
@@ -2011,6 +2075,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 74
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-20T12:07:12.054Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 19
     }
   ]
 }
