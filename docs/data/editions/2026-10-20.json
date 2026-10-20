@@ -1,20 +1,19 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-20T16:07:13.617Z",
+  "generatedAt": "2026-10-20T19:37:13.817Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0u2b9s0",
-      "title": "Meteorología prevé cinco días de tormentas y lluvias intensas en el país",
-      "summary": "Meteorología anunció lluvias y tormentas que se extenderían del 21 al 25 de octubre en gran parte del país. En el centro y este de la Región Oriental se estiman acumulados de entre 100 y 150 milímetros. Existe riesgo de granizo e inundaciones, y la cuenca del río Paraná está en alerta.",
+      "title": "Meteorología alerta por tormentas y lluvias intensas hasta el fin de semana",
+      "summary": "La Dirección de Meteorología emitió una alerta por tormentas y lluvias intensas en el país. El miércoles las tormentas afectarían primero el sur y sureste de la Región Oriental. Desde la noche del miércoles y el jueves podrían llegar a departamentos del norte y noreste. Estiman acumulados de entre 100 y 150 milímetros en el centro y este de la Región Oriental, con riesgo de granizo e inundaciones.",
       "keyPoints": [
-        "Las precipitaciones se extenderían del 21 al 25 de octubre.",
-        "En el centro y este de la Región Oriental se estiman entre 100 y 150 milímetros.",
-        "Existe riesgo de granizo e inundaciones.",
-        "La cuenca del río Paraná permanece bajo alerta."
+        "La alerta abarca tormentas desde el miércoles 21 hasta el 25 de octubre.",
+        "Se estiman acumulados de entre 100 y 150 milímetros en el centro y este de la Región Oriental.",
+        "Existe riesgo de granizo e inundaciones en varias zonas del país."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lluvias de hasta 90 mm y vientos fuertes: así vienen mañana y pasado",
+          "url": "https://www.abc.com.py/clima/2026/10/20/lluvias-de-hasta-90-mm-y-vientos-que-superarian-los-90-kmh-se-esperan-para-manana-y-pasado",
+          "publishedAt": "2026-10-20T18:35:59.000Z",
+          "image": "https://www.abc.com.py/resizer/lXDTZB_JhwXX1MoSGQgMoEJbXaQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y2YLVANNZVGCTIQQFO6P3PMSLY.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Alerta meteorológica: pronostican lluvias que podrían agravar las inundaciones",
+          "url": "https://www.telefuturo.com.py/alerta-meteorologica-pronostican-lluvias-que-podrian-agravar-las-inundaciones",
+          "publishedAt": "2026-10-20T13:46:25.000Z",
+          "image": null
+        },
         {
           "sourceId": "vanguardia",
           "sourceName": "Vanguardia",
@@ -88,15 +103,74 @@
         }
       ],
       "image": {
-        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/tormenta.png",
-        "credit": "Vanguardia",
-        "articleUrl": "https://diariovanguardia.com.py/alerta-ante-probabilidades-de-nuevas-caidas-de-granizo-el-fin-de-semana"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Y2YLVANNZVGCTIQQFO6P3PMSLY.jpg?auth=669fb7aab09d1c7b34ce4de5436c3175c6fced37be70bb605797044c6fb03480&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/10/20/lluvias-de-hasta-90-mm-y-vientos-que-superarian-los-90-kmh-se-esperan-para-manana-y-pasado"
       },
       "firstSeenAt": "2026-10-20T08:07:13.828Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-20T16:07:13.617Z",
+      "updatedAt": "2026-10-20T19:37:13.817Z",
       "updatedSlot": "tarde",
-      "score": 23.78
+      "score": 29.91
+    },
+    {
+      "id": "ev-12rubta",
+      "title": "Oficialismo inicia medición para definir la dupla de Alliana",
+      "summary": "El oficialismo comenzó una encuesta para elegir la dupla de Pedro Alliana, luego de que Horacio Cartes decidiera no presentar la chapa del movimiento Honor Colorado. El presidente de Diputados, Raúl Latorre, dijo que aceptará los resultados a título personal. Otros dirigentes esperan que Alliana elija a uno de ellos; según HOY, algunos sectores retirarían su apoyo si el ministro de Industria fuera elegido.",
+      "keyPoints": [
+        "La medición surge tras la decisión de Horacio Cartes de no presentar la chapa de Honor Colorado.",
+        "Raúl Latorre dijo que aceptará los resultados de la encuesta.",
+        "Según HOY, algunos sectores retirarían apoyo si el ministro de Industria fuera el elegido."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "¿Qué pasará si Alliana elige a Riquelme? “Probablemente algunos se vayan”",
+          "url": "https://www.hoy.com.py/politica/2026/10/20/que-pasara-si-alliana-elige-a-riquelme-probablemente-algunos-se-vayan",
+          "publishedAt": "2026-10-20T17:29:08.986Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/6M2TLBTHF5AGRPA2AAE6QPPHI4.jpg?auth=5321f64a842ab0c009f9d74f61a59bd553b8e725ca574aa366f8388b28efe658&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Latorre dice que no se enojará si no es electo como dupla de Alliana",
+          "url": "https://www.abc.com.py/politica/2026/10/20/latorre-dice-que-no-se-enojara-si-no-es-electo-como-dupla-de-alliana",
+          "publishedAt": "2026-10-20T17:28:26.000Z",
+          "image": "https://www.abc.com.py/resizer/yzBVI3fyPR2vT2fgoN0ExMIMUAQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UT3VWODSKBGA5KBI4T2ORVDV2E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Latorre afirma que seguirá apoyando a Alliana si no es el elegido para su dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/10/20/latorre-afirma-que-seguira-apoyando-a-alliana-si-no-es-el-elegido-para-su-dupla",
+          "publishedAt": "2026-10-20T16:44:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/APnVbiq12i423v77_m-nr0n4wQY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4UAHXCT5XFBU5GLYTPUN7TT2JQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inician medición oficialista que definirá dupla de Pedro Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/inician-medicion-oficialista-que-definira-dupla-de-pedro-alliana",
+          "publishedAt": "2026-10-20T04:24:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/U2ZGTWPh2b9k0esfnkAMtjWBo-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MJTXBKR3MZGYZFRNR6ZG4K3O6A.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MJTXBKR3MZGYZFRNR6ZG4K3O6A.jpg?auth=0749d3646b59f5c4899fd6ae303070a70e1018a01d240ccee4ee7fc87f8f972c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/inician-medicion-oficialista-que-definira-dupla-de-pedro-alliana"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T19:37:13.817Z",
+      "updatedSlot": "tarde",
+      "score": 14.82
     },
     {
       "id": "ev-06zylxf",
@@ -155,7 +229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 14.01
+      "score": 13.72
     },
     {
       "id": "ev-18qsj3r",
@@ -207,7 +281,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T16:07:13.617Z",
       "updatedSlot": "tarde",
-      "score": 13.82
+      "score": 13.52
     },
     {
       "id": "ev-05mt8tj",
@@ -258,7 +332,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 12.1
+      "score": 12
     },
     {
       "id": "ev-14vqi87",
@@ -326,7 +400,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 12.04
+      "score": 11.74
     },
     {
       "id": "ev-15l515n",
@@ -377,7 +451,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.05
+      "score": 9.76
     },
     {
       "id": "ev-1vv63ao",
@@ -428,7 +502,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0g805ep",
@@ -480,7 +554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-15ivsw9",
@@ -523,7 +597,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.34
     },
     {
       "id": "ev-182f86m",
@@ -566,7 +640,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.49
+      "score": 8.2
     },
     {
       "id": "ev-00uoo2z",
@@ -609,7 +683,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-083w6f5",
@@ -652,7 +726,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.12
     },
     {
       "id": "ev-1xxneeq",
@@ -695,7 +769,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-1x70pzz",
@@ -738,7 +812,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-1t1n8kl",
@@ -777,7 +851,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-0erginp",
@@ -993,7 +1067,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-07zkp7a",
@@ -1036,7 +1110,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0pvycl4",
@@ -1079,7 +1153,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0uq5f4e",
@@ -1122,7 +1196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0kxw0xu",
@@ -1165,7 +1239,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1fb20qk",
@@ -1209,7 +1283,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1mwjdtp",
@@ -1252,7 +1326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1r1ljcq",
@@ -1295,7 +1369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1g7ygnu",
@@ -1339,7 +1413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0nzodu4",
@@ -1391,187 +1465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T16:07:13.617Z",
       "updatedSlot": "tarde",
-      "score": 5.49
-    },
-    {
-      "id": "ev-1justh7",
-      "title": "Andrés Báez presenta su colección en el AFW 2026",
-      "summary": "Última Hora cubrió la colección de Andrés Báez presentada en el AFW 2026. La nota no trae más detalles sobre la muestra, por lo que la información disponible es breve. Se trata de una cobertura de moda que da cuenta de la participación del diseñador en el evento.",
-      "keyPoints": [
-        "La colección es de Andrés Báez.",
-        "Se presentó en el marco del AFW 2026."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Colección de Andrés Báez en el AFW 2026",
-          "url": "https://www.ultimahora.com/coleccion-de-andres-baez-en-el-afw-2026",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-1su8e1z",
-      "title": "Se realiza La Noche Purina 2026 con cobertura de Última Hora",
-      "summary": "Última Hora informó sobre La Noche Purina 2026. La nota publicada el 20 de octubre no incluye detalles del evento en el extracto disponible. La información se limita al anuncio de la actividad, por lo que el resumen es breve y general.",
-      "keyPoints": [
-        "La Noche Purina 2026 aparece en la cobertura de Última Hora.",
-        "La información disponible es limitada."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "La Noche Purina 2026",
-          "url": "https://www.ultimahora.com/la-noche-purina-2026",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-0wr3g41",
-      "title": "Conpacoop celebra 35 años con un acto",
-      "summary": "Última Hora informó sobre el acto por los 35 años de Conpacoop. El extracto disponible no trae más detalles sobre la actividad, el lugar ni los oradores. Por eso, el resumen se limita a lo confirmado: la organización cumple 35 años y realizó un acto para conmemorarlo. Para conocer más del evento, hay que leer la nota completa del medio.",
-      "keyPoints": [
-        "El acto conmemora los 35 años de Conpacoop.",
-        "La información disponible es limitada."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Acto por los 35 años de Conpacoop",
-          "url": "https://www.ultimahora.com/acto-por-los-35-anos-de-conpacoop",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-1rjmn4d",
-      "title": "Una ruta compleja hacia el 2028, según Última Hora",
-      "summary": "Una columna de Última Hora analiza el camino político y económico rumbo al 2028. Los extractos recibidos no traen el desarrollo del texto, así que el resumen queda en lo general. No se incluyen cifras ni posiciones concretas.",
-      "keyPoints": [
-        "La nota de Última Hora aborda el camino rumbo al 2028."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Derrotero intrincado hacia el 2028",
-          "url": "https://www.ultimahora.com/derrotero-intrincado-hacia-el-2028",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-10z0rwr",
-      "title": "La faena bovina cayó 21% en setiembre",
-      "summary": "Los frigoríficos procesaron 123.308 cabezas de ganado en setiembre, según Última Hora. Es un 18% menos que en agosto. La baja deja a las industrias trabajando a mitad de su capacidad, lo que afecta a toda la cadena de la carne.",
-      "keyPoints": [
-        "Se faenaron 123.308 cabezas de ganado en setiembre.",
-        "La faena cayó 18% respecto de agosto.",
-        "Las industrias operan a mitad de su capacidad."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Faena bovina cae 21% e industrias operan a mitad de su capacidad",
-          "url": "https://www.ultimahora.com/faena-bovina-cae-21-e-industrias-operan-a-mitad-de-su-capacidad",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-0odadbo",
-      "title": "La DNIT prevé recaudar USD 7.500 millones en el 2027",
-      "summary": "La Dirección Nacional de Ingresos Tributarios calcula recaudar USD 7.500 millones en 2027, según Última Hora. La cifra forma parte del Presupuesto General de la Nación. El extracto no trae más detalles sobre cómo se llegó a esa estimación.",
-      "keyPoints": [
-        "La DNIT prevé recaudar USD 7.500 millones en 2027.",
-        "El dato está vinculado al Presupuesto General de la Nación."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "PGN: La DNIT prevé recaudar USD 7.500 millones en el 2027",
-          "url": "https://www.ultimahora.com/pgn-la-dnit-preve-recaudar-usd-7-500-millones-en-el-2027",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.24
+      "score": 5.2
     },
     {
       "id": "ev-0f02adn",
@@ -1614,75 +1508,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.1
-    },
-    {
-      "id": "ev-1jj6kd9",
-      "title": "Analista dice que Cartes mantiene peso político en la ANR",
-      "summary": "Según un analista consultado por La Nación, Horacio Cartes mantendrá su influencia política como titular de la ANR. La nota señala que Cartes volvió a la actividad empresarial con una visita a Cecon. La lectura es del analista citado y no es una confirmación oficial de un cambio en el partido.",
-      "keyPoints": [
-        "Según un analista, Horacio Cartes mantendrá su gravitación política en la ANR.",
-        "Cartes volvió a la actividad empresarial con una visita a Cecon."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Para analista, Cartes pacifica y se erige como garante en ANR",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/para-analista-cartes-pacifica-y-se-erige-como-garante-en-anr",
-          "publishedAt": "2026-10-20T04:36:45.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mrkMNicaY02fj_Wu2mjArchKJBY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DZOODYYCIFA37GQ6CM7FQRKCMQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DZOODYYCIFA37GQ6CM7FQRKCMQ.jpg?auth=f889757a8dc5b2ec0084b208dd07ae2a515ae5993466160b0b7ea89b9837fe1a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/para-analista-cartes-pacifica-y-se-erige-como-garante-en-anr"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.04
-    },
-    {
-      "id": "ev-12rubta",
-      "title": "Honor Colorado inicia medición para definir la dupla de Pedro Alliana",
-      "summary": "El movimiento oficialista inició una medición para definir la dupla de Pedro Alliana. La medición surge después de que Horacio Cartes decidió no presentar la chapa de Honor Colorado. La nota no detalla los criterios ni las fechas de la medición.",
-      "keyPoints": [
-        "El oficialismo inició una medición para definir la dupla de Pedro Alliana.",
-        "Horacio Cartes decidió no presentar la chapa del movimiento Honor Colorado."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Inician medición oficialista que definirá dupla de Pedro Alliana",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/inician-medicion-oficialista-que-definira-dupla-de-pedro-alliana",
-          "publishedAt": "2026-10-20T04:24:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/U2ZGTWPh2b9k0esfnkAMtjWBo-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MJTXBKR3MZGYZFRNR6ZG4K3O6A.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MJTXBKR3MZGYZFRNR6ZG4K3O6A.jpg?auth=0749d3646b59f5c4899fd6ae303070a70e1018a01d240ccee4ee7fc87f8f972c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/inician-medicion-oficialista-que-definira-dupla-de-pedro-alliana"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.02
+      "score": 5
     },
     {
       "id": "ev-1r43fur",
@@ -1728,6 +1554,220 @@
       "score": 5
     },
     {
+      "id": "ev-1justh7",
+      "title": "Andrés Báez presenta su colección en el AFW 2026",
+      "summary": "Última Hora cubrió la colección de Andrés Báez presentada en el AFW 2026. La nota no trae más detalles sobre la muestra, por lo que la información disponible es breve. Se trata de una cobertura de moda que da cuenta de la participación del diseñador en el evento.",
+      "keyPoints": [
+        "La colección es de Andrés Báez.",
+        "Se presentó en el marco del AFW 2026."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Colección de Andrés Báez en el AFW 2026",
+          "url": "https://www.ultimahora.com/coleccion-de-andres-baez-en-el-afw-2026",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-1su8e1z",
+      "title": "Se realiza La Noche Purina 2026 con cobertura de Última Hora",
+      "summary": "Última Hora informó sobre La Noche Purina 2026. La nota publicada el 20 de octubre no incluye detalles del evento en el extracto disponible. La información se limita al anuncio de la actividad, por lo que el resumen es breve y general.",
+      "keyPoints": [
+        "La Noche Purina 2026 aparece en la cobertura de Última Hora.",
+        "La información disponible es limitada."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La Noche Purina 2026",
+          "url": "https://www.ultimahora.com/la-noche-purina-2026",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-0wr3g41",
+      "title": "Conpacoop celebra 35 años con un acto",
+      "summary": "Última Hora informó sobre el acto por los 35 años de Conpacoop. El extracto disponible no trae más detalles sobre la actividad, el lugar ni los oradores. Por eso, el resumen se limita a lo confirmado: la organización cumple 35 años y realizó un acto para conmemorarlo. Para conocer más del evento, hay que leer la nota completa del medio.",
+      "keyPoints": [
+        "El acto conmemora los 35 años de Conpacoop.",
+        "La información disponible es limitada."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Acto por los 35 años de Conpacoop",
+          "url": "https://www.ultimahora.com/acto-por-los-35-anos-de-conpacoop",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-1rjmn4d",
+      "title": "Una ruta compleja hacia el 2028, según Última Hora",
+      "summary": "Una columna de Última Hora analiza el camino político y económico rumbo al 2028. Los extractos recibidos no traen el desarrollo del texto, así que el resumen queda en lo general. No se incluyen cifras ni posiciones concretas.",
+      "keyPoints": [
+        "La nota de Última Hora aborda el camino rumbo al 2028."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Derrotero intrincado hacia el 2028",
+          "url": "https://www.ultimahora.com/derrotero-intrincado-hacia-el-2028",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-10z0rwr",
+      "title": "La faena bovina cayó 21% en setiembre",
+      "summary": "Los frigoríficos procesaron 123.308 cabezas de ganado en setiembre, según Última Hora. Es un 18% menos que en agosto. La baja deja a las industrias trabajando a mitad de su capacidad, lo que afecta a toda la cadena de la carne.",
+      "keyPoints": [
+        "Se faenaron 123.308 cabezas de ganado en setiembre.",
+        "La faena cayó 18% respecto de agosto.",
+        "Las industrias operan a mitad de su capacidad."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Faena bovina cae 21% e industrias operan a mitad de su capacidad",
+          "url": "https://www.ultimahora.com/faena-bovina-cae-21-e-industrias-operan-a-mitad-de-su-capacidad",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-0odadbo",
+      "title": "La DNIT prevé recaudar USD 7.500 millones en el 2027",
+      "summary": "La Dirección Nacional de Ingresos Tributarios calcula recaudar USD 7.500 millones en 2027, según Última Hora. La cifra forma parte del Presupuesto General de la Nación. El extracto no trae más detalles sobre cómo se llegó a esa estimación.",
+      "keyPoints": [
+        "La DNIT prevé recaudar USD 7.500 millones en 2027.",
+        "El dato está vinculado al Presupuesto General de la Nación."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "PGN: La DNIT prevé recaudar USD 7.500 millones en el 2027",
+          "url": "https://www.ultimahora.com/pgn-la-dnit-preve-recaudar-usd-7-500-millones-en-el-2027",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-1jj6kd9",
+      "title": "Analista dice que Cartes mantiene peso político en la ANR",
+      "summary": "Según un analista consultado por La Nación, Horacio Cartes mantendrá su influencia política como titular de la ANR. La nota señala que Cartes volvió a la actividad empresarial con una visita a Cecon. La lectura es del analista citado y no es una confirmación oficial de un cambio en el partido.",
+      "keyPoints": [
+        "Según un analista, Horacio Cartes mantendrá su gravitación política en la ANR.",
+        "Cartes volvió a la actividad empresarial con una visita a Cecon."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Para analista, Cartes pacifica y se erige como garante en ANR",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/para-analista-cartes-pacifica-y-se-erige-como-garante-en-anr",
+          "publishedAt": "2026-10-20T04:36:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mrkMNicaY02fj_Wu2mjArchKJBY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DZOODYYCIFA37GQ6CM7FQRKCMQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DZOODYYCIFA37GQ6CM7FQRKCMQ.jpg?auth=f889757a8dc5b2ec0084b208dd07ae2a515ae5993466160b0b7ea89b9837fe1a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/20/para-analista-cartes-pacifica-y-se-erige-como-garante-en-anr"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.75
+    },
+    {
       "id": "ev-0zy6yij",
       "title": "Diferencial de tasas fortalece al guaraní, pero aumenta la presión sobre inversión",
       "summary": "El Índice sugiere que la persistente caída del dólar en Paraguay responde hoy, en buena medida, a factores internos y no únicamente al comportamiento internacional de la moneda estadounidense. Uno de los principales elementos detrás de esta dinámica es el diferencial entre las tasas de interés en guaraníes y dólares, que genera incentivos para posicionarse en moneda local y fortalece al guaraní frente al dólar.",
@@ -1758,7 +1798,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-16ils33",
@@ -1793,7 +1833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.58
     },
     {
       "id": "ev-18tcp4t",
@@ -1828,7 +1868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.46
+      "score": 4.17
     },
     {
       "id": "ev-05w1tq0",
@@ -1863,7 +1903,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-15bt2og",
@@ -1898,7 +1938,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 4
     },
     {
       "id": "ev-0nww0y3",
@@ -1933,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 4
     },
     {
       "id": "ev-0jv9li1",
@@ -1964,7 +2004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.09
+      "score": 4
     },
     {
       "id": "ev-058nuqy",
@@ -2034,7 +2074,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.78
+      "score": 3.48
     },
     {
       "id": "ev-0g1b610",
@@ -2065,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 2.81
+      "score": 2.52
     },
     {
       "id": "ev-19nh6e8",
@@ -2100,7 +2140,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 2.68
+      "score": 2.39
     }
   ],
   "runs": [
@@ -2123,6 +2163,13 @@
       "at": "2026-10-20T16:07:13.617Z",
       "added": 0,
       "updated": 4,
+      "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-20T19:37:13.817Z",
+      "added": 0,
+      "updated": 2,
       "candidates": 16
     }
   ]
