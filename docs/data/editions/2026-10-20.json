@@ -1,19 +1,20 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-20T12:07:12.054Z",
+  "generatedAt": "2026-10-20T16:07:13.617Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0u2b9s0",
-      "title": "Meteorología prevé lluvias, tormentas y granizo del miércoles 21 al domingo 25",
-      "summary": "La Dirección de Meteorología e Hidrología advirtió sobre un período lluvioso desde el miércoles 21 hasta el domingo 25 de octubre. Se esperan acumulados de hasta 150 milímetros, principalmente en el centro y este del país y en la cuenca del río Paraná. También podrían registrarse tormentas con granizo, fuertes vientos y eventuales inundaciones.",
+      "title": "Meteorología prevé cinco días de tormentas y lluvias intensas en el país",
+      "summary": "Meteorología anunció lluvias y tormentas que se extenderían del 21 al 25 de octubre en gran parte del país. En el centro y este de la Región Oriental se estiman acumulados de entre 100 y 150 milímetros. Existe riesgo de granizo e inundaciones, y la cuenca del río Paraná está en alerta.",
       "keyPoints": [
-        "Las lluvias se extenderían desde el miércoles 21 hasta el domingo 25 de octubre.",
-        "Los acumulados podrían alcanzar los 150 milímetros en algunas zonas.",
-        "Podrían darse tormentas con granizo, vientos fuertes e inundaciones."
+        "Las precipitaciones se extenderían del 21 al 25 de octubre.",
+        "En el centro y este de la Región Oriental se estiman entre 100 y 150 milímetros.",
+        "Existe riesgo de granizo e inundaciones.",
+        "La cuenca del río Paraná permanece bajo alerta."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Alerta ante probabilidades de nuevas caídas de granizo el fin de semana",
+          "url": "https://diariovanguardia.com.py/alerta-ante-probabilidades-de-nuevas-caidas-de-granizo-el-fin-de-semana",
+          "publishedAt": "2026-10-20T13:28:31.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/tormenta.png"
+        },
         {
           "sourceId": "npy",
           "sourceName": "NPY",
@@ -79,15 +88,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880"
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/tormenta.png",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/alerta-ante-probabilidades-de-nuevas-caidas-de-granizo-el-fin-de-semana"
       },
       "firstSeenAt": "2026-10-20T08:07:13.828Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-20T12:07:12.054Z",
-      "updatedSlot": "manana",
-      "score": 20.94
+      "updatedAt": "2026-10-20T16:07:13.617Z",
+      "updatedSlot": "tarde",
+      "score": 23.78
     },
     {
       "id": "ev-06zylxf",
@@ -146,7 +155,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 14.35
+      "score": 14.01
+    },
+    {
+      "id": "ev-18qsj3r",
+      "title": "Olimpia responde en comunicado a Gustavo Alfaro por sus críticas",
+      "summary": "El club Olimpia respondió por comunicado al entrenador de la selección, Gustavo Alfaro, tras sus declaraciones contra Pablo Sánchez y Francisco Arce. La respuesta llegó un día después de esas críticas. Alfaro habló durante el microciclo de la selección en el CARDE, en Ypané.",
+      "keyPoints": [
+        "Olimpia emitió un comunicado contra Gustavo Alfaro.",
+        "La respuesta llegó un día después de las declaraciones de Alfaro.",
+        "Alfaro cuestionó a Pablo Sánchez y Francisco Arce.",
+        "La selección entrenó en el CARDE, en Ypané."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El fuerte comunicado de Olimpia contra Gustavo Alfaro",
+          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/el-fuerte-comunicado-de-olimpia-contra-gustavo-alfaro",
+          "publishedAt": "2026-10-20T13:55:06.000Z",
+          "image": "https://www.abc.com.py/resizer/In6J28TqH7j5YTuChTHG2JZvlFY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OD7LOV622VCSFJKEGZQCQH6TWQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alfaro responde a Sánchez y Arce",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/20/alfaro-responde-a-sanchez-y-arce",
+          "publishedAt": "2026-10-20T03:47:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/WOVnmZ4APVuGXT8QKLCeHn49PdE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LQZQ2RBBGVG2VHH56ZXE5WFZ7A.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Dato mata relato\": Gustavo Alfaro respondió a Chiqui Arce",
+          "url": "https://elnacional.com.py/deportes/dato-mata-relato-gustavo-alfaro-respondio-chiqui-arce-n113869",
+          "publishedAt": "2026-10-19T21:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a41b2b483d47.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/OD7LOV622VCSFJKEGZQCQH6TWQ.jpg?auth=531d33a58ca3c7d0ee522011dc7692999b2accc41cdbd9a5075a4d9d032c1e21&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/el-fuerte-comunicado-de-olimpia-contra-gustavo-alfaro"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T16:07:13.617Z",
+      "updatedSlot": "tarde",
+      "score": 13.82
     },
     {
       "id": "ev-05mt8tj",
@@ -197,7 +258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 12.43
+      "score": 12.1
     },
     {
       "id": "ev-14vqi87",
@@ -265,7 +326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T12:07:12.054Z",
       "updatedSlot": "manana",
-      "score": 12.37
+      "score": 12.04
     },
     {
       "id": "ev-15l515n",
@@ -316,7 +377,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.38
+      "score": 10.05
     },
     {
       "id": "ev-1vv63ao",
@@ -367,7 +428,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0g805ep",
@@ -419,50 +480,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 10.24
-    },
-    {
-      "id": "ev-18qsj3r",
-      "title": "Gustavo Alfaro responde a Chiqui Arce con \"Dato mata relato\"",
-      "summary": "El seleccionador Gustavo Alfaro respondió a Chiqui Arce durante el microciclo de la Albirroja en el Cardé de Ypané. Habló con jugadores del fútbol local. La selección absoluta tuvo este lunes la primera de dos jornadas de trabajo en ese predio. Las notas no traen la respuesta completa de Arce ni el contenido exacto de sus declaraciones.",
-      "keyPoints": [
-        "Gustavo Alfaro respondió a Chiqui Arce.",
-        "La selección absoluta entrenó este lunes en el Cardé de Ypané.",
-        "Alfaro habló con jugadores del plano local durante el microciclo."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alfaro responde a Sánchez y Arce",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/20/alfaro-responde-a-sanchez-y-arce",
-          "publishedAt": "2026-10-20T03:47:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/WOVnmZ4APVuGXT8QKLCeHn49PdE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LQZQ2RBBGVG2VHH56ZXE5WFZ7A.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "\"Dato mata relato\": Gustavo Alfaro respondió a Chiqui Arce",
-          "url": "https://elnacional.com.py/deportes/dato-mata-relato-gustavo-alfaro-respondio-chiqui-arce-n113869",
-          "publishedAt": "2026-10-19T21:25:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/06/6a41b2b483d47.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LQZQ2RBBGVG2VHH56ZXE5WFZ7A.jpg?auth=7224395c132c931d354bdc7b195dd41382fdfc871a4f6d28b0b0054f7c4f98c9&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/20/alfaro-responde-a-sanchez-y-arce"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 9.31
+      "score": 9.91
     },
     {
       "id": "ev-15ivsw9",
@@ -505,7 +523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.97
+      "score": 8.64
     },
     {
       "id": "ev-182f86m",
@@ -548,7 +566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-00uoo2z",
@@ -591,7 +609,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.46
     },
     {
       "id": "ev-083w6f5",
@@ -634,7 +652,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.75
+      "score": 8.42
     },
     {
       "id": "ev-1xxneeq",
@@ -677,7 +695,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.24
     },
     {
       "id": "ev-1x70pzz",
@@ -720,7 +738,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.18
     },
     {
       "id": "ev-1t1n8kl",
@@ -759,7 +777,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.18
     },
     {
       "id": "ev-0erginp",
@@ -802,7 +820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.32
+      "score": 8
     },
     {
       "id": "ev-162b6fl",
@@ -846,7 +864,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-1hd4g8r",
@@ -975,7 +993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.32
+      "score": 5.99
     },
     {
       "id": "ev-07zkp7a",
@@ -1018,7 +1036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0pvycl4",
@@ -1061,7 +1079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0uq5f4e",
@@ -1104,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0kxw0xu",
@@ -1147,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1fb20qk",
@@ -1191,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1mwjdtp",
@@ -1234,7 +1252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1r1ljcq",
@@ -1277,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1g7ygnu",
@@ -1321,7 +1339,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
+    },
+    {
+      "id": "ev-0nzodu4",
+      "title": "Olimpia vence 1-0 a Liga de Quito y sube en la Libertadores Femenina",
+      "summary": "Olimpia superó 1-0 a Liga de Quito por la segunda fecha del Grupo C de la Copa Libertadores Femenina 2026. El gol fue de Micaela Valdez. Con el resultado y la victoria de Cruzeiro, el equipo quedó segundo en zona de clasificación a cuartos de final.",
+      "keyPoints": [
+        "Micaela Valdez anotó el único gol del partido.",
+        "Olimpia había empatado 2-2 con Bolívar en el debut.",
+        "Olimpia ocupa el segundo lugar en zona de clasificación.",
+        "El partido se jugó en el estadio Rodrigo Paz Delgado de Quito."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Copa Libertadores Femenina: El Grupo D luego de la victoria de Libertad",
+          "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/10/20/copa-libertadores-femenina-el-grupo-d-luego-de-la-victoria-de-libertad",
+          "publishedAt": "2026-10-20T15:59:52.000Z",
+          "image": "https://www.abc.com.py/resizer/iEtjTPQ9PeOKS1DxryP_qKc_4GU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N74GJRIVXJEXFHVUIXK5Z7OSR4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Copa Libertadores Femenina: El Grupo C después del triunfo de Olimpia",
+          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia",
+          "publishedAt": "2026-10-20T12:45:26.000Z",
+          "image": "https://www.abc.com.py/resizer/VFVr9Dix0Mq5zQKwSBir8NcLVWI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad respira y deja a la “U” de Chile al borde del abismo en la Libertadores",
+          "url": "https://www.abc.com.py/deportes/futbol/libertadores/2026/10/20/libertad-respira-y-deja-a-la-u-de-chile-al-borde-del-abismo-en-la-libertadores",
+          "publishedAt": "2026-10-20T04:28:24.000Z",
+          "image": "https://www.abc.com.py/resizer/ni5B1_IIjSEr1U3VZEbj7z27LTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BOGJ5O7JSZAVZI3DEF3RDX4YQI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FGYJKKGIGJEXPLFYXNITN4PHCU.jpg?auth=d922d83f656c2c1cc30e1b706cc1df796e217275ac593158580256c13ea31263&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/olimpia/2026/10/20/copa-libertadores-femenina-el-grupo-c-despues-del-triunfo-de-olimpia"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T16:07:13.617Z",
+      "updatedSlot": "tarde",
+      "score": 5.49
     },
     {
       "id": "ev-1justh7",
@@ -1351,7 +1421,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1su8e1z",
@@ -1381,7 +1451,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0wr3g41",
@@ -1411,7 +1481,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1rjmn4d",
@@ -1440,7 +1510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-10z0rwr",
@@ -1471,7 +1541,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0odadbo",
@@ -1501,7 +1571,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0f02adn",
@@ -1544,7 +1614,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.1
     },
     {
       "id": "ev-1jj6kd9",
@@ -1578,42 +1648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.37
-    },
-    {
-      "id": "ev-0nzodu4",
-      "title": "Libertad vence a la U de Chile y sube a la cima de su zona",
-      "summary": "Libertad venció a la U de Chile en la Libertadores Femenina y llegó a 4 unidades. Con ese resultado quedó en la cima de la zona junto a Deportivo Cali. Paola Genes abrió el marcador de cabeza en el minuto 11, tras un córner. Las chilenas quedan prácticamente al borde de la eliminación. Libertad sueña con los cuartos de final.",
-      "keyPoints": [
-        "Paola Genes marcó en el minuto 11.",
-        "Libertad suma 4 unidades y comparte la cima con Deportivo Cali.",
-        "La U de Chile quedó prácticamente eliminada."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad respira y deja a la “U” de Chile al borde del abismo en la Libertadores",
-          "url": "https://www.abc.com.py/deportes/futbol/libertadores/2026/10/20/libertad-respira-y-deja-a-la-u-de-chile-al-borde-del-abismo-en-la-libertadores",
-          "publishedAt": "2026-10-20T04:28:24.000Z",
-          "image": "https://www.abc.com.py/resizer/ni5B1_IIjSEr1U3VZEbj7z27LTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BOGJ5O7JSZAVZI3DEF3RDX4YQI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/BOGJ5O7JSZAVZI3DEF3RDX4YQI.jpg?auth=5d807efc31b4779a6fa0f03bc39f2c626bc0297c39c48fa539efb5e061cf9fdb&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/libertadores/2026/10/20/libertad-respira-y-deja-a-la-u-de-chile-al-borde-del-abismo-en-la-libertadores"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.04
     },
     {
       "id": "ev-12rubta",
@@ -1647,40 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.36
-    },
-    {
-      "id": "ev-0zy6yij",
-      "title": "Diferencial de tasas fortalece al guaraní, pero aumenta la presión sobre inversión",
-      "summary": "El Índice sugiere que la persistente caída del dólar en Paraguay responde hoy, en buena medida, a factores internos y no únicamente al comportamiento internacional de la moneda estadounidense. Uno de los principales elementos detrás de esta dinámica es el diferencial entre las tasas de interés en guaraníes y dólares, que genera incentivos para posicionarse en moneda local y fortalece al guaraní frente al dólar.",
-      "keyPoints": [
-        "El Índice sugiere que la persistente caída del dólar en Paraguay responde hoy, en buena medida, a factores internos y no únicamente al comportamiento internacional de la moneda estadounidense."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Diferencial de tasas fortalece al guaraní, pero aumenta la presión sobre inversión",
-          "url": "https://www.abc.com.py/economia/2026/10/20/diferencial-de-tasas-fortalece-al-guarani-pero-aumenta-la-presion-sobre-inversion",
-          "publishedAt": "2026-10-20T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/Ttd7PcGVxvuhBPczEUnwMJ_UsT0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CDDIUKOCU5DZNF4CZOGJZVU3SY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CDDIUKOCU5DZNF4CZOGJZVU3SY.jpg?auth=47862fc0c9a0031c5dab73a541700cac8980cae2bdc351cd8e1e8fc5b9ac7cdb&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/10/20/diferencial-de-tasas-fortalece-al-guarani-pero-aumenta-la-presion-sobre-inversion"
-      },
-      "firstSeenAt": "2026-10-20T08:07:13.828Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-20T08:07:13.828Z",
-      "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.02
     },
     {
       "id": "ev-1r43fur",
@@ -1723,7 +1725,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 5
+    },
+    {
+      "id": "ev-0zy6yij",
+      "title": "Diferencial de tasas fortalece al guaraní, pero aumenta la presión sobre inversión",
+      "summary": "El Índice sugiere que la persistente caída del dólar en Paraguay responde hoy, en buena medida, a factores internos y no únicamente al comportamiento internacional de la moneda estadounidense. Uno de los principales elementos detrás de esta dinámica es el diferencial entre las tasas de interés en guaraníes y dólares, que genera incentivos para posicionarse en moneda local y fortalece al guaraní frente al dólar.",
+      "keyPoints": [
+        "El Índice sugiere que la persistente caída del dólar en Paraguay responde hoy, en buena medida, a factores internos y no únicamente al comportamiento internacional de la moneda estadounidense."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Diferencial de tasas fortalece al guaraní, pero aumenta la presión sobre inversión",
+          "url": "https://www.abc.com.py/economia/2026/10/20/diferencial-de-tasas-fortalece-al-guarani-pero-aumenta-la-presion-sobre-inversion",
+          "publishedAt": "2026-10-20T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/Ttd7PcGVxvuhBPczEUnwMJ_UsT0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CDDIUKOCU5DZNF4CZOGJZVU3SY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CDDIUKOCU5DZNF4CZOGJZVU3SY.jpg?auth=47862fc0c9a0031c5dab73a541700cac8980cae2bdc351cd8e1e8fc5b9ac7cdb&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/10/20/diferencial-de-tasas-fortalece-al-guarani-pero-aumenta-la-presion-sobre-inversion"
+      },
+      "firstSeenAt": "2026-10-20T08:07:13.828Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-20T08:07:13.828Z",
+      "updatedSlot": "manana",
+      "score": 4.99
     },
     {
       "id": "ev-16ils33",
@@ -1758,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 5.21
+      "score": 4.87
     },
     {
       "id": "ev-18tcp4t",
@@ -1793,7 +1828,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.46
     },
     {
       "id": "ev-05w1tq0",
@@ -1828,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.49
+      "score": 4.16
     },
     {
       "id": "ev-15bt2og",
@@ -1863,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.11
     },
     {
       "id": "ev-0nww0y3",
@@ -1898,7 +1933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.11
     },
     {
       "id": "ev-0jv9li1",
@@ -1929,7 +1964,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.09
     },
     {
       "id": "ev-058nuqy",
@@ -1959,7 +1994,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.27
+      "score": 4
     },
     {
       "id": "ev-1x9nuth",
@@ -1999,7 +2034,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 3.78
     },
     {
       "id": "ev-0g1b610",
@@ -2030,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.81
     },
     {
       "id": "ev-19nh6e8",
@@ -2065,7 +2100,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-20T08:07:13.828Z",
       "updatedSlot": "manana",
-      "score": 3.02
+      "score": 2.68
     }
   ],
   "runs": [
@@ -2082,6 +2117,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 19
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-20T16:07:13.617Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 16
     }
   ]
 }
