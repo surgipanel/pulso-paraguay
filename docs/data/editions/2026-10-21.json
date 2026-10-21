@@ -1,27 +1,43 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-21T16:07:10.537Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-21T19:37:11.662Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0360rez",
-      "title": "Lluvias y tormentas eléctricas en gran parte del país hasta el fin de semana",
-      "summary": "La Dirección de Meteorología e Hidrología prevé lluvias y ocasionales tormentas eléctricas en gran parte del país desde este miércoles 21 de octubre hasta el fin de semana. Las tormentas podrían ser moderadas a fuertes, con ráfagas de viento y caída puntual de granizo. Las temperaturas seguirán cálidas, con máximas de hasta 37 °C según los pronósticos. El ambiente inestable podría agravar las inundaciones en algunas zonas.",
+      "title": "Meteorología prevé mitad de semana con lluvias y tormentas",
+      "summary": "A partir de este miércoles vuelven las lluvias con ocasionales tormentas eléctricas en gran parte del territorio nacional. Estas condiciones se extenderían hasta el fin de semana, acompañado de un ambiente cálido, de acuerdo con el pronóstico de la Dirección de Meteorología.",
       "keyPoints": [
-        "Las lluvias llegan desde este miércoles 21 de octubre.",
-        "Pueden darse tormentas moderadas a fuertes y ráfagas de viento.",
-        "Hay posibilidad puntual de caída de granizo.",
-        "Las temperaturas seguirán cálidas, con máximas de hasta 37 °C."
+        "A partir de este miércoles vuelven las lluvias con ocasionales tormentas eléctricas en gran parte del territorio nacional.",
+        "Meteorología anuncia lluvias y ocasionales tormentas eléctricas hasta el fin de semana, con posibles acumulados importantes y ambiente cálido en gran parte del país.",
+        "La Dirección de Meteorología e Hidrología (DMH) mantiene la alerta por tiempo severo a través de un boletín especial emitido a las 13:50 de este miércoles.",
+        "La Dirección de Meteorología e Hidrología (DMH) emitió un boletín de alerta temprana que advierte sobre el desarrollo de celdas de tormentas y un sistema de mal tiempo que afectará a gran parte del territorio nacional…"
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Sistema de tormentas avanza hacia otros departamentos del país, advierte Meteorología",
+          "url": "https://www.ultimahora.com/sistema-de-tormentas-avanza-hacia-otros-departamentos-del-pais-advierte-meteorologia",
+          "publishedAt": "2026-10-21T18:34:48.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Meteorología mantiene alerta por tormentas: ¿Cuáles son los departamentos afectados?",
+          "url": "https://www.abc.com.py/clima/2026/10/21/meteorologia-mantiene-alerta-por-tormentas-cuales-son-los-departamentos-afectados",
+          "publishedAt": "2026-10-21T17:39:02.000Z",
+          "image": "https://www.abc.com.py/resizer/Ic1Mt5BAVnjitqqWd8kKNFyBN_w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CLTHHGYGPRCS5AWGJPHEYY7QIY.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -128,15 +144,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/02/f8d73eb7666c4fc32182e29f5f726349.webp",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/clima-paraguay-lluvias-tormentas-electricas-varios-puntos-pais-n113929"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LOMIBIKU5NEGNHMKDSOZZDFL7Q.jpg?auth=993eddfe35b40dc8212514ca24bfa1d8211c93ac6d4402375c32e8cf5497d243&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/21/meteorologia-preve-mitad-de-semana-con-lluvias-y-tormentas"
       },
       "firstSeenAt": "2026-10-21T08:07:10.890Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-21T12:07:10.985Z",
-      "updatedSlot": "manana",
-      "score": 29.64
+      "updatedAt": "2026-10-21T19:37:11.662Z",
+      "updatedSlot": "tarde",
+      "score": 29.91
     },
     {
       "id": "ev-104x9tu",
@@ -220,7 +236,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T16:07:10.537Z",
       "updatedSlot": "tarde",
-      "score": 23.94
+      "score": 23.65
     },
     {
       "id": "ev-175xlha",
@@ -312,7 +328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 17.6
+      "score": 17.31
     },
     {
       "id": "ev-0z95vtp",
@@ -396,7 +412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 17.49
+      "score": 17.2
     },
     {
       "id": "ev-0f8vv5g",
@@ -472,7 +488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 16.72
+      "score": 16.43
     },
     {
       "id": "ev-0dizful",
@@ -540,7 +556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 14.55
+      "score": 14.25
     },
     {
       "id": "ev-0fc5xxe",
@@ -624,7 +640,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.95
     },
     {
       "id": "ev-1lnzdmz",
@@ -675,7 +691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-03dhh7e",
@@ -770,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-1ezo9cr",
@@ -813,7 +829,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.25
     },
     {
       "id": "ev-1ypbf4u",
@@ -856,7 +872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.12
     },
     {
       "id": "ev-1htjps3",
@@ -899,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.4
+      "score": 8.11
     },
     {
       "id": "ev-0t8h95t",
@@ -942,7 +958,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.3
+      "score": 8.01
     },
     {
       "id": "ev-0eiprrn",
@@ -986,7 +1002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-069101c",
@@ -1030,7 +1046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.17
+      "score": 8
     },
     {
       "id": "ev-1gjmeri",
@@ -1074,7 +1090,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-0mfidwq",
@@ -1126,7 +1142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 7.02
+      "score": 6.73
     },
     {
       "id": "ev-0jj3h4j",
@@ -1170,7 +1186,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T16:07:10.537Z",
       "updatedSlot": "tarde",
-      "score": 6.75
+      "score": 6.46
     },
     {
       "id": "ev-1j1prbl",
@@ -1213,7 +1229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.9
     },
     {
       "id": "ev-138mh0b",
@@ -1255,7 +1271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.13
+      "score": 5.84
     },
     {
       "id": "ev-15jrfn2",
@@ -1299,7 +1315,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.1
+      "score": 5.81
     },
     {
       "id": "ev-14fvtwl",
@@ -1343,7 +1359,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-0gt4bsu",
@@ -1386,7 +1402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-009blmg",
@@ -1426,7 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1ekn0xl",
@@ -1457,7 +1473,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0wzqghz",
@@ -1488,7 +1504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1amfdbo",
@@ -1517,7 +1533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1ahmffl",
@@ -1546,7 +1562,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0rgoz9x",
@@ -1578,7 +1594,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.16
+      "score": 4.87
     },
     {
       "id": "ev-1cl813b",
@@ -1613,7 +1629,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.76
     },
     {
       "id": "ev-1jrruso",
@@ -1648,7 +1664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1205rsh",
@@ -1680,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0zlp8tp",
@@ -1716,7 +1732,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0zsz6q8",
@@ -1752,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0u8ub47",
@@ -1788,7 +1804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.16
     },
     {
       "id": "ev-0iuffdp",
@@ -1925,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.83
+      "score": 2.54
     },
     {
       "id": "ev-03s2o40",
@@ -1956,7 +1972,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.51
     },
     {
       "id": "ev-051s1ri",
@@ -1988,7 +2004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.77
+      "score": 2.48
     },
     {
       "id": "ev-06ic3nv",
@@ -2019,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.75
+      "score": 2.46
     },
     {
       "id": "ev-0n7d5mt",
@@ -2050,7 +2066,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.75
+      "score": 2.46
     },
     {
       "id": "ev-1bm1xu4",
@@ -2081,7 +2097,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.73
+      "score": 2.44
     },
     {
       "id": "ev-15kdpf5",
@@ -2113,7 +2129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.73
+      "score": 2.43
     },
     {
       "id": "ev-0kdlbsy",
@@ -2145,7 +2161,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.72
+      "score": 2.43
     },
     {
       "id": "ev-1cdmuk4",
@@ -2176,7 +2192,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.7
+      "score": 2.41
     },
     {
       "id": "ev-1coc4ge",
@@ -2210,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.56
+      "score": 2.27
     },
     {
       "id": "ev-0494rkj",
@@ -2246,7 +2262,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 1.82
+      "score": 1.52
     }
   ],
   "runs": [
@@ -2270,6 +2286,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-21T19:37:11.662Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 12
     }
   ]
 }
