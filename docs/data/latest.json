@@ -1,40 +1,42 @@
 {
-  "editionDate": "2026-10-20",
+  "editionDate": "2026-10-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-20T23:07:10.102Z",
+  "generatedAt": "2026-10-21T08:07:10.890Z",
   "eventsCount": 50,
   "maxEvents": 50,
-  "aiMode": "ia",
+  "aiMode": "mixto",
   "model": "claude-haiku-5-5",
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-10-20T23:09:59.988Z",
+  "lastSuccessAt": "2026-10-21T08:11:31.110Z",
   "lastRun": {
-    "startedAt": "2026-10-20T23:07:10.102Z",
-    "finishedAt": "2026-10-20T23:09:59.988Z",
-    "edition": "2026-10-20",
-    "slot": "tarde",
+    "startedAt": "2026-10-21T08:07:10.890Z",
+    "finishedAt": "2026-10-21T08:11:31.110Z",
+    "edition": "2026-10-21",
+    "slot": "manana",
     "ok": true,
     "error": null,
     "aiMode": "ia",
     "model": "claude-haiku-5-5",
-    "articles": 295,
-    "clusters": 237,
-    "candidates": 12,
-    "added": 0,
-    "updated": 1,
+    "articles": 296,
+    "clusters": 244,
+    "candidates": 60,
+    "added": 50,
+    "updated": 0,
     "eventsTotal": 50,
     "sourcesOk": 10,
     "sourcesTotal": 11,
     "ai": {
       "mode": "ia",
-      "aiCalls": 2,
-      "aiErrors": [],
-      "inputTokens": 13437,
-      "outputTokens": 5900,
-      "fallbacks": 0
+      "aiCalls": 9,
+      "aiErrors": [
+        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 2146 (line 1 column 2147)"
+      ],
+      "inputTokens": 21524,
+      "outputTokens": 22881,
+      "fallbacks": 15
     },
     "forced": false
   },
-  "editions": 10
+  "editions": 11
 }
