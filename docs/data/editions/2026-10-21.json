@@ -1,9 +1,9 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-21T12:07:10.985Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-21T16:07:10.537Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -136,7 +136,91 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 29.97
+      "score": 29.64
+    },
+    {
+      "id": "ev-104x9tu",
+      "title": "Defensoría pide al MEC revisar libros con machismo y referencias a Hitler",
+      "summary": "La Defensoría del Pueblo pidió al Ministerio de Educación revisar libros del programa EASE por presuntos abordajes de odio y machismo. La denuncia fue presentada por la senadora Esperanza Martínez. La autora de los textos, María Judith Turriaga, sostiene que el ejercicio que menciona a Hitler fue sacado de contexto. El MEC confirmó el retiro inmediato de los materiales.",
+      "keyPoints": [
+        "La Defensoría del Pueblo pidió revisar los libros del MEC.",
+        "La senadora Esperanza Martínez denunció los contenidos.",
+        "María Judith Turriaga afirma que los pasajes fueron descontextualizados.",
+        "El MEC confirmó el retiro inmediato de los materiales."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“Duro reclamo institucional”: Defensoría exige al MEC revisar libros por machismo, sesgos y referencias a Hitler",
+          "url": "https://www.abc.com.py/nacionales/2026/10/21/duro-reclamo-institucional-defensoria-exige-al-mec-revisar-libros-por-machismo-sesgos-y-referencias-a-hitler",
+          "publishedAt": "2026-10-21T15:24:39.000Z",
+          "image": "https://www.abc.com.py/resizer/vT6ki2U14DSjN2Kgghij1Nz4RbA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AKSAZRQXCZEFLGSQ5IKPK7KAPQ.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Defensoría del Pueblo pide retirar libros del MEC con abordajes de odio y machismo",
+          "url": "https://www.ultimahora.com/defensoria-del-pueblo-pide-retirar-libros-del-mec-con-abordajes-de-odio-y-machismo",
+          "publishedAt": "2026-10-21T14:31:39.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Autora de libros del MEC defiende su material tras duras críticas",
+          "url": "https://www.telefuturo.com.py/autora-de-libros-del-mec-defiende-su-material-tras-duras-criticas",
+          "publishedAt": "2026-10-21T14:04:55.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Autora de textos de educación afectiva defiende su obra tras polémica por citar a Hitler",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/autora-de-textos-de-educacion-afectiva-defiende-su-obra-tras-polemica-por-citar-a-hitler",
+          "publishedAt": "2026-10-21T13:23:18.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f3OqRQPAvETIqi7L0bmm1kj0hXE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W2QMWJXAAVEWZNUTHA4BA5EXY4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Autora de textos del MEC defiende sus libros tras polémica por Hitler y machismo",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/autora-de-textos-del-mec-defiende-sus-libros-tras-polemica-por-hitler-y-machismo",
+          "publishedAt": "2026-10-21T12:33:14.139Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BKYGDSODAJBG7PZGAKPWG2FW44.png?auth=79f5e0a37f29e62ddd74d215c310ab1fca9d44bd4a9cc478166b2bc22f52aedd&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "MEC retira texto que habla de Hitler y abre un sumario",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/21/mec-retira-texto-que-habla-de-hitler-y-abre-un-sumario",
+          "publishedAt": "2026-10-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f3OqRQPAvETIqi7L0bmm1kj0hXE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W2QMWJXAAVEWZNUTHA4BA5EXY4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hitler en las aulas y frases machistas: libros del MEC desatan polémica",
+          "url": "https://elnacional.com.py/nacionales/hitler-aulas-frases-machistas-libros-mec-desatan-polemica-n113892",
+          "publishedAt": "2026-10-20T13:09:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad76974e5191.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/AKSAZRQXCZEFLGSQ5IKPK7KAPQ.jpg?auth=56c950301604a4b3dd1bb54556256dd0749aeccff18841255db151b3f5515b14&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/21/duro-reclamo-institucional-defensoria-exige-al-mec-revisar-libros-por-machismo-sesgos-y-referencias-a-hitler"
+      },
+      "firstSeenAt": "2026-10-21T08:07:10.890Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-21T16:07:10.537Z",
+      "updatedSlot": "tarde",
+      "score": 23.94
     },
     {
       "id": "ev-175xlha",
@@ -228,7 +312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 17.93
+      "score": 17.6
     },
     {
       "id": "ev-0z95vtp",
@@ -312,7 +396,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 17.83
+      "score": 17.49
     },
     {
       "id": "ev-0f8vv5g",
@@ -388,7 +472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 17.06
+      "score": 16.72
     },
     {
       "id": "ev-0dizful",
@@ -456,7 +540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 14.88
+      "score": 14.55
     },
     {
       "id": "ev-0fc5xxe",
@@ -540,7 +624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 14.57
+      "score": 14.24
     },
     {
       "id": "ev-1lnzdmz",
@@ -591,7 +675,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-03dhh7e",
@@ -643,7 +727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.25
+      "score": 9
     },
     {
       "id": "ev-0xgvngn",
@@ -686,51 +770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.24
-    },
-    {
-      "id": "ev-104x9tu",
-      "title": "El MEC retira un texto escolar sobre Hitler y abre un sumario",
-      "summary": "El Ministerio de Educación y Cultura retiró un texto que hace referencia a Hitler y abrió un sumario. El ministro Luis Ramírez calificó de ejemplo infeliz ese pasaje y dijo que los textos están en fase de prueba. La senadora Esperanza Martínez pidió retirar los materiales por sus referencias al nazismo y por contenidos sobre sexualidad. Los libros serán revisados antes de su impresión masiva.",
-      "keyPoints": [
-        "El MEC retiró el texto que habla de Hitler y abrió un sumario.",
-        "El ministro Luis Ramírez calificó de ejemplo infeliz el pasaje sobre Hitler.",
-        "La senadora Esperanza Martínez exigió retirar los materiales cuestionados.",
-        "Los textos serán revisados antes de su impresión masiva."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "MEC retira texto que habla de Hitler y abre un sumario",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/21/mec-retira-texto-que-habla-de-hitler-y-abre-un-sumario",
-          "publishedAt": "2026-10-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/f3OqRQPAvETIqi7L0bmm1kj0hXE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/W2QMWJXAAVEWZNUTHA4BA5EXY4.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Hitler en las aulas y frases machistas: libros del MEC desatan polémica",
-          "url": "https://elnacional.com.py/nacionales/hitler-aulas-frases-machistas-libros-mec-desatan-polemica-n113892",
-          "publishedAt": "2026-10-20T13:09:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad76974e5191.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/W2QMWJXAAVEWZNUTHA4BA5EXY4.jpg?auth=6dc90167b1deb1e05db732a43357c0b3a3e6c4b0ceac1262a12680e68fd452ac&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/21/mec-retira-texto-que-habla-de-hitler-y-abre-un-sumario"
-      },
-      "firstSeenAt": "2026-10-21T08:07:10.890Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
-      "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1ezo9cr",
@@ -773,7 +813,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.54
     },
     {
       "id": "ev-1ypbf4u",
@@ -816,7 +856,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.41
     },
     {
       "id": "ev-1htjps3",
@@ -859,7 +899,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.73
+      "score": 8.4
     },
     {
       "id": "ev-0t8h95t",
@@ -902,7 +942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.3
     },
     {
       "id": "ev-0eiprrn",
@@ -946,7 +986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.28
     },
     {
       "id": "ev-069101c",
@@ -990,7 +1030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.17
     },
     {
       "id": "ev-1gjmeri",
@@ -1034,7 +1074,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.02
     },
     {
       "id": "ev-0mfidwq",
@@ -1086,7 +1126,51 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 7.36
+      "score": 7.02
+    },
+    {
+      "id": "ev-0jj3h4j",
+      "title": "Miki Viveros habla de su futuro tras el Miss Grand International",
+      "summary": "La Miss Grand Paraguay 2026, Micaela \"Miki\" Viveros, habló de sus planes después de su participación en Tailandia. Destacó el apoyo que recibió de los paraguayos durante y después del certamen. La nota también recoge la polémica por el vestido roto en la preliminar, que la candidata dejó de lado.",
+      "keyPoints": [
+        "Micaela Viveros es la Miss Grand Paraguay 2026.",
+        "El certamen Miss Grand International se celebró en Tailandia.",
+        "Viveros destacó el apoyo recibido de los paraguayos.",
+        "Hubo polémica por un vestido roto en la preliminar."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "¿Volverá a competir por otra corona? Miki Viveros revela sus planes tras el Miss Grand",
+          "url": "https://www.lanacion.com.py/lnpop/2026/10/21/volvera-a-competir-por-otra-corona-miki-viveros-revela-sus-planes-tras-el-miss-grand",
+          "publishedAt": "2026-10-21T13:04:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/u67ozgA3w6IzgevcuNQGidDJK8s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MMAVAPXIWJFK7LMQLGO342JGS4.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Miki Viveros rompe el silencio sobre su vestido en el Miss Grand",
+          "url": "https://www.lanacion.com.py/lnpop/2026/10/20/miki-viveros-rompe-el-silencio-sobre-su-vestido-en-el-miss-grand",
+          "publishedAt": "2026-10-20T22:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ftZgjCRWHjCL2myvDkYNpBJlYCk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A4AZMLW53JCSRBTQIBJKG6EPAI.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MMAVAPXIWJFK7LMQLGO342JGS4.png?auth=aea51b5c733ca46448096061b137508e8dc010b2993acdec7fdf11fcd512be2b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/lnpop/2026/10/21/volvera-a-competir-por-otra-corona-miki-viveros-revela-sus-planes-tras-el-miss-grand"
+      },
+      "firstSeenAt": "2026-10-21T08:07:10.890Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-21T16:07:10.537Z",
+      "updatedSlot": "tarde",
+      "score": 6.75
     },
     {
       "id": "ev-1j1prbl",
@@ -1129,7 +1213,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.53
+      "score": 6.2
     },
     {
       "id": "ev-138mh0b",
@@ -1171,7 +1255,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.46
+      "score": 6.13
     },
     {
       "id": "ev-15jrfn2",
@@ -1215,7 +1299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.44
+      "score": 6.1
     },
     {
       "id": "ev-14fvtwl",
@@ -1259,7 +1343,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.33
+      "score": 6
     },
     {
       "id": "ev-0gt4bsu",
@@ -1302,7 +1386,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-009blmg",
@@ -1342,7 +1426,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.33
     },
     {
       "id": "ev-1ekn0xl",
@@ -1373,7 +1457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0wzqghz",
@@ -1404,7 +1488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1amfdbo",
@@ -1433,7 +1517,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1ahmffl",
@@ -1462,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0rgoz9x",
@@ -1494,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.16
     },
     {
       "id": "ev-1cl813b",
@@ -1529,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.38
+      "score": 5.05
     },
     {
       "id": "ev-1jrruso",
@@ -1564,7 +1648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.03
     },
     {
       "id": "ev-1205rsh",
@@ -1596,7 +1680,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0zlp8tp",
@@ -1632,7 +1716,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0zsz6q8",
@@ -1668,42 +1752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.32
-    },
-    {
-      "id": "ev-0jj3h4j",
-      "title": "Miki Viveros descarta sabotaje de una compañera en el Miss Grand",
-      "summary": "La Miss Grand Paraguay 2026, Micaela Viveros, habló sobre el incidente con su vestido en el preliminar del Miss Grand International 2026. Descartó que una compañera la haya saboteado. También dijo que recibió propuestas laborales en el extranjero, en una nota con La Nación.",
-      "keyPoints": [
-        "Micaela Viveros es la Miss Grand Paraguay 2026.",
-        "Descartó que una compañera la haya saboteado.",
-        "Dijo que recibió propuestas laborales en el extranjero."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Miki Viveros rompe el silencio sobre su vestido en el Miss Grand",
-          "url": "https://www.lanacion.com.py/lnpop/2026/10/20/miki-viveros-rompe-el-silencio-sobre-su-vestido-en-el-miss-grand",
-          "publishedAt": "2026-10-20T22:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ftZgjCRWHjCL2myvDkYNpBJlYCk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A4AZMLW53JCSRBTQIBJKG6EPAI.JPG"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/A4AZMLW53JCSRBTQIBJKG6EPAI.JPG?auth=afbb6b9c95b4c0a739cd9142b4ac7790f52d9e5f6de795096311b1636452dbe6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/lnpop/2026/10/20/miki-viveros-rompe-el-silencio-sobre-su-vestido-en-el-miss-grand"
-      },
-      "firstSeenAt": "2026-10-21T08:07:10.890Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
-      "updatedSlot": "manana",
-      "score": 4.84
+      "score": 4.99
     },
     {
       "id": "ev-0u8ub47",
@@ -1739,7 +1788,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.45
     },
     {
       "id": "ev-0iuffdp",
@@ -1774,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.3
+      "score": 4
     },
     {
       "id": "ev-02lz8k3",
@@ -1810,7 +1859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.2
+      "score": 4
     },
     {
       "id": "ev-0j765sf",
@@ -1845,7 +1894,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.09
+      "score": 4
     },
     {
       "id": "ev-0yesket",
@@ -1876,7 +1925,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.16
+      "score": 2.83
     },
     {
       "id": "ev-03s2o40",
@@ -1907,7 +1956,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.8
     },
     {
       "id": "ev-051s1ri",
@@ -1939,7 +1988,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.1
+      "score": 2.77
     },
     {
       "id": "ev-06ic3nv",
@@ -1970,7 +2019,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.75
     },
     {
       "id": "ev-0n7d5mt",
@@ -2001,7 +2050,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.08
+      "score": 2.75
     },
     {
       "id": "ev-1bm1xu4",
@@ -2032,7 +2081,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.07
+      "score": 2.73
     },
     {
       "id": "ev-15kdpf5",
@@ -2064,7 +2113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.06
+      "score": 2.73
     },
     {
       "id": "ev-0kdlbsy",
@@ -2096,7 +2145,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.05
+      "score": 2.72
     },
     {
       "id": "ev-1cdmuk4",
@@ -2127,7 +2176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.03
+      "score": 2.7
     },
     {
       "id": "ev-1coc4ge",
@@ -2161,7 +2210,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.56
     },
     {
       "id": "ev-0494rkj",
@@ -2197,7 +2246,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.15
+      "score": 1.82
     }
   ],
   "runs": [
@@ -2214,6 +2263,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-21T16:07:10.537Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 16
     }
   ]
 }
