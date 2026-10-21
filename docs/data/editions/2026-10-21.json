@@ -1,11 +1,235 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-21T08:07:10.890Z",
+  "generatedAt": "2026-10-21T12:07:10.985Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0360rez",
+      "title": "Lluvias y tormentas eléctricas en gran parte del país hasta el fin de semana",
+      "summary": "La Dirección de Meteorología e Hidrología prevé lluvias y ocasionales tormentas eléctricas en gran parte del país desde este miércoles 21 de octubre hasta el fin de semana. Las tormentas podrían ser moderadas a fuertes, con ráfagas de viento y caída puntual de granizo. Las temperaturas seguirán cálidas, con máximas de hasta 37 °C según los pronósticos. El ambiente inestable podría agravar las inundaciones en algunas zonas.",
+      "keyPoints": [
+        "Las lluvias llegan desde este miércoles 21 de octubre.",
+        "Pueden darse tormentas moderadas a fuertes y ráfagas de viento.",
+        "Hay posibilidad puntual de caída de granizo.",
+        "Las temperaturas seguirán cálidas, con máximas de hasta 37 °C."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta meteorológica, EN VIVO: rigen avisos por lluvias y tormentas eléctricas para todo el país",
+          "url": "https://www.abc.com.py/nacionales/2026/10/21/alerta-meteorologica-en-vivo-rigen-avisos-por-lluvias-y-tormentas-electricas-para-todo-el-pais",
+          "publishedAt": "2026-10-21T11:45:43.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Lluvias con tormentas eléctricas en varios puntos del paí­s",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-lluvias-tormentas-electricas-varios-puntos-pais-n113929",
+          "publishedAt": "2026-10-21T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/02/f8d73eb7666c4fc32182e29f5f726349.webp"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Vuelve la inestabilidad a Ciudad del Este: prevén lluvias y tormentas para hoy",
+          "url": "https://www.abc.com.py/este/2026/10/21/vuelve-la-inestabilidad-preven-lluvias-y-tormentas-para-hoy",
+          "publishedAt": "2026-10-21T10:16:13.000Z",
+          "image": "https://www.abc.com.py/resizer/zVK9-OcwoUX26oF_d1ce9vFC9-Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RCYHMSWFHFGFXBZWRPWBAGC53E.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Vuelven las lluvias en gran parte del país",
+          "url": "https://www.adndigital.com.py/vuelven-las-lluvias-en-gran-parte-del-pais",
+          "publishedAt": "2026-10-21T09:47:34.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2020/11/lluvia.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Meteorología pronostica lluvias y aumento gradual de la temperatura para este miércoles",
+          "url": "https://www.ultimahora.com/meteorologia-pronostica-lluvias-y-aumento-gradual-de-la-temperatura-para-este-miercoles",
+          "publishedAt": "2026-10-21T09:46:16.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Anuncian lluvias y tormentas eléctricas hasta el fin de semana",
+          "url": "https://www.npy.com.py/noticias/nacionales/anuncian-lluvias-y-tormentas-electricas-hasta-el-fin-de-semana",
+          "publishedAt": "2026-10-21T09:40:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Meteorología prevé mitad de semana con lluvias y tormentas",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/meteorologia-preve-mitad-de-semana-con-lluvias-y-tormentas",
+          "publishedAt": "2026-10-21T09:34:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xMJQ-Yv_u-h5uni02Bey8PwRVl4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LOMIBIKU5NEGNHMKDSOZZDFL7Q.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Pronóstico de lluvias a partir de hoy hasta el domingo",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/pronostico-de-lluvias-a-partir-de-hoy-hasta-el-domingo",
+          "publishedAt": "2026-10-21T08:49:02.651Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/OX5UP7CNLNEBZHTVFMHY3KGQXI.jpeg?auth=a246316ce53933c984c8e146833fff131017eab816da9e28a41ef92132cd4ac4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pronóstico para este miércoles: ¿dónde se esperan lluvias y tormentas?",
+          "url": "https://www.abc.com.py/clima/2026/10/21/pronostico-para-este-miercoles-donde-se-esperan-lluvias-y-tormentas",
+          "publishedAt": "2026-10-21T08:24:31.000Z",
+          "image": "https://www.abc.com.py/resizer/bqDdV733O3TQJIyQfoE_kTmCHtE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/T3O5KFG5WFBKLHRPEJAEQUWXV4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alertan sobre tormentas intensas y alta probabilidad de granizo para los próximos días",
+          "url": "https://www.lanacion.com.py/pais/2026/10/20/alertan-sobre-tormentas-intensas-y-alta-probabilidad-de-granizo-para-los-proximos-dias",
+          "publishedAt": "2026-10-20T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aFwea7rDlkMw2WppvKhi5XrzL3o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MAEWL5ITOZGKJD6WEHXQ567Y7E.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Alerta meteorológica: pronostican lluvias que podrían agravar las inundaciones",
+          "url": "https://www.telefuturo.com.py/alerta-meteorologica-pronostican-lluvias-que-podrian-agravar-las-inundaciones",
+          "publishedAt": "2026-10-20T13:46:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Meteorología alerta por una semana de lluvias y tormentas",
+          "url": "https://www.npy.com.py/noticias/nacionales/meteorologia-alerta-por-una-semana-de-lluvias-y-tormentas",
+          "publishedAt": "2026-10-20T11:23:50.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Prevén cinco días de tormentas, lluvias intensas y posible granizo",
+          "url": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880",
+          "publishedAt": "2026-10-20T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/02/f8d73eb7666c4fc32182e29f5f726349.webp",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/clima-paraguay-lluvias-tormentas-electricas-varios-puntos-pais-n113929"
+      },
+      "firstSeenAt": "2026-10-21T08:07:10.890Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-21T12:07:10.985Z",
+      "updatedSlot": "manana",
+      "score": 29.97
+    },
+    {
+      "id": "ev-175xlha",
+      "title": "El Consejo de Ministros traza la hoja de ruta y fija prioridades para la nueva gestión",
+      "summary": "El presidente de la República, Santiago Peña, encabezó una nueva reunión del Consejo de Ministros durante la cual presentó un balance de los primeros 38 meses de gestión y delineó las prioridades del Gobierno para los próximos 22 meses. El mandatario exigió mayores resultados y remarcó que las evaluaciones a los secretarios de Estado son continuas.",
+      "keyPoints": [
+        "El presidente de la República, Santiago Peña, encabezó una nueva reunión del Consejo de Ministros durante la cual presentó un balance de los primeros 38 meses de gestión y delineó las prioridades del Gobierno para los…",
+        "El mandatario exigió mayores resultados y remarcó que las evaluaciones a los secretarios de Estado son continuas.",
+        "Durante la reunión del Consejo de Ministros, el presidente de la República, Santiago Peña, remarcó que el sistema financiero cuenta con una arquitectura legal sólida para responder ante cualquier contingencia.",
+        "El presidente de la República, Santiago Peña, encabezó este martes una reunión del Consejo de Ministros en el Palacio de Gobierno, donde presentó un balance de los primeros 38 meses de su administración, destacó la reducción…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña da mensaje de tranquilidad a ahorristas y defiende autonomía del BCP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/pena-da-mensaje-de-tranquilidad-a-ahorristas-y-defiende-autonomia-del-bcp",
+          "publishedAt": "2026-10-21T11:17:35.256Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PYD6LJMYWZBZDBGZD5Z7FFTQMY.jpeg?auth=d262a2b30d3a1192122d076da7577e42ddabc5affda4396f71231bd272b5111e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Ejecutivo y el BCP buscan calmar la incertidumbre financiera",
+          "url": "https://elnacional.com.py/economia/ejecutivo-bcp-buscan-calmar-incertidumbre-financiera-n113926",
+          "publishedAt": "2026-10-21T09:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/06/685451cc66fed.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Consejo de Ministros traza hoja de ruta y delinea nuevas prioridades",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/21/consejo-de-ministros-traza-hoja-de-ruta-y-delinea-nuevas-prioridades",
+          "publishedAt": "2026-10-21T03:56:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1jVRp2u13UG-qqsUE9owascTBf0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TST5MX3HQBEZNOQJVGIVUYAQEM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña pide preservar autonomía del Banco Central",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/21/pena-pide-preservar-autonomia-del-banco-central",
+          "publishedAt": "2026-10-21T03:52:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zhj_CggXYRFOoRxveVTLKPmTD94=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5TSWXO5ARD6FIFPHWFOEQDCBU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña exige más resultados y fija prioridades para los últimos 22 meses de Gobierno",
+          "url": "https://www.adndigital.com.py/pena-exige-mas-resultados-y-fija-prioridades-para-los-ultimos-22-meses-de-gobierno",
+          "publishedAt": "2026-10-20T20:26:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-20-at-172429.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña reconoce falencias en la comunicación del Gobierno y pide acelerar la gestión",
+          "url": "https://www.lanacion.com.py/politica/2026/10/20/pena-reconoce-falencias-en-la-comunicacion-del-gobierno-y-pide-acelerar-la-gestion",
+          "publishedAt": "2026-10-20T19:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/oHm4CJ1kRQ5Xtq1-ph6cuhh4ZLo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PYD6LJMYWZBZDBGZD5Z7FFTQMY.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña destaca reducción de la pobreza y busca transmitir tranquilidad sobre el BCP",
+          "url": "https://elnacional.com.py/politica/pena-destaca-reduccion-pobreza-busca-transmitir-tranquilidad-sobre-bcp-n113918",
+          "publishedAt": "2026-10-20T18:54:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a551e3e9f9a6.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El Consejo de Ministros traza la hoja de ruta y fija prioridades para la nueva gestión",
+          "url": "https://www.lanacion.com.py/politica/2026/10/20/el-consejo-de-ministros-traza-la-hoja-de-ruta-y-fija-prioridades-para-la-nueva-gestion",
+          "publishedAt": "2026-10-20T18:51:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/uoWLSBxranTve8fGtzoEwQGabD4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MBG5LE7KXZC2FPKAHQYCCYGHYE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MBG5LE7KXZC2FPKAHQYCCYGHYE.jpg?auth=44de2d5eade3e2bc4b7e5d6865a4372daecfcce9939767fbcd5387b9db495f3a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/20/el-consejo-de-ministros-traza-la-hoja-de-ruta-y-fija-prioridades-para-la-nueva-gestion"
+      },
+      "firstSeenAt": "2026-10-21T08:07:10.890Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-21T12:07:10.985Z",
+      "updatedSlot": "manana",
+      "score": 17.93
+    },
     {
       "id": "ev-0z95vtp",
       "title": "Diputados aprueba prohibición de casamiento de menores",
@@ -14,7 +238,7 @@
         "La Cámara de Diputados aprobó el proyecto de ley que modifica el Código Civil y prohíbe el matrimonio antes de los 18 años.",
         "La iniciativa busca eliminar las excepciones legales que permiten a adolescentes contraer matrimonio antes de alcanzar la mayoría de edad.",
         "En sesión ordinaria, la Cámara de Diputados aprobó el proyecto de ley “Que modifica los artículos 1º y 6º de la Ley Nº 7349/2024 - De pensión para niñas, niños, adolescentes y personas con discapacidad, víctimas…",
-        "La Cámara de Diputados otorgó media sanción al proyecto de ley que prohíbe el matrimonio antes de los 18 años, sin excepciones, con el objetivo de prevenir el matrimonio infantil y las uniones tempranas y forzadas."
+        "La Cámara de Diputados aprobó el proyecto que modifica la ley que establece una pensión para víctimas colaterales de feminicidio."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +246,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Amplían alcance de la pensión para víctimas colaterales de feminicidio",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/amplian-alcance-de-la-pension-para-victimas-colaterales-de-feminicidio",
+          "publishedAt": "2026-10-21T10:02:12.950Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QFFDCLOEFVGJDEWKBPZCOVBSD4.jpg?auth=1481c3aa11fbc5256fe0310befb71fc812908ddba0225d51f983963e6cd298b4&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -78,9 +310,9 @@
       },
       "firstSeenAt": "2026-10-21T08:07:10.890Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
+      "updatedAt": "2026-10-21T12:07:10.985Z",
       "updatedSlot": "manana",
-      "score": 17.63
+      "score": 17.83
     },
     {
       "id": "ev-0f8vv5g",
@@ -156,67 +388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 17.39
-    },
-    {
-      "id": "ev-0360rez",
-      "title": "Prevén cinco días de tormentas, lluvias intensas y posible granizo",
-      "summary": "Meteorología advierte que las precipitaciones se extenderán del 21 al 25 de octubre en gran parte del país. En el centro y este de la Región Oriental se estiman acumulados de entre 100 y 150 milímetros, con registros que podrían superar esa cifra en puntos del sureste.",
-      "keyPoints": [
-        "Meteorología advierte que las precipitaciones se extenderán del 21 al 25 de octubre en gran parte del país.",
-        "Meteorología alertó sobre lluvias y tormentas eléctricas hasta el fin de semana, con acumulados de hasta 200 milímetros en varias zonas del país y riesgo de granizo e inundaciones.",
-        "Se esperan lluvias intensas, fuerte ráfagas de viento y alta probabilidad de granizo de manera puntual.",
-        "La Dirección de Meteorología emitió un informe especial que alerta sobre un periodo de severa inestabilidad con lluvias y tormentas intermitentes desde este miércoles hasta el fin de semana en gran parte del territorio nacional."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alertan sobre tormentas intensas y alta probabilidad de granizo para los próximos días",
-          "url": "https://www.lanacion.com.py/pais/2026/10/20/alertan-sobre-tormentas-intensas-y-alta-probabilidad-de-granizo-para-los-proximos-dias",
-          "publishedAt": "2026-10-20T22:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aFwea7rDlkMw2WppvKhi5XrzL3o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MAEWL5ITOZGKJD6WEHXQ567Y7E.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Alerta meteorológica: pronostican lluvias que podrían agravar las inundaciones",
-          "url": "https://www.telefuturo.com.py/alerta-meteorologica-pronostican-lluvias-que-podrian-agravar-las-inundaciones",
-          "publishedAt": "2026-10-20T13:46:25.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Meteorología alerta por una semana de lluvias y tormentas",
-          "url": "https://www.npy.com.py/noticias/nacionales/meteorologia-alerta-por-una-semana-de-lluvias-y-tormentas",
-          "publishedAt": "2026-10-20T11:23:50.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Prevén cinco días de tormentas, lluvias intensas y posible granizo",
-          "url": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880",
-          "publishedAt": "2026-10-20T11:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2022/10/0eeb87c7a3f0d71384339dcea732fd83.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/preven-cinco-dias-tormentas-lluvias-intensas-posible-granizo-n113880"
-      },
-      "firstSeenAt": "2026-10-21T08:07:10.890Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
-      "updatedSlot": "manana",
-      "score": 17.16
+      "score": 17.06
     },
     {
       "id": "ev-0dizful",
@@ -284,7 +456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 15.21
+      "score": 14.88
     },
     {
       "id": "ev-0fc5xxe",
@@ -368,75 +540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 14.91
-    },
-    {
-      "id": "ev-175xlha",
-      "title": "El Consejo de Ministros traza la hoja de ruta y fija prioridades para la nueva gestión",
-      "summary": "El presidente de la República, Santiago Peña, encabezó una nueva reunión del Consejo de Ministros durante la cual presentó un balance de los primeros 38 meses de gestión y delineó las prioridades del Gobierno para los próximos 22 meses. El mandatario exigió mayores resultados y remarcó que las evaluaciones a los secretarios de Estado son continuas.",
-      "keyPoints": [
-        "El presidente de la República, Santiago Peña, encabezó una nueva reunión del Consejo de Ministros durante la cual presentó un balance de los primeros 38 meses de gestión y delineó las prioridades del Gobierno para los…",
-        "El mandatario exigió mayores resultados y remarcó que las evaluaciones a los secretarios de Estado son continuas.",
-        "El presidente Santiago Peña pidió a sus ministros acelerar la ejecución de los programas estatales y demostrar resultados concretos en la vida de la población.",
-        "Durante la reunión del Consejo de Ministros, el presidente Santiago Peña reconoció falencias del Gobierno en la comunicación de su gestión y admitió que la ciudadanía reclama mayor información sobre los programas y resultados de su…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Consejo de Ministros traza hoja de ruta y delinea nuevas prioridades",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/21/consejo-de-ministros-traza-hoja-de-ruta-y-delinea-nuevas-prioridades",
-          "publishedAt": "2026-10-21T03:56:45.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1jVRp2u13UG-qqsUE9owascTBf0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TST5MX3HQBEZNOQJVGIVUYAQEM.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Peña exige más resultados y fija prioridades para los últimos 22 meses de Gobierno",
-          "url": "https://www.adndigital.com.py/pena-exige-mas-resultados-y-fija-prioridades-para-los-ultimos-22-meses-de-gobierno",
-          "publishedAt": "2026-10-20T20:26:02.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-20-at-172429.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña reconoce falencias en la comunicación del Gobierno y pide acelerar la gestión",
-          "url": "https://www.lanacion.com.py/politica/2026/10/20/pena-reconoce-falencias-en-la-comunicacion-del-gobierno-y-pide-acelerar-la-gestion",
-          "publishedAt": "2026-10-20T19:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/oHm4CJ1kRQ5Xtq1-ph6cuhh4ZLo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PYD6LJMYWZBZDBGZD5Z7FFTQMY.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña destaca reducción de la pobreza y busca transmitir tranquilidad sobre el BCP",
-          "url": "https://elnacional.com.py/politica/pena-destaca-reduccion-pobreza-busca-transmitir-tranquilidad-sobre-bcp-n113918",
-          "publishedAt": "2026-10-20T18:54:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a551e3e9f9a6.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El Consejo de Ministros traza la hoja de ruta y fija prioridades para la nueva gestión",
-          "url": "https://www.lanacion.com.py/politica/2026/10/20/el-consejo-de-ministros-traza-la-hoja-de-ruta-y-fija-prioridades-para-la-nueva-gestion",
-          "publishedAt": "2026-10-20T18:51:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/uoWLSBxranTve8fGtzoEwQGabD4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MBG5LE7KXZC2FPKAHQYCCYGHYE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MBG5LE7KXZC2FPKAHQYCCYGHYE.jpg?auth=44de2d5eade3e2bc4b7e5d6865a4372daecfcce9939767fbcd5387b9db495f3a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/20/el-consejo-de-ministros-traza-la-hoja-de-ruta-y-fija-prioridades-para-la-nueva-gestion"
-      },
-      "firstSeenAt": "2026-10-21T08:07:10.890Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
-      "updatedSlot": "manana",
-      "score": 14.65
+      "score": 14.57
     },
     {
       "id": "ev-1lnzdmz",
@@ -487,50 +591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-0xgvngn",
-      "title": "Agentes económicos mantienen expectativa de inflación para cierre de 2026",
-      "summary": "Los agentes económicos mantuvieron sus expectativas de inflación para el cierre de 2026 y para los próximos 12 meses. Según los datos citados, las medianas de inflación se mantuvieron en 3,5 %. También se prevé una expansión del PIB de 4,5 % para 2026. Las expectativas se mantienen favorables para el crecimiento.",
-      "keyPoints": [
-        "Las medianas de inflación para el cierre de 2026 se mantuvieron en 3,5 %.",
-        "Las expectativas de inflación para los próximos 12 meses también se mantuvieron.",
-        "Se prevé una expansión del PIB de 4,5 % para 2026."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Agentes económicos sostienen previsión de inflación en 3 %",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/21/agentes-economicos-sostienen-prevision-de-inflacion-en-3",
-          "publishedAt": "2026-10-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/IFViN-DWvwGtvEbNGIwbsO7ibj0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J4BFH4WZLZBFPISYQLJVM2ZORI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Agentes económicos mantienen expectativa de inflación en 3% para cierre de año",
-          "url": "https://elnacional.com.py/economia/agentes-economicos-mantienen-expectativa-inflacion-3-cierre-ano-n113905",
-          "publishedAt": "2026-10-20T21:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/09/68dc47f812e2b.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J4BFH4WZLZBFPISYQLJVM2ZORI.jpg?auth=887d69de6134f4ed00d0c941aeb888dc11f2ea5afe8e655b84f34649fdd9cc9b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/21/agentes-economicos-sostienen-prevision-de-inflacion-en-3"
-      },
-      "firstSeenAt": "2026-10-21T08:07:10.890Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-21T08:07:10.890Z",
-      "updatedSlot": "manana",
-      "score": 9.58
+      "score": 10.24
     },
     {
       "id": "ev-03dhh7e",
@@ -582,7 +643,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.25
+    },
+    {
+      "id": "ev-0xgvngn",
+      "title": "Agentes económicos mantienen expectativa de inflación para cierre de 2026",
+      "summary": "Los agentes económicos mantuvieron sus expectativas de inflación para el cierre de 2026 y para los próximos 12 meses. Según los datos citados, las medianas de inflación se mantuvieron en 3,5 %. También se prevé una expansión del PIB de 4,5 % para 2026. Las expectativas se mantienen favorables para el crecimiento.",
+      "keyPoints": [
+        "Las medianas de inflación para el cierre de 2026 se mantuvieron en 3,5 %.",
+        "Las expectativas de inflación para los próximos 12 meses también se mantuvieron.",
+        "Se prevé una expansión del PIB de 4,5 % para 2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Agentes económicos sostienen previsión de inflación en 3 %",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/21/agentes-economicos-sostienen-prevision-de-inflacion-en-3",
+          "publishedAt": "2026-10-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/IFViN-DWvwGtvEbNGIwbsO7ibj0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J4BFH4WZLZBFPISYQLJVM2ZORI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Agentes económicos mantienen expectativa de inflación en 3% para cierre de año",
+          "url": "https://elnacional.com.py/economia/agentes-economicos-mantienen-expectativa-inflacion-3-cierre-ano-n113905",
+          "publishedAt": "2026-10-20T21:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/09/68dc47f812e2b.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J4BFH4WZLZBFPISYQLJVM2ZORI.jpg?auth=887d69de6134f4ed00d0c941aeb888dc11f2ea5afe8e655b84f34649fdd9cc9b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/21/agentes-economicos-sostienen-prevision-de-inflacion-en-3"
+      },
+      "firstSeenAt": "2026-10-21T08:07:10.890Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-21T08:07:10.890Z",
+      "updatedSlot": "manana",
+      "score": 9.24
     },
     {
       "id": "ev-104x9tu",
@@ -626,7 +730,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-1ezo9cr",
@@ -669,7 +773,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.21
+      "score": 8.87
     },
     {
       "id": "ev-1ypbf4u",
@@ -712,7 +816,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-1htjps3",
@@ -755,7 +859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 9.06
+      "score": 8.73
     },
     {
       "id": "ev-0t8h95t",
@@ -798,7 +902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.97
+      "score": 8.64
     },
     {
       "id": "ev-0eiprrn",
@@ -842,7 +946,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.62
     },
     {
       "id": "ev-069101c",
@@ -886,7 +990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.84
+      "score": 8.51
     },
     {
       "id": "ev-1gjmeri",
@@ -930,7 +1034,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.35
     },
     {
       "id": "ev-0mfidwq",
@@ -982,7 +1086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 7.69
+      "score": 7.36
     },
     {
       "id": "ev-1j1prbl",
@@ -1025,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.86
+      "score": 6.53
     },
     {
       "id": "ev-138mh0b",
@@ -1067,7 +1171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.79
+      "score": 6.46
     },
     {
       "id": "ev-15jrfn2",
@@ -1111,7 +1215,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.77
+      "score": 6.44
     },
     {
       "id": "ev-14fvtwl",
@@ -1155,7 +1259,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.67
+      "score": 6.33
     },
     {
       "id": "ev-0gt4bsu",
@@ -1198,7 +1302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-009blmg",
@@ -1238,7 +1342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.67
     },
     {
       "id": "ev-1ekn0xl",
@@ -1269,7 +1373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0wzqghz",
@@ -1300,7 +1404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1amfdbo",
@@ -1329,7 +1433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1ahmffl",
@@ -1358,7 +1462,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0rgoz9x",
@@ -1390,7 +1494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.49
     },
     {
       "id": "ev-1cl813b",
@@ -1425,7 +1529,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.72
+      "score": 5.38
     },
     {
       "id": "ev-1jrruso",
@@ -1460,7 +1564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.37
     },
     {
       "id": "ev-1205rsh",
@@ -1492,7 +1596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0zlp8tp",
@@ -1528,7 +1632,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0zsz6q8",
@@ -1564,7 +1668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0jj3h4j",
@@ -1599,7 +1703,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.84
     },
     {
       "id": "ev-0u8ub47",
@@ -1635,7 +1739,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 5.12
+      "score": 4.78
     },
     {
       "id": "ev-0iuffdp",
@@ -1670,7 +1774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.3
     },
     {
       "id": "ev-02lz8k3",
@@ -1706,7 +1810,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.2
     },
     {
       "id": "ev-0j765sf",
@@ -1741,7 +1845,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.09
     },
     {
       "id": "ev-0yesket",
@@ -1772,7 +1876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.5
+      "score": 3.16
     },
     {
       "id": "ev-03s2o40",
@@ -1803,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.47
+      "score": 3.14
     },
     {
       "id": "ev-051s1ri",
@@ -1835,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.43
+      "score": 3.1
     },
     {
       "id": "ev-06ic3nv",
@@ -1866,7 +1970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.42
+      "score": 3.09
     },
     {
       "id": "ev-0n7d5mt",
@@ -1897,7 +2001,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.08
     },
     {
       "id": "ev-1bm1xu4",
@@ -1928,7 +2032,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.4
+      "score": 3.07
     },
     {
       "id": "ev-15kdpf5",
@@ -1960,7 +2064,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3.06
     },
     {
       "id": "ev-0kdlbsy",
@@ -1992,7 +2096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3.05
     },
     {
       "id": "ev-1cdmuk4",
@@ -2023,7 +2127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.03
     },
     {
       "id": "ev-1coc4ge",
@@ -2057,7 +2161,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 3.23
+      "score": 2.89
     },
     {
       "id": "ev-0494rkj",
@@ -2093,7 +2197,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-21T08:07:10.890Z",
       "updatedSlot": "manana",
-      "score": 2.48
+      "score": 2.15
     }
   ],
   "runs": [
@@ -2103,6 +2207,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 63
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-21T12:07:10.985Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 12
     }
   ]
 }
