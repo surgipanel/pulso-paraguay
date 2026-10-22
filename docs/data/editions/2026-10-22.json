@@ -1,9 +1,9 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-22T16:07:11.167Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-22T19:37:16.725Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -71,7 +71,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T16:07:11.167Z",
       "updatedSlot": "tarde",
-      "score": 20.84
+      "score": 20.55
     },
     {
       "id": "ev-169u1vt",
@@ -138,7 +138,90 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 19.73
+      "score": 19.43
+    },
+    {
+      "id": "ev-050rf1a",
+      "title": "Meteorología emite alerta por tormentas, granizo y vientos en gran parte del país",
+      "summary": "La Dirección de Meteorología mantiene un aviso especial por tormentas eléctricas, ráfagas de viento y caída puntual de granizo. El fenómeno afecta sobre todo al sur y este de la Región Oriental, aunque podría extenderse a otras zonas. Hubo granizo, lluvias e intensos vientos en localidades del interior. Se recomienda estar atento a las actualizaciones del organismo.",
+      "keyPoints": [
+        "La alerta incluye tormentas eléctricas, vientos fuertes y granizo puntual.",
+        "El sur y este de la Región Oriental son las zonas más afectadas.",
+        "Villa del Rosario, San Solano y Caapucú sufrieron granizo y lluvias intensas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Boletín especial: Emiten alerta por tormentas eléctricas, granizo y vientos de 90 km/h",
+          "url": "https://www.ultimahora.com/boletin-especial-emiten-alerta-por-tormentas-electricas-granizo-y-vientos-de-90-km-h",
+          "publishedAt": "2026-10-22T19:31:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
+          "url": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais",
+          "publishedAt": "2026-10-22T18:48:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los tres departamentos que están ahora “en el ojo de la tormenta”",
+          "url": "https://www.abc.com.py/clima/2026/10/22/los-tres-departamentos-que-estan-ahora-en-el-ojo-de-la-tormenta",
+          "publishedAt": "2026-10-22T18:32:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Jueves caluroso con lluvias y ocasionales tormentas eléctricas",
+          "url": "https://www.npy.com.py/noticias/nacionales/jueves-caluroso-con-lluvias-y-ocasionales-tormentas-electricas",
+          "publishedAt": "2026-10-22T09:40:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Jueves cálido, pero con lluvias y tormentas en gran parte del país",
+          "url": "https://www.lanacion.com.py/pais/2026/10/22/jueves-calido-pero-con-lluvias-y-tormentas-en-gran-parte-del-pais",
+          "publishedAt": "2026-10-22T09:37:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JNrqtubmgoNP5FvrWUqQZrRR-Y8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7KJEDEW3RRCALDHSVGRPL7W22M.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hubo tormentas y granizo en el interior y hay alerta en Asunción",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/hubo-tormentas-y-granizo-en-el-interior-y-hay-alerta-en-asuncion",
+          "publishedAt": "2026-10-22T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v_pyCAsHWODpquxo-H3mmOt0Zwc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D326EZ46FZGTDAGNN6YMSXEYLI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Villa del Rosario, San Solano y Caapucú fueron azotadas por el granizo, las lluvias y los intensos vientos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/villa-del-rosario-san-solano-y-caapucu-fueron-azotadas-por-el-granizo-las-lluvias-y-los-intensos-vientos",
+          "publishedAt": "2026-10-21T16:11:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wioG2HADh3LQzY8IfPTwBgllYSo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NUVQWLLJMZHKTBAISZVSVNNCPM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7KJEDEW3RRCALDHSVGRPL7W22M.jpg?auth=be59c7e369f040148f222480937f57b0c1d3c9fd10d895e5478c3cf2512fb4d9&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/22/jueves-calido-pero-con-lluvias-y-tormentas-en-gran-parte-del-pais"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T19:37:16.725Z",
+      "updatedSlot": "tarde",
+      "score": 17.99
     },
     {
       "id": "ev-11ug3hq",
@@ -230,7 +313,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T16:07:11.167Z",
       "updatedSlot": "tarde",
-      "score": 17.99
+      "score": 17.69
     },
     {
       "id": "ev-17cetd0",
@@ -289,7 +372,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 17.57
+      "score": 17.27
     },
     {
       "id": "ev-06pjsn9",
@@ -348,7 +431,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 14.66
+      "score": 14.37
     },
     {
       "id": "ev-0vixz6u",
@@ -407,7 +490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
     },
     {
       "id": "ev-08wp8pe",
@@ -458,7 +541,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.69
+      "score": 12.4
     },
     {
       "id": "ev-12s7msu",
@@ -509,7 +592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.44
+      "score": 12.15
     },
     {
       "id": "ev-0laixsu",
@@ -560,7 +643,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.43
+      "score": 12.14
     },
     {
       "id": "ev-0c7ezfn",
@@ -619,7 +702,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 11.93
+      "score": 11.64
     },
     {
       "id": "ev-1hk7lce",
@@ -679,7 +762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 10.91
+      "score": 10.62
     },
     {
       "id": "ev-0y9me13",
@@ -723,7 +806,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.7
     },
     {
       "id": "ev-0v9rdsp",
@@ -767,7 +850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.55
+      "score": 8.26
     },
     {
       "id": "ev-1lel1lv",
@@ -811,7 +894,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.45
+      "score": 8.16
     },
     {
       "id": "ev-06i9f8g",
@@ -851,7 +934,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.26
+      "score": 8
     },
     {
       "id": "ev-07q6ucs",
@@ -895,7 +978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-067h3dw",
@@ -939,7 +1022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.13
+      "score": 8
     },
     {
       "id": "ev-02gvf26",
@@ -1035,7 +1118,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.96
+      "score": 6.67
     },
     {
       "id": "ev-0y7xe9b",
@@ -1079,51 +1162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.93
-    },
-    {
-      "id": "ev-050rf1a",
-      "title": "Granizo y fuertes vientos afectan Villa del Rosario, San Solano y Caapucú",
-      "summary": "Tormentas con granizo, lluvias e intensos vientos azotaron localidades como Villa del Rosario, San Solano y Caapucú. En Villa del Rosario cayó una intensa granizada y Caapucú fue afectada por un fuerte temporal. Asunción quedó bajo alerta por las condiciones meteorológicas.",
-      "keyPoints": [
-        "Villa del Rosario registró una intensa granizada.",
-        "Caapucú fue afectada por un fuerte temporal.",
-        "San Solano también fue azotada por granizo, lluvias e intensos vientos.",
-        "Hay alerta en Asunción por las condiciones meteorológicas."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Hubo tormentas y granizo en el interior y hay alerta en Asunción",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/hubo-tormentas-y-granizo-en-el-interior-y-hay-alerta-en-asuncion",
-          "publishedAt": "2026-10-22T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v_pyCAsHWODpquxo-H3mmOt0Zwc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D326EZ46FZGTDAGNN6YMSXEYLI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Villa del Rosario, San Solano y Caapucú fueron azotadas por el granizo, las lluvias y los intensos vientos",
-          "url": "https://www.lanacion.com.py/pais/2026/10/21/villa-del-rosario-san-solano-y-caapucu-fueron-azotadas-por-el-granizo-las-lluvias-y-los-intensos-vientos",
-          "publishedAt": "2026-10-21T16:11:24.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wioG2HADh3LQzY8IfPTwBgllYSo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NUVQWLLJMZHKTBAISZVSVNNCPM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/D326EZ46FZGTDAGNN6YMSXEYLI.jpg?auth=d16f6ced0c1b626404e19d7c040052bd952c441494a79374c3d066329a3ba159&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/hubo-tormentas-y-granizo-en-el-interior-y-hay-alerta-en-asuncion"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.64
     },
     {
       "id": "ev-07odnq8",
@@ -1166,7 +1205,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-01t91lt",
@@ -1209,7 +1248,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.5
     },
     {
       "id": "ev-0uwk0ww",
@@ -1240,7 +1279,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-09gpj07",
@@ -1269,7 +1308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0gjrost",
@@ -1298,7 +1337,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1i1yf61",
@@ -1327,7 +1366,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1pevic2",
@@ -1363,7 +1402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-00l0ei9",
@@ -1399,7 +1438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1ns896w",
@@ -1435,7 +1474,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0bzbbdp",
@@ -1471,7 +1510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0u9bj8z",
@@ -1505,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-054e6dn",
@@ -1540,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.68
     },
     {
       "id": "ev-0fl95mg",
@@ -1575,7 +1614,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0ikrbk2",
@@ -1608,7 +1647,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.24
     },
     {
       "id": "ev-1jamit9",
@@ -1643,7 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.21
     },
     {
       "id": "ev-04wuxb3",
@@ -1678,7 +1717,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.25
+      "score": 4
     },
     {
       "id": "ev-0p89qe6",
@@ -1713,7 +1752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.13
+      "score": 4
     },
     {
       "id": "ev-0c564ln",
@@ -1787,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.78
+      "score": 3.49
     },
     {
       "id": "ev-0ivmu1c",
@@ -1826,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.78
+      "score": 3.48
     },
     {
       "id": "ev-03tkkzc",
@@ -1866,7 +1905,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.7
+      "score": 3.41
     },
     {
       "id": "ev-0p2cb1w",
@@ -1906,7 +1945,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.19
     },
     {
       "id": "ev-0lt35vb",
@@ -1937,7 +1976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.81
+      "score": 2.52
     },
     {
       "id": "ev-07i5wn6",
@@ -1968,7 +2007,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.76
+      "score": 2.47
     },
     {
       "id": "ev-159gviq",
@@ -1999,7 +2038,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.72
+      "score": 2.43
     },
     {
       "id": "ev-02xzrov",
@@ -2030,7 +2069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.72
+      "score": 2.43
     },
     {
       "id": "ev-0blzfe4",
@@ -2061,7 +2100,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.69
+      "score": 2.4
     },
     {
       "id": "ev-039m39s",
@@ -2092,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.57
+      "score": 2.28
     },
     {
       "id": "ev-0wv6j34",
@@ -2123,7 +2162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.57
+      "score": 2.28
     }
   ],
   "runs": [
@@ -2147,6 +2186,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-22T19:37:16.725Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 12
     }
   ]
 }
