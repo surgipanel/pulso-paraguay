@@ -1,11 +1,78 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-22T12:07:14.720Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-22T16:07:11.167Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1ovgnwh",
+      "title": "Amenazas escritas obligan a suspender clases presenciales en la Universidad Americana",
+      "summary": "La Universidad Americana suspendió de forma preventiva las actividades presenciales en su sede central, en Asunción. La medida se tomó tras hallar escritos con amenazas de tiroteo en distintos sectores. La Policía analiza las cámaras de seguridad para identificar a los responsables.",
+      "keyPoints": [
+        "Se hallaron cuatro escritos intimidatorios en la institución.",
+        "Las clases presenciales fueron suspendidas y pasan a modalidad virtual.",
+        "La Policía analiza cámaras de seguridad para identificar a los responsables."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-10-24T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Amenaza de tiroteo obliga a suspender clases en universidad",
+          "url": "https://www.telefuturo.com.py/amenaza-de-tiroteo-obliga-a-suspender-clases-en-universidad",
+          "publishedAt": "2026-10-22T14:10:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Amenaza de tiroteo en universidad privada obliga a suspender las clases",
+          "url": "https://elnacional.com.py/nacionales/amenaza-tiroteo-universidad-privada-obliga-suspender-clases-n113991",
+          "publishedAt": "2026-10-22T11:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad9f48fabb73.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Amenaza contra la Universidad Americana obliga a suspender las clases presenciales",
+          "url": "https://www.adndigital.com.py/amenaza-contra-la-universidad-americana-obliga-a-suspender-las-clases-presenciales",
+          "publishedAt": "2026-10-22T09:51:21.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-064627.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Amenaza en universidad obliga a suspender las actividades presenciales",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/amenaza-en-universidad-obliga-a-suspender-las-actividades-presenciales",
+          "publishedAt": "2026-10-22T00:25:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wqLuGA-Tx2E9omI69Haf7pBtaIE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PJTIBRYIT5HG7LZWU4PJQ4LKHM.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "“La Universidad Americana es la siguiente”: nueva amenaza obliga a suspender actividades",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/la-universidad-americana-es-la-siguiente-nueva-amenaza-obliga-a-suspender-actividades",
+          "publishedAt": "2026-10-21T23:35:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/O6XDNXTTP5HOPBONA7DVHCWU7Y.png?auth=dc7ccbb3428a6e10e61cdb259e64ab0f76b63a2e43f89114787d0054c1ff55dd&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ad9f48fabb73.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/amenaza-tiroteo-universidad-privada-obliga-suspender-clases-n113991"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T16:07:11.167Z",
+      "updatedSlot": "tarde",
+      "score": 20.84
+    },
     {
       "id": "ev-169u1vt",
       "title": "Yolanda Paredes confirma que buscará la Presidencia en 2028 por Cruzada Nacional",
@@ -71,66 +138,99 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 20.06
+      "score": 19.73
     },
     {
-      "id": "ev-1ovgnwh",
-      "title": "Amenaza contra la Universidad Americana obliga a suspender clases presenciales",
-      "summary": "Un escrito amenazante fue hallado en un baño de la Universidad Americana, en Asunción. La institución suspendió preventivamente las actividades presenciales de su sede central. El mensaje alude al episodio del 16 de octubre en la Universidad Nacional de Asunción y señala a la Americana como posible próximo objetivo. Las actividades presenciales quedaron suspendidas hasta el viernes 23 de octubre.",
+      "id": "ev-11ug3hq",
+      "title": "Peña se reúne con Scott Bessent en su agenda oficial en Washington",
+      "summary": "El presidente Santiago Peña inició su agenda en Estados Unidos con un encuentro con el secretario del Tesoro, Scott Bessent. Conversaron sobre cooperación económica y nuevas inversiones. Peña también será orador principal este jueves en una gala de liderazgo organizada por el Diálogo Interamericano en la OEA.",
       "keyPoints": [
-        "El escrito fue hallado en un baño de la sede central.",
-        "El mensaje hace referencia al episodio del 16 de octubre en la UNA.",
-        "Las actividades presenciales están suspendidas hasta el viernes 23."
+        "Peña se reunió con el secretario del Tesoro, Scott Bessent.",
+        "Trataron cooperación económica y financiera.",
+        "Este jueves 22 de octubre, Peña será orador principal en la Gala de Premios al Liderazgo para las Américas 2026.",
+        "La gala se realiza en la sede de la OEA, en Washington."
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
-      "expiresAt": "2026-10-24T02:59:00.000Z",
+      "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Amenaza de tiroteo en universidad privada obliga a suspender las clases",
-          "url": "https://elnacional.com.py/nacionales/amenaza-tiroteo-universidad-privada-obliga-suspender-clases-n113991",
-          "publishedAt": "2026-10-22T11:50:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad9f48fabb73.png"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Amenaza contra la Universidad Americana obliga a suspender las clases presenciales",
-          "url": "https://www.adndigital.com.py/amenaza-contra-la-universidad-americana-obliga-a-suspender-las-clases-presenciales",
-          "publishedAt": "2026-10-22T09:51:21.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-064627.jpeg"
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Peña se reúne con hombre clave en el levantamiento de las sanciones a Horacio Cartes",
+          "url": "https://www.ultimahora.com/pena-se-reune-con-hombre-clave-en-el-levantamiento-de-las-sanciones-a-horacio-cartes",
+          "publishedAt": "2026-10-22T15:57:28.000Z",
+          "image": null
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Amenaza en universidad obliga a suspender las actividades presenciales",
-          "url": "https://www.lanacion.com.py/pais/2026/10/21/amenaza-en-universidad-obliga-a-suspender-las-actividades-presenciales",
-          "publishedAt": "2026-10-22T00:25:48.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wqLuGA-Tx2E9omI69Haf7pBtaIE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PJTIBRYIT5HG7LZWU4PJQ4LKHM.jpg"
+          "title": "Peña abrió su agenda en Washington al reunirse con el secretario del Tesoro de EE. UU.",
+          "url": "https://www.lanacion.com.py/politica/2026/10/22/pena-abrio-su-agenda-en-washington-al-reunirse-con-el-secretario-del-tesoro-de-ee-uu",
+          "publishedAt": "2026-10-22T15:09:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nCV0A8env3j_k-XrDltjkwQiu7U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ASMAEFNPBJDW3MOQ7MMLWTPTLY.jpeg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "“La Universidad Americana es la siguiente”: nueva amenaza obliga a suspender actividades",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/21/la-universidad-americana-es-la-siguiente-nueva-amenaza-obliga-a-suspender-actividades",
-          "publishedAt": "2026-10-21T23:35:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/O6XDNXTTP5HOPBONA7DVHCWU7Y.png?auth=dc7ccbb3428a6e10e61cdb259e64ab0f76b63a2e43f89114787d0054c1ff55dd&width=1200&height=630&smart=true"
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña será orador principal en gala internacional en Washington",
+          "url": "https://www.adndigital.com.py/pena-sera-orador-principal-en-gala-internacional-en-washington",
+          "publishedAt": "2026-10-22T12:26:25.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-21-at-064754.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña disertará en EE. UU. sobre el histórico impulso económico de Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/10/22/santiago-pena-disertara-en-ee-uu-sobre-el-historico-impulso-economico-de-paraguay",
+          "publishedAt": "2026-10-22T10:44:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/w-PTgQCoGBNciSs6Id1lBO9eg3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/553UWEPZUZGPNE6UHV6YZWTOAM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña viajó a EE. UU. para reunirse con jefe de la CIA y hablar en foros",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/pena-viajo-a-ee-uu-para-reunirse-con-jefe-de-la-cia-y-hablar-en-foros",
+          "publishedAt": "2026-10-22T03:22:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9fRjCeuuxWGB9PkMyzes3IHsb10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MLJDRKW3YVBT5NVUDMLBRZ23MQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Santiago Peña se reunirá con el director de la CIA en Washington",
+          "url": "https://elnacional.com.py/politica/santiago-pena-reunira-director-cia-washington-n113964",
+          "publishedAt": "2026-10-21T20:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad8e09fdea61.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña se reunirá con el director de la CIA en Estados Unidos",
+          "url": "https://www.adndigital.com.py/pena-se-reunira-con-el-director-de-la-cia-en-estados-unidos",
+          "publishedAt": "2026-10-21T19:35:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-163505.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña viajó a EE. UU. y confirmó una reunión clave con el director de la CIA",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/santiago-pena-viajo-a-ee-uu-y-confirmo-una-reunion-clave-con-el-director-de-la-cia",
+          "publishedAt": "2026-10-21T18:00:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ddpBH9JOrUb-WHD8fX-wnG_saNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYQPQR2LCVFPRFACIIXZHBO5QI.jpg"
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-064627.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/amenaza-contra-la-universidad-americana-obliga-a-suspender-las-clases-presenciales"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ASMAEFNPBJDW3MOQ7MMLWTPTLY.jpeg?auth=97b9c59a11460bd1b9fb09f66470aedf1b4d8b800f579e4f991cc56f9cefead2&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/22/pena-abrio-su-agenda-en-washington-al-reunirse-con-el-secretario-del-tesoro-de-ee-uu"
       },
       "firstSeenAt": "2026-10-22T08:07:12.645Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-22T12:07:14.720Z",
-      "updatedSlot": "manana",
-      "score": 17.98
+      "updatedAt": "2026-10-22T16:07:11.167Z",
+      "updatedSlot": "tarde",
+      "score": 17.99
     },
     {
       "id": "ev-17cetd0",
@@ -189,7 +289,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 17.9
+      "score": 17.57
     },
     {
       "id": "ev-06pjsn9",
@@ -248,7 +348,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 15
+      "score": 14.66
     },
     {
       "id": "ev-0vixz6u",
@@ -307,7 +407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
     },
     {
       "id": "ev-08wp8pe",
@@ -358,7 +458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.03
+      "score": 12.69
     },
     {
       "id": "ev-12s7msu",
@@ -409,7 +509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.77
+      "score": 12.44
     },
     {
       "id": "ev-0laixsu",
@@ -460,75 +560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.77
-    },
-    {
-      "id": "ev-11ug3hq",
-      "title": "Peña viaja a Estados Unidos para reunirse con el director de la CIA",
-      "summary": "El presidente Santiago Peña llegó a Estados Unidos y cumplirá agenda hasta el viernes 23. Anunció una reunión con John Ratcliffe, director de la CIA. También visitará la Universidad George Washington y participará como orador principal en el Diálogo Interamericano, donde hablará sobre el impulso económico de Paraguay.",
-      "keyPoints": [
-        "Peña viajó a Estados Unidos el miércoles 21 de octubre.",
-        "Se reunirá con John Ratcliffe, director de la Agencia Central de Inteligencia (CIA).",
-        "Será orador principal en el evento anual del Diálogo Interamericano.",
-        "Visitará la Universidad George Washington."
-      ],
-      "category": "politica",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Santiago Peña disertará en EE. UU. sobre el histórico impulso económico de Paraguay",
-          "url": "https://www.lanacion.com.py/politica/2026/10/22/santiago-pena-disertara-en-ee-uu-sobre-el-historico-impulso-economico-de-paraguay",
-          "publishedAt": "2026-10-22T10:44:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/w-PTgQCoGBNciSs6Id1lBO9eg3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/553UWEPZUZGPNE6UHV6YZWTOAM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña viajó a EE. UU. para reunirse con jefe de la CIA y hablar en foros",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/pena-viajo-a-ee-uu-para-reunirse-con-jefe-de-la-cia-y-hablar-en-foros",
-          "publishedAt": "2026-10-22T03:22:35.000Z",
-          "image": "https://www.lanacion.com.py/resizer/9fRjCeuuxWGB9PkMyzes3IHsb10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MLJDRKW3YVBT5NVUDMLBRZ23MQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Santiago Peña se reunirá con el director de la CIA en Washington",
-          "url": "https://elnacional.com.py/politica/santiago-pena-reunira-director-cia-washington-n113964",
-          "publishedAt": "2026-10-21T20:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad8e09fdea61.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Peña se reunirá con el director de la CIA en Estados Unidos",
-          "url": "https://www.adndigital.com.py/pena-se-reunira-con-el-director-de-la-cia-en-estados-unidos",
-          "publishedAt": "2026-10-21T19:35:58.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-163505.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Santiago Peña viajó a EE. UU. y confirmó una reunión clave con el director de la CIA",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/santiago-pena-viajo-a-ee-uu-y-confirmo-una-reunion-clave-con-el-director-de-la-cia",
-          "publishedAt": "2026-10-21T18:00:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ddpBH9JOrUb-WHD8fX-wnG_saNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYQPQR2LCVFPRFACIIXZHBO5QI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/553UWEPZUZGPNE6UHV6YZWTOAM.jpg?auth=6dc86c6e3248b9cc3026db56e2a096c11d81db6237915985ff0a894b5061978f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/22/santiago-pena-disertara-en-ee-uu-sobre-el-historico-impulso-economico-de-paraguay"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T12:07:14.720Z",
-      "updatedSlot": "manana",
-      "score": 12.38
+      "score": 12.43
     },
     {
       "id": "ev-0c7ezfn",
@@ -587,7 +619,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 12.26
+      "score": 11.93
     },
     {
       "id": "ev-1hk7lce",
@@ -647,7 +679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 11.24
+      "score": 10.91
     },
     {
       "id": "ev-0y9me13",
@@ -691,7 +723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.99
     },
     {
       "id": "ev-0v9rdsp",
@@ -735,7 +767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.88
+      "score": 8.55
     },
     {
       "id": "ev-1lel1lv",
@@ -779,7 +811,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.45
     },
     {
       "id": "ev-06i9f8g",
@@ -819,7 +851,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.26
     },
     {
       "id": "ev-07q6ucs",
@@ -863,7 +895,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.21
     },
     {
       "id": "ev-067h3dw",
@@ -907,7 +939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.13
     },
     {
       "id": "ev-02gvf26",
@@ -1003,7 +1035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 7.3
+      "score": 6.96
     },
     {
       "id": "ev-0y7xe9b",
@@ -1047,7 +1079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.26
+      "score": 5.93
     },
     {
       "id": "ev-050rf1a",
@@ -1091,7 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-07odnq8",
@@ -1134,7 +1166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-01t91lt",
@@ -1177,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.07
+      "score": 5.74
     },
     {
       "id": "ev-0uwk0ww",
@@ -1208,7 +1240,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-09gpj07",
@@ -1237,7 +1269,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0gjrost",
@@ -1266,7 +1298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1i1yf61",
@@ -1295,7 +1327,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1pevic2",
@@ -1331,7 +1363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-00l0ei9",
@@ -1367,7 +1399,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1ns896w",
@@ -1403,7 +1435,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0bzbbdp",
@@ -1439,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0u9bj8z",
@@ -1473,7 +1505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-054e6dn",
@@ -1508,7 +1540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.97
     },
     {
       "id": "ev-0fl95mg",
@@ -1543,7 +1575,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0ikrbk2",
@@ -1576,7 +1608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.53
     },
     {
       "id": "ev-1jamit9",
@@ -1611,7 +1643,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.83
+      "score": 4.5
     },
     {
       "id": "ev-04wuxb3",
@@ -1646,7 +1678,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.59
+      "score": 4.25
     },
     {
       "id": "ev-0p89qe6",
@@ -1681,7 +1713,42 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.46
+      "score": 4.13
+    },
+    {
+      "id": "ev-0c564ln",
+      "title": "Peña y Christopher Landau visitan la hidroeléctrica Itaipú en Alto Paraná",
+      "summary": "El presidente Santiago Peña y el subsecretario de Estado de Estados Unidos, Christopher Landau, visitan Alto Paraná para recorrer las instalaciones de la entidad binacional Itaipú. La visita se realizó este miércoles.",
+      "keyPoints": [
+        "Peña y Landau recorren las instalaciones de Itaipú.",
+        "La visita es en el departamento de Alto Paraná.",
+        "El subsecretario de Estado es Christopher Landau."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña y el subsecretario de EE. UU., Christopher Landau, visitan la hidroeléctrica Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/pena-y-el-subsecretario-de-ee-uu-christopher-landau-visitan-la-hidroelectrica-itaipu",
+          "publishedAt": "2026-10-21T12:25:28.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pPOVMDY57BXneDMP3YL7QnUqauU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GG25EC5BPNA6HD6EDDOY6Q2EYE.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GG25EC5BPNA6HD6EDDOY6Q2EYE.jpeg?auth=e8f884bdca6085202c470ea512012a9e2cceaba3270edf95c6292b3699c4fb2a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/21/pena-y-el-subsecretario-de-ee-uu-christopher-landau-visitan-la-hidroelectrica-itaipu"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T08:07:12.645Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-0mkjl6t",
@@ -1720,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 3.78
     },
     {
       "id": "ev-0ivmu1c",
@@ -1759,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 3.78
     },
     {
       "id": "ev-03tkkzc",
@@ -1799,42 +1866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.03
-    },
-    {
-      "id": "ev-0c564ln",
-      "title": "Peña y Christopher Landau visitan la hidroeléctrica Itaipú en Alto Paraná",
-      "summary": "El presidente Santiago Peña y el subsecretario de Estado de Estados Unidos, Christopher Landau, visitan Alto Paraná para recorrer las instalaciones de la entidad binacional Itaipú. La visita se realizó este miércoles.",
-      "keyPoints": [
-        "Peña y Landau recorren las instalaciones de Itaipú.",
-        "La visita es en el departamento de Alto Paraná.",
-        "El subsecretario de Estado es Christopher Landau."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña y el subsecretario de EE. UU., Christopher Landau, visitan la hidroeléctrica Itaipú",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/pena-y-el-subsecretario-de-ee-uu-christopher-landau-visitan-la-hidroelectrica-itaipu",
-          "publishedAt": "2026-10-21T12:25:28.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pPOVMDY57BXneDMP3YL7QnUqauU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GG25EC5BPNA6HD6EDDOY6Q2EYE.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GG25EC5BPNA6HD6EDDOY6Q2EYE.jpeg?auth=e8f884bdca6085202c470ea512012a9e2cceaba3270edf95c6292b3699c4fb2a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/21/pena-y-el-subsecretario-de-ee-uu-christopher-landau-visitan-la-hidroelectrica-itaipu"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 4.03
+      "score": 3.7
     },
     {
       "id": "ev-0p2cb1w",
@@ -1874,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.82
+      "score": 3.48
     },
     {
       "id": "ev-0lt35vb",
@@ -1905,7 +1937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.81
     },
     {
       "id": "ev-07i5wn6",
@@ -1936,7 +1968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.76
     },
     {
       "id": "ev-159gviq",
@@ -1967,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.05
+      "score": 2.72
     },
     {
       "id": "ev-02xzrov",
@@ -1998,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.05
+      "score": 2.72
     },
     {
       "id": "ev-0blzfe4",
@@ -2029,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.03
+      "score": 2.69
     },
     {
       "id": "ev-039m39s",
@@ -2060,7 +2092,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.91
+      "score": 2.57
     },
     {
       "id": "ev-0wv6j34",
@@ -2091,7 +2123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.9
+      "score": 2.57
     }
   ],
   "runs": [
@@ -2108,6 +2140,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-22T16:07:11.167Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 16
     }
   ]
 }
