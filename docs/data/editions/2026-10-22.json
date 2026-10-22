@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-22T19:37:16.725Z",
+  "generatedAt": "2026-10-22T23:07:11.728Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
@@ -71,7 +71,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T16:07:11.167Z",
       "updatedSlot": "tarde",
-      "score": 20.55
+      "score": 20.26
     },
     {
       "id": "ev-169u1vt",
@@ -138,23 +138,39 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 19.43
+      "score": 19.14
     },
     {
       "id": "ev-050rf1a",
-      "title": "Meteorología emite alerta por tormentas, granizo y vientos en gran parte del país",
-      "summary": "La Dirección de Meteorología mantiene un aviso especial por tormentas eléctricas, ráfagas de viento y caída puntual de granizo. El fenómeno afecta sobre todo al sur y este de la Región Oriental, aunque podría extenderse a otras zonas. Hubo granizo, lluvias e intensos vientos en localidades del interior. Se recomienda estar atento a las actualizaciones del organismo.",
+      "title": "Alertan por tormentas con hasta 90 mm de lluvia desde el viernes 23",
+      "summary": "La Dirección de Meteorología mantiene un aviso especial por un sistema de tormentas que afectará a gran parte del país entre el viernes 23 y el sábado 24 de octubre. Se prevén acumulados de agua de hasta 90 milímetros, fuertes ráfagas de viento y alta probabilidad de granizo. El aviso vale hasta el sábado 24 de octubre.",
       "keyPoints": [
-        "La alerta incluye tormentas eléctricas, vientos fuertes y granizo puntual.",
-        "El sur y este de la Región Oriental son las zonas más afectadas.",
-        "Villa del Rosario, San Solano y Caapucú sufrieron granizo y lluvias intensas."
+        "El sistema de tormentas se extiende del viernes 23 al sábado 24 de octubre.",
+        "Los acumulados de lluvia podrían llegar a 90 milímetros.",
+        "Se esperan fuertes ráfagas de viento y posible caída de granizo."
       ],
       "category": "pais",
       "scope": "paraguay",
-      "expiresAt": null,
+      "expiresAt": "2026-10-25T02:59:00.000Z",
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alertan que sistema de tormentas afectará a gran parte del país entre el viernes y el sábado",
+          "url": "https://www.lanacion.com.py/pais/2026/10/22/alertan-que-sistema-de-tormentas-afectara-a-gran-parte-del-pais-entre-el-viernes-y-el-sabado",
+          "publishedAt": "2026-10-22T21:00:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mGw395mLtzHq_xJ_-OkqH58dYwo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AY26DA6EBRFNRJOBLCL6KRWYAY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Anuncian tormentas con vientos de hasta 90 km/h desde este viernes",
+          "url": "https://www.abc.com.py/clima/2026/10/22/se-aproximan-tormentas-con-vientos-de-hasta-90-kmh-desde-este-viernes",
+          "publishedAt": "2026-10-22T20:07:29.000Z",
+          "image": null
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -213,15 +229,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7KJEDEW3RRCALDHSVGRPL7W22M.jpg?auth=be59c7e369f040148f222480937f57b0c1d3c9fd10d895e5478c3cf2512fb4d9&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AY26DA6EBRFNRJOBLCL6KRWYAY.jpeg?auth=0ddfde65bc2a42d678f4b65518ded2f3f73832f232fab87911e93bb20a856c9e&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/22/jueves-calido-pero-con-lluvias-y-tormentas-en-gran-parte-del-pais"
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/22/alertan-que-sistema-de-tormentas-afectara-a-gran-parte-del-pais-entre-el-viernes-y-el-sabado"
       },
       "firstSeenAt": "2026-10-22T08:07:12.645Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-22T19:37:16.725Z",
+      "updatedAt": "2026-10-22T23:07:11.728Z",
       "updatedSlot": "tarde",
-      "score": 17.99
+      "score": 17.82
     },
     {
       "id": "ev-11ug3hq",
@@ -313,7 +329,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T16:07:11.167Z",
       "updatedSlot": "tarde",
-      "score": 17.69
+      "score": 17.4
     },
     {
       "id": "ev-17cetd0",
@@ -372,7 +388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 17.27
+      "score": 16.98
     },
     {
       "id": "ev-06pjsn9",
@@ -431,7 +447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 14.37
+      "score": 14.08
     },
     {
       "id": "ev-0vixz6u",
@@ -490,7 +506,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.33
     },
     {
       "id": "ev-08wp8pe",
@@ -541,7 +557,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.4
+      "score": 12.11
     },
     {
       "id": "ev-12s7msu",
@@ -592,7 +608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.15
+      "score": 12
     },
     {
       "id": "ev-0laixsu",
@@ -643,7 +659,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 12.14
+      "score": 12
     },
     {
       "id": "ev-0c7ezfn",
@@ -702,7 +718,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 11.64
+      "score": 11.35
     },
     {
       "id": "ev-1hk7lce",
@@ -762,7 +778,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 10.62
+      "score": 10.33
     },
     {
       "id": "ev-0y9me13",
@@ -806,7 +822,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-0v9rdsp",
@@ -850,7 +866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.26
+      "score": 8
     },
     {
       "id": "ev-1lel1lv",
@@ -894,7 +910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-06i9f8g",
@@ -1118,94 +1134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.67
-    },
-    {
-      "id": "ev-0y7xe9b",
-      "title": "Peña minimiza advertencia de fuga de gobernadores colorados por la fórmula",
-      "summary": "El presidente Santiago Peña restó importancia a la advertencia de los quince gobernadores colorados. Ellos presionan a Pedro Alliana para que elija a César Sosa como su compañero de fórmula rumbo a las internas de diciembre de 2027. Peña dijo que no hay que dramatizar y que todos tienen derecho a peticionar.",
-      "keyPoints": [
-        "Quince gobernadores colorados presionan a Pedro Alliana para elegir a César Sosa como dupla.",
-        "Las internas partidarias están previstas para diciembre de 2027.",
-        "Peña dijo que no hay que dramatizar la situación.",
-        "Peña recordó que la Constitución consagra el derecho a peticionar."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Presidente minimiza advertencia de fugas de gobernadores",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/presidente-minimiza-advertencia-de-fugas-de-gobernadores",
-          "publishedAt": "2026-10-22T03:14:48.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8xpHw0p51BzTx1Js53T0D4dhjWA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LRYBOJCIOJAMJJXX4IRT3PYSLA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña minimiza la advertencia de fugas hecha por gobernadores",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/pena-minimiza-la-advertencia-de-fugas-hecha-por-gobernadores",
-          "publishedAt": "2026-10-21T16:50:54.000Z",
-          "image": "https://www.lanacion.com.py/resizer/WHyC9U5rNf1UuJnX1MyFVt7vCFs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RIWHBVDIMRFZJHWCPFGVLU4BAU.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LRYBOJCIOJAMJJXX4IRT3PYSLA.jpg?auth=f99e20da2ca3269c6869244cc2963f812f6507762defffaa7fd01047e9e0124f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/presidente-minimiza-advertencia-de-fugas-de-gobernadores"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 5.64
-    },
-    {
-      "id": "ev-07odnq8",
-      "title": "Asaltan a periodista de Nación Media y vacían sus cuentas en minutos",
-      "summary": "Un periodista de Nación Media denunció el robo de su celular en Asunción. Según su denuncia, se realizaron tres operaciones no autorizadas por G. 23.982.524. La primera transferencia se registró ocho minutos después del asalto. El caso muestra la rapidez con que pueden usarse cuentas bancarias tras un robo de celular.",
-      "keyPoints": [
-        "Un periodista de Nación Media denunció el robo de su celular.",
-        "Se registraron tres operaciones no autorizadas por G. 23.982.524.",
-        "La primera transferencia se hizo ocho minutos después del asalto."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Robaron celular y vaciaron cuentas de operador de NM",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/robaron-celular-y-vaciaron-cuentas-de-operador-de-nm",
-          "publishedAt": "2026-10-22T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1b6DKanvV6z5BVa1voBRPuzfojM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CXDXKGGT7JHOTA4S5IEXSRR5HA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Roban celular a periodista de Nación Media y vacían sus cuentas realizando transferencias y compras millonarias",
-          "url": "https://www.lanacion.com.py/pais/2026/10/21/roban-celular-a-periodista-de-nacion-media-y-vacian-sus-cuentas-realizando-transferencias-y-compras-millonarias",
-          "publishedAt": "2026-10-21T15:01:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RlgOaS1DOCDcz2vzjeG3Jy5fnUA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4YL32DH2NFFVFCN7I7BOOEDVQ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CXDXKGGT7JHOTA4S5IEXSRR5HA.jpg?auth=83eb4c7524269a34aae3175000a8552049bd8aa68bd5dc958291c93fd8c67680&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/robaron-celular-y-vaciaron-cuentas-de-operador-de-nm"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 5.62
+      "score": 6.38
     },
     {
       "id": "ev-01t91lt",
@@ -1251,6 +1180,93 @@
       "score": 5.5
     },
     {
+      "id": "ev-0y7xe9b",
+      "title": "Peña minimiza advertencia de fuga de gobernadores colorados por la fórmula",
+      "summary": "El presidente Santiago Peña restó importancia a la advertencia de los quince gobernadores colorados. Ellos presionan a Pedro Alliana para que elija a César Sosa como su compañero de fórmula rumbo a las internas de diciembre de 2027. Peña dijo que no hay que dramatizar y que todos tienen derecho a peticionar.",
+      "keyPoints": [
+        "Quince gobernadores colorados presionan a Pedro Alliana para elegir a César Sosa como dupla.",
+        "Las internas partidarias están previstas para diciembre de 2027.",
+        "Peña dijo que no hay que dramatizar la situación.",
+        "Peña recordó que la Constitución consagra el derecho a peticionar."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presidente minimiza advertencia de fugas de gobernadores",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/presidente-minimiza-advertencia-de-fugas-de-gobernadores",
+          "publishedAt": "2026-10-22T03:14:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8xpHw0p51BzTx1Js53T0D4dhjWA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LRYBOJCIOJAMJJXX4IRT3PYSLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña minimiza la advertencia de fugas hecha por gobernadores",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/pena-minimiza-la-advertencia-de-fugas-hecha-por-gobernadores",
+          "publishedAt": "2026-10-21T16:50:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/WHyC9U5rNf1UuJnX1MyFVt7vCFs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RIWHBVDIMRFZJHWCPFGVLU4BAU.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LRYBOJCIOJAMJJXX4IRT3PYSLA.jpg?auth=f99e20da2ca3269c6869244cc2963f812f6507762defffaa7fd01047e9e0124f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/presidente-minimiza-advertencia-de-fugas-de-gobernadores"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T08:07:12.645Z",
+      "updatedSlot": "manana",
+      "score": 5.34
+    },
+    {
+      "id": "ev-07odnq8",
+      "title": "Asaltan a periodista de Nación Media y vacían sus cuentas en minutos",
+      "summary": "Un periodista de Nación Media denunció el robo de su celular en Asunción. Según su denuncia, se realizaron tres operaciones no autorizadas por G. 23.982.524. La primera transferencia se registró ocho minutos después del asalto. El caso muestra la rapidez con que pueden usarse cuentas bancarias tras un robo de celular.",
+      "keyPoints": [
+        "Un periodista de Nación Media denunció el robo de su celular.",
+        "Se registraron tres operaciones no autorizadas por G. 23.982.524.",
+        "La primera transferencia se hizo ocho minutos después del asalto."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Robaron celular y vaciaron cuentas de operador de NM",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/robaron-celular-y-vaciaron-cuentas-de-operador-de-nm",
+          "publishedAt": "2026-10-22T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1b6DKanvV6z5BVa1voBRPuzfojM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CXDXKGGT7JHOTA4S5IEXSRR5HA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Roban celular a periodista de Nación Media y vacían sus cuentas realizando transferencias y compras millonarias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/roban-celular-a-periodista-de-nacion-media-y-vacian-sus-cuentas-realizando-transferencias-y-compras-millonarias",
+          "publishedAt": "2026-10-21T15:01:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RlgOaS1DOCDcz2vzjeG3Jy5fnUA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4YL32DH2NFFVFCN7I7BOOEDVQ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CXDXKGGT7JHOTA4S5IEXSRR5HA.jpg?auth=83eb4c7524269a34aae3175000a8552049bd8aa68bd5dc958291c93fd8c67680&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/22/robaron-celular-y-vaciaron-cuentas-de-operador-de-nm"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T08:07:12.645Z",
+      "updatedSlot": "manana",
+      "score": 5.33
+    },
+    {
       "id": "ev-0uwk0ww",
       "title": "Fondos públicos en bancos crecen casi USD 1.000 millones",
       "summary": "Los fondos públicos depositados en los bancos aumentaron casi USD 1.000 millones. En guaraníes subieron 6,6% y en dólares 54%. El crecimiento se dio pese a las críticas por la fuerte concentración de esos depósitos en pocas entidades. Los datos muestran el aumento en ambas monedas, aunque la concentración sigue en el centro del reclamo.",
@@ -1279,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-09gpj07",
@@ -1308,7 +1324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0gjrost",
@@ -1337,7 +1353,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1i1yf61",
@@ -1366,7 +1382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1pevic2",
@@ -1402,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-00l0ei9",
@@ -1438,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1ns896w",
@@ -1474,7 +1490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0bzbbdp",
@@ -1510,7 +1526,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0u9bj8z",
@@ -1544,7 +1560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-054e6dn",
@@ -1579,7 +1595,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.68
+      "score": 4.38
     },
     {
       "id": "ev-0fl95mg",
@@ -1614,7 +1630,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0ikrbk2",
@@ -1647,7 +1663,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-1jamit9",
@@ -1682,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.21
+      "score": 4
     },
     {
       "id": "ev-04wuxb3",
@@ -1826,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.49
+      "score": 3.2
     },
     {
       "id": "ev-0ivmu1c",
@@ -1865,7 +1881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.19
     },
     {
       "id": "ev-03tkkzc",
@@ -1905,7 +1921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-0p2cb1w",
@@ -1945,7 +1961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.19
+      "score": 2.9
     },
     {
       "id": "ev-0lt35vb",
@@ -1976,7 +1992,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.52
+      "score": 2.23
     },
     {
       "id": "ev-07i5wn6",
@@ -2007,7 +2023,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.47
+      "score": 2.18
     },
     {
       "id": "ev-159gviq",
@@ -2038,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.14
     },
     {
       "id": "ev-02xzrov",
@@ -2069,7 +2085,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.14
     },
     {
       "id": "ev-0blzfe4",
@@ -2100,7 +2116,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.4
+      "score": 2.11
     },
     {
       "id": "ev-039m39s",
@@ -2131,7 +2147,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.28
+      "score": 1.99
     },
     {
       "id": "ev-0wv6j34",
@@ -2162,7 +2178,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 2.28
+      "score": 1.98
     }
   ],
   "runs": [
@@ -2193,6 +2209,13 @@
       "added": 0,
       "updated": 1,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-22T23:07:11.728Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 20
     }
   ]
 }
