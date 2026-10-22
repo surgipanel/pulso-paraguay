@@ -1,9 +1,9 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-22T08:07:12.645Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-22T12:07:14.720Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -71,16 +71,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 20.39
+      "score": 20.06
     },
     {
-      "id": "ev-11ug3hq",
-      "title": "Peña viaja a EE. UU. y se reunirá con el director de la CIA",
-      "summary": "El presidente Santiago Peña viajó este miércoles a Estados Unidos. Su agenda incluye una reunión con John Ratcliffe, director de la Agencia Central de Inteligencia (CIA), y una visita a la Universidad George Washington. También será orador principal en el evento anual del Diálogo Interamericano. Estará en ese país hasta el viernes 23.",
+      "id": "ev-1ovgnwh",
+      "title": "Amenaza contra la Universidad Americana obliga a suspender clases presenciales",
+      "summary": "Un escrito amenazante fue hallado en un baño de la Universidad Americana, en Asunción. La institución suspendió preventivamente las actividades presenciales de su sede central. El mensaje alude al episodio del 16 de octubre en la Universidad Nacional de Asunción y señala a la Americana como posible próximo objetivo. Las actividades presenciales quedaron suspendidas hasta el viernes 23 de octubre.",
       "keyPoints": [
-        "La reunión será con John Ratcliffe, director de la CIA.",
-        "Peña será orador principal en el evento del Diálogo Interamericano.",
-        "Permanecerá en Estados Unidos hasta el viernes 23."
+        "El escrito fue hallado en un baño de la sede central.",
+        "El mensaje hace referencia al episodio del 16 de octubre en la UNA.",
+        "Las actividades presenciales están suspendidas hasta el viernes 23."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-10-24T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Amenaza de tiroteo en universidad privada obliga a suspender las clases",
+          "url": "https://elnacional.com.py/nacionales/amenaza-tiroteo-universidad-privada-obliga-suspender-clases-n113991",
+          "publishedAt": "2026-10-22T11:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad9f48fabb73.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Amenaza contra la Universidad Americana obliga a suspender las clases presenciales",
+          "url": "https://www.adndigital.com.py/amenaza-contra-la-universidad-americana-obliga-a-suspender-las-clases-presenciales",
+          "publishedAt": "2026-10-22T09:51:21.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-064627.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Amenaza en universidad obliga a suspender las actividades presenciales",
+          "url": "https://www.lanacion.com.py/pais/2026/10/21/amenaza-en-universidad-obliga-a-suspender-las-actividades-presenciales",
+          "publishedAt": "2026-10-22T00:25:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wqLuGA-Tx2E9omI69Haf7pBtaIE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PJTIBRYIT5HG7LZWU4PJQ4LKHM.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "“La Universidad Americana es la siguiente”: nueva amenaza obliga a suspender actividades",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/la-universidad-americana-es-la-siguiente-nueva-amenaza-obliga-a-suspender-actividades",
+          "publishedAt": "2026-10-21T23:35:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/O6XDNXTTP5HOPBONA7DVHCWU7Y.png?auth=dc7ccbb3428a6e10e61cdb259e64ab0f76b63a2e43f89114787d0054c1ff55dd&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-064627.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/amenaza-contra-la-universidad-americana-obliga-a-suspender-las-clases-presenciales"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T12:07:14.720Z",
+      "updatedSlot": "manana",
+      "score": 17.98
+    },
+    {
+      "id": "ev-17cetd0",
+      "title": "EE. UU. instalará en Asunción una oficina regional contra el narcotráfico",
+      "summary": "Estados Unidos anunció la instalación en Asunción de una oficina antinarcóticos. Funcionará como centro de coordinación de sus programas de seguridad para el Cono Sur. La iniciativa tendrá asistencia de USD 6,25 millones contra el crimen organizado transnacional y las finanzas ilícitas. El anuncio se dio tras la visita del subsecretario de Estado Christopher Landau a Paraguay. Washington también enviará un consejero de embajada para temas de antiterrorismo.",
+      "keyPoints": [
+        "La oficina será parte de la INL, de Asuntos Internacionales de Narcóticos.",
+        "La asistencia económica anunciada es de USD 6,25 millones.",
+        "Por primera vez habrá un consejero de embajada para temas de antiterrorismo."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -89,48 +148,107 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña viajó a EE. UU. para reunirse con jefe de la CIA y hablar en foros",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/pena-viajo-a-ee-uu-para-reunirse-con-jefe-de-la-cia-y-hablar-en-foros",
-          "publishedAt": "2026-10-22T03:22:35.000Z",
-          "image": "https://www.lanacion.com.py/resizer/9fRjCeuuxWGB9PkMyzes3IHsb10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MLJDRKW3YVBT5NVUDMLBRZ23MQ.jpg"
-        },
-        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Santiago Peña se reunirá con el director de la CIA en Washington",
-          "url": "https://elnacional.com.py/politica/santiago-pena-reunira-director-cia-washington-n113964",
-          "publishedAt": "2026-10-21T20:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad8e09fdea61.jpeg"
+          "title": "EE.UU. instalará en Paraguay una oficina regional contra el narcotráfico y destinará USD 6,25 millones",
+          "url": "https://elnacional.com.py/politica/eeuu-instalara-paraguay-una-oficina-regional-narcotrafico-destinara-usd-625-millones-n113988",
+          "publishedAt": "2026-10-22T10:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69ec64cb237e0.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "EE.UU. abre una oficina en Paraguay para coordinar acciones contra el crimen",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/21/eeuu-abre-una-oficina-en-paraguay-para-coordinar-acciones-contra-el-crimen",
+          "publishedAt": "2026-10-21T22:31:13.130Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/6XIO7TLCBFCGVCUZLFRN2CK4GU.jfif?auth=e9a3d9c67b9455c34f055546f9a0836220f88f6a25fd7b2ea7c67c9e19c95ef8&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Peña se reunirá con el director de la CIA en Estados Unidos",
-          "url": "https://www.adndigital.com.py/pena-se-reunira-con-el-director-de-la-cia-en-estados-unidos",
-          "publishedAt": "2026-10-21T19:35:58.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-163505.jpeg"
+          "title": "EE. UU. instalará en Asunción un centro regional contra el narcotráfico",
+          "url": "https://www.adndigital.com.py/ee-uu-instalara-en-asuncion-un-centro-regional-contra-el-narcotrafico",
+          "publishedAt": "2026-10-21T21:59:31.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-185849.jpeg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Santiago Peña viajó a EE. UU. y confirmó una reunión clave con el director de la CIA",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/santiago-pena-viajo-a-ee-uu-y-confirmo-una-reunion-clave-con-el-director-de-la-cia",
-          "publishedAt": "2026-10-21T18:00:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ddpBH9JOrUb-WHD8fX-wnG_saNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYQPQR2LCVFPRFACIIXZHBO5QI.jpg"
+          "title": "EE. UU. anuncia oficina antinarcóticos en Asunción para coordinar operaciones en Cono Sur",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/ee-uu-anuncia-oficina-antinarcoticos-en-asuncion-para-coordinar-operaciones-en-cono-sur",
+          "publishedAt": "2026-10-21T20:43:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/SSOshpvFTt0SrO74WQga6tIAio8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4LRIJB75BFFY3GIJ4T6WR3ZOWE.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MLJDRKW3YVBT5NVUDMLBRZ23MQ.jpg?auth=cbc0cb2ddf66a864ee4badb7b6f5a5ede375c18b6f7e06af6d3f81d54d73937a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/pena-viajo-a-ee-uu-para-reunirse-con-jefe-de-la-cia-y-hablar-en-foros"
+        "url": "https://statics.elnacional.com.py/2026/04/69ec64cb237e0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/eeuu-instalara-paraguay-una-oficina-regional-narcotrafico-destinara-usd-625-millones-n113988"
       },
       "firstSeenAt": "2026-10-22T08:07:12.645Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
+      "updatedAt": "2026-10-22T12:07:14.720Z",
       "updatedSlot": "manana",
-      "score": 14.6
+      "score": 17.9
+    },
+    {
+      "id": "ev-06pjsn9",
+      "title": "Gustavo Leite pide cambios en el Gobierno y ve al cartismo fuerte",
+      "summary": "El senador Gustavo Leite pidió al Gobierno corregir su rumbo para evitar una derrota electoral en 2028. Reconoció que la ANR está desgastada, pero dijo que Honor Colorado mantendrá su fuerza. También descartó el retiro político de Horacio Cartes, pese a sus diferencias con Santiago Peña. Leite instó al Partido Colorado a enfocarse en la oposición.",
+      "keyPoints": [
+        "Leite pidió cambios en la gestión del Gobierno.",
+        "Reconoció que la ANR está desgastada.",
+        "Descartó el retiro político de Horacio Cartes."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Gustavo Leite pide cambios en el Gobierno y advierte sobre el avance de la oposición: \"El enemigo es Prieto\"",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/gustavo-leite-pide-cambios-en-el-gobierno-y-advierte-sobre-el-avance-de-la-oposicion-el-enemigo-es-prieto",
+          "publishedAt": "2026-10-22T12:04:40.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Honor Colorado no desaparecerá y resalta liderazgo de Horacio Cartes",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/honor-colorado-no-desaparecera-y-resalta-liderazgo-de-horacio-cartes",
+          "publishedAt": "2026-10-22T03:09:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Vvc-NgjlxLRxJd_W9BgJUGZ3NxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5O6ODRQPPJASPGC3L3GVGAUBD4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Leite asegura que el cartismo estará más fuerte: \"Cartes no va a salir del corazón de la gente\"",
+          "url": "https://elnacional.com.py/politica/leite-asegura-cartismo-estara-mas-fuerte-cartes-va-salir-corazon-gente-n113967",
+          "publishedAt": "2026-10-21T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aaafbd37c0d1.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Leite afirma que Honor Colorado se fortalecerá y resalta el liderazgo de Cartes",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/leite-afirma-que-honor-colorado-se-fortalecera-y-resalta-el-liderazgo-de-cartes",
+          "publishedAt": "2026-10-21T13:00:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tDiWuxypYvlKywGS21kBocYkgEY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IH3HHC63KNE4DBHXQ2SEGFETRM.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5O6ODRQPPJASPGC3L3GVGAUBD4.jpg?auth=4feb1e58664cfa5a11349c91d7e477d6fca12b2d3efc1bb10dd0ec73c2582638&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/honor-colorado-no-desaparecera-y-resalta-liderazgo-de-horacio-cartes"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T12:07:14.720Z",
+      "updatedSlot": "manana",
+      "score": 15
     },
     {
       "id": "ev-0vixz6u",
@@ -189,7 +307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.24
     },
     {
       "id": "ev-08wp8pe",
@@ -240,7 +358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.36
+      "score": 13.03
     },
     {
       "id": "ev-12s7msu",
@@ -291,7 +409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.11
+      "score": 12.77
     },
     {
       "id": "ev-0laixsu",
@@ -342,7 +460,134 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 13.1
+      "score": 12.77
+    },
+    {
+      "id": "ev-11ug3hq",
+      "title": "Peña viaja a Estados Unidos para reunirse con el director de la CIA",
+      "summary": "El presidente Santiago Peña llegó a Estados Unidos y cumplirá agenda hasta el viernes 23. Anunció una reunión con John Ratcliffe, director de la CIA. También visitará la Universidad George Washington y participará como orador principal en el Diálogo Interamericano, donde hablará sobre el impulso económico de Paraguay.",
+      "keyPoints": [
+        "Peña viajó a Estados Unidos el miércoles 21 de octubre.",
+        "Se reunirá con John Ratcliffe, director de la Agencia Central de Inteligencia (CIA).",
+        "Será orador principal en el evento anual del Diálogo Interamericano.",
+        "Visitará la Universidad George Washington."
+      ],
+      "category": "politica",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña disertará en EE. UU. sobre el histórico impulso económico de Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/10/22/santiago-pena-disertara-en-ee-uu-sobre-el-historico-impulso-economico-de-paraguay",
+          "publishedAt": "2026-10-22T10:44:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/w-PTgQCoGBNciSs6Id1lBO9eg3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/553UWEPZUZGPNE6UHV6YZWTOAM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña viajó a EE. UU. para reunirse con jefe de la CIA y hablar en foros",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/pena-viajo-a-ee-uu-para-reunirse-con-jefe-de-la-cia-y-hablar-en-foros",
+          "publishedAt": "2026-10-22T03:22:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9fRjCeuuxWGB9PkMyzes3IHsb10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MLJDRKW3YVBT5NVUDMLBRZ23MQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Santiago Peña se reunirá con el director de la CIA en Washington",
+          "url": "https://elnacional.com.py/politica/santiago-pena-reunira-director-cia-washington-n113964",
+          "publishedAt": "2026-10-21T20:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad8e09fdea61.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña se reunirá con el director de la CIA en Estados Unidos",
+          "url": "https://www.adndigital.com.py/pena-se-reunira-con-el-director-de-la-cia-en-estados-unidos",
+          "publishedAt": "2026-10-21T19:35:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-21-at-163505.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña viajó a EE. UU. y confirmó una reunión clave con el director de la CIA",
+          "url": "https://www.lanacion.com.py/politica/2026/10/21/santiago-pena-viajo-a-ee-uu-y-confirmo-una-reunion-clave-con-el-director-de-la-cia",
+          "publishedAt": "2026-10-21T18:00:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ddpBH9JOrUb-WHD8fX-wnG_saNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYQPQR2LCVFPRFACIIXZHBO5QI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/553UWEPZUZGPNE6UHV6YZWTOAM.jpg?auth=6dc86c6e3248b9cc3026db56e2a096c11d81db6237915985ff0a894b5061978f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/22/santiago-pena-disertara-en-ee-uu-sobre-el-historico-impulso-economico-de-paraguay"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T12:07:14.720Z",
+      "updatedSlot": "manana",
+      "score": 12.38
+    },
+    {
+      "id": "ev-0c7ezfn",
+      "title": "Lula y Flávio Bolsonaro se piden anular candidaturas en la justicia electoral",
+      "summary": "Flávio Bolsonaro pidió a la justicia electoral anular la candidatura de Lula por propaganda indebida en WhatsApp. Lula también pidió anular la candidatura de Flávio, por una presunta interferencia de Meta. Las notas no incluyen la respuesta de la otra parte. Ambos pedidos se dan en la campaña rumbo a la segunda vuelta presidencial en Brasil.",
+      "keyPoints": [
+        "Flávio Bolsonaro acusa a Lula de propaganda indebida en WhatsApp.",
+        "Lula denuncia una presunta interferencia de Meta.",
+        "Ambos pedidos se producen durante la campaña para la segunda vuelta."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula pide anular la candidatura de Flávio Bolsonaro por presunta interferencia de Meta",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/22/lula-pide-anular-la-candidatura-de-flavio-bolsonaro-por-presunta-interferencia-de-meta",
+          "publishedAt": "2026-10-22T09:15:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Rer7yUyGHqNnqcuZiVVW519BDIU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H7AH7SRFVVBFDLRVZY7MDJ7MXU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula y Bolsonaro se impugnan",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/22/lula-y-bolsonaro-se-impugnan",
+          "publishedAt": "2026-10-22T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/T8F-dlpX1huGZVdK3KpHdRzw-BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WGAPE4HXJFEHJM5R7JPTVLDMMA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La campaña de Lula pide anular candidatura de Flávio Bolsonaro por injerencia de Meta y X",
+          "url": "https://www.abc.com.py/internacionales/2026/10/21/la-campana-de-lula-pide-anular-candidatura-de-flavio-bolsonaro-por-injerencia-de-meta-y-x",
+          "publishedAt": "2026-10-22T00:50:08.000Z",
+          "image": "https://www.abc.com.py/resizer/GnDQlP0ZuBTO_jRZo58VnIMxhdw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VU6YZN5KHFF6FJZOYMUNITH7YI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Brasil: Bolsonaro pidió a la Justicia electoral anular la candidatura de Lula y el presidente lo denunciará por manipulación de redes",
+          "url": "https://www.adndigital.com.py/brasil-bolsonaro-pidio-a-la-justicia-electoral-anular-la-candidatura-de-lula-y-el-presidente-lo-denunciara-por-manipulacion-de-redes",
+          "publishedAt": "2026-10-21T19:48:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/lula-y-flavio.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H7AH7SRFVVBFDLRVZY7MDJ7MXU.jpg?auth=9ea2ef94615883c58a05f8788f7a98fc0b0f2dda82d36975426a0a0ec12a3363&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/22/lula-pide-anular-la-candidatura-de-flavio-bolsonaro-por-presunta-interferencia-de-meta"
+      },
+      "firstSeenAt": "2026-10-22T08:07:12.645Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-22T12:07:14.720Z",
+      "updatedSlot": "manana",
+      "score": 12.26
     },
     {
       "id": "ev-1hk7lce",
@@ -402,111 +647,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 11.58
-    },
-    {
-      "id": "ev-0c7ezfn",
-      "title": "Flávio Bolsonaro pide anular la candidatura de Lula por propaganda indebida",
-      "summary": "Flávio Bolsonaro pidió a la Justicia electoral de Brasil que anule la candidatura de Lula por presunta propaganda indebida en WhatsApp. La campaña de Lula, por su parte, presentó una querella contra Bolsonaro y su compañero de fórmula por presunto uso indebido de medios y abuso de poder económico. Son acusaciones de cada parte, sin resolución judicial.",
-      "keyPoints": [
-        "Flávio Bolsonaro pidió al TSE anular la candidatura de Lula.",
-        "Bolsonaro acusa a Lula de propaganda indebida en WhatsApp.",
-        "La campaña de Lula presentó una querella de 139 páginas contra Bolsonaro.",
-        "La querella denuncia presunto uso indebido de medios y abuso de poder económico."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lula y Bolsonaro se impugnan",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/22/lula-y-bolsonaro-se-impugnan",
-          "publishedAt": "2026-10-22T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/T8F-dlpX1huGZVdK3KpHdRzw-BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WGAPE4HXJFEHJM5R7JPTVLDMMA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La campaña de Lula pide anular candidatura de Flávio Bolsonaro por injerencia de Meta y X",
-          "url": "https://www.abc.com.py/internacionales/2026/10/21/la-campana-de-lula-pide-anular-candidatura-de-flavio-bolsonaro-por-injerencia-de-meta-y-x",
-          "publishedAt": "2026-10-22T00:50:08.000Z",
-          "image": "https://www.abc.com.py/resizer/GnDQlP0ZuBTO_jRZo58VnIMxhdw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VU6YZN5KHFF6FJZOYMUNITH7YI.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Brasil: Bolsonaro pidió a la Justicia electoral anular la candidatura de Lula y el presidente lo denunciará por manipulación de redes",
-          "url": "https://www.adndigital.com.py/brasil-bolsonaro-pidio-a-la-justicia-electoral-anular-la-candidatura-de-lula-y-el-presidente-lo-denunciara-por-manipulacion-de-redes",
-          "publishedAt": "2026-10-21T19:48:16.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/lula-y-flavio.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WGAPE4HXJFEHJM5R7JPTVLDMMA.jpg?auth=2a87488588e2c89f9e51e9ff1ff36b7d65a7d32df81402bce1feb609e7e563d9&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/22/lula-y-bolsonaro-se-impugnan"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 11.08
-    },
-    {
-      "id": "ev-06pjsn9",
-      "title": "Leite afirma que Honor Colorado seguirá fuerte pese a la salida de Cartes",
-      "summary": "El senador Gustavo Leite aseguró que Honor Colorado mantendrá su fuerza política pese a las diferencias entre Horacio Cartes y Santiago Peña. Reconoció que la ANR está desgastada y pidió cambios en la gestión del Gobierno para evitar una derrota en 2028. Cartes anunció que no presentará candidaturas en las internas de 2027.",
-      "keyPoints": [
-        "Cartes anunció que no presentará candidaturas en las internas de 2027.",
-        "Leite dice que Honor Colorado no desaparecerá.",
-        "Leite reconoce que la ANR está desgastada.",
-        "Leite pide cambios en la gestión del Gobierno."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Leite asegura que el cartismo estará más fuerte: \"Cartes no va a salir del corazón de la gente\"",
-          "url": "https://elnacional.com.py/politica/leite-asegura-cartismo-estara-mas-fuerte-cartes-va-salir-corazon-gente-n113967",
-          "publishedAt": "2026-10-21T21:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6aaafbd37c0d1.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Leite afirma que Honor Colorado se fortalecerá y resalta el liderazgo de Cartes",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/leite-afirma-que-honor-colorado-se-fortalecera-y-resalta-el-liderazgo-de-cartes",
-          "publishedAt": "2026-10-21T13:00:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tDiWuxypYvlKywGS21kBocYkgEY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IH3HHC63KNE4DBHXQ2SEGFETRM.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Honor Colorado no desaparecerá y resalta liderazgo de Horacio Cartes",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/22/honor-colorado-no-desaparecera-y-resalta-liderazgo-de-horacio-cartes",
-          "publishedAt": "2026-10-22T03:09:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Vvc-NgjlxLRxJd_W9BgJUGZ3NxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5O6ODRQPPJASPGC3L3GVGAUBD4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/09/6aaafbd37c0d1.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/leite-asegura-cartismo-estara-mas-fuerte-cartes-va-salir-corazon-gente-n113967"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 10.59
+      "score": 11.24
     },
     {
       "id": "ev-0y9me13",
@@ -550,51 +691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 9.66
-    },
-    {
-      "id": "ev-1ovgnwh",
-      "title": "Universidad Americana suspende clases presenciales tras una nueva amenaza",
-      "summary": "La Universidad Americana suspendió de forma preventiva las actividades presenciales en su sede central de Asunción. La medida se tomó por una amenaza escrita en una pared de la institución. Un mensaje hallado en un baño indica que la universidad sería el próximo objetivo, en referencia a un episodio ocurrido el 16 de octubre en la UNA.",
-      "keyPoints": [
-        "La suspensión rige en la sede central en Asunción.",
-        "La amenaza fue escrita en una pared y en un baño de la institución.",
-        "El mensaje hace referencia a un episodio del 16 de octubre en la UNA.",
-        "Las actividades presenciales quedan suspendidas hasta el viernes 23."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-10-24T02:59:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Amenaza en universidad obliga a suspender las actividades presenciales",
-          "url": "https://www.lanacion.com.py/pais/2026/10/21/amenaza-en-universidad-obliga-a-suspender-las-actividades-presenciales",
-          "publishedAt": "2026-10-22T00:25:48.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wqLuGA-Tx2E9omI69Haf7pBtaIE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PJTIBRYIT5HG7LZWU4PJQ4LKHM.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "“La Universidad Americana es la siguiente”: nueva amenaza obliga a suspender actividades",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/21/la-universidad-americana-es-la-siguiente-nueva-amenaza-obliga-a-suspender-actividades",
-          "publishedAt": "2026-10-21T23:35:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/O6XDNXTTP5HOPBONA7DVHCWU7Y.png?auth=dc7ccbb3428a6e10e61cdb259e64ab0f76b63a2e43f89114787d0054c1ff55dd&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PJTIBRYIT5HG7LZWU4PJQ4LKHM.jpg?auth=56020b0380e3ebca39e2522753a6934bf3bcfcc08a6cc5049d817c13bc7b8956&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/21/amenaza-en-universidad-obliga-a-suspender-las-actividades-presenciales"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.32
     },
     {
       "id": "ev-0v9rdsp",
@@ -638,51 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 9.22
-    },
-    {
-      "id": "ev-17cetd0",
-      "title": "EE.UU. abrirá una oficina antinarcóticos en Asunción para coordinar operaciones regionales",
-      "summary": "Estados Unidos abrirá una oficina antinarcóticos en Asunción que coordinará operaciones en el Cono Sur. Según el Departamento de Estado, también enviará por primera vez un consejero de embajada para temas de antiterrorismo. La asistencia de seguridad anunciada asciende a US$ 6,25 millones. Las notas señalan además acuerdos contra el narcotráfico y nuevas inversiones.",
-      "keyPoints": [
-        "El Departamento de Estado anunció una oficina antinarcóticos en Asunción.",
-        "La oficina coordinará operaciones en el Cono Sur.",
-        "Se anunciaron US$ 6,25 millones en asistencia de seguridad.",
-        "Enviará por primera vez un consejero de embajada para antiterrorismo."
-      ],
-      "category": "internacional",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "EE.UU. abre una oficina en Paraguay para coordinar acciones contra el crimen",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/21/eeuu-abre-una-oficina-en-paraguay-para-coordinar-acciones-contra-el-crimen",
-          "publishedAt": "2026-10-21T22:31:13.130Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/6XIO7TLCBFCGVCUZLFRN2CK4GU.jfif?auth=e9a3d9c67b9455c34f055546f9a0836220f88f6a25fd7b2ea7c67c9e19c95ef8&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "EE. UU. anuncia oficina antinarcóticos en Asunción para coordinar operaciones en Cono Sur",
-          "url": "https://www.lanacion.com.py/politica/2026/10/21/ee-uu-anuncia-oficina-antinarcoticos-en-asuncion-para-coordinar-operaciones-en-cono-sur",
-          "publishedAt": "2026-10-21T20:43:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/SSOshpvFTt0SrO74WQga6tIAio8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4LRIJB75BFFY3GIJ4T6WR3ZOWE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/6XIO7TLCBFCGVCUZLFRN2CK4GU.jfif?auth=e9a3d9c67b9455c34f055546f9a0836220f88f6a25fd7b2ea7c67c9e19c95ef8&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/21/eeuu-abre-una-oficina-en-paraguay-para-coordinar-acciones-contra-el-crimen"
-      },
-      "firstSeenAt": "2026-10-22T08:07:12.645Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-22T08:07:12.645Z",
-      "updatedSlot": "manana",
-      "score": 9.2
+      "score": 8.88
     },
     {
       "id": "ev-1lel1lv",
@@ -726,7 +779,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 9.11
+      "score": 8.78
     },
     {
       "id": "ev-06i9f8g",
@@ -766,7 +819,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.93
+      "score": 8.59
     },
     {
       "id": "ev-07q6ucs",
@@ -810,7 +863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.88
+      "score": 8.54
     },
     {
       "id": "ev-067h3dw",
@@ -854,7 +907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.46
     },
     {
       "id": "ev-02gvf26",
@@ -898,7 +951,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 8.13
+      "score": 8
     },
     {
       "id": "ev-1cp0m8c",
@@ -950,7 +1003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 7.63
+      "score": 7.3
     },
     {
       "id": "ev-0y7xe9b",
@@ -994,7 +1047,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.26
     },
     {
       "id": "ev-050rf1a",
@@ -1038,7 +1091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-07odnq8",
@@ -1081,7 +1134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-01t91lt",
@@ -1124,7 +1177,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.07
     },
     {
       "id": "ev-0uwk0ww",
@@ -1155,7 +1208,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-09gpj07",
@@ -1184,7 +1237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0gjrost",
@@ -1213,7 +1266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1i1yf61",
@@ -1242,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1pevic2",
@@ -1278,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-00l0ei9",
@@ -1314,7 +1367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1ns896w",
@@ -1350,7 +1403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0bzbbdp",
@@ -1386,7 +1439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0u9bj8z",
@@ -1420,7 +1473,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-054e6dn",
@@ -1455,7 +1508,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.3
     },
     {
       "id": "ev-0fl95mg",
@@ -1490,7 +1543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0ikrbk2",
@@ -1523,7 +1576,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.86
     },
     {
       "id": "ev-1jamit9",
@@ -1558,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 5.17
+      "score": 4.83
     },
     {
       "id": "ev-04wuxb3",
@@ -1593,7 +1646,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.92
+      "score": 4.59
     },
     {
       "id": "ev-0p89qe6",
@@ -1628,7 +1681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.46
     },
     {
       "id": "ev-0mkjl6t",
@@ -1667,7 +1720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.12
     },
     {
       "id": "ev-0ivmu1c",
@@ -1706,7 +1759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.11
     },
     {
       "id": "ev-03tkkzc",
@@ -1746,7 +1799,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.37
+      "score": 4.03
     },
     {
       "id": "ev-0c564ln",
@@ -1781,7 +1834,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.36
+      "score": 4.03
     },
     {
       "id": "ev-0p2cb1w",
@@ -1821,7 +1874,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 4.15
+      "score": 3.82
     },
     {
       "id": "ev-0lt35vb",
@@ -1852,7 +1905,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.14
     },
     {
       "id": "ev-07i5wn6",
@@ -1883,7 +1936,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.43
+      "score": 3.09
     },
     {
       "id": "ev-159gviq",
@@ -1914,7 +1967,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3.05
     },
     {
       "id": "ev-02xzrov",
@@ -1945,7 +1998,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3.05
     },
     {
       "id": "ev-0blzfe4",
@@ -1976,7 +2029,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.36
+      "score": 3.03
     },
     {
       "id": "ev-039m39s",
@@ -2007,7 +2060,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.24
+      "score": 2.91
     },
     {
       "id": "ev-0wv6j34",
@@ -2038,7 +2091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-22T08:07:12.645Z",
       "updatedSlot": "manana",
-      "score": 3.23
+      "score": 2.9
     }
   ],
   "runs": [
@@ -2048,6 +2101,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 63
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-22T12:07:14.720Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 14
     }
   ]
 }
