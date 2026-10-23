@@ -1,11 +1,186 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-23T08:07:10.585Z",
+  "generatedAt": "2026-10-23T12:07:16.724Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1n283gk",
+      "title": "Meteorología advierte lluvias y tormentas para el fin de semana",
+      "summary": "La Dirección Nacional de Meteorología informa que núcleos de tormentas comenzaron a desarrollarse al sur de la región Oriental. Se prevé que persistan y se extiendan a otros departamentos a lo largo del viernes. Podrían generar lluvias en varias zonas del país.",
+      "keyPoints": [
+        "Los núcleos de tormentas se formaron al sur de la región Oriental.",
+        "Se prevé que se extiendan a otros departamentos durante el viernes.",
+        "Existe probabilidad de lluvias en varias zonas del país."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-10-25T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Fin de semana con lluvias y tormentas",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-fin-semana-lluvias-tormentas-n114041",
+          "publishedAt": "2026-10-23T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/03/998372ebe927b7b44348b0b646594be6.webp"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Viernes cálido a caluroso, con lluvias y tormentas en varias regiones, prevé Meteorología",
+          "url": "https://www.ultimahora.com/viernes-calido-a-caluroso-con-lluvias-y-tormentas-en-varias-regiones-preve-meteorologia",
+          "publishedAt": "2026-10-23T09:50:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ciudad del Este tendrá un fin de semana lluvioso y con tormentas eléctricas",
+          "url": "https://www.abc.com.py/este/2026/10/23/ciudad-del-este-tendra-un-fin-de-semana-lluvioso-y-con-tormentas-electricas",
+          "publishedAt": "2026-10-23T09:48:18.000Z",
+          "image": "https://www.abc.com.py/resizer/rmIJsVUz9u67FgDhMhURrbod_GI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2YBUK6VLBRCIXENID7TLN4GK64.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fin de semana con lluvias y tormentas",
+          "url": "https://www.adndigital.com.py/fin-de-semana-con-lluvias-y-tormentas-5",
+          "publishedAt": "2026-10-23T09:47:13.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2020/12/lluvia.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Prevén jornadas calurosas con lluvias dispersas",
+          "url": "https://www.npy.com.py/noticias/nacionales/preven-jornadas-calurosas-con-lluvias-dispersas",
+          "publishedAt": "2026-10-23T09:39:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Meteorología prevé un fin de semana con tiempo inestable",
+          "url": "https://www.lanacion.com.py/pais/2026/10/23/meteorologia-preve-un-fin-de-semana-con-tiempo-inestable",
+          "publishedAt": "2026-10-23T09:38:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aYRpPAypspN1sy_jH4fG-EhspVo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EYSGBDQZWFGMPBKROB6TNIEORQ.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lluvias y tormentas en el día más caluroso de la semana",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/lluvias-y-tormentas-en-el-dia-mas-caluroso-de-la-semana",
+          "publishedAt": "2026-10-23T08:13:03.377Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LYKYSOEWIBA3BL44SNNZWURYXM.jpeg?auth=493f1fc40af9c35144526cdc90f99cb0a6e07dffa6f5ff79e9d8d55ea42dbae5&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alerta de fuertes tormentas hoy en Central y otros departamentos",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/23/alerta-de-fuertes-tormentas-hoy-en-central-y-otros-departamentos",
+          "publishedAt": "2026-10-23T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mKVg5I2H1kaRvUHBDHI3uLYWwJk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5WNHUVJIDNG6BLQTBIUPR3GL6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alertan que sistema de tormentas afectará a gran parte del país entre el viernes y el sábado",
+          "url": "https://www.lanacion.com.py/pais/2026/10/22/alertan-que-sistema-de-tormentas-afectara-a-gran-parte-del-pais-entre-el-viernes-y-el-sabado",
+          "publishedAt": "2026-10-22T21:00:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mGw395mLtzHq_xJ_-OkqH58dYwo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AY26DA6EBRFNRJOBLCL6KRWYAY.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2020/12/lluvia.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/fin-de-semana-con-lluvias-y-tormentas-5"
+      },
+      "firstSeenAt": "2026-10-23T08:07:10.585Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-23T12:07:16.724Z",
+      "updatedSlot": "manana",
+      "score": 26.85
+    },
+    {
+      "id": "ev-0jiremm",
+      "title": "Fiscalía imputa a Eddie Jara por presunto enriquecimiento ilícito; exesposa, por lavado de dinero",
+      "summary": "La Fiscalía imputó al expresidente de Petropar, Eddie Jara, por presunto enriquecimiento ilícito. La investigación detectó una diferencia patrimonial de unos G. 5.399 millones que no fue justificada. Su exesposa, Karina Otazú, fue imputada por presunto lavado de dinero. La causa surgió de antecedentes enviados por la Contraloría General de la República. La fiscala Yeimy Adle pidió medidas alternativas a la prisión preventiva para Jara.",
+      "keyPoints": [
+        "La imputación fue formulada por la Unidad Penal N° 11 de Delitos Económicos y Anticorrupción.",
+        "La diferencia patrimonial no justificada ronda los G. 5.399 millones.",
+        "La denuncia partió de la Contraloría General de la República.",
+        "Karina Otazú fue imputada por presunto lavado de dinero."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Eddie Jara no pudo justificar G. 5.000 millones de su patrimonio, según la investigación de Fiscalía",
+          "url": "https://www.ultimahora.com/eddie-jara-no-pudo-justificar-g-5-000-millones-de-su-patrimonio-segun-la-investigacion-de-fiscalia",
+          "publishedAt": "2026-10-23T11:34:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Imputación a Eddie Jara: movimientos de montos altos en efectivo despertaron sospechas, según fiscalía",
+          "url": "https://www.abc.com.py/politica/2026/10/23/imputacion-a-eddie-jara-movimientos-de-montos-altos-en-efectivo-despertaron-sospechas-segun-fiscalia",
+          "publishedAt": "2026-10-23T10:50:22.000Z",
+          "image": "https://www.abc.com.py/resizer/I63xXvgjbVTQDVqYa1ROqdi4xso=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BGLJE37SEFDALMYPN75VV4WN7Y.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Imputan a Eddie Jara por enriquecimiento ilícito y detectan G. 5.400 millones sin justificar",
+          "url": "https://www.adndigital.com.py/imputan-a-eddie-jara-por-enriquecimiento-ilicito-y-detectan-g-5-400-millones-sin-justificar",
+          "publishedAt": "2026-10-23T10:00:33.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-23-at-065119.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Imputan a Eddie Jara por enriquecimiento ilícito: G. 5.400 millones sin justificar",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/imputan-a-eddie-jara-por-enriquecimiento-ilicito-g-5400-millones-sin-justificar",
+          "publishedAt": "2026-10-23T08:47:08.074Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/DNFDFO5SNJG4JK7QSKQEXK2HAU.jpg?auth=114d7347ecaadab08ac0a3dcc6596c0473829820d4b4e54b217f01e2d1a43cb4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Imputan a Eddie Jara, extitular de Petropar por enriquecimiento ilícito",
+          "url": "https://www.lanacion.com.py/pais/2026/10/22/imputan-a-eddie-jara-extitular-de-petropar-por-enriquecimiento-ilicito",
+          "publishedAt": "2026-10-23T00:51:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1awDAhAUlB4ZdSk7jTcqTRrE8tM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OPYILKQNE5CXPF7H76HBHT5H5Y.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Imputan a Eddie Jara por presunto enriquecimiento ilícito y a su exesposa por lavado de activos",
+          "url": "https://elnacional.com.py/politica/imputan-eddie-jara-presunto-enriquecimiento-ilicito-su-exesposa-lavado-activos-n114033",
+          "publishedAt": "2026-10-23T00:34:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69b04c129ad9c.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/BGLJE37SEFDALMYPN75VV4WN7Y.jfif?auth=a5265eed57c905f22df688c53c6714cae444cb1d57b10a5badba3f9efff09c54&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/23/imputacion-a-eddie-jara-movimientos-de-montos-altos-en-efectivo-despertaron-sospechas-segun-fiscalia"
+      },
+      "firstSeenAt": "2026-10-23T08:07:10.585Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-23T12:07:16.724Z",
+      "updatedSlot": "manana",
+      "score": 23.95
+    },
     {
       "id": "ev-0id90ir",
       "title": "Contraloría detecta más de 1.090 funcionarios con presuntos títulos falsos",
@@ -72,7 +247,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.24
     },
     {
       "id": "ev-0tyomu0",
@@ -132,7 +307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 14.04
+      "score": 13.71
     },
     {
       "id": "ev-0y4xl7u",
@@ -183,7 +358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 12.9
+      "score": 12.56
     },
     {
       "id": "ev-1qa2mnv",
@@ -234,7 +409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1tqshnf",
@@ -277,51 +452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.91
-    },
-    {
-      "id": "ev-0jiremm",
-      "title": "Fiscalía imputa a Eddie Jara por enriquecimiento ilícito y a su exesposa por lavado",
-      "summary": "La Fiscalía imputó al extitular de Petropar Eddie Jara por presunto enriquecimiento ilícito. Su exesposa, Karina Otazú, fue imputada por presunto lavado de activos. La denuncia partió de la Contraloría General de la República, que detectó presuntas irregularidades en las declaraciones juradas. La investigación apunta a un incremento patrimonial de unos G. 5.399 millones que no tendría respaldo en sus ingresos lícitos.",
-      "keyPoints": [
-        "La Fiscalía imputó a Eddie Jara por presunto enriquecimiento ilícito.",
-        "Karina Otazú fue imputada por presunto lavado de activos.",
-        "La denuncia fue presentada por la Contraloría General de la República.",
-        "El incremento patrimonial investigado alcanzaría unos G. 5.399 millones."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Imputan a Eddie Jara, extitular de Petropar por enriquecimiento ilícito",
-          "url": "https://www.lanacion.com.py/pais/2026/10/22/imputan-a-eddie-jara-extitular-de-petropar-por-enriquecimiento-ilicito",
-          "publishedAt": "2026-10-23T00:51:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1awDAhAUlB4ZdSk7jTcqTRrE8tM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OPYILKQNE5CXPF7H76HBHT5H5Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Imputan a Eddie Jara por presunto enriquecimiento ilícito y a su exesposa por lavado de activos",
-          "url": "https://elnacional.com.py/politica/imputan-eddie-jara-presunto-enriquecimiento-ilicito-su-exesposa-lavado-activos-n114033",
-          "publishedAt": "2026-10-23T00:34:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/03/69b04c129ad9c.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OPYILKQNE5CXPF7H76HBHT5H5Y.jpg?auth=049d337c95feef7745d8f8b7157ab1d811e7ccfd40720c0ed9ed7a27cd0b76b4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/22/imputan-a-eddie-jara-extitular-de-petropar-por-enriquecimiento-ilicito"
-      },
-      "firstSeenAt": "2026-10-23T08:07:10.585Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-23T08:07:10.585Z",
-      "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.57
     },
     {
       "id": "ev-1tqm2vc",
@@ -364,7 +495,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.37
+      "score": 9.03
     },
     {
       "id": "ev-1122dlo",
@@ -408,7 +539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.34
+      "score": 9.01
     },
     {
       "id": "ev-1qjg43e",
@@ -451,7 +582,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.98
     },
     {
       "id": "ev-15cpa80",
@@ -494,7 +625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.27
+      "score": 8.94
     },
     {
       "id": "ev-0k07q8o",
@@ -537,7 +668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-17zqkuy",
@@ -580,7 +711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-127l09n",
@@ -623,7 +754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.77
     },
     {
       "id": "ev-0xoxgf1",
@@ -666,7 +797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.66
     },
     {
       "id": "ev-1ntdjan",
@@ -709,7 +840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.63
     },
     {
       "id": "ev-1lb7z4x",
@@ -752,7 +883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-0vf4uae",
@@ -795,7 +926,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.71
+      "score": 8.37
     },
     {
       "id": "ev-1qxadro",
@@ -839,7 +970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.36
     },
     {
       "id": "ev-0r7fsnv",
@@ -891,7 +1022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.26
+      "score": 7.93
     },
     {
       "id": "ev-0ysiwji",
@@ -942,7 +1073,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 7.58
+      "score": 7.25
     },
     {
       "id": "ev-12l8xvs",
@@ -985,7 +1116,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-0y640rs",
@@ -1028,7 +1159,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.61
+      "score": 6.28
     },
     {
       "id": "ev-0jsphah",
@@ -1071,7 +1202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.6
+      "score": 6.27
     },
     {
       "id": "ev-05nkajw",
@@ -1114,7 +1245,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1djo09c",
@@ -1157,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1mie7qg",
@@ -1200,50 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-1n283gk",
-      "title": "Alertan por tormentas fuertes en gran parte del país hasta el sábado",
-      "summary": "Un sistema de tormentas afectará a gran parte del país entre el viernes y el sábado, según el pronóstico. Se prevén acumulados de agua de hasta 90 milímetros, fuertes ráfagas de viento y alta probabilidad de granizo.",
-      "keyPoints": [
-        "Se prevén acumulados de hasta 90 milímetros de agua.",
-        "Se esperan fuertes ráfagas de viento.",
-        "Hay alta probabilidad de caída de granizo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-10-25T02:59:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alerta de fuertes tormentas hoy en Central y otros departamentos",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/23/alerta-de-fuertes-tormentas-hoy-en-central-y-otros-departamentos",
-          "publishedAt": "2026-10-23T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mKVg5I2H1kaRvUHBDHI3uLYWwJk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5WNHUVJIDNG6BLQTBIUPR3GL6E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alertan que sistema de tormentas afectará a gran parte del país entre el viernes y el sábado",
-          "url": "https://www.lanacion.com.py/pais/2026/10/22/alertan-que-sistema-de-tormentas-afectara-a-gran-parte-del-pais-entre-el-viernes-y-el-sabado",
-          "publishedAt": "2026-10-22T21:00:31.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mGw395mLtzHq_xJ_-OkqH58dYwo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AY26DA6EBRFNRJOBLCL6KRWYAY.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5WNHUVJIDNG6BLQTBIUPR3GL6E.jpg?auth=e3e559163261617e86c968d232ffca3b2ac4b275eace33892d0bf4fc2229c7a5&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/23/alerta-de-fuertes-tormentas-hoy-en-central-y-otros-departamentos"
-      },
-      "firstSeenAt": "2026-10-23T08:07:10.585Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-23T08:07:10.585Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ad1uuz",
@@ -1286,7 +1374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.01
+      "score": 5.68
     },
     {
       "id": "ev-1aos4k9",
@@ -1316,7 +1404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-16do897",
@@ -1346,7 +1434,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1h2u6e6",
@@ -1375,7 +1463,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0a9kq5m",
@@ -1406,7 +1494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0qxe7kp",
@@ -1435,7 +1523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-10vylkl",
@@ -1464,7 +1552,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-00impmd",
@@ -1499,7 +1587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1lp562n",
@@ -1535,7 +1623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.29
     },
     {
       "id": "ev-14y51n7",
@@ -1569,7 +1657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1tl9zlt",
@@ -1603,7 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0sle00h",
@@ -1638,7 +1726,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.05
     },
     {
       "id": "ev-1hw08vf",
@@ -1673,7 +1761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.96
     },
     {
       "id": "ev-0z7agno",
@@ -1708,7 +1796,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.95
     },
     {
       "id": "ev-1sxfv5q",
@@ -1743,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-1psp3ez",
@@ -1774,7 +1862,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.39
     },
     {
       "id": "ev-0hf9n4a",
@@ -1813,7 +1901,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.1
     },
     {
       "id": "ev-0yln8wa",
@@ -1853,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4
     },
     {
       "id": "ev-1k2dxkl",
@@ -1892,7 +1980,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.23
+      "score": 3.9
     },
     {
       "id": "ev-0xqjqvy",
@@ -1923,7 +2011,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-1y8ktrh",
@@ -1954,7 +2042,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.14
     },
     {
       "id": "ev-0k4ubrj",
@@ -1985,7 +2073,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.07
     },
     {
       "id": "ev-0sxacr6",
@@ -2016,7 +2104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.04
     }
   ],
   "runs": [
@@ -2026,6 +2114,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 68
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-23T12:07:16.724Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 19
     }
   ]
 }
