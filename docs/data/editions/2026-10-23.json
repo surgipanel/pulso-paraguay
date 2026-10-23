@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-23T19:37:12.073Z",
+  "generatedAt": "2026-10-23T23:07:14.534Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
@@ -112,17 +112,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T16:07:10.878Z",
       "updatedSlot": "tarde",
-      "score": 26.63
+      "score": 26.34
     },
     {
       "id": "ev-0jiremm",
       "title": "Fiscalía imputa a Eddie Jara por enriquecimiento ilícito y a su exesposa por lavado",
-      "summary": "La Fiscalía imputó al extitular de Petropar, Eddie Jara, por presunto enriquecimiento ilícito, y a su exesposa, Karina Otazú, por presunto lavado de activos. Según la fiscal Yeimy Adle, Jara no pudo justificar unos G. 5.399 millones de su patrimonio, cerca del 97%. El juez Osmar Legal admitió la imputación, ordenó el secuestro de tres vehículos y el embargo preventivo de fondos, y convocó a los acusados a una audiencia el 6 de noviembre. Los imputados presumen inocencia.",
+      "summary": "La Fiscalía imputó al expresidente de Petropar, Eddie Jara, por presunto enriquecimiento ilícito, y a su exesposa, Karina Otazú, por presunto lavado de activos. Según la fiscala Yeimy Adle, Jara no pudo justificar G. 5.399 millones de su patrimonio. El juez Osmar Legal admitió la imputación y fijó audiencia para noviembre. Los imputados tienen presunción de inocencia.",
       "keyPoints": [
-        "La Fiscalía atribuye a Jara un patrimonio sin justificar de G. 5.399 millones, según la fiscal Yeimy Adle.",
-        "El juez ordenó el secuestro de tres vehículos y el embargo preventivo de cuentas de Jara.",
-        "La audiencia de imposición de medidas está prevista para el 6 de noviembre.",
-        "La Contraloría General de la República presentó la denuncia que originó la investigación."
+        "La Fiscalía imputó a Eddie Jara por presunto enriquecimiento ilícito.",
+        "Karina Otazú fue imputada por presunto lavado de activos.",
+        "Según la Fiscalía, Jara no justificó G. 5.399 millones de su patrimonio.",
+        "La denuncia fue presentada por la Contraloría General de la República."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -130,6 +130,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Embargan cuentas y vehículos de Eddie Jara y su exesposa por investigación patrimonial",
+          "url": "https://www.adndigital.com.py/embargan-cuentas-y-vehiculos-de-eddie-jara-y-su-exesposa-por-investigacion-patrimonial",
+          "publishedAt": "2026-10-23T21:51:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Bloquean bienes y cuentas bancarias de Eddie Jara ante sospechas de corrupción",
+          "url": "https://www.abc.com.py/nacionales/2026/10/23/bloquean-bienes-y-cuentas-bancarias-de-eddie-jara-ante-sospechas-de-corrupcion",
+          "publishedAt": "2026-10-23T20:45:07.000Z",
+          "image": "https://www.abc.com.py/resizer/L1DVeMJf3IGou-fDLP4w2pc1jBc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LQMTG23I4ZHQVAE3ZYI2RST2W4.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juez ordena secuestro de vehículos y embargo de cuentas de Eddie Jara y su exesposa",
+          "url": "https://www.lanacion.com.py/judiciales/2026/10/23/juez-ordena-secuestro-de-vehiculos-y-embargo-de-cuentas-de-eddie-jara-y-su-exesposa",
+          "publishedAt": "2026-10-23T20:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gcDfp1PU78zwhDDUV1sMcZOKpXo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EWZJF5UQF5B7RHA64X4MDRNE2I.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -268,15 +292,83 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ITXQDG3GFVBOHGJGLVM4VSH52I.webp?auth=2aaac10cf7db985ddc3b46e2f9ac9c89f6ae9d2263016a34bfc2662c70b971ac&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/BGLJE37SEFDALMYPN75VV4WN7Y.jfif?auth=a5265eed57c905f22df688c53c6714cae444cb1d57b10a5badba3f9efff09c54&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/23/eddie-jara-solo-pudo-el-justificar-el-2-de-su-patrimonio"
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/23/asi-opero-parte-del-presunto-esquema-de-lavado-de-eddie-jara-segun-la-fiscalia"
       },
       "firstSeenAt": "2026-10-23T08:07:10.585Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-23T19:37:12.073Z",
+      "updatedAt": "2026-10-23T23:07:14.534Z",
       "updatedSlot": "tarde",
-      "score": 24
+      "score": 23.89
+    },
+    {
+      "id": "ev-1122dlo",
+      "title": "Desvinculan a dos funcionarios por presunto desvío de combustible de ambulancias en Itapúa",
+      "summary": "El Ministerio de Salud desvinculó a dos funcionarios contratados de la Séptima Región Sanitaria, en Itapúa. Son acusados de un presunto robo de combustible de dos ambulancias de la Unidad de Salud de la Familia de Cambyretá. La medida se oficializó por la Resolución N.º 279/2026 y el caso fue denunciado ante la Fiscalía.",
+      "keyPoints": [
+        "Dos funcionarios fueron desvinculados por el Ministerio de Salud.",
+        "El presunto desvío de combustible afectó a dos ambulancias en Cambyretá.",
+        "La medida se oficializó mediante la Resolución N.º 279/2026.",
+        "El caso fue denunciado ante la Fiscalía."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Cambyretá: Desvinculan a funcionarios por supuesto \"ordeñe\" de combustible de ambulancias",
+          "url": "https://www.ultimahora.com/cambyreta-desvinculan-a-funcionarios-por-supuesto-ordene-de-combustible-de-ambulancias",
+          "publishedAt": "2026-10-23T21:10:28.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Denuncian desvío de combustible para ambulancias en Itapúa y Villa Hayes",
+          "url": "https://elnacional.com.py/nacionales/denuncian-desvio-combustible-ambulancias-itapua-villa-hayes-n114058",
+          "publishedAt": "2026-10-23T16:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69ac1a66dc3e5.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Rajan a dos funcionarios por presunto desvío de combustible de ambulancias",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/rajan-a-dos-funcionarios-por-presunto-desvio-de-combustible-de-ambulancias",
+          "publishedAt": "2026-10-23T11:09:34.596Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/DEMJIUBMFJEQDNOU2MBFKU5MKQ.jpg?auth=7e2cb89dba6ded980582f74f643f426d2fabf0dcc89dee1d5014f8ed91ba8961&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Isaías Fretes endurece controles y desvincula a dos funcionarios por combustible de ambulancias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/22/isaias-fretes-endurece-controles-y-desvincula-a-dos-funcionarios-por-combustible-de-ambulancias",
+          "publishedAt": "2026-10-23T00:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/kwVC1E4uJ-SvalTWFrnGkVn9CZU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZKBLWEXHHRCLXI54CAVBJCMCJY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Presunto desvío de combustible en ambulancias de Itapúa: hay dos desvinculados",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/22/presunto-desvio-de-combustible-en-ambulancias-de-itapua-hay-dos-desvinculados",
+          "publishedAt": "2026-10-22T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/M7NYFD452VEUXCUVRWGJNYMYMU.jpg?auth=4497e570c32e916ab89cfe09ef43b938ccd3e40efcf66a31bbe89307cf71bf8e&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/03/69ac1a66dc3e5.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/denuncian-desvio-combustible-ambulancias-itapua-villa-hayes-n114058"
+      },
+      "firstSeenAt": "2026-10-23T08:07:10.585Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-23T23:07:14.534Z",
+      "updatedSlot": "tarde",
+      "score": 17.84
     },
     {
       "id": "ev-0id90ir",
@@ -344,7 +436,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.33
     },
     {
       "id": "ev-0tyomu0",
@@ -404,7 +496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 13.08
+      "score": 13
     },
     {
       "id": "ev-0y4xl7u",
@@ -506,7 +598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-1tqshnf",
@@ -549,7 +641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.66
     },
     {
       "id": "ev-1tqm2vc",
@@ -592,51 +684,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.41
-    },
-    {
-      "id": "ev-1122dlo",
-      "title": "Salud desvincula a dos funcionarios por presunto desvío de combustible en Itapúa",
-      "summary": "El Ministerio de Salud Pública desvinculó a dos funcionarios contratados de la Séptima Región Sanitaria. Son sospechados por presuntas irregularidades en el uso de combustible de dos ambulancias. Auditorías internas detectaron inconsistencias en la rendición de cuentas. Las autoridades presentaron una denuncia penal ante el Ministerio Público.",
-      "keyPoints": [
-        "Dos funcionarios contratados fueron desvinculados.",
-        "Las irregularidades se dieron en el combustible de dos ambulancias.",
-        "Auditorías internas detectaron inconsistencias en la rendición de cuentas.",
-        "Se presentó una denuncia penal ante el Ministerio Público."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Isaías Fretes endurece controles y desvincula a dos funcionarios por combustible de ambulancias",
-          "url": "https://www.lanacion.com.py/pais/2026/10/22/isaias-fretes-endurece-controles-y-desvincula-a-dos-funcionarios-por-combustible-de-ambulancias",
-          "publishedAt": "2026-10-23T00:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/kwVC1E4uJ-SvalTWFrnGkVn9CZU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZKBLWEXHHRCLXI54CAVBJCMCJY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Presunto desvío de combustible en ambulancias de Itapúa: hay dos desvinculados",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/22/presunto-desvio-de-combustible-en-ambulancias-de-itapua-hay-dos-desvinculados",
-          "publishedAt": "2026-10-22T22:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/M7NYFD452VEUXCUVRWGJNYMYMU.jpg?auth=4497e570c32e916ab89cfe09ef43b938ccd3e40efcf66a31bbe89307cf71bf8e&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ZKBLWEXHHRCLXI54CAVBJCMCJY.jpg?auth=d69ced1849a72856ad83fe7428f9d55d2af176128985fa73521de2d935a042de&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/22/isaias-fretes-endurece-controles-y-desvincula-a-dos-funcionarios-por-combustible-de-ambulancias"
-      },
-      "firstSeenAt": "2026-10-23T08:07:10.585Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-23T08:07:10.585Z",
-      "updatedSlot": "manana",
-      "score": 8.39
+      "score": 8.12
     },
     {
       "id": "ev-1qjg43e",
@@ -679,7 +727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.36
+      "score": 8.07
     },
     {
       "id": "ev-15cpa80",
@@ -722,7 +770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.31
+      "score": 8.02
     },
     {
       "id": "ev-0k07q8o",
@@ -765,7 +813,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-17zqkuy",
@@ -808,7 +856,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-127l09n",
@@ -851,7 +899,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.15
+      "score": 8
     },
     {
       "id": "ev-0xoxgf1",
@@ -894,7 +942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.03
+      "score": 8
     },
     {
       "id": "ev-1ntdjan",
@@ -1119,7 +1167,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 7.3
+      "score": 7.01
     },
     {
       "id": "ev-0ysiwji",
@@ -1170,7 +1218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.63
+      "score": 6.33
     },
     {
       "id": "ev-12l8xvs",
@@ -1213,7 +1261,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-0y640rs",
@@ -1256,7 +1304,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.36
     },
     {
       "id": "ev-0jsphah",
@@ -1299,7 +1347,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.35
     },
     {
       "id": "ev-05nkajw",
@@ -1342,7 +1390,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1djo09c",
@@ -1385,7 +1433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1mie7qg",
@@ -1428,7 +1476,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0ad1uuz",
@@ -1471,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 5
     },
     {
       "id": "ev-1aos4k9",
@@ -1501,7 +1549,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-16do897",
@@ -1531,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1h2u6e6",
@@ -1560,7 +1608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0a9kq5m",
@@ -1591,7 +1639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0qxe7kp",
@@ -1620,7 +1668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-10vylkl",
@@ -1649,7 +1697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-00impmd",
@@ -1684,7 +1732,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1lp562n",
@@ -1720,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.38
     },
     {
       "id": "ev-14y51n7",
@@ -1754,7 +1802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1tl9zlt",
@@ -1788,7 +1836,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0sle00h",
@@ -1823,7 +1871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.14
     },
     {
       "id": "ev-1hw08vf",
@@ -1858,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.05
     },
     {
       "id": "ev-0z7agno",
@@ -1893,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 4.03
     },
     {
       "id": "ev-1sxfv5q",
@@ -1928,7 +1976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 4
     },
     {
       "id": "ev-1psp3ez",
@@ -1998,7 +2046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.18
     },
     {
       "id": "ev-0yln8wa",
@@ -2038,7 +2086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.08
     },
     {
       "id": "ev-1k2dxkl",
@@ -2077,7 +2125,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 2.98
     },
     {
       "id": "ev-0xqjqvy",
@@ -2108,7 +2156,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.23
     },
     {
       "id": "ev-1y8ktrh",
@@ -2139,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.52
+      "score": 2.23
     },
     {
       "id": "ev-0k4ubrj",
@@ -2170,7 +2218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.45
+      "score": 2.16
     },
     {
       "id": "ev-0sxacr6",
@@ -2201,7 +2249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.41
+      "score": 2.12
     }
   ],
   "runs": [
@@ -2232,6 +2280,13 @@
       "added": 0,
       "updated": 1,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-23T23:07:14.534Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 15
     }
   ]
 }
