@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-23T16:07:10.878Z",
+  "generatedAt": "2026-10-23T19:37:12.073Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
@@ -112,17 +112,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T16:07:10.878Z",
       "updatedSlot": "tarde",
-      "score": 26.92
+      "score": 26.63
     },
     {
       "id": "ev-0jiremm",
-      "title": "Juez admite imputación de Eddie Jara y su exesposa por presunto enriquecimiento ilícito",
-      "summary": "El juez Osmar Legal admitió la imputación del Ministerio Público contra Eddie Jara, extitular de Petropar, por presunto enriquecimiento ilícito. Su exesposa, Karina Otazú, fue imputada por presunto lavado de activos. Según la Fiscalía, Jara no pudo justificar G. 5.399 millones, el 97% del patrimonio investigado. La audiencia de imposición de medidas alternativas a la prisión fue fijada para el viernes 6 de noviembre.",
+      "title": "Fiscalía imputa a Eddie Jara por enriquecimiento ilícito y a su exesposa por lavado",
+      "summary": "La Fiscalía imputó al extitular de Petropar, Eddie Jara, por presunto enriquecimiento ilícito, y a su exesposa, Karina Otazú, por presunto lavado de activos. Según la fiscal Yeimy Adle, Jara no pudo justificar unos G. 5.399 millones de su patrimonio, cerca del 97%. El juez Osmar Legal admitió la imputación, ordenó el secuestro de tres vehículos y el embargo preventivo de fondos, y convocó a los acusados a una audiencia el 6 de noviembre. Los imputados presumen inocencia.",
       "keyPoints": [
-        "El juez Osmar Legal admitió la imputación presentada por la fiscal Yeimy Adle.",
-        "Según la Fiscalía, Jara no justificó G. 5.399 millones de su patrimonio.",
-        "La audiencia de imposición de medidas será el viernes 6 de noviembre.",
-        "La denuncia fue presentada por la Contraloría General de la República."
+        "La Fiscalía atribuye a Jara un patrimonio sin justificar de G. 5.399 millones, según la fiscal Yeimy Adle.",
+        "El juez ordenó el secuestro de tres vehículos y el embargo preventivo de cuentas de Jara.",
+        "La audiencia de imposición de medidas está prevista para el 6 de noviembre.",
+        "La Contraloría General de la República presentó la denuncia que originó la investigación."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -130,6 +130,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Juez ordena el secuestro de tres vehículos de Eddie Jara y embargo de sus cuentas",
+          "url": "https://www.ultimahora.com/juez-ordena-el-secuestro-de-tres-vehiculos-de-eddie-jara-y-embargo-de-sus-cuentas",
+          "publishedAt": "2026-10-23T19:35:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Eddie Jara solo pudo el justificar el 2% de su patrimonio",
+          "url": "https://www.abc.com.py/nacionales/2026/10/23/eddie-jara-solo-pudo-el-justificar-el-2-de-su-patrimonio",
+          "publishedAt": "2026-10-23T19:22:29.000Z",
+          "image": "https://www.abc.com.py/resizer/b7COmYW_X3cK5SsEDwQZXlmAEko=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ITXQDG3GFVBOHGJGLVM4VSH52I.webp"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Así operó parte del presunto esquema de lavado de Eddie Jara, según la Fiscalía",
+          "url": "https://www.abc.com.py/politica/2026/10/23/asi-opero-parte-del-presunto-esquema-de-lavado-de-eddie-jara-segun-la-fiscalia",
+          "publishedAt": "2026-10-23T17:56:55.000Z",
+          "image": "https://www.abc.com.py/resizer/I63xXvgjbVTQDVqYa1ROqdi4xso=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BGLJE37SEFDALMYPN75VV4WN7Y.jfif"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Contralor apunta a un esquema de \"lavado de dinero\" en caso Eddie Jara: Así inició la investigación",
+          "url": "https://www.ultimahora.com/contralor-apunta-a-un-esquema-de-lavadado-de-dinero-en-caso-eddie-jara-asi-inicio-la-investigacion",
+          "publishedAt": "2026-10-23T17:29:11.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fiscalía paraguaya imputa a extitular de petrolera por unos 900.000 dólares sin justificar",
+          "url": "https://www.abc.com.py/internacionales/2026/10/23/fiscalia-paraguaya-imputa-a-extitular-de-petrolera-por-unos-900000-dolares-sin-justificar",
+          "publishedAt": "2026-10-23T17:25:27.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -228,15 +268,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DNFDFO5SNJG4JK7QSKQEXK2HAU.jpg?auth=114d7347ecaadab08ac0a3dcc6596c0473829820d4b4e54b217f01e2d1a43cb4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/10/23/juez-admite-imputacion-contra-eddie-jara-y-su-exesposa-y-fija-audiencia-para-noviembre"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ITXQDG3GFVBOHGJGLVM4VSH52I.webp?auth=2aaac10cf7db985ddc3b46e2f9ac9c89f6ae9d2263016a34bfc2662c70b971ac&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/23/eddie-jara-solo-pudo-el-justificar-el-2-de-su-patrimonio"
       },
       "firstSeenAt": "2026-10-23T08:07:10.585Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-23T16:07:10.878Z",
+      "updatedAt": "2026-10-23T19:37:12.073Z",
       "updatedSlot": "tarde",
-      "score": 23.95
+      "score": 24
     },
     {
       "id": "ev-0id90ir",
@@ -304,7 +344,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
     },
     {
       "id": "ev-0tyomu0",
@@ -364,7 +404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 13.38
+      "score": 13.08
     },
     {
       "id": "ev-0y4xl7u",
@@ -415,7 +455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 12.23
+      "score": 12
     },
     {
       "id": "ev-1qa2mnv",
@@ -466,7 +506,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1tqshnf",
@@ -509,7 +549,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.95
     },
     {
       "id": "ev-1tqm2vc",
@@ -552,7 +592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-1122dlo",
@@ -596,7 +636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.39
     },
     {
       "id": "ev-1qjg43e",
@@ -639,7 +679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.36
     },
     {
       "id": "ev-15cpa80",
@@ -682,7 +722,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.31
     },
     {
       "id": "ev-0k07q8o",
@@ -725,7 +765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.58
+      "score": 8.28
     },
     {
       "id": "ev-17zqkuy",
@@ -768,7 +808,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.28
     },
     {
       "id": "ev-127l09n",
@@ -811,7 +851,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.44
+      "score": 8.15
     },
     {
       "id": "ev-0xoxgf1",
@@ -854,7 +894,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.32
+      "score": 8.03
     },
     {
       "id": "ev-1ntdjan",
@@ -897,7 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.29
+      "score": 8
     },
     {
       "id": "ev-1lb7z4x",
@@ -940,7 +980,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-0vf4uae",
@@ -983,7 +1023,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.04
+      "score": 8
     },
     {
       "id": "ev-1qxadro",
@@ -1027,7 +1067,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 8.03
+      "score": 8
     },
     {
       "id": "ev-0r7fsnv",
@@ -1079,7 +1119,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 7.59
+      "score": 7.3
     },
     {
       "id": "ev-0ysiwji",
@@ -1130,7 +1170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.92
+      "score": 6.63
     },
     {
       "id": "ev-12l8xvs",
@@ -1173,7 +1213,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.12
     },
     {
       "id": "ev-0y640rs",
@@ -1216,7 +1256,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.65
     },
     {
       "id": "ev-0jsphah",
@@ -1259,7 +1299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.93
+      "score": 5.64
     },
     {
       "id": "ev-05nkajw",
@@ -1302,7 +1342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1djo09c",
@@ -1345,7 +1385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1mie7qg",
@@ -1388,7 +1428,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0ad1uuz",
@@ -1431,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.35
+      "score": 5.06
     },
     {
       "id": "ev-1aos4k9",
@@ -1461,7 +1501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-16do897",
@@ -1491,7 +1531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1h2u6e6",
@@ -1520,7 +1560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0a9kq5m",
@@ -1551,7 +1591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0qxe7kp",
@@ -1580,7 +1620,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-10vylkl",
@@ -1609,7 +1649,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-00impmd",
@@ -1644,7 +1684,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1lp562n",
@@ -1680,7 +1720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.96
+      "score": 4.67
     },
     {
       "id": "ev-14y51n7",
@@ -1714,7 +1754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1tl9zlt",
@@ -1748,7 +1788,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0sle00h",
@@ -1783,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-1hw08vf",
@@ -1818,7 +1858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.34
     },
     {
       "id": "ev-0z7agno",
@@ -1853,7 +1893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.32
     },
     {
       "id": "ev-1sxfv5q",
@@ -1888,7 +1928,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.4
+      "score": 4.11
     },
     {
       "id": "ev-1psp3ez",
@@ -1919,7 +1959,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 4.06
+      "score": 4
     },
     {
       "id": "ev-0hf9n4a",
@@ -1958,7 +1998,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.77
+      "score": 3.48
     },
     {
       "id": "ev-0yln8wa",
@@ -1998,7 +2038,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.66
+      "score": 3.37
     },
     {
       "id": "ev-1k2dxkl",
@@ -2037,7 +2077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 3.57
+      "score": 3.28
     },
     {
       "id": "ev-0xqjqvy",
@@ -2068,7 +2108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     },
     {
       "id": "ev-1y8ktrh",
@@ -2099,7 +2139,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.81
+      "score": 2.52
     },
     {
       "id": "ev-0k4ubrj",
@@ -2130,7 +2170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.45
     },
     {
       "id": "ev-0sxacr6",
@@ -2161,7 +2201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-23T08:07:10.585Z",
       "updatedSlot": "manana",
-      "score": 2.71
+      "score": 2.41
     }
   ],
   "runs": [
@@ -2184,6 +2224,13 @@
       "at": "2026-10-23T16:07:10.878Z",
       "added": 0,
       "updated": 2,
+      "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-23T19:37:12.073Z",
+      "added": 0,
+      "updated": 1,
       "candidates": 14
     }
   ]
