@@ -1,19 +1,19 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-24T08:07:19.021Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-24T12:07:16.817Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0ienq09",
-      "title": "Juez ordena embargo de cuentas y secuestro de vehículos de Eddie Jara",
-      "summary": "El juez de Crimen Organizado Osmar Legal dispuso el embargo preventivo de fondos y el secuestro de tres vehículos vinculados a Eddie Jara, expresidente de Petropar. Las medidas alcanzan también a su expareja, Karina Otazú. Ambos están imputados: él por presunto enriquecimiento ilícito y ella por presunto lavado de dinero. La medida busca asegurar bienes mientras avanza la investigación.",
+      "title": "Fiscalía sostiene que Eddie Jara no justificó G. 5.399 millones de su patrimonio",
+      "summary": "La fiscal Yeimy Adle afirmó que Eddie Jara no pudo justificar G. 5.399 millones, equivalentes al 97% del patrimonio investigado del exjefe de Petropar. Según la Fiscalía, su exesposa Karina Otazú habría intervenido en operaciones financieras bajo investigación. Jara fue convocado a una audiencia de imposición de medidas tras la admisión de la imputación.",
       "keyPoints": [
-        "El juez Osmar Legal ordenó el embargo preventivo de fondos bancarios.",
-        "Se dispuso el secuestro de tres vehículos vinculados a Eddie Jara.",
-        "Karina Otazú está imputada por presunto lavado de dinero."
+        "Según la Fiscalía, Jara no justificó G. 5.399 millones de su patrimonio.",
+        "Ese monto representa el 97% del patrimonio investigado.",
+        "Jara fue convocado a la audiencia de imposición de medidas."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -68,18 +68,26 @@
           "url": "https://www.hoy.com.py/ocio/rae/2026/10/23/juez-convoca-a-eddie-jara-y-admite-imputacion-por-enriquecimiento-ilicito",
           "publishedAt": "2026-10-23T14:33:34.917Z",
           "image": "https://www.lanacion.com.py/resizer/v2/OPYILKQNE5CXPF7H76HBHT5H5Y.jpg?auth=049d337c95feef7745d8f8b7157ab1d811e7ccfd40720c0ed9ed7a27cd0b76b4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Exesposa de Eddie Jara movía millones sin justificar, según la Fiscalía",
+          "url": "https://elnacional.com.py/politica/exesposa-eddie-jara-movia-millones-justificar-fiscalia-n114056",
+          "publishedAt": "2026-10-23T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adb6bc35eeea.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TZLNNJBP3VFLXC5B7VW636V6LE.jpg?auth=2dfac53d9d72686d77a7c9ab02de85d96e1fef92eb9de6bc9fd94a4e3dc97ffa&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/ordenan-embargo-de-cuentas-bancarias-y-bienes-de-eddie-jara-y-su-exesposa"
+        "url": "https://statics.elnacional.com.py/2025/11/6908b22e56f8d.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/eddie-jara-pudo-justificar-g-5399-millones-su-patrimonio-fiscalia-n114061"
       },
       "firstSeenAt": "2026-10-24T08:07:19.021Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
       "updatedSlot": "manana",
-      "score": 17.72
+      "score": 17.38
     },
     {
       "id": "ev-1ib3trr",
@@ -138,7 +146,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 17.07
+      "score": 16.73
+    },
+    {
+      "id": "ev-1dpu49x",
+      "title": "Rhinovirus lidera las internaciones por infecciones respiratorias",
+      "summary": "El rhinovirus está relacionado con la mitad de las hospitalizaciones por cuadros respiratorios, según los datos citados. Le siguen el virus sincitial respiratorio y el metapneumovirus. En las últimas cuatro semanas se reportaron 22 muertes asociadas a estos agentes, aunque las consultas por cuadros respiratorios muestran un descenso.",
+      "keyPoints": [
+        "El rhinovirus está relacionado con la mitad de las internaciones respiratorias.",
+        "Le siguen el virus sincitial respiratorio y el metapneumovirus.",
+        "En las últimas cuatro semanas se reportaron 22 muertes asociadas a estos virus."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Rhinovirus encabeza las internaciones por infecciones respiratorias",
+          "url": "https://www.adndigital.com.py/rhinovirus-encabeza-las-internaciones-por-infecciones-respiratorias",
+          "publishedAt": "2026-10-24T11:53:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rhinovirus causa mitad de muertes respiratorias",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/24/rhinovirus-causa-mitad-de-muertes-respiratorias",
+          "publishedAt": "2026-10-24T03:37:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/g5UQy2cOx1I5HYicaJ5PMTvTeDw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JWPOUF2I3RHAVOQNTJNVCGFYCU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Rhinovirus causa la mitad de las internaciones por cuadros respiratorios",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/rhinovirus-causa-la-mitad-de-las-internaciones-por-cuadros-respiratorios",
+          "publishedAt": "2026-10-23T23:01:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XBCHODPL4FDCTBJNUGFLVGHCVM.jpg?auth=8d0ba1384b8cdda772dab213cf5cde07dc897e40dcf8c7d9280e56391e00a7e9&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JWPOUF2I3RHAVOQNTJNVCGFYCU.jpg?auth=148363144efc8c616320f2e15d393d54843caa33b78ad758a421da2fac2752d3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/24/rhinovirus-causa-mitad-de-muertes-respiratorias"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
+      "updatedSlot": "manana",
+      "score": 13.98
     },
     {
       "id": "ev-10h12zl",
@@ -197,7 +256,110 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 14.3
+      "score": 13.97
+    },
+    {
+      "id": "ev-17al5iu",
+      "title": "ANDE firma contrato de suministro eléctrico por 15 años con tarifas diferenciadas",
+      "summary": "La ANDE acordó un contrato de suministro de energía eléctrica por 15 años para industria electrointensiva. La provisión empezará en diciembre de 2026 con 6 MW y llegará a 286 MW en abril de 2029. El convenio fija tarifas diferenciadas y obliga a la empresa a financiar las obras de conexión en la Subestación Yguazú.",
+      "keyPoints": [
+        "El suministro comienza en diciembre de 2026 con 6 MW.",
+        "La potencia llegará a 286 MW en abril de 2029.",
+        "La empresa financiará las obras de conexión en la Subestación Yguazú."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "ANDE pacta tarifas especiales para industria electrointensiva",
+          "url": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva",
+          "publishedAt": "2026-10-24T10:47:50.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "ANDE acuerda suministro eléctrico por 15 años con tarifas diferenciadas",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/ande-acuerda-suministro-electrico-por-15-anos-con-tarifas-diferenciadas",
+          "publishedAt": "2026-10-23T23:58:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2JPZEIPHPRE2RCX23L5SXUHIHI.jpeg?auth=dc9a283a9fe594b51495cc3b0e58349f58a6f14363c84d5be1c49c6c2c87fe5d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ande firma contrato de suministro de energía eléctrica por 15 años",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/23/ande-firma-contrato-de-suministro-de-energia-electrica-por-15-anos",
+          "publishedAt": "2026-10-23T22:27:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mkjCpBj8k5l4bDrohd1stBr4h3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MEQF3ECGBB53OEYBVLTPE6RLA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
+      "updatedSlot": "manana",
+      "score": 13.89
+    },
+    {
+      "id": "ev-1mt5ty3",
+      "title": "Alliana mantiene su candidatura presidencial para 2028 y busca compañero de fórmula",
+      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028, pese a sus diferencias con el sector de Horacio Cartes dentro de Honor Colorado. Dijo que no tiene apuro para elegir a su compañero de fórmula y que realiza una encuesta sobre la intención de voto y los perfiles de posibles vicepresidentes. La Nación informó que los resultados se darían a conocer el lunes.",
+      "keyPoints": [
+        "Alliana sostiene su candidatura presidencial para 2028.",
+        "Está fuera de la chapa presidencial impulsada por el sector de Horacio Cartes.",
+        "Realiza una encuesta para definir su dupla.",
+        "No hay apuro para elegir al vicepresidencial."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana ratifica su candidatura presidencial y aguarda encuesta para definir su dupla",
+          "url": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097",
+          "publishedAt": "2026-10-24T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alliana dice que su candidatura presidencial sigue firme y espera resultados de una encuesta",
+          "url": "https://www.abc.com.py/politica/2026/10/23/alliana-dice-que-su-candidatura-presidencial-sigue-firme-y-espera-resultados-de-una-encuesta",
+          "publishedAt": "2026-10-23T23:35:59.000Z",
+          "image": "https://www.abc.com.py/resizer/y4OSsud0wn4AqgB5kqQ69yvnUTM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TQSNNGVVLFATZP2OMSTB2PPMR4.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana daría a conocer este lunes los resultados de la encuesta sobre su dupla presidencial",
+          "url": "https://www.lanacion.com.py/politica/2026/10/23/alliana-aguarda-resultado-de-encuesta-para-definir-la-dupla-presidencial",
+          "publishedAt": "2026-10-23T18:56:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Uufhz6XfbJrRr-iX0fObCZGbtOQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N4DEWXP6HNH2BKIBCLUKNCDTGI.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
+      "updatedSlot": "manana",
+      "score": 13.89
     },
     {
       "id": "ev-1as7601",
@@ -249,7 +411,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.75
+      "score": 13.42
     },
     {
       "id": "ev-1jik6jk",
@@ -308,7 +470,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.48
+      "score": 13.14
     },
     {
       "id": "ev-13hbag3",
@@ -359,7 +521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.25
+      "score": 12.92
     },
     {
       "id": "ev-04xypmu",
@@ -410,7 +572,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.03
+      "score": 12.69
     },
     {
       "id": "ev-12eyc5f",
@@ -462,7 +624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 10.73
+      "score": 10.4
     },
     {
       "id": "ev-0xsatuk",
@@ -514,7 +676,98 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 10.62
+      "score": 10.29
+    },
+    {
+      "id": "ev-1w1dgdc",
+      "title": "Lula y Flávio Bolsonaro se enfrentan en el último debate antes del balotaje",
+      "summary": "Lula y Flávio Bolsonaro debatieron en los estudios de Globo, en Río de Janeiro, a un día de la segunda vuelta presidencial de Brasil. El tono fue más moderado que en el primer debate, aunque hubo reproches y acusaciones de corrupción. Todas las encuestas sitúan a ambos en empate técnico para el domingo.",
+      "keyPoints": [
+        "Lula y Flávio Bolsonaro debatieron en la cadena Globo, en Río de Janeiro.",
+        "Se acusaron mutuamente de corrupción durante el debate.",
+        "Las encuestas muestran un empate técnico para el balotaje del domingo."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula y Bolsonaro moderan el tono en último debate para captar indecisos en Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-moderan-el-tono-en-ultimo-debate-para-captar-indecisos-en-brasil",
+          "publishedAt": "2026-10-24T10:57:31.417Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MC4CGCQY2JGNLBHEJNGDXXNSKA.jpg?auth=80b581be141e804addccd71c53cdd2a6ba616bdd470fe34cd24b235096ff6b67&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro y Lula se atacan por economía, seguridad y corrupción en último debate",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/flavio-bolsonaro-y-lula-se-atacan-por-economia-seguridad-y-corrupcion-en-ultimo-debate",
+          "publishedAt": "2026-10-24T04:05:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los diez momentos del último debate presidencial entre Lula y Flávio Bolsonaro",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/los-diez-momentos-del-ultimo-debate-presidencial-entre-lula-y-flavio-bolsonaro",
+          "publishedAt": "2026-10-24T03:50:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "A un día de las elecciones de Brasil",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/a-dos-dias-de-las-elecciones-de-brasil",
+          "publishedAt": "2026-10-24T03:10:27.000Z",
+          "image": "https://www.abc.com.py/resizer/5HhuKxAKQnNIZumUGdPh9VbDn30=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro llama \"nueve dedos\" a Lula en el debate y luego ofrece disculpas",
+          "url": "https://www.abc.com.py/internacionales/2026/10/23/flavio-bolsonaro-llama-nueve-dedos-a-lula-en-el-debate-y-luego-ofrece-disculpas",
+          "publishedAt": "2026-10-24T02:05:09.000Z",
+          "image": "https://www.abc.com.py/resizer/EvKf3xTmRycH5dGYn5SU2mhfpKE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XXIM4OH4MFCLDBIZT73MWBHBOY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Milei enfrenta a Lula y Flávio Bolsonaro en el último debate antes de las elecciones",
+          "url": "https://www.abc.com.py/internacionales/2026/10/23/milei-enfrenta-a-lula-y-flavio-bolsonaro-en-el-ultimo-debate-antes-de-las-elecciones",
+          "publishedAt": "2026-10-24T01:50:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula acusa a Flávio Bolsonaro de \"lamer las botas\" de Trump en debate antes de elecciones",
+          "url": "https://www.abc.com.py/internacionales/2026/10/23/lula-acusa-a-flavio-bolsonaro-de-lamer-las-botas-de-trump-en-debate-antes-de-elecciones",
+          "publishedAt": "2026-10-24T01:35:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Comienza el último debate entre Lula y Flávio Bolsonaro antes de las elecciones",
+          "url": "https://www.abc.com.py/internacionales/2026/10/23/comienza-el-ultimo-debate-entre-lula-y-flavio-bolsonaro-antes-de-las-elecciones",
+          "publishedAt": "2026-10-24T00:50:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/MC4CGCQY2JGNLBHEJNGDXXNSKA.jpg?auth=80b581be141e804addccd71c53cdd2a6ba616bdd470fe34cd24b235096ff6b67&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-moderan-el-tono-en-ultimo-debate-para-captar-indecisos-en-brasil"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
+      "updatedSlot": "manana",
+      "score": 9.4
     },
     {
       "id": "ev-1dpy8sx",
@@ -556,7 +809,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.68
+      "score": 9.35
     },
     {
       "id": "ev-1wnx61a",
@@ -599,50 +852,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.66
-    },
-    {
-      "id": "ev-1dpu49x",
-      "title": "El rhinovirus lidera las internaciones por cuadros respiratorios en el país",
-      "summary": "El rhinovirus es el patógeno que más hospitaliza a pacientes con cuadros respiratorios, según los datos citados por La Nación y HOY. Las consultas por enfermedades respiratorias muestran una tendencia a la baja, pero varios virus siguen circulando en el país. Detrás del rhinovirus aparecen el virus sincitial respiratorio y el metapneumovirus. Importa porque muestra qué virus pesan más en los hospitales.",
-      "keyPoints": [
-        "El rhinovirus es el patógeno predominante entre pacientes que requieren hospitalización.",
-        "Las consultas por enfermedades respiratorias muestran una tendencia a la baja.",
-        "Le siguen el virus sincitial respiratorio y el metapneumovirus."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Rhinovirus causa mitad de muertes respiratorias",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/24/rhinovirus-causa-mitad-de-muertes-respiratorias",
-          "publishedAt": "2026-10-24T03:37:31.000Z",
-          "image": "https://www.lanacion.com.py/resizer/g5UQy2cOx1I5HYicaJ5PMTvTeDw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JWPOUF2I3RHAVOQNTJNVCGFYCU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Rhinovirus causa la mitad de las internaciones por cuadros respiratorios",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/23/rhinovirus-causa-la-mitad-de-las-internaciones-por-cuadros-respiratorios",
-          "publishedAt": "2026-10-23T23:01:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XBCHODPL4FDCTBJNUGFLVGHCVM.jpg?auth=8d0ba1384b8cdda772dab213cf5cde07dc897e40dcf8c7d9280e56391e00a7e9&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JWPOUF2I3RHAVOQNTJNVCGFYCU.jpg?auth=148363144efc8c616320f2e15d393d54843caa33b78ad758a421da2fac2752d3&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/24/rhinovirus-causa-mitad-de-muertes-respiratorias"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 9.63
+      "score": 9.32
     },
     {
       "id": "ev-141x5on",
@@ -685,7 +895,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.6
+      "score": 9.26
     },
     {
       "id": "ev-0asiqpu",
@@ -728,93 +938,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.58
-    },
-    {
-      "id": "ev-17al5iu",
-      "title": "ANDE firma contrato de suministro eléctrico por 15 años con tarifas diferenciadas",
-      "summary": "La ANDE acordó un contrato de suministro de energía eléctrica por 15 años, con una demanda que crece gradualmente. El suministro empieza en diciembre de 2026 con 6 MW y llega a 286 MW en abril de 2029. El acuerdo incluye tarifas diferenciadas y obras de infraestructura financiadas por la empresa. Es un compromiso de largo plazo en el sector eléctrico.",
-      "keyPoints": [
-        "El suministro empieza en diciembre de 2026 con 6 MW.",
-        "Llegará a 286 MW en abril de 2029.",
-        "Incluye tarifas diferenciadas y obras de infraestructura financiadas por la empresa."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "ANDE acuerda suministro eléctrico por 15 años con tarifas diferenciadas",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/23/ande-acuerda-suministro-electrico-por-15-anos-con-tarifas-diferenciadas",
-          "publishedAt": "2026-10-23T23:58:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/2JPZEIPHPRE2RCX23L5SXUHIHI.jpeg?auth=dc9a283a9fe594b51495cc3b0e58349f58a6f14363c84d5be1c49c6c2c87fe5d&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ande firma contrato de suministro de energía eléctrica por 15 años",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/23/ande-firma-contrato-de-suministro-de-energia-electrica-por-15-anos",
-          "publishedAt": "2026-10-23T22:27:31.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mkjCpBj8k5l4bDrohd1stBr4h3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MEQF3ECGBB53OEYBVLTPE6RLA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/2JPZEIPHPRE2RCX23L5SXUHIHI.jpeg?auth=dc9a283a9fe594b51495cc3b0e58349f58a6f14363c84d5be1c49c6c2c87fe5d&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/23/ande-acuerda-suministro-electrico-por-15-anos-con-tarifas-diferenciadas"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 9.32
-    },
-    {
-      "id": "ev-1mt5ty3",
-      "title": "Alliana afirma que su candidatura presidencial sigue firme y espera resultados de encuesta",
-      "summary": "El vicepresidente Pedro Alliana afirmó que su candidatura presidencial para 2028 sigue firme. Dijo que no hay apuro para elegir a su compañero de fórmula. Encargó una encuesta a una consultora para medir la intención de voto y evaluar posibles nombres. Según La Nación, los resultados se darían a conocer este lunes.",
-      "keyPoints": [
-        "Alliana sostiene que su candidatura a la presidencia 2028 continúa firme.",
-        "Encargó una encuesta para medir la intención de voto.",
-        "No hay apuro para definir a su compañero de fórmula, según señaló."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Alliana dice que su candidatura presidencial sigue firme y espera resultados de una encuesta",
-          "url": "https://www.abc.com.py/politica/2026/10/23/alliana-dice-que-su-candidatura-presidencial-sigue-firme-y-espera-resultados-de-una-encuesta",
-          "publishedAt": "2026-10-23T23:35:59.000Z",
-          "image": "https://www.abc.com.py/resizer/y4OSsud0wn4AqgB5kqQ69yvnUTM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TQSNNGVVLFATZP2OMSTB2PPMR4.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana daría a conocer este lunes los resultados de la encuesta sobre su dupla presidencial",
-          "url": "https://www.lanacion.com.py/politica/2026/10/23/alliana-aguarda-resultado-de-encuesta-para-definir-la-dupla-presidencial",
-          "publishedAt": "2026-10-23T18:56:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Uufhz6XfbJrRr-iX0fObCZGbtOQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N4DEWXP6HNH2BKIBCLUKNCDTGI.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TQSNNGVVLFATZP2OMSTB2PPMR4.jpeg?auth=1290c7e9f93bc9b93004865940e802597de9d658ca32c5dd17ebeac5a9ad94b1&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/23/alliana-dice-que-su-candidatura-presidencial-sigue-firme-y-espera-resultados-de-una-encuesta"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 9.29
+      "score": 9.24
     },
     {
       "id": "ev-0we1ef4",
@@ -857,7 +981,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.04
+      "score": 8.71
     },
     {
       "id": "ev-0sou0bd",
@@ -901,7 +1025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.62
     },
     {
       "id": "ev-1nt3evr",
@@ -945,7 +1069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.51
     },
     {
       "id": "ev-1gft50k",
@@ -989,7 +1113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.49
     },
     {
       "id": "ev-1sb2o8p",
@@ -1033,7 +1157,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-0oh36aw",
@@ -1076,7 +1200,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.41
     },
     {
       "id": "ev-19d9yhb",
@@ -1120,7 +1244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.66
+      "score": 8.32
     },
     {
       "id": "ev-0xzo3yx",
@@ -1164,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 7.17
+      "score": 6.84
     },
     {
       "id": "ev-1lhofkf",
@@ -1207,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.72
+      "score": 6.39
     },
     {
       "id": "ev-1z08a8y",
@@ -1250,7 +1374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1izjkxh",
@@ -1293,7 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1cyghsm",
@@ -1337,82 +1461,6 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.49
-    },
-    {
-      "id": "ev-1w1dgdc",
-      "title": "Lula y Flávio Bolsonaro se atacan en el último debate antes de la segunda vuelta",
-      "summary": "Lula y Flávio Bolsonaro debatieron en la cadena Globo, en Río de Janeiro, a dos días de la segunda vuelta presidencial de Brasil. Los candidatos se cruzaron por economía, seguridad y corrupción. Hubo un fuerte choque cuando Bolsonaro dijo que Lula le quitaba al pueblo con \"nueve dedos\" lo que daba con una mano, y después se disculpó. Las encuestas dan empate técnico entre ambos.",
-      "keyPoints": [
-        "El debate se realizó en la cadena Globo, a dos días de la segunda vuelta.",
-        "Bolsonaro llamó \"nueve dedos\" a Lula, en alusión a un accidente laboral del presidente, y luego pidió disculpas.",
-        "Lula acusó a Bolsonaro de estar detrás de los aranceles de Trump, algo que el senador niega.",
-        "El último sondeo de Datafolha mostró un empate al 50 % entre ambos."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Flávio Bolsonaro y Lula se atacan por economía, seguridad y corrupción en último debate",
-          "url": "https://www.abc.com.py/internacionales/2026/10/24/flavio-bolsonaro-y-lula-se-atacan-por-economia-seguridad-y-corrupcion-en-ultimo-debate",
-          "publishedAt": "2026-10-24T04:05:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los diez momentos del último debate presidencial entre Lula y Flávio Bolsonaro",
-          "url": "https://www.abc.com.py/internacionales/2026/10/24/los-diez-momentos-del-ultimo-debate-presidencial-entre-lula-y-flavio-bolsonaro",
-          "publishedAt": "2026-10-24T03:50:08.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Flávio Bolsonaro llama \"nueve dedos\" a Lula en el debate y luego ofrece disculpas",
-          "url": "https://www.abc.com.py/internacionales/2026/10/23/flavio-bolsonaro-llama-nueve-dedos-a-lula-en-el-debate-y-luego-ofrece-disculpas",
-          "publishedAt": "2026-10-24T02:05:09.000Z",
-          "image": "https://www.abc.com.py/resizer/EvKf3xTmRycH5dGYn5SU2mhfpKE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XXIM4OH4MFCLDBIZT73MWBHBOY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Milei enfrenta a Lula y Flávio Bolsonaro en el último debate antes de las elecciones",
-          "url": "https://www.abc.com.py/internacionales/2026/10/23/milei-enfrenta-a-lula-y-flavio-bolsonaro-en-el-ultimo-debate-antes-de-las-elecciones",
-          "publishedAt": "2026-10-24T01:50:13.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Lula acusa a Flávio Bolsonaro de \"lamer las botas\" de Trump en debate antes de elecciones",
-          "url": "https://www.abc.com.py/internacionales/2026/10/23/lula-acusa-a-flavio-bolsonaro-de-lamer-las-botas-de-trump-en-debate-antes-de-elecciones",
-          "publishedAt": "2026-10-24T01:35:09.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Comienza el último debate entre Lula y Flávio Bolsonaro antes de las elecciones",
-          "url": "https://www.abc.com.py/internacionales/2026/10/23/comienza-el-ultimo-debate-entre-lula-y-flavio-bolsonaro-antes-de-las-elecciones",
-          "publishedAt": "2026-10-24T00:50:11.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/XXIM4OH4MFCLDBIZT73MWBHBOY.jpg?auth=189e376ac40563fb84a826128af27815ac5f3f4987eefc80cf8a9708e15d65fd&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/23/flavio-bolsonaro-llama-nueve-dedos-a-lula-en-el-debate-y-luego-ofrece-disculpas"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
       "score": 6.16
     },
     {
@@ -1448,7 +1496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.76
+      "score": 5.43
     },
     {
       "id": "ev-0iufh88",
@@ -1483,7 +1531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.41
     },
     {
       "id": "ev-1qme083",
@@ -1516,7 +1564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0r4e322",
@@ -1551,7 +1599,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-14ufyfp",
@@ -1580,7 +1628,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1wfkvm1",
@@ -1613,7 +1661,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-05aul0b",
@@ -1648,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1cgemz9",
@@ -1683,7 +1731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1slr27a",
@@ -1718,7 +1766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0ikzx21",
@@ -1753,7 +1801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0bbdfb2",
@@ -1801,7 +1849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.01
     },
     {
       "id": "ev-1sty72v",
@@ -1836,7 +1884,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.49
+      "score": 4.16
     },
     {
       "id": "ev-1ucopq4",
@@ -1876,7 +1924,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 3.98
     },
     {
       "id": "ev-12etuld",
@@ -1907,7 +1955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.49
+      "score": 3.16
     },
     {
       "id": "ev-1fr3bm1",
@@ -1938,7 +1986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.46
+      "score": 3.13
     },
     {
       "id": "ev-02umaak",
@@ -1969,7 +2017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.45
+      "score": 3.12
     },
     {
       "id": "ev-1d2c3wk",
@@ -2000,7 +2048,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.45
+      "score": 3.12
     },
     {
       "id": "ev-06mzgj4",
@@ -2032,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.07
     },
     {
       "id": "ev-0p1fawq",
@@ -2064,7 +2112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.34
+      "score": 3
     },
     {
       "id": "ev-03u7qgm",
@@ -2096,7 +2144,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.29
+      "score": 2.96
     },
     {
       "id": "ev-02zpmy9",
@@ -2128,7 +2176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 2.95
     }
   ],
   "runs": [
@@ -2138,6 +2186,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 67
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-24T12:07:16.817Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 16
     }
   ]
 }
