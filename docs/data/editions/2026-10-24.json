@@ -1,20 +1,19 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-24T16:07:10.637Z",
+  "generatedAt": "2026-10-24T19:37:15.664Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1w1dgdc",
-      "title": "Lula y Flávio Bolsonaro moderan el tono en su último debate antes del balotaje",
-      "summary": "Lula y Flávio Bolsonaro tuvieron su último debate presidencial antes de la segunda vuelta de Brasil, prevista para el domingo. Esta vez hablaron más de propuestas y se llamaron por sus nombres de pila, tras un primer debate con insultos. Se acusaron mutuamente de corrupción. Flávio Bolsonaro llegó con ventaja en la primera vuelta, con 47 % de los votos.",
+      "title": "Lula y Flávio Bolsonaro cierran campaña antes del balotaje en Brasil",
+      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas con actos multitudinarios antes del balotaje del domingo. Lula estuvo en la playa de Copacabana y luego iba a la Avenida Paulista, en São Paulo. Bolsonaro tuvo el apoyo de motociclistas en un acto. Antes, en el último debate televisado, ambos moderaron el tono, aunque se acusaron de corruptos.",
       "keyPoints": [
-        "El debate se realizó en los estudios de TV Globo en Río de Janeiro.",
-        "Los candidatos hablaron más de propuestas que en el primer debate.",
-        "Se retaron y se acusaron de corruptos, según HOY.",
-        "La segunda vuelta es el domingo y Flávio Bolsonaro fue el más votado en la primera ronda."
+        "El balotaje en Brasil es el domingo y se presenta reñido.",
+        "Lula cerró campaña en la playa de Copacabana.",
+        "En el último debate, los candidatos se acusaron mutuamente de corrupción."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -22,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lula y Bolsonaro cierran sus campañas en multitudinarios actos de calle en Brasil",
+          "url": "https://www.ultimahora.com/lula-y-bolsonaro-cierran-sus-campanas-en-multitudinarios-actos-de-calle-en-brasil",
+          "publishedAt": "2026-10-24T18:39:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Después del debate, a las calles: Lula y Bolsonaro cierran campaña en Brasil",
+          "url": "https://elnacional.com.py/mundo/despues-debate-calles-lula-bolsonaro-cierran-campana-brasil-n114110",
+          "publishedAt": "2026-10-24T16:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adcb83ce6c63.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -112,15 +127,82 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6adcb2da15032.jpg",
+        "url": "https://statics.elnacional.com.py/2026/10/6adcb83ce6c63.jpg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/lula-bolsonaro-moderan-tono-ultimo-debate-captar-indecisos-brasil-n114106"
+        "articleUrl": "https://elnacional.com.py/mundo/despues-debate-calles-lula-bolsonaro-cierran-campana-brasil-n114110"
       },
       "firstSeenAt": "2026-10-24T08:07:19.021Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-24T16:07:10.637Z",
+      "updatedAt": "2026-10-24T19:37:15.664Z",
       "updatedSlot": "tarde",
-      "score": 18.38
+      "score": 18.42
+    },
+    {
+      "id": "ev-1mt5ty3",
+      "title": "Alliana ratifica candidatura presidencial y evalúa su compañero de fórmula",
+      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028, pese a diferencias dentro de Honor Colorado. Dirigentes como Hugo Meza y Sebastián Remesowski expresaron apoyo a Raúl Latorre como compañero de fórmula por la ANR. Remesowski señaló que el candidato a vicepresidente debe ampliar la base electoral.",
+      "keyPoints": [
+        "Alliana busca la Presidencia en las elecciones de 2028.",
+        "Hugo Meza y Sebastián Remesowski apoyan a Raúl Latorre como vicepresidenciable.",
+        "Remesowski sostiene que la dupla debe captar nuevos votantes."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Latorre recibe apoyo para ser dupla de Alliana: “Ampliará su base electoral”",
+          "url": "https://www.ultimahora.com/latorre-recibe-apoyo-para-ser-dupla-de-alliana-ampliara-su-base-electoral",
+          "publishedAt": "2026-10-24T15:37:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Remesowski plantea que la dupla de Alliana debe tener capacidad de captar nuevos votantes",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/remesowski-plantea-que-la-dupla-de-alliana-debe-tener-capacidad-de-captar-nuevos-votantes",
+          "publishedAt": "2026-10-24T14:55:23.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qjqnQV2MCQBxWZmKE5tthyESmr4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MMMMS4AW7BD7XONV6WKYN3GAJE.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana ratifica su candidatura presidencial y aguarda encuesta para definir su dupla",
+          "url": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097",
+          "publishedAt": "2026-10-24T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alliana dice que su candidatura presidencial sigue firme y espera resultados de una encuesta",
+          "url": "https://www.abc.com.py/politica/2026/10/23/alliana-dice-que-su-candidatura-presidencial-sigue-firme-y-espera-resultados-de-una-encuesta",
+          "publishedAt": "2026-10-23T23:35:59.000Z",
+          "image": "https://www.abc.com.py/resizer/y4OSsud0wn4AqgB5kqQ69yvnUTM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TQSNNGVVLFATZP2OMSTB2PPMR4.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana daría a conocer este lunes los resultados de la encuesta sobre su dupla presidencial",
+          "url": "https://www.lanacion.com.py/politica/2026/10/23/alliana-aguarda-resultado-de-encuesta-para-definir-la-dupla-presidencial",
+          "publishedAt": "2026-10-23T18:56:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Uufhz6XfbJrRr-iX0fObCZGbtOQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N4DEWXP6HNH2BKIBCLUKNCDTGI.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MMMMS4AW7BD7XONV6WKYN3GAJE.jfif?auth=419d6c3d60efb468ce733e534e2186270fd59a245d555ffda60411a429896a88&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/24/remesowski-plantea-que-la-dupla-de-alliana-debe-tener-capacidad-de-captar-nuevos-votantes"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T19:37:15.664Z",
+      "updatedSlot": "tarde",
+      "score": 17.67
     },
     {
       "id": "ev-0ienq09",
@@ -220,7 +302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T16:07:10.637Z",
       "updatedSlot": "tarde",
-      "score": 17.82
+      "score": 17.53
     },
     {
       "id": "ev-1ib3trr",
@@ -279,7 +361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 16.4
+      "score": 16.11
     },
     {
       "id": "ev-1dpu49x",
@@ -330,7 +412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T12:07:16.817Z",
       "updatedSlot": "manana",
-      "score": 13.65
+      "score": 13.36
     },
     {
       "id": "ev-10h12zl",
@@ -389,7 +471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.64
+      "score": 13.35
     },
     {
       "id": "ev-17al5iu",
@@ -440,111 +522,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T12:07:16.817Z",
       "updatedSlot": "manana",
-      "score": 13.56
-    },
-    {
-      "id": "ev-1mt5ty3",
-      "title": "Alliana mantiene su candidatura presidencial para 2028 y busca compañero de fórmula",
-      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028, pese a sus diferencias con el sector de Horacio Cartes dentro de Honor Colorado. Dijo que no tiene apuro para elegir a su compañero de fórmula y que realiza una encuesta sobre la intención de voto y los perfiles de posibles vicepresidentes. La Nación informó que los resultados se darían a conocer el lunes.",
-      "keyPoints": [
-        "Alliana sostiene su candidatura presidencial para 2028.",
-        "Está fuera de la chapa presidencial impulsada por el sector de Horacio Cartes.",
-        "Realiza una encuesta para definir su dupla.",
-        "No hay apuro para elegir al vicepresidencial."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana ratifica su candidatura presidencial y aguarda encuesta para definir su dupla",
-          "url": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097",
-          "publishedAt": "2026-10-24T10:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Alliana dice que su candidatura presidencial sigue firme y espera resultados de una encuesta",
-          "url": "https://www.abc.com.py/politica/2026/10/23/alliana-dice-que-su-candidatura-presidencial-sigue-firme-y-espera-resultados-de-una-encuesta",
-          "publishedAt": "2026-10-23T23:35:59.000Z",
-          "image": "https://www.abc.com.py/resizer/y4OSsud0wn4AqgB5kqQ69yvnUTM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TQSNNGVVLFATZP2OMSTB2PPMR4.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana daría a conocer este lunes los resultados de la encuesta sobre su dupla presidencial",
-          "url": "https://www.lanacion.com.py/politica/2026/10/23/alliana-aguarda-resultado-de-encuesta-para-definir-la-dupla-presidencial",
-          "publishedAt": "2026-10-23T18:56:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Uufhz6XfbJrRr-iX0fObCZGbtOQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N4DEWXP6HNH2BKIBCLUKNCDTGI.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T12:07:16.817Z",
-      "updatedSlot": "manana",
-      "score": 13.55
-    },
-    {
-      "id": "ev-1as7601",
-      "title": "Fiscalía abre causa por más de mil títulos académicos con inconsistencias",
-      "summary": "La Fiscalía abrió una causa penal tras una denuncia de la Contraloría. El organismo detectó inconsistencias en más de mil títulos académicos de funcionarios de unas 35 instituciones públicas. La Contraloría derivó 1.082 casos a la Fiscalía. Hasta ahora no hay personas imputadas. La Comisión del Senado que investiga el tema había pedido la fiscalización.",
-      "keyPoints": [
-        "La Contraloría denunció inconsistencias en más de mil títulos.",
-        "Los casos abarcan unas 35 instituciones públicas.",
-        "La Contraloría derivó 1.082 casos a la Fiscalía.",
-        "Hasta el momento no hay personas imputadas."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Ministerio Público abre causa penal por títulos académicos de funcionarios",
-          "url": "https://elnacional.com.py/politica/ministerio-publico-abre-causa-penal-titulos-academicos-funcionarios-n114078",
-          "publishedAt": "2026-10-23T21:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/01/697b4aafd7112.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía abre causa por títulos falsos y apuntan a 5.000 casos",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/fiscalia-abre-causa-por-titulos-falsos-y-apuntan-a-5000-casos",
-          "publishedAt": "2026-10-24T05:08:10.000Z",
-          "image": "https://www.lanacion.com.py/resizer/a_kscPZLsdYxqqdcCSGaVCv-Q2E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DAHX7GNEDBHWZCBE7LVYPECMCY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Títulos falsos: “El negocio de la salud en Paraguay mueve alrededor de 500 millones de dólares”, denuncia el contralor",
-          "url": "https://www.abc.com.py/nacionales/2026/10/23/titulos-falsos-el-negocio-de-la-salud-en-paraguay-mueve-alrededor-de-500-millones-de-dolares-denuncia-el-contralor",
-          "publishedAt": "2026-10-23T16:51:28.000Z",
-          "image": "https://www.abc.com.py/resizer/EFGOLQWyTxbW8Vp_hNLXUwV5K4U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2VZKKVH6QREZNDTWI6XIV7AWKE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/01/697b4aafd7112.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/ministerio-publico-abre-causa-penal-titulos-academicos-funcionarios-n114078"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 13.08
+      "score": 13.26
     },
     {
       "id": "ev-1jik6jk",
@@ -606,6 +584,58 @@
       "score": 13
     },
     {
+      "id": "ev-1as7601",
+      "title": "Fiscalía abre causa por más de mil títulos académicos con inconsistencias",
+      "summary": "La Fiscalía abrió una causa penal tras una denuncia de la Contraloría. El organismo detectó inconsistencias en más de mil títulos académicos de funcionarios de unas 35 instituciones públicas. La Contraloría derivó 1.082 casos a la Fiscalía. Hasta ahora no hay personas imputadas. La Comisión del Senado que investiga el tema había pedido la fiscalización.",
+      "keyPoints": [
+        "La Contraloría denunció inconsistencias en más de mil títulos.",
+        "Los casos abarcan unas 35 instituciones públicas.",
+        "La Contraloría derivó 1.082 casos a la Fiscalía.",
+        "Hasta el momento no hay personas imputadas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Ministerio Público abre causa penal por títulos académicos de funcionarios",
+          "url": "https://elnacional.com.py/politica/ministerio-publico-abre-causa-penal-titulos-academicos-funcionarios-n114078",
+          "publishedAt": "2026-10-23T21:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/01/697b4aafd7112.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía abre causa por títulos falsos y apuntan a 5.000 casos",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/fiscalia-abre-causa-por-titulos-falsos-y-apuntan-a-5000-casos",
+          "publishedAt": "2026-10-24T05:08:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/a_kscPZLsdYxqqdcCSGaVCv-Q2E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DAHX7GNEDBHWZCBE7LVYPECMCY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Títulos falsos: “El negocio de la salud en Paraguay mueve alrededor de 500 millones de dólares”, denuncia el contralor",
+          "url": "https://www.abc.com.py/nacionales/2026/10/23/titulos-falsos-el-negocio-de-la-salud-en-paraguay-mueve-alrededor-de-500-millones-de-dolares-denuncia-el-contralor",
+          "publishedAt": "2026-10-23T16:51:28.000Z",
+          "image": "https://www.abc.com.py/resizer/EFGOLQWyTxbW8Vp_hNLXUwV5K4U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2VZKKVH6QREZNDTWI6XIV7AWKE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/01/697b4aafd7112.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/ministerio-publico-abre-causa-penal-titulos-academicos-funcionarios-n114078"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T08:07:19.021Z",
+      "updatedSlot": "manana",
+      "score": 12.79
+    },
+    {
       "id": "ev-13hbag3",
       "title": "Banco Atlas e ITTI llegan a un acuerdo por el core bancario",
       "summary": "El Banco Atlas y la empresa tecnológica ITTI llegaron a un acuerdo que pone fin a sus controversias por el core bancario. Juan Carlos Martin, directivo del banco, lo confirmó y habló de una licencia nueva y ampliada. El monto no fue difundido por el banco. Fuentes del mercado citadas por 5Días hablan de US$ 3,3 millones.",
@@ -654,7 +684,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 12.58
+      "score": 12.29
     },
     {
       "id": "ev-04xypmu",
@@ -705,7 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 12.36
+      "score": 12.07
     },
     {
       "id": "ev-12eyc5f",
@@ -757,7 +787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 10.06
+      "score": 9.77
     },
     {
       "id": "ev-0xsatuk",
@@ -809,7 +839,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.66
     },
     {
       "id": "ev-1dpy8sx",
@@ -851,7 +881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.72
     },
     {
       "id": "ev-1wnx61a",
@@ -894,7 +924,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.7
     },
     {
       "id": "ev-141x5on",
@@ -937,7 +967,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.93
+      "score": 8.64
     },
     {
       "id": "ev-0asiqpu",
@@ -980,7 +1010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-0we1ef4",
@@ -1023,7 +1053,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.37
+      "score": 8.08
     },
     {
       "id": "ev-0sou0bd",
@@ -1067,7 +1097,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-1nt3evr",
@@ -1111,7 +1141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-1gft50k",
@@ -1155,7 +1185,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-1sb2o8p",
@@ -1199,7 +1229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.15
+      "score": 8
     },
     {
       "id": "ev-0oh36aw",
@@ -1242,7 +1272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.07
+      "score": 8
     },
     {
       "id": "ev-19d9yhb",
@@ -1330,7 +1360,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.5
+      "score": 6.21
     },
     {
       "id": "ev-1lhofkf",
@@ -1373,7 +1403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.06
+      "score": 5.76
     },
     {
       "id": "ev-1z08a8y",
@@ -1416,7 +1446,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1izjkxh",
@@ -1459,7 +1489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1cyghsm",
@@ -1503,7 +1533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.53
     },
     {
       "id": "ev-0kbjntx",
@@ -1538,7 +1568,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.8
     },
     {
       "id": "ev-0iufh88",
@@ -1573,7 +1603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.78
     },
     {
       "id": "ev-1qme083",
@@ -1606,7 +1636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0r4e322",
@@ -1641,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-14ufyfp",
@@ -1670,7 +1700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1wfkvm1",
@@ -1703,7 +1733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-05aul0b",
@@ -1738,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1cgemz9",
@@ -1773,7 +1803,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1slr27a",
@@ -1808,7 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0ikzx21",
@@ -1843,7 +1873,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0bbdfb2",
@@ -1891,7 +1921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.68
+      "score": 4.39
     },
     {
       "id": "ev-1sty72v",
@@ -1966,7 +1996,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.65
+      "score": 3.36
     },
     {
       "id": "ev-12etuld",
@@ -1997,7 +2027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     },
     {
       "id": "ev-1fr3bm1",
@@ -2028,7 +2058,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.5
     },
     {
       "id": "ev-02umaak",
@@ -2059,7 +2089,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.78
+      "score": 2.49
     },
     {
       "id": "ev-1d2c3wk",
@@ -2090,7 +2120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.78
+      "score": 2.49
     },
     {
       "id": "ev-06mzgj4",
@@ -2122,7 +2152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.45
     },
     {
       "id": "ev-0p1fawq",
@@ -2154,7 +2184,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.67
+      "score": 2.38
     },
     {
       "id": "ev-03u7qgm",
@@ -2186,7 +2216,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.62
+      "score": 2.33
     },
     {
       "id": "ev-02zpmy9",
@@ -2218,7 +2248,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.62
+      "score": 2.32
     }
   ],
   "runs": [
@@ -2242,6 +2272,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 13
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-24T19:37:15.664Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
     }
   ]
 }
