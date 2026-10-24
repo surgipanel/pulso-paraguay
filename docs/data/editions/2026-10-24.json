@@ -1,19 +1,20 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-24T19:37:15.664Z",
+  "generatedAt": "2026-10-24T23:07:11.547Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1w1dgdc",
-      "title": "Lula y Flávio Bolsonaro cierran campaña antes del balotaje en Brasil",
-      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas con actos multitudinarios antes del balotaje del domingo. Lula estuvo en la playa de Copacabana y luego iba a la Avenida Paulista, en São Paulo. Bolsonaro tuvo el apoyo de motociclistas en un acto. Antes, en el último debate televisado, ambos moderaron el tono, aunque se acusaron de corruptos.",
+      "title": "Lula y Flávio Bolsonaro cierran campaña con actos masivos antes del balotaje",
+      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas a un día de la segunda vuelta presidencial en Brasil. Lula hizo actos en Copacabana y São Paulo. Flávio recorrió Belo Horizonte y Río de Janeiro. Los sondeos de Quaest y Datafolha muestran empate técnico. Lula llamó a su rival \"un mentiroso y un miliciano\". Flávio prometió indultar a su padre, Jair Bolsonaro, si gana.",
       "keyPoints": [
-        "El balotaje en Brasil es el domingo y se presenta reñido.",
-        "Lula cerró campaña en la playa de Copacabana.",
-        "En el último debate, los candidatos se acusaron mutuamente de corrupción."
+        "La segunda vuelta presidencial en Brasil es este domingo.",
+        "Los sondeos de Quaest y Datafolha muestran empate técnico entre ambos.",
+        "Lula llamó a Flávio Bolsonaro \"un mentiroso y un miliciano\".",
+        "Flávio Bolsonaro prometió indultar a su padre si gana."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -21,6 +22,62 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula y Bolsonaro cierran sus campañas en multitudinarios a un día del balotaje Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-cierran-sus-campanas-en-multitudinarios-a-un-dia-del-balotaje-brasil",
+          "publishedAt": "2026-10-24T23:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JXHFTXAL2VC6PO6WC3IL2JXREE.jpg?auth=73cfac255591367e16f608e8c23b4aa0ff36fb967abeb85f4c48edd36989fe11&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro supera a Lula por dos puntos en los dos últimos sondeos electorales",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/flavio-bolsonaro-supera-a-lula-por-dos-puntos-en-los-dos-ultimos-sondeos-electorales",
+          "publishedAt": "2026-10-24T22:25:29.000Z",
+          "image": "https://www.abc.com.py/resizer/b1KTSG9uOM4JV3qHPfDeJZqfMgo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VJWJZB2TDZF27MNW7WJU5ASEBI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Una marea amarilla promete jubilar a Lula en el último acto de campaña de Flávio Bolsonaro",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/una-marea-amarilla-promete-jubilar-a-lula-en-el-ultimo-acto-de-campana-de-flavio-bolsonaro",
+          "publishedAt": "2026-10-24T21:55:22.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula y Flávio Bolsonaro cierran sus campañas con actos masivos y empatados en los sondeos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/lula-y-flavio-bolsonaro-cierran-sus-campanas-con-actos-masivos-y-empatados-en-los-sondeos",
+          "publishedAt": "2026-10-24T21:35:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Una multitud esperanzada apoya a Lula en su cierre de campaña en São Paulo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/una-multitud-esperanzada-apoya-a-lula-en-su-cierre-de-campana-en-sao-paulo",
+          "publishedAt": "2026-10-24T21:15:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro afirma que Brasil \"se cansó de esperar\" con Lula y quiere \"cambio\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/flavio-bolsonaro-afirma-que-brasil-se-canso-de-esperar-con-lula-y-quiere-cambio",
+          "publishedAt": "2026-10-24T20:25:23.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula ataca a Flávio Bolsonaro en el cierre de la campaña: \"Un mentiroso y un miliciano\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/lula-ataca-a-flavio-bolsonaro-en-el-cierre-de-la-campana-un-mentiroso-y-un-miliciano",
+          "publishedAt": "2026-10-24T19:35:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -127,24 +184,25 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6adcb83ce6c63.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/despues-debate-calles-lula-bolsonaro-cierran-campana-brasil-n114110"
+        "url": "https://www.lanacion.com.py/resizer/v2/JXHFTXAL2VC6PO6WC3IL2JXREE.jpg?auth=73cfac255591367e16f608e8c23b4aa0ff36fb967abeb85f4c48edd36989fe11&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-cierran-sus-campanas-en-multitudinarios-a-un-dia-del-balotaje-brasil"
       },
       "firstSeenAt": "2026-10-24T08:07:19.021Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-24T19:37:15.664Z",
+      "updatedAt": "2026-10-24T23:07:11.547Z",
       "updatedSlot": "tarde",
-      "score": 18.42
+      "score": 18.49
     },
     {
       "id": "ev-1mt5ty3",
-      "title": "Alliana ratifica candidatura presidencial y evalúa su compañero de fórmula",
-      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028, pese a diferencias dentro de Honor Colorado. Dirigentes como Hugo Meza y Sebastián Remesowski expresaron apoyo a Raúl Latorre como compañero de fórmula por la ANR. Remesowski señaló que el candidato a vicepresidente debe ampliar la base electoral.",
+      "title": "Alliana define su dupla entre Riquelme, Latorre y Sosa tras encuesta del Partido Colorado",
+      "summary": "El vicepresidente Pedro Alliana busca compañero de fórmula para las elecciones presidenciales de 2028. Las opciones son Marco Riquelme, Raúl Latorre y César Sosa. Según las notas, la encuesta que define la dupla se cerraría este sábado y el resultado se conocería el lunes. El presidente Santiago Peña ratificó su apoyo a Alliana y dijo que tiene libertad para elegir. Alliana mantiene su candidatura pese a las diferencias dentro de Honor Colorado.",
       "keyPoints": [
-        "Alliana busca la Presidencia en las elecciones de 2028.",
-        "Hugo Meza y Sebastián Remesowski apoyan a Raúl Latorre como vicepresidenciable.",
-        "Remesowski sostiene que la dupla debe captar nuevos votantes."
+        "Las opciones para la dupla son Marco Riquelme, Raúl Latorre y César Sosa.",
+        "Peña ratificó su apoyo incondicional a Alliana.",
+        "Alliana mantiene su candidatura pese a diferencias en Honor Colorado.",
+        "El resultado de la encuesta se daría a conocer el lunes, según las notas."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -152,6 +210,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "\"Todos vamos a respetar\", asegura Peña sobre dupla que elija Alliana",
+          "url": "https://www.ultimahora.com/todos-vamos-a-respetar-asegura-pena-sobre-dupla-que-elija-alliana",
+          "publishedAt": "2026-10-24T21:11:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Latorre suma respaldos para acompañar a Alliana en la carrera presidencial",
+          "url": "https://elnacional.com.py/politica/latorre-suma-respaldos-acompanar-alliana-carrera-presidencial-n114129",
+          "publishedAt": "2026-10-24T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adcfc66747c2.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla",
+          "publishedAt": "2026-10-24T20:09:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YOR9Lt4V4xJ-02aWLNysxxnMYBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -194,15 +276,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MMMMS4AW7BD7XONV6WKYN3GAJE.jfif?auth=419d6c3d60efb468ce733e534e2186270fd59a245d555ffda60411a429896a88&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/24/remesowski-plantea-que-la-dupla-de-alliana-debe-tener-capacidad-de-captar-nuevos-votantes"
+        "url": "https://statics.elnacional.com.py/2026/10/6adcfc66747c2.webp",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/latorre-suma-respaldos-acompanar-alliana-carrera-presidencial-n114129"
       },
       "firstSeenAt": "2026-10-24T08:07:19.021Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-24T19:37:15.664Z",
+      "updatedAt": "2026-10-24T23:07:11.547Z",
       "updatedSlot": "tarde",
-      "score": 17.67
+      "score": 17.84
     },
     {
       "id": "ev-0ienq09",
@@ -302,7 +384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T16:07:10.637Z",
       "updatedSlot": "tarde",
-      "score": 17.53
+      "score": 17.24
     },
     {
       "id": "ev-1ib3trr",
@@ -361,7 +443,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 16.11
+      "score": 16
     },
     {
       "id": "ev-1dpu49x",
@@ -412,7 +494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T12:07:16.817Z",
       "updatedSlot": "manana",
-      "score": 13.36
+      "score": 13.06
     },
     {
       "id": "ev-10h12zl",
@@ -471,58 +553,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 13.35
-    },
-    {
-      "id": "ev-17al5iu",
-      "title": "ANDE firma contrato de suministro eléctrico por 15 años con tarifas diferenciadas",
-      "summary": "La ANDE acordó un contrato de suministro de energía eléctrica por 15 años para industria electrointensiva. La provisión empezará en diciembre de 2026 con 6 MW y llegará a 286 MW en abril de 2029. El convenio fija tarifas diferenciadas y obliga a la empresa a financiar las obras de conexión en la Subestación Yguazú.",
-      "keyPoints": [
-        "El suministro comienza en diciembre de 2026 con 6 MW.",
-        "La potencia llegará a 286 MW en abril de 2029.",
-        "La empresa financiará las obras de conexión en la Subestación Yguazú."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "ANDE pacta tarifas especiales para industria electrointensiva",
-          "url": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva",
-          "publishedAt": "2026-10-24T10:47:50.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "ANDE acuerda suministro eléctrico por 15 años con tarifas diferenciadas",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/23/ande-acuerda-suministro-electrico-por-15-anos-con-tarifas-diferenciadas",
-          "publishedAt": "2026-10-23T23:58:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/2JPZEIPHPRE2RCX23L5SXUHIHI.jpeg?auth=dc9a283a9fe594b51495cc3b0e58349f58a6f14363c84d5be1c49c6c2c87fe5d&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ande firma contrato de suministro de energía eléctrica por 15 años",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/23/ande-firma-contrato-de-suministro-de-energia-electrica-por-15-anos",
-          "publishedAt": "2026-10-23T22:27:31.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mkjCpBj8k5l4bDrohd1stBr4h3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MEQF3ECGBB53OEYBVLTPE6RLA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T12:07:16.817Z",
-      "updatedSlot": "manana",
-      "score": 13.26
+      "score": 13.06
     },
     {
       "id": "ev-1jik6jk",
@@ -584,6 +615,57 @@
       "score": 13
     },
     {
+      "id": "ev-17al5iu",
+      "title": "ANDE firma contrato de suministro eléctrico por 15 años con tarifas diferenciadas",
+      "summary": "La ANDE acordó un contrato de suministro de energía eléctrica por 15 años para industria electrointensiva. La provisión empezará en diciembre de 2026 con 6 MW y llegará a 286 MW en abril de 2029. El convenio fija tarifas diferenciadas y obliga a la empresa a financiar las obras de conexión en la Subestación Yguazú.",
+      "keyPoints": [
+        "El suministro comienza en diciembre de 2026 con 6 MW.",
+        "La potencia llegará a 286 MW en abril de 2029.",
+        "La empresa financiará las obras de conexión en la Subestación Yguazú."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "ANDE pacta tarifas especiales para industria electrointensiva",
+          "url": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva",
+          "publishedAt": "2026-10-24T10:47:50.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "ANDE acuerda suministro eléctrico por 15 años con tarifas diferenciadas",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/23/ande-acuerda-suministro-electrico-por-15-anos-con-tarifas-diferenciadas",
+          "publishedAt": "2026-10-23T23:58:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2JPZEIPHPRE2RCX23L5SXUHIHI.jpeg?auth=dc9a283a9fe594b51495cc3b0e58349f58a6f14363c84d5be1c49c6c2c87fe5d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ande firma contrato de suministro de energía eléctrica por 15 años",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/23/ande-firma-contrato-de-suministro-de-energia-electrica-por-15-anos",
+          "publishedAt": "2026-10-23T22:27:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mkjCpBj8k5l4bDrohd1stBr4h3g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MEQF3ECGBB53OEYBVLTPE6RLA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/subestatica-ande.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/ande-pacta-tarifas-especiales-para-industria-electrointensiva"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T12:07:16.817Z",
+      "updatedSlot": "manana",
+      "score": 12.97
+    },
+    {
       "id": "ev-1as7601",
       "title": "Fiscalía abre causa por más de mil títulos académicos con inconsistencias",
       "summary": "La Fiscalía abrió una causa penal tras una denuncia de la Contraloría. El organismo detectó inconsistencias en más de mil títulos académicos de funcionarios de unas 35 instituciones públicas. La Contraloría derivó 1.082 casos a la Fiscalía. Hasta ahora no hay personas imputadas. La Comisión del Senado que investiga el tema había pedido la fiscalización.",
@@ -633,7 +715,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 12.79
+      "score": 12.5
     },
     {
       "id": "ev-13hbag3",
@@ -684,7 +766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 12.29
+      "score": 12
     },
     {
       "id": "ev-04xypmu",
@@ -735,7 +817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 12.07
+      "score": 12
     },
     {
       "id": "ev-12eyc5f",
@@ -787,7 +869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.77
+      "score": 9.48
     },
     {
       "id": "ev-0xsatuk",
@@ -839,7 +921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.37
     },
     {
       "id": "ev-1dpy8sx",
@@ -881,7 +963,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.43
     },
     {
       "id": "ev-1wnx61a",
@@ -924,7 +1006,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-141x5on",
@@ -967,7 +1049,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.35
     },
     {
       "id": "ev-0asiqpu",
@@ -1010,7 +1092,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-0we1ef4",
@@ -1053,7 +1135,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 8.08
+      "score": 8
     },
     {
       "id": "ev-0sou0bd",
@@ -1360,136 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 6.21
-    },
-    {
-      "id": "ev-1lhofkf",
-      "title": "TSJE lanza campaña \"Soy joven, quiero votar\" para elecciones de 2028",
-      "summary": "El Tribunal Superior de Justicia Electoral (TSJE), liderado por Jorge Bogarín, lanzó este viernes la campaña nacional \"Soy joven, quiero votar\". Busca potenciar la participación del sector juvenil en las elecciones generales. La iniciativa apunta a los comicios generales de 2028. Es una campaña nacional que busca sumar a los jóvenes a las urnas.",
-      "keyPoints": [
-        "El TSJE presentó la campaña nacional \"Soy joven, quiero votar\".",
-        "La iniciativa está liderada por Jorge Bogarín.",
-        "El objetivo es potenciar la participación juvenil en las elecciones de 2028."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Campaña nacional del TSJE",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/campana-nacional-del-tsje",
-          "publishedAt": "2026-10-24T04:47:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jxO6Lt2oWK6wbhjlWAqL1YXKowY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BQ5ORNUGVJEPXAVLCKWLX2L2SU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "TSJE lanza la campaña nacional “Soy joven, quiero votar”",
-          "url": "https://www.lanacion.com.py/politica/2026/10/23/tsje-lanza-la-campana-nacional-soy-joven-quiero-votar",
-          "publishedAt": "2026-10-23T16:35:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1w7F4L9zqViNl8BV_D6f2Mn2ca0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FLCLU2YEIFH7FN5X5J4KWC2C4Y.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BQ5ORNUGVJEPXAVLCKWLX2L2SU.jpg?auth=3d9739f303b3d41f00fa01b6de4d7fab3fc478c73d09e15b65718769e4a579e2&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/campana-nacional-del-tsje"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 5.76
-    },
-    {
-      "id": "ev-1z08a8y",
-      "title": "The Pink Edit celebró su segunda edición con protagonismo femenino",
-      "summary": "The Pink Edit realizó su segunda edición en el marco de Octubre Rosa. La propuesta impulsada por la empresaria Sol Cartes reunió nuevamente a mujeres. El encuentro apunta a celebrar la belleza, la confianza y la expresión personal. Fue una experiencia pensada para mujeres, según la cobertura.",
-      "keyPoints": [
-        "The Pink Edit llegó a su segunda edición.",
-        "Se realizó en el marco de Octubre Rosa.",
-        "La propuesta es impulsada por la empresaria Sol Cartes."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "The Pink Edit celebró su 2.a edición con estilo y protagonismo femenino",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/the-pink-edit-celebro-su-2a-edicion-con-estilo-y-protagonismo-femenino",
-          "publishedAt": "2026-10-24T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/odsyFthTGoc9l8JNDJ2tZGG4OGw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4PQQQ7JBVVA55KE5QSL3BOFEGM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "The Pink Edit celebró su segunda edición con estilo y protagonismo femenino",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/23/the-pink-edit-celebro-su-segunda-edicion-con-estilo-y-protagonismo-femenino",
-          "publishedAt": "2026-10-23T16:12:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_TjzjMFV4gnLGUOb_S_vpKyr3dk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z4E4JSEVXVHZZMZMJ7OSPLHUDE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4PQQQ7JBVVA55KE5QSL3BOFEGM.jpg?auth=30e3b474f19c8e4317965f0594787b1953f6324c5f91238e90d97258fe79cd08&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/the-pink-edit-celebro-su-2a-edicion-con-estilo-y-protagonismo-femenino"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 5.62
-    },
-    {
-      "id": "ev-1izjkxh",
-      "title": "Senatur inicia el plan de desarrollo turístico sostenible de Bella Vista",
-      "summary": "La Secretaría Nacional de Turismo (Senatur) comenzó a elaborar el Plan de Desarrollo Turístico Sostenible de Bella Vista. El inicio se dio con una reunión de trabajo con representantes de la municipalidad y referentes de la comunidad local. Según la nota, también avanza la postulación de la ciudad como capital de la yerba mate. El plan busca ordenar el turismo en el municipio a largo plazo.",
-      "keyPoints": [
-        "Senatur dio inicio al proceso de elaboración del plan (PDTS-BV).",
-        "Participaron representantes de la municipalidad y referentes comunitarios.",
-        "Avanza la postulación de Bella Vista como capital de la yerba mate."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Bella Vista: inician plan de desarrollo turístico sostenible",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/bella-vista-inician-plan-de-desarrollo-turistico-sostenible",
-          "publishedAt": "2026-10-24T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iCKZXV9z7lGNo7NeudNzLmUFkfM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KAV3SJG7NNBEZLDEQ7WLLKBYPA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Inician plan para impulsar el desarrollo turístico sostenible de Bella Vista",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/23/inician-plan-para-impulsar-el-desarrollo-turistico-sostenible-de-bella-vista",
-          "publishedAt": "2026-10-23T16:22:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LZovRiEZRFho3rRyXaxgAh7pK0U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XFHLD7XS6FDRPC7QM7FBBHBTYI.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KAV3SJG7NNBEZLDEQ7WLLKBYPA.jpg?auth=965caecf1e1acb687476cc17a0817dc9ea4f80a8cbdff6f8ae98db889046850c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/bella-vista-inician-plan-de-desarrollo-turistico-sostenible"
-      },
-      "firstSeenAt": "2026-10-24T08:07:19.021Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-24T08:07:19.021Z",
-      "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.92
     },
     {
       "id": "ev-1cyghsm",
@@ -1533,7 +1486,136 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.5
+    },
+    {
+      "id": "ev-1lhofkf",
+      "title": "TSJE lanza campaña \"Soy joven, quiero votar\" para elecciones de 2028",
+      "summary": "El Tribunal Superior de Justicia Electoral (TSJE), liderado por Jorge Bogarín, lanzó este viernes la campaña nacional \"Soy joven, quiero votar\". Busca potenciar la participación del sector juvenil en las elecciones generales. La iniciativa apunta a los comicios generales de 2028. Es una campaña nacional que busca sumar a los jóvenes a las urnas.",
+      "keyPoints": [
+        "El TSJE presentó la campaña nacional \"Soy joven, quiero votar\".",
+        "La iniciativa está liderada por Jorge Bogarín.",
+        "El objetivo es potenciar la participación juvenil en las elecciones de 2028."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Campaña nacional del TSJE",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/campana-nacional-del-tsje",
+          "publishedAt": "2026-10-24T04:47:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jxO6Lt2oWK6wbhjlWAqL1YXKowY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BQ5ORNUGVJEPXAVLCKWLX2L2SU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "TSJE lanza la campaña nacional “Soy joven, quiero votar”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/23/tsje-lanza-la-campana-nacional-soy-joven-quiero-votar",
+          "publishedAt": "2026-10-23T16:35:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1w7F4L9zqViNl8BV_D6f2Mn2ca0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FLCLU2YEIFH7FN5X5J4KWC2C4Y.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BQ5ORNUGVJEPXAVLCKWLX2L2SU.jpg?auth=3d9739f303b3d41f00fa01b6de4d7fab3fc478c73d09e15b65718769e4a579e2&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/campana-nacional-del-tsje"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T08:07:19.021Z",
+      "updatedSlot": "manana",
+      "score": 5.47
+    },
+    {
+      "id": "ev-1z08a8y",
+      "title": "The Pink Edit celebró su segunda edición con protagonismo femenino",
+      "summary": "The Pink Edit realizó su segunda edición en el marco de Octubre Rosa. La propuesta impulsada por la empresaria Sol Cartes reunió nuevamente a mujeres. El encuentro apunta a celebrar la belleza, la confianza y la expresión personal. Fue una experiencia pensada para mujeres, según la cobertura.",
+      "keyPoints": [
+        "The Pink Edit llegó a su segunda edición.",
+        "Se realizó en el marco de Octubre Rosa.",
+        "La propuesta es impulsada por la empresaria Sol Cartes."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "The Pink Edit celebró su 2.a edición con estilo y protagonismo femenino",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/the-pink-edit-celebro-su-2a-edicion-con-estilo-y-protagonismo-femenino",
+          "publishedAt": "2026-10-24T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/odsyFthTGoc9l8JNDJ2tZGG4OGw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4PQQQ7JBVVA55KE5QSL3BOFEGM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "The Pink Edit celebró su segunda edición con estilo y protagonismo femenino",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/23/the-pink-edit-celebro-su-segunda-edicion-con-estilo-y-protagonismo-femenino",
+          "publishedAt": "2026-10-23T16:12:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_TjzjMFV4gnLGUOb_S_vpKyr3dk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z4E4JSEVXVHZZMZMJ7OSPLHUDE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4PQQQ7JBVVA55KE5QSL3BOFEGM.jpg?auth=30e3b474f19c8e4317965f0594787b1953f6324c5f91238e90d97258fe79cd08&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/the-pink-edit-celebro-su-2a-edicion-con-estilo-y-protagonismo-femenino"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T08:07:19.021Z",
+      "updatedSlot": "manana",
+      "score": 5.33
+    },
+    {
+      "id": "ev-1izjkxh",
+      "title": "Senatur inicia el plan de desarrollo turístico sostenible de Bella Vista",
+      "summary": "La Secretaría Nacional de Turismo (Senatur) comenzó a elaborar el Plan de Desarrollo Turístico Sostenible de Bella Vista. El inicio se dio con una reunión de trabajo con representantes de la municipalidad y referentes de la comunidad local. Según la nota, también avanza la postulación de la ciudad como capital de la yerba mate. El plan busca ordenar el turismo en el municipio a largo plazo.",
+      "keyPoints": [
+        "Senatur dio inicio al proceso de elaboración del plan (PDTS-BV).",
+        "Participaron representantes de la municipalidad y referentes comunitarios.",
+        "Avanza la postulación de Bella Vista como capital de la yerba mate."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bella Vista: inician plan de desarrollo turístico sostenible",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/bella-vista-inician-plan-de-desarrollo-turistico-sostenible",
+          "publishedAt": "2026-10-24T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iCKZXV9z7lGNo7NeudNzLmUFkfM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KAV3SJG7NNBEZLDEQ7WLLKBYPA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inician plan para impulsar el desarrollo turístico sostenible de Bella Vista",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/23/inician-plan-para-impulsar-el-desarrollo-turistico-sostenible-de-bella-vista",
+          "publishedAt": "2026-10-23T16:22:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LZovRiEZRFho3rRyXaxgAh7pK0U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XFHLD7XS6FDRPC7QM7FBBHBTYI.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KAV3SJG7NNBEZLDEQ7WLLKBYPA.jpg?auth=965caecf1e1acb687476cc17a0817dc9ea4f80a8cbdff6f8ae98db889046850c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/bella-vista-inician-plan-de-desarrollo-turistico-sostenible"
+      },
+      "firstSeenAt": "2026-10-24T08:07:19.021Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-24T08:07:19.021Z",
+      "updatedSlot": "manana",
+      "score": 5.33
     },
     {
       "id": "ev-0kbjntx",
@@ -1568,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.51
     },
     {
       "id": "ev-0iufh88",
@@ -1603,7 +1685,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.49
     },
     {
       "id": "ev-1qme083",
@@ -1636,7 +1718,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0r4e322",
@@ -1671,7 +1753,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-14ufyfp",
@@ -1700,7 +1782,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1wfkvm1",
@@ -1733,7 +1815,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-05aul0b",
@@ -1768,7 +1850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1cgemz9",
@@ -1803,7 +1885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1slr27a",
@@ -1838,7 +1920,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0ikzx21",
@@ -1873,7 +1955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0bbdfb2",
@@ -1921,7 +2003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 4.39
+      "score": 4.1
     },
     {
       "id": "ev-1sty72v",
@@ -1996,7 +2078,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 3.36
+      "score": 3.07
     },
     {
       "id": "ev-12etuld",
@@ -2027,7 +2109,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.24
     },
     {
       "id": "ev-1fr3bm1",
@@ -2058,7 +2140,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.5
+      "score": 2.21
     },
     {
       "id": "ev-02umaak",
@@ -2089,7 +2171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.49
+      "score": 2.2
     },
     {
       "id": "ev-1d2c3wk",
@@ -2120,7 +2202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.49
+      "score": 2.2
     },
     {
       "id": "ev-06mzgj4",
@@ -2152,7 +2234,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.45
+      "score": 2.16
     },
     {
       "id": "ev-0p1fawq",
@@ -2184,7 +2266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.38
+      "score": 2.09
     },
     {
       "id": "ev-03u7qgm",
@@ -2216,7 +2298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.33
+      "score": 2.04
     },
     {
       "id": "ev-02zpmy9",
@@ -2248,7 +2330,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-24T08:07:19.021Z",
       "updatedSlot": "manana",
-      "score": 2.32
+      "score": 2.03
     }
   ],
   "runs": [
@@ -2276,6 +2358,13 @@
     {
       "slot": "tarde",
       "at": "2026-10-24T19:37:15.664Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-24T23:07:11.547Z",
       "added": 0,
       "updated": 2,
       "candidates": 12
