@@ -1,11 +1,167 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-25T12:07:15.038Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-25T16:07:12.980Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1mrrh1a",
+      "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
+      "summary": "Los brasileños acuden este domingo a las urnas para elegir presidente entre Lula da Silva y Flávio Bolsonaro. Sigue aquí la jornada electoral, los resultados y las reacciones. “Brasil va a cambiar. Brasil va a vencer”, declaró el hijo del expresidente Jair Bolsonaro , quien criticó la gestión de su rival, el mandatario, Luiz Inácio Lula da Silva, y defendió la necesidad de reorganizar el país.",
+      "keyPoints": [
+        "Los brasileños acuden este domingo a las urnas para elegir presidente entre Lula da Silva y Flávio Bolsonaro.",
+        "“Brasil va a cambiar.",
+        "Una encuesta del instituto Datafolha publicada el jueves dio un empate, con 50% de intención de votos para cada uno de los candidatos.",
+        "El candidato de la derecha brasileña Flávio Bolsonaro afirmó este domingo que la esperanza se ha convertido en miedo para los brasileños y los llamó a acudir a las urnas, \"haga lluvia o haga sol\", para…"
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Mario Abdo se juega políticamente por Flávio Bolsonaro en la decisiva elección brasileña",
+          "url": "https://elnacional.com.py/politica/mario-abdo-juega-politicamente-flavio-bolsonaro-decisiva-eleccion-brasilena-n114158",
+          "publishedAt": "2026-10-25T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2021/12/35634ba103fcdc4cc168b1ffcc690fe6.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Flávio Bolsonaro pide salir a las urnas \"con lluvia o con sol\" para cambiar el país",
+          "url": "https://www.ultimahora.com/flavio-bolsonaro-pide-salir-a-las-urnas-con-lluvia-o-con-sol-para-cambiar-el-pais",
+          "publishedAt": "2026-10-25T12:47:26.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Mario Abdo desea \"todo el éxito\" a Flávio Bolsonaro en segunda vuelta en Brasil",
+          "url": "https://www.ultimahora.com/mario-abdo-desea-todo-el-exito-a-flavio-bolsonaro-en-segunda-vuelta-en-brasil",
+          "publishedAt": "2026-10-25T12:39:24.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Brasil, ante una elección decisiva entre Lula y Flávio Bolsonaro: Hay más de 158 millones de votantes",
+          "url": "https://www.ultimahora.com/brasil-ante-una-eleccion-decisiva-entre-lula-y-flavio-bolsonaro-hay-mas-de-158-millones-de-votantes",
+          "publishedAt": "2026-10-25T12:07:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro pide salir a las urnas \"con lluvia o con sol\" para cambiar el país",
+          "url": "https://www.abc.com.py/internacionales/2026/10/25/flavio-bolsonaro-pide-salir-a-las-urnas-con-lluvia-o-con-sol-para-cambiar-el-pais",
+          "publishedAt": "2026-10-25T12:00:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
+          "url": "https://www.adndigital.com.py/abren-las-urnas-en-brasil-para-balotaje-entre-lula-y-flavio-bolsonaro",
+          "publishedAt": "2026-10-25T11:57:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
+          "url": "https://elnacional.com.py/mundo/abren-urnas-brasil-balotaje-lula-flavio-bolsonaro-n114147",
+          "publishedAt": "2026-10-25T11:31:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adde820e65b0.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los colegios electorales abren para la segunda vuelta de las presidenciales en Brasil",
+          "url": "https://www.abc.com.py/internacionales/2026/10/25/los-colegios-electorales-abren-para-la-segunda-vuelta-de-las-presidenciales-en-brasil",
+          "publishedAt": "2026-10-25T11:10:16.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Brasil decide en las urnas: ¿Más Lula o los Bolsonaro de vuelta?",
+          "url": "https://www.hoy.com.py/mundo/2026/10/25/brasil-decide-en-las-urnas-mas-lula-o-los-bolsonaro-de-vuelta",
+          "publishedAt": "2026-10-25T10:57:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QUR75GJWEZCHBKSSUHAQGWJWNY.jpg?auth=f70a7d4b5e96b0b9261c11b3866bb486e863e4e67bda454f782d106bd984cabb&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil se paraliza: Lula y Bolsonaro se miden hoy en balotaje",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/25/brasil-se-paraliza-lula-y-bolsonaro-se-miden-hoy-en-balotaje",
+          "publishedAt": "2026-10-25T10:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/w0Nn0GhtOmpIEnM9FdyJBNklUNE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
+          "url": "https://www.adndigital.com.py/lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje",
+          "publishedAt": "2026-10-25T10:28:29.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/lula-y-flavio.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Elecciones en Brasil: Lula y Bolsonaro pelean voto a voto este domingo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/a-un-dia-de-las-elecciones-de-brasil-fin-de-campana-multitudinario-y-empate-en-encuestas",
+          "publishedAt": "2026-10-25T10:08:50.000Z",
+          "image": "https://www.abc.com.py/resizer/5HhuKxAKQnNIZumUGdPh9VbDn30=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula y Bolsonaro se miden hoy en balotaje",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/25/lula-y-bolsonaro-se-miden-hoy-en-balotaje",
+          "publishedAt": "2026-10-25T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/w0Nn0GhtOmpIEnM9FdyJBNklUNE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula y Bolsonaro cierran sus campañas en multitudinarios a un día del balotaje Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-cierran-sus-campanas-en-multitudinarios-a-un-dia-del-balotaje-brasil",
+          "publishedAt": "2026-10-24T23:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JXHFTXAL2VC6PO6WC3IL2JXREE.jpg?auth=73cfac255591367e16f608e8c23b4aa0ff36fb967abeb85f4c48edd36989fe11&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Después del debate, a las calles: Lula y Bolsonaro cierran campaña en Brasil",
+          "url": "https://elnacional.com.py/mundo/despues-debate-calles-lula-bolsonaro-cierran-campana-brasil-n114110",
+          "publishedAt": "2026-10-24T16:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adcb83ce6c63.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Lula y Bolsonaro llegan a un balotaje ajustado que puede cambiar el rumbo económico regional",
+          "url": "https://5dias.com.py/article/lula-y--bolsonaro-llegan-a-un-balotaje-ajustado-que-puede-cambiar-el-rumbo-econmico-regional",
+          "publishedAt": "2026-10-24T09:52:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/gettyimages-2300395660_20261024_100121.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6adde820e65b0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/abren-urnas-brasil-balotaje-lula-flavio-bolsonaro-n114147"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T16:07:12.980Z",
+      "updatedSlot": "tarde",
+      "score": 24.38
+    },
     {
       "id": "ev-0hbvm76",
       "title": "Domingo fresco y cálido con lluvias leves y dispersas en el país",
@@ -128,130 +284,194 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 23.94
+      "score": 23.6
     },
     {
-      "id": "ev-1mrrh1a",
-      "title": "Lula y Flávio Bolsonaro cierran sus campañas con multitudinarios actos",
-      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas el sábado con grandes concentraciones. El presidente Lula encabezó una marea roja en la playa de Copacabana, en Río de Janeiro, y luego viajó a São Paulo. Flávio Bolsonaro hizo un paseo en moto en Belo Horizonte, y centenares de motociclistas se movilizaron en su apoyo. La votación es este domingo.",
+      "id": "ev-1ns2yec",
+      "title": "Opositores rechazaron a Payo Cubas como articulador de la unidad rumbo al 2028",
+      "summary": "El presidente del Partido Cruzada Nacional, Paraguayo “Payo” Cubas fracasó en su intento de erigirse como el articulador de la unidad opositora con miras a la presidenciales del 2028. El polémico dirigente esteño tomó la iniciativa de convocar a varios partidos políticos con representación parlamentaria para decidir un mecanismo de elección de la candidatura única.",
       "keyPoints": [
-        "Lula cerró su campaña en Río de Janeiro y São Paulo.",
-        "Flávio Bolsonaro encabezó un paseo en moto en Belo Horizonte.",
-        "Decenas de miles de simpatizantes participaron de los actos."
+        "El presidente del Partido Cruzada Nacional, Paraguayo “Payo” Cubas fracasó en su intento de erigirse como el articulador de la unidad opositora con miras a la presidenciales del 2028.",
+        "El presidente de Cruzada Nacional no logró el respaldo de los principales partidos del bloque opositor para liderar la articulación de una candidatura única.",
+        "El fundador del Partido Cruzada Nacional, Paraguayo “Payo” Cubas, fracasó en su intento de erigirse como el articulador de la unidad opositora con miras a las presidenciales del 2028.",
+        "El presidente del Partido Patria Querida, Stephan Rasmussen sostuvo que la prioridad para los partidos de la oposición debe ser construir una candidatura única, para enfrentar al Partido Colorado en las Presidenciales 2028; teniendo en cuenta…"
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "politica",
+      "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Dirigentes opositores rechazan la convocatoria de Payo Cubas rumbo al 2028",
+          "url": "https://www.hoy.com.py/politica/2026/10/25/dirigentes-opositores-rechazan-la-convocatoria-de-payo-cubas-rumbo-al-2028",
+          "publishedAt": "2026-10-25T14:43:59.830Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/L3BOODR6XZHFLHXQAJQFHTXQJM.jpg?auth=c2fd343f1fe4628eacd7103ed2954811f9a7661bc0bd2dcd7112e9e4cc966a16&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Nadie quiere que Payo Cubas encabece cumbre de la oposición",
+          "url": "https://www.adndigital.com.py/nadie-quiere-que-payo-cubas-encabece-cumbre-de-la-oposicion",
+          "publishedAt": "2026-10-25T14:33:38.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2019/07/Payo-Cubas-e1680523598856.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Opositores rechazaron a Payo Cubas como articulador de la unidad rumbo al 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/opositores-rechazaron-a-payo-cubas-como-articulador-de-la-unidad-rumbo-al-2028",
+          "publishedAt": "2026-10-24T20:58:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ddsy9IE9cuRnQC4Vvi7GwX6Lq5I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q4B5LQP2VFH4HPMB6RXRVM5CGY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rasmussen propone la unidad opositora como prioridad para las elecciones del 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/rasmussen-propone-la-unidad-opositora-como-prioridad-para-las-elecciones-del-2028",
+          "publishedAt": "2026-10-24T17:46:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0Iz2DPSKJbcSZpXGlWlps7o2Clw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QNIK4VJN2RFQ7E3PZVOLVUSE3Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/Q4B5LQP2VFH4HPMB6RXRVM5CGY.jpg?auth=3d30c37fcd865eed9bb90edaba2ad55bca2a5397bb7f9902063889e2e05989a4&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/24/opositores-rechazaron-a-payo-cubas-como-articulador-de-la-unidad-rumbo-al-2028"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T16:07:12.980Z",
+      "updatedSlot": "tarde",
+      "score": 14.88
+    },
+    {
+      "id": "ev-0zpqvej",
+      "title": "Crecida del Paraná obliga trabajos de emergencia",
+      "summary": "Crecida del río Paraná continúa generando severas consecuencias aguas abajo del complejo hidroeléctrico, afectando a varias comunidades ribereñas. La EBY ejecuta obras urgentes en Corrientes para frenar el desprendimiento de rocas y proteger la infraestructura eléctrica. Ayolas (Paraguay), 25 oct (EFE).- Ramón Ferreira relató con pesar que su vida se detuvo hace dos semanas, cuando la crecida del río Paraná inundó su casa y las de cientos de personas en…",
+      "keyPoints": [
+        "Crecida del río Paraná continúa generando severas consecuencias aguas abajo del complejo hidroeléctrico, afectando a varias comunidades ribereñas.",
+        "La EBY ejecuta obras urgentes en Corrientes para frenar el desprendimiento de rocas y proteger la infraestructura eléctrica.",
+        "Ayolas (Paraguay), 25 oct (EFE).- Ramón Ferreira relató con pesar que su vida se detuvo hace dos semanas, cuando la crecida del río Paraná inundó su casa y las de cientos de personas en la ciudad…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Flávio Bolsonaro pide salir a las urnas \"con lluvia o con sol\" para cambiar el país",
-          "url": "https://www.abc.com.py/internacionales/2026/10/25/flavio-bolsonaro-pide-salir-a-las-urnas-con-lluvia-o-con-sol-para-cambiar-el-pais",
-          "publishedAt": "2026-10-25T12:00:09.000Z",
+          "title": "La vida se detiene en el epicentro de la emergencia paraguaya por crecida del río Paraná",
+          "url": "https://www.abc.com.py/internacionales/2026/10/25/la-vida-se-detiene-en-el-epicentro-de-la-emergencia-paraguaya-por-crecida-del-rio-parana",
+          "publishedAt": "2026-10-25T14:05:08.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
-          "url": "https://www.adndigital.com.py/abren-las-urnas-en-brasil-para-balotaje-entre-lula-y-flavio-bolsonaro",
-          "publishedAt": "2026-10-25T11:57:27.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
-          "url": "https://elnacional.com.py/mundo/abren-urnas-brasil-balotaje-lula-flavio-bolsonaro-n114147",
-          "publishedAt": "2026-10-25T11:31:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adde820e65b0.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los colegios electorales abren para la segunda vuelta de las presidenciales en Brasil",
-          "url": "https://www.abc.com.py/internacionales/2026/10/25/los-colegios-electorales-abren-para-la-segunda-vuelta-de-las-presidenciales-en-brasil",
-          "publishedAt": "2026-10-25T11:10:16.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Brasil decide en las urnas: ¿Más Lula o los Bolsonaro de vuelta?",
-          "url": "https://www.hoy.com.py/mundo/2026/10/25/brasil-decide-en-las-urnas-mas-lula-o-los-bolsonaro-de-vuelta",
-          "publishedAt": "2026-10-25T10:57:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/QUR75GJWEZCHBKSSUHAQGWJWNY.jpg?auth=f70a7d4b5e96b0b9261c11b3866bb486e863e4e67bda454f782d106bd984cabb&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Brasil se paraliza: Lula y Bolsonaro se miden hoy en balotaje",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/25/brasil-se-paraliza-lula-y-bolsonaro-se-miden-hoy-en-balotaje",
-          "publishedAt": "2026-10-25T10:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/w0Nn0GhtOmpIEnM9FdyJBNklUNE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
-          "url": "https://www.adndigital.com.py/lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje",
-          "publishedAt": "2026-10-25T10:28:29.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/lula-y-flavio.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Elecciones en Brasil: Lula y Bolsonaro pelean voto a voto este domingo",
-          "url": "https://www.abc.com.py/internacionales/2026/10/24/a-un-dia-de-las-elecciones-de-brasil-fin-de-campana-multitudinario-y-empate-en-encuestas",
-          "publishedAt": "2026-10-25T10:08:50.000Z",
-          "image": "https://www.abc.com.py/resizer/5HhuKxAKQnNIZumUGdPh9VbDn30=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lula y Bolsonaro se miden hoy en balotaje",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/25/lula-y-bolsonaro-se-miden-hoy-en-balotaje",
+          "title": "Crecida del Paraná obliga trabajos de emergencia",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/25/crecida-del-parana-obliga-trabajos-de-emergencia",
           "publishedAt": "2026-10-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/w0Nn0GhtOmpIEnM9FdyJBNklUNE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg"
+          "image": "https://www.lanacion.com.py/resizer/xSLfpRvzq8YZobxJ8_Ecx3-_23c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XS5VG5HJSNBYJKBHAE77QUUFAM.jpg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Lula y Bolsonaro cierran sus campañas en multitudinarios a un día del balotaje Brasil",
-          "url": "https://www.hoy.com.py/mundo/2026/10/24/lula-y-bolsonaro-cierran-sus-campanas-en-multitudinarios-a-un-dia-del-balotaje-brasil",
-          "publishedAt": "2026-10-24T23:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/JXHFTXAL2VC6PO6WC3IL2JXREE.jpg?auth=73cfac255591367e16f608e8c23b4aa0ff36fb967abeb85f4c48edd36989fe11&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Crecida del Paraná obliga a trabajos de emergencia en torres de Yacyretá",
+          "url": "https://www.lanacion.com.py/pais/2026/10/24/crecida-del-parana-obliga-a-trabajos-de-emergencia-en-torres-de-yacyreta",
+          "publishedAt": "2026-10-24T16:55:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/E6eLviNIUVxWKkqlDdFl-3_3xm0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NBRN22FQZFCARNH4OJ6JC67UR4.jpg"
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Después del debate, a las calles: Lula y Bolsonaro cierran campaña en Brasil",
-          "url": "https://elnacional.com.py/mundo/despues-debate-calles-lula-bolsonaro-cierran-campana-brasil-n114110",
-          "publishedAt": "2026-10-24T16:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adcb83ce6c63.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Lula y Bolsonaro llegan a un balotaje ajustado que puede cambiar el rumbo económico regional",
-          "url": "https://5dias.com.py/article/lula-y--bolsonaro-llegan-a-un-balotaje-ajustado-que-puede-cambiar-el-rumbo-econmico-regional",
-          "publishedAt": "2026-10-24T09:52:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/gettyimages-2300395660_20261024_100121.jpg"
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Crecida del Paraná obliga a reforzar defensas de la hidroeléctrica Yacyretá",
+          "url": "https://www.adndigital.com.py/crecida-del-parana-obliga-a-reforzar-defensas-de-la-hidroelectrica-yacyreta",
+          "publishedAt": "2026-10-24T11:52:29.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-090512.jpeg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg?auth=8e5bcbc0ef8bc3c9e6acc6eae51ff8714d4b46676ed7fa2687d55334d16c1b5a&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/24/a-un-dia-de-las-elecciones-de-brasil-fin-de-campana-multitudinario-y-empate-en-encuestas"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XS5VG5HJSNBYJKBHAE77QUUFAM.jpg?auth=50563e7f3c60f17618f1d94fb3db8af276bfb9917e7eb8cd53b0aaa85555cf20&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/25/crecida-del-parana-obliga-trabajos-de-emergencia"
       },
       "firstSeenAt": "2026-10-25T08:07:11.521Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-25T12:07:15.038Z",
-      "updatedSlot": "manana",
-      "score": 21.49
+      "updatedAt": "2026-10-25T16:07:12.980Z",
+      "updatedSlot": "tarde",
+      "score": 14.83
+    },
+    {
+      "id": "ev-1x14jip",
+      "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
+      "summary": "El mandatario Santiago Peña ratificó este sábado su “apoyo incondicional” al candidato a presidente de la República, Pedro Alliana en la elección de su dupla con miras a las elecciones generales del 2028. El segundo del Ejecutivo deberá definir entre las figuras de el ministro de Industria y Comercio, Marco Riquelme; el titular de la Cámara de Diputados, Raúl Latorre y el gobernador del Guairá, César Sosa.",
+      "keyPoints": [
+        "El mandatario Santiago Peña ratificó este sábado su “apoyo incondicional” al candidato a presidente de la República, Pedro Alliana en la elección de su dupla con miras a las elecciones generales del 2028.",
+        "Hace ocho días el expresidente y titular de la Asociación Nacional Republicana (ANR) Horacio Cartes , mediante un comunicado, anunció que el sector que lidera, el movimiento Honor Colorado, no presentará candidaturas partidarias ni nacionales en…",
+        "El vicepresidente deberá definir entre las figuras del titular del MIC, Marco Riquelme; el de la Cámara de Diputados, Raúl Latorre, y el gobernador de Guairá, César Sosa.",
+        "El vicepresidente de la República, Pedro Alliana, anunció que el próximo lunes podría contar con los resultados de la encuesta que encargó para evaluar a los posibles integrantes de su fórmula presidencial con miras a las…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Quiebre en el cartismo: Peña afirma que Alliana tiene su “apoyo incondicional” para elegir su dupla presidencial",
+          "url": "https://www.abc.com.py/politica/2026/10/25/quiebre-en-el-cartismo-pena-afirma-que-alliana-tiene-su-apoyo-incondicional-para-elegir-su-dupla-presidencial",
+          "publishedAt": "2026-10-25T13:42:33.000Z",
+          "image": "https://www.abc.com.py/resizer/VllXeJrM-q01u4bFBvwLItE9pWU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5OURQ2NNGJDM7HV7A3GXRUOUXA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana podría revelar el lunes los resultados de la encuesta para definir su dupla presidencial",
+          "url": "https://elnacional.com.py/politica/alliana-podria-revelar-lunes-resultados-encuesta-definir-su-dupla-presidencial-n114144",
+          "publishedAt": "2026-10-25T11:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña ratifica su “apoyo incondicional” a Pedro Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/25/santiago-pena-ratifica-su-apoyo-incondicional-a-pedro-alliana",
+          "publishedAt": "2026-10-25T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wrWhSi7fX0IT9lS2wLPMFO4rT1M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EJRYKAZ3P5ES5P7NSZ4RMBASRM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Latorre suma respaldos para acompañar a Alliana en la carrera presidencial",
+          "url": "https://elnacional.com.py/politica/latorre-suma-respaldos-acompanar-alliana-carrera-presidencial-n114129",
+          "publishedAt": "2026-10-24T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adcfc66747c2.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla",
+          "publishedAt": "2026-10-24T20:09:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YOR9Lt4V4xJ-02aWLNysxxnMYBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif?auth=5ffce0ad334a5bd2391c9240eb40573942250c5de4a9d3045a22218a1e889f08&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T16:07:12.980Z",
+      "updatedSlot": "tarde",
+      "score": 14.8
     },
     {
       "id": "ev-1y3nn56",
@@ -302,67 +522,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 13.95
-    },
-    {
-      "id": "ev-1x14jip",
-      "title": "Alliana podría anunciar el lunes los resultados de su encuesta para la dupla",
-      "summary": "El vicepresidente Pedro Alliana podría conocer el lunes los resultados de la encuesta que encargó para evaluar a posibles compañeros de fórmula rumbo a 2028. Santiago Peña ratificó su apoyo incondicional a Alliana. Los nombres en consideración son Marco Riquelme, Raúl Latorre y César Sosa. La definición ya moviliza a sectores del Partido Colorado.",
-      "keyPoints": [
-        "Alliana evalúa a posibles integrantes de su fórmula presidencial.",
-        "Los resultados de la encuesta podrían conocerse el lunes.",
-        "Peña ratificó su apoyo incondicional a Alliana.",
-        "Los nombres considerados son Riquelme, Latorre y Sosa."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana podría revelar el lunes los resultados de la encuesta para definir su dupla presidencial",
-          "url": "https://elnacional.com.py/politica/alliana-podria-revelar-lunes-resultados-encuesta-definir-su-dupla-presidencial-n114144",
-          "publishedAt": "2026-10-25T11:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Santiago Peña ratifica su “apoyo incondicional” a Pedro Alliana",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/25/santiago-pena-ratifica-su-apoyo-incondicional-a-pedro-alliana",
-          "publishedAt": "2026-10-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wrWhSi7fX0IT9lS2wLPMFO4rT1M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EJRYKAZ3P5ES5P7NSZ4RMBASRM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Latorre suma respaldos para acompañar a Alliana en la carrera presidencial",
-          "url": "https://elnacional.com.py/politica/latorre-suma-respaldos-acompanar-alliana-carrera-presidencial-n114129",
-          "publishedAt": "2026-10-24T21:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adcfc66747c2.webp"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
-          "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla",
-          "publishedAt": "2026-10-24T20:09:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/YOR9Lt4V4xJ-02aWLNysxxnMYBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/alliana-podria-revelar-lunes-resultados-encuesta-definir-su-dupla-presidencial-n114144"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T12:07:15.038Z",
-      "updatedSlot": "manana",
-      "score": 11.97
+      "score": 13.61
     },
     {
       "id": "ev-0o90lp4",
@@ -414,58 +574,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 11
-    },
-    {
-      "id": "ev-0zpqvej",
-      "title": "La EBY ejecuta obras de emergencia en Yacyretá por la crecida del Paraná",
-      "summary": "La Entidad Binacional Yacyretá ejecuta trabajos urgentes en Ituzaingó, Corrientes, para frenar el desprendimiento de rocas. La crecida del Paraná afecta una torre de transmisión eléctrica en una zona de protección del complejo. Las obras buscan evitar daños en la infraestructura y en comunidades ribereñas.",
-      "keyPoints": [
-        "Las obras se hacen en Ituzaingó, Corrientes, Argentina.",
-        "La fuerza del agua provocó el desprendimiento parcial de rocas.",
-        "El objetivo es proteger una torre de transmisión eléctrica."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Crecida del Paraná obliga trabajos de emergencia",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/25/crecida-del-parana-obliga-trabajos-de-emergencia",
-          "publishedAt": "2026-10-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/xSLfpRvzq8YZobxJ8_Ecx3-_23c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XS5VG5HJSNBYJKBHAE77QUUFAM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Crecida del Paraná obliga a trabajos de emergencia en torres de Yacyretá",
-          "url": "https://www.lanacion.com.py/pais/2026/10/24/crecida-del-parana-obliga-a-trabajos-de-emergencia-en-torres-de-yacyreta",
-          "publishedAt": "2026-10-24T16:55:16.000Z",
-          "image": "https://www.lanacion.com.py/resizer/E6eLviNIUVxWKkqlDdFl-3_3xm0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NBRN22FQZFCARNH4OJ6JC67UR4.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Crecida del Paraná obliga a reforzar defensas de la hidroeléctrica Yacyretá",
-          "url": "https://www.adndigital.com.py/crecida-del-parana-obliga-a-reforzar-defensas-de-la-hidroelectrica-yacyreta",
-          "publishedAt": "2026-10-24T11:52:29.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-090512.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XS5VG5HJSNBYJKBHAE77QUUFAM.jpg?auth=50563e7f3c60f17618f1d94fb3db8af276bfb9917e7eb8cd53b0aaa85555cf20&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/25/crecida-del-parana-obliga-trabajos-de-emergencia"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
-      "updatedSlot": "manana",
-      "score": 10.24
+      "score": 10.66
     },
     {
       "id": "ev-1qc1mrm",
@@ -516,7 +625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-1kzvrb7",
@@ -560,7 +669,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-120kgex",
@@ -604,7 +713,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1p10tzv",
@@ -648,7 +757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-07bg997",
@@ -692,7 +801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.73
+      "score": 8.4
     },
     {
       "id": "ev-11447fv",
@@ -735,7 +844,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.47
+      "score": 8.14
     },
     {
       "id": "ev-1049uxd",
@@ -779,7 +888,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.02
     },
     {
       "id": "ev-0qdrg72",
@@ -822,7 +931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.43
+      "score": 6.1
     },
     {
       "id": "ev-1se63j3",
@@ -865,7 +974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-11qqx9r",
@@ -908,7 +1017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1i4bwy0",
@@ -952,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-15xqt00",
@@ -996,7 +1105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0ivag50",
@@ -1040,7 +1149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0yg5ptt",
@@ -1084,7 +1193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.03
+      "score": 5.7
     },
     {
       "id": "ev-1kf5cy4",
@@ -1128,7 +1237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.5
     },
     {
       "id": "ev-0slglgv",
@@ -1164,7 +1273,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-04h8cd1",
@@ -1193,7 +1302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0itdpu6",
@@ -1222,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0fic0ni",
@@ -1251,7 +1360,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0bn7zrp",
@@ -1280,7 +1389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1lhjgi5",
@@ -1309,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ajyonq",
@@ -1345,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.38
+      "score": 5.05
     },
     {
       "id": "ev-026aom5",
@@ -1380,7 +1489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.04
     },
     {
       "id": "ev-1g1rq7g",
@@ -1415,7 +1524,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-13d77d8",
@@ -1451,7 +1560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1mp184q",
@@ -1483,7 +1592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-14zfblc",
@@ -1518,7 +1627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1rib5f6",
@@ -1547,7 +1656,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1mens6n",
@@ -1582,43 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-1ns2yec",
-      "title": "Opositores rechazan a Payo Cubas como articulador de la unidad rumbo al 2028",
-      "summary": "Según La Nación, varios partidos opositores rechazaron la propuesta de Payo Cubas, presidente del Partido Cruzada Nacional, de articular la unidad opositora. Cubas había convocado a partidos con representación parlamentaria para decidir un mecanismo de elección de una candidatura única para las presidenciales de 2028.",
-      "keyPoints": [
-        "Payo Cubas convocó a partidos con representación parlamentaria.",
-        "El objetivo era definir un mecanismo para una candidatura única.",
-        "Los opositores no aceptaron su rol de articulador.",
-        "Las presidenciales son en 2028."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Opositores rechazaron a Payo Cubas como articulador de la unidad rumbo al 2028",
-          "url": "https://www.lanacion.com.py/politica/2026/10/24/opositores-rechazaron-a-payo-cubas-como-articulador-de-la-unidad-rumbo-al-2028",
-          "publishedAt": "2026-10-24T20:58:41.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ddsy9IE9cuRnQC4Vvi7GwX6Lq5I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q4B5LQP2VFH4HPMB6RXRVM5CGY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/Q4B5LQP2VFH4HPMB6RXRVM5CGY.jpg?auth=3d30c37fcd865eed9bb90edaba2ad55bca2a5397bb7f9902063889e2e05989a4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/24/opositores-rechazaron-a-payo-cubas-como-articulador-de-la-unidad-rumbo-al-2028"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
-      "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.91
     },
     {
       "id": "ev-1x3rdrx",
@@ -1654,7 +1727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.14
     },
     {
       "id": "ev-0z718pf",
@@ -1690,7 +1763,42 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.2
+      "score": 4
+    },
+    {
+      "id": "ev-0cvl7iv",
+      "title": "Alliana mantiene su candidatura presidencial pese a diferencias en Honor Colorado",
+      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028. Lo hace pese a las diferencias dentro de Honor Colorado y a su desplazamiento de la chapa impulsada por el sector de Horacio Cartes. Aguarda una encuesta para definir su dupla.",
+      "keyPoints": [
+        "Alliana sostiene que quiere competir por la Presidencia en 2028.",
+        "Hubo diferencias dentro del movimiento Honor Colorado.",
+        "Su dupla dependerá de una encuesta, según su propio planteo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana ratifica su candidatura presidencial y aguarda encuesta para definir su dupla",
+          "url": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097",
+          "publishedAt": "2026-10-24T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T08:07:11.521Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-1wjndpv",
@@ -1730,42 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.14
-    },
-    {
-      "id": "ev-0cvl7iv",
-      "title": "Alliana mantiene su candidatura presidencial pese a diferencias en Honor Colorado",
-      "summary": "El vicepresidente Pedro Alliana aseguró que mantiene su intención de competir por la Presidencia en 2028. Lo hace pese a las diferencias dentro de Honor Colorado y a su desplazamiento de la chapa impulsada por el sector de Horacio Cartes. Aguarda una encuesta para definir su dupla.",
-      "keyPoints": [
-        "Alliana sostiene que quiere competir por la Presidencia en 2028.",
-        "Hubo diferencias dentro del movimiento Honor Colorado.",
-        "Su dupla dependerá de una encuesta, según su propio planteo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana ratifica su candidatura presidencial y aguarda encuesta para definir su dupla",
-          "url": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097",
-          "publishedAt": "2026-10-24T10:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/alliana-ratifica-su-candidatura-presidencial-aguarda-encuesta-definir-su-dupla-n114097"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
-      "updatedSlot": "manana",
-      "score": 4
+      "score": 3.8
     },
     {
       "id": "ev-052qfgc",
@@ -1804,7 +1877,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.85
+      "score": 3.52
     },
     {
       "id": "ev-0vvzfpf",
@@ -1848,7 +1921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.65
+      "score": 3.31
     },
     {
       "id": "ev-1peulo6",
@@ -1880,7 +1953,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-1nhssx5",
@@ -1912,7 +1985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.1
+      "score": 2.77
     },
     {
       "id": "ev-0ktcg82",
@@ -1944,7 +2017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.08
+      "score": 2.75
     },
     {
       "id": "ev-07rmzm7",
@@ -1980,7 +2053,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.04
+      "score": 2.71
     },
     {
       "id": "ev-1r8n0qi",
@@ -2016,7 +2089,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.98
+      "score": 2.65
     },
     {
       "id": "ev-0he2wum",
@@ -2048,7 +2121,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.95
+      "score": 2.62
     },
     {
       "id": "ev-0m3x0jm",
@@ -2079,7 +2152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.93
+      "score": 2.6
     },
     {
       "id": "ev-1upsm18",
@@ -2114,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.49
     }
   ],
   "runs": [
@@ -2131,6 +2204,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 13
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-25T16:07:12.980Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 12
     }
   ]
 }
