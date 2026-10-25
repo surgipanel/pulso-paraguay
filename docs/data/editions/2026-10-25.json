@@ -1,19 +1,20 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-25T08:07:11.521Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-25T12:07:15.038Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0hbvm76",
-      "title": "Meteorología emite alerta por tormentas severas y granizos en 10 departamentos",
-      "summary": "La Dirección de Meteorología e Hidrología emitió una alerta por tormentas severas para la noche del sábado 24 de octubre. Se esperan lluvias con tormentas moderadas a fuertes, ráfagas de viento y caída puntual de granizos. Según el informe, el fenómeno podría afectar gran parte del territorio nacional.",
+      "title": "Domingo fresco y cálido con lluvias leves y dispersas en el país",
+      "summary": "La Dirección de Meteorología prevé para este domingo un ambiente fresco a cálido en casi todo el país, con cielo mayormente nublado y vientos moderados del sur. Habrá lluvias leves y dispersas en algunas zonas, sobre todo en el norte y el oriente, que irían cesando durante el día. Las máximas rondarían entre 21 y 26 grados. Para la semana se esperan amaneceres frescos.",
       "keyPoints": [
-        "Se esperan tormentas moderadas a fuertes con ráfagas de viento.",
-        "Podría haber caída puntual de granizos.",
-        "La alerta fue emitida por la Dirección de Meteorología e Hidrología."
+        "Se prevén lluvias leves y dispersas en algunas zonas del país.",
+        "Las temperaturas máximas rondarían entre 21 y 26 grados.",
+        "Los vientos soplarán moderados desde el sur.",
+        "Para la semana se esperan amaneceres frescos."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +22,62 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Domingo fresco a cálido y con lluvias aisladas en algunas zonas de Paraguay",
+          "url": "https://www.ultimahora.com/domingo-fresco-a-calido-y-con-lluvias-aisladas-en-algunas-zonas-de-paraguay",
+          "publishedAt": "2026-10-25T11:21:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Anuncian lluvias dispersas para este domingo en Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/10/25/anuncian-lluvias-dispersas-para-este-domingo-en-ciudad-del-este",
+          "publishedAt": "2026-10-25T10:37:25.000Z",
+          "image": "https://www.abc.com.py/resizer/ppa89Ye4pOSPey_E67dVNBUjM38=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/54KALY67R5HHTLFJCAEEFUQPDE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima Paraguay: Domingo fresco con lluvias leves en algunas zonas del país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-domingo-fresco-lluvias-leves-algunas-zonas-pais-n114146",
+          "publishedAt": "2026-10-25T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ada0518d3268.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anuncian tormentas hacia el norte y amaneceres frescos durante la semana",
+          "url": "https://www.lanacion.com.py/pais/2026/10/25/anuncian-tormentas-hacia-el-norte-y-amaneceres-frescos-durante-la-semana",
+          "publishedAt": "2026-10-25T10:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/J7RcqjnpYVOhSqyeJrchPHhYsiU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q4TYDR2LQRDQBLSSGH3AALYZ6E.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Amaneceres frescos durante la semana",
+          "url": "https://www.adndigital.com.py/amaneceres-frescos-durante-la-semana",
+          "publishedAt": "2026-10-25T10:14:06.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/06/amanecer-clima-1-1024x768.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Domingo fresco: anuncian lluvias y vientos del sur",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/25/domingo-fresco-anuncian-lluvias-y-vientos-del-sur",
+          "publishedAt": "2026-10-25T10:07:50.126Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NK5FC2IKJJB7BN2UWWAON4A4AM.jpg?auth=6c705a2c5fb037cbd85c59b2521cbdc4d57e087a12b548276aa7cdf36e47ffe1&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Anuncian domingo cálido con lluvias dispersas",
+          "url": "https://www.abc.com.py/clima/2026/10/25/seguiran-las-lluvias-este-domingo-esto-dice-meteorologia",
+          "publishedAt": "2026-10-25T09:56:16.000Z",
+          "image": "https://www.abc.com.py/resizer/whK3PbHuctzNZUAAam-0DXluoZs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SF3M53NUI5EIZBNVFYRL64VUTQ.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -63,24 +120,24 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Y2YLVANNZVGCTIQQFO6P3PMSLY.jpg?auth=669fb7aab09d1c7b34ce4de5436c3175c6fced37be70bb605797044c6fb03480&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/54KALY67R5HHTLFJCAEEFUQPDE.jpg?auth=d34dabd918734be440fcb243e777c92e4baf6cb1f91ff037713c0bcb7cb5c12d&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/10/25/alerta-meteorologica-tormentas-severas-y-caida-de-granizos-para-varias-regiones-del-pais"
+        "articleUrl": "https://www.abc.com.py/este/2026/10/25/anuncian-lluvias-dispersas-para-este-domingo-en-ciudad-del-este"
       },
       "firstSeenAt": "2026-10-25T08:07:11.521Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
+      "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 17.7
+      "score": 23.94
     },
     {
       "id": "ev-1mrrh1a",
-      "title": "Lula y Flávio Bolsonaro cierran campaña antes del balotaje en Brasil",
-      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas el sábado con actos masivos, a un día de la segunda vuelta. Una encuesta del instituto Datafolha dio empate, con 50% para cada candidato. Para 5Días, el resultado tendrá implicancias para Paraguay en comercio, energía e integración regional.",
+      "title": "Lula y Flávio Bolsonaro cierran sus campañas con multitudinarios actos",
+      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas el sábado con grandes concentraciones. El presidente Lula encabezó una marea roja en la playa de Copacabana, en Río de Janeiro, y luego viajó a São Paulo. Flávio Bolsonaro hizo un paseo en moto en Belo Horizonte, y centenares de motociclistas se movilizaron en su apoyo. La votación es este domingo.",
       "keyPoints": [
-        "Lula cerró su campaña en la playa de Copacabana.",
-        "Flávio Bolsonaro cerró con un acto de motociclistas.",
-        "Una encuesta de Datafolha dio 50% de intención de voto para cada candidato."
+        "Lula cerró su campaña en Río de Janeiro y São Paulo.",
+        "Flávio Bolsonaro encabezó un paseo en moto en Belo Horizonte.",
+        "Decenas de miles de simpatizantes participaron de los actos."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -88,6 +145,70 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro pide salir a las urnas \"con lluvia o con sol\" para cambiar el país",
+          "url": "https://www.abc.com.py/internacionales/2026/10/25/flavio-bolsonaro-pide-salir-a-las-urnas-con-lluvia-o-con-sol-para-cambiar-el-pais",
+          "publishedAt": "2026-10-25T12:00:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
+          "url": "https://www.adndigital.com.py/abren-las-urnas-en-brasil-para-balotaje-entre-lula-y-flavio-bolsonaro",
+          "publishedAt": "2026-10-25T11:57:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
+          "url": "https://elnacional.com.py/mundo/abren-urnas-brasil-balotaje-lula-flavio-bolsonaro-n114147",
+          "publishedAt": "2026-10-25T11:31:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adde820e65b0.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los colegios electorales abren para la segunda vuelta de las presidenciales en Brasil",
+          "url": "https://www.abc.com.py/internacionales/2026/10/25/los-colegios-electorales-abren-para-la-segunda-vuelta-de-las-presidenciales-en-brasil",
+          "publishedAt": "2026-10-25T11:10:16.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Brasil decide en las urnas: ¿Más Lula o los Bolsonaro de vuelta?",
+          "url": "https://www.hoy.com.py/mundo/2026/10/25/brasil-decide-en-las-urnas-mas-lula-o-los-bolsonaro-de-vuelta",
+          "publishedAt": "2026-10-25T10:57:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QUR75GJWEZCHBKSSUHAQGWJWNY.jpg?auth=f70a7d4b5e96b0b9261c11b3866bb486e863e4e67bda454f782d106bd984cabb&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil se paraliza: Lula y Bolsonaro se miden hoy en balotaje",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/25/brasil-se-paraliza-lula-y-bolsonaro-se-miden-hoy-en-balotaje",
+          "publishedAt": "2026-10-25T10:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/w0Nn0GhtOmpIEnM9FdyJBNklUNE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
+          "url": "https://www.adndigital.com.py/lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje",
+          "publishedAt": "2026-10-25T10:28:29.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/lula-y-flavio.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Elecciones en Brasil: Lula y Bolsonaro pelean voto a voto este domingo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/24/a-un-dia-de-las-elecciones-de-brasil-fin-de-campana-multitudinario-y-empate-en-encuestas",
+          "publishedAt": "2026-10-25T10:08:50.000Z",
+          "image": "https://www.abc.com.py/resizer/5HhuKxAKQnNIZumUGdPh9VbDn30=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -122,24 +243,76 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2RQ2VFCBPRB7FLOHPFTH2SSIOU.jpg?auth=c539d40b47a963e217993d3c0def80b664336e126f44935a4547d4cdf291e3eb&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/25/lula-y-bolsonaro-se-miden-hoy-en-balotaje"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LZDDETQF3ZFXNJMXXVNCQXLZ2I.jpg?auth=8e5bcbc0ef8bc3c9e6acc6eae51ff8714d4b46676ed7fa2687d55334d16c1b5a&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/24/a-un-dia-de-las-elecciones-de-brasil-fin-de-campana-multitudinario-y-empate-en-encuestas"
       },
       "firstSeenAt": "2026-10-25T08:07:11.521Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
+      "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 15.08
+      "score": 21.49
+    },
+    {
+      "id": "ev-1y3nn56",
+      "title": "Cinco emblemas privados subirán el gasoil hasta G. 615 por litro desde el lunes",
+      "summary": "Cinco emblemas privados de combustible aplicarán nuevos aumentos en el precio del gasoil desde el lunes 26 de octubre. Los ajustes llegan hasta G. 615 por litro. Según los empresarios, la suba responde al encarecimiento de los combustibles en los mercados internacionales y a los costos de reposición.",
+      "keyPoints": [
+        "Cinco emblemas privados aplicarán los aumentos desde el lunes 26 de octubre.",
+        "El incremento máximo es de G. 615 por litro de gasoil.",
+        "Los empresarios atribuyen la suba a mayores costos internacionales de reposición."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Gasoil subirá hasta G. 615 por litro desde este lunes",
+          "url": "https://www.adndigital.com.py/gasoil-subira-hasta-g-615-por-litro-desde-este-lunes",
+          "publishedAt": "2026-10-25T11:29:51.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2023/01/combustible.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gasoil subirá hasta G. 615 por litro desde este lunes",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/24/gasoil-subira-hasta-g-615-por-litro-desde-este-lunes",
+          "publishedAt": "2026-10-24T23:15:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HWPu4Z9nV_QAUxm1V_jc0beEv9w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z4YOI7GC5JAQDMV47QRL3RCWLU.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Gasoil registra su sexta suba del año: cinco emblemas ajustarán precios desde el lunes",
+          "url": "https://5dias.com.py/article/gasoil-registra-su-sexta-suba-del-ao-cinco-emblemas-ajustarn-precios-desde-el-lunes",
+          "publishedAt": "2026-10-24T10:06:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/65cf5829e346f038083049_20261024_101230.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2023/01/combustible.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/gasoil-subira-hasta-g-615-por-litro-desde-este-lunes"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T12:07:15.038Z",
+      "updatedSlot": "manana",
+      "score": 13.95
     },
     {
       "id": "ev-1x14jip",
-      "title": "Peña ratifica apoyo a Alliana mientras se define su compañero de fórmula",
-      "summary": "El presidente Santiago Peña ratificó su apoyo al vicepresidente Pedro Alliana, candidato presidencial para 2028. Alliana debe elegir a su compañero de fórmula entre Marco Riquelme, Raúl Latorre y César Sosa. Latorre comenzó a sumar respaldos de distintos sectores del Partido Colorado.",
+      "title": "Alliana podría anunciar el lunes los resultados de su encuesta para la dupla",
+      "summary": "El vicepresidente Pedro Alliana podría conocer el lunes los resultados de la encuesta que encargó para evaluar a posibles compañeros de fórmula rumbo a 2028. Santiago Peña ratificó su apoyo incondicional a Alliana. Los nombres en consideración son Marco Riquelme, Raúl Latorre y César Sosa. La definición ya moviliza a sectores del Partido Colorado.",
       "keyPoints": [
-        "Peña ratificó su apoyo a Pedro Alliana.",
-        "Las opciones para la dupla son Marco Riquelme, Raúl Latorre y César Sosa.",
-        "Raúl Latorre suma respaldos de sectores del Partido Colorado."
+        "Alliana evalúa a posibles integrantes de su fórmula presidencial.",
+        "Los resultados de la encuesta podrían conocerse el lunes.",
+        "Peña ratificó su apoyo incondicional a Alliana.",
+        "Los nombres considerados son Riquelme, Latorre y Sosa."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -147,6 +320,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana podría revelar el lunes los resultados de la encuesta para definir su dupla presidencial",
+          "url": "https://elnacional.com.py/politica/alliana-podria-revelar-lunes-resultados-encuesta-definir-su-dupla-presidencial-n114144",
+          "publishedAt": "2026-10-25T11:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -156,32 +337,84 @@
           "image": "https://www.lanacion.com.py/resizer/wrWhSi7fX0IT9lS2wLPMFO4rT1M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EJRYKAZ3P5ES5P7NSZ4RMBASRM.jpg"
         },
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
-          "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla",
-          "publishedAt": "2026-10-24T20:09:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/YOR9Lt4V4xJ-02aWLNysxxnMYBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif"
-        },
-        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
           "title": "Latorre suma respaldos para acompañar a Alliana en la carrera presidencial",
           "url": "https://elnacional.com.py/politica/latorre-suma-respaldos-acompanar-alliana-carrera-presidencial-n114129",
           "publishedAt": "2026-10-24T21:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/10/6adcfc66747c2.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña ratifica su “apoyo incondicional” a Alliana en la definición de su dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-ratifica-su-apoyo-incondicional-a-alliana-en-la-definicion-de-su-dupla",
+          "publishedAt": "2026-10-24T20:09:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YOR9Lt4V4xJ-02aWLNysxxnMYBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWT7SXZRDZEFHCDN7V2RPE3NGA.jfif"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/EJRYKAZ3P5ES5P7NSZ4RMBASRM.jpg?auth=80e772c884154ab64334c69422693f2497c7031c1b18c2eca4b0eb758cc1a4bb&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/25/santiago-pena-ratifica-su-apoyo-incondicional-a-pedro-alliana"
+        "url": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/alliana-podria-revelar-lunes-resultados-encuesta-definir-su-dupla-presidencial-n114144"
       },
       "firstSeenAt": "2026-10-25T08:07:11.521Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
+      "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 11.97
+    },
+    {
+      "id": "ev-0o90lp4",
+      "title": "Se corre la clasificación del Rally del Chaco 2026 en Capiatá",
+      "summary": "Se disputa la clasificación del Rally del Chaco 2026 en el Autódromo Víctor Rubén Dumot de Capiatá. Es la última fecha del Campeonato Nacional de Rally 2026. El resultado define al poleman, que parte primero en la carrera. La competencia es la primera de las 22 especiales del certamen.",
+      "keyPoints": [
+        "La clasificación se corre en el Autódromo de Capiatá.",
+        "Es la última fecha del Campeonato Nacional de Rally 2026.",
+        "El ganador de la clasificación parte primero en la carrera.",
+        "La carrera tendrá 22 especiales."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La clasificación del Rally del Chaco 2026 en vivo",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/25/la-clasificacion-del-rally-del-chaco-2026-en-vivo",
+          "publishedAt": "2026-10-25T12:03:43.000Z",
+          "image": "https://www.abc.com.py/resizer/q586zX_y0mbjGDoaIYuTZLeY-kk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/APQE76TMUNCNVIS65QWEDH2LNM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El Rally del Chaco, en marcha",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/25/el-rally-del-chaco-en-marcha",
+          "publishedAt": "2026-10-25T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Z7A8tKHf7BihN294DEs2h6KbDtY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PPOAPYURSZFAPATHBNZDMFRWKM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La partida ceremonial calentó motores para el Transchaco Rally",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/24/la-partida-ceremonial-calento-motores-para-el-transchaco-rally",
+          "publishedAt": "2026-10-25T00:41:35.000Z",
+          "image": "https://www.abc.com.py/resizer/-q3LfnHGVBqJ9t6fodcI8sRNK-k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBUITEN3KNGH5B3TNRKG7FDRGU.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/APQE76TMUNCNVIS65QWEDH2LNM.jpeg?auth=2e42fcbba06a15855e29ff2fd889d2190b05108e7dbeeebd64886bcda324148a&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/10/25/la-clasificacion-del-rally-del-chaco-2026-en-vivo"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T12:07:15.038Z",
+      "updatedSlot": "manana",
+      "score": 11
     },
     {
       "id": "ev-0zpqvej",
@@ -232,7 +465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1qc1mrm",
@@ -283,51 +516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-0o90lp4",
-      "title": "Transchaco Rally 2026 arranca con partida ceremonial en Luque",
-      "summary": "El Petrobras Transchaco Rally 2026 comenzó con la partida ceremonial de su edición número 51, organizada por el TACPy en la rampa de Plaza Madero, en Luque. Pese a la lluvia, hubo público. La carrera cierra el calendario 2026 del Campeonato Nacional de Rally. Hoy se realiza la clasificación en el Autódromo Víctor Rubén Dumot de Capiatá.",
-      "keyPoints": [
-        "La partida ceremonial se hizo en Plaza Madero, en Luque.",
-        "Es la edición número 51 del Transchaco Rally.",
-        "La organiza el Touring y Automóvil Club Paraguayo.",
-        "Hoy se disputa la clasificación en Capiatá."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La partida ceremonial calentó motores para el Transchaco Rally",
-          "url": "https://www.abc.com.py/deportes/motor/2026/10/24/la-partida-ceremonial-calento-motores-para-el-transchaco-rally",
-          "publishedAt": "2026-10-25T00:41:35.000Z",
-          "image": "https://www.abc.com.py/resizer/-q3LfnHGVBqJ9t6fodcI8sRNK-k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBUITEN3KNGH5B3TNRKG7FDRGU.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El Rally del Chaco, en marcha",
-          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/25/el-rally-del-chaco-en-marcha",
-          "publishedAt": "2026-10-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Z7A8tKHf7BihN294DEs2h6KbDtY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PPOAPYURSZFAPATHBNZDMFRWKM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LBUITEN3KNGH5B3TNRKG7FDRGU.jpeg?auth=edcdffbbbe686bc1501990fe3df1d2583e425f03ea2e417d649f087908e534b5&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/10/24/la-partida-ceremonial-calento-motores-para-el-transchaco-rally"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
-      "updatedSlot": "manana",
-      "score": 9.58
+      "score": 10.24
     },
     {
       "id": "ev-1kzvrb7",
@@ -371,7 +560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-120kgex",
@@ -415,7 +604,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-1p10tzv",
@@ -459,51 +648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.38
-    },
-    {
-      "id": "ev-1y3nn56",
-      "title": "Cinco emblemas suben el gasoil hasta G. 615 por litro desde el lunes",
-      "summary": "Desde el lunes 26 de octubre, Shell, Copetrol, Petrochaco, Compasa y Energy aplicarán nuevos aumentos al gasoil, de entre G. 500 y G. 600 por litro, y hasta G. 615 según otra nota. Las distribuidoras explican el ajuste por mayores costos internacionales de reposición. Enex y Petromax ya aplicaron subas y Petropar mantiene sus precios.",
-      "keyPoints": [
-        "Los aumentos empiezan el lunes 26 de octubre.",
-        "Cinco emblemas privados aplicarán suba.",
-        "Las subas van de G. 500 a G. 615 por litro.",
-        "Petropar mantiene sus precios vigentes."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gasoil subirá hasta G. 615 por litro desde este lunes",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/24/gasoil-subira-hasta-g-615-por-litro-desde-este-lunes",
-          "publishedAt": "2026-10-24T23:15:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/HWPu4Z9nV_QAUxm1V_jc0beEv9w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z4YOI7GC5JAQDMV47QRL3RCWLU.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Gasoil registra su sexta suba del año: cinco emblemas ajustarán precios desde el lunes",
-          "url": "https://5dias.com.py/article/gasoil-registra-su-sexta-suba-del-ao-cinco-emblemas-ajustarn-precios-desde-el-lunes",
-          "publishedAt": "2026-10-24T10:06:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/65cf5829e346f038083049_20261024_101230.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/Z4YOI7GC5JAQDMV47QRL3RCWLU.jpg?auth=4287e9868ec11cca01b734e4b85ee8e1fa3a07438168f347978c2b0a14ed695b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/24/gasoil-subira-hasta-g-615-por-litro-desde-este-lunes"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T08:07:11.521Z",
-      "updatedSlot": "manana",
-      "score": 9.26
+      "score": 9.05
     },
     {
       "id": "ev-07bg997",
@@ -547,7 +692,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.73
     },
     {
       "id": "ev-11447fv",
@@ -590,7 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.81
+      "score": 8.47
     },
     {
       "id": "ev-1049uxd",
@@ -634,7 +779,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.35
     },
     {
       "id": "ev-0qdrg72",
@@ -677,7 +822,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.76
+      "score": 6.43
     },
     {
       "id": "ev-1se63j3",
@@ -720,7 +865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-11qqx9r",
@@ -763,7 +908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1i4bwy0",
@@ -807,7 +952,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-15xqt00",
@@ -851,7 +996,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ivag50",
@@ -895,7 +1040,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0yg5ptt",
@@ -939,7 +1084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.37
+      "score": 6.03
     },
     {
       "id": "ev-1kf5cy4",
@@ -983,7 +1128,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.16
+      "score": 5.82
     },
     {
       "id": "ev-0slglgv",
@@ -1019,7 +1164,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-04h8cd1",
@@ -1048,7 +1193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0itdpu6",
@@ -1077,7 +1222,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0fic0ni",
@@ -1106,7 +1251,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0bn7zrp",
@@ -1135,7 +1280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1lhjgi5",
@@ -1164,7 +1309,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ajyonq",
@@ -1200,7 +1345,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.38
     },
     {
       "id": "ev-026aom5",
@@ -1235,7 +1380,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.37
     },
     {
       "id": "ev-1g1rq7g",
@@ -1270,7 +1415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-13d77d8",
@@ -1306,7 +1451,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1mp184q",
@@ -1338,7 +1483,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-14zfblc",
@@ -1373,7 +1518,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1rib5f6",
@@ -1402,7 +1547,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1mens6n",
@@ -1437,7 +1582,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1ns2yec",
@@ -1473,7 +1618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-1x3rdrx",
@@ -1509,7 +1654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.47
     },
     {
       "id": "ev-0z718pf",
@@ -1545,7 +1690,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.2
     },
     {
       "id": "ev-1wjndpv",
@@ -1585,7 +1730,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.14
     },
     {
       "id": "ev-0cvl7iv",
@@ -1620,7 +1765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-052qfgc",
@@ -1659,7 +1804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.18
+      "score": 3.85
     },
     {
       "id": "ev-0vvzfpf",
@@ -1703,7 +1848,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.98
+      "score": 3.65
     },
     {
       "id": "ev-1peulo6",
@@ -1735,7 +1880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-1nhssx5",
@@ -1767,7 +1912,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.43
+      "score": 3.1
     },
     {
       "id": "ev-0ktcg82",
@@ -1799,7 +1944,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.08
     },
     {
       "id": "ev-07rmzm7",
@@ -1835,7 +1980,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.04
     },
     {
       "id": "ev-1r8n0qi",
@@ -1871,7 +2016,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.32
+      "score": 2.98
     },
     {
       "id": "ev-0he2wum",
@@ -1903,7 +2048,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 2.95
     },
     {
       "id": "ev-0m3x0jm",
@@ -1934,7 +2079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.27
+      "score": 2.93
     },
     {
       "id": "ev-1upsm18",
@@ -1969,7 +2114,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.16
+      "score": 2.82
     }
   ],
   "runs": [
@@ -1979,6 +2124,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 63
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-25T12:07:15.038Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 13
     }
   ]
 }
