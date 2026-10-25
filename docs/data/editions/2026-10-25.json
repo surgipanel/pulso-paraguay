@@ -1,26 +1,25 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-25T16:07:12.980Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-25T19:37:14.401Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1mrrh1a",
-      "title": "Abren las urnas en Brasil para balotaje entre Lula y Flávio Bolsonaro",
-      "summary": "Los brasileños acuden este domingo a las urnas para elegir presidente entre Lula da Silva y Flávio Bolsonaro. Sigue aquí la jornada electoral, los resultados y las reacciones. “Brasil va a cambiar. Brasil va a vencer”, declaró el hijo del expresidente Jair Bolsonaro , quien criticó la gestión de su rival, el mandatario, Luiz Inácio Lula da Silva, y defendió la necesidad de reorganizar el país.",
+      "title": "Lula y Flávio Bolsonaro votan en la segunda vuelta de Brasil",
+      "summary": "El presidente Luiz Inácio Lula da Silva votó en São Bernardo do Campo, en el ABC Paulista, con una bandera de Brasil. Posó para fotos junto a la primera dama, Rosângela da Silva. Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, votó en Río de Janeiro. Ambos candidatos disputan la presidencia.",
       "keyPoints": [
-        "Los brasileños acuden este domingo a las urnas para elegir presidente entre Lula da Silva y Flávio Bolsonaro.",
-        "“Brasil va a cambiar.",
-        "Una encuesta del instituto Datafolha publicada el jueves dio un empate, con 50% de intención de votos para cada uno de los candidatos.",
-        "El candidato de la derecha brasileña Flávio Bolsonaro afirmó este domingo que la esperanza se ha convertido en miedo para los brasileños y los llamó a acudir a las urnas, \"haga lluvia o haga sol\", para…"
+        "Lula votó en São Bernardo do Campo, en el ABC Paulista.",
+        "Flávio Bolsonaro votó en Río de Janeiro.",
+        "Ambos son candidatos a la presidencia de Brasil."
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "elnacional",
@@ -29,6 +28,22 @@
           "url": "https://elnacional.com.py/politica/mario-abdo-juega-politicamente-flavio-bolsonaro-decisiva-eleccion-brasilena-n114158",
           "publishedAt": "2026-10-25T14:40:00.000Z",
           "image": "https://statics.elnacional.com.py/2021/12/35634ba103fcdc4cc168b1ffcc690fe6.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Lula dice que Brasil debe decidir entre quien defiende la bandera nacional o la de EE.UU.",
+          "url": "https://elnacional.com.py/mundo/lula-dice-brasil-debe-decidir-quien-defiende-bandera-nacional-o-eeuu-n114159",
+          "publishedAt": "2026-10-25T14:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade0dba0cc8d.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Flávio Bolsonaro votó en Río de Janeiro y Lula en San Pablo",
+          "url": "https://www.adndigital.com.py/flavio-bolsonaro-voto-en-rio-de-janeiro-y-lula-en-san-pablo",
+          "publishedAt": "2026-10-25T13:52:26.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-25-at-105151.jpeg"
         },
         {
           "sourceId": "ultimahora",
@@ -152,15 +167,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6adde820e65b0.jpg",
+        "url": "https://statics.elnacional.com.py/2026/10/6ade0dba0cc8d.jpg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/abren-urnas-brasil-balotaje-lula-flavio-bolsonaro-n114147"
+        "articleUrl": "https://elnacional.com.py/mundo/lula-dice-brasil-debe-decidir-quien-defiende-bandera-nacional-o-eeuu-n114159"
       },
       "firstSeenAt": "2026-10-25T08:07:11.521Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-25T16:07:12.980Z",
+      "updatedAt": "2026-10-25T19:37:14.401Z",
       "updatedSlot": "tarde",
-      "score": 24.38
+      "score": 24.09
     },
     {
       "id": "ev-0hbvm76",
@@ -284,7 +299,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 23.6
+      "score": 23.31
+    },
+    {
+      "id": "ev-0o90lp4",
+      "title": "Fau Zaldívar consigue la pole en el Rally del Chaco 2026",
+      "summary": "Fau Zaldívar fue el más rápido de la clasificación en el Autódromo Víctor Rubén Dumot de Capiatá y partirá primero en el Rally del Chaco 2026. Navegado por Marcelo Der Ohannesian, terminó por delante de Alejandro Galanti y Gustavo Saba. El Infierno Verde arranca el viernes 30 de octubre con la Etapa 1.",
+      "keyPoints": [
+        "Zaldívar ganó las dos vueltas de la clasificación.",
+        "Marcó 2 minutos y 51,25 segundos en la segunda vuelta.",
+        "La Etapa 1 será el viernes 30 de octubre."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fau Zaldívar conquistó la pole y parte primero en el Rally del Chaco 2026",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/25/fau-zaldivar-conquisto-la-pole-y-parte-primero-en-el-rally-del-chaco-2026",
+          "publishedAt": "2026-10-25T19:03:33.000Z",
+          "image": "https://www.abc.com.py/resizer/plOzjw1AlwqnyikgsMk0OugaG-8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VY5X2ITAIBDTJBBLO64NTL7E6E.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fau Zaldivar se impone en la jornada clasificatoria y abrirá el Rally del Chaco",
+          "url": "https://elnacional.com.py/deportes/fau-zaldivar-impone-jornada-clasificatoria-abrira-rally-chaco-n114164",
+          "publishedAt": "2026-10-25T17:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade42976f9f0.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La clasificación del Rally del Chaco 2026 en vivo",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/25/la-clasificacion-del-rally-del-chaco-2026-en-vivo",
+          "publishedAt": "2026-10-25T12:03:43.000Z",
+          "image": "https://www.abc.com.py/resizer/q586zX_y0mbjGDoaIYuTZLeY-kk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/APQE76TMUNCNVIS65QWEDH2LNM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El Rally del Chaco, en marcha",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/25/el-rally-del-chaco-en-marcha",
+          "publishedAt": "2026-10-25T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Z7A8tKHf7BihN294DEs2h6KbDtY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PPOAPYURSZFAPATHBNZDMFRWKM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La partida ceremonial calentó motores para el Transchaco Rally",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/24/la-partida-ceremonial-calento-motores-para-el-transchaco-rally",
+          "publishedAt": "2026-10-25T00:41:35.000Z",
+          "image": "https://www.abc.com.py/resizer/-q3LfnHGVBqJ9t6fodcI8sRNK-k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBUITEN3KNGH5B3TNRKG7FDRGU.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VY5X2ITAIBDTJBBLO64NTL7E6E.jpeg?auth=ff30ffe5696cb0cd359549118891b6d3ba3d31f12c534b489c8c1b360b988f42&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/10/25/fau-zaldivar-conquisto-la-pole-y-parte-primero-en-el-rally-del-chaco-2026"
+      },
+      "firstSeenAt": "2026-10-25T08:07:11.521Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-25T19:37:14.401Z",
+      "updatedSlot": "tarde",
+      "score": 14.95
     },
     {
       "id": "ev-1ns2yec",
@@ -344,7 +426,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T16:07:12.980Z",
       "updatedSlot": "tarde",
-      "score": 14.88
+      "score": 14.59
     },
     {
       "id": "ev-0zpqvej",
@@ -403,7 +485,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T16:07:12.980Z",
       "updatedSlot": "tarde",
-      "score": 14.83
+      "score": 14.54
     },
     {
       "id": "ev-1x14jip",
@@ -471,7 +553,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T16:07:12.980Z",
       "updatedSlot": "tarde",
-      "score": 14.8
+      "score": 14.51
     },
     {
       "id": "ev-1y3nn56",
@@ -522,59 +604,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T12:07:15.038Z",
       "updatedSlot": "manana",
-      "score": 13.61
-    },
-    {
-      "id": "ev-0o90lp4",
-      "title": "Se corre la clasificación del Rally del Chaco 2026 en Capiatá",
-      "summary": "Se disputa la clasificación del Rally del Chaco 2026 en el Autódromo Víctor Rubén Dumot de Capiatá. Es la última fecha del Campeonato Nacional de Rally 2026. El resultado define al poleman, que parte primero en la carrera. La competencia es la primera de las 22 especiales del certamen.",
-      "keyPoints": [
-        "La clasificación se corre en el Autódromo de Capiatá.",
-        "Es la última fecha del Campeonato Nacional de Rally 2026.",
-        "El ganador de la clasificación parte primero en la carrera.",
-        "La carrera tendrá 22 especiales."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La clasificación del Rally del Chaco 2026 en vivo",
-          "url": "https://www.abc.com.py/deportes/motor/2026/10/25/la-clasificacion-del-rally-del-chaco-2026-en-vivo",
-          "publishedAt": "2026-10-25T12:03:43.000Z",
-          "image": "https://www.abc.com.py/resizer/q586zX_y0mbjGDoaIYuTZLeY-kk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/APQE76TMUNCNVIS65QWEDH2LNM.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El Rally del Chaco, en marcha",
-          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/25/el-rally-del-chaco-en-marcha",
-          "publishedAt": "2026-10-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Z7A8tKHf7BihN294DEs2h6KbDtY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PPOAPYURSZFAPATHBNZDMFRWKM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La partida ceremonial calentó motores para el Transchaco Rally",
-          "url": "https://www.abc.com.py/deportes/motor/2026/10/24/la-partida-ceremonial-calento-motores-para-el-transchaco-rally",
-          "publishedAt": "2026-10-25T00:41:35.000Z",
-          "image": "https://www.abc.com.py/resizer/-q3LfnHGVBqJ9t6fodcI8sRNK-k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBUITEN3KNGH5B3TNRKG7FDRGU.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/APQE76TMUNCNVIS65QWEDH2LNM.jpeg?auth=2e42fcbba06a15855e29ff2fd889d2190b05108e7dbeeebd64886bcda324148a&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/10/25/la-clasificacion-del-rally-del-chaco-2026-en-vivo"
-      },
-      "firstSeenAt": "2026-10-25T08:07:11.521Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-25T12:07:15.038Z",
-      "updatedSlot": "manana",
-      "score": 10.66
+      "score": 13.32
     },
     {
       "id": "ev-1qc1mrm",
@@ -625,7 +655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1kzvrb7",
@@ -669,7 +699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-120kgex",
@@ -713,7 +743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-1p10tzv",
@@ -757,7 +787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.43
     },
     {
       "id": "ev-07bg997",
@@ -801,7 +831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.4
+      "score": 8.11
     },
     {
       "id": "ev-11447fv",
@@ -844,7 +874,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-1049uxd",
@@ -888,7 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-0qdrg72",
@@ -931,7 +961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 6.1
+      "score": 5.8
     },
     {
       "id": "ev-1se63j3",
@@ -974,7 +1004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-11qqx9r",
@@ -1017,7 +1047,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1i4bwy0",
@@ -1061,7 +1091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-15xqt00",
@@ -1105,7 +1135,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0ivag50",
@@ -1149,7 +1179,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0yg5ptt",
@@ -1193,7 +1223,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.5
     },
     {
       "id": "ev-1kf5cy4",
@@ -1273,7 +1303,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-04h8cd1",
@@ -1302,7 +1332,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0itdpu6",
@@ -1331,7 +1361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0fic0ni",
@@ -1360,7 +1390,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0bn7zrp",
@@ -1389,7 +1419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1lhjgi5",
@@ -1418,7 +1448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ajyonq",
@@ -1454,7 +1484,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.75
     },
     {
       "id": "ev-026aom5",
@@ -1489,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.75
     },
     {
       "id": "ev-1g1rq7g",
@@ -1524,7 +1554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-13d77d8",
@@ -1560,7 +1590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1mp184q",
@@ -1592,7 +1622,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-14zfblc",
@@ -1627,7 +1657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1rib5f6",
@@ -1656,7 +1686,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1mens6n",
@@ -1691,7 +1721,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1x3rdrx",
@@ -1727,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 4.14
+      "score": 4
     },
     {
       "id": "ev-0z718pf",
@@ -1838,7 +1868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.8
+      "score": 3.51
     },
     {
       "id": "ev-052qfgc",
@@ -1877,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.52
+      "score": 3.23
     },
     {
       "id": "ev-0vvzfpf",
@@ -1921,7 +1951,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 3.31
+      "score": 3.02
     },
     {
       "id": "ev-1peulo6",
@@ -1953,7 +1983,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     },
     {
       "id": "ev-1nhssx5",
@@ -1985,7 +2015,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.77
+      "score": 2.48
     },
     {
       "id": "ev-0ktcg82",
@@ -2017,7 +2047,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.75
+      "score": 2.46
     },
     {
       "id": "ev-07rmzm7",
@@ -2053,7 +2083,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.71
+      "score": 2.41
     },
     {
       "id": "ev-1r8n0qi",
@@ -2089,7 +2119,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.65
+      "score": 2.36
     },
     {
       "id": "ev-0he2wum",
@@ -2121,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.62
+      "score": 2.32
     },
     {
       "id": "ev-0m3x0jm",
@@ -2152,7 +2182,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.6
+      "score": 2.31
     },
     {
       "id": "ev-1upsm18",
@@ -2187,7 +2217,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-25T08:07:11.521Z",
       "updatedSlot": "manana",
-      "score": 2.49
+      "score": 2.2
     }
   ],
   "runs": [
@@ -2211,6 +2241,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-25T19:37:14.401Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 18
     }
   ]
 }
