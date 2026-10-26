@@ -1,20 +1,19 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-26T18:51:04.953Z",
+  "generatedAt": "2026-10-26T23:07:12.527Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0v1tdcn",
-      "title": "Ministerio de Justicia interviene penal de Emboscada tras fuga de dos reos",
-      "summary": "El Ministerio de Justicia dispuso la intervención del penal Martín Mendoza de Emboscada tras la fuga de dos reclusos de alta peligrosidad durante el fin de semana. Cuatro guardiacárceles fueron detenidos por presunta complicidad y seis funcionarios quedaron bajo investigación. El director del penal fue apartado del cargo. La Policía busca a los dos fugitivos.",
+      "title": "Intervienen el penal de Emboscada tras la fuga de dos reos",
+      "summary": "El Ministerio de Justicia intervino el penal de Emboscada y apartó a su director tras la fuga de dos reos de alta peligrosidad, que cumplían condenas por homicidio. La cartera abrió una investigación para determinar responsabilidades. Cuatro guardiacárceles están detenidos por presunta complicidad y no se descartan más implicados. La Policía busca a los fugitivos.",
       "keyPoints": [
-        "Dos reclusos se fugaron del penal Martín Mendoza en la madrugada del domingo.",
-        "Cuatro guardiacárceles fueron detenidos por presunta complicidad.",
-        "El director del penal fue apartado y se designará un interventor.",
-        "La Policía asegura que tiene pistas sobre el paradero de los fugitivos."
+        "Dos reos de alta seguridad se fugaron el fin de semana del penal de Emboscada.",
+        "El Ministerio de Justicia dispuso la intervención de la penitenciaría y apartó a su director.",
+        "Cuatro guardiacárceles fueron detenidos, sospechosos de ser cómplices de la fuga."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: apartan al director e intervienen el penal tras escape de condenados",
+          "url": "https://www.abc.com.py/nacionales/2026/10/26/fuga-en-emboscada-apartan-al-director-e-intervienen-el-penal-tras-escape-de-condenados",
+          "publishedAt": "2026-10-26T22:57:09.000Z",
+          "image": "https://www.abc.com.py/resizer/HCHwtlfpyzyI-ouGUsgDUDRYdzQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NFUWEP7KOFEKLPIXF3AYBG54HU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Intervienen cárcel paraguaya de máxima seguridad y detienen a custodios tras fuga de reos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/26/intervienen-carcel-paraguaya-de-maxima-seguridad-y-detienen-a-custodios-tras-fuga-de-reos",
+          "publishedAt": "2026-10-26T20:40:19.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -160,32 +175,70 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MS4EJ7GLXFCJ7MK4JPEAI3QEQM.jpg?auth=f0c445ea64b78237817e993d039d63bcca0c8ce5e65f5caecbf4021b581928e0&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/26/fuga-en-el-penal-de-emboscada-cuatro-guardias-fueron-detenidos-y-no-descartan-mas-implicados"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NFUWEP7KOFEKLPIXF3AYBG54HU.jpg?auth=8a481596081269e7878d0d4ae473dd2a2e947ec453aa4735eccfee9ea820b7b0&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/26/fuga-en-emboscada-apartan-al-director-e-intervienen-el-penal-tras-escape-de-condenados"
       },
       "firstSeenAt": "2026-10-26T08:07:12.168Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-26T15:06:39.915Z",
+      "updatedAt": "2026-10-26T23:07:12.527Z",
       "updatedSlot": "tarde",
-      "score": 26.66
+      "score": 26.99
     },
     {
       "id": "ev-0twelbn",
-      "title": "Lula da Silva gana la segunda vuelta en Brasil y logra su cuarto mandato",
-      "summary": "Luiz Inácio Lula da Silva ganó la segunda vuelta presidencial en Brasil contra Flávio Bolsonaro. Según los resultados difundidos, obtuvo cerca del 52 % de los votos. Será el primer presidente elegido cuatro veces por voto popular. Su mandato se extenderá hasta 2031. Jair Bolsonaro, según un medio, desconoce el triunfo.",
+      "title": "Cartes saluda a Lula y pide fortalecer los lazos con Brasil",
+      "summary": "El titular de la ANR, Horacio Cartes, felicitó a Luiz Inácio Lula da Silva por su reelección en Brasil. Cartes expresó el deseo de que ambos países mantengan y profundicen la cooperación bilateral. Su mensaje llegó tras conocerse los resultados de la segunda vuelta electoral en Brasil.",
       "keyPoints": [
-        "Lula ganó la segunda vuelta contra Flávio Bolsonaro.",
-        "Obtuvo cerca del 52 % de los votos según los resultados.",
-        "Su mandato va hasta 2031.",
-        "Un medio informa que Bolsonaro desconoce el triunfo."
+        "Horacio Cartes felicitó a Lula por su victoria en Brasil.",
+        "Cartes pidió profundizar la cooperación bilateral entre Paraguay y Brasil."
       ],
       "category": "internacional",
-      "scope": "internacional",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "La UE felicita a Lula por su victoria en la segunda vuelta de las elecciones presidenciales en Brasil",
+          "url": "https://elnacional.com.py/mundo/la-ue-felicita-lula-su-victoria-segunda-vuelta-elecciones-presidenciales-brasil-n114192",
+          "publishedAt": "2026-10-26T20:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf35dcc4208.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cartes felicita a Lula y aboga por fortalecer los lazos con Brasil",
+          "url": "https://www.adndigital.com.py/cartes-felicita-a-lula-y-aboga-por-fortalecer-los-lazos-con-brasil",
+          "publishedAt": "2026-10-26T18:55:31.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-155457.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Horacio Cartes saludó a Lula por su victoria electoral",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/horacio-cartes-saludo-a-lula-por-su-victoria-electoral",
+          "publishedAt": "2026-10-26T18:15:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OB9Q4un8x8vFtLdirD1dKVn71PU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZCGXUUXC6RFNZB42VUT7CWMSPY.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Cartes saluda a Lula tras su reelección en Brasil",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/26/cartes-saluda-a-lula-tras-su-reeleccion-en-brasil",
+          "publishedAt": "2026-10-26T17:55:16.436Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CW5BKGOVTNER3H3AC5SSXP5TXM.jfif?auth=c6661f296bd78a09d854ee7b7366da6a8c285041d91d36ba50e971f89c1bdb0f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "China felicita a Lula por su victoria electoral en Brasil y aboga por reforzar los lazos bilaterales",
+          "url": "https://elnacional.com.py/mundo/china-felicita-lula-su-victoria-electoral-brasil-aboga-reforzar-lazos-bilaterales-n114191",
+          "publishedAt": "2026-10-26T16:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2021/04/5923cb6fea961024b7810082f1622dd6.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -292,15 +345,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QMQHYLFQ2NHHDJIHAE6RL765GY.jpg?auth=6b461abdfc0680249203fdf631e68f44579f669bb72710a729b81f7d8a6cb654&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/26/de-obrero-a-hito-politico-lula-da-silva-gana-su-cuarto-mandato-e-ingresa-a-la-historia"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-155457.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/cartes-felicita-a-lula-y-aboga-por-fortalecer-los-lazos-con-brasil"
       },
       "firstSeenAt": "2026-10-26T08:07:12.168Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-26T18:51:04.953Z",
+      "updatedAt": "2026-10-26T23:07:12.527Z",
       "updatedSlot": "tarde",
-      "score": 17.82
+      "score": 20.74
     },
     {
       "id": "ev-1gv72fk",
@@ -359,7 +412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T12:07:11.413Z",
       "updatedSlot": "manana",
-      "score": 17.39
+      "score": 17.04
     },
     {
       "id": "ev-1j6z7qw",
@@ -467,7 +520,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 17.27
+      "score": 16.91
     },
     {
       "id": "ev-00d1iel",
@@ -534,7 +587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T15:06:39.915Z",
       "updatedSlot": "tarde",
-      "score": 14.64
+      "score": 14.28
     },
     {
       "id": "ev-08yik5c",
@@ -610,7 +663,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.91
+      "score": 10.56
     },
     {
       "id": "ev-06kthfb",
@@ -661,7 +714,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T12:07:11.413Z",
       "updatedSlot": "manana",
-      "score": 10.28
+      "score": 9.93
+    },
+    {
+      "id": "ev-0nusz0i",
+      "title": "Crecida del Paraná obliga a evacuar a 1.064 familias en Ayolas",
+      "summary": "La crecida del río Paraná ya obligó a evacuar a 1.064 familias en Ayolas. Las mediciones hidrológicas siguen muy por encima de los parámetros habituales. Se anuncia una baja gradual del nivel del agua en los próximos días, pero la situación seguirá siendo delicada para las zonas ribereñas.",
+      "keyPoints": [
+        "Ya son 1.064 familias evacuadas en Ayolas por la inundación.",
+        "Las mediciones del río Paraná están muy por encima de lo habitual.",
+        "Se anuncia una disminución gradual de la altura del agua en los próximos días."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Crecida del Paraná mantiene bajo agua a varios barrios de Ayolas",
+          "url": "https://www.adndigital.com.py/crecida-parana-mantiene-bajo-agua-a-varios-barrios-de-ayolas",
+          "publishedAt": "2026-10-26T22:03:33.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-185115.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Paraguay solidario",
+          "url": "https://www.abc.com.py/clima/2026/10/26/el-paraguay-solidario",
+          "publishedAt": "2026-10-26T08:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/A2A_BK3c3TlynlVAEkAn4z6QX0Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CCBSBUZX2BD7FFEND5AHSJ4EXM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-185115.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/crecida-parana-mantiene-bajo-agua-a-varios-barrios-de-ayolas"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T23:07:12.527Z",
+      "updatedSlot": "tarde",
+      "score": 9.91
     },
     {
       "id": "ev-0pnjwzi",
@@ -713,7 +809,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.26
+      "score": 9.9
     },
     {
       "id": "ev-0sng7uq",
@@ -764,7 +860,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.68
+      "score": 9.33
     },
     {
       "id": "ev-0iiyp00",
@@ -815,7 +911,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.68
+      "score": 9.33
     },
     {
       "id": "ev-1w2c824",
@@ -858,7 +954,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.43
     },
     {
       "id": "ev-0um75cz",
@@ -901,7 +997,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.14
     },
     {
       "id": "ev-13ivu7z",
@@ -944,7 +1040,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8
     },
     {
       "id": "ev-0ktfpq6",
@@ -988,7 +1084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 8
     },
     {
       "id": "ev-0lge76i",
@@ -1084,7 +1180,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.68
+      "score": 6.33
     },
     {
       "id": "ev-1r5lnj7",
@@ -1127,7 +1223,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.4
+      "score": 6.05
     },
     {
       "id": "ev-1706x7q",
@@ -1170,7 +1266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.18
+      "score": 5.83
     },
     {
       "id": "ev-1nhqtap",
@@ -1214,7 +1310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.18
+      "score": 5.83
     },
     {
       "id": "ev-1thfhlq",
@@ -1258,7 +1354,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.34
     },
     {
       "id": "ev-1v4uznj",
@@ -1301,7 +1397,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-0b5yu96",
@@ -1345,7 +1441,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-0s8lyyf",
@@ -1389,7 +1485,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-00g41td",
@@ -1433,7 +1529,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-1jhxj0r",
@@ -1477,7 +1573,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.33
     },
     {
       "id": "ev-1ktwr9g",
@@ -1521,311 +1617,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.68
-    },
-    {
-      "id": "ev-0nusz0i",
-      "title": "Más de 3.500 personas deben dejar sus casas por la crecida del río Paraná",
-      "summary": "La crecida del río Paraná anegó zonas vulnerables del distrito de Ayolas y obligó a más de 3.500 personas a abandonar sus viviendas. Las familias buscan refugio en campamentos temporales, casas de familiares y amigos, o viviendas alquiladas. La nota atribuye la situación al fenómeno climático El Niño.",
-      "keyPoints": [
-        "La crecida del río Paraná anegó zonas vulnerables de Ayolas.",
-        "Más de 3.500 personas abandonaron sus viviendas.",
-        "Las familias se refugian en campamentos temporales y casas de familiares o alquiladas."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El Paraguay solidario",
-          "url": "https://www.abc.com.py/clima/2026/10/26/el-paraguay-solidario",
-          "publishedAt": "2026-10-26T08:00:00.000Z",
-          "image": "https://www.abc.com.py/resizer/A2A_BK3c3TlynlVAEkAn4z6QX0Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CCBSBUZX2BD7FFEND5AHSJ4EXM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CCBSBUZX2BD7FFEND5AHSJ4EXM.jpg?auth=3ad1b07dd89e767cdc9ca2c47d04a04a41db837bf97085884969372ad299c566&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/10/26/el-paraguay-solidario"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.1
-    },
-    {
-      "id": "ev-0xfuisk",
-      "title": "Fitch Ratings ratifica la calificación BB de ueno bank",
-      "summary": "La calificadora Fitch Ratings ratificó la calificación BB del ueno bank. Según la evaluación, el banco tiene buena calidad de cartera, estabilidad en su rentabilidad y fondeo, y una importancia creciente en el sistema financiero paraguayo.",
-      "keyPoints": [
-        "Fitch Ratings ratificó la calificación BB de ueno bank.",
-        "La evaluación destaca la calidad de su cartera.",
-        "Se resalta la estabilidad de su rentabilidad y de su fondeo."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fitch Ratings ratifica la calificación BB de ueno bank",
-          "url": "https://www.ultimahora.com/fitch-ratings-ratifica-la-calificacion-bb-de-ueno-bank",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-1dgy00u",
-      "title": "BMW presentó su torneo Golf Cup 2026",
-      "summary": "Sin extracto disponible del medio. Consultá la nota original: BMW presentó su torneo Golf Cup 2026",
-      "keyPoints": [
-        "BMW presentó su torneo Golf Cup 2026"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "BMW presentó su torneo Golf Cup 2026",
-          "url": "https://www.ultimahora.com/bmw-presento-su-torneo-golf-cup-2026",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-1tz0u9w",
-      "title": "Mazda recibe al Asunción Fashion Week en su nuevo showroom",
-      "summary": "Mazda fue sede del Asunción Fashion Week en su nuevo showroom. El evento se realizó bajo el lema “Diseño que se siente”, que une la alta costura con la filosofía de diseño automotor de la marca. La nota no trae más detalles sobre el desarrollo de la jornada.",
-      "keyPoints": [
-        "El Asunción Fashion Week se realizó en el nuevo showroom de Mazda.",
-        "El lema del evento es “Diseño que se siente”.",
-        "El evento combina alta costura con el diseño automotor de Mazda."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Mazda recibe al Asunción Fashion Week en su nuevo showroom",
-          "url": "https://www.ultimahora.com/mazda-recibe-al-asuncion-fashion-week-en-su-nuevo-showroom",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-1xamvmz",
-      "title": "Zeta Banco y Enex acuerdan más beneficios para clientes",
-      "summary": "Zeta Banco y Enex acordaron más beneficios para sus clientes. Según Última Hora, el acuerdo alcanza a quienes usan los servicios de ambas empresas. El extracto disponible no trae detalles sobre las ventajas concretas, su alcance ni desde cuándo rigen. Por eso todavía no se sabe qué cambia en la práctica para los usuarios.",
-      "keyPoints": [
-        "Zeta Banco y Enex firmaron un acuerdo de beneficios para clientes."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Zeta Banco y Enex acuerdan más beneficios para clientes",
-          "url": "https://www.ultimahora.com/zeta-banco-y-enex-acuerdan-mas-beneficios-para-clientes",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-0ncbxgr",
-      "title": "Vecinos del Bañado Cará Cará temen inundaciones y denuncian rellenos irregulares",
-      "summary": "Vecinos del Bañado Cará Cará denuncian que la Municipalidad de Asunción ignora sus reclamos por rellenos irregulares. Los pobladores viven con incertidumbre por la posibilidad de ser desalojados y por el riesgo de inundaciones. La nota recoge la posición de los vecinos; no trae la respuesta de la Municipalidad.",
-      "keyPoints": [
-        "Vecinos denuncian rellenos irregulares en el Bañado Cará Cará.",
-        "Según los vecinos, la Municipalidad de Asunción ignora sus denuncias.",
-        "Los pobladores temen ser desalojados y sufrir inundaciones."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Bañado Cará Cará: Abandono y temor ante posibles inundaciones",
-          "url": "https://www.ultimahora.com/banado-cara-cara-abandono-y-temor-ante-posibles-inundaciones",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-14dmz19",
-      "title": "100 años de vida del AGC",
-      "summary": "Sin extracto disponible del medio. Consultá la nota original: 100 años de vida del AGC",
-      "keyPoints": [
-        "100 años de vida del AGC"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "100 años de vida del AGC",
-          "url": "https://www.ultimahora.com/100-anos-de-vida-del-agc",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-1bre7ya",
-      "title": "Aseguradora Yacyreta premió a su fuerza de ventas",
-      "summary": "La Aseguradora Yacyreta premió a su fuerza de ventas, según informó Última Hora. La nota no trae detalles sobre el tipo de reconocimiento, cuántas personas fueron premiadas ni qué criterios se usaron. Es un hecho de la vida interna de la empresa, sin datos sobre resultados comerciales. Por ahora, el único dato confirmado es que la compañía reconoció a su equipo de ventas.",
-      "keyPoints": [
-        "La Aseguradora Yacyreta premió a su fuerza de ventas."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Aseguradora Yacyreta premió a su fuerza de ventas",
-          "url": "https://www.ultimahora.com/aseguradora-yacyreta-premio-a-su-fuerza-de-ventas",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-12n7flw",
-      "title": "El Grupo Garden presenta el nuevo Chery T9 PRO CSH en Surubi’i",
-      "summary": "El Grupo Garden presentó el nuevo Chery T9 PRO CSH en Pueblo del Río, en Surubi’i. El lanzamiento se hizo en un entorno natural, según la nota de Última Hora. El extracto no incluye especificaciones técnicas, precios ni detalles sobre la versión del vehículo. Por ahora se sabe el modelo y el lugar, pero no sus características ni su precio.",
-      "keyPoints": [
-        "El Grupo Garden presentó el modelo Chery T9 PRO CSH.",
-        "El lanzamiento se realizó en Pueblo del Río, en Surubi’i."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "El Grupo Garden presentó el nuevo Chery T9 PRO CSH",
-          "url": "https://www.ultimahora.com/el-grupo-garden-presento-el-nuevo-chery-t9-pro-csh",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-0zjn122",
-      "title": "Columna critica la administración de la ciudad de Asunción",
-      "summary": "Una columna de opinión de Última Hora critica la administración de la ciudad de Asunción. El texto presenta esa visión como postura del autor. El extracto no trae hechos concretos ni respuesta de la Municipalidad.",
-      "keyPoints": [
-        "La nota es una columna de opinión sobre la administración municipal de Asunción.",
-        "El extracto disponible no trae datos concretos ni respuesta de la Municipalidad."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "La ciudad de Asunción está secuestrada por una pésima administración",
-          "url": "https://www.ultimahora.com/la-ciudad-de-asuncion-esta-secuestrada-por-una-pesima-administracion",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.01
+      "score": 5.33
     },
     {
       "id": "ev-1np79t9",
@@ -1872,6 +1664,275 @@
       "score": 5
     },
     {
+      "id": "ev-0xfuisk",
+      "title": "Fitch Ratings ratifica la calificación BB de ueno bank",
+      "summary": "La calificadora Fitch Ratings ratificó la calificación BB del ueno bank. Según la evaluación, el banco tiene buena calidad de cartera, estabilidad en su rentabilidad y fondeo, y una importancia creciente en el sistema financiero paraguayo.",
+      "keyPoints": [
+        "Fitch Ratings ratificó la calificación BB de ueno bank.",
+        "La evaluación destaca la calidad de su cartera.",
+        "Se resalta la estabilidad de su rentabilidad y de su fondeo."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fitch Ratings ratifica la calificación BB de ueno bank",
+          "url": "https://www.ultimahora.com/fitch-ratings-ratifica-la-calificacion-bb-de-ueno-bank",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-1dgy00u",
+      "title": "BMW presentó su torneo Golf Cup 2026",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: BMW presentó su torneo Golf Cup 2026",
+      "keyPoints": [
+        "BMW presentó su torneo Golf Cup 2026"
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "BMW presentó su torneo Golf Cup 2026",
+          "url": "https://www.ultimahora.com/bmw-presento-su-torneo-golf-cup-2026",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-1tz0u9w",
+      "title": "Mazda recibe al Asunción Fashion Week en su nuevo showroom",
+      "summary": "Mazda fue sede del Asunción Fashion Week en su nuevo showroom. El evento se realizó bajo el lema “Diseño que se siente”, que une la alta costura con la filosofía de diseño automotor de la marca. La nota no trae más detalles sobre el desarrollo de la jornada.",
+      "keyPoints": [
+        "El Asunción Fashion Week se realizó en el nuevo showroom de Mazda.",
+        "El lema del evento es “Diseño que se siente”.",
+        "El evento combina alta costura con el diseño automotor de Mazda."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Mazda recibe al Asunción Fashion Week en su nuevo showroom",
+          "url": "https://www.ultimahora.com/mazda-recibe-al-asuncion-fashion-week-en-su-nuevo-showroom",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-1xamvmz",
+      "title": "Zeta Banco y Enex acuerdan más beneficios para clientes",
+      "summary": "Zeta Banco y Enex acordaron más beneficios para sus clientes. Según Última Hora, el acuerdo alcanza a quienes usan los servicios de ambas empresas. El extracto disponible no trae detalles sobre las ventajas concretas, su alcance ni desde cuándo rigen. Por eso todavía no se sabe qué cambia en la práctica para los usuarios.",
+      "keyPoints": [
+        "Zeta Banco y Enex firmaron un acuerdo de beneficios para clientes."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Zeta Banco y Enex acuerdan más beneficios para clientes",
+          "url": "https://www.ultimahora.com/zeta-banco-y-enex-acuerdan-mas-beneficios-para-clientes",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-0ncbxgr",
+      "title": "Vecinos del Bañado Cará Cará temen inundaciones y denuncian rellenos irregulares",
+      "summary": "Vecinos del Bañado Cará Cará denuncian que la Municipalidad de Asunción ignora sus reclamos por rellenos irregulares. Los pobladores viven con incertidumbre por la posibilidad de ser desalojados y por el riesgo de inundaciones. La nota recoge la posición de los vecinos; no trae la respuesta de la Municipalidad.",
+      "keyPoints": [
+        "Vecinos denuncian rellenos irregulares en el Bañado Cará Cará.",
+        "Según los vecinos, la Municipalidad de Asunción ignora sus denuncias.",
+        "Los pobladores temen ser desalojados y sufrir inundaciones."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Bañado Cará Cará: Abandono y temor ante posibles inundaciones",
+          "url": "https://www.ultimahora.com/banado-cara-cara-abandono-y-temor-ante-posibles-inundaciones",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-14dmz19",
+      "title": "100 años de vida del AGC",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: 100 años de vida del AGC",
+      "keyPoints": [
+        "100 años de vida del AGC"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "100 años de vida del AGC",
+          "url": "https://www.ultimahora.com/100-anos-de-vida-del-agc",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-1bre7ya",
+      "title": "Aseguradora Yacyreta premió a su fuerza de ventas",
+      "summary": "La Aseguradora Yacyreta premió a su fuerza de ventas, según informó Última Hora. La nota no trae detalles sobre el tipo de reconocimiento, cuántas personas fueron premiadas ni qué criterios se usaron. Es un hecho de la vida interna de la empresa, sin datos sobre resultados comerciales. Por ahora, el único dato confirmado es que la compañía reconoció a su equipo de ventas.",
+      "keyPoints": [
+        "La Aseguradora Yacyreta premió a su fuerza de ventas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Aseguradora Yacyreta premió a su fuerza de ventas",
+          "url": "https://www.ultimahora.com/aseguradora-yacyreta-premio-a-su-fuerza-de-ventas",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-12n7flw",
+      "title": "El Grupo Garden presenta el nuevo Chery T9 PRO CSH en Surubi’i",
+      "summary": "El Grupo Garden presentó el nuevo Chery T9 PRO CSH en Pueblo del Río, en Surubi’i. El lanzamiento se hizo en un entorno natural, según la nota de Última Hora. El extracto no incluye especificaciones técnicas, precios ni detalles sobre la versión del vehículo. Por ahora se sabe el modelo y el lugar, pero no sus características ni su precio.",
+      "keyPoints": [
+        "El Grupo Garden presentó el modelo Chery T9 PRO CSH.",
+        "El lanzamiento se realizó en Pueblo del Río, en Surubi’i."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El Grupo Garden presentó el nuevo Chery T9 PRO CSH",
+          "url": "https://www.ultimahora.com/el-grupo-garden-presento-el-nuevo-chery-t9-pro-csh",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
+      "id": "ev-0zjn122",
+      "title": "Columna critica la administración de la ciudad de Asunción",
+      "summary": "Una columna de opinión de Última Hora critica la administración de la ciudad de Asunción. El texto presenta esa visión como postura del autor. El extracto no trae hechos concretos ni respuesta de la Municipalidad.",
+      "keyPoints": [
+        "La nota es una columna de opinión sobre la administración municipal de Asunción.",
+        "El extracto disponible no trae datos concretos ni respuesta de la Municipalidad."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La ciudad de Asunción está secuestrada por una pésima administración",
+          "url": "https://www.ultimahora.com/la-ciudad-de-asuncion-esta-secuestrada-por-una-pesima-administracion",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.66
+    },
+    {
       "id": "ev-00lng04",
       "title": "Asoban pide reglas iguales y medidas correctivas tras críticas al BCP por Ueno Bank",
       "summary": "Las respuestas del Banco Central del Paraguay a un pedido de informe del Senado sobre el caso Ueno Bank siguen generando críticas. La Asociación de Bancos del Paraguay exige reglas claras e iguales para todos los participantes y medidas correctivas que devuelvan confianza al sistema. El caso se suma a los cuestionamientos por los vínculos de la entidad con el poder político, ya que el presidente Santiago Peña fue accionista del holding.",
@@ -1904,7 +1965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.57
     },
     {
       "id": "ev-13nl9m4",
@@ -1939,7 +2000,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.41
     },
     {
       "id": "ev-1g2utcd",
@@ -1970,7 +2031,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.41
     },
     {
       "id": "ev-1gqsx80",
@@ -1999,7 +2060,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.41
     },
     {
       "id": "ev-1s63f24",
@@ -2035,7 +2096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.41
     },
     {
       "id": "ev-1gf6nvy",
@@ -2071,7 +2132,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.41
     },
     {
       "id": "ev-02pf9ys",
@@ -2105,7 +2166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.33
     },
     {
       "id": "ev-0bb0gur",
@@ -2140,7 +2201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.68
+      "score": 4.33
     },
     {
       "id": "ev-0c46xyh",
@@ -2176,7 +2237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.32
     },
     {
       "id": "ev-1ikm901",
@@ -2211,7 +2272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.26
     },
     {
       "id": "ev-004s4yc",
@@ -2246,7 +2307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-0ancssh",
@@ -2347,6 +2408,13 @@
       "added": 0,
       "updated": 1,
       "candidates": 21
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-26T23:07:12.527Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 20
     }
   ]
 }
