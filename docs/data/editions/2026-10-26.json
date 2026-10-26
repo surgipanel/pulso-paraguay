@@ -1,11 +1,260 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-26T08:07:12.168Z",
+  "generatedAt": "2026-10-26T12:07:11.413Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0v1tdcn",
+      "title": "Ministerio de Justicia dispone intervención del penal de Emboscada",
+      "summary": "El Ministerio de Justicia ordenó intervenir el Centro Penitenciario Martín Mendoza de Emboscada tras la fuga de dos internos del Módulo 7. La medida llega mientras se investiga si hubo complicidad de agentes penitenciarios, algo que todavía no está confirmado. Cuatro agentes fueron detenidos por sospechas, según las notas.",
+      "keyPoints": [
+        "El Ministerio de Justicia ordenó la intervención del penal.",
+        "La fuga involucró a dos internos del Módulo 7.",
+        "Cuatro agentes fueron detenidos por presunta complicidad."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Fuga en Emboscada: otro caso más de complicidad de funcionarios, lamenta viceministro",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/10/26/audio-fuga-en-emboscada-otro-caso-mas-de-complicidad-de-funcionarios-lamenta-viceministro",
+          "publishedAt": "2026-10-26T11:36:28.000Z",
+          "image": "https://www.abc.com.py/resizer/BIOip5nwPS-s-Iby26jT9TRa85M=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PHRLKFKLJVDVPMLPN2UDPLWREA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: otro caso más de complicidad de funcionarios, lamenta viceministro",
+          "url": "https://www.abc.com.py/policiales/2026/10/26/fuga-en-emboscada-otro-caso-mas-de-complicidad-de-funcionarios-lamenta-viceministro",
+          "publishedAt": "2026-10-26T11:27:59.000Z",
+          "image": "https://www.abc.com.py/resizer/BIOip5nwPS-s-Iby26jT9TRa85M=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PHRLKFKLJVDVPMLPN2UDPLWREA.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Cuatro guardiacáceles son detenidos por fuga de reclusos de alta seguridad de Emboscada",
+          "url": "https://www.ultimahora.com/cuatro-guardiacaceles-son-detenidos-por-fuga-de-reclusos-de-alta-seguridad-de-emboscada",
+          "publishedAt": "2026-10-26T10:54:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ministerio de Justicia dispone intervención en el penal de Emboscada tras fuga de presos",
+          "url": "https://www.ultimahora.com/ministerio-de-justicia-dispone-intervencion-en-el-penal-de-emboscada-tras-fuga-de-presos",
+          "publishedAt": "2026-10-26T10:37:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ministerio dispone intervenir cárcel de Emboscada tras fuga de reos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/26/ministerio-dispone-intervenir-carcel-de-emboscada-tras-fuga-de-reos",
+          "publishedAt": "2026-10-26T10:28:56.049Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NJXKM25HBZCXLEUSUHDBYCATQI.jpg?auth=96355ae2f0986fe61a333114f7defa9c3d225e2206ed97d49d21f07776ebfebe&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fuga en Emboscada: detienen a cuatro guardiacárceles e incautan celulares",
+          "url": "https://www.adndigital.com.py/fuga-en-emboscada-detienen-a-cuatro-guardiacarceles-e-incautan-celulares",
+          "publishedAt": "2026-10-26T10:07:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-064817-1-724x1024.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Aprehenden a más guardiacárceles por fuga de reos y suman cuatro",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/26/aprehenden-a-mas-guardiacarceles-por-fuga-de-reos-y-suman-cuatro",
+          "publishedAt": "2026-10-26T08:35:47.865Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UIWEQPFABFFWZAEV3MGEKL2PNQ.jpg?auth=8f2088e3b50e944cb75e110f4ad9164a082fc1cd85c57d94d602325d7757d97d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Dos internos se fugaron de la cárcel de Emboscada",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/26/dos-internos-se-fugaron-de-la-carcel-de-emboscada",
+          "publishedAt": "2026-10-26T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FlaKoZyEkXh7R70cFyoLaYj79vQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MHZDT33VNZAU5CD4HQHWWJGV4Q.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Dos guadiacárceles detenidos tras fuga de reos en penal de máxima seguridad",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/25/dos-guadiacarceles-detenidos-tras-fuga-de-reos-en-penal-de-maxima-seguridad",
+          "publishedAt": "2026-10-25T23:00:31.822Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IOLV3VYVD5EYVHKTPNENN6OUFQ.jpg?auth=facf61de0220de946fa7288736067491db27e03f1d1e2da454fe6678c14ee829&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dos internos se fugaron de la cárcel de Emboscada y la Policía activó un operativo de búsqueda",
+          "url": "https://elnacional.com.py/nacionales/dos-internos-fugaron-carcel-emboscada-policia-activo-operativo-busqueda-n114167",
+          "publishedAt": "2026-10-25T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Dos internos se fugaron del Centro Penitenciario Martín Mendoza de Emboscada",
+          "url": "https://www.lanacion.com.py/judiciales/2026/10/25/dos-internos-se-fugaron-del-centro-penitenciario-martin-mendoza-de-emboscada",
+          "publishedAt": "2026-10-25T12:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pPPzhaQv4WYrSaRd0fbc-tKpkp8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZMXZ64TQMRDGFI7LHUJKTNGTRU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/NJXKM25HBZCXLEUSUHDBYCATQI.jpg?auth=96355ae2f0986fe61a333114f7defa9c3d225e2206ed97d49d21f07776ebfebe&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/26/ministerio-dispone-intervenir-carcel-de-emboscada-tras-fuga-de-reos"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T12:07:11.413Z",
+      "updatedSlot": "manana",
+      "score": 23.96
+    },
+    {
+      "id": "ev-0twelbn",
+      "title": "Peña felicita a Lula da Silva por su victoria en el balotaje de Brasil",
+      "summary": "El presidente Santiago Peña felicitó a Luiz Inácio Lula da Silva por su triunfo en la segunda vuelta de Brasil, que le dio un cuarto mandato. Peña destacó una agenda común de integración y desarrollo, y prometió trabajar junto a Brasil por el bienestar de ambos pueblos. El mensaje fue publicado en la red X.",
+      "keyPoints": [
+        "Lula se impuso a Flávio Bolsonaro en la segunda vuelta.",
+        "Peña lo felicitó a través de la red social X.",
+        "Según Peña, Paraguay y Brasil comparten una agenda de integración y desarrollo."
+      ],
+      "category": "internacional",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña saluda a Lula da Silva tras ganar las elecciones y aboga por la integración regional",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/pena-saluda-a-lula-da-silva-tras-ganar-las-elecciones-y-aboga-por-la-integracion-regional",
+          "publishedAt": "2026-10-26T10:39:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4ek5DCzFKKXzkuhw04W3HDenqVI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DSCJ3GLVFZH73G5XZMAJTCMOYA.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña felicita a Lula por su victoria en las elecciones de Brasil",
+          "url": "https://www.adndigital.com.py/pena-felicita-a-lula-por-su-victoria-en-las-elecciones-de-brasil",
+          "publishedAt": "2026-10-26T10:23:43.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-072108.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña felicita a Lula por la victoria",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/26/pena-felicita-a-lula-por-la-victoria",
+          "publishedAt": "2026-10-26T09:00:07.705Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/4RJF6MKKDFA3VAF2ZAOXW5MDA4.jpg?auth=cbad8eeb232e07da3fe08562ec0c9af014c18168d33fc9036bd9baa2fddc97d4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña y otros líderes regionales reconocen el triunfo de Lula en Brasil",
+          "url": "https://www.abc.com.py/politica/2026/10/25/santiago-pena-y-otros-lideres-regionales-reconocen-el-triunfo-de-lula-en-brasil",
+          "publishedAt": "2026-10-26T02:45:45.000Z",
+          "image": "https://www.abc.com.py/resizer/xqowINpmjDa2jot77RLenLj8SeU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SCP3B2KLWZEHZAFDVN5XGHW66Y.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña felicita a Lula por su triunfo electoral y promete seguir \"trabajando juntos\"",
+          "url": "https://www.abc.com.py/politica/2026/10/26/pena-felicita-a-lula-por-su-triunfo-electoral-y-promete-seguir-trabajando-juntos",
+          "publishedAt": "2026-10-26T01:05:14.000Z",
+          "image": "https://www.abc.com.py/resizer/jUw0xdtUpup462bVIMQLvJvlDEI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G6E2ZSHNGNEPBH5CLHCLXBG3QM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña felicita a Lula por su reelección y reafirma compromiso de cooperación",
+          "url": "https://elnacional.com.py/politica/pena-felicita-lula-su-reeleccion-reafirma-compromiso-cooperacion-n114179",
+          "publishedAt": "2026-10-26T00:43:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adea2a0bbff9.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DSCJ3GLVFZH73G5XZMAJTCMOYA.jpg?auth=fa558b5355f4ce63d0bb35f9d122aba76a1aea00d869a534ef3d4b7e784e6f1b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/26/pena-saluda-a-lula-da-silva-tras-ganar-las-elecciones-y-aboga-por-la-integracion-regional"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T12:07:11.413Z",
+      "updatedSlot": "manana",
+      "score": 20.88
+    },
+    {
+      "id": "ev-1gv72fk",
+      "title": "Un miembro de la Escolta Presidencial muere en derrumbe de vivienda en Asunción",
+      "summary": "Un derrumbe en una casa que se demolía en el barrio Ciudad Nueva de Asunción dejó un fallecido y otras personas heridas. Según HOY, todas las víctimas integraban el Regimiento Escolta Presidencial. El hecho ocurrió el domingo por la tarde, en la intersección de Herrera y República Francesa.",
+      "keyPoints": [
+        "El derrumbe ocurrió en una vivienda que estaba siendo demolida.",
+        "Hubo un fallecido y varios heridos.",
+        "Según HOY, las víctimas integraban el Regimiento Escolta Presidencial."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Un miembro de la Escolta Presidencial resultó muerto y otros dos heridos, por derrumbe de una vivienda",
+          "url": "https://www.adndigital.com.py/un-miembro-de-la-escolta-presidencial-resulto-muerto-y-otros-dos-heridos-por-derrumbe-de-una-vivienda",
+          "publishedAt": "2026-10-26T11:34:37.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-075558.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Derrumbe de una vivienda en Asunción dejó un obrero fallecido y otro herido",
+          "url": "https://www.lanacion.com.py/pais/2026/10/25/derrumbe-de-una-vivienda-en-asuncion-dejo-un-obrero-fallecido-y-otro-herido",
+          "publishedAt": "2026-10-25T23:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cQ-M0r6MJRqKs1f3FfRcyGw75vY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IWAOROPURVDKXBHOBILKTZHULI.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Derrumbe fatal en Asunción: casa se desplomó deja una víctima fatal",
+          "url": "https://elnacional.com.py/nacionales/derrumbe-fatal-asuncion-casa-desplomo-deja-una-victima-fatal-n114174",
+          "publishedAt": "2026-10-25T22:06:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade7ce89f209.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Derrumbe en vivienda deja un fallecido y dos heridos, todos de la Escolta Presidencial",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/25/derrumbe-en-vivienda-deja-un-obrero-fallecido-en-asuncion",
+          "publishedAt": "2026-10-25T21:48:04.046Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/6A774NT5CJHL3JSMXKB2VXIJUA.jpg?auth=b257a72b7a030fd7b8d8a3c77019f04610602de46b6b6eb1561293c2e959a49f&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/IWAOROPURVDKXBHOBILKTZHULI.png?auth=9a3cf739f7646d2a5b73f1acca530b2bde0417c86b4d0b430fa2fca61641e079&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/25/derrumbe-de-una-vivienda-en-asuncion-dejo-un-obrero-fallecido-y-otro-herido"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T12:07:11.413Z",
+      "updatedSlot": "manana",
+      "score": 17.95
+    },
     {
       "id": "ev-1j6z7qw",
       "title": "Lula da Silva gana el balotaje en Brasil y buscará un cuarto mandato",
@@ -112,59 +361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 18.16
-    },
-    {
-      "id": "ev-1gv72fk",
-      "title": "Derrumbe de una vivienda en Ciudad Nueva deja un fallecido en Asunción",
-      "summary": "Un derrumbe de una vivienda en el barrio Ciudad Nueva, en Asunción, dejó un fallecido. Según El Nacional, el colapso ocurrió durante trabajos de demolición y dos obreros quedaron atrapados. HOY informa de dos heridos, todos miembros del Regimiento Escolta Presidencial. Los reportes no coinciden en la cantidad de víctimas.",
-      "keyPoints": [
-        "Un fallecido en el derrumbe de una casa en Ciudad Nueva.",
-        "La vivienda estaba en demolición, según El Nacional.",
-        "HOY dice que las víctimas pertenecen al Regimiento Escolta Presidencial.",
-        "Los medios difieren en la cantidad de heridos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Derrumbe de una vivienda en Asunción dejó un obrero fallecido y otro herido",
-          "url": "https://www.lanacion.com.py/pais/2026/10/25/derrumbe-de-una-vivienda-en-asuncion-dejo-un-obrero-fallecido-y-otro-herido",
-          "publishedAt": "2026-10-25T23:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cQ-M0r6MJRqKs1f3FfRcyGw75vY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IWAOROPURVDKXBHOBILKTZHULI.png"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Derrumbe fatal en Asunción: casa se desplomó deja una víctima fatal",
-          "url": "https://elnacional.com.py/nacionales/derrumbe-fatal-asuncion-casa-desplomo-deja-una-victima-fatal-n114174",
-          "publishedAt": "2026-10-25T22:06:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ade7ce89f209.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Derrumbe en vivienda deja un fallecido y dos heridos, todos de la Escolta Presidencial",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/25/derrumbe-en-vivienda-deja-un-obrero-fallecido-en-asuncion",
-          "publishedAt": "2026-10-25T21:48:04.046Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/6A774NT5CJHL3JSMXKB2VXIJUA.jpg?auth=b257a72b7a030fd7b8d8a3c77019f04610602de46b6b6eb1561293c2e959a49f&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/IWAOROPURVDKXBHOBILKTZHULI.png?auth=9a3cf739f7646d2a5b73f1acca530b2bde0417c86b4d0b430fa2fca61641e079&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/25/derrumbe-de-una-vivienda-en-asuncion-dejo-un-obrero-fallecido-y-otro-herido"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 13.24
+      "score": 17.83
     },
     {
       "id": "ev-08yik5c",
@@ -240,7 +437,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 11.81
+      "score": 11.47
+    },
+    {
+      "id": "ev-06kthfb",
+      "title": "Riveros pide un plan de gobierno antes de definir la candidatura opositora",
+      "summary": "El presidente del PLRA, Alcides Riveros, sostuvo que la oposición debe acordar un proyecto de país antes de elegir su candidato presidencial para 2028. Defendió la continuidad de Hambre Cero con cambios en su metodología. También convocó a los partidos opositores a una mesa de diálogo que busca concretar en los próximos días.",
+      "keyPoints": [
+        "Riveros propone priorizar el programa de gobierno.",
+        "Defiende Hambre Cero con cambios en su metodología.",
+        "Está en marcha la convocatoria a partidos de oposición con representación parlamentaria."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Riveros pide un plan de Gobierno, defiende “Hambre Cero” y admite errores de la oposición",
+          "url": "https://www.adndigital.com.py/riveros-pide-un-plan-de-gobierno-defiende-hambre-cero-y-admite-errores-de-la-oposicion",
+          "publishedAt": "2026-10-26T10:15:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-070653.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El PLRA propone priorizar el programa de gobierno antes de definir candidatura",
+          "url": "https://www.lanacion.com.py/politica/2026/10/25/el-plra-propone-priorizar-el-programa-de-gobierno-antes-de-definir-candidatura",
+          "publishedAt": "2026-10-26T01:10:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Ai4GkTVeSLsY4BQra7pFQnUrpO4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A65OCPBVTNANPHA4I6BQ4T2AUA.JPG"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El PLRA convoca al diálogo opositor, pero reivindica liderar la chapa para 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/25/el-plra-convoca-al-dialogo-opositor-pero-reivindica-liderar-la-chapa-para-2028",
+          "publishedAt": "2026-10-25T16:57:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JOTX_2yWZmYGUAxDl61IiNpAci0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HRXESFZXNNGZ3O76R2ZTMRPSJY.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-070653.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/riveros-pide-un-plan-de-gobierno-defiende-hambre-cero-y-admite-errores-de-la-oposicion"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T12:07:11.413Z",
+      "updatedSlot": "manana",
+      "score": 10.84
     },
     {
       "id": "ev-0pnjwzi",
@@ -292,59 +540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 11.15
-    },
-    {
-      "id": "ev-0v1tdcn",
-      "title": "Dos internos se fugan de la penitenciaría de Emboscada y la Policía los busca",
-      "summary": "Dos internos se fugaron del Centro Penitenciario Martín Mendoza de Emboscada en la madrugada del domingo. Son Éver Alejandro Ozuna López y Robert Arsenio Merlo Villalba, alojados en el Módulo 7. La institución aclaró que ese sector no es de máxima seguridad. La Policía activó un operativo de búsqueda.",
-      "keyPoints": [
-        "Los fugados son Éver Alejandro Ozuna López y Robert Arsenio Merlo Villalba.",
-        "Estaban alojados en el Módulo 7 del Centro Penitenciario Martín Mendoza.",
-        "La institución dice que ese módulo no corresponde a máxima seguridad.",
-        "La fuga ocurrió en la madrugada del domingo, cerca de la 01:00."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Dos internos se fugaron de la cárcel de Emboscada",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/26/dos-internos-se-fugaron-de-la-carcel-de-emboscada",
-          "publishedAt": "2026-10-26T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/FlaKoZyEkXh7R70cFyoLaYj79vQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MHZDT33VNZAU5CD4HQHWWJGV4Q.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Dos internos se fugaron de la cárcel de Emboscada y la Policía activó un operativo de búsqueda",
-          "url": "https://elnacional.com.py/nacionales/dos-internos-fugaron-carcel-emboscada-policia-activo-operativo-busqueda-n114167",
-          "publishedAt": "2026-10-25T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Dos internos se fugaron del Centro Penitenciario Martín Mendoza de Emboscada",
-          "url": "https://www.lanacion.com.py/judiciales/2026/10/25/dos-internos-se-fugaron-del-centro-penitenciario-martin-mendoza-de-emboscada",
-          "publishedAt": "2026-10-25T12:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pPPzhaQv4WYrSaRd0fbc-tKpkp8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZMXZ64TQMRDGFI7LHUJKTNGTRU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MHZDT33VNZAU5CD4HQHWWJGV4Q.jpg?auth=e44155b09facba2e563fa81b8c1a4e685d16e631adfacb875ab8adf814ce1859&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/26/dos-internos-se-fugaron-de-la-carcel-de-emboscada"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.82
     },
     {
       "id": "ev-0sng7uq",
@@ -395,7 +591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0iiyp00",
@@ -446,7 +642,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1w2c824",
@@ -489,50 +685,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.68
-    },
-    {
-      "id": "ev-0twelbn",
-      "title": "Peña felicita a Lula por su victoria en el balotaje de Brasil",
-      "summary": "El presidente Santiago Peña saludó a Luiz Inácio Lula da Silva tras confirmarse su triunfo en el balotaje de Brasil. Lo hizo a través de sus canales oficiales, poco después de conocerse los resultados del TSE. Peña destacó los lazos históricos entre ambos países y la agenda compartida.",
-      "keyPoints": [
-        "Peña calificó de históricos los lazos entre Paraguay y Brasil.",
-        "Destacó la agenda compartida en comercio, infraestructura y seguridad fronteriza.",
-        "Reafirmó la cooperación con el país vecino tras la elección."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Santiago Peña y otros líderes regionales reconocen el triunfo de Lula en Brasil",
-          "url": "https://www.abc.com.py/politica/2026/10/25/santiago-pena-y-otros-lideres-regionales-reconocen-el-triunfo-de-lula-en-brasil",
-          "publishedAt": "2026-10-26T02:45:45.000Z",
-          "image": "https://www.abc.com.py/resizer/xqowINpmjDa2jot77RLenLj8SeU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SCP3B2KLWZEHZAFDVN5XGHW66Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña felicita a Lula por su reelección y reafirma compromiso de cooperación",
-          "url": "https://elnacional.com.py/politica/pena-felicita-lula-su-reeleccion-reafirma-compromiso-cooperacion-n114179",
-          "publishedAt": "2026-10-26T00:43:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adea2a0bbff9.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SCP3B2KLWZEHZAFDVN5XGHW66Y.jpg?auth=d594ece9e012b0a10b6c2a5d92a322e206c8c056bcd66c8a84e54723efe26bc3&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/25/santiago-pena-y-otros-lideres-regionales-reconocen-el-triunfo-de-lula-en-brasil"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 9.55
+      "score": 9.35
     },
     {
       "id": "ev-0um75cz",
@@ -575,7 +728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.06
     },
     {
       "id": "ev-13ivu7z",
@@ -618,7 +771,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-0ktfpq6",
@@ -662,7 +815,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.09
+      "score": 8.76
     },
     {
       "id": "ev-0lge76i",
@@ -706,7 +859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.46
     },
     {
       "id": "ev-1wkjb49",
@@ -758,7 +911,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 7.58
+      "score": 7.24
     },
     {
       "id": "ev-1r5lnj7",
@@ -801,7 +954,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 7.3
+      "score": 6.96
     },
     {
       "id": "ev-1706x7q",
@@ -844,7 +997,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-1nhqtap",
@@ -888,7 +1041,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-1thfhlq",
@@ -932,7 +1085,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.25
     },
     {
       "id": "ev-00d1iel",
@@ -976,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.25
     },
     {
       "id": "ev-1v4uznj",
@@ -1019,7 +1172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0b5yu96",
@@ -1063,7 +1216,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0s8lyyf",
@@ -1107,7 +1260,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-00g41td",
@@ -1151,7 +1304,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1jhxj0r",
@@ -1195,7 +1348,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1ktwr9g",
@@ -1239,51 +1392,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-06kthfb",
-      "title": "El PLRA convoca al diálogo opositor y reclama liderar la chapa para 2028",
-      "summary": "El presidente del PLRA, Alcides Riveros, confirmó la convocatoria a los partidos opositores con representación parlamentaria para instalar una mesa de diálogo. Según indicó, la primera reunión sería el miércoles o jueves de la próxima semana, y luego se ampliaría la participación a otros sectores. Riveros también planteó priorizar el programa de gobierno antes de definir la candidatura para las elecciones presidenciales de 2028.",
-      "keyPoints": [
-        "Alcides Riveros, presidente del PLRA, confirmó la convocatoria a la oposición.",
-        "La primera reunión de la mesa de diálogo se coordina para el miércoles o jueves de la semana entrante.",
-        "El PLRA reivindica liderar la chapa para las elecciones de 2028.",
-        "Riveros propone definir primero el programa de gobierno."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El PLRA propone priorizar el programa de gobierno antes de definir candidatura",
-          "url": "https://www.lanacion.com.py/politica/2026/10/25/el-plra-propone-priorizar-el-programa-de-gobierno-antes-de-definir-candidatura",
-          "publishedAt": "2026-10-26T01:10:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Ai4GkTVeSLsY4BQra7pFQnUrpO4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A65OCPBVTNANPHA4I6BQ4T2AUA.JPG"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El PLRA convoca al diálogo opositor, pero reivindica liderar la chapa para 2028",
-          "url": "https://www.lanacion.com.py/politica/2026/10/25/el-plra-convoca-al-dialogo-opositor-pero-reivindica-liderar-la-chapa-para-2028",
-          "publishedAt": "2026-10-25T16:57:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/JOTX_2yWZmYGUAxDl61IiNpAci0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HRXESFZXNNGZ3O76R2ZTMRPSJY.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/A65OCPBVTNANPHA4I6BQ4T2AUA.JPG?auth=873b937258952602bc56314baa6943e5533828d7c5d952dcd99530009f14178d&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/25/el-plra-propone-priorizar-el-programa-de-gobierno-antes-de-definir-candidatura"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 6.42
+      "score": 6.24
     },
     {
       "id": "ev-0nusz0i",
@@ -1318,7 +1427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0xfuisk",
@@ -1349,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1dgy00u",
@@ -1378,7 +1487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1tz0u9w",
@@ -1409,7 +1518,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1xamvmz",
@@ -1438,7 +1547,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ncbxgr",
@@ -1469,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-14dmz19",
@@ -1498,7 +1607,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1bre7ya",
@@ -1527,7 +1636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-12n7flw",
@@ -1557,7 +1666,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0zjn122",
@@ -1587,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-00lng04",
@@ -1622,7 +1731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.49
     },
     {
       "id": "ev-13nl9m4",
@@ -1657,7 +1766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1g2utcd",
@@ -1688,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1gqsx80",
@@ -1717,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1s63f24",
@@ -1753,7 +1862,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1gf6nvy",
@@ -1789,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-02pf9ys",
@@ -1823,7 +1932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.25
     },
     {
       "id": "ev-0bb0gur",
@@ -1858,7 +1967,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0c46xyh",
@@ -1894,7 +2003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.23
     },
     {
       "id": "ev-1ikm901",
@@ -1929,7 +2038,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.18
     },
     {
       "id": "ev-1np79t9",
@@ -1973,7 +2082,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 5
     },
     {
       "id": "ev-004s4yc",
@@ -2008,7 +2117,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.11
+      "score": 4.78
     },
     {
       "id": "ev-0ancssh",
@@ -2043,7 +2152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-13qtrus",
@@ -2078,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 4
     }
   ],
   "runs": [
@@ -2088,6 +2197,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 70
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-26T12:07:11.413Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 18
     }
   ]
 }
