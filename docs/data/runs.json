@@ -1,5 +1,32 @@
 [
   {
+    "startedAt": "2026-10-26T15:06:39.915Z",
+    "finishedAt": "2026-10-26T15:08:50.770Z",
+    "edition": "2026-10-26",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 291,
+    "clusters": 209,
+    "candidates": 12,
+    "added": 0,
+    "updated": 2,
+    "eventsTotal": 50,
+    "sourcesOk": 10,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 2,
+      "aiErrors": [],
+      "inputTokens": 12428,
+      "outputTokens": 5619,
+      "fallbacks": 0
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-10-26T12:07:11.413Z",
     "finishedAt": "2026-10-26T12:09:52.428Z",
     "edition": "2026-10-26",

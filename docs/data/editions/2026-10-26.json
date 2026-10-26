@@ -1,19 +1,20 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-26T12:07:11.413Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-26T15:06:39.915Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0v1tdcn",
-      "title": "Ministerio de Justicia dispone intervención del penal de Emboscada",
-      "summary": "El Ministerio de Justicia ordenó intervenir el Centro Penitenciario Martín Mendoza de Emboscada tras la fuga de dos internos del Módulo 7. La medida llega mientras se investiga si hubo complicidad de agentes penitenciarios, algo que todavía no está confirmado. Cuatro agentes fueron detenidos por sospechas, según las notas.",
+      "title": "Ministerio de Justicia interviene penal de Emboscada tras fuga de dos reos",
+      "summary": "El Ministerio de Justicia dispuso la intervención del penal Martín Mendoza de Emboscada tras la fuga de dos reclusos de alta peligrosidad durante el fin de semana. Cuatro guardiacárceles fueron detenidos por presunta complicidad y seis funcionarios quedaron bajo investigación. El director del penal fue apartado del cargo. La Policía busca a los dos fugitivos.",
       "keyPoints": [
-        "El Ministerio de Justicia ordenó la intervención del penal.",
-        "La fuga involucró a dos internos del Módulo 7.",
-        "Cuatro agentes fueron detenidos por presunta complicidad."
+        "Dos reclusos se fugaron del penal Martín Mendoza en la madrugada del domingo.",
+        "Cuatro guardiacárceles fueron detenidos por presunta complicidad.",
+        "El director del penal fue apartado y se designará un interventor.",
+        "La Policía asegura que tiene pistas sobre el paradero de los fugitivos."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +22,54 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Apartan a director del penal de Emboscada tras fuga y se designará interventor",
+          "url": "https://www.ultimahora.com/apartan-a-director-del-penal-de-emboscada-tras-fuga-y-se-designara-interventor",
+          "publishedAt": "2026-10-26T14:48:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Intervienen cárcel de Emboscada y apartan al director tras la huida de dos reos",
+          "url": "https://www.telefuturo.com.py/intervienen-carcel-de-emboscada-y-apartan-al-director-tras-la-huida-de-dos-reos",
+          "publishedAt": "2026-10-26T14:16:12.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga en el penal de Emboscada: cuatro guardias fueron detenidos y no descartan más implicados",
+          "url": "https://www.lanacion.com.py/pais/2026/10/26/fuga-en-el-penal-de-emboscada-cuatro-guardias-fueron-detenidos-y-no-descartan-mas-implicados",
+          "publishedAt": "2026-10-26T13:15:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qLc7k1SAotq34gSya8rEVIcmD9A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MS4EJ7GLXFCJ7MK4JPEAI3QEQM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Intervienen penal de Emboscada tras fuga de dos internos",
+          "url": "https://www.adndigital.com.py/intervienen-penal-de-emboscada-tras-fuga-de-dos-internos",
+          "publishedAt": "2026-10-26T12:35:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-092328.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cuatro guardiacárceles detenidos por presunta complicidad en la fuga del penal de Emboscada",
+          "url": "https://www.lanacion.com.py/pais/2026/10/26/cuatro-guardiacarceles-detenidos-por-presunta-complicidad-en-la-fuga-del-penal-de-emboscada",
+          "publishedAt": "2026-10-26T12:22:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v1T7BmoB03MKPHJu-IWi7JeNieI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3JEAULFYBNHGNGCHFLKPFMSLLI.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fuga en Emboscada: incautan celular del director y buscan a dos reclusos peligrosos",
+          "url": "https://elnacional.com.py/nacionales/fuga-emboscada-incautan-celular-director-buscan-dos-reclusos-peligrosos-n114195",
+          "publishedAt": "2026-10-26T12:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf52d5452a1.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -111,15 +160,15 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/NJXKM25HBZCXLEUSUHDBYCATQI.jpg?auth=96355ae2f0986fe61a333114f7defa9c3d225e2206ed97d49d21f07776ebfebe&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/26/ministerio-dispone-intervenir-carcel-de-emboscada-tras-fuga-de-reos"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MS4EJ7GLXFCJ7MK4JPEAI3QEQM.jpg?auth=f0c445ea64b78237817e993d039d63bcca0c8ce5e65f5caecbf4021b581928e0&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/26/fuga-en-el-penal-de-emboscada-cuatro-guardias-fueron-detenidos-y-no-descartan-mas-implicados"
       },
       "firstSeenAt": "2026-10-26T08:07:12.168Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-26T12:07:11.413Z",
-      "updatedSlot": "manana",
-      "score": 23.96
+      "updatedAt": "2026-10-26T15:06:39.915Z",
+      "updatedSlot": "tarde",
+      "score": 26.98
     },
     {
       "id": "ev-0twelbn",
@@ -194,7 +243,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T12:07:11.413Z",
       "updatedSlot": "manana",
-      "score": 20.88
+      "score": 20.63
     },
     {
       "id": "ev-1gv72fk",
@@ -253,7 +302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T12:07:11.413Z",
       "updatedSlot": "manana",
-      "score": 17.95
+      "score": 17.71
     },
     {
       "id": "ev-1j6z7qw",
@@ -361,7 +410,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 17.83
+      "score": 17.58
+    },
+    {
+      "id": "ev-00d1iel",
+      "title": "Alliana define con encuesta la dupla para su candidatura presidencial",
+      "summary": "El vicepresidente Pedro Alliana aguarda los resultados de una encuesta que evalúa a tres dirigentes colorados para acompañarlo en la fórmula. Alliana sostuvo que su compañero debería tener un perfil técnico y no aceptará imposiciones. La elección interna está prevista para diciembre de 2027.",
+      "keyPoints": [
+        "La encuesta evalúa a tres dirigentes colorados como posibles compañeros de fórmula.",
+        "Alliana sostuvo que prefiere un perfil técnico capitalino.",
+        "Las internas partidarias están fijadas para diciembre de 2027."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana apuesta por un técnico capitalino para su dupla y deja fuera al gobernador Sosa",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/alliana-apuesta-por-un-tecnico-capitalino-para-su-dupla-y-deja-fuera-al-gobernador-sosa",
+          "publishedAt": "2026-10-26T14:28:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j89zakKukBXJTl6Q5dtjbPvHkF8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YKFPPZD2FZEXVLEBJCBWGIJB4Y.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Chapa: Alliana quiere un perfil técnico que no sea del interior, porque él ya viene de ahí",
+          "url": "https://www.hoy.com.py/politica/2026/10/26/chapa-2028-alliana-dice-que-un-perfil-tecnico-lo-complementara-mejor",
+          "publishedAt": "2026-10-26T14:10:35.669Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2UZX3MUFA5AJPOQGTXGKOW6MHU.jpg?auth=2437af1b7ec83d94463776744a04aef16cc01a35ed2b32e7a0ab18d939ff2be9&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana podría definir hoy a su dupla presidencial para el 2028",
+          "url": "https://elnacional.com.py/politica/alliana-podria-definir-hoy-su-dupla-presidencial-2028-n114183",
+          "publishedAt": "2026-10-26T08:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ace5f63e2057.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pedro Alliana busca dupla que afiance unidad del oficialismo",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/26/pedro-alliana-busca-dupla-que-afiance-unidad-del-oficialismo",
+          "publishedAt": "2026-10-26T03:06:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/B67HyULJW1UpowehhrIEVobkbdg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X4UHSSYAPFABLILUE2TRC3GXK4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana evaluará mediciones esta semana y cuándo anunciará a su dupla presidencial",
+          "url": "https://www.lanacion.com.py/politica/2026/10/25/alliana-evaluara-mediciones-esta-semana-y-cuando-anunciara-a-su-dupla-presidencial",
+          "publishedAt": "2026-10-25T21:03:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6Fq_K9Sg11C8oMPs7gRVUZ3MNJw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6XY7XNY4TNFQFCGA6OP4DBV2YU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YKFPPZD2FZEXVLEBJCBWGIJB4Y.jpg?auth=86b3f74f39b8ecc4d3ace283e9d9ea2bb4c5db54f544d3ad2250ba97da35a70e&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/26/alliana-apuesta-por-un-tecnico-capitalino-para-su-dupla-y-deja-fuera-al-gobernador-sosa"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T15:06:39.915Z",
+      "updatedSlot": "tarde",
+      "score": 14.95
     },
     {
       "id": "ev-08yik5c",
@@ -437,7 +553,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 11.47
+      "score": 11.22
     },
     {
       "id": "ev-06kthfb",
@@ -488,7 +604,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T12:07:11.413Z",
       "updatedSlot": "manana",
-      "score": 10.84
+      "score": 10.6
     },
     {
       "id": "ev-0pnjwzi",
@@ -540,7 +656,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.82
+      "score": 10.57
     },
     {
       "id": "ev-0sng7uq",
@@ -591,7 +707,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.99
     },
     {
       "id": "ev-0iiyp00",
@@ -642,7 +758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.99
     },
     {
       "id": "ev-1w2c824",
@@ -685,7 +801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.35
+      "score": 9.1
     },
     {
       "id": "ev-0um75cz",
@@ -728,7 +844,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 9.06
+      "score": 8.81
     },
     {
       "id": "ev-13ivu7z",
@@ -771,7 +887,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.66
     },
     {
       "id": "ev-0ktfpq6",
@@ -815,7 +931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.76
+      "score": 8.51
     },
     {
       "id": "ev-0lge76i",
@@ -859,7 +975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.21
     },
     {
       "id": "ev-1wkjb49",
@@ -911,7 +1027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 7.24
+      "score": 6.99
     },
     {
       "id": "ev-1r5lnj7",
@@ -954,7 +1070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.96
+      "score": 6.71
     },
     {
       "id": "ev-1706x7q",
@@ -997,7 +1113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.49
     },
     {
       "id": "ev-1nhqtap",
@@ -1041,7 +1157,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.49
     },
     {
       "id": "ev-1thfhlq",
@@ -1085,51 +1201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.25
-    },
-    {
-      "id": "ev-00d1iel",
-      "title": "Alliana espera resultados de encuestas para elegir a su vicepresidenciable",
-      "summary": "El vicepresidente Pedro Alliana, precandidato presidencial, aguarda los resultados de las encuestas que definirán a su candidato a vicepresidente. Según confirmó, esta semana conversará con su equipo y con posibles precandidatos. La dupla buscaría afianzar la unidad del oficialismo.",
-      "keyPoints": [
-        "Pedro Alliana es vicepresidente y precandidato presidencial.",
-        "Espera los resultados de un relevamiento técnico.",
-        "Esta semana conversará con su equipo y posibles precandidatos.",
-        "Busca una dupla que afiance la unidad del oficialismo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana evaluará mediciones esta semana y cuándo anunciará a su dupla presidencial",
-          "url": "https://www.lanacion.com.py/politica/2026/10/25/alliana-evaluara-mediciones-esta-semana-y-cuando-anunciara-a-su-dupla-presidencial",
-          "publishedAt": "2026-10-25T21:03:38.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6Fq_K9Sg11C8oMPs7gRVUZ3MNJw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6XY7XNY4TNFQFCGA6OP4DBV2YU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pedro Alliana busca dupla que afiance unidad del oficialismo",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/26/pedro-alliana-busca-dupla-que-afiance-unidad-del-oficialismo",
-          "publishedAt": "2026-10-26T03:06:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/B67HyULJW1UpowehhrIEVobkbdg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X4UHSSYAPFABLILUE2TRC3GXK4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6XY7XNY4TNFQFCGA6OP4DBV2YU.jpg?auth=926a051713de3fbe63b5ba81b7a77157c52e84d4188fcf5d94cdd1d6be36864c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/25/alliana-evaluara-mediciones-esta-semana-y-cuando-anunciara-a-su-dupla-presidencial"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 6.25
+      "score": 6
     },
     {
       "id": "ev-1v4uznj",
@@ -1172,7 +1244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-0b5yu96",
@@ -1216,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-0s8lyyf",
@@ -1260,7 +1332,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-00g41td",
@@ -1304,7 +1376,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-1jhxj0r",
@@ -1348,7 +1420,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-1ktwr9g",
@@ -1392,7 +1464,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-0nusz0i",
@@ -1427,7 +1499,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.41
     },
     {
       "id": "ev-0xfuisk",
@@ -1458,7 +1530,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1dgy00u",
@@ -1487,7 +1559,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1tz0u9w",
@@ -1518,7 +1590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1xamvmz",
@@ -1547,7 +1619,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0ncbxgr",
@@ -1578,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-14dmz19",
@@ -1607,7 +1679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1bre7ya",
@@ -1636,7 +1708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-12n7flw",
@@ -1666,7 +1738,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0zjn122",
@@ -1696,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-00lng04",
@@ -1731,7 +1803,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.24
     },
     {
       "id": "ev-13nl9m4",
@@ -1766,7 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.07
     },
     {
       "id": "ev-1g2utcd",
@@ -1797,7 +1869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.07
     },
     {
       "id": "ev-1gqsx80",
@@ -1826,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.07
     },
     {
       "id": "ev-1s63f24",
@@ -1862,7 +1934,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.07
     },
     {
       "id": "ev-1gf6nvy",
@@ -1898,7 +1970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.07
     },
     {
       "id": "ev-02pf9ys",
@@ -1932,113 +2004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 5.25
-    },
-    {
-      "id": "ev-0bb0gur",
-      "title": "Cerro gana a Sajonia con tres goles antes del superclásico",
-      "summary": "Cerro ganó a Sajonia con tres goles y un mejor juego en el primer tiempo. El triunfo llegó antes del gran superclásico que se viene. Las notas disponibles no traen más detalles del partido, como el marcador final o el desarrollo de los demás tiempos. Por eso el resumen se limita a lo confirmado en el extracto de la nota publicada por La Nación.",
-      "keyPoints": [
-        "Cerro ganó a Sajonia.",
-        "Anotó tres goles.",
-        "Tuvo mejor juego en el primer tiempo."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Cerro sumó tres antes del gran superclásico",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/26/cerro-sumo-tres-antes-del-gran-superclasico",
-          "publishedAt": "2026-10-26T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GNujMllCbxi46jFEQfhDjuC7KII=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3GKYV62LAJACPKK7GV6AQKYTHQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3GKYV62LAJACPKK7GV6AQKYTHQ.jpg?auth=9858cfac3c2f1cbba397fee3e5564a6eb56523887b2addd9b13356cb52676218&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/26/cerro-sumo-tres-antes-del-gran-superclasico"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-0c46xyh",
-      "title": "Costas cuestiona el arbitraje tras el partido ante San Lorenzo",
-      "summary": "El técnico de Cerro Porteño, Gustavo Costas, criticó el arbitraje tras la victoria ante San Lorenzo. Consultado sobre la ratificación de la sanción al defensor Lucas Quintana, cuestionó la disparidad de criterios de los árbitros. El Departamento de Árbitros había admitido un error en la decisión original.",
-      "keyPoints": [
-        "Cerro Porteño derrotó a San Lorenzo en la fecha 16 del Clausura 2026.",
-        "Costas cuestionó la disparidad de criterios del arbitraje.",
-        "El Departamento de Árbitros admitió un error en la decisión original sobre Lucas Quintana.",
-        "La sanción a Quintana fue ratificada, según la nota."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas sobre la sanción a Lucas Quintana: “Suspenden al árbitro y le dan tres fechas a Quintana...”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-sobre-la-sancion-a-lucas-quintana-suspenden-al-arbitro-y-le-dan-tres-fechas-a-quintana",
-          "publishedAt": "2026-10-26T02:54:18.000Z",
-          "image": "https://www.abc.com.py/resizer/iZ-4SVZYRWTfF3EMDKW5u-h2Gz8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/X45LYIGHFZGZFF2VIU5R7J7MXA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/X45LYIGHFZGZFF2VIU5R7J7MXA.jpg?auth=f383ac20d0eaebc6e37ee7e12b67827364dd6f2255d74d9efe2ff53dd2630b30&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-sobre-la-sancion-a-lucas-quintana-suspenden-al-arbitro-y-le-dan-tres-fechas-a-quintana"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.23
-    },
-    {
-      "id": "ev-1ikm901",
-      "title": "Costas afirma que vino a Cerro Porteño para salir campeón",
-      "summary": "El técnico de Cerro Porteño, Gustavo Costas, habló en la previa del Superclásico del fútbol paraguayo. Dijo que vino al club para salir campeón y jugar la Libertadores para ganarla. Remarcó la exigencia que demanda un club de la magnitud del Ciclón de Barrio Obrero. Llega tras vencer a San Lorenzo en la fecha 16 del Clausura 2026.",
-      "keyPoints": [
-        "Costas analizó la previa del Superclásico del fútbol paraguayo.",
-        "Cerro Porteño llega tras vencer a San Lorenzo en la fecha 16 del Clausura 2026.",
-        "Costas habló de la exigencia interna del club."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas: “Yo vine para salir campeón, para poder jugar la Libertadores y ganarla”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-yo-vine-para-salir-campeon-para-poder-jugar-la-libertadores-y-ganarla",
-          "publishedAt": "2026-10-26T02:16:34.000Z",
-          "image": "https://www.abc.com.py/resizer/JG25m2-zFtZa7IfdnooX_LgHEHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7XTEEPXLNNAULLZL2HKW2HAYMI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7XTEEPXLNNAULLZL2HKW2HAYMI.jpg?auth=945fb88b42ba20ede1384ccc6b23d1e9f33648478a654601a423d239a1766417&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-yo-vine-para-salir-campeon-para-poder-jugar-la-libertadores-y-ganarla"
-      },
-      "firstSeenAt": "2026-10-26T08:07:12.168Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-26T08:07:12.168Z",
-      "updatedSlot": "manana",
-      "score": 5.18
+      "score": 5
     },
     {
       "id": "ev-1np79t9",
@@ -2085,6 +2051,112 @@
       "score": 5
     },
     {
+      "id": "ev-0bb0gur",
+      "title": "Cerro gana a Sajonia con tres goles antes del superclásico",
+      "summary": "Cerro ganó a Sajonia con tres goles y un mejor juego en el primer tiempo. El triunfo llegó antes del gran superclásico que se viene. Las notas disponibles no traen más detalles del partido, como el marcador final o el desarrollo de los demás tiempos. Por eso el resumen se limita a lo confirmado en el extracto de la nota publicada por La Nación.",
+      "keyPoints": [
+        "Cerro ganó a Sajonia.",
+        "Anotó tres goles.",
+        "Tuvo mejor juego en el primer tiempo."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cerro sumó tres antes del gran superclásico",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/26/cerro-sumo-tres-antes-del-gran-superclasico",
+          "publishedAt": "2026-10-26T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GNujMllCbxi46jFEQfhDjuC7KII=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3GKYV62LAJACPKK7GV6AQKYTHQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3GKYV62LAJACPKK7GV6AQKYTHQ.jpg?auth=9858cfac3c2f1cbba397fee3e5564a6eb56523887b2addd9b13356cb52676218&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/26/cerro-sumo-tres-antes-del-gran-superclasico"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.99
+    },
+    {
+      "id": "ev-0c46xyh",
+      "title": "Costas cuestiona el arbitraje tras el partido ante San Lorenzo",
+      "summary": "El técnico de Cerro Porteño, Gustavo Costas, criticó el arbitraje tras la victoria ante San Lorenzo. Consultado sobre la ratificación de la sanción al defensor Lucas Quintana, cuestionó la disparidad de criterios de los árbitros. El Departamento de Árbitros había admitido un error en la decisión original.",
+      "keyPoints": [
+        "Cerro Porteño derrotó a San Lorenzo en la fecha 16 del Clausura 2026.",
+        "Costas cuestionó la disparidad de criterios del arbitraje.",
+        "El Departamento de Árbitros admitió un error en la decisión original sobre Lucas Quintana.",
+        "La sanción a Quintana fue ratificada, según la nota."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas sobre la sanción a Lucas Quintana: “Suspenden al árbitro y le dan tres fechas a Quintana...”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-sobre-la-sancion-a-lucas-quintana-suspenden-al-arbitro-y-le-dan-tres-fechas-a-quintana",
+          "publishedAt": "2026-10-26T02:54:18.000Z",
+          "image": "https://www.abc.com.py/resizer/iZ-4SVZYRWTfF3EMDKW5u-h2Gz8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/X45LYIGHFZGZFF2VIU5R7J7MXA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/X45LYIGHFZGZFF2VIU5R7J7MXA.jpg?auth=f383ac20d0eaebc6e37ee7e12b67827364dd6f2255d74d9efe2ff53dd2630b30&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-sobre-la-sancion-a-lucas-quintana-suspenden-al-arbitro-y-le-dan-tres-fechas-a-quintana"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.98
+    },
+    {
+      "id": "ev-1ikm901",
+      "title": "Costas afirma que vino a Cerro Porteño para salir campeón",
+      "summary": "El técnico de Cerro Porteño, Gustavo Costas, habló en la previa del Superclásico del fútbol paraguayo. Dijo que vino al club para salir campeón y jugar la Libertadores para ganarla. Remarcó la exigencia que demanda un club de la magnitud del Ciclón de Barrio Obrero. Llega tras vencer a San Lorenzo en la fecha 16 del Clausura 2026.",
+      "keyPoints": [
+        "Costas analizó la previa del Superclásico del fútbol paraguayo.",
+        "Cerro Porteño llega tras vencer a San Lorenzo en la fecha 16 del Clausura 2026.",
+        "Costas habló de la exigencia interna del club."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas: “Yo vine para salir campeón, para poder jugar la Libertadores y ganarla”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-yo-vine-para-salir-campeon-para-poder-jugar-la-libertadores-y-ganarla",
+          "publishedAt": "2026-10-26T02:16:34.000Z",
+          "image": "https://www.abc.com.py/resizer/JG25m2-zFtZa7IfdnooX_LgHEHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7XTEEPXLNNAULLZL2HKW2HAYMI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7XTEEPXLNNAULLZL2HKW2HAYMI.jpg?auth=945fb88b42ba20ede1384ccc6b23d1e9f33648478a654601a423d239a1766417&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/10/25/gustavo-costas-yo-vine-para-salir-campeon-para-poder-jugar-la-libertadores-y-ganarla"
+      },
+      "firstSeenAt": "2026-10-26T08:07:12.168Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-26T08:07:12.168Z",
+      "updatedSlot": "manana",
+      "score": 4.93
+    },
+    {
       "id": "ev-004s4yc",
       "title": "Santaní gana 3-1 a Fernando de la Mora y es campeón de la Intermedia",
       "summary": "Deportivo Santaní se coronó campeón de la División Intermedia 2026 tras vencer 3-1 a Fernando de la Mora en el estadio Emiliano Ghezzi. Con 60 puntos, el albinegro cerró una gran temporada. Ya había asegurado su regreso a la máxima categoría en la fecha 29.",
@@ -2117,7 +2189,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-26T08:07:12.168Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.53
     },
     {
       "id": "ev-0ancssh",
@@ -2204,6 +2276,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 18
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-26T15:06:39.915Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 13
     }
   ]
 }
