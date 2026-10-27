@@ -1,20 +1,20 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-27T12:07:14.389Z",
+  "generatedAt": "2026-10-27T16:07:16.784Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-07alk6e",
-      "title": "Fiscalía investiga a la senadora Zenaida Delgado por presuntos cobros ilegales a funcionarios",
-      "summary": "La Fiscalía investiga a la senadora Zenaida Delgado por un supuesto esquema de cobros a funcionarios del Congreso a cambio de nombramientos. Las denuncias fueron presentadas tras una investigación periodística. Senadores de la Mesa Directiva, entre ellos Yolanda Paredes, impulsan un pedido de pérdida de investidura. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera Santander. Según la Fiscalía, el caso está en etapa de investigación.",
+      "title": "Yolanda Paredes pide la pérdida de investidura de la senadora Zenaida Delgado",
+      "summary": "La senadora Yolanda Paredes presentó un pedido de pérdida de investidura contra su colega Zenaida Delgado, acusada de cobrar supuestos peajes a funcionarias de su equipo en el Senado. Según las denuncias, las funcionarias pagaban parte de sus bonificaciones. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera Santander, a quien también acusa de amenazas. Su hermana, Fátima Delgado, sostuvo que las transferencias fueron préstamos entre particulares. El caso se analizará en el Congreso.",
       "keyPoints": [
-        "La Fiscalía investiga presuntos cobros a funcionarios por nombramientos.",
-        "Yolanda Paredes anunció un pedido de pérdida de investidura contra Delgado.",
-        "Delgado niega los cobros y responsabiliza a su expareja.",
-        "El Senado podría tratar el pedido este miércoles, según Basilio Núñez."
+        "La senadora Yolanda Paredes presentó el pedido de pérdida de investidura.",
+        "Las denuncias señalan supuestos cobros a funcionarias de la Cámara de Senadores.",
+        "Zenaida Delgado niega los cobros y denuncia amenazas de su expareja.",
+        "Según fuentes legislativas, referentes del oficialismo habrían pedido que Delgado renuncie a su banca."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,70 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Los 7 puntos del libelo acusatorio para analizar la expulsión de Zenaida Delgado",
+          "url": "https://www.ultimahora.com/los-7-puntos-del-libelo-acusatorio-para-analizar-la-expulsion-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T15:24:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Hermana de Zenaida denuncia amenazas y se despacha contra Celeste Amarilla y Lilian Samaniego",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-hermana-de-zenaida-denuncia-amenazas-y-se-despacha-contra-celeste-amarilla-y-lilian-samaniego",
+          "publishedAt": "2026-10-27T14:42:28.000Z",
+          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Hermana de Zenaida denuncia amenazas y arremetió contra dos senadoras",
+          "url": "https://www.ultimahora.com/hermana-de-zenaida-denuncia-amenazas-y-arremetio-contra-dos-senadoras",
+          "publishedAt": "2026-10-27T14:36:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Una enardecida hermana de Zenaida denuncia amenazas y se despacha contra Celeste y Lilian",
+          "url": "https://www.abc.com.py/politica/2026/10/27/una-enardecida-hermana-de-zenaida-denuncia-amenazas-y-se-despacha-contra-celeste-y-lilian",
+          "publishedAt": "2026-10-27T14:16:43.000Z",
+          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presentan pedido de expulsión contra la senadora Delgado por presunto cobro de peaje",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/presentan-pedido-de-expulsion-contra-la-senadora-delgado-por-presunto-cobro-de-peaje",
+          "publishedAt": "2026-10-27T14:15:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/efMBw-y8fzIdA-OtyYuR1QDbT5s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MKJXZX54KVEV3MUEDV4JD7GGTA.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Hermana de Zenaida niega “peaje” y habla de extorsiones de expareja",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/hermana-de-zenaida-niega-peaje-y-habla-de-extorsiones-de-expareja",
+          "publishedAt": "2026-10-27T14:06:32.215Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PUFMVURFZRB2ND2ZMXCHT44AUA.jpg?auth=438bb8d91f68570ee200b6da38aac98f1abed96c363b1c428a3c2a53fe4f596a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Celeste Amarilla afirma que las denuncias contra Zenaida Delgado ya circulaban hace un año",
+          "url": "https://elnacional.com.py/politica/celeste-amarilla-afirma-denuncias-zenaida-delgado-ya-circulaban-hace-ano-n114247",
+          "publishedAt": "2026-10-27T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a7202ded8c02.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Zenaida Delgado: Así están los votos para expulsarla a horas de su definición",
+          "url": "https://www.abc.com.py/politica/2026/10/27/caso-zenaida-delgado-asi-estan-los-votos-para-expulsarla-a-horas-de-su-definicion",
+          "publishedAt": "2026-10-27T13:34:46.000Z",
+          "image": "https://www.abc.com.py/resizer/VKxVVUK8I8jswPtX7za3WJJbues=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBORUGA5CBCJXIW4DR2DIF2BNA.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -128,32 +192,48 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-071508.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/fiscalia-investiga-a-zenaida-delgado-por-cobro-de-hasta-g-100-millones-por-cargos"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg?auth=850131a411a85b5353da7ff57e67cb78261716ef37f3ba7cab4e9c43ecc6aa50&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-hermana-de-zenaida-denuncia-amenazas-y-se-despacha-contra-celeste-amarilla-y-lilian-samaniego"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T12:07:14.389Z",
-      "updatedSlot": "manana",
-      "score": 26.98
+      "updatedAt": "2026-10-27T16:07:16.784Z",
+      "updatedSlot": "tarde",
+      "score": 29.94
     },
     {
       "id": "ev-0i8vp7h",
-      "title": "Fuga en Emboscada: detienen a director y a jefe de seguridad de la cárcel",
-      "summary": "Continúa la investigación sobre la fuga de dos personas privadas de su libertad – una de ellas considerada de alta peligrosidad – de la cárcel de máxima seguridad ‘Martín Mendoza’ , ubicada en la ciudad de Emboscada. Ever Alejandro Ozuna , quien cumplía una condena de 28 años de prisión por hechos de secuestro y es señalado también como presunto sicario, quien operaba en la zona de Capitán Bado, Amambay…",
+      "title": "Requisan la cárcel de Emboscada tras la fuga de dos internos",
+      "summary": "La Policía y el Ministerio Público realizaron una requisa general en la penitenciaría Martín Mendoza de Emboscada, tras la fuga de dos internos registrada el domingo de madrugada. El Ministerio de Justicia dispuso la intervención del penal. Cuatro guardiacárceles fueron detenidos en la investigación, y la policía detuvo también al director y al jefe de seguridad, presuntamente implicados. La búsqueda de los evadidos continúa.",
       "keyPoints": [
-        "Continúa la investigación sobre la fuga de dos personas privadas de su libertad – una de ellas considerada de alta peligrosidad – de la cárcel de máxima seguridad ‘Martín Mendoza’ , ubicada en la ciudad de…",
-        "En la mañana de este lunes, agentes de la Policía Nacional y el Ministerio Público ingresaron a la cárcel de máxima seguridad ‘Martín Mendoza’ de la ciudad de Emboscada para realizar una requisa general de todos…",
-        "El operativo es encabezado por la Policía y el Ministerio Público.",
-        "EMBOSCADA- Agentes de la Policía Nacional y del Ministerio Público ingresaron este martes a la penitenciaría de máxima seguridad “Martín Mendoza”, en Emboscada, para realizar una requisa general en todos los módulos."
+        "La fuga de dos reclusos ocurrió en la madrugada del domingo.",
+        "La Policía y la fiscal Fabiola Sosa encabezan la requisa en el penal.",
+        "Cuatro guardiacárceles fueron detenidos, según el reporte.",
+        "El director y el jefe de seguridad fueron detenidos presuntamente implicados."
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Detienen a director de Emboscada y a jefe tras fuga de reclusos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/detienen-a-director-de-emboscada-y-a-jefe-tras-fuga-de-reclusos",
+          "publishedAt": "2026-10-27T15:03:20.946Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg?auth=ed1425f100660b5347b15a10a7fd59b7d0058a04bc84cdabdf41f9e284ee6f07&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Investigan \"liberación de presos\" en el penal Martín Mendoza",
+          "url": "https://www.telefuturo.com.py/investigan-liberacion-de-presos-en-el-penal-martin-mendoza",
+          "publishedAt": "2026-10-27T13:53:39.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -252,15 +332,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/OHUI7VB3HFFANGUKX625WISYAU.jpg?auth=71387271cfae4fb12df85b8a3a5b0c81f1388f68de849143fb4d5dc72cebc8f2&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-la-investigacion-nos-lleva-hasta-el-jefe-de-seguridad-y-al-propio-director-dice-ministro-de-justicia-sobre-liberacion-de-reos-en-emboscada"
+        "url": "https://www.lanacion.com.py/resizer/v2/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg?auth=ed1425f100660b5347b15a10a7fd59b7d0058a04bc84cdabdf41f9e284ee6f07&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/27/detienen-a-director-de-emboscada-y-a-jefe-tras-fuga-de-reclusos"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T12:07:14.389Z",
-      "updatedSlot": "manana",
-      "score": 26.98
+      "updatedAt": "2026-10-27T16:07:16.784Z",
+      "updatedSlot": "tarde",
+      "score": 26.91
     },
     {
       "id": "ev-0fq6c2e",
@@ -376,7 +456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 20.93
+      "score": 20.6
     },
     {
       "id": "ev-0uq2key",
@@ -484,7 +564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.94
+      "score": 17.61
     },
     {
       "id": "ev-1vikgtt",
@@ -552,7 +632,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.91
+      "score": 17.57
+    },
+    {
+      "id": "ev-1mbks70",
+      "title": "Harry Kane gana el Balón de Oro 2026 como mejor jugador del mundo",
+      "summary": "El delantero inglés Harry Kane fue elegido ganador del Balón de Oro 2026. Superó en las votaciones a Lamine Yamal y Kylian Mbappé. Es el quinto futbolista inglés en conseguir este premio. Sucede en el galardón al francés Ousmane Dembélé, del Paris Saint-Germain.",
+      "keyPoints": [
+        "Harry Kane se consagró ganador del Balón de Oro 2026.",
+        "Superó en las votaciones al español Lamine Yamal y al francés Kylian Mbappé.",
+        "Es el quinto futbolista inglés en conquistar el galardón.",
+        "Sucede al francés Ousmane Dembélé."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Harry Kane, elegido mejor jugador del mundo",
+          "url": "https://www.npy.com.py/noticias/deportes/harry-kane-elegido-mejor-jugador-del-mundo",
+          "publishedAt": "2026-10-27T12:33:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El delantero inglés Harry Kane gana el Balón de Oro 2026",
+          "url": "https://www.adndigital.com.py/el-delantero-ingles-harry-kane-gana-el-balon-de-oro-2026",
+          "publishedAt": "2026-10-27T10:01:59.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/harry-kane-gana-el-balon-de-oro-2026.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Harry Kane gana el Balón de Oro",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro",
+          "publishedAt": "2026-10-27T03:40:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NW-HlhYy5Ok1UPMFN99NQooAtVk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATQKMWL4ND75ANT5U6TFROBGM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Harry Kane se lleva el Balón de Oro 2026",
+          "url": "https://elnacional.com.py/deportes/harry-kane-lleva-balon-oro-2026-n114227",
+          "publishedAt": "2026-10-26T23:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adfdc018624e.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CATQKMWL4ND75ANT5U6TFROBGM.jpg?auth=01462695e3a21322be2937e779b076dc134a1ff2cdc5630ccbdcdcb79042eb23&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T16:07:16.784Z",
+      "updatedSlot": "tarde",
+      "score": 15.2
     },
     {
       "id": "ev-19r6cmi",
@@ -612,7 +752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 14.39
+      "score": 14.05
     },
     {
       "id": "ev-1slc3ej",
@@ -664,58 +804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 12.58
-    },
-    {
-      "id": "ev-1mbks70",
-      "title": "Harry Kane gana el Balón de Oro 2026 y supera a Lamine Yamal y Mbappé",
-      "summary": "El delantero inglés del Bayern Múnich Harry Kane fue premiado con el Balón de Oro 2026 en Londres. El capitán de la selección inglesa sucede en el palmarés a Ousmane Dembélé, del Paris Saint-Germain. Según El Nacional, superó en las votaciones al español Lamine Yamal y al francés Kylian Mbappé. Kane tiene 33 años.",
-      "keyPoints": [
-        "Harry Kane, del Bayern Múnich, ganó el Balón de Oro 2026.",
-        "Sucede en el palmarés a Ousmane Dembélé.",
-        "Lamine Yamal quedó tercero en la votación, según ABC Color."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "El delantero inglés Harry Kane gana el Balón de Oro 2026",
-          "url": "https://www.adndigital.com.py/el-delantero-ingles-harry-kane-gana-el-balon-de-oro-2026",
-          "publishedAt": "2026-10-27T10:01:59.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/harry-kane-gana-el-balon-de-oro-2026.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Harry Kane gana el Balón de Oro",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro",
-          "publishedAt": "2026-10-27T03:40:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NW-HlhYy5Ok1UPMFN99NQooAtVk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATQKMWL4ND75ANT5U6TFROBGM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Harry Kane se lleva el Balón de Oro 2026",
-          "url": "https://elnacional.com.py/deportes/harry-kane-lleva-balon-oro-2026-n114227",
-          "publishedAt": "2026-10-26T23:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adfdc018624e.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/harry-kane-gana-el-balon-de-oro-2026.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/el-delantero-ingles-harry-kane-gana-el-balon-de-oro-2026"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T12:07:14.389Z",
-      "updatedSlot": "manana",
-      "score": 11.33
+      "score": 12.25
     },
     {
       "id": "ev-0p228iu",
@@ -759,7 +848,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.43
+      "score": 9.1
     },
     {
       "id": "ev-0n4wvps",
@@ -803,7 +892,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.99
     },
     {
       "id": "ev-0m44r25",
@@ -846,7 +935,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1bk2c3m",
@@ -889,7 +978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.98
+      "score": 8.64
     },
     {
       "id": "ev-1gofppa",
@@ -932,7 +1021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.89
+      "score": 8.55
     },
     {
       "id": "ev-0ayar9m",
@@ -975,7 +1064,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.84
+      "score": 8.51
     },
     {
       "id": "ev-1ctcp2o",
@@ -1018,7 +1107,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.71
+      "score": 8.38
     },
     {
       "id": "ev-1ncw75v",
@@ -1062,7 +1151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.52
+      "score": 6.18
     },
     {
       "id": "ev-0rugw54",
@@ -1106,7 +1195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.44
+      "score": 6.1
     },
     {
       "id": "ev-0duqb3n",
@@ -1150,7 +1239,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.4
+      "score": 6.06
     },
     {
       "id": "ev-0ldc1sy",
@@ -1194,7 +1283,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.39
+      "score": 6.06
     },
     {
       "id": "ev-14kva4n",
@@ -1238,7 +1327,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.32
+      "score": 5.99
     },
     {
       "id": "ev-0j01ntm",
@@ -1282,7 +1371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-06ftyzn",
@@ -1326,7 +1415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1dkgd84",
@@ -1369,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.9
     },
     {
       "id": "ev-0crjp6u",
@@ -1412,7 +1501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.48
     },
     {
       "id": "ev-1ynouiw",
@@ -1442,7 +1531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-06lduq5",
@@ -1472,7 +1561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ahco50",
@@ -1503,7 +1592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-093l6cd",
@@ -1532,7 +1621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1w8n2vb",
@@ -1561,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1jsagn1",
@@ -1593,7 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-06j0k1j",
@@ -1622,7 +1711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0lnu9wk",
@@ -1655,7 +1744,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.12
     },
     {
       "id": "ev-15z0wx7",
@@ -1690,7 +1779,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.38
+      "score": 5.05
     },
     {
       "id": "ev-19b2blz",
@@ -1724,7 +1813,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.03
     },
     {
       "id": "ev-1xl7v27",
@@ -1759,7 +1848,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0cjctzh",
@@ -1794,7 +1883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0ewy266",
@@ -1829,7 +1918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1qnthkb",
@@ -1865,7 +1954,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0t7kqyk",
@@ -1896,7 +1985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0ng90j6",
@@ -1931,7 +2020,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1fhjnhf",
@@ -1966,7 +2055,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1h0g79k",
@@ -2002,7 +2091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.13
+      "score": 4.8
     },
     {
       "id": "ev-04l858b",
@@ -2036,7 +2125,43 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.61
+    },
+    {
+      "id": "ev-0n5hwg3",
+      "title": "Defensa de Eddie Jara apela el embargo de cuentas y secuestro de vehículos",
+      "summary": "El abogado José Ignacio González Macchi, representante de Eddie Jara, apeló la resolución del juez de garantías interino Osmar Legal. El juez ordenó el secuestro de tres vehículos del extitular de Petropar, imputado por enriquecimiento ilícito. La apelación busca revertir esa medida, según la defensa.",
+      "keyPoints": [
+        "La defensa de Eddie Jara apeló la resolución judicial.",
+        "El juez Osmar Legal ordenó el secuestro de tres vehículos.",
+        "Jara está imputado por presunto enriquecimiento ilícito.",
+        "El abogado es José Ignacio González Macchi."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Defensa de Eddie Jara apela el embargo de cuentas y secuestro de vehículos",
+          "url": "https://www.lanacion.com.py/judiciales/2026/10/26/defensa-de-eddie-jara-apela-el-embargo-de-cuentas-y-secuestro-de-vehiculos",
+          "publishedAt": "2026-10-26T23:03:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EwpIk2kaAAZn18KejOLP5pU_-YQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TZLNNJBP3VFLXC5B7VW636V6LE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TZLNNJBP3VFLXC5B7VW636V6LE.jpg?auth=2dfac53d9d72686d77a7c9ab02de85d96e1fef92eb9de6bc9fd94a4e3dc97ffa&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/10/26/defensa-de-eddie-jara-apela-el-embargo-de-cuentas-y-secuestro-de-vehiculos"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedSlot": "manana",
+      "score": 4.58
     },
     {
       "id": "ev-0lt7g2f",
@@ -2084,43 +2209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.91
-    },
-    {
-      "id": "ev-0n5hwg3",
-      "title": "Defensa de Eddie Jara apela el embargo de cuentas y secuestro de vehículos",
-      "summary": "El abogado José Ignacio González Macchi, representante de Eddie Jara, apeló la resolución del juez de garantías interino Osmar Legal. El juez ordenó el secuestro de tres vehículos del extitular de Petropar, imputado por enriquecimiento ilícito. La apelación busca revertir esa medida, según la defensa.",
-      "keyPoints": [
-        "La defensa de Eddie Jara apeló la resolución judicial.",
-        "El juez Osmar Legal ordenó el secuestro de tres vehículos.",
-        "Jara está imputado por presunto enriquecimiento ilícito.",
-        "El abogado es José Ignacio González Macchi."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Defensa de Eddie Jara apela el embargo de cuentas y secuestro de vehículos",
-          "url": "https://www.lanacion.com.py/judiciales/2026/10/26/defensa-de-eddie-jara-apela-el-embargo-de-cuentas-y-secuestro-de-vehiculos",
-          "publishedAt": "2026-10-26T23:03:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/EwpIk2kaAAZn18KejOLP5pU_-YQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TZLNNJBP3VFLXC5B7VW636V6LE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TZLNNJBP3VFLXC5B7VW636V6LE.jpg?auth=2dfac53d9d72686d77a7c9ab02de85d96e1fef92eb9de6bc9fd94a4e3dc97ffa&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/10/26/defensa-de-eddie-jara-apela-el-embargo-de-cuentas-y-secuestro-de-vehiculos"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.57
     },
     {
       "id": "ev-1ngk5u6",
@@ -2155,7 +2244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.75
+      "score": 4.42
     },
     {
       "id": "ev-12bwvhv",
@@ -2185,7 +2274,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.36
+      "score": 4.02
     },
     {
       "id": "ev-0xv1owl",
@@ -2224,7 +2313,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.13
+      "score": 3.8
     },
     {
       "id": "ev-07gv1y5",
@@ -2268,7 +2357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-0gqq9ge",
@@ -2299,7 +2388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.75
     }
   ],
   "runs": [
@@ -2316,6 +2405,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 13
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-27T16:07:16.784Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 12
     }
   ]
 }
