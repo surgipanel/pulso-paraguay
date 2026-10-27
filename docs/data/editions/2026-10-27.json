@@ -1,27 +1,415 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-27T08:07:10.962Z",
+  "generatedAt": "2026-10-27T12:07:14.389Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0uq2key",
-      "title": "Lula es reelecto presidente de Brasil con el 51,77% de los votos válidos",
-      "summary": "Luiz Inácio Lula da Silva fue reelecto presidente de Brasil tras imponerse en la segunda vuelta del domingo 25 de octubre. Con el 99,89% del escrutinio, la comisión electoral le atribuye el 51,77% de los votos válidos. Líderes de Paraguay, la Unión Europea y China le enviaron felicitaciones. El presidente Santiago Peña espera retomar pronto el diálogo bilateral con Brasil.",
+      "id": "ev-07alk6e",
+      "title": "Fiscalía investiga a la senadora Zenaida Delgado por presuntos cobros ilegales a funcionarios",
+      "summary": "La Fiscalía investiga a la senadora Zenaida Delgado por un supuesto esquema de cobros a funcionarios del Congreso a cambio de nombramientos. Las denuncias fueron presentadas tras una investigación periodística. Senadores de la Mesa Directiva, entre ellos Yolanda Paredes, impulsan un pedido de pérdida de investidura. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera Santander. Según la Fiscalía, el caso está en etapa de investigación.",
       "keyPoints": [
-        "Lula obtuvo el 51,77% de los votos válidos según el 99,89% del escrutinio.",
-        "La participación fue cercana al 80,8%.",
-        "Horacio Cartes felicitó a Lula y pidió fortalecer los lazos con Brasil.",
-        "Peña expresó su felicitación y espera reiniciar el diálogo bilateral."
+        "La Fiscalía investiga presuntos cobros a funcionarios por nombramientos.",
+        "Yolanda Paredes anunció un pedido de pérdida de investidura contra Delgado.",
+        "Delgado niega los cobros y responsabiliza a su expareja.",
+        "El Senado podría tratar el pedido este miércoles, según Basilio Núñez."
       ],
-      "category": "internacional",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras denuncias de \"peajes\": El Senado trataría este miércoles la expulsión de Zenaida Delgado",
+          "url": "https://www.ultimahora.com/tras-denuncias-de-peajes-el-senado-trataria-este-miercoles-la-expulsion-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T11:55:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Zenaida Delgado niega los cobros de “peajes” y responsabiliza a su expareja",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-niega-los-cobros-de-peajes-y-responsabiliza-a-su-expareja",
+          "publishedAt": "2026-10-27T11:42:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía investiga a Zenaida Delgado por cobró de hasta G. 100 millones por cargos",
+          "url": "https://www.adndigital.com.py/fiscalia-investiga-a-zenaida-delgado-por-cobro-de-hasta-g-100-millones-por-cargos",
+          "publishedAt": "2026-10-27T10:22:26.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-071508.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Caso Zenaida: Fiscalía investiga presuntos cobros ilegales para acceder a cargos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/caso-zenaida-fiscalia-investiga-presuntos-cobros-ilegales-para-acceder-a-cargos",
+          "publishedAt": "2026-10-27T08:49:03.548Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XYO4FWJ5D5E6ZL43WIS2LHJ5RM.jpg?auth=33dec27ef4f27c99a3bd0fa4fc0f2de291ccf583e26ee2591c239ad5b41281b8&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Preparan expulsión de Zenaida Delgado del Congreso",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/preparan-expulsion-de-zenaida-delgado-del-congreso",
+          "publishedAt": "2026-10-27T04:23:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/guk6mRhZf09jUTOKo4muKHcF3yk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XYO4FWJ5D5E6ZL43WIS2LHJ5RM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Mesa Directiva impulsará la pérdida de investidura de la senadora Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/mesa-directiva-impulsara-perdida-investidura-senadora-zenaida-delgado-n114214",
+          "publishedAt": "2026-10-26T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf61259e267.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Faisal Huespe podría ocupar la banca de Zenaida Delgado si pierde su investidura",
+          "url": "https://elnacional.com.py/politica/faisal-huespe-podria-ocupar-banca-zenaida-delgado-pierde-su-investidura-n114215",
+          "publishedAt": "2026-10-26T16:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf64d60c53c.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Titular del Congreso denunciará ante la Fiscalía a la senadora Delgado por presunto peaje",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/titular-del-congreso-denunciara-ante-la-fiscalia-a-la-senadora-delgado-por-presunto-peaje",
+          "publishedAt": "2026-10-26T14:32:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dWXd9cC-Fj-HWnL3yw7cVno5lKw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AZPIM5IWWNEZPGGGCPPLF4FT2Y.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Investigación destapa cobro de coimas y peajes en el Congreso",
+          "url": "https://www.telefuturo.com.py/investigacion-destapa-cobro-de-coimas-y-peajes-en-el-congreso",
+          "publishedAt": "2026-10-26T14:09:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Yolanda Paredes impulsará pérdida de investidura de Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/yolanda-paredes-impulsara-perdida-investidura-zenaida-delgado-n114201",
+          "publishedAt": "2026-10-26T13:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/08/689378a6a26e9.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Yolanda Paredes impulsará pedido de pérdida de investidura contra Zenaida Delgado",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/yolanda-paredes-impulsara-pedido-de-perdida-de-investidura-contra-zenaida-delgado",
+          "publishedAt": "2026-10-26T13:02:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Denuncian a senadora Zenaida Delgado por presuntos cobros de bonificaciones y venta de cargos en el Senado",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/denuncian-a-senadora-zenaida-delgado-por-presuntos-cobros-de-bonificaciones-y-venta-de-cargos-en-el-senado",
+          "publishedAt": "2026-10-26T11:47:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tres funcionarias denuncian a la senadora Zenaida Delgado por presuntas coimas por nombramientos",
+          "url": "https://elnacional.com.py/politica/tres-funcionarias-denuncian-senadora-zenaida-delgado-presuntas-coimas-nombramientos-n114190",
+          "publishedAt": "2026-10-26T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-071508.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/fiscalia-investiga-a-zenaida-delgado-por-cobro-de-hasta-g-100-millones-por-cargos"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
+      "updatedSlot": "manana",
+      "score": 26.98
+    },
+    {
+      "id": "ev-0i8vp7h",
+      "title": "Fuga en Emboscada: detienen a director y a jefe de seguridad de la cárcel",
+      "summary": "Continúa la investigación sobre la fuga de dos personas privadas de su libertad – una de ellas considerada de alta peligrosidad – de la cárcel de máxima seguridad ‘Martín Mendoza’ , ubicada en la ciudad de Emboscada. Ever Alejandro Ozuna , quien cumplía una condena de 28 años de prisión por hechos de secuestro y es señalado también como presunto sicario, quien operaba en la zona de Capitán Bado, Amambay…",
+      "keyPoints": [
+        "Continúa la investigación sobre la fuga de dos personas privadas de su libertad – una de ellas considerada de alta peligrosidad – de la cárcel de máxima seguridad ‘Martín Mendoza’ , ubicada en la ciudad de…",
+        "En la mañana de este lunes, agentes de la Policía Nacional y el Ministerio Público ingresaron a la cárcel de máxima seguridad ‘Martín Mendoza’ de la ciudad de Emboscada para realizar una requisa general de todos…",
+        "El operativo es encabezado por la Policía y el Ministerio Público.",
+        "EMBOSCADA- Agentes de la Policía Nacional y del Ministerio Público ingresaron este martes a la penitenciaría de máxima seguridad “Martín Mendoza”, en Emboscada, para realizar una requisa general en todos los módulos."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “La investigación nos lleva hasta el jefe de seguridad y al propio director”, dice ministro de Justicia sobre liberación de reos en Emboscada",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-la-investigacion-nos-lleva-hasta-el-jefe-de-seguridad-y-al-propio-director-dice-ministro-de-justicia-sobre-liberacion-de-reos-en-emboscada",
+          "publishedAt": "2026-10-27T11:55:30.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: detienen a director y a jefe de seguridad de la cárcel",
+          "url": "https://www.abc.com.py/policiales/2026/10/27/fuga-en-emboscada-detienen-a-director-y-a-jefe-de-seguridad-de-la-carcel",
+          "publishedAt": "2026-10-27T11:51:12.000Z",
+          "image": "https://www.abc.com.py/resizer/jFGgNF5QMNRkhdJzVD_4teJOSO0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FUU7XE3MYZA55MKPLY6WDCXTTI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Requisan cárcel de Emboscada tras fuga de dos presos",
+          "url": "https://www.adndigital.com.py/requisan-carcel-de-emboscada-tras-fuga-de-dos-presos",
+          "publishedAt": "2026-10-27T11:46:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Allanan cárcel de máxima seguridad de Emboscada tras fuga de dos internos",
+          "url": "https://elnacional.com.py/nacionales/allanan-carcel-maxima-seguridad-emboscada-tras-fuga-dos-internos-n114241",
+          "publishedAt": "2026-10-27T11:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/05/ed35107ba2db02de1b64772c1cd29e20.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Realizan requisa en la penitenciaría de Emboscada tras fuga de dos internos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/realizan-requisa-en-la-penitenciaria-de-emboscada-tras-fuga-de-dos-internos",
+          "publishedAt": "2026-10-27T11:37:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FGdFKX5G5Z_9Na14MhpxNR2G6fg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KD6R6NJD65BENHYEKPWCNFGOQM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Disponen detención de director y jefe de seguridad de la cárcel de máxima seguridad de Emboscada",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-disponen-detencion-de-director-y-jefe-de-seguridad-de-la-carcel-de-maxima-seguridad-de-emboscada",
+          "publishedAt": "2026-10-27T11:26:27.000Z",
+          "image": "https://www.abc.com.py/resizer/_YU-5AEe5_usjng-X5gvWJ4XkY8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/T7NNTAA44NFOJPNX7LMYAQDURU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Despliegan operativo táctico y requisa en el penal de Emboscada tras la fuga de dos reos",
+          "url": "https://www.ultimahora.com/despliegan-operativo-tactico-y-requisa-en-el-penal-de-emboscada-tras-la-fuga-de-dos-reos",
+          "publishedAt": "2026-10-27T11:23:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Requisa en la cárcel de Emboscada tras fuga de peligrosos reos",
+          "url": "https://www.abc.com.py/policiales/2026/10/27/requisa-en-la-carcel-de-emboscada-tras-fuga-de-peligrosos-reos",
+          "publishedAt": "2026-10-27T10:51:56.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga de Emboscada: detienen a cuatro guardias ante sospechas",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/27/fuga-de-emboscada-detienen-a-cuatro-guardias-ante-sospechas",
+          "publishedAt": "2026-10-27T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wYR_qUNA6LNHegMWJzGvDT1KREs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VRMVIXNUYBG7ZGEY4Y2HME4QCM.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Intervienen cárcel de Emboscada y apartan al director tras la huida de dos reos",
+          "url": "https://www.telefuturo.com.py/intervienen-carcel-de-emboscada-y-apartan-al-director-tras-la-huida-de-dos-reos",
+          "publishedAt": "2026-10-26T14:16:12.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fuga en Emboscada: incautan celular del director y buscan a dos reclusos peligrosos",
+          "url": "https://elnacional.com.py/nacionales/fuga-emboscada-incautan-celular-director-buscan-dos-reclusos-peligrosos-n114195",
+          "publishedAt": "2026-10-26T12:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf52d5452a1.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ministerio dispone intervenir cárcel de Emboscada tras fuga de reos",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/26/ministerio-dispone-intervenir-carcel-de-emboscada-tras-fuga-de-reos",
+          "publishedAt": "2026-10-26T10:28:56.049Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NJXKM25HBZCXLEUSUHDBYCATQI.jpg?auth=96355ae2f0986fe61a333114f7defa9c3d225e2206ed97d49d21f07776ebfebe&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/OHUI7VB3HFFANGUKX625WISYAU.jpg?auth=71387271cfae4fb12df85b8a3a5b0c81f1388f68de849143fb4d5dc72cebc8f2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-la-investigacion-nos-lleva-hasta-el-jefe-de-seguridad-y-al-propio-director-dice-ministro-de-justicia-sobre-liberacion-de-reos-en-emboscada"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
+      "updatedSlot": "manana",
+      "score": 26.98
+    },
+    {
+      "id": "ev-0fq6c2e",
+      "title": "César Sosa se reunió con Mario Abdo en medio de la definición de la dupla de Alliana",
+      "summary": "El gobernador de Guairá, César \"Cesarito\" Sosa, confirmó que mantuvo un encuentro con el expresidente Mario Abdo Benítez, líder del movimiento Colorado Añetete, en pleno proceso de reconfiguración de fuerzas dentro de la Asociación Nacional Republicana (ANR). La reunión se produjo mientras el vicepresidente Pedro Alliana avanza en la selección de su compañero de fórmula para las elecciones presidenciales de 2028.",
+      "keyPoints": [
+        "El gobernador de Guairá, César \"Cesarito\" Sosa, confirmó que mantuvo un encuentro con el expresidente Mario Abdo Benítez, líder del movimiento Colorado Añetete, en pleno proceso de reconfiguración de fuerzas dentro de la Asociación Nacional Republicana…",
+        "El gobernador del Guairá, César Sosa, cree que la encuesta para la dupla de Alliana no es definitoria, sino apenas uno de los factores.",
+        "Marco Riquelme gozaría de la “bendición” del presidente de la República, Santiago Peña.",
+        "El vicepresidente de la República afirmó que necesita un compañero de fórmula que complemente su perfil político y le permita llegar a otros sectores del electorado."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "César Sosa se reunió con Mario Abdo en medio de la definición de la dupla de Alliana",
+          "url": "https://elnacional.com.py/politica/cesar-sosa-reunio-mario-abdo-medio-definicion-dupla-alliana-n114235",
+          "publishedAt": "2026-10-27T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab6dc707b3b8.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Mario Abdo apela al diálogo en el Partido Colorado al conmemorar 71 años del “reencuentro”",
+          "url": "https://www.ultimahora.com/mario-abdo-apela-al-dialogo-en-el-partido-colorado-al-conmemorar-71-anos-del-reencuentro",
+          "publishedAt": "2026-10-27T11:01:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Abdo instó a evitar “hacer cadena en el odio” dentro de la ANR",
+          "url": "https://www.abc.com.py/politica/2026/10/27/abdo-insto-a-evitar-hacer-cadena-en-el-odio-dentro-de-la-anr",
+          "publishedAt": "2026-10-27T10:58:13.000Z",
+          "image": "https://www.abc.com.py/resizer/_N34vgzf6cLEXfneOGZN6pJnhUU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QKOPTKD4EVHTVISQ3WGKB5IZ6E.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "A lo que salga: César Sosa se reunió con Abdo, pero no pierde esperanza con Alliana",
+          "url": "https://www.hoy.com.py/politica/2026/10/27/a-lo-que-salga-cesar-sosa-se-reunio-con-abdo-pero-no-pierde-esperanza-con-alliana",
+          "publishedAt": "2026-10-27T10:58:04.011Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/O54ZZ5IFEBABXP7C4IOSDJYZK4.jpg?auth=07821614c451201eb4a0a10581bb39dc06c03ed42527af51f6544424bb36bd2f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición busca acordar mecanismo para definir chapa presidencial de 2028",
+          "url": "https://elnacional.com.py/politica/oposicion-busca-acordar-mecanismo-definir-chapa-presidencial-2028-n114234",
+          "publishedAt": "2026-10-27T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69eb0db0f3bcb.webp"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Todo apunta a que Riquelme será la dupla de Alliana",
+          "url": "https://elnacional.com.py/politica/todo-apunta-riquelme-sera-dupla-alliana-n114233",
+          "publishedAt": "2026-10-27T08:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae05b7fdcfcb.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana apuesta por un técnico para su dupla y descarta a Sosa",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/alliana-apuesta-por-un-tecnico-para-su-dupla-y-descarta-a-sosa",
+          "publishedAt": "2026-10-27T05:20:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KQgn-sj-ZggmWNi1klYbeYRQpb4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ND6OYEMJ7BD4RMOWIEKPLVAZ7I.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Perfil técnico para dupla de Alliana es “excluyente”, sostiene Peña",
+          "url": "https://www.hoy.com.py/politica/2026/10/26/perfil-tecnico-para-dupla-de-alliana-es-excluyente-sostiene-pena",
+          "publishedAt": "2026-10-26T19:35:03.928Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JGN5T7OJTZGA5GNJYWO2HCNFBM.jpg?auth=e772e747f13151e124e3f649bbabf5dd836a7f2ad118f0506361f4be592cf983&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "¿Marco Riquelme?: Alliana busca un perfil técnico para su chapa presidencial de 2028",
+          "url": "https://elnacional.com.py/politica/marco-riquelme-alliana-busca-perfil-tecnico-su-chapa-presidencial-2028-n114211",
+          "publishedAt": "2026-10-26T18:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña acompañará la decisión de Alliana para su dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/pena-acompanara-la-decision-de-alliana-para-su-dupla",
+          "publishedAt": "2026-10-26T15:18:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZND5bSv_vcgXKescCMnaDUv9TWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JGN5T7OJTZGA5GNJYWO2HCNFBM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana apuesta por un técnico capitalino para su dupla y deja fuera al gobernador Sosa",
+          "url": "https://www.lanacion.com.py/politica/2026/10/26/alliana-apuesta-por-un-tecnico-capitalino-para-su-dupla-y-deja-fuera-al-gobernador-sosa",
+          "publishedAt": "2026-10-26T14:28:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j89zakKukBXJTl6Q5dtjbPvHkF8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YKFPPZD2FZEXVLEBJCBWGIJB4Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/09/6ab6dc707b3b8.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/cesar-sosa-reunio-mario-abdo-medio-definicion-dupla-alliana-n114235"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
+      "updatedSlot": "manana",
+      "score": 20.93
+    },
+    {
+      "id": "ev-0uq2key",
+      "title": "La UE felicita a Lula por su victoria en la segunda vuelta de las elecciones presidenciales en Brasil",
+      "summary": "Von der Leyen destaca que \"la democracia y el multilateralismo han ganado en Brasil\" y Costa subraya que \"el pueblo brasileño ha hablado\". La comisión electoral ha indicado que Lula se ha hecho con el 51,77% de los votos válidos, mientras que el hijo del expresidente Jair Bolsonaro ha obtenido el 48,23% de los apoyos, según datos correspondientes al 99,89% del escrutinio en las urnas, con una participación cercana al…",
+      "keyPoints": [
+        "Von der Leyen destaca que \"la democracia y el multilateralismo han ganado en Brasil\" y Costa subraya que \"el pueblo brasileño ha hablado\".",
+        "La comisión electoral ha indicado que Lula se ha hecho con el 51,77% de los votos válidos, mientras que el hijo del expresidente Jair Bolsonaro ha obtenido el 48,23% de los apoyos, según datos correspondientes al…",
+        "El expresidente de la República y actual titular de la Asociación Nacional Republicana (ANR), Horacio Cartes, expresó este lunes sus felicitaciones al mandatario brasileño Luiz Inácio Lula da Silva, quien consiguió su reelección tras imponerse en…",
+        "El exministro de Relaciones Exteriores y analista político, Euclides Acevedo, calificó como auspicioso para el Paraguay el triunfo de Luiz Inácio Lula da Silva, como mandatario brasileño tras sostener que mediante la reelección del líder del…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Acevedo ve en la victoria de Lula una oportunidad para una América Latina más independiente",
+          "url": "https://www.adndigital.com.py/acevedo-ve-en-la-victoria-de-lula-una-oportunidad-para-una-america-latina-mas-independiente",
+          "publishedAt": "2026-10-27T11:25:18.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f1e7-1f1f7.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Paraguay y Brasil deben apuntar a construir una política migratoria empresarial, dice Acevedo",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/paraguay-y-brasil-deben-apuntar-a-construir-una-politica-migratoria-empresarial-dice-acevedo",
+          "publishedAt": "2026-10-27T11:10:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pbgUkX3ZfV9J59FVk3EYFoLmCow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/URO5QZJLXBE7RDQC3QEXDC6RVA.JPG"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -88,83 +476,83 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/NYWKV7UV4BCRJK7GZPAAGRRQ3I.jpg?auth=d56c60a758e9aae2819582f5f674e12ba7bd2c2b63ff406eaf07ef2020bf0ecd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/pena-espera-reiniciar-en-breve-el-dialogo-bilateral-con-lula"
+        "url": "https://statics.elnacional.com.py/2026/10/6adf35dcc4208.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/la-ue-felicita-lula-su-victoria-segunda-vuelta-elecciones-presidenciales-brasil-n114192"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.75
+      "score": 17.94
     },
     {
-      "id": "ev-0fq6c2e",
-      "title": "Alliana busca un perfil técnico para su dupla rumbo a 2028",
-      "summary": "El vicepresidente Pedro Alliana dijo que su compañero de fórmula debe tener un perfil más técnico que complemente el suyo. Según la prensa, evitó dar nombres, aunque Marco Riquelme sería una opción. El presidente Santiago Peña respalda que la dupla tenga perfil técnico y dijo que acompañará la decisión de Alliana. Alliana planea definir su decisión antes de viajar a Taiwán, el 24 de noviembre.",
+      "id": "ev-1vikgtt",
+      "title": "México habilita su mercado a la carne paraguaya",
+      "summary": "El gobierno confirmó que la carne paraguaya obtuvo la habilitación para ingresar al mercado mexicano. La habilitación sanitaria mexicana autoriza a diez frigoríficos paraguayos a exportar carne bovina y abre nuevas oportunidades para la industria cárnica nacional. Entre enero y septiembre, Estados Unidos y Canadá ya compraron 52.700 toneladas por USD 324,2 millones.",
       "keyPoints": [
-        "Alliana quiere un compañero de fórmula con perfil técnico.",
-        "Alliana prefiere que no sea otra figura del interior del país.",
-        "Peña calificó el perfil técnico como excluyente.",
-        "Alliana pretende definir la dupla antes de viajar a Taiwán el 24 de noviembre."
+        "El gobierno confirmó que la carne paraguaya obtuvo la habilitación para ingresar al mercado mexicano.",
+        "La habilitación sanitaria mexicana autoriza a diez frigoríficos paraguayos a exportar carne bovina y abre nuevas oportunidades para la industria cárnica nacional.",
+        "El Servicio Nacional de Calidad y Salud Animal (Senacsa) anunció este lunes la apertura del mercado de México para las exportaciones paraguayas de carne bovina El gerente general de la Cámara Paraguaya de Carnes (CPC), Daniel…",
+        "Inicialmente se tendrá una cuota de 70.000 toneladas con arancel cero a partir del 1 de enero, en la que Paraguay competiría con Brasil."
       ],
-      "category": "politica",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana apuesta por un técnico para su dupla y descarta a Sosa",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/alliana-apuesta-por-un-tecnico-para-su-dupla-y-descarta-a-sosa",
-          "publishedAt": "2026-10-27T05:20:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/KQgn-sj-ZggmWNi1klYbeYRQpb4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ND6OYEMJ7BD4RMOWIEKPLVAZ7I.jpg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Carne paraguaya a México: cuánto se espera exportar en el primer año",
+          "url": "https://www.abc.com.py/negocios/abc-campo/2026/10/27/carne-paraguaya-a-mexico-cuanto-se-espera-exportar-en-el-primer-ano",
+          "publishedAt": "2026-10-27T11:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/5KYEhzjqIDwUcWbIUdoXvE_aJtg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZANQAIFKZZA5NKFUUVZGUKXUQU.jfif"
         },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
-          "title": "Perfil técnico para dupla de Alliana es “excluyente”, sostiene Peña",
-          "url": "https://www.hoy.com.py/politica/2026/10/26/perfil-tecnico-para-dupla-de-alliana-es-excluyente-sostiene-pena",
-          "publishedAt": "2026-10-26T19:35:03.928Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/JGN5T7OJTZGA5GNJYWO2HCNFBM.jpg?auth=e772e747f13151e124e3f649bbabf5dd836a7f2ad118f0506361f4be592cf983&width=1200&height=630&smart=true"
+          "title": "México habilita su mercado a la carne paraguaya",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/mexico-habilita-su-mercado-a-la-carne-paraguaya",
+          "publishedAt": "2026-10-27T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/7OLIF3ZZXZBJ7PLYBFSNQ7DJAA.jpg?auth=9292a12295063b827aaed340fce212ca3ea2b1c02d69bba15b8ba60d0ac04667&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Carne bovina: 10 frigoríficos accederán al mercado mexicano",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/27/carne-bovina-10-frigorificos-accederan-al-mercado-mexicano",
+          "publishedAt": "2026-10-27T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cyX2xtR-YH6o1_9KHW-cTQSKQzw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z5VMGC7MW5BWLOGBVVWXQRYKCI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Carne bovina: 10 frigoríficos accederán al mercado mexicano de casi 120 millones de personas",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/26/carne-bovina-10-frigorificos-accederan-al-mercado-mexicano-de-casi-120-millones-de-personas",
+          "publishedAt": "2026-10-26T17:10:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LWK1tFwWKVzoJG_A7lCpI0nm9Tk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GJ72VNGI4RG4VEBJZWB5VFTNGA.jpg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "¿Marco Riquelme?: Alliana busca un perfil técnico para su chapa presidencial de 2028",
-          "url": "https://elnacional.com.py/politica/marco-riquelme-alliana-busca-perfil-tecnico-su-chapa-presidencial-2028-n114211",
-          "publishedAt": "2026-10-26T18:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a5f8907444b9.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña acompañará la decisión de Alliana para su dupla",
-          "url": "https://www.lanacion.com.py/politica/2026/10/26/pena-acompanara-la-decision-de-alliana-para-su-dupla",
-          "publishedAt": "2026-10-26T15:18:48.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZND5bSv_vcgXKescCMnaDUv9TWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JGN5T7OJTZGA5GNJYWO2HCNFBM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana apuesta por un técnico capitalino para su dupla y deja fuera al gobernador Sosa",
-          "url": "https://www.lanacion.com.py/politica/2026/10/26/alliana-apuesta-por-un-tecnico-capitalino-para-su-dupla-y-deja-fuera-al-gobernador-sosa",
-          "publishedAt": "2026-10-26T14:28:49.000Z",
-          "image": "https://www.lanacion.com.py/resizer/j89zakKukBXJTl6Q5dtjbPvHkF8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YKFPPZD2FZEXVLEBJCBWGIJB4Y.jpg"
+          "title": "México habilita la carne paraguaya y nuestro país completa el acceso a Norteamérica",
+          "url": "https://elnacional.com.py/economia/mexico-habilita-carne-paraguaya-nuestro-pais-completa-acceso-norteamerica-n114213",
+          "publishedAt": "2026-10-26T16:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/02/69a1c25b7effe.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ND6OYEMJ7BD4RMOWIEKPLVAZ7I.jpg?auth=9a239c5c63f5051ee718f685cac0345e0b9538547b24311638cbaac4bce8b46e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/alliana-apuesta-por-un-tecnico-para-su-dupla-y-descarta-a-sosa"
+        "url": "https://www.lanacion.com.py/resizer/v2/7OLIF3ZZXZBJ7PLYBFSNQ7DJAA.jpg?auth=9292a12295063b827aaed340fce212ca3ea2b1c02d69bba15b8ba60d0ac04667&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/27/mexico-habilita-su-mercado-a-la-carne-paraguaya"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 14.77
+      "score": 17.91
     },
     {
       "id": "ev-19r6cmi",
@@ -224,99 +612,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 14.72
-    },
-    {
-      "id": "ev-07alk6e",
-      "title": "Senadoras impulsan pérdida de investidura de Zenaida Delgado por presuntas coimas",
-      "summary": "Tres funcionarias denunciaron a la senadora cartista Zenaida Delgado por supuestos pedidos de dinero a cambio de nombramientos, de hasta G. 150 millones. La senadora Yolanda Paredes anunció un pedido de pérdida de investidura. El titular del Senado, Basilio Núñez, informó que remitirá los antecedentes a la Fiscalía. Delgado rechazó las acusaciones y anunció acciones legales. Según la nota, Faisal Huespe sería el siguiente suplente.",
-      "keyPoints": [
-        "Tres funcionarias denuncian presuntos pedidos de dinero por nombramientos.",
-        "Yolanda Paredes anunció que impulsará la pérdida de investidura.",
-        "Basilio Núñez remitirá las denuncias al Ministerio Público.",
-        "Delgado rechazó las acusaciones y anunció acciones legales."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Preparan expulsión de Zenaida Delgado del Congreso",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/preparan-expulsion-de-zenaida-delgado-del-congreso",
-          "publishedAt": "2026-10-27T04:23:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/guk6mRhZf09jUTOKo4muKHcF3yk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XYO4FWJ5D5E6ZL43WIS2LHJ5RM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Mesa Directiva impulsará la pérdida de investidura de la senadora Zenaida Delgado",
-          "url": "https://elnacional.com.py/politica/mesa-directiva-impulsara-perdida-investidura-senadora-zenaida-delgado-n114214",
-          "publishedAt": "2026-10-26T19:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adf61259e267.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Faisal Huespe podría ocupar la banca de Zenaida Delgado si pierde su investidura",
-          "url": "https://elnacional.com.py/politica/faisal-huespe-podria-ocupar-banca-zenaida-delgado-pierde-su-investidura-n114215",
-          "publishedAt": "2026-10-26T16:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adf64d60c53c.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Titular del Congreso denunciará ante la Fiscalía a la senadora Delgado por presunto peaje",
-          "url": "https://www.lanacion.com.py/politica/2026/10/26/titular-del-congreso-denunciara-ante-la-fiscalia-a-la-senadora-delgado-por-presunto-peaje",
-          "publishedAt": "2026-10-26T14:32:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/dWXd9cC-Fj-HWnL3yw7cVno5lKw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AZPIM5IWWNEZPGGGCPPLF4FT2Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Yolanda Paredes impulsará pérdida de investidura de Zenaida Delgado",
-          "url": "https://elnacional.com.py/politica/yolanda-paredes-impulsara-perdida-investidura-zenaida-delgado-n114201",
-          "publishedAt": "2026-10-26T13:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/08/689378a6a26e9.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Yolanda Paredes impulsará pedido de pérdida de investidura contra Zenaida Delgado",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/yolanda-paredes-impulsara-pedido-de-perdida-de-investidura-contra-zenaida-delgado",
-          "publishedAt": "2026-10-26T13:02:01.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Denuncian a senadora Zenaida Delgado por presuntos cobros de bonificaciones y venta de cargos en el Senado",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/denuncian-a-senadora-zenaida-delgado-por-presuntos-cobros-de-bonificaciones-y-venta-de-cargos-en-el-senado",
-          "publishedAt": "2026-10-26T11:47:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Tres funcionarias denuncian a la senadora Zenaida Delgado por presuntas coimas por nombramientos",
-          "url": "https://elnacional.com.py/politica/tres-funcionarias-denuncian-senadora-zenaida-delgado-presuntas-coimas-nombramientos-n114190",
-          "publishedAt": "2026-10-26T11:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XYO4FWJ5D5E6ZL43WIS2LHJ5RM.jpg?auth=33dec27ef4f27c99a3bd0fa4fc0f2de291ccf583e26ee2591c239ad5b41281b8&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/27/preparan-expulsion-de-zenaida-delgado-del-congreso"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 14.69
+      "score": 14.39
     },
     {
       "id": "ev-1slc3ej",
@@ -368,111 +664,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 12.91
+      "score": 12.58
     },
     {
-      "id": "ev-0i8vp7h",
-      "title": "Ministerio interviene la cárcel de Emboscada tras la fuga de dos reos",
-      "summary": "El Ministerio de Justicia ordenó intervenir la penitenciaría Martín Mendoza, en Emboscada, y apartó a su director tras la fuga de dos internos. Ambos cumplían condenas por homicidio. Cuatro guardiacárceles fueron detenidos y seis funcionarios quedaron bajo investigación. La Policía dice que tiene pistas sobre los fugitivos.",
+      "id": "ev-1mbks70",
+      "title": "Harry Kane gana el Balón de Oro 2026 y supera a Lamine Yamal y Mbappé",
+      "summary": "El delantero inglés del Bayern Múnich Harry Kane fue premiado con el Balón de Oro 2026 en Londres. El capitán de la selección inglesa sucede en el palmarés a Ousmane Dembélé, del Paris Saint-Germain. Según El Nacional, superó en las votaciones al español Lamine Yamal y al francés Kylian Mbappé. Kane tiene 33 años.",
       "keyPoints": [
-        "El Ministerio de Justicia intervino la penitenciaría de Emboscada.",
-        "Dos internos se fugaron y la Policía busca su paradero.",
-        "Cuatro guardiacárceles fueron detenidos.",
-        "Seis funcionarios quedaron bajo investigación."
+        "Harry Kane, del Bayern Múnich, ganó el Balón de Oro 2026.",
+        "Sucede en el palmarés a Ousmane Dembélé.",
+        "Lamine Yamal quedó tercero en la votación, según ABC Color."
       ],
-      "category": "pais",
-      "scope": "paraguay",
+      "category": "deportes",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Intervienen cárcel de Emboscada y apartan al director tras la huida de dos reos",
-          "url": "https://www.telefuturo.com.py/intervienen-carcel-de-emboscada-y-apartan-al-director-tras-la-huida-de-dos-reos",
-          "publishedAt": "2026-10-26T14:16:12.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fuga en Emboscada: incautan celular del director y buscan a dos reclusos peligrosos",
-          "url": "https://elnacional.com.py/nacionales/fuga-emboscada-incautan-celular-director-buscan-dos-reclusos-peligrosos-n114195",
-          "publishedAt": "2026-10-26T12:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adf52d5452a1.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ministerio dispone intervenir cárcel de Emboscada tras fuga de reos",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/26/ministerio-dispone-intervenir-carcel-de-emboscada-tras-fuga-de-reos",
-          "publishedAt": "2026-10-26T10:28:56.049Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/NJXKM25HBZCXLEUSUHDBYCATQI.jpg?auth=96355ae2f0986fe61a333114f7defa9c3d225e2206ed97d49d21f07776ebfebe&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6adf52d5452a1.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/fuga-emboscada-incautan-celular-director-buscan-dos-reclusos-peligrosos-n114195"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 12.51
-    },
-    {
-      "id": "ev-1vikgtt",
-      "title": "México habilita a diez frigoríficos paraguayos para exportar carne bovina",
-      "summary": "México autorizó a diez plantas frigoríficas paraguayas a exportar carne bovina, con acceso a un mercado de casi 120 millones de personas. Según el presidente del Senacsa, José Carlos Martin, es una nueva oportunidad para el sector cárnico. Inicialmente habrá una cuota de 70.000 toneladas con arancel cero desde el 1 de enero, en la que Paraguay competirá con Brasil.",
-      "keyPoints": [
-        "Diez plantas frigoríficas paraguayas tienen habilitación para exportar a México.",
-        "El mercado mexicano tiene casi 120 millones de personas.",
-        "La cuota inicial es de 70.000 toneladas con arancel cero desde el 1 de enero.",
-        "Paraguay competirá con Brasil por esa cuota."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Carne bovina: 10 frigoríficos accederán al mercado mexicano de casi 120 millones de personas",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/26/carne-bovina-10-frigorificos-accederan-al-mercado-mexicano-de-casi-120-millones-de-personas",
-          "publishedAt": "2026-10-26T17:10:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LWK1tFwWKVzoJG_A7lCpI0nm9Tk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GJ72VNGI4RG4VEBJZWB5VFTNGA.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "México habilita la carne paraguaya y nuestro país completa el acceso a Norteamérica",
-          "url": "https://elnacional.com.py/economia/mexico-habilita-carne-paraguaya-nuestro-pais-completa-acceso-norteamerica-n114213",
-          "publishedAt": "2026-10-26T16:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/02/69a1c25b7effe.jpg"
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El delantero inglés Harry Kane gana el Balón de Oro 2026",
+          "url": "https://www.adndigital.com.py/el-delantero-ingles-harry-kane-gana-el-balon-de-oro-2026",
+          "publishedAt": "2026-10-27T10:01:59.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/harry-kane-gana-el-balon-de-oro-2026.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Carne bovina: 10 frigoríficos accederán al mercado mexicano",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/27/carne-bovina-10-frigorificos-accederan-al-mercado-mexicano",
-          "publishedAt": "2026-10-27T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cyX2xtR-YH6o1_9KHW-cTQSKQzw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z5VMGC7MW5BWLOGBVVWXQRYKCI.jpg"
+          "title": "Harry Kane gana el Balón de Oro",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro",
+          "publishedAt": "2026-10-27T03:40:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NW-HlhYy5Ok1UPMFN99NQooAtVk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATQKMWL4ND75ANT5U6TFROBGM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Harry Kane se lleva el Balón de Oro 2026",
+          "url": "https://elnacional.com.py/deportes/harry-kane-lleva-balon-oro-2026-n114227",
+          "publishedAt": "2026-10-26T23:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adfdc018624e.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GJ72VNGI4RG4VEBJZWB5VFTNGA.jpg?auth=ee03e7b101f93d50ae84ea1a4f9d7732379a77e567ff80ce617e1a4099e56950&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/26/carne-bovina-10-frigorificos-accederan-al-mercado-mexicano-de-casi-120-millones-de-personas"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/harry-kane-gana-el-balon-de-oro-2026.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/el-delantero-ingles-harry-kane-gana-el-balon-de-oro-2026"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 11.33
     },
     {
       "id": "ev-0p228iu",
@@ -516,7 +759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.76
+      "score": 9.43
     },
     {
       "id": "ev-0n4wvps",
@@ -560,7 +803,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.32
     },
     {
       "id": "ev-0m44r25",
@@ -603,7 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-1bk2c3m",
@@ -646,7 +889,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.31
+      "score": 8.98
     },
     {
       "id": "ev-1gofppa",
@@ -689,7 +932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.22
+      "score": 8.89
     },
     {
       "id": "ev-0ayar9m",
@@ -732,7 +975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.17
+      "score": 8.84
     },
     {
       "id": "ev-1ctcp2o",
@@ -775,51 +1018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.04
-    },
-    {
-      "id": "ev-1mbks70",
-      "title": "Harry Kane gana el Balón de Oro 2026 por delante de Yamal y Mbappé",
-      "summary": "El delantero inglés Harry Kane se llevó el Balón de Oro 2026. Superó en las votaciones al español Lamine Yamal y al francés Kylian Mbappé. Kane, capitán de la selección inglesa, sucede en el premio a Ousmane Dembélé, del Paris Saint-Germain.",
-      "keyPoints": [
-        "Harry Kane ganó el Balón de Oro 2026.",
-        "Superó en las votaciones a Lamine Yamal y Kylian Mbappé.",
-        "Kane es capitán de la selección inglesa.",
-        "Sucede en el premio a Ousmane Dembélé."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Harry Kane gana el Balón de Oro",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro",
-          "publishedAt": "2026-10-27T03:40:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NW-HlhYy5Ok1UPMFN99NQooAtVk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CATQKMWL4ND75ANT5U6TFROBGM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Harry Kane se lleva el Balón de Oro 2026",
-          "url": "https://elnacional.com.py/deportes/harry-kane-lleva-balon-oro-2026-n114227",
-          "publishedAt": "2026-10-26T23:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adfdc018624e.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CATQKMWL4ND75ANT5U6TFROBGM.jpg?auth=01462695e3a21322be2937e779b076dc134a1ff2cdc5630ccbdcdcb79042eb23&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/27/harry-kane-gana-el-balon-de-oro"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 7.13
+      "score": 8.71
     },
     {
       "id": "ev-1ncw75v",
@@ -863,7 +1062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.85
+      "score": 6.52
     },
     {
       "id": "ev-0rugw54",
@@ -907,7 +1106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.77
+      "score": 6.44
     },
     {
       "id": "ev-0duqb3n",
@@ -951,7 +1150,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.73
+      "score": 6.4
     },
     {
       "id": "ev-0ldc1sy",
@@ -995,7 +1194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.72
+      "score": 6.39
     },
     {
       "id": "ev-14kva4n",
@@ -1039,7 +1238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.32
     },
     {
       "id": "ev-0j01ntm",
@@ -1083,7 +1282,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-06ftyzn",
@@ -1127,7 +1326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1dkgd84",
@@ -1170,7 +1369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.57
+      "score": 6.24
     },
     {
       "id": "ev-0crjp6u",
@@ -1213,7 +1412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.82
     },
     {
       "id": "ev-1ynouiw",
@@ -1243,7 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-06lduq5",
@@ -1273,7 +1472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ahco50",
@@ -1304,7 +1503,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-093l6cd",
@@ -1333,7 +1532,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1w8n2vb",
@@ -1362,7 +1561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1jsagn1",
@@ -1394,7 +1593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-06j0k1j",
@@ -1423,7 +1622,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0lnu9wk",
@@ -1456,7 +1655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.78
+      "score": 5.45
     },
     {
       "id": "ev-15z0wx7",
@@ -1491,7 +1690,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.72
+      "score": 5.38
     },
     {
       "id": "ev-19b2blz",
@@ -1525,7 +1724,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.36
     },
     {
       "id": "ev-1xl7v27",
@@ -1560,7 +1759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0cjctzh",
@@ -1595,7 +1794,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0ewy266",
@@ -1630,7 +1829,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1qnthkb",
@@ -1666,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0t7kqyk",
@@ -1697,7 +1896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0ng90j6",
@@ -1732,7 +1931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1fhjnhf",
@@ -1767,7 +1966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1h0g79k",
@@ -1803,7 +2002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.13
     },
     {
       "id": "ev-04l858b",
@@ -1837,7 +2036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.95
     },
     {
       "id": "ev-0lt7g2f",
@@ -1885,7 +2084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0n5hwg3",
@@ -1921,7 +2120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1ngk5u6",
@@ -1956,7 +2155,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.75
     },
     {
       "id": "ev-12bwvhv",
@@ -1986,7 +2185,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.36
     },
     {
       "id": "ev-0xv1owl",
@@ -2025,7 +2224,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.46
+      "score": 4.13
     },
     {
       "id": "ev-07gv1y5",
@@ -2069,7 +2268,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.08
+      "score": 3.74
     },
     {
       "id": "ev-0gqq9ge",
@@ -2100,7 +2299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.42
+      "score": 3.09
     }
   ],
   "runs": [
@@ -2110,6 +2309,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 69
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-27T12:07:14.389Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 13
     }
   ]
 }
