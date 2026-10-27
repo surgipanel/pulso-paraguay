@@ -1,27 +1,43 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-27T19:37:13.342Z",
+  "generatedAt": "2026-10-27T23:05:03.316Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-07alk6e",
-      "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
-      "summary": "Fátima Delgado defendió a la legisladora frente a las denuncias de coimas a cambios de nombramientos y lanzó acusaciones contra las senadoras Celeste Amarilla y Lilian Samaniego. También responsabilizó al expareja de su hermana si algo le ocurre a la parlamentaria.",
+      "title": "Bancada oficialista definirá mañana si expulsa a Zenaida Delgado",
+      "summary": "La bancada colorada oficialista analiza la situación de la senadora Zenaida Delgado, denunciada por tres funcionarias. El líder de la bancada, Natalicio Chase, escuchó el descargo de la legisladora y recibió a las funcionarias afectadas. Aún no hay postura definida. No se descartan la renuncia ni la pérdida de investidura. La decisión se conocerá en la próxima jornada.",
       "keyPoints": [
-        "Fátima Delgado defendió a la legisladora frente a las denuncias de coimas a cambios de nombramientos y lanzó acusaciones contra las senadoras Celeste Amarilla y Lilian Samaniego.",
-        "Tras las acusaciones en su contra por parte de Fátima Delgado , la senadora colorada disidente Lilian Samaniego anunció una intimación a la hermana de Zenaida Delgado (ANR-HC) por acusaciones de corrupción.",
-        "Fátima Delgado, hermana de la senadora Zenaida Delgado, rompió el silencio tras el anuncio de la pérdida de investidura.",
-        "Gustavo Vera, ex pareja de la senadora Zenaida Delgado, rompió el silencio tras las acusaciones en su contra y afirmó que únicamente prestaba su cuenta bancaria a la legisladora porque ella tenía las suyas \"bloqueadas\"."
+        "Tres funcionarias denunciaron a la senadora Zenaida Delgado.",
+        "Natalicio Chase lidera la bancada oficialista (ANR).",
+        "Chase escuchó el descargo de la senadora.",
+        "La bancada aún no define si apoya la pérdida de investidura."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Oficialismo recula con Zenaida?: “Peñistas” hicieron el vacío a las denunciantes",
+          "url": "https://www.abc.com.py/politica/2026/10/27/oficialismo-recula-con-zenaida-penistas-hicieron-el-vacio-a-las-denunciantes",
+          "publishedAt": "2026-10-27T22:24:53.000Z",
+          "image": "https://www.abc.com.py/resizer/CF5xedbnIOgNabIrA4yO9-ltxHI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/44SR62OVMNHCDGBFFDET36A6UA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bancada oficialista definirá mañana el futuro de Zenaida Delgado",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/bancada-oficialista-definira-manana-el-futuro-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T20:47:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7XHRCN38TRMDZpDytDjtCtVjR2g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AUY5DKTHJFSXPS42CKNC5RW74.jpeg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -288,32 +304,48 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/44SR62OVMNHCDGBFFDET36A6UA.jpg?auth=e84d58586d787e6a30acbfd47f9925d03dda90c521b7d4303f78e0bba87eaa6c&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/27/oficialismo-recula-con-zenaida-penistas-hicieron-el-vacio-a-las-denunciantes"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedAt": "2026-10-27T23:05:03.316Z",
       "updatedSlot": "tarde",
-      "score": 29.97
+      "score": 29.94
     },
     {
       "id": "ev-0i8vp7h",
-      "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
-      "summary": "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho. También fueron detenidos dos responsables de seguridad. El operativo es encabezado por la Policía y el Ministerio Público.",
+      "title": "Detienen al exdirector de Emboscada por la fuga de dos presos",
+      "summary": "Pablo Abel González Apuril, exdirector del penal Martín Mendoza de Emboscada, fue detenido durante un allanamiento. Las autoridades lo investigan por posible complicidad en la fuga de dos reos de alta peligrosidad. Él negó tener responsabilidad en el hecho. También fueron detenidos dos responsables de seguridad. La Policía y la Fiscalía requisaron el penal y secuestraron celulares y documentos.",
       "keyPoints": [
-        "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho.",
-        "El operativo es encabezado por la Policía y el Ministerio Público.",
-        "En la madrugada del sábado Ever Alejandro Ozuna , quien cumplía una condena de 28 años de prisión por hechos de secuestro y es señalado también como presunto sicario, quien operaba en la zona de Capitán…",
-        "Pablo Abel González Apuril fue detenido por disposición fiscal ante indicios de posible complicidad en la fuga de dos internos del penal de máxima seguridad de Emboscada."
+        "Pablo Abel González Apuril fue detenido durante un allanamiento.",
+        "Dos responsables de seguridad también fueron detenidos.",
+        "El exdirector negó tener responsabilidad en la fuga.",
+        "La requisa incluyó celulares y documentos."
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
+          "url": "https://www.abc.com.py/policiales/2026/10/27/descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
+          "publishedAt": "2026-10-27T20:40:01.000Z",
+          "image": "https://www.abc.com.py/resizer/W5AbxD3npxiChqwyVVhIms6nBZQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BBJOOY2SU5CVBI75RWT2GZL2M4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
+          "publishedAt": "2026-10-27T19:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -468,32 +500,39 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2QN4T2UWFJDVLDSPGM6BJAWNDY.jpg?auth=e889cce730677a4dbe29ae209c87238e7064117400a10bf72d08678a338d4414&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/10/27/hallan-uso-de-celdas-vip-para-internos-de-emboscada-tras-fuga"
+        "url": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedAt": "2026-10-27T23:05:03.316Z",
       "updatedSlot": "tarde",
-      "score": 29.92
+      "score": 29.8
     },
     {
       "id": "ev-0fq6c2e",
-      "title": "Raúl Latorre descarta ir a la disidencia y acompañará la decisión de Alliana",
-      "summary": "El titular de la Cámara de Diputados, Raúl Latorre, manifestó que su respaldo a la candidatura presidencial de Pedro Alliana, seguirá firme en el caso de que llegase a apostar por la figura del ministro de Industria y Comercio, Marco Riquelme, para su compañero de fórmula rumbo a las elecciones internas partidarias de la Asociación Nacional Republicana (ANR), previstas para diciembre del 2027.",
+      "title": "Alliana define su compañero de fórmula entre tres nombres por encuesta",
+      "summary": "Pedro Alliana define su compañero de fórmula entre Marco Riquelme, Raúl Latorre y César Sosa. Una encuesta decidirá al elegido. El ministro de Agricultura Carlos Giménez prefiere a Riquelme. Raúl Latorre dijo que acompañará la decisión de Alliana. El oficialismo colorado apunta a las próximas internas de la ANR.",
       "keyPoints": [
-        "El titular de la Cámara de Diputados, Raúl Latorre, manifestó que su respaldo a la candidatura presidencial de Pedro Alliana, seguirá firme en el caso de que llegase a apostar por la figura del ministro de…",
-        "La aparente elección del ministro de Industria, Marco Riquelme , como dupla presidencial de Pedro Alliana para el 2028, el presidente de la Cámara de Diputados y aspirante a vice presidencia, Raúl Latorre (ANR, peñista), no…",
-        "Marco Riquelme gozaría de la “bendición” del presidente de la República, Santiago Peña.",
-        "El vicepresidente analiza posibles candidatos para acompañarlo en las elecciones generales de 2028 y apuesta por una figura técnica y urbana que complemente su trayectoria política."
+        "La encuesta definirá el compañero de fórmula de Alliana.",
+        "El ministro Carlos Giménez prefiere a Marco Riquelme.",
+        "Raúl Latorre acompañará la decisión de Alliana."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Marco Riquelme es la figura que necesita Alliana, dice ministro del MAG",
+          "url": "https://www.abc.com.py/politica/2026/10/27/marco-riquelme-es-la-figura-que-necesita-alliana-dice-ministro-del-mag",
+          "publishedAt": "2026-10-27T21:39:02.000Z",
+          "image": "https://www.abc.com.py/resizer/B7pR0ROgsLzSwHjBs3qm1LGgfRI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5YUGYXC7ZRGELOECV73I4VDPQ4.jpg"
+        },
         {
           "sourceId": "telefuturo",
           "sourceName": "Telefuturo",
@@ -608,32 +647,71 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5IDCYWPDAND5HJ7LTFYSW3URHY.jpg?auth=684b030fd0cbaa5d52bc8b3ee634f4afac33547f05824d46412f0ec652c9f6c3&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/27/raul-latorre-descarta-ir-a-la-disidencia-y-acompanara-la-decision-de-alliana"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5YUGYXC7ZRGELOECV73I4VDPQ4.jpg?auth=31f8689eb59289c8451533f435ffe4e69d8ff95a0943eb9a01261d1927c0f7c8&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/27/marco-riquelme-es-la-figura-que-necesita-alliana-dice-ministro-del-mag"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedAt": "2026-10-27T23:05:03.316Z",
       "updatedSlot": "tarde",
-      "score": 23.95
+      "score": 23.88
     },
     {
       "id": "ev-1dkgd84",
-      "title": "Argentina dice que Flávio Bolsonaro no pidió asilo",
-      "summary": "Estas han sido las primeras palabras del Gobierno de Javier Milei tras la victoria el domingo de Lula da Silva en unas elecciones que han marcado historia en Brasil y después de que el presidente argentino se inmiscuyera en la campaña a favor de Bolsonaro e insultara de manera repetida al líder progresista brasileño.",
+      "title": "Flávio Bolsonaro huyó a EE.UU. pese a orden de entregar pasaportes, según medios",
+      "summary": "El excandidato presidencial Flávio Bolsonaro salió de Brasil rumbo a Estados Unidos, según CNN, The New York Times y otros medios. Derrotado por Lula en la segunda vuelta, no cumplió la orden del Supremo de entregar sus pasaportes en 24 horas. Las autoridades brasileñas cancelaron sus documentos. Bolsonaro está investigado en una causa por presunto lavado de dinero, que permanece bajo secreto judicial.",
       "keyPoints": [
-        "Estas han sido las primeras palabras del Gobierno de Javier Milei tras la victoria el domingo de Lula da Silva en unas elecciones que han marcado historia en Brasil y después de que el presidente argentino…",
-        "Los pasaportes de Flávio Bolsonaro fueron cancelados después de que no los entregara como le había ordenado la justicia, indicó el martes una fuente policial a la AFP, mientras en Brasil surgen interrogantes sobre su paradero.",
-        "La anulación de sus pasaportes -incluido el diplomático- se produce en medio de las especulaciones sobre una posible fuga del hijo mayor del exmandatario Jair Bolsonaro a través de Argentina, según la prensa brasileña.",
-        "El excandidato presidencial Flávio Bolsonaro decidió huir de Brasil, luego de perder la segunda vuelta de las elecciones presidenciales contra Lula da Silva."
+        "Lula da Silva derrotó a Flávio Bolsonaro en la segunda vuelta.",
+        "El Supremo ordenó entregar pasaportes en 24 horas.",
+        "Sus pasaportes ordinario y diplomático fueron cancelados."
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Las investigaciones que cercan a Flávio Bolsonaro, fugado a Estados Unidos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/las-investigaciones-que-cercan-a-flavio-bolsonaro-fugado-a-estados-unidos",
+          "publishedAt": "2026-10-27T22:20:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro huyó a EE. UU. tras derrota electoral en Brasil, según medios",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/flavio-bolsonaro-huyo-a-ee-uu-tras-derrota-electoral-en-brasil-segun-medios",
+          "publishedAt": "2026-10-27T21:47:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_bm_OxryHFc3DBQXvD4bLrEsyQM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CYG43VQMSNF43OWG5WRRYOI6BM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro amplía la lista de huidos de Brasil junto a su hermano y dos golpistas",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/flavio-bolsonaro-amplia-la-lista-de-huidos-de-brasil-junto-a-su-hermano-y-dos-golpistas",
+          "publishedAt": "2026-10-27T21:45:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Brasil cancela los pasaportes de Flávio Bolsonaro en medio de interrogantes sobre su paradero",
+          "url": "https://www.ultimahora.com/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-en-medio-de-interrogantes-sobre-su-paradero",
+          "publishedAt": "2026-10-27T21:08:10.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral y una orden judicial",
+          "url": "https://elnacional.com.py/mundo/flavio-bolsonaro-huye-estados-unidos-tras-su-derrota-electoral-una-orden-judicial-n114280",
+          "publishedAt": "2026-10-27T19:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -724,15 +802,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LXHKTL5HVRCBJPK3FB3UHMETXQ.jpg?auth=dbb6526a091747e0142e5f64b6d5cd707682556c5816eae99871b8da7b78c7a8&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/27/argentina-dice-que-flavio-bolsonaro-no-pidio-asilo-2"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CYG43VQMSNF43OWG5WRRYOI6BM.jpg?auth=37a60f0460b522875e03a8a4df7909eb90a1abd9d30a286da4a5c0f879ecbc37&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/27/flavio-bolsonaro-huyo-a-ee-uu-tras-derrota-electoral-en-brasil-segun-medios"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedAt": "2026-10-27T23:05:03.316Z",
       "updatedSlot": "tarde",
-      "score": 18.45
+      "score": 21.44
     },
     {
       "id": "ev-0uq2key",
@@ -840,7 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.32
+      "score": 17.03
     },
     {
       "id": "ev-1vikgtt",
@@ -908,7 +986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.28
+      "score": 16.99
     },
     {
       "id": "ev-1mbks70",
@@ -968,7 +1046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T16:07:16.784Z",
       "updatedSlot": "tarde",
-      "score": 14.91
+      "score": 14.62
     },
     {
       "id": "ev-19r6cmi",
@@ -1028,7 +1106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 13.76
+      "score": 13.47
     },
     {
       "id": "ev-1slc3ej",
@@ -1124,7 +1202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.52
     },
     {
       "id": "ev-0n4wvps",
@@ -1168,7 +1246,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-0m44r25",
@@ -1211,7 +1289,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-1bk2c3m",
@@ -1254,7 +1332,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.06
     },
     {
       "id": "ev-1gofppa",
@@ -1297,7 +1375,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.26
+      "score": 8
     },
     {
       "id": "ev-0ayar9m",
@@ -1340,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-1ctcp2o",
@@ -1383,7 +1461,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.09
+      "score": 8
     },
     {
       "id": "ev-1ncw75v",
@@ -1427,7 +1505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.89
+      "score": 5.6
     },
     {
       "id": "ev-0rugw54",
@@ -1471,7 +1549,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.81
+      "score": 5.52
     },
     {
       "id": "ev-0duqb3n",
@@ -1515,7 +1593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.77
+      "score": 5.48
     },
     {
       "id": "ev-0ldc1sy",
@@ -1559,7 +1637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.76
+      "score": 5.48
     },
     {
       "id": "ev-14kva4n",
@@ -1603,7 +1681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.41
     },
     {
       "id": "ev-0j01ntm",
@@ -1647,7 +1725,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-06ftyzn",
@@ -1691,7 +1769,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0crjp6u",
@@ -1734,7 +1812,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.19
+      "score": 5
     },
     {
       "id": "ev-1ynouiw",
@@ -1764,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-06lduq5",
@@ -1794,7 +1872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0ahco50",
@@ -1825,7 +1903,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-093l6cd",
@@ -1854,7 +1932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1w8n2vb",
@@ -1883,7 +1961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1jsagn1",
@@ -1915,7 +1993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-06j0k1j",
@@ -1944,7 +2022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0lnu9wk",
@@ -1977,7 +2055,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.83
+      "score": 4.54
     },
     {
       "id": "ev-15z0wx7",
@@ -2012,7 +2090,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.47
     },
     {
       "id": "ev-19b2blz",
@@ -2046,7 +2124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-1xl7v27",
@@ -2081,7 +2159,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0cjctzh",
@@ -2116,7 +2194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0ewy266",
@@ -2151,7 +2229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1qnthkb",
@@ -2187,7 +2265,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0t7kqyk",
@@ -2218,7 +2296,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0ng90j6",
@@ -2253,7 +2331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1fhjnhf",
@@ -2288,7 +2366,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1h0g79k",
@@ -2324,7 +2402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.22
     },
     {
       "id": "ev-04l858b",
@@ -2358,7 +2436,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 4.03
     },
     {
       "id": "ev-0n5hwg3",
@@ -2394,7 +2472,72 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.29
+      "score": 4
+    },
+    {
+      "id": "ev-1ngk5u6",
+      "title": "Dallys Ferreira conducirá \"El Camionazo del 13\" en el canal Trece para 2027",
+      "summary": "La periodista Dallys Ferreira será la conductora de \"El Camionazo del 13\", una de las grandes apuestas del Trece para 2027. Ferreira expresó su felicidad por el proyecto y adelantó que el programa \"va a estar explosivo\". La nota no trae más detalles sobre el formato ni la fecha de estreno.",
+      "keyPoints": [
+        "Dallys Ferreira conducirá \"El Camionazo del 13\".",
+        "El programa es una de las apuestas del Trece para 2027.",
+        "La conductora expresó su felicidad por la propuesta."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Dallys Ferreira conducirá ‘El Camionazo’: “Va a estar explosivo”",
+          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/10/26/dallys-ferreira-conducira-el-camionazo-va-a-estar-explosivo",
+          "publishedAt": "2026-10-26T21:09:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/DP2OJ4KSYNGPTPEV33JAW5UHZQ.jpg?auth=97b9927d4240c86f76ef444626769bf32190d3228b73327ee2cd8145ae0aadb7&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/DP2OJ4KSYNGPTPEV33JAW5UHZQ.jpg?auth=97b9927d4240c86f76ef444626769bf32190d3228b73327ee2cd8145ae0aadb7&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/espectaculos/farandula/2026/10/26/dallys-ferreira-conducira-el-camionazo-va-a-estar-explosivo"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedSlot": "manana",
+      "score": 4
+    },
+    {
+      "id": "ev-12bwvhv",
+      "title": "Zaguero de Sportivo Ameliano dice que no sancionan por igual",
+      "summary": "Un zaguero de Sportivo Ameliano criticó que los árbitros no sancionan por igual las jugadas. Su reclamo apunta a la falta de uniformidad en las decisiones arbitrales. Es la posición del jugador; las notas no traen respuesta del arbitraje.",
+      "keyPoints": [
+        "El zaguero habla de falta de uniformidad en las sanciones.",
+        "Su crítica se refiere a decisiones arbitrales del partido con Olimpia."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Jugador de Sportivo Ameliano señala disparidad de criterios",
+          "url": "https://elnacional.com.py/deportes/jugador-sportivo-ameliano-senala-disparidad-criterios-n114219",
+          "publishedAt": "2026-10-26T16:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6adf7e181bede.jfif"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T08:07:10.962Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-0lt7g2f",
@@ -2442,72 +2585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.28
-    },
-    {
-      "id": "ev-1ngk5u6",
-      "title": "Dallys Ferreira conducirá \"El Camionazo del 13\" en el canal Trece para 2027",
-      "summary": "La periodista Dallys Ferreira será la conductora de \"El Camionazo del 13\", una de las grandes apuestas del Trece para 2027. Ferreira expresó su felicidad por el proyecto y adelantó que el programa \"va a estar explosivo\". La nota no trae más detalles sobre el formato ni la fecha de estreno.",
-      "keyPoints": [
-        "Dallys Ferreira conducirá \"El Camionazo del 13\".",
-        "El programa es una de las apuestas del Trece para 2027.",
-        "La conductora expresó su felicidad por la propuesta."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Dallys Ferreira conducirá ‘El Camionazo’: “Va a estar explosivo”",
-          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/10/26/dallys-ferreira-conducira-el-camionazo-va-a-estar-explosivo",
-          "publishedAt": "2026-10-26T21:09:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/DP2OJ4KSYNGPTPEV33JAW5UHZQ.jpg?auth=97b9927d4240c86f76ef444626769bf32190d3228b73327ee2cd8145ae0aadb7&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/DP2OJ4KSYNGPTPEV33JAW5UHZQ.jpg?auth=97b9927d4240c86f76ef444626769bf32190d3228b73327ee2cd8145ae0aadb7&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/espectaculos/farandula/2026/10/26/dallys-ferreira-conducira-el-camionazo-va-a-estar-explosivo"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 4.13
-    },
-    {
-      "id": "ev-12bwvhv",
-      "title": "Zaguero de Sportivo Ameliano dice que no sancionan por igual",
-      "summary": "Un zaguero de Sportivo Ameliano criticó que los árbitros no sancionan por igual las jugadas. Su reclamo apunta a la falta de uniformidad en las decisiones arbitrales. Es la posición del jugador; las notas no traen respuesta del arbitraje.",
-      "keyPoints": [
-        "El zaguero habla de falta de uniformidad en las sanciones.",
-        "Su crítica se refiere a decisiones arbitrales del partido con Olimpia."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Jugador de Sportivo Ameliano señala disparidad de criterios",
-          "url": "https://elnacional.com.py/deportes/jugador-sportivo-ameliano-senala-disparidad-criterios-n114219",
-          "publishedAt": "2026-10-26T16:25:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6adf7e181bede.jfif"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 4
+      "score": 3.99
     },
     {
       "id": "ev-0xv1owl",
@@ -2546,7 +2624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.5
+      "score": 3.22
     },
     {
       "id": "ev-07gv1y5",
@@ -2590,7 +2668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.12
+      "score": 2.83
     },
     {
       "id": "ev-0gqq9ge",
@@ -2621,7 +2699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 2.46
+      "score": 2.17
     }
   ],
   "runs": [
@@ -2652,6 +2730,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-27T23:05:03.316Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 16
     }
   ]
 }
