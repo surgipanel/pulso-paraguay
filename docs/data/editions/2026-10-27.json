@@ -1,27 +1,107 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-27T16:07:16.784Z",
+  "generatedAt": "2026-10-27T19:37:13.342Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-07alk6e",
-      "title": "Yolanda Paredes pide la pérdida de investidura de la senadora Zenaida Delgado",
-      "summary": "La senadora Yolanda Paredes presentó un pedido de pérdida de investidura contra su colega Zenaida Delgado, acusada de cobrar supuestos peajes a funcionarias de su equipo en el Senado. Según las denuncias, las funcionarias pagaban parte de sus bonificaciones. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera Santander, a quien también acusa de amenazas. Su hermana, Fátima Delgado, sostuvo que las transferencias fueron préstamos entre particulares. El caso se analizará en el Congreso.",
+      "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
+      "summary": "Fátima Delgado defendió a la legisladora frente a las denuncias de coimas a cambios de nombramientos y lanzó acusaciones contra las senadoras Celeste Amarilla y Lilian Samaniego. También responsabilizó al expareja de su hermana si algo le ocurre a la parlamentaria.",
       "keyPoints": [
-        "La senadora Yolanda Paredes presentó el pedido de pérdida de investidura.",
-        "Las denuncias señalan supuestos cobros a funcionarias de la Cámara de Senadores.",
-        "Zenaida Delgado niega los cobros y denuncia amenazas de su expareja.",
-        "Según fuentes legislativas, referentes del oficialismo habrían pedido que Delgado renuncie a su banca."
+        "Fátima Delgado defendió a la legisladora frente a las denuncias de coimas a cambios de nombramientos y lanzó acusaciones contra las senadoras Celeste Amarilla y Lilian Samaniego.",
+        "Tras las acusaciones en su contra por parte de Fátima Delgado , la senadora colorada disidente Lilian Samaniego anunció una intimación a la hermana de Zenaida Delgado (ANR-HC) por acusaciones de corrupción.",
+        "Fátima Delgado, hermana de la senadora Zenaida Delgado, rompió el silencio tras el anuncio de la pérdida de investidura.",
+        "Gustavo Vera, ex pareja de la senadora Zenaida Delgado, rompió el silencio tras las acusaciones en su contra y afirmó que únicamente prestaba su cuenta bancaria a la legisladora porque ella tenía las suyas \"bloqueadas\"."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Senadores oficializan pedido de pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.ultimahora.com/senadores-oficializan-pedido-de-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T19:19:11.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Plantean la pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.telefuturo.com.py/plantean-la-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T19:15:10.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Bancada oficialista del Senado decidirá mañana su postura sobre expulsión de Delgado",
+          "url": "https://www.adndigital.com.py/bancada-oficialista-del-senado-decidira-manana-su-postura-sobre-expulsion-de-delgado",
+          "publishedAt": "2026-10-27T18:33:23.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/whatsapp-image-2026-03-26-at-142359.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lilian Samaniego amenaza con querella a la hermana de Zenaida por acusarla de ladrona",
+          "url": "https://www.ultimahora.com/lilian-samaniego-amenaza-con-querella-a-la-hermana-de-zenaida-por-acusarla-de-ladrona",
+          "publishedAt": "2026-10-27T18:15:20.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Quiénes firmaron el pedido de expulsión de Zenaida Delgado y qué alega la acusación?",
+          "url": "https://www.abc.com.py/politica/2026/10/27/quienes-firmaron-el-pedido-de-expulsion-de-zenaida-delgado-y-que-alega-la-acusacion",
+          "publishedAt": "2026-10-27T18:08:19.000Z",
+          "image": "https://www.abc.com.py/resizer/0ZYqmXt6h9Nc4haptQ01-isUdqo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GZDUZUZK6VBTJNUXYDVVWDLSWY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lilian Samaniego anuncia intimación a hermana de Zenaida Delgado por acusaciones de corrupción",
+          "url": "https://www.abc.com.py/politica/2026/10/27/lilian-samaniego-anuncia-intimacion-a-hermana-de-zenaida-delgado-por-acusaciones-de-corrupcion",
+          "publishedAt": "2026-10-27T17:59:10.000Z",
+          "image": "https://www.abc.com.py/resizer/tPYz1R6U5YsV5FDgDhp4PKXyd80=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CN3VDJ6EU5CCPJM3ZORYQXBKAY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Bancada oficialista decidirá mañana si apoya expulsión de Zenaida",
+          "url": "https://www.hoy.com.py/politica/2026/10/27/bancada-oficialista-decidira-manana-si-apoya-expulsion-de-zenaida",
+          "publishedAt": "2026-10-27T17:45:27.508Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LH2RFE7RFZG7HHP6S6M6B2IR6A.jpg?auth=69766caa6347a664d5bf9ead32cae8c3ab3ec575168bc56d01735bd136382588&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Zenaida no es “peajera” sino una víctima de su ex pareja, según su hermana",
+          "url": "https://www.adndigital.com.py/zenaida-no-es-peajera-sino-una-victima-de-su-ex-pareja-segun-su-hermana",
+          "publishedAt": "2026-10-27T17:18:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-141811.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Los siete puntos del libelo acusatorio para impulsar la pérdida de investidura de Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272",
+          "publishedAt": "2026-10-27T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
+          "url": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261",
+          "publishedAt": "2026-10-27T16:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -77,6 +157,22 @@
           "url": "https://elnacional.com.py/politica/celeste-amarilla-afirma-denuncias-zenaida-delgado-ya-circulaban-hace-ano-n114247",
           "publishedAt": "2026-10-27T14:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/08/6a7202ded8c02.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Ex pareja de Zenaida Delgado \"prestaba su cuenta\" a legisladora",
+          "url": "https://www.telefuturo.com.py/ex-pareja-de-zenaida-delgado-prestaba-su-cuenta-a-legisladora",
+          "publishedAt": "2026-10-27T13:49:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Expareja de Zenaida Delgado afirma que recibía dinero en su cuenta y se lo entregaba en efectivo",
+          "url": "https://www.npy.com.py/noticias/nacionales/expareja-de-zenaida-delgado-afirma-que-recibia-dinero-en-su-cuenta-y-se-lo-entregaba-en-efectivo",
+          "publishedAt": "2026-10-27T13:40:00.000Z",
+          "image": null
         },
         {
           "sourceId": "abc",
@@ -192,32 +288,72 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg?auth=850131a411a85b5353da7ff57e67cb78261716ef37f3ba7cab4e9c43ecc6aa50&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/27/audio-hermana-de-zenaida-denuncia-amenazas-y-se-despacha-contra-celeste-amarilla-y-lilian-samaniego"
+        "url": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T16:07:16.784Z",
+      "updatedAt": "2026-10-27T19:37:13.342Z",
       "updatedSlot": "tarde",
-      "score": 29.94
+      "score": 29.97
     },
     {
       "id": "ev-0i8vp7h",
-      "title": "Requisan la cárcel de Emboscada tras la fuga de dos internos",
-      "summary": "La Policía y el Ministerio Público realizaron una requisa general en la penitenciaría Martín Mendoza de Emboscada, tras la fuga de dos internos registrada el domingo de madrugada. El Ministerio de Justicia dispuso la intervención del penal. Cuatro guardiacárceles fueron detenidos en la investigación, y la policía detuvo también al director y al jefe de seguridad, presuntamente implicados. La búsqueda de los evadidos continúa.",
+      "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
+      "summary": "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho. También fueron detenidos dos responsables de seguridad. El operativo es encabezado por la Policía y el Ministerio Público.",
       "keyPoints": [
-        "La fuga de dos reclusos ocurrió en la madrugada del domingo.",
-        "La Policía y la fiscal Fabiola Sosa encabezan la requisa en el penal.",
-        "Cuatro guardiacárceles fueron detenidos, según el reporte.",
-        "El director y el jefe de seguridad fueron detenidos presuntamente implicados."
+        "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho.",
+        "El operativo es encabezado por la Policía y el Ministerio Público.",
+        "En la madrugada del sábado Ever Alejandro Ozuna , quien cumplía una condena de 28 años de prisión por hechos de secuestro y es señalado también como presunto sicario, quien operaba en la zona de Capitán…",
+        "Pablo Abel González Apuril fue detenido por disposición fiscal ante indicios de posible complicidad en la fuga de dos internos del penal de máxima seguridad de Emboscada."
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hallan uso de celdas VIP para internos de Emboscada tras fuga",
+          "url": "https://www.abc.com.py/policiales/2026/10/27/hallan-uso-de-celdas-vip-para-internos-de-emboscada-tras-fuga",
+          "publishedAt": "2026-10-27T18:42:18.000Z",
+          "image": "https://www.abc.com.py/resizer/6euw1gjQpSisdd138vfRzHwhxjg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2QN4T2UWFJDVLDSPGM6BJAWNDY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Requisan penal de Emboscada y detienen al director y a dos jefes por fuga de dos reos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos",
+          "publishedAt": "2026-10-27T17:20:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lHUPrPhQ_-G1YeLUJLGZqK76MSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
+          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
+          "publishedAt": "2026-10-27T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
+          "url": "https://www.npy.com.py/noticias/nacionales/detienen-al-exdirector-del-penal-de-emboscada-tras-fuga-de-dos-internos",
+          "publishedAt": "2026-10-27T16:46:38.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Nuevas celdas VIP: descubren lujos en la cárcel “de máxima seguridad” de Emboscada",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/nuevas-celdas-vip-descubren-lujos-dentro-de-la-carcel-de-maxima-seguridad-de-emboscada",
+          "publishedAt": "2026-10-27T16:46:11.701Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg?auth=8759543ff4be2910069ba8bb626765a03a88cb41c5bc41212a14e791b86f5767&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -332,25 +468,25 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg?auth=ed1425f100660b5347b15a10a7fd59b7d0058a04bc84cdabdf41f9e284ee6f07&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/27/detienen-a-director-de-emboscada-y-a-jefe-tras-fuga-de-reclusos"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2QN4T2UWFJDVLDSPGM6BJAWNDY.jpg?auth=e889cce730677a4dbe29ae209c87238e7064117400a10bf72d08678a338d4414&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/policiales/2026/10/27/hallan-uso-de-celdas-vip-para-internos-de-emboscada-tras-fuga"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T16:07:16.784Z",
+      "updatedAt": "2026-10-27T19:37:13.342Z",
       "updatedSlot": "tarde",
-      "score": 26.91
+      "score": 29.92
     },
     {
       "id": "ev-0fq6c2e",
-      "title": "César Sosa se reunió con Mario Abdo en medio de la definición de la dupla de Alliana",
-      "summary": "El gobernador de Guairá, César \"Cesarito\" Sosa, confirmó que mantuvo un encuentro con el expresidente Mario Abdo Benítez, líder del movimiento Colorado Añetete, en pleno proceso de reconfiguración de fuerzas dentro de la Asociación Nacional Republicana (ANR). La reunión se produjo mientras el vicepresidente Pedro Alliana avanza en la selección de su compañero de fórmula para las elecciones presidenciales de 2028.",
+      "title": "Raúl Latorre descarta ir a la disidencia y acompañará la decisión de Alliana",
+      "summary": "El titular de la Cámara de Diputados, Raúl Latorre, manifestó que su respaldo a la candidatura presidencial de Pedro Alliana, seguirá firme en el caso de que llegase a apostar por la figura del ministro de Industria y Comercio, Marco Riquelme, para su compañero de fórmula rumbo a las elecciones internas partidarias de la Asociación Nacional Republicana (ANR), previstas para diciembre del 2027.",
       "keyPoints": [
-        "El gobernador de Guairá, César \"Cesarito\" Sosa, confirmó que mantuvo un encuentro con el expresidente Mario Abdo Benítez, líder del movimiento Colorado Añetete, en pleno proceso de reconfiguración de fuerzas dentro de la Asociación Nacional Republicana…",
-        "El gobernador del Guairá, César Sosa, cree que la encuesta para la dupla de Alliana no es definitoria, sino apenas uno de los factores.",
+        "El titular de la Cámara de Diputados, Raúl Latorre, manifestó que su respaldo a la candidatura presidencial de Pedro Alliana, seguirá firme en el caso de que llegase a apostar por la figura del ministro de…",
+        "La aparente elección del ministro de Industria, Marco Riquelme , como dupla presidencial de Pedro Alliana para el 2028, el presidente de la Cámara de Diputados y aspirante a vice presidencia, Raúl Latorre (ANR, peñista), no…",
         "Marco Riquelme gozaría de la “bendición” del presidente de la República, Santiago Peña.",
-        "El vicepresidente de la República afirmó que necesita un compañero de fórmula que complemente su perfil político y le permita llegar a otros sectores del electorado."
+        "El vicepresidente analiza posibles candidatos para acompañarlo en las elecciones generales de 2028 y apuesta por una figura técnica y urbana que complemente su trayectoria política."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -358,6 +494,30 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "La dupla presidencial para Pedro Alliana",
+          "url": "https://www.telefuturo.com.py/la-dupla-presidencial-para-pedro-alliana",
+          "publishedAt": "2026-10-27T19:03:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Raúl Latorre insiste en que acatará decisión de Alliana y afirma no estar negociando con Añeteté",
+          "url": "https://www.abc.com.py/politica/2026/10/27/raul-latorre-insiste-que-acatara-decision-de-alliana-y-afirma-no-estar-negociando-con-anetete",
+          "publishedAt": "2026-10-27T17:53:38.000Z",
+          "image": "https://www.abc.com.py/resizer/k8WjoEWSrCkwCNxgIHQxsFIrpEs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RAIMZGFGSRB3DN7QDI57SGPUDQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Raúl Latorre descarta ir a la disidencia y acompañará la decisión de Alliana",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/raul-latorre-descarta-ir-a-la-disidencia-y-acompanara-la-decision-de-alliana",
+          "publishedAt": "2026-10-27T13:52:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0KnDJw1AK2oozl15oaizrqBAVLE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5IDCYWPDAND5HJ7LTFYSW3URHY.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -448,15 +608,131 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/09/6ab6dc707b3b8.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/cesar-sosa-reunio-mario-abdo-medio-definicion-dupla-alliana-n114235"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5IDCYWPDAND5HJ7LTFYSW3URHY.jpg?auth=684b030fd0cbaa5d52bc8b3ee634f4afac33547f05824d46412f0ec652c9f6c3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/27/raul-latorre-descarta-ir-a-la-disidencia-y-acompanara-la-decision-de-alliana"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T12:07:14.389Z",
-      "updatedSlot": "manana",
-      "score": 20.6
+      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedSlot": "tarde",
+      "score": 23.95
+    },
+    {
+      "id": "ev-1dkgd84",
+      "title": "Argentina dice que Flávio Bolsonaro no pidió asilo",
+      "summary": "Estas han sido las primeras palabras del Gobierno de Javier Milei tras la victoria el domingo de Lula da Silva en unas elecciones que han marcado historia en Brasil y después de que el presidente argentino se inmiscuyera en la campaña a favor de Bolsonaro e insultara de manera repetida al líder progresista brasileño.",
+      "keyPoints": [
+        "Estas han sido las primeras palabras del Gobierno de Javier Milei tras la victoria el domingo de Lula da Silva en unas elecciones que han marcado historia en Brasil y después de que el presidente argentino…",
+        "Los pasaportes de Flávio Bolsonaro fueron cancelados después de que no los entregara como le había ordenado la justicia, indicó el martes una fuente policial a la AFP, mientras en Brasil surgen interrogantes sobre su paradero.",
+        "La anulación de sus pasaportes -incluido el diplomático- se produce en medio de las especulaciones sobre una posible fuga del hijo mayor del exmandatario Jair Bolsonaro a través de Argentina, según la prensa brasileña.",
+        "El excandidato presidencial Flávio Bolsonaro decidió huir de Brasil, luego de perder la segunda vuelta de las elecciones presidenciales contra Lula da Silva."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Tras perder balotaje, Flávio Bolsonaro huyó de Brasil y buscará asilo en EEUU",
+          "url": "https://www.hoy.com.py/mundo/2026/10/27/tras-perder-balotaje-flavio-bolsonaro-huyo-de-brasil-y-buscara-asilo-en-eeuu",
+          "publishedAt": "2026-10-27T19:03:10.892Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XYZOK35TERFKRFCBIQ3327465Q.jpg?auth=bb4345beb618bb726b7ddb0409e54300470d341b8a9232610a51230e7e26c4c6&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Versiones apuntan a que Flávio Bolsonaro fue a EE.UU. en busca de asilo político",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/versiones-apuntan-a-que-flavio-bolsonaro-fue-a-eeuu-en-busca-de-asilo-politico",
+          "publishedAt": "2026-10-27T18:58:46.000Z",
+          "image": "https://www.abc.com.py/resizer/m68bH4TkTN6UzLcFAdIcT4UQXaw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EKRKMR7ESVET3FGCH77EUHBPZM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil cancela los pasaportes de Flávio Bolsonaro en medio de interrogantes sobre su paradero",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-en-medio-de-interrogantes-sobre-su-paradero",
+          "publishedAt": "2026-10-27T18:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BLaAYVMfrYa90xtiYRryR_21An8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HL4PYO5CCBENVK7IJWUGVLKEYY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Argentina dice que Flávio Bolsonaro no pidió asilo",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/argentina-dice-que-flavio-bolsonaro-no-pidio-asilo-2",
+          "publishedAt": "2026-10-27T18:19:42.000Z",
+          "image": "https://www.abc.com.py/resizer/Xb8lvfVZ4U7L8EBElJKpx2mO72c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LXHKTL5HVRCBJPK3FB3UHMETXQ.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "La Justicia de Brasil le prohibió salir del país a Flavio Bolsonaro por una investigación de blanqueo de capitales",
+          "url": "https://www.adndigital.com.py/la-justicia-de-brasil-le-prohibio-salir-del-pais-a-flavio-bolsonaro-por-una-investigacion-de-blanqueo-de-capitales",
+          "publishedAt": "2026-10-27T17:55:30.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/whatsapp-image-2025-12-08-at-150823.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Policía brasileña cancela los pasaportes de Flávio Bolsonaro tras no entregarlos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/la-policia-brasilena-cancela-los-pasaportes-de-flavio-bolsonaro-tras-no-entregarlos",
+          "publishedAt": "2026-10-27T17:20:08.000Z",
+          "image": "https://www.abc.com.py/resizer/KBJARoei9_QNnKXVlQzVfOVhmcU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QSYLD42RSZBRNLNDMSDQW23CSY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Eduardo Bolsonaro niega que su hermano Flávio se haya fugado de Brasil tras su derrota",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/eduardo-bolsonaro-niega-que-su-hermano-flavio-se-haya-fugado-de-brasil-tras-su-derrota",
+          "publishedAt": "2026-10-27T16:05:08.000Z",
+          "image": "https://www.abc.com.py/resizer/WVwjgi7ZSH_6UGnWcHaKLOxBBQM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ITJQDUQQDJFH5CMA5BMVHL4H5A.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El partido de Bolsonaro reconoce la victoria de Lula",
+          "url": "https://elnacional.com.py/mundo/el-partido-bolsonaro-reconoce-victoria-lula-n114240",
+          "publishedAt": "2026-10-27T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Partido Liberal reconoce triunfo de Lula mientras Flávio Bolsonaro denuncia restricciones",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/partido-liberal-reconoce-triunfo-de-lula-mientras-flavio-bolsonaro-denuncia-restricciones",
+          "publishedAt": "2026-10-27T10:35:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lSzktl2avnWogzcqzYk0b3yLE20=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PK43VD2P3REFBJG6BX4USY3ARA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Justicia brasileña impide a Flávio Bolsonaro abandonar el país tras derrota electoral",
+          "url": "https://elnacional.com.py/mundo/justicia-brasilena-impide-flavio-bolsonaro-abandonar-pais-tras-derrota-electoral-n114225",
+          "publishedAt": "2026-10-26T20:57:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac2e14b20800.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro afirma que liderará la oposición al gobierno de Lula",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/26/flavio-bolsonaro-afirma-que-liderara-la-oposicion-al-gobierno-de-lula",
+          "publishedAt": "2026-10-26T20:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AAo3olv4oDZaOPxHBAVh48xWAA8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PXWOH3GF5FB2XOSG5XALUMUO7I.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LXHKTL5HVRCBJPK3FB3UHMETXQ.jpg?auth=dbb6526a091747e0142e5f64b6d5cd707682556c5816eae99871b8da7b78c7a8&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/27/argentina-dice-que-flavio-bolsonaro-no-pidio-asilo-2"
+      },
+      "firstSeenAt": "2026-10-27T08:07:10.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-27T19:37:13.342Z",
+      "updatedSlot": "tarde",
+      "score": 18.45
     },
     {
       "id": "ev-0uq2key",
@@ -564,7 +840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.61
+      "score": 17.32
     },
     {
       "id": "ev-1vikgtt",
@@ -632,7 +908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.57
+      "score": 17.28
     },
     {
       "id": "ev-1mbks70",
@@ -692,7 +968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T16:07:16.784Z",
       "updatedSlot": "tarde",
-      "score": 15.2
+      "score": 14.91
     },
     {
       "id": "ev-19r6cmi",
@@ -752,7 +1028,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 14.05
+      "score": 13.76
     },
     {
       "id": "ev-1slc3ej",
@@ -804,7 +1080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 12.25
+      "score": 12
     },
     {
       "id": "ev-0p228iu",
@@ -848,7 +1124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.8
     },
     {
       "id": "ev-0n4wvps",
@@ -892,7 +1168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.7
     },
     {
       "id": "ev-0m44r25",
@@ -935,7 +1211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-1bk2c3m",
@@ -978,7 +1254,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.35
     },
     {
       "id": "ev-1gofppa",
@@ -1021,7 +1297,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.55
+      "score": 8.26
     },
     {
       "id": "ev-0ayar9m",
@@ -1064,7 +1340,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.21
     },
     {
       "id": "ev-1ctcp2o",
@@ -1107,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.38
+      "score": 8.09
     },
     {
       "id": "ev-1ncw75v",
@@ -1151,7 +1427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.18
+      "score": 5.89
     },
     {
       "id": "ev-0rugw54",
@@ -1195,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.1
+      "score": 5.81
     },
     {
       "id": "ev-0duqb3n",
@@ -1239,7 +1515,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.06
+      "score": 5.77
     },
     {
       "id": "ev-0ldc1sy",
@@ -1283,7 +1559,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 6.06
+      "score": 5.76
     },
     {
       "id": "ev-14kva4n",
@@ -1327,7 +1603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-0j01ntm",
@@ -1371,7 +1647,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-06ftyzn",
@@ -1415,50 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
-    },
-    {
-      "id": "ev-1dkgd84",
-      "title": "Flávio Bolsonaro confirma orden judicial que le impide salir de Brasil",
-      "summary": "El senador Flávio Bolsonaro confirmó que el Supremo Tribunal Federal le ordenó no salir de Brasil y entregar sus pasaportes. La medida llegó un día después de que perdiera la segunda vuelta presidencial frente a Luiz Inácio Lula da Silva.",
-      "keyPoints": [
-        "El STF prohibió a Flávio Bolsonaro salir de Brasil.",
-        "Debe entregar sus pasaportes a las autoridades.",
-        "La orden llegó un día después de la segunda vuelta."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Justicia brasileña impide a Flávio Bolsonaro abandonar el país tras derrota electoral",
-          "url": "https://elnacional.com.py/mundo/justicia-brasilena-impide-flavio-bolsonaro-abandonar-pais-tras-derrota-electoral-n114225",
-          "publishedAt": "2026-10-26T20:57:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac2e14b20800.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Flávio Bolsonaro afirma que liderará la oposición al gobierno de Lula",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/26/flavio-bolsonaro-afirma-que-liderara-la-oposicion-al-gobierno-de-lula",
-          "publishedAt": "2026-10-26T20:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AAo3olv4oDZaOPxHBAVh48xWAA8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PXWOH3GF5FB2XOSG5XALUMUO7I.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ac2e14b20800.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/justicia-brasilena-impide-flavio-bolsonaro-abandonar-pais-tras-derrota-electoral-n114225"
-      },
-      "firstSeenAt": "2026-10-27T08:07:10.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-27T08:07:10.962Z",
-      "updatedSlot": "manana",
-      "score": 5.9
+      "score": 5.62
     },
     {
       "id": "ev-0crjp6u",
@@ -1501,7 +1734,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.19
     },
     {
       "id": "ev-1ynouiw",
@@ -1531,7 +1764,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-06lduq5",
@@ -1561,7 +1794,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ahco50",
@@ -1592,7 +1825,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-093l6cd",
@@ -1621,7 +1854,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1w8n2vb",
@@ -1650,7 +1883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1jsagn1",
@@ -1682,7 +1915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-06j0k1j",
@@ -1711,7 +1944,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0lnu9wk",
@@ -1744,7 +1977,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.12
+      "score": 4.83
     },
     {
       "id": "ev-15z0wx7",
@@ -1779,7 +2012,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.76
     },
     {
       "id": "ev-19b2blz",
@@ -1813,7 +2046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1xl7v27",
@@ -1848,7 +2081,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0cjctzh",
@@ -1883,7 +2116,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0ewy266",
@@ -1918,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1qnthkb",
@@ -1954,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0t7kqyk",
@@ -1985,7 +2218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0ng90j6",
@@ -2020,7 +2253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1fhjnhf",
@@ -2055,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1h0g79k",
@@ -2091,7 +2324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.5
     },
     {
       "id": "ev-04l858b",
@@ -2125,7 +2358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.32
     },
     {
       "id": "ev-0n5hwg3",
@@ -2161,7 +2394,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.29
     },
     {
       "id": "ev-0lt7g2f",
@@ -2209,7 +2442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.28
     },
     {
       "id": "ev-1ngk5u6",
@@ -2244,7 +2477,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.13
     },
     {
       "id": "ev-12bwvhv",
@@ -2274,7 +2507,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.02
+      "score": 4
     },
     {
       "id": "ev-0xv1owl",
@@ -2313,7 +2546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.8
+      "score": 3.5
     },
     {
       "id": "ev-07gv1y5",
@@ -2357,7 +2590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-0gqq9ge",
@@ -2388,7 +2621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 2.75
+      "score": 2.46
     }
   ],
   "runs": [
@@ -2411,6 +2644,13 @@
       "at": "2026-10-27T16:07:16.784Z",
       "added": 0,
       "updated": 3,
+      "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-27T19:37:13.342Z",
+      "added": 0,
+      "updated": 5,
       "candidates": 12
     }
   ]
