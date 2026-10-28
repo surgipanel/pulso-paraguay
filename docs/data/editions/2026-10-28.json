@@ -1,0 +1,2196 @@
+{
+  "date": "2026-10-28",
+  "timezone": "America/Asuncion",
+  "generatedAt": "2026-10-28T08:07:14.815Z",
+  "aiMode": "mixto",
+  "model": null,
+  "maxEvents": 50,
+  "events": [
+    {
+      "id": "ev-1on1lzq",
+      "title": "Fiscalía detiene al exdirector y a dos jefes por la fuga de dos reos en Emboscada",
+      "summary": "La Policía y la Fiscalía allanaron el penal Martín Mendoza, de Emboscada, tras la fuga de dos internos de alta peligrosidad. Fueron detenidos el exdirector Pablo Abel González Apuril y dos jefes de seguridad, sospechados de complicidad. El Ministerio de Justicia intervino la penitenciaría y verificó las condiciones de los internos. El interventor Gustavo Ferriol negó que hubiera celdas VIP, aunque reconoció diferencias entre reclusos. La investigación sigue abierta.",
+      "keyPoints": [
+        "La Policía y la Fiscalía allanaron el penal Martín Mendoza el martes.",
+        "Fueron detenidos el exdirector Pablo Abel González Apuril y dos jefes de seguridad.",
+        "El exdirector negó tener responsabilidad en la fuga, según su defensa en las notas.",
+        "El interventor Gustavo Ferriol negó haber encontrado celdas VIP en el penal."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Requisan penal de Emboscada y detienen al director y a dos jefes por fuga de dos reos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos",
+          "publishedAt": "2026-10-27T17:20:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lHUPrPhQ_-G1YeLUJLGZqK76MSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
+          "publishedAt": "2026-10-28T00:51:14.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
+          "url": "https://www.npy.com.py/noticias/nacionales/detienen-al-exdirector-del-penal-de-emboscada-tras-fuga-de-dos-internos",
+          "publishedAt": "2026-10-27T16:46:38.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Investigan \"liberación de presos\" en el penal Martín Mendoza",
+          "url": "https://www.telefuturo.com.py/investigan-liberacion-de-presos-en-el-penal-martin-mendoza",
+          "publishedAt": "2026-10-27T13:53:39.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
+          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-27T22:00:58.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Emboscada: requisa y detención del director",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/28/emboscada-requisa-y-detencion-del-director",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j4FrphRi5_jgU6327OKj5mVxZoE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BNJM4MHMPZDX7EL73NMOA3YSCE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
+          "publishedAt": "2026-10-27T19:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
+          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
+          "publishedAt": "2026-10-27T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
+          "publishedAt": "2026-10-27T23:05:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg?auth=8759543ff4be2910069ba8bb626765a03a88cb41c5bc41212a14e791b86f5767&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 26.58
+    },
+    {
+      "id": "ev-15bmxnn",
+      "title": "Yolanda Paredes impulsa pérdida de investidura de Zenaida Delgado por presuntos cobros",
+      "summary": "La senadora Yolanda Paredes presentó un libelo acusatorio para pedir la pérdida de investidura de Zenaida Delgado. Lo acusa de presuntos cobros a funcionarios a cambio de nombramientos, según Paredes. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera. Vera afirmó que recibía transferencias en su cuenta y que le entregaba el dinero a la senadora. El oficialismo analiza el caso y aún no tiene postura definida.",
+      "keyPoints": [
+        "Yolanda Paredes presentó un libelo acusatorio contra Zenaida Delgado.",
+        "Según Paredes, hay testimonios, mensajes y referencias a transferencias bancarias.",
+        "Zenaida Delgado niega los cobros y responsabiliza a su expareja.",
+        "El senador Natalicio Chase dijo que la bancada oficialista analiza la situación."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Definen hoy en Senado el futuro de Delgado",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/definen-hoy-en-senado-el-futuro-de-delgado",
+          "publishedAt": "2026-10-28T03:02:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/d0z9sDOQ2antgWlZnVL2-eEkuq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JWDZJFES5JGONK6TEAVCU3JAIQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tras acusarla de corrupta, la hermana de Zenaida se echa atrás ante Lilian Samaniego",
+          "url": "https://www.abc.com.py/politica/2026/10/27/tras-acusarla-de-corrupta-la-hermana-de-zenaida-se-echa-atras-ante-lilian-samaniego",
+          "publishedAt": "2026-10-28T01:40:33.000Z",
+          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bancada oficialista definirá mañana el futuro de Zenaida Delgado",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/bancada-oficialista-definira-manana-el-futuro-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T20:47:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7XHRCN38TRMDZpDytDjtCtVjR2g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AUY5DKTHJFSXPS42CKNC5RW74.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Plantean la pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.telefuturo.com.py/plantean-la-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T19:15:10.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Los siete puntos del libelo acusatorio para impulsar la pérdida de investidura de Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272",
+          "publishedAt": "2026-10-27T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
+          "url": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261",
+          "publishedAt": "2026-10-27T16:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Celeste Amarilla afirma que las denuncias contra Zenaida Delgado ya circulaban hace un año",
+          "url": "https://elnacional.com.py/politica/celeste-amarilla-afirma-denuncias-zenaida-delgado-ya-circulaban-hace-ano-n114247",
+          "publishedAt": "2026-10-27T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a7202ded8c02.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Ex pareja de Zenaida Delgado \"prestaba su cuenta\" a legisladora",
+          "url": "https://www.telefuturo.com.py/ex-pareja-de-zenaida-delgado-prestaba-su-cuenta-a-legisladora",
+          "publishedAt": "2026-10-27T13:49:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Expareja de Zenaida Delgado afirma que recibía dinero en su cuenta y se lo entregaba en efectivo",
+          "url": "https://www.npy.com.py/noticias/nacionales/expareja-de-zenaida-delgado-afirma-que-recibia-dinero-en-su-cuenta-y-se-lo-entregaba-en-efectivo",
+          "publishedAt": "2026-10-27T13:40:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Zenaida Delgado niega los cobros de “peajes” y responsabiliza a su expareja",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-niega-los-cobros-de-peajes-y-responsabiliza-a-su-expareja",
+          "publishedAt": "2026-10-27T11:42:00.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JWDZJFES5JGONK6TEAVCU3JAIQ.jpg?auth=879217de9a17257d894bdd22bd48294255ca168ae9c73fdf2806777d3cda69bf&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/definen-hoy-en-senado-el-futuro-de-delgado"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 20.58
+    },
+    {
+      "id": "ev-0y35zcb",
+      "title": "Flávio Bolsonaro sale de Brasil pese a orden judicial, según medios",
+      "summary": "Flávio Bolsonaro, derrotado por Lula en el balotaje, habría salido de Brasil pese a una orden del Supremo Tribunal Federal que le impedía viajar. Medios estadounidenses lo reportan citando fuentes oficiales anónimas, y su entorno confirmó a EFE que ya está en Estados Unidos con su familia. Las autoridades argentinas desmintieron que haya cruzado por su territorio. Brasil canceló sus pasaportes y diputados del PT pidieron su prisión preventiva.",
+      "keyPoints": [
+        "Flávio Bolsonaro fue derrotado por Lula en la segunda vuelta presidencial.",
+        "Brasil canceló los pasaportes de Flávio Bolsonaro, según una fuente policial a la AFP.",
+        "Las autoridades argentinas desmintieron que haya ingresado a su territorio.",
+        "Diputados del PT pidieron su prisión preventiva."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro huye a EE.UU. con su familia y Lula califica la salida de \"vergonzosa\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/flavio-bolsonaro-huye-a-eeuu-con-su-familia-y-lula-califica-la-salida-de-vergonzosa",
+          "publishedAt": "2026-10-28T00:55:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Flávio Bolsonaro aterriza en EEUU, según medios",
+          "url": "https://www.hoy.com.py/mundo/2026/10/27/flavio-bolsonaro-aterriza-en-eeuu-segun-medios",
+          "publishedAt": "2026-10-28T00:52:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PK43VD2P3REFBJG6BX4USY3ARA.jpg?auth=e099d4c84914a9b062c7efc2c23909923c1696fb14a100274c083617bbcdaadc&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro huyó a EE. UU. tras derrota electoral en Brasil, según medios",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/flavio-bolsonaro-huyo-a-ee-uu-tras-derrota-electoral-en-brasil-segun-medios",
+          "publishedAt": "2026-10-27T21:47:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_bm_OxryHFc3DBQXvD4bLrEsyQM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CYG43VQMSNF43OWG5WRRYOI6BM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Autoridades argentinas desmienten el ingreso del senador Bolsonaro a su territorio",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/autoridades-argentinas-desmienten-el-ingreso-del-senador-bolsonaro-a-su-territorio",
+          "publishedAt": "2026-10-27T20:12:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/oOkz7Wi8PsWpoYNh42myqcD5GDw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QRCI5ETZB5EE3BZNGZ4DQJEBEM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Diputados del partido de Lula pidieron una alerta roja de Interpol para Flávio Bolsonaro",
+          "url": "https://www.adndigital.com.py/diputados-del-partido-de-lula-pidieron-una-alerta-roja-de-interpol-para-flavio-bolsonaro",
+          "publishedAt": "2026-10-27T20:00:46.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-165945.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral y una orden judicial",
+          "url": "https://elnacional.com.py/mundo/flavio-bolsonaro-huye-estados-unidos-tras-su-derrota-electoral-una-orden-judicial-n114280",
+          "publishedAt": "2026-10-27T19:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil cancela los pasaportes de Flávio Bolsonaro en medio de interrogantes sobre su paradero",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/27/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-en-medio-de-interrogantes-sobre-su-paradero",
+          "publishedAt": "2026-10-27T18:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BLaAYVMfrYa90xtiYRryR_21An8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HL4PYO5CCBENVK7IJWUGVLKEYY.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Afirman que Flávio Bolsonaro habría viajado a EE. UU. vía Argentina",
+          "url": "https://elnacional.com.py/mundo/afirman-flavio-bolsonaro-habria-viajado-ee-uu-via-argentina-n114254",
+          "publishedAt": "2026-10-27T13:46:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/11/6925cc63a8c1a.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/PK43VD2P3REFBJG6BX4USY3ARA.jpg?auth=e099d4c84914a9b062c7efc2c23909923c1696fb14a100274c083617bbcdaadc&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/mundo/2026/10/27/flavio-bolsonaro-aterriza-en-eeuu-segun-medios"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 17.9
+    },
+    {
+      "id": "ev-1l7bw79",
+      "title": "Imputan a adolescente por herir a compañera en colegio de Sajonia",
+      "summary": "La Fiscalía imputó a una adolescente de 16 años por lesión grave en grado de tentativa. Según las notas, la estudiante hirió con un arma blanca a una compañera de 15 años durante una pelea en un colegio de Sajonia, Asunción. La víctima está fuera de peligro y ya recibió el alta médica. El caso quedó a disposición de las autoridades competentes.",
+      "keyPoints": [
+        "La Fiscalía imputó a una adolescente de 16 años.",
+        "La víctima, de 15 años, recibió heridas superficiales.",
+        "La víctima ya recibió el alta médica."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Violencia escolar en Asunción: imputan a adolescente que apuñaló a su compañera",
+          "url": "https://www.lanacion.com.py/judiciales/2026/10/27/violencia-escolar-en-asuncion-imputan-a-adolescente-que-apunalo-a-su-companera",
+          "publishedAt": "2026-10-27T23:10:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3WWqxzlCDGFEsC_aMhp2e7psBrI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3F347B6HYJGEJLE3GOZXTFTUVU.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Imputan a adolescente por apuñalar a compañera en colegio de Sajonia",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/imputan-a-adolescente-por-apunalar-a-companera-en-colegio-de-sajonia",
+          "publishedAt": "2026-10-27T21:25:25.060Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/FD6OTERVANB5BMDNTHXVR2WKXQ.jpeg?auth=40cf892714fa4c92c17da8ebd08c70f1a9be7b6ec8b68e5bfece314b724df40f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alumna de 15 años apuñaló a una compañera en un colegio de Sajonia",
+          "url": "https://elnacional.com.py/nacionales/alumna-15-anos-apunalo-una-companera-colegio-sajonia-n114239",
+          "publishedAt": "2026-10-27T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae07fb34a9e5.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Alumna de 16 años hirió con un cuchillo a una compañera en un colegio de Asunción",
+          "url": "https://www.npy.com.py/noticias/nacionales/alumna-de-16-anos-hirio-con-un-cuchillo-a-una-companera-en-un-colegio-de-asuncion",
+          "publishedAt": "2026-10-27T10:37:00.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3F347B6HYJGEJLE3GOZXTFTUVU.png?auth=3567e61154a5715e3b82fd20b0e8963efe59bbc3645cf4b387faa2f94677c198&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/10/27/violencia-escolar-en-asuncion-imputan-a-adolescente-que-apunalo-a-su-companera"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 17.25
+    },
+    {
+      "id": "ev-0435o0h",
+      "title": "Aneaes envía a la Fiscalía informe sobre títulos sin acreditación vigente",
+      "summary": "La Aneaes remitió al Ministerio Público un informe sobre 138.256 títulos de grado registrados entre 2023 y octubre de 2026. Según el organismo, más de la mitad correspondía a carreras sin acreditación vigente. El documento pide analizar si corresponde abrir una investigación, con prioridad en las carreras de salud. La agencia no afirma irregularidades comprobadas.",
+      "keyPoints": [
+        "El informe abarca 138.256 títulos de grado registrados entre 2023 y octubre de 2026.",
+        "Más de la mitad correspondía a carreras sin acreditación vigente.",
+        "La Aneaes pide analizar una investigación, con prioridad en salud."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Aneaes envía a la Fiscalía su informe",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/aneaes-envia-a-la-fiscalia-su-informe",
+          "publishedAt": "2026-10-28T03:20:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/smaqbDEXZKxGxYHAmCD5SH7RvCc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MPEI5RQPWJFNRJVEWAXH7X2YYE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Aneaes remite al Ministerio Público informe sobre títulos sin acreditación vigente",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/aneaes-remite-al-ministerio-publico-informe-sobre-titulos-sin-acreditacion-vigente",
+          "publishedAt": "2026-10-27T22:06:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ER3OzwQpwj8x6yFvMAXACnJxxzY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZYWR2T2UQNG5JFSIYNRUC3WPQA.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Aneaes pide investigar más de 138.000 títulos universitarios",
+          "url": "https://www.adndigital.com.py/aneaes-pide-investigar-mas-de-138-000-titulos-universitarios",
+          "publishedAt": "2026-10-27T20:22:40.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/whatsapp-image-2025-11-20-at-174921.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "ANEAES remite informe sobre títulos universitarios a Fiscalía en busca de irregularidades",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/aneaes-remite-informe-sobre-titulos-universitarios-al-ministerio-publico-en-busca-de-irregularidades",
+          "publishedAt": "2026-10-27T19:42:30.872Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CVFLKQWCOFDVXLPHHBJCJTYWAI.jpg?auth=7d6d7499f56bed7f608b6072071aa502208fde634db5369118352f19ae7d3630&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MPEI5RQPWJFNRJVEWAXH7X2YYE.jpg?auth=adaf76206f1ca71e3d25f7d097d3814f3cc798775f50a0848ca26ceaeaae6201&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/aneaes-envia-a-la-fiscalia-su-informe"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 14.6
+    },
+    {
+      "id": "ev-153sh1k",
+      "title": "Alertan por robos de cuentas de WhatsApp mediante el buzón de voz",
+      "summary": "Se reportaron robos de cuentas de WhatsApp en Paraguay. La modalidad consiste en llamar al buzón de voz de la víctima para obtener el código de verificación. El especialista Miguel Ángel Gaspar advirtió sobre suplantación de identidad, engaños y el uso de aplicaciones paralelas. Los reportes afectan especialmente a cuentas comerciales.",
+      "keyPoints": [
+        "Se reportaron robos de cuentas de WhatsApp en los últimos días.",
+        "La modalidad usa el buzón de voz para acceder al código de verificación.",
+        "Los reportes afectan especialmente a cuentas comerciales."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alerta del Mitic: roban tu WhatsApp usando el buzón de voz",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/alerta-del-mitic-roban-tu-whatsapp-usando-el-buzon-de-voz",
+          "publishedAt": "2026-10-27T21:13:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/94MgXRn1p7_8IDNua32MlkgUlWo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LQDC3LQWHBFRFEYUTNFXRUMGV4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alertan sobre masivo robo de cuentas de WhatsApp vía “buzón de voz”: en qué consiste",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/alertan-sobre-masivo-robo-de-cuentas-de-whatsapp-via-buzon-de-voz-en-que-consiste",
+          "publishedAt": "2026-10-27T20:52:59.978Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BMNZWIP3AZCU7BSNBF2HXDDCKA.jpg?auth=8db2c6d6f02e6c59c90458892623dd3a21297c918e407355606d5b8a9d1d8760&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Advierten sobre intentos masivos de robo de cuentas de WhatsApp",
+          "url": "https://elnacional.com.py/nacionales/advierten-sobre-intentos-masivos-robo-cuentas-whatsapp-n114264",
+          "publishedAt": "2026-10-27T16:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/04/cf6bdf05f7b1acdc49455f8a2171901e.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LQDC3LQWHBFRFEYUTNFXRUMGV4.jpg?auth=0d54a5421dd0253c634e1603300c339fbfba533500ed51f9b8718ad23edc65e6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/alerta-del-mitic-roban-tu-whatsapp-usando-el-buzon-de-voz"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 13.09
+    },
+    {
+      "id": "ev-0uyjd82",
+      "title": "Comfar inaugura en Mariano Roque Alonso una planta farmacéutica de USD 28 millones",
+      "summary": "La empresa Comfar inauguró una nueva planta farmacéutica en Mariano Roque Alonso, de 16.000 metros cuadrados. La obra forma parte de un programa de inversión de hasta USD 28 millones, financiado con una emisión de bonos que se colocó en 24 horas. La planta suma nuevas líneas de productos a la industria farmacéutica nacional.",
+      "keyPoints": [
+        "La planta tiene 16.000 m² y está en Mariano Roque Alonso.",
+        "El programa de inversión alcanza hasta USD 28 millones.",
+        "La emisión de bonos se colocó íntegramente en 24 horas.",
+        "La planta incorpora nuevas líneas de productos."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Comfar amplía su capacidad productiva para competir en la región",
+          "url": "https://www.lanacion.com.py/foco/negocios-foco/2026/10/28/comfar-amplia-su-capacidad-productiva-para-competir-en-la-region",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Lww_zZyYQ6ZEy-HscSnWS8Ibcro=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZY7I3XUJLFFG7L3MWQ5HDMZB34.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Inauguran nueva planta farmacéutica, con inversión proyectada de USD 28 millones",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/inauguran-nueva-planta-farmaceutica-con-inversion-proyectada-de-usd-28-millones",
+          "publishedAt": "2026-10-27T18:35:32.474Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/4K3D6VLP3FCELIQ6JAC6OKA5BI.jpeg?auth=c7caf2164b775fc6ff3e1ef80f67b4b58cccd88e71b9c8cd518c1b3ae125ec3d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Industria farmacéutica amplia su capacidad productiva",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/industria-farmaceutica-amplia-su-capacidad-productiva",
+          "publishedAt": "2026-10-27T18:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BRP9tzE1IamgsiROdQsMQf32pHQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WHIUOWYORBF4ZIKBV7FY4GHCFA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ZY7I3XUJLFFG7L3MWQ5HDMZB34.jpg?auth=04a06e470483e967542820ef128d99d233f37194c1aca75ab387a463571fe397&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/foco/negocios-foco/2026/10/28/comfar-amplia-su-capacidad-productiva-para-competir-en-la-region"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 10.58
+    },
+    {
+      "id": "ev-1lzhw54",
+      "title": "Camilo Benítez juró para su segundo periodo al frente de la Contraloría",
+      "summary": "El contralor Camilo Benítez y el subcontralor Armindo Torres juraron ante la Cámara de Diputados para el periodo 2026-2031. La ceremonia fue tomada por el presidente de Diputados, Raúl Latorre. Benítez inicia así su segundo mandato al frente del organismo de control de los recursos públicos.",
+      "keyPoints": [
+        "Camilo Benítez inicia su segundo periodo como contralor.",
+        "Armindo Torres juró como subcontralor.",
+        "El periodo va de 2026 a 2031.",
+        "Raúl Latorre tomó el juramento en sesión ordinaria."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Contralor juró su segundo periodo",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/contralor-juro-su-segundo-periodo",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pI2uu0EHe17bUrv4zmDY8pOQl0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RQPKCDWPMFD4PPJDPXOO2CZ2SA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Reelección: Camilo Benítez inicia segundo mandato al frente de la Contraloría",
+          "url": "https://elnacional.com.py/politica/reeleccion-camilo-benitez-inicia-segundo-mandato-frente-contraloria-n114262",
+          "publishedAt": "2026-10-27T18:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0b29713f8c.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Camilo Benítez juró para su segundo periodo en la Contraloría",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/camilo-benitez-juro-para-su-segundo-periodo-en-la-contraloria",
+          "publishedAt": "2026-10-27T17:38:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xjSDUa0fzQQB_GRMF2rMJjhz9P4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJXOXAP3EJD2BK6NAIJ3PUK4D4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RQPKCDWPMFD4PPJDPXOO2CZ2SA.jpg?auth=5ac3b73d29c37a113f25c32deae4accf773bb5e81b520a1f3cb9d6770f3ba140&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/contralor-juro-su-segundo-periodo"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 10.58
+    },
+    {
+      "id": "ev-0d3orv9",
+      "title": "Puente de la Integración tendrá nuevos requisitos para vehículos livianos desde el 3 de noviembre",
+      "summary": "Desde el 3 de noviembre rige una nueva regla para el paso de vehículos livianos por el Puente de la Integración. La medida fue acordada en la Comisión Mixta Paraguay-Brasil y el procedimiento quedará reservado a residentes de Presidente Franco, Ciudad del Este, Hernandarias y Foz de Iguazú. Los requisitos dependerán de la nacionalidad y del lugar de residencia.",
+      "keyPoints": [
+        "La comisión mixta acordó los cambios el 20 de octubre.",
+        "Los nuevos requisitos aplican desde el 3 de noviembre.",
+        "El procedimiento es para residentes de cuatro ciudades de la frontera.",
+        "Los requisitos dependen de la nacionalidad y la residencia."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Puente de la Integración: Brasil divulga nueva regla sin cambio relevante para el paso vehicular",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/puente-de-la-integracion-brasil-divulga-nueva-regla-sin-cambio-relevante-para-el-paso-vehicular",
+          "publishedAt": "2026-10-27T22:56:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2HcgSJj3Azi65cl5Buzcszs0XzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QWQFSPT7Q5CSVMZDKSEC2GB7HM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Puente de la Integración tendrá nuevas exigencias para vehículos livianos",
+          "url": "https://www.adndigital.com.py/puente-de-la-integracion-tendra-nuevas-exigencias-para-vehiculos-livianos",
+          "publishedAt": "2026-10-27T20:28:48.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-172750.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anuncian nuevos requisitos para el paso por el Puente de la Integración",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/anuncian-nuevos-requisitos-para-el-paso-por-el-puente-de-la-integracion",
+          "publishedAt": "2026-10-27T15:25:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vqRbQy5wQkNinbdCCqrQnyjTeyM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/U42HU7EIEVHWJKBQZ5JKLPIGMQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QWQFSPT7Q5CSVMZDKSEC2GB7HM.jpg?auth=3750ef0ccea30e9d9f31eee56d964b9c6d42056b333752dd503525d98094e497&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/puente-de-la-integracion-brasil-divulga-nueva-regla-sin-cambio-relevante-para-el-paso-vehicular"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 10.24
+    },
+    {
+      "id": "ev-0ok1yds",
+      "title": "Blanca Lila Mignarro dice que Zenaida Delgado usó créditos de la Caja Parlamentaria",
+      "summary": "Según la exsenadora Blanca Lila Mignarro, presidenta de la Caja Parlamentaria, la senadora Zenaida Delgado gestionó préstamos personales en la institución. ADN Digital informa que esos fondos habrían sido derivados a un presunto esquema de cobro de peajes, hipótesis que aún no está confirmada. ABC Color señala que la legisladora registra préstamos en su declaración jurada.",
+      "keyPoints": [
+        "Mignarro confirmó que Delgado gestionó préstamos personales en la Caja.",
+        "Según ADN Digital, los fondos habrían sido derivados a un presunto esquema de peajes.",
+        "ABC Color reporta créditos y aportes registrados por la senadora.",
+        "El caso pone bajo revisión los controles internos del Congreso."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Apenas asumió como senadora, Zenaida ya prestó G. 432 millones de la Caja Parlamentaria",
+          "url": "https://www.abc.com.py/politica/2026/10/28/apenas-asumio-como-senadora-zenaida-ya-presto-g-432-millones-de-la-caja-parlamentaria",
+          "publishedAt": "2026-10-28T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/b8cWbHV92EtBP0j7_GPdosi4Rrc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5RFZ62YMVFCWDHUBEG6SBKQDMU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Zenaida habría utilizado hasta créditos de la Caja Parlamentaria para su esquema de peajes",
+          "url": "https://www.adndigital.com.py/zenaida-habria-utilizado-hasta-creditos-de-la-caja-parlamentaria-para-su-esquema-de-peajes",
+          "publishedAt": "2026-10-27T19:53:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-165227.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5RFZ62YMVFCWDHUBEG6SBKQDMU.jpg?auth=67c2bc2707110735a81a52907d0807c90e88c0311f8b24a51ea53d756584e875&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/28/apenas-asumio-como-senadora-zenaida-ya-presto-g-432-millones-de-la-caja-parlamentaria"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.66
+    },
+    {
+      "id": "ev-0k2qhyn",
+      "title": "Trabajo doméstico es el 7,6% del empleo en Paraguay, según la OIT",
+      "summary": "El trabajo doméstico representa el 7,6% del empleo en Paraguay, el segundo mayor porcentaje de la región, según datos de la OIT. La informalidad alcanza al 83,1% de los trabajadores domésticos de América Latina y el Caribe en 2025. Los ingresos de este grupo son menores que los del resto de los asalariados.",
+      "keyPoints": [
+        "El trabajo doméstico es el 7,6% del empleo paraguayo.",
+        "Paraguay ocupa el segundo lugar regional en esta proporción.",
+        "En 2025, el 83,1% de los trabajadores domésticos regionales era informal.",
+        "Perciben en promedio el 53,3% del salario medio de otros asalariados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Trabajo doméstico representa 7,6% del empleo en Paraguay, la 2ª en la región",
+          "url": "https://www.abc.com.py/economia/2026/10/28/trabajo-domestico-representa-76-del-empleo-en-paraguay-la-2-en-la-region",
+          "publishedAt": "2026-10-28T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/CaWKY6frR967lQv0oIlqhB8lAh8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IIY7SK5YEFD2TCAHHRWBM6DU6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Paraguay ocupa el segundo lugar regional en trabajo doméstico, según la OIT",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/paraguay-ocupa-el-segundo-lugar-regional-en-trabajo-domestico-segun-la-oit",
+          "publishedAt": "2026-10-28T00:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HdIxZSsIYkasJ-s178RPKZVpFeU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3D2MHB4CMRBI3LKHXCILDUI7PU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/IIY7SK5YEFD2TCAHHRWBM6DU6E.jpg?auth=f94d226b5b28cc0d9a1cf2ce097401f2b5dbf5668259dd71063368953b419537&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/10/28/trabajo-domestico-representa-76-del-empleo-en-paraguay-la-2-en-la-region"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.66
+    },
+    {
+      "id": "ev-0g4onea",
+      "title": "Se posterga audiencia de Miguel Prieto por reposo médico de su abogada",
+      "summary": "La audiencia preliminar de Miguel Prieto fue aplazada porque su abogada, Gilda Portillo, presentó un reposo médico. La causa investiga un supuesto perjuicio patrimonial de G. 757 millones por obras del Hospital de Ciudad del Este que presuntamente fueron pagadas pero no ejecutadas. Prieto no es culpable hasta que se pruebe lo contrario.",
+      "keyPoints": [
+        "La abogada Gilda Portillo pidió la suspensión por motivos de salud.",
+        "Presentó un justificativo médico.",
+        "La causa investiga un presunto perjuicio de G. 757 millones.",
+        "Las obras habrían sido pagadas pero no ejecutadas, según la causa."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Se pospuso audiencia de Prieto por reposo de su abogada",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/se-pospuso-audiencia-de-prieto-por-reposo-de-su-abogada",
+          "publishedAt": "2026-10-28T03:07:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TCBDsTk8gPrfFhuWF3fuMGRRoDQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKQTP7YZBRCBJJFLHYWBAX6LXI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Aplazan audiencia preliminar de Miguel Prieto por presunto perjuicio en obras del Hospital de CDE",
+          "url": "https://elnacional.com.py/politica/aplazan-audiencia-preliminar-miguel-prieto-presunto-perjuicio-obras-hospital-cde-n114250",
+          "publishedAt": "2026-10-27T14:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/01/17b7ac37ebf83152b282ab1c41de3aed.png"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FKQTP7YZBRCBJJFLHYWBAX6LXI.jpg?auth=19a458e12490f02f6c17d2e27ce6c8a767efef46b6d4577f25b632921274921d&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/se-pospuso-audiencia-de-prieto-por-reposo-de-su-abogada"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.58
+    },
+    {
+      "id": "ev-1lxuraf",
+      "title": "Paraguay será sede del VIII Foro Iberoamericano de Compra Pública e Innovación",
+      "summary": "El Banco Central del Paraguay será sede de la octava edición del Foro Iberoamericano de Compra Pública de Innovación e Innovación Abierta, del 4 al 6 de noviembre. Se esperan más de 500 participantes y más de 50 expertos de más de 10 países como ponentes. Para el país, el foro busca fortalecer la imagen como destino para inversiones, negocios y turismo.",
+      "keyPoints": [
+        "El evento se realizará del 4 al 6 de noviembre.",
+        "El Banco Central del Paraguay es la sede.",
+        "Participarán más de 500 personas y más de 50 expertos de más de 10 países."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Paraguay será sede del VIII Foro Iberoamericano de Compra Pública",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/paraguay-sera-sede-del-viii-foro-iberoamericano-de-compra-publica",
+          "publishedAt": "2026-10-28T00:58:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/slAzb_NpO4hTtdM-pdumA8aFipY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X4TXED2JDNC5BIGVDEXX43D6G4.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Paraguay será sede de Foro Iberoamericano de Marca País",
+          "url": "https://elnacional.com.py/economia/paraguay-sera-sede-foro-iberoamericano-marca-pais-n114253",
+          "publishedAt": "2026-10-27T23:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/09/a15ca65ab193a370540a40c786999dbf.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/X4TXED2JDNC5BIGVDEXX43D6G4.jpeg?auth=e22220a068ef682f45e5230cb06886be456ad6252496ac5a74af96fae4df7afc&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/27/paraguay-sera-sede-del-viii-foro-iberoamericano-de-compra-publica"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.4
+    },
+    {
+      "id": "ev-0borz9n",
+      "title": "Comienzan obras para reducir inundaciones en el arroyo Paso Carreta, en Luque",
+      "summary": "El presidente Santiago Peña encabezó el acto que inicia obras de protección hídrica en el arroyo Paso Carreta, en Luque. Se construirán estructuras de protección y drenaje para reducir el impacto de las lluvias en familias del sector.",
+      "keyPoints": [
+        "Las obras comenzaron con un acto encabezado por Santiago Peña.",
+        "Incluyen estructuras de protección y drenaje en el arroyo Paso Carreta.",
+        "El objetivo es disminuir el riesgo de inundaciones en zonas pobladas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Luque: obras en arroyo buscan reducir inundaciones",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/luque-obras-en-arroyo-buscan-reducir-inundaciones",
+          "publishedAt": "2026-10-27T23:33:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GOQSS3VP4BF73H7KZ2UZSUYG4Q.jfif?auth=3e742f8b6a2c70d6765b89c5bb9f3810a85659f4a98169247f2a23ed1e02ba1b&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gobierno inicia obras de protección del arroyo Paso Carreta, en Luque",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/gobierno-inicia-obras-de-proteccion-del-arroyo-paso-carreta-en-luque",
+          "publishedAt": "2026-10-27T22:33:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EALO514AkZdgpNf75AR1qafWYqw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/I7XPP7OFNVA3HGIMKV24YYRZ24.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/GOQSS3VP4BF73H7KZ2UZSUYG4Q.jfif?auth=3e742f8b6a2c70d6765b89c5bb9f3810a85659f4a98169247f2a23ed1e02ba1b&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/27/luque-obras-en-arroyo-buscan-reducir-inundaciones"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.29
+    },
+    {
+      "id": "ev-14bd47u",
+      "title": "Banda armada asalta una estancia en Yby Yaú y se lleva armas, motos y celulares",
+      "summary": "Entre cinco y seis hombres armados ingresaron a la estancia Cerro Kupe, en la colonia Mbocaya’í, distrito de Yby Yaú, Concepción. Según las notas, redujeron a tres empleados y tomaron de rehén al propietario. Los asaltantes tenían el rostro cubierto y se llevaron motocicletas, celulares y armas de fuego. Las notas no informan sobre detenidos hasta el momento.",
+      "keyPoints": [
+        "El asalto ocurrió en la estancia Cerro Kupe, en la colonia Mbocaya’í.",
+        "Los asaltantes eran entre cinco y seis hombres con el rostro cubierto.",
+        "Tomaron de rehén al propietario y redujeron a tres empleados.",
+        "Se llevaron motocicletas, teléfonos celulares y armas de fuego."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Banda armada asalta una estancia en Yby Yaú y toma de rehén al propietario",
+          "url": "https://www.adndigital.com.py/banda-armada-asalta-una-estancia-en-yby-yau-y-toma-de-rehen-al-propietario",
+          "publishedAt": "2026-10-27T21:28:17.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2019/08/1200.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "En asalto tipo comando a una estancia de Yby Yaú roban armas, motos y celulares",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/en-asalto-tipo-comando-a-una-estancia-de-yby-yau-roban-armas-motos-y-celulares",
+          "publishedAt": "2026-10-27T18:22:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Xf0RUYmoXzn2vjDjDmAP0Z230MM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OTLZ6IRYTVERZFPSN4XUZHCK6U.png"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2019/08/1200.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/banda-armada-asalta-una-estancia-en-yby-yau-y-toma-de-rehen-al-propietario"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9.11
+    },
+    {
+      "id": "ev-0bdld3x",
+      "title": "Dos hombres asaltan una transportadora en Ciudad del Este y buscaban cajas negras",
+      "summary": "Dos hombres asaltaron la Transportadora Alberdeña, en un centro comercial de Ciudad del Este. Según la Comisaría 1ª, exigieron cajas negras, no las encontraron y se llevaron otra caja de mercaderías. El hecho ocurrió la noche del lunes.",
+      "keyPoints": [
+        "Dos hombres asaltaron la Transportadora Alberdeña en Ciudad del Este.",
+        "Exigieron las llamadas cajas negras, pero no las encontraron.",
+        "Se llevaron una caja de mercaderías, según la Comisaría 1ª."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Asaltantes buscaban cajas negras y robaron mercaderías de una transportadora en CDE",
+          "url": "https://www.adndigital.com.py/asaltantes-buscaban-cajas-negras-y-robaron-mercaderias-de-una-transportadora-en-cde",
+          "publishedAt": "2026-10-27T20:07:27.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-170651.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Delincuentes asaltaron transportadora en busca de “cajas negras”, al no hallarlas se llevaron otra",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/delincuentes-asaltaron-transportadora-en-busca-de-cajas-negras-al-no-hallarlas-se-llevaron-otra",
+          "publishedAt": "2026-10-27T17:07:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HulOWhpi8-94PRt105dU30QN0gM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LCOCL2TEC5BI3IZV5HWH2XRI7M.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-170651.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/asaltantes-buscaban-cajas-negras-y-robaron-mercaderias-de-una-transportadora-en-cde"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 9
+    },
+    {
+      "id": "ev-1xxz888",
+      "title": "Brangus destinará USD 12.000 para subsidiar hasta 4.000 pajuelas genéticas",
+      "summary": "La Asociación de Criadores de Brangus del Paraguay destinará US$ 12.000 para subsidiar hasta 4.000 pajuelas de semen bovino. La ayuda se da mediante el Programa de Padres de Referencia. Socios y no socios podrán acceder a reproductores seleccionados.",
+      "keyPoints": [
+        "La inversión es de US$ 12.000.",
+        "Se subsidiarán hasta 4.000 pajuelas de semen bovino.",
+        "El programa se llama Padres de Referencia y lo impulsa la Asociación de Criadores de Brangus del Paraguay."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Brangus destinará USD 12.000 al subsidio de pajuelas para mejorar la genética",
+          "url": "https://elnacional.com.py/economia/brangus-destinara-usd-12000-subsidio-pajuelas-mejorar-genetica-n114252",
+          "publishedAt": "2026-10-27T18:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/03/04755de5ac467c1d5c73d9f1fab80998.png"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Brangus subsidiará 4.000 pajuelas para mejorar la genética bovina",
+          "url": "https://5dias.com.py/article/brangus-subsidiar-4000-pajuelas-para-mejorar-la-gentica-bovina",
+          "publishedAt": "2026-10-27T16:44:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-10-27_at_12.01.19_1_20261027_164848.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2024/03/04755de5ac467c1d5c73d9f1fab80998.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/brangus-destinara-usd-12000-subsidio-pajuelas-mejorar-genetica-n114252"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 8.82
+    },
+    {
+      "id": "ev-1uzhov8",
+      "title": "Mbappé pidió disculpas por sus palabras sobre Mao; Pekín las valora",
+      "summary": "El futbolista Kylian Mbappé pidió disculpas en francés, chino e inglés por declaraciones sobre Mao Zedong, que calificó de desliz. Sus palabras generaron una fuerte reacción en China y la ruptura de tres acuerdos de patrocinio. La Cancillería china dijo que concede importancia a las disculpas, sin aclarar si levantará el boicot.",
+      "keyPoints": [
+        "Mbappé pidió disculpas en tres idiomas por sus declaraciones sobre Mao Zedong.",
+        "Las declaraciones provocaron la ruptura de tres acuerdos de patrocinio.",
+        "La Cancillería china valoró las disculpas, pero no aclaró si levantará el boicot."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pekín valora las disculpas de Mbappé, pero evita aclarar si levantará el boicot",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/28/pekin-valora-las-disculpas-de-mbappe-pero-evita-aclarar-si-levantara-el-boicot",
+          "publishedAt": "2026-10-28T07:50:11.000Z",
+          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Mbappé pide \"disculpas\" y se dice \"arrepentido\" por sus palabras sobre Mao",
+          "url": "https://elnacional.com.py/deportes/mbappe-pide-disculpas-dice-arrepentido-sus-palabras-sobre-mao-n114265",
+          "publishedAt": "2026-10-27T15:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0c7e1c999d.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae0c7e1c999d.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/deportes/mbappe-pide-disculpas-dice-arrepentido-sus-palabras-sobre-mao-n114265"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 7.48
+    },
+    {
+      "id": "ev-1xfj0xb",
+      "title": "Magalí Mazó: la tecnología transforma el marketing agropecuario, pero las personas construyen marcas",
+      "summary": "La ejecutiva Magalí Mazó acumula 23 años en el marketing agropecuario. Se declara una eterna aprendiz y experimenta con inteligencia artificial. Sostiene que la tecnología puede transformar el negocio, aunque son las personas quienes construyen las marcas. Su mirada toma ideas de industrias como la moda y el consumo masivo.",
+      "keyPoints": [
+        "Magalí Mazó tiene 23 años de trayectoria en marketing agropecuario.",
+        "Experimenta con inteligencia artificial.",
+        "Busca inspiración en industrias como la moda y el consumo masivo."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Embajadora del agromarketing",
+          "url": "https://www.lanacion.com.py/foco/corebusiness-foco/2026/10/28/embajadora-del-agromarketing",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Zdd6XV9gusq7bt3qnd4uCyOBnHs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DREOVSKPTZGH5BXLNXWDQLZZAM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Embajadora del agromarketing 28.10.26",
+          "url": "https://www.lanacion.com.py/foco/impreso-business-foco/2026/10/28/embajadora-del-agromarketing-281026",
+          "publishedAt": "2026-10-28T04:16:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/SuzVOwLK3Yy6aE3hHM-VB2dIdew=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3E7O6OZM75FXTIRXIA6A36IMDM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DREOVSKPTZGH5BXLNXWDQLZZAM.jpg?auth=490b14fe5f4722ea8b5014e14a153178706d855973670116651c784b0dbd9aa0&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/foco/corebusiness-foco/2026/10/28/embajadora-del-agromarketing"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.68
+    },
+    {
+      "id": "ev-0er4cxm",
+      "title": "Juez Miguel Ángel Palacios llevará la audiencia preliminar de Rafael Filizzola",
+      "summary": "La causa por lesión de confianza contra el senador Rafael Filizzola (PDP) fue reencauzada con la designación del juez penal de garantías Miguel Ángel Palacios. El magistrado llevará adelante la audiencia preliminar tras varias chicanas impulsadas por la defensa. Filizzola es acusado en el proceso, que sigue en etapa judicial.",
+      "keyPoints": [
+        "El caso es por lesión de confianza en la trama de Comisarías de oro.",
+        "El juez asignado es Miguel Ángel Palacios.",
+        "La audiencia preliminar fue reencauzada tras varias chicanas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Comisarías de oro: designan a juez para audiencia a Filizzola",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/comisarias-de-oro-designan-a-juez-para-audiencia-a-filizzola",
+          "publishedAt": "2026-10-28T03:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5mYijAtR5xDN3Wf86VsOXC5QQ9E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZRLRNB3O4VFGTA53GJDKIDURWU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Comisarías de oro: juez Palacios llevará adelante la audiencia preliminar de Filizzola",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/comisarias-de-oro-juez-palacios-llevara-adelante-la-audiencia-preliminar-de-filizzola",
+          "publishedAt": "2026-10-27T17:13:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zsSWm21Wb4iHP1eaGTaRiVYgwA8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B7QKL6UWABA3VJBWYFAD3FWHFQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ZRLRNB3O4VFGTA53GJDKIDURWU.jpg?auth=b55c69a57b3fbd02d93b4a64c7c42d72394420350c99a7fd076cc42a1adcbf8f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/comisarias-de-oro-designan-a-juez-para-audiencia-a-filizzola"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.59
+    },
+    {
+      "id": "ev-107mk4a",
+      "title": "Peña inauguró los Juegos Nacionales de Olimpiadas Especiales con 1.000 atletas",
+      "summary": "El presidente Santiago Peña encabezó la inauguración de los Juegos Nacionales de Olimpiadas Especiales Paraguay 2026 en el SND Arena de Asunción. Compiten cerca de 1.000 atletas y compañeros unificados. El evento busca promover la inclusión, la igualdad de oportunidades y el desarrollo a través del deporte.",
+      "keyPoints": [
+        "El presidente Santiago Peña encabezó la ceremonia en Asunción.",
+        "Participan aproximadamente 1.000 atletas y compañeros unificados.",
+        "El evento se realizó en el Polideportivo SND Arena."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña inaugura los Juegos Nacionales de Olimpiadas Especiales 2026 con 1.000 atletas",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/pena-inaugura-los-juegos-nacionales-de-olimpiadas-especiales-2026-con-1000-atletas",
+          "publishedAt": "2026-10-27T23:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Dn4v-3ml04eKkAz_Nu9_SCOyb9o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CHKD73SGA5BA3OEVEO6R7ZFPWM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Arrancaron Juegos Unificados 2026",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/10/28/arrancaron-juegos-unificados-2026",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aNqQ-eEp2lXCas2k_j2Kwuxq1Uw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S3ENXRHNGZCULCBTKWNQRBIR7Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CHKD73SGA5BA3OEVEO6R7ZFPWM.jpeg?auth=6a12d27570c13b457d91a6c77b8d74bf7b5992ca1638548f6569553172391a78&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/27/pena-inaugura-los-juegos-nacionales-de-olimpiadas-especiales-2026-con-1000-atletas"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-097ojem",
+      "title": "Cepal eleva a 4,5 % su proyección de crecimiento para la economía paraguaya",
+      "summary": "La Comisión Económica para América Latina y el Caribe (Cepal) subió su previsión de crecimiento para Paraguay. El ajuste sigue la línea de otros organismos internacionales y del Banco Central del Paraguay. La Cepal también actualizó sus proyecciones para la región en el ejercicio actual y en 2027.",
+      "keyPoints": [
+        "La Cepal elevó la proyección de crecimiento de Paraguay a 4,5 %.",
+        "El ajuste coincide con otros organismos internacionales y el BCP.",
+        "La actualización abarca el ejercicio actual y 2027."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cepal eleva a 4,5 % proyección de crecimiento económico del país",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/cepal-eleva-a-45-proyeccion-de-crecimiento-economico-del-pais",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/r4Wz5TAbXtzGBK4g7H80VKX0Y8g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MTJDPZZSHZHPLMVRK4GV33TP44.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cepal eleva a 4,5 % la proyección de crecimiento económico de Paraguay",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/cepal-eleva-a-45-la-proyeccion-de-crecimiento-economico-de-paraguay",
+          "publishedAt": "2026-10-27T17:50:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JD4_x6_ZeXktAFX3-tjm3aVLm7Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YYCG3GNXCRAWNBPPLSFKFZME3E.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MTJDPZZSHZHPLMVRK4GV33TP44.jpg?auth=ebc0e41802e28b7dbcb91721f9cdac8d857c4bdf5cf4be7450769c61a66f61da&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/cepal-eleva-a-45-proyeccion-de-crecimiento-economico-del-pais"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-1wl06cw",
+      "title": "Búsquedas de brasileños para radicarse en Paraguay crecen 1.700 %",
+      "summary": "Las consultas en internet de ciudadanos brasileños para radicarse en Paraguay aumentaron 1.700 %. Según La Nación, el interés responde al régimen impositivo y a la estabilidad del mercado paraguayo. Inversionistas, profesionales y familias buscan radicarse de forma legal.",
+      "keyPoints": [
+        "Las consultas en internet crecieron 1.700 %.",
+        "El régimen impositivo es uno de los atractivos citados.",
+        "La estabilidad del mercado paraguayo también atrae a los interesados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasileños multiplican búsquedas para fijar residencia en Paraguay",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/brasilenos-multiplican-busquedas-para-fijar-residencia-en-paraguay",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VlCi1BqYhOX1iBEtL3FbWb7De0s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LHASAF45FZENZDZRS4KWPMIWII.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Efecto electoral: brasileños multiplican las búsquedas para radicarse en Paraguay",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/efecto-electoral-brasilenos-multiplican-las-busquedas-para-radicar-en-paraguay",
+          "publishedAt": "2026-10-27T15:00:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DUCD92Z-hN_Ev1vOlxgz_HNYgms=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJQJ72H7LZFBLLIN7W2AOY6QU4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LHASAF45FZENZDZRS4KWPMIWII.jpg?auth=6f9410a3d66101a18f6272aa0cce834a7e144702369f82152a5439c1b509b70d&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/brasilenos-multiplican-busquedas-para-fijar-residencia-en-paraguay"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-0p2pz89",
+      "title": "Feprinco advierte que la caída del dólar compromete sectores clave",
+      "summary": "Gremios empresariales expresaron preocupación por la sostenida baja del dólar frente al guaraní. Según la Feprinco, Fecoprod y UGP, la rapidez de las variaciones cambiarias afecta la competitividad de sectores con peso en el PIB. Las notas también señalan posibles efectos en la recaudación aduanera y en las finanzas públicas.",
+      "keyPoints": [
+        "Feprinco, Fecoprod y UGP manifestaron su preocupación por la caída del dólar.",
+        "Los gremios señalan la rapidez de las variaciones cambiarias como un factor de riesgo.",
+        "Advierten impacto en la recaudación aduanera y en las finanzas públicas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caída del dólar compromete la competitividad",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/caida-del-dolar-compromete-la-competitividad",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/663P2QtiesCdoQoEbOL2o9N0-4M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3FIJ6KOIUZHQ7FRQV64RL3ABQE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caída del dólar compromete la competitividad de sectores clave, advierte la Feprinco",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/caida-del-dolar-compromete-la-competitividad-de-sectores-clave-advierte-la-feprinco",
+          "publishedAt": "2026-10-27T14:35:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Vk4aRcieP2Aoli7YEP5OrXF370w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/375PWIEVVRCSBJ46TEHQR5TT3E.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3FIJ6KOIUZHQ7FRQV64RL3ABQE.jpg?auth=d7fe628f82eb022b87c37890a6888c8f0f658401cdd2a85f2331bee519aedbfb&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/caida-del-dolar-compromete-la-competitividad"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-10qf0gd",
+      "title": "Taiwán inició auditoría a frigoríficos paraguayos de carne porcina y bovina",
+      "summary": "Auditores de Taiwán comenzaron inspecciones a frigoríficos paraguayos para habilitarlos por primera vez a exportar carne bovina y porcina. Autoridades paraguayas se reunieron con el embajador taiwanés y el jefe de la misión técnica. Según la nota, el proceso representa un respaldo internacional para la cadena de la proteína animal.",
+      "keyPoints": [
+        "Es la primera vez que se habilitan frigoríficos paraguayos para exportar a Taiwán.",
+        "La auditoría incluye carne bovina y porcina.",
+        "Autoridades paraguayas se reunieron con el embajador y el jefe de la misión técnica."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Taiwán inició auditoría a frigoríficos de carne porcina y bovina",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/taiwan-inicio-auditoria-a-frigorificos-de-carne-porcina-y-bovina",
+          "publishedAt": "2026-10-27T15:41:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/06gT6LJXgj0c2u5_l6zDhfpXxoI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3JMCMH6FGJDFPOXL6HVELVKCYY.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Taiwán inició auditoría a frigoríficos nacionales",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/taiwan-inicio-auditoria-a-frigorificos-nacionales",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ikH6WI_ydZNbcKzbuEddXKf2a3c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZLLLBALRJJFOFFYOH2OE7NIQ5I.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3JMCMH6FGJDFPOXL6HVELVKCYY.png?auth=9a693bddce01881d2b889a0934fe4b1ae508603c459a15aefe72ef5cd5522976&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/27/taiwan-inicio-auditoria-a-frigorificos-de-carne-porcina-y-bovina"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-0xs4fak",
+      "title": "La Justicia Electoral proclamó a las autoridades electas de Asunción",
+      "summary": "La Justicia Electoral proclamó a la intendenta electa Soledad Núñez y a los concejales de Asunción. Las nuevas autoridades municipales asumirán el próximo lunes 2 de noviembre. Núñez agradeció el trabajo de la Justicia Electoral y sus funcionarios durante los comicios municipales.",
+      "keyPoints": [
+        "La Justicia Electoral proclamó a las autoridades municipales electas de Asunción.",
+        "La intendenta electa es Soledad Núñez.",
+        "Las autoridades asumirán el lunes 2 de noviembre."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": "2026-11-02T03:00:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Justicia Electoral proclamó a las autoridades electas de Asunción",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/justicia-electoral-proclamo-a-las-autoridades-electas-de-asuncion",
+          "publishedAt": "2026-10-27T17:09:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zx5gqdYgoG51ZS84z0BvGVIDdy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KJ4IQ74FUVGA3CNU3RKDCRF7BA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Proclaman a autoridades electas de Asunción",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/proclaman-a-autoridades-electas-de-asuncion",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aiZOAiisaPOORkXOjgmmJoSjreE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4JDDUM4D35BXDAONMGXTVY7K5Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KJ4IQ74FUVGA3CNU3RKDCRF7BA.jpg?auth=28b3541d3f3bdea31c553e17f7c9103f123c255b55cff7f66ebb494e128e5dd3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/27/justicia-electoral-proclamo-a-las-autoridades-electas-de-asuncion"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.58
+    },
+    {
+      "id": "ev-1ntdivc",
+      "title": "Libertad sufrió, pero se clasificó a semifinales de la Copa Paraguay",
+      "summary": "Libertad venció a Independiente de Campo Grande y logró el boleto a las semifinales de la Copa Paraguay. Tuvo el dominio de la posesión, aunque le costó encontrar espacios frente a un rival cauteloso. El entrenador Nelson Haedo Valdez destacó la intensidad y la presión alta de su equipo.",
+      "keyPoints": [
+        "Libertad venció a Independiente de Campo Grande en la Copa Paraguay.",
+        "El equipo clasificó a las semifinales del torneo.",
+        "El entrenador Nelson Haedo Valdez destacó la intensidad y la presión alta."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nelson Haedo Valdez: “Hoy volvimos a ver el Libertad intenso”",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/10/27/nelson-haedo-valdez-hoy-volvimos-a-ver-el-libertad-intenso",
+          "publishedAt": "2026-10-28T01:54:25.000Z",
+          "image": "https://www.abc.com.py/resizer/plePhhS9W59PVDfyOYl3N0K-MhE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6DC64XNSE5F2NF7GPV6DQ3O7VM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad sufre para quedarse con el boleto a semifinales de la Copa Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/10/27/libertad-sufre-para-quedarse-con-el-boleto-a-semifinales-de-la-copa-paraguay",
+          "publishedAt": "2026-10-28T00:35:04.000Z",
+          "image": "https://www.abc.com.py/resizer/t50ShPYNOg_XVUeQS9UZ2AIzmFg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H76JEOCT4BAQ3E4U7VKF2XSOXQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6DC64XNSE5F2NF7GPV6DQ3O7VM.jpg?auth=d725b956fd42c3bfb18a5aaec83af65108732a55335289be3fd52f76c3b8835d&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/10/27/nelson-haedo-valdez-hoy-volvimos-a-ver-el-libertad-intenso"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 6.48
+    },
+    {
+      "id": "ev-1na3i9i",
+      "title": "Coomecipar celebró aniversario con música",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: Coomecipar celebró aniversario con música",
+      "keyPoints": [
+        "Coomecipar celebró aniversario con música"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Coomecipar celebró aniversario con música",
+          "url": "https://www.ultimahora.com/coomecipar-celebro-aniversario-con-musica",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-1bh7dt4",
+      "title": "Presentación del libro Celos, de Mateo Balmelli",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: Presentación del libro Celos, de Mateo Balmelli",
+      "keyPoints": [
+        "Presentación del libro Celos, de Mateo Balmelli"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Presentación del libro Celos, de Mateo Balmelli",
+          "url": "https://www.ultimahora.com/presentacion-del-libro-celos-de-mateo-balmelli",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-1y8mlln",
+      "title": "Santos Simón y Judas Apóstoles",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: Santos Simón y Judas Apóstoles",
+      "keyPoints": [
+        "Santos Simón y Judas Apóstoles"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santos Simón y Judas Apóstoles",
+          "url": "https://www.ultimahora.com/santos-simon-y-judas-apostoles-28-10-2026",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0p1wlza",
+      "title": "Industriales promueven la certificación laboral como herramienta de formación",
+      "summary": "Sectores industriales promueven la certificación laboral, según un titular de Última Hora. El extracto no está disponible, así que la nota no permite conocer el alcance de la propuesta, quiénes la impulsan en detalle ni qué medidas concretas se plantean. Por ahora, el dato disponible es el impulso empresarial a la certificación de trabajadores.",
+      "keyPoints": [
+        "Industriales promueven la certificación laboral.",
+        "La nota no detalla el alcance de la iniciativa."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Industriales promueven la certificación laboral",
+          "url": "https://www.ultimahora.com/industriales-promueven-la-certificacion-laboral",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0q0vfrx",
+      "title": "Jubilados amenazan con medidas y piden al IPS retirar fondos de ueno",
+      "summary": "Jubilados anunciaron en una conferencia que podrían tomar medidas de presión. Exigen al IPS retirar sus fondos de ueno y plantean crear un banco de segundo piso que administre sus recursos. La nota no incluye la respuesta del IPS, por lo que la posición del IPS no se conoce. Es el reclamo de los jubilados, según la nota.",
+      "keyPoints": [
+        "Jubilados exigen al IPS retirar fondos de ueno.",
+        "Plantean crear un banco de segundo piso.",
+        "Anuncian posibles medidas, según la nota.",
+        "No se incluye la respuesta del IPS."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Jubilados amenazan con medidas y exigen al IPS retirar fondos de ueno",
+          "url": "https://www.ultimahora.com/jubilados-amenazan-con-medidas-y-exigen-al-ips-retirar-fondos-de-ueno",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0a8ruir",
+      "title": "Plantean dudas sobre el ministerio y el regulador de energía",
+      "summary": "Una nota de Última Hora plantea interrogantes sobre el ministerio y el regulador de energía. El extracto no está disponible, por lo que no se pueden precisar los detalles del debate. Sin más información, no se sabe qué aspecto de la relación entre ambos organismos está en discusión ni qué posiciones hay. Por ahora, solo se conoce que el tema genera preguntas.",
+      "keyPoints": [
+        "La nota plantea dudas sobre el ministerio y el regulador de energía.",
+        "No hay detalles disponibles en el extracto."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ministerio y regulador de energía: ¿Ahora sí?",
+          "url": "https://www.ultimahora.com/ministerio-y-regulador-de-energia-ahora-si",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-00olzi1",
+      "title": "Gasto de Hambre Cero subió 65% en un año, según estudio",
+      "summary": "Un estudio informa que el gasto del programa Hambre Cero subió 65% en un año, por mayor costo y más alumnos. Advierte que hay que garantizar su sostenibilidad financiera. Señala presión creciente sobre el Tesoro y falta de transparencia.",
+      "keyPoints": [
+        "El gasto subió 65% en un año, según el estudio.",
+        "La suba se explica por mayor costo y más alumnos.",
+        "El estudio alerta sobre presión para el Tesoro.",
+        "Señala falta de transparencia en el financiamiento."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Hambre Cero: Gasto subió 65% en un año por mayor costo y más alumnos",
+          "url": "https://www.ultimahora.com/hambre-cero-gasto-subio-65-en-un-ano-por-mayor-costo-y-mas-alumnos",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-01wk2i7",
+      "title": "Titular de la ANDE defiende acuerdo con la empresa Araico",
+      "summary": "El titular de la ANDE defiende el acuerdo con la empresa Araico. El extracto no está disponible, así que la nota no detalla los términos del acuerdo ni los argumentos que da el titular. Por lo tanto, no se conoce el contenido completo del acuerdo. La defensa es la posición del titular, según la nota.",
+      "keyPoints": [
+        "El titular de la ANDE defiende el acuerdo con Araico.",
+        "La nota no detalla los términos del acuerdo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Titular de la ANDE defiende acuerdo con empresa Araico",
+          "url": "https://www.ultimahora.com/titular-de-la-ande-defiende-acuerdo-con-empresa-araico",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0m6jf3a",
+      "title": "Un experto en energía advierte que faltan datos para despejar dudas",
+      "summary": "Un experto en energía advierte que faltan datos para despejar las dudas sobre el tema. El extracto no está disponible, así que la nota no precisa qué puntos concretos genera cuestionamientos. Tampoco se conoce el contexto del debate. La advertencia es la posición del experto, según Última Hora.",
+      "keyPoints": [
+        "Un experto en energía alerta sobre la falta de datos.",
+        "Las dudas persisten, según la nota."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Falta de más datos genera dudas, alerta experto en energía",
+          "url": "https://www.ultimahora.com/falta-de-mas-datos-genera-dudas-alerta-experto-en-energia",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-0oc1i37",
+      "title": "La ANR es acusada por Última Hora de frenar al país con visión patrimonialista",
+      "summary": "Un editorial de Última Hora critica a la ANR por aplicar una visión patrimonialista del Estado, a la que atribuye el atraso del país. El texto no trae más detalles en el título ni en el extracto disponible, así que la posición es la del medio. La nota no incluye la respuesta del partido.",
+      "keyPoints": [
+        "Última Hora publicó una nota de opinión que critica a la ANR.",
+        "El medio sostiene que la visión patrimonialista del Estado genera atraso.",
+        "El extracto disponible no incluye la respuesta de la ANR."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Visión patrimonialista del Estado aplicada por la ANR nos condena al atraso",
+          "url": "https://www.ultimahora.com/vision-patrimonialista-del-estado-aplicada-por-la-anr-nos-condena-al-atraso",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.91
+    },
+    {
+      "id": "ev-1ddj47y",
+      "title": "Lorenzo Melgarejo celebra clasificación a semifinales de la Copa Paraguay",
+      "summary": "Lorenzo Melgarejo habló tras la victoria de su equipo sobre Independiente de Campo Grande, que lo clasificó a las semifinales de la Copa Paraguay. El jugador dijo que tiene un cariño especial por su exclub y reconoció que todavía está recuperando el ritmo de juego. Señaló que fue un partido difícil.",
+      "keyPoints": [
+        "El equipo de Melgarejo clasificó a semifinales de la Copa Paraguay.",
+        "Melgarejo superó a su exclub, Independiente de Campo Grande.",
+        "El jugador dijo que aún recupera el ritmo de juego.",
+        "Calificó al rival de digno y difícil de jugar."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lorenzo Melgarejo: “Me falta todavía; estoy de a poco recuperando el ritmo del juego”",
+          "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/10/28/lorenzo-melgarejo-me-falta-todavia-estoy-de-a-poco-recuperando-el-ritmo-del-juego",
+          "publishedAt": "2026-10-28T04:24:10.000Z",
+          "image": "https://www.abc.com.py/resizer/ZD62fbWmUkn1KYgprp6ce3jfSDQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JS5OYTPSWRDYLPJIJ6H3VZ4D74.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/JS5OYTPSWRDYLPJIJ6H3VZ4D74.jpg?auth=7fa656fbed31aa09e20d4b6e40da1f1ad9a2adac130a02ca6d76e65913a0ad35&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/libertad/2026/10/28/lorenzo-melgarejo-me-falta-todavia-estoy-de-a-poco-recuperando-el-ritmo-del-juego"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.69
+    },
+    {
+      "id": "ev-1fwgaq9",
+      "title": "Horóscopo de hoy: día miércoles 28 de octubre para todos los signos",
+      "summary": "CELEBRIDADES NACIDAS ESTE DÍA: Nolan Gould, 28; Matt Smith, 44; Julia Roberts, 59; Bill Gates, 71; Annie Potts, 74. FELIZ CUMPLEAÑOS: dedique su energía a lograr avances personales y profesionales. Aléjese de situaciones hostiles. Evite riesgos que puedan perjudicar su reputación o su estabilidad financiera.",
+      "keyPoints": [
+        "CELEBRIDADES NACIDAS ESTE DÍA: Nolan Gould, 28; Matt Smith, 44; Julia Roberts, 59; Bill Gates, 71; Annie Potts, 74."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Horóscopo de hoy: día miércoles 28 de octubre para todos los signos",
+          "url": "https://www.abc.com.py/horoscopo/2026/10/28/horoscopo-de-hoy-dia-miercoles-28-de-octubre-para-todos-los-signos",
+          "publishedAt": "2026-10-28T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/tK8piYc1HD2OQ5jZ5BK8CWykd80=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MPFCYIEM4RAZXHVI6D3COF2AJU.png"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MPFCYIEM4RAZXHVI6D3COF2AJU.png?auth=07360bc290809a99a1a84df394813df0eca34f2d585e3b11b0f28e222efa8741&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/horoscopo/2026/10/28/horoscopo-de-hoy-dia-miercoles-28-de-octubre-para-todos-los-signos"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.66
+    },
+    {
+      "id": "ev-00679nu",
+      "title": "El Estado prevé saldar su deuda con proveedores farmacéuticos en 2027",
+      "summary": "Según estimaciones citadas por La Nación, la deuda del Estado con proveedores farmacéuticos se cubriría en el primer cuatrimestre de 2027. La nota no detalla montos ni el plan de pago. La previsión es una estimación y todavía no es un pago concretado.",
+      "keyPoints": [
+        "La deuda es con proveedores farmacéuticos.",
+        "La estimación indica el primer cuatrimestre de 2027.",
+        "Las notas no informan montos ni el método de pago."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Deuda con proveedores sería saldada en 2027",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/deuda-con-proveedores-seria-saldada-en-2027",
+          "publishedAt": "2026-10-28T03:49:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KXbDmnQ-_kxtPzkOiFZ3wX6cpLo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/27ZQNHCW4JEP3AJ4VFXKLZU2GI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/27ZQNHCW4JEP3AJ4VFXKLZU2GI.jpg?auth=f4d1b31d5aba132caa9011deb27d39fcc5c4fd600fa51a5a55cbcda380db4975&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/28/deuda-con-proveedores-seria-saldada-en-2027"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.64
+    },
+    {
+      "id": "ev-0zdmt9u",
+      "title": "Influyente legislador de EE. UU. destaca vínculo con Paraguay",
+      "summary": "Mario Díaz-Balart resaltó el fortalecimiento de los vínculos entre ambos países en áreas clave como seguridad y tecnología.",
+      "keyPoints": [
+        "Mario Díaz-Balart resaltó el fortalecimiento de los vínculos entre ambos países en áreas clave como seguridad y tecnología."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Influyente legislador de EE. UU. destaca vínculo con Paraguay",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/influyente-legislador-de-ee-uu-destaca-vinculo-con-paraguay",
+          "publishedAt": "2026-10-28T03:38:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Db3eb7G9-uYGqBE4dFGetVGo8wk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/73TVNSXF2NEQ3BREF4KK5QY3QU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/73TVNSXF2NEQ3BREF4KK5QY3QU.jpg?auth=21b9168146b2a60be654dba95bc840b2af69e901702a26eebfb832a24421acaa&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/influyente-legislador-de-ee-uu-destaca-vinculo-con-paraguay"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.63
+    },
+    {
+      "id": "ev-0gm0zgx",
+      "title": "Especialista en inteligencia emocional lleva “Cero Quejas” al cine",
+      "summary": "¿Y si comprender nuestras heridas fuera el primer paso para dejar de repetirlas? “Cero Quejas”, el best seller de Silvia Gil, llegará al cine en 2027 con historias basadas en vivencias reales que buscan despertar conciencia y transformar nuestra relación con las emociones.",
+      "keyPoints": [
+        "¿Y si comprender nuestras heridas fuera el primer paso para dejar de repetirlas?"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Especialista en inteligencia emocional lleva “Cero Quejas” al cine",
+          "url": "https://www.lanacion.com.py/foco/innovacion-foco/2026/10/28/especialista-en-inteligencia-emocional-lleva-cero-quejas-al-cine",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HqO3H8QAgAUJkSFuDnawvGub-cc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7JZQGL27RVEFBFKX3KKCHDR2K4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7JZQGL27RVEFBFKX3KKCHDR2K4.jpg?auth=8c39dddb312a9e26857d55f731c9431b19c454a356ae246962214dae9872d2bb&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/foco/innovacion-foco/2026/10/28/especialista-en-inteligencia-emocional-lleva-cero-quejas-al-cine"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.58
+    },
+    {
+      "id": "ev-02ghxv2",
+      "title": "AUDIO: El 70% de los jubilados ya cumplió con el censo digital de IPS: ¿qué pasará con el resto?",
+      "summary": "ABC Cardinal 730 AM · 27 10 2026 Periodísticamente - Américo Riquelme - Director Jubilaciones y Pensiones del IPS",
+      "keyPoints": [
+        "ABC Cardinal 730 AM · 27 10 2026 Periodísticamente - Américo Riquelme - Director Jubilaciones y Pensiones del IPS"
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: El 70% de los jubilados ya cumplió con el censo digital de IPS: ¿qué pasará con el resto?",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-el-70-de-los-jubilados-ya-cumplio-con-el-censo-digital-de-ips-que-pasara-con-el-resto",
+          "publishedAt": "2026-10-28T00:48:10.000Z",
+          "image": "https://www.abc.com.py/resizer/EExKSAayy85XFoWescgun2wjXNU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/K3PE2FCFENGCBOVLBDRL2DMHZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/K3PE2FCFENGCBOVLBDRL2DMHZI.jpg?auth=873d92c0424b90f817953c7ce5d960ba900323424123b33484a8576f274e5746&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-el-70-de-los-jubilados-ya-cumplio-con-el-censo-digital-de-ips-que-pasara-con-el-resto"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.39
+    },
+    {
+      "id": "ev-11mzwbo",
+      "title": "Con el 48 % escrutado, el Likud lidera en Israel y Yashar! recorta distancia",
+      "summary": "Con el 48 % del recuento, el Likud de Netanyahu lidera las elecciones israelíes. Yashar!, de Eisenkot, se acerca en el escrutinio. Juntos, de Bénet y Lapid, aparece tercero con 9,2 %. Eisenkot y Bénet prometieron intentar formar un gobierno sin Netanyahu, según los medios.",
+      "keyPoints": [
+        "El Likud lidera con el 48 % escrutado.",
+        "Juntos obtiene 9,2 % y ocupa la tercera posición.",
+        "Yashar! y Juntos hablaron de aliarse.",
+        "Eisenkot y Bénet buscan un gobierno sin Netanyahu."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con el 48 % escrutado, el Likud lidera en Israel mientras Yashar! recorta distancias",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-48-escrutado-el-likud-lidera-en-israel-mientras-yashar-recorta-distancias",
+          "publishedAt": "2026-10-28T05:50:05.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con el 28 % escrutado, Likud lidera el recuento en Israel, seguido de Yashar! y Juntos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-28-escrutado-likud-lidera-el-recuento-en-israel-seguido-de-yashar-y-juntos",
+          "publishedAt": "2026-10-28T03:25:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con un 5,6 % escrutado, el Likud gana las elecciones, seguido de Yashar! y Juntos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/con-un-56-escrutado-el-likud-gana-las-elecciones-seguido-de-yashar-y-juntos",
+          "publishedAt": "2026-10-28T01:10:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.31
+    },
+    {
+      "id": "ev-0z0ml3g",
+      "title": "Zeta, exvocalista de Mägo de Oz, se presenta en Asunción el 13 de noviembre",
+      "summary": "El exvocalista de Mägo de Oz, Zeta, llega a Paraguay para participar del Ilussia Fest. Su presentación será el 13 de noviembre en el teatro del Hotel Excelsior de Asunción. El espectáculo combina música, magia y fantasía, según la nota publicada.",
+      "keyPoints": [
+        "Zeta es exvocalista de Mägo de Oz.",
+        "La presentación será el 13 de noviembre.",
+        "El lugar es el teatro del Hotel Excelsior de Asunción.",
+        "El evento forma parte del Ilussia Fest."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Zeta regresa a Paraguay con el Ilussia Fest: música, magia y fantasía",
+          "url": "https://www.lanacion.com.py/espectaculo/2026/10/27/zeta-regresa-a-paraguay-con-el-ilussia-fest-musica-magia-y-fantasia",
+          "publishedAt": "2026-10-27T23:37:33.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CcJg9mXezSPaKJHxL06eulv5ciw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYVQ6FVYKZA6NDCTK5NC3BD25I.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QYVQ6FVYKZA6NDCTK5NC3BD25I.jpg?auth=e3831cae057c69c78fdf1f5271d81d397b82f2adfbac48f9c0fd40657a785d03&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/espectaculo/2026/10/27/zeta-regresa-a-paraguay-con-el-ilussia-fest-musica-magia-y-fantasia"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.29
+    },
+    {
+      "id": "ev-0zeghtx",
+      "title": "Silvio Pettirossi incorpora puertas electrónicas para agilizar el embarque",
+      "summary": "El aeropuerto Silvio Pettirossi incorporó puertas electrónicas para agilizar el embarque de los pasajeros. El objetivo es mejorar los servicios aeroportuarios. Además, el aeropuerto proyecta nuevas obras para ampliar su capacidad operativa. Por ahora, las notas no detallan plazos ni montos de esas obras.",
+      "keyPoints": [
+        "El aeropuerto incorporó puertas electrónicas para el embarque.",
+        "Se proyectan obras para ampliar la capacidad operativa.",
+        "El objetivo es mejorar los servicios aeroportuarios."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El Silvio Pettirossi agiliza el embarque con puertas electrónicas y prepara una millonaria inversión",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/el-silvio-pettirossi-agiliza-el-embarque-con-puertas-electronicas-y-prepara-una-millonaria-inversion",
+          "publishedAt": "2026-10-27T22:55:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/y_vdJLvsU58d4i9bkUMoEQDXAjQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BBHZGEN3ZZB3NOHMXAQTC2P4EU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BBHZGEN3ZZB3NOHMXAQTC2P4EU.jpg?auth=357be25f0113dee90fb172c2c6b144cc365a0f1c49155238eabb89d3210d1817&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/27/el-silvio-pettirossi-agiliza-el-embarque-con-puertas-electronicas-y-prepara-una-millonaria-inversion"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.23
+    },
+    {
+      "id": "ev-0a3eu74",
+      "title": "Ovejas Negras lanza “Todo está bien”, quinto adelanto de su segundo álbum",
+      "summary": "La banda Ovejas Negras presentó su nueva canción “Todo está bien”. Es el quinto adelanto de su segundo álbum y ya se puede escuchar en YouTube. La nota no trae más detalles sobre el disco.",
+      "keyPoints": [
+        "La canción se llama “Todo está bien”.",
+        "Es el quinto adelanto del segundo álbum de la banda.",
+        "Ya está disponible en YouTube."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "“Todo está bien” para Ovejas Negras",
+          "url": "https://www.hoy.com.py/espectaculos/musica/2026/10/27/todo-esta-bien-para-ovejas-negras",
+          "publishedAt": "2026-10-27T21:10:45.338Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QFMRORCBYBD5NL3HVQJG3C4PJQ.JPG?auth=aeaae5914fcc8367ccd089cbbb4067ead992c678e1533946bc67aa91ea2e8110&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/QFMRORCBYBD5NL3HVQJG3C4PJQ.JPG?auth=aeaae5914fcc8367ccd089cbbb4067ead992c678e1533946bc67aa91ea2e8110&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/espectaculos/musica/2026/10/27/todo-esta-bien-para-ovejas-negras"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.09
+    },
+    {
+      "id": "ev-1ykd2kt",
+      "title": "La Albirroja U15 vuelve campeona del Sudamericano de básquetbol en Chile",
+      "summary": "La selección paraguaya masculina U15 de básquetbol regresó al país tras ganar el Clasificatorio Sudamericano al FIBA AmeriCup U16 de 2027. El equipo, dirigido por Benjamín Cano, venció 71-67 a Chile en la final disputada en Castro. Es el primer título de Paraguay en la categoría y le dio el tercer cupo para el AmeriCup U16.",
+      "keyPoints": [
+        "El torneo se disputó del 21 al 25 de octubre en Castro, Chile.",
+        "Paraguay venció 71-67 a Chile en la final.",
+        "Es la primera vez que Paraguay gana el Sudamericano de la categoría.",
+        "Iván Nuevo fue elegido para el All-Star Starting 5 del certamen."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La Albirroja U15 volvió al país con una conquista histórica",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/10/27/la-albirroja-u15-volvio-al-pais-con-una-conquista-historica",
+          "publishedAt": "2026-10-28T01:43:26.000Z",
+          "image": "https://www.abc.com.py/resizer/0oNTWA2VYttR9e3SOmMIXXXglOM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XYFXN7VKQBHQHOJOW2WEXNFKLY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nicolás Varela: “Invito a todos los chicos a soñar y trabajar duro”",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/10/27/nicolas-varela-invito-a-todos-los-chicos-a-sonar-y-trabajar-duro",
+          "publishedAt": "2026-10-28T02:59:05.000Z",
+          "image": "https://www.abc.com.py/resizer/_TRsvsJ5aAhKGvHUMizAVsboFe8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4KV3U2HD7JEZRHY2CFRTIBMPAY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Iván Nuevo: “Poca gente se lo esperaba, pero trabajando todos juntos lo logramos”",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/10/27/ivan-nuevo-poca-gente-se-lo-esperaba-pero-trabajando-todos-juntos-lo-logramos",
+          "publishedAt": "2026-10-28T01:49:56.000Z",
+          "image": "https://www.abc.com.py/resizer/jpCkOaXXGMhmvDNzjixUwoODx5c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2CVKQRIX5FDYDMYY6QTEQZICJA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/XYFXN7VKQBHQHOJOW2WEXNFKLY.jpg?auth=98d823aa4a6a92afee67181e142c7aaa933897b8a963eac1337bd0d13be662c2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/10/27/la-albirroja-u15-volvio-al-pais-con-una-conquista-historica"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 5.07
+    },
+    {
+      "id": "ev-0rsm6up",
+      "title": "Israel confirma un intento de ataque terrorista cerca de su embajada en Belgrado",
+      "summary": "El Ministerio de Exteriores de Israel confirmó un intento de ataque cerca de su embajada en Belgrado. El atacante fue neutralizado por la Policía local. Ningún trabajador resultó herido, y la misión estaba cerrada. El incidente está bajo investigación de las autoridades.",
+      "keyPoints": [
+        "El atacante fue neutralizado por la Policía local.",
+        "Ningún trabajador de la embajada resultó herido.",
+        "La embajada estaba cerrada cuando ocurrió el ataque."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Ministerio de Exteriores de Israel confirma el ataque a su embajada en Belgrado",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/el-ministerio-de-exteriores-de-israel-confirma-el-ataque-a-su-embajada-en-belgrado",
+          "publishedAt": "2026-10-28T08:00:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 3.49
+    },
+    {
+      "id": "ev-1x29glz",
+      "title": "Abatido un menor que atacó a un policía frente a la embajada de Israel en Belgrado",
+      "summary": "Un menor armado con cuchillos atacó a un policía que custodiaba la embajada de Israel en Belgrado y fue abatido a tiros. El ministro del Interior serbio, Ivica Dacic, calificó el hecho de acto terrorista. Las autoridades sospechan que sería simpatizante del Estado Islámico, según su perfil en Instagram.",
+      "keyPoints": [
+        "Un menor atacó a un policía que custodiaba la embajada.",
+        "El ataque ocurrió alrededor de las 00:15 hora local.",
+        "Serbia elevó al máximo la alerta terrorista.",
+        "Las autoridades lo señalan como presunto simpatizante del Estado Islámico."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Abatido un menor tras atacar a un policía frente a la embajada de Israel en Belgrado",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/abatido-un-menor-tras-atacar-a-un-policia-frente-a-la-embajada-de-israel-en-belgrado",
+          "publishedAt": "2026-10-28T07:50:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 3.48
+    }
+  ],
+  "runs": [
+    {
+      "slot": "manana",
+      "at": "2026-10-28T08:07:14.815Z",
+      "added": 50,
+      "updated": 0,
+      "candidates": 69
+    }
+  ]
+}
