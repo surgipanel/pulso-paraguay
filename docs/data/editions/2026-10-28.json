@@ -1,27 +1,255 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T18:29:00.102Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-28T23:07:10.829Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-15bmxnn",
-      "title": "Pérdida de investidura de Zenaida Delgado se tratará el próximo miércoles en el Senado",
-      "summary": "El presidente del Congreso Nacional, Basilio “Bachi” Núñez, confirmó este miércoles que el proyecto para impulsar la pérdida de investidura de su colega Zenaida Delgado, será analizado el próximo martes a través de una sesión extraordinaria. Agregó que el Ministerio Público ya requirió varias informaciones a la Cámara Alta en el marco de la investigación abierta contra la senadora.",
+      "id": "ev-1on1lzq",
+      "title": "Exjefe de Inteligencia Penitenciaria se presenta ante la Fiscalía por fuga en Emboscada",
+      "summary": "El subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria, se presentó este miércoles ante la Fiscalía de Emboscada. Antes, agentes habían allanado su vivienda. Es investigado por su presunta vinculación con la fuga de dos reclusos del penal de Emboscada. La fiscal Fabiola Sosa dijo que declaraciones de guardias detenidos llevaron al allanamiento. La investigación sigue con nuevas detenciones.",
       "keyPoints": [
-        "El presidente del Congreso Nacional, Basilio “Bachi” Núñez, confirmó este miércoles que el proyecto para impulsar la pérdida de investidura de su colega Zenaida Delgado, será analizado el próximo martes a través de una sesión extraordinaria.",
-        "A pedido del senador Natalicio Chase, el pleno aprobó una moción de preferencia para que el pedido de pérdida de investidura de la legisladora sea tratado como primer punto del orden del día de la sesión…",
-        "Zenaida Delgado anunció que presentará su renuncia a la Cámara de Senadores y se someterá a la justicia, tras enfrentar un inminente proceso de pérdida de investidura impulsado por denuncias de corrupción e irregularidades vinculadas al…",
-        "El Senado tratará el miércoles el pedido de pérdida de investidura de Zenaida Delgado, tras aprobar la convocatoria con 28 votos a favor y dos en contra."
+        "Derlis Cáceres se presentó ante la Fiscalía de Emboscada.",
+        "Agentes allanaron su vivienda en Villa Elisa.",
+        "Es investigado por presunta vinculación con la fuga de dos reclusos.",
+        "Otros funcionarios penitenciarios ya están detenidos o imputados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Exjefe de Inteligencia Penitenciaria se presenta ante la Fiscalía por fuga en Emboscada",
+          "url": "https://www.adndigital.com.py/exjefe-de-inteligencia-penitenciaria-se-presenta-ante-la-fiscalia-por-fuga-en-emboscada",
+          "publishedAt": "2026-10-28T20:25:14.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-28-at-172442.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: tras entrega de subcomisario e incautación de celulares siguen las investigaciones",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-tras-entrega-de-subcomisario-se-incautan-de-celulares",
+          "publishedAt": "2026-10-28T19:00:48.000Z",
+          "image": "https://www.abc.com.py/resizer/H4e3hLodlI3L_N-ziINqU5_kBIo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/T7TOZFTVGVF3BB4WBEYUUFHZC4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: excoordinador prófugo se presentó ante la Justicia",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-excoordinador-profugo-se-presenta-ante-la-justicia",
+          "publishedAt": "2026-10-28T17:39:14.000Z",
+          "image": "https://www.abc.com.py/resizer/6Er-2XLhjLUu785GbJSjojrEWAQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nombraron a nuevo director de Establecimientos Penitenciarios tras fuga de reclusos de alta peligrosidad",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/nombraron-a-nuevo-director-de-establecimientos-penitenciarios-tras-fuga-de-reclusos-de-alta-peligrosidad",
+          "publishedAt": "2026-10-28T17:28:31.000Z",
+          "image": "https://www.abc.com.py/resizer/YzBoAMsuAUbVq3uRtrO_oUKUQzg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N526GV62DVHZJETJLK2ZCQEIQA.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Se entrega exdirector de Inteligencia buscado por fuga en Emboscada",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/28/se-entrega-exdirector-de-inteligencia-buscado-por-fuga-en-emboscada",
+          "publishedAt": "2026-10-28T16:41:45.485Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/P6U2BKO46BFCRBHMNLGMAPZSQA.jpg?auth=17ce9620f949ea90656650bacbd667c17fbb49c70df9e3910223aab59e929e93&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan vivienda de subcomisario vinculado a la fuga de presos en Emboscada",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/28/allanan-vivienda-de-subcomisario-vinculado-a-la-fuga-de-presos-en-emboscada",
+          "publishedAt": "2026-10-28T14:37:25.694Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga de presos: hallan evidencias de presunta red de sobornos en penal de Emboscada",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-de-presos-hallan-evidencias-de-presunta-red-de-sobornos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-28T14:18:19.000Z",
+          "image": "https://www.abc.com.py/resizer/xykjZipskE_2VMRRE3FMJ3fosRI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G5D3CD4ZCFBFXOGZSI3X3WHRLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan la vivienda de un exjefe de Inteligencia Penitenciaria por la fuga de reos en Emboscada",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/allanan-la-vivienda-de-un-exjefe-de-inteligencia-penitenciaria-por-la-fuga-de-reos-en-emboscada",
+          "publishedAt": "2026-10-28T14:17:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2w1nhB7BYbdpts9tTfaEhky2mDE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/28/audio-fuga-en-emboscada-allanan-vivienda-de-excoordinador-penitenciario-en-villa-elisa",
+          "publishedAt": "2026-10-28T12:53:02.000Z",
+          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Allanan vivienda de ex director de Inteligencia Penitenciaria por fuga de presos",
+          "url": "https://www.adndigital.com.py/allanan-vivienda-de-ex-director-de-inteligencia-penitenciaria-por-fuga-de-presos",
+          "publishedAt": "2026-10-28T12:02:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Allanan vivienda de exdirector de Inteligencia Penitenciaria y ordenan su captura por fuga en Emboscada",
+          "url": "https://www.npy.com.py/noticias/nacionales/allanan-vivienda-de-exdirector-de-inteligencia-penitenciaria-y-ordenan-su-captura-por-fuga-en-emboscada",
+          "publishedAt": "2026-10-28T11:43:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Exdirector de Inteligencia Penitenciaria es buscado por liberación de reos",
+          "url": "https://www.ultimahora.com/exdirector-de-inteligencia-penitenciaria-es-buscado-por-liberacion-de-reos",
+          "publishedAt": "2026-10-28T10:54:03.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La Policía confirma celda vip en Emboscada y estaría en un sector no habilitado: ¿Quiénes la ocupan?",
+          "url": "https://www.ultimahora.com/la-policia-confirma-celda-vip-en-emboscada-y-estaria-en-un-sector-no-habilitado-quienes-la-ocupan",
+          "publishedAt": "2026-10-28T10:34:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-allanan-vivienda-en-villa-elisa-de-excoordinador-penitenciario",
+          "publishedAt": "2026-10-28T10:15:28.000Z",
+          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Destituyen a alto jefe penitenciario tras fuga de dos reclusos en Emboscada",
+          "url": "https://elnacional.com.py/politica/destituyen-alto-jefe-penitenciario-tras-fuga-dos-reclusos-emboscada-n114287",
+          "publishedAt": "2026-10-28T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Emboscada: requisa y detención del director",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/28/emboscada-requisa-y-detencion-del-director",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j4FrphRi5_jgU6327OKj5mVxZoE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BNJM4MHMPZDX7EL73NMOA3YSCE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
+          "publishedAt": "2026-10-28T00:51:14.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
+          "publishedAt": "2026-10-27T23:05:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
+          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-27T22:00:58.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
+          "publishedAt": "2026-10-27T19:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Requisan penal de Emboscada y detienen al director y a dos jefes por fuga de dos reos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos",
+          "publishedAt": "2026-10-27T17:20:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lHUPrPhQ_-G1YeLUJLGZqK76MSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
+          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
+          "publishedAt": "2026-10-27T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
+          "url": "https://www.npy.com.py/noticias/nacionales/detienen-al-exdirector-del-penal-de-emboscada-tras-fuga-de-dos-internos",
+          "publishedAt": "2026-10-27T16:46:38.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Investigan \"liberación de presos\" en el penal Martín Mendoza",
+          "url": "https://www.telefuturo.com.py/investigan-liberacion-de-presos-en-el-penal-martin-mendoza",
+          "publishedAt": "2026-10-27T13:53:39.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-28-at-172442.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/exjefe-de-inteligencia-penitenciaria-se-presenta-ante-la-fiscalia-por-fuga-en-emboscada"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T23:07:10.829Z",
+      "updatedSlot": "tarde",
+      "score": 29.78
+    },
+    {
+      "id": "ev-15bmxnn",
+      "title": "Zenaida Delgado anunciará su renuncia al Senado y niega las acusaciones",
+      "summary": "La senadora Zenaida Delgado anunció que dejará su banca y se someterá a la Justicia. Rechazó las acusaciones de cobros indebidos y uso de influencias en contrataciones públicas. Pidió siete días para preparar su defensa. El Senado tratará su pedido de pérdida de investidura el miércoles, como primer punto del orden del día.",
+      "keyPoints": [
+        "Zenaida Delgado niega los presuntos cobros indebidos y uso de influencias.",
+        "Pidió un permiso de siete días para preparar su defensa.",
+        "El Senado tratará el pedido de pérdida de investidura el miércoles.",
+        "El Ministerio Público requirió informaciones a la Cámara Alta."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Zenaida Delgado se pone a disposición de la Fiscalía y niega acusaciones",
+          "url": "https://www.telefuturo.com.py/zenaida-delgado-se-pone-a-disposicion-de-la-fiscalia-y-niega-acusaciones",
+          "publishedAt": "2026-10-28T20:05:55.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -288,229 +516,25 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PUFMVURFZRB2ND2ZMXCHT44AUA.jpg?auth=438bb8d91f68570ee200b6da38aac98f1abed96c363b1c428a3c2a53fe4f596a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/28/perdida-de-investidura-de-zenaida-delgado-se-tratara-el-proximo-miercoles-en-el-senado"
+        "url": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/senado-tratara-perdida-investidura-zenaida-delgado-proximo-miercoles-n114312"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T18:29:00.102Z",
+      "updatedAt": "2026-10-28T23:07:10.829Z",
       "updatedSlot": "tarde",
-      "score": 29.98
-    },
-    {
-      "id": "ev-1on1lzq",
-      "title": "Allanan casa de exjefe de Inteligencia Penitenciaria por la fuga de Emboscada",
-      "summary": "La Fiscalía allanó la casa del subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria del Ministerio de Justicia, en la investigación por la fuga de dos reclusos. Los investigadores sospechan de presuntos vínculos con el crimen organizado, según ABC Color. Luego del allanamiento, Cáceres se presentó ante la Fiscalía de Emboscada.",
-      "keyPoints": [
-        "Se allanó la vivienda del subcomisario Derlis Cáceres.",
-        "Los investigadores mantienen sospechas sobre presuntos vínculos con el crimen organizado.",
-        "Cáceres se presentó ante la Fiscalía de Emboscada.",
-        "El agente fue removido de su cargo en septiembre del año pasado."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Fuga en Emboscada: excoordinador prófugo se presentó ante la Justicia",
-          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-excoordinador-profugo-se-presenta-ante-la-justicia",
-          "publishedAt": "2026-10-28T17:39:14.000Z",
-          "image": "https://www.abc.com.py/resizer/6Er-2XLhjLUu785GbJSjojrEWAQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Nombraron a nuevo director de Establecimientos Penitenciarios tras fuga de reclusos de alta peligrosidad",
-          "url": "https://www.abc.com.py/policiales/2026/10/28/nombraron-a-nuevo-director-de-establecimientos-penitenciarios-tras-fuga-de-reclusos-de-alta-peligrosidad",
-          "publishedAt": "2026-10-28T17:28:31.000Z",
-          "image": "https://www.abc.com.py/resizer/YzBoAMsuAUbVq3uRtrO_oUKUQzg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N526GV62DVHZJETJLK2ZCQEIQA.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Se entrega exdirector de Inteligencia buscado por fuga en Emboscada",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/28/se-entrega-exdirector-de-inteligencia-buscado-por-fuga-en-emboscada",
-          "publishedAt": "2026-10-28T16:41:45.485Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/P6U2BKO46BFCRBHMNLGMAPZSQA.jpg?auth=17ce9620f949ea90656650bacbd667c17fbb49c70df9e3910223aab59e929e93&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan vivienda de subcomisario vinculado a la fuga de presos en Emboscada",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/28/allanan-vivienda-de-subcomisario-vinculado-a-la-fuga-de-presos-en-emboscada",
-          "publishedAt": "2026-10-28T14:37:25.694Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Fuga de presos: hallan evidencias de presunta red de sobornos en penal de Emboscada",
-          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-de-presos-hallan-evidencias-de-presunta-red-de-sobornos-en-penal-de-emboscada",
-          "publishedAt": "2026-10-28T14:18:19.000Z",
-          "image": "https://www.abc.com.py/resizer/xykjZipskE_2VMRRE3FMJ3fosRI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G5D3CD4ZCFBFXOGZSI3X3WHRLA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan la vivienda de un exjefe de Inteligencia Penitenciaria por la fuga de reos en Emboscada",
-          "url": "https://www.lanacion.com.py/pais/2026/10/28/allanan-la-vivienda-de-un-exjefe-de-inteligencia-penitenciaria-por-la-fuga-de-reos-en-emboscada",
-          "publishedAt": "2026-10-28T14:17:53.000Z",
-          "image": "https://www.lanacion.com.py/resizer/2w1nhB7BYbdpts9tTfaEhky2mDE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
-          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/28/audio-fuga-en-emboscada-allanan-vivienda-de-excoordinador-penitenciario-en-villa-elisa",
-          "publishedAt": "2026-10-28T12:53:02.000Z",
-          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Allanan vivienda de ex director de Inteligencia Penitenciaria por fuga de presos",
-          "url": "https://www.adndigital.com.py/allanan-vivienda-de-ex-director-de-inteligencia-penitenciaria-por-fuga-de-presos",
-          "publishedAt": "2026-10-28T12:02:45.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Allanan vivienda de exdirector de Inteligencia Penitenciaria y ordenan su captura por fuga en Emboscada",
-          "url": "https://www.npy.com.py/noticias/nacionales/allanan-vivienda-de-exdirector-de-inteligencia-penitenciaria-y-ordenan-su-captura-por-fuga-en-emboscada",
-          "publishedAt": "2026-10-28T11:43:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Exdirector de Inteligencia Penitenciaria es buscado por liberación de reos",
-          "url": "https://www.ultimahora.com/exdirector-de-inteligencia-penitenciaria-es-buscado-por-liberacion-de-reos",
-          "publishedAt": "2026-10-28T10:54:03.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "La Policía confirma celda vip en Emboscada y estaría en un sector no habilitado: ¿Quiénes la ocupan?",
-          "url": "https://www.ultimahora.com/la-policia-confirma-celda-vip-en-emboscada-y-estaria-en-un-sector-no-habilitado-quienes-la-ocupan",
-          "publishedAt": "2026-10-28T10:34:54.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
-          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-allanan-vivienda-en-villa-elisa-de-excoordinador-penitenciario",
-          "publishedAt": "2026-10-28T10:15:28.000Z",
-          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Destituyen a alto jefe penitenciario tras fuga de dos reclusos en Emboscada",
-          "url": "https://elnacional.com.py/politica/destituyen-alto-jefe-penitenciario-tras-fuga-dos-reclusos-emboscada-n114287",
-          "publishedAt": "2026-10-28T09:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Emboscada: requisa y detención del director",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/28/emboscada-requisa-y-detencion-del-director",
-          "publishedAt": "2026-10-28T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/j4FrphRi5_jgU6327OKj5mVxZoE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BNJM4MHMPZDX7EL73NMOA3YSCE.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
-          "publishedAt": "2026-10-28T00:51:14.000Z",
-          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
-          "publishedAt": "2026-10-27T23:05:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
-          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
-          "publishedAt": "2026-10-27T22:00:58.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
-          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
-          "publishedAt": "2026-10-27T19:50:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Requisan penal de Emboscada y detienen al director y a dos jefes por fuga de dos reos",
-          "url": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos",
-          "publishedAt": "2026-10-27T17:20:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/lHUPrPhQ_-G1YeLUJLGZqK76MSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
-          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
-          "publishedAt": "2026-10-27T17:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
-          "url": "https://www.npy.com.py/noticias/nacionales/detienen-al-exdirector-del-penal-de-emboscada-tras-fuga-de-dos-internos",
-          "publishedAt": "2026-10-27T16:46:38.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Investigan \"liberación de presos\" en el penal Martín Mendoza",
-          "url": "https://www.telefuturo.com.py/investigan-liberacion-de-presos-en-el-penal-martin-mendoza",
-          "publishedAt": "2026-10-27T13:53:39.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg?auth=6f43f4e7a9fc0f72d3a1640236116b1f9c6f3ca2194079433fc020efe7ce8f2c&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-excoordinador-profugo-se-presenta-ante-la-justicia"
-      },
-      "firstSeenAt": "2026-10-28T08:07:14.815Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-28T18:29:00.102Z",
-      "updatedSlot": "tarde",
-      "score": 29.93
+      "score": 29.75
     },
     {
       "id": "ev-0y35zcb",
-      "title": "Flávio Bolsonaro salió de Brasil pese a una orden judicial y llegó a Miami",
-      "summary": "El senador Flávio Bolsonaro, derrotado por Luiz Inácio Lula da Silva en el balotaje, dejó Brasil rumbo a Estados Unidos. Según los medios, tenía orden judicial de no salir del país y de entregar sus pasaportes, en una investigación por lavado de dinero. Viajó con escala en Ecuador y llegó a Miami junto a su familia. El caso genera tensión política en Brasil y dudas sobre su paradero.",
+      "title": "Flávio Bolsonaro se declara presidente electo de Brasil tras perder elecciones",
+      "summary": "Flávio Bolsonaro, senador brasileño, dejó Brasil tras perder el balotaje ante Lula y llegó a Florida, en Estados Unidos. Desde allí publicó en X una carta en la que se declaraba presidente electo, y luego la cambió por la expresión líder de Brasil. Según la nota, el resultado fue reconocido por las instituciones brasileñas. Trump evitó opinar sobre la carta.",
       "keyPoints": [
-        "Flávio Bolsonaro perdió el balotaje frente a Luiz Inácio Lula da Silva.",
-        "Según los medios, tenía orden judicial de no salir de Brasil.",
-        "La investigación es por lavado de dinero, según los extractos.",
-        "Llegó a Miami en un vuelo privado con escala en Ecuador."
+        "Flávio Bolsonaro perdió el balotaje ante Lula.",
+        "Viajó a Ecuador y luego llegó a Florida, Estados Unidos.",
+        "Publicó una carta en X que luego modificó.",
+        "Trump no comentó la carta y calificó de extraños los comicios."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -518,6 +542,38 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Bolsonaro se declara líder de Brasil tras borrar carta en la que se proclamaba presidente",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/bolsonaro-se-declara-lider-de-brasil-tras-borrar-carta-en-la-que-se-proclamaba-presidente",
+          "publishedAt": "2026-10-28T21:55:14.000Z",
+          "image": "https://www.abc.com.py/resizer/KgGY1yQLkTfb9Rg4-4uwbm4GhCI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IHFHGBJXBVDAVKYVDWIKPX6D7U.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Trump evita comentar autoproclamación de Bolsonaro pero considera \"extraños\" los comicios",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/trump-evita-comentar-autoproclamacion-de-bolsonaro-pero-considera-extranos-los-comicios",
+          "publishedAt": "2026-10-28T21:55:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras huir de Brasil: Flávio Bolsonaro se declara \"verdadero presidente electo\"",
+          "url": "https://www.ultimahora.com/tras-huir-de-brasil-flavio-bolsonaro-se-declara-verdadero-presidente-electo",
+          "publishedAt": "2026-10-28T21:05:32.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro se declara \"verdadero presidente electo de Brasil\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/flavio-bolsonaro-se-declara-verdadero-presidente-electo-de-brasil",
+          "publishedAt": "2026-10-28T21:00:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -720,15 +776,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/whatsapp-image-2025-12-08-at-150823.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/flavio-bolsonaro-viajo-a-ecuador-desde-argentina-tras-huir-de-brasil"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/IHFHGBJXBVDAVKYVDWIKPX6D7U.jpg?auth=92d84f129761d7870d07203819362fbb2b46ef3faf5ddc5cc78e6ef147f71147&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/28/bolsonaro-se-declara-lider-de-brasil-tras-borrar-carta-en-la-que-se-proclamaba-presidente"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T18:29:00.102Z",
+      "updatedAt": "2026-10-28T23:07:10.829Z",
       "updatedSlot": "tarde",
-      "score": 24.46
+      "score": 24.4
     },
     {
       "id": "ev-153sh1k",
@@ -796,7 +852,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 20.44
+      "score": 20.05
     },
     {
       "id": "ev-1l7bw79",
@@ -855,7 +911,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 16.39
+      "score": 16
     },
     {
       "id": "ev-0d3orv9",
@@ -915,7 +971,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 14.38
+      "score": 13.99
     },
     {
       "id": "ev-0435o0h",
@@ -974,7 +1030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 13.74
+      "score": 13.35
     },
     {
       "id": "ev-0uyjd82",
@@ -1026,7 +1082,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.71
+      "score": 9.33
     },
     {
       "id": "ev-1lzhw54",
@@ -1078,7 +1134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.71
+      "score": 9.33
     },
     {
       "id": "ev-0ok1yds",
@@ -1122,7 +1178,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.41
     },
     {
       "id": "ev-0k2qhyn",
@@ -1166,7 +1222,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.41
     },
     {
       "id": "ev-0g4onea",
@@ -1210,7 +1266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.33
     },
     {
       "id": "ev-1lxuraf",
@@ -1253,7 +1309,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.15
     },
     {
       "id": "ev-0borz9n",
@@ -1296,7 +1352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.04
     },
     {
       "id": "ev-14bd47u",
@@ -1340,7 +1396,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.25
+      "score": 8
     },
     {
       "id": "ev-0bdld3x",
@@ -1383,7 +1439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-1xxz888",
@@ -1469,7 +1525,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.61
+      "score": 6.23
     },
     {
       "id": "ev-1xfj0xb",
@@ -1512,7 +1568,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.43
     },
     {
       "id": "ev-0er4cxm",
@@ -1555,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.34
     },
     {
       "id": "ev-107mk4a",
@@ -1598,7 +1654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-097ojem",
@@ -1641,7 +1697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-1wl06cw",
@@ -1684,7 +1740,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-0p2pz89",
@@ -1727,7 +1783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-10qf0gd",
@@ -1770,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-0xs4fak",
@@ -1813,7 +1869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.33
     },
     {
       "id": "ev-1ntdivc",
@@ -1856,7 +1912,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.23
     },
     {
       "id": "ev-1na3i9i",
@@ -1885,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-1bh7dt4",
@@ -1914,7 +1970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-1y8mlln",
@@ -1943,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-0p1wlza",
@@ -1973,7 +2029,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-0q0vfrx",
@@ -2005,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-0a8ruir",
@@ -2035,7 +2091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-00olzi1",
@@ -2067,7 +2123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-01wk2i7",
@@ -2097,7 +2153,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-0m6jf3a",
@@ -2127,7 +2183,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-0oc1i37",
@@ -2158,7 +2214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.66
     },
     {
       "id": "ev-1ddj47y",
@@ -2194,7 +2250,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.83
+      "score": 4.44
     },
     {
       "id": "ev-1fwgaq9",
@@ -2227,7 +2283,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.79
+      "score": 4.41
     },
     {
       "id": "ev-00679nu",
@@ -2262,7 +2318,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.39
     },
     {
       "id": "ev-0zdmt9u",
@@ -2295,7 +2351,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.38
     },
     {
       "id": "ev-0gm0zgx",
@@ -2328,7 +2384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.71
+      "score": 4.33
     },
     {
       "id": "ev-02ghxv2",
@@ -2361,7 +2417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.14
     },
     {
       "id": "ev-11mzwbo",
@@ -2409,7 +2465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.06
     },
     {
       "id": "ev-0z0ml3g",
@@ -2445,7 +2501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.04
     },
     {
       "id": "ev-0zeghtx",
@@ -2480,7 +2536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.37
+      "score": 4
     },
     {
       "id": "ev-0a3eu74",
@@ -2515,7 +2571,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-1ykd2kt",
@@ -2567,7 +2623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.21
+      "score": 3.82
     },
     {
       "id": "ev-0rsm6up",
@@ -2598,7 +2654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.63
+      "score": 2.24
     },
     {
       "id": "ev-1x29glz",
@@ -2630,7 +2686,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.61
+      "score": 2.23
     }
   ],
   "runs": [
@@ -2661,6 +2717,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-28T23:07:10.829Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 14
     }
   ]
 }
