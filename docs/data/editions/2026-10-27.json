@@ -1,27 +1,35 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-27T23:05:03.316Z",
+  "generatedAt": "2026-10-28T02:07:32.283Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-07alk6e",
-      "title": "Bancada oficialista definirá mañana si expulsa a Zenaida Delgado",
-      "summary": "La bancada colorada oficialista analiza la situación de la senadora Zenaida Delgado, denunciada por tres funcionarias. El líder de la bancada, Natalicio Chase, escuchó el descargo de la legisladora y recibió a las funcionarias afectadas. Aún no hay postura definida. No se descartan la renuncia ni la pérdida de investidura. La decisión se conocerá en la próxima jornada.",
+      "title": "Plantean la pérdida de investidura de Zenaida Delgado",
+      "summary": "La senadora Yolanda Paredes impulsa un libelo acusatorio contra su colega tras nuevas revelaciones periodísticas. El pedido sería tratado este miércoles en el Senado. Gustavo Vera, ex pareja de la senadora Zenaida Delgado, rompió el silencio tras las acusaciones en su contra y afirmó que únicamente prestaba su cuenta bancaria a la legisladora porque ella tenía las suyas \"bloqueadas\".",
       "keyPoints": [
-        "Tres funcionarias denunciaron a la senadora Zenaida Delgado.",
-        "Natalicio Chase lidera la bancada oficialista (ANR).",
-        "Chase escuchó el descargo de la senadora.",
-        "La bancada aún no define si apoya la pérdida de investidura."
+        "La senadora Yolanda Paredes impulsa un libelo acusatorio contra su colega tras nuevas revelaciones periodísticas.",
+        "Gustavo Vera, ex pareja de la senadora Zenaida Delgado, rompió el silencio tras las acusaciones en su contra y afirmó que únicamente prestaba su cuenta bancaria a la legisladora porque ella tenía las suyas \"bloqueadas\".",
+        "Fátima Delgado defendió a la legisladora frente a las denuncias de coimas a cambios de nombramientos y lanzó acusaciones contra las senadoras Celeste Amarilla y Lilian Samaniego.",
+        "La senadora liberal sostuvo que otros legisladores también conocían las versiones sobre presuntos cobros a funcionarios, pero que recién ahora algunas personas se animaron a denunciarlos."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tras acusarla de corrupta, la hermana de Zenaida se echa atrás ante Lilian Samaniego",
+          "url": "https://www.abc.com.py/politica/2026/10/27/tras-acusarla-de-corrupta-la-hermana-de-zenaida-se-echa-atras-ante-lilian-samaniego",
+          "publishedAt": "2026-10-28T01:40:33.000Z",
+          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -304,32 +312,72 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/44SR62OVMNHCDGBFFDET36A6UA.jpg?auth=e84d58586d787e6a30acbfd47f9925d03dda90c521b7d4303f78e0bba87eaa6c&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg?auth=850131a411a85b5353da7ff57e67cb78261716ef37f3ba7cab4e9c43ecc6aa50&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/27/oficialismo-recula-con-zenaida-penistas-hicieron-el-vacio-a-las-denunciantes"
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/27/tras-acusarla-de-corrupta-la-hermana-de-zenaida-se-echa-atras-ante-lilian-samaniego"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T23:05:03.316Z",
+      "updatedAt": "2026-10-28T02:07:32.283Z",
       "updatedSlot": "tarde",
-      "score": 29.94
+      "score": 29.96
     },
     {
       "id": "ev-0i8vp7h",
-      "title": "Detienen al exdirector de Emboscada por la fuga de dos presos",
-      "summary": "Pablo Abel González Apuril, exdirector del penal Martín Mendoza de Emboscada, fue detenido durante un allanamiento. Las autoridades lo investigan por posible complicidad en la fuga de dos reos de alta peligrosidad. Él negó tener responsabilidad en el hecho. También fueron detenidos dos responsables de seguridad. La Policía y la Fiscalía requisaron el penal y secuestraron celulares y documentos.",
+      "title": "Detienen al exdirector del penal de Emboscada tras fuga de dos internos",
+      "summary": "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho. También fueron detenidos dos responsables de seguridad. La Policía Nacional y la Fiscalía allanaron desde tempranas horas de este martes el penal Martín Mendoza de Emboscada en prosecución a la investigación iniciada por la fuga de dos reos de alta peligrosidad.",
       "keyPoints": [
-        "Pablo Abel González Apuril fue detenido durante un allanamiento.",
-        "Dos responsables de seguridad también fueron detenidos.",
-        "El exdirector negó tener responsabilidad en la fuga.",
-        "La requisa incluyó celulares y documentos."
+        "El exdirector del penal de Emboscada, Pablo Abel González Apuril, fue detenido durante un allanamiento por la fuga de dos internos y negó tener responsabilidad en el hecho.",
+        "La Policía Nacional y la Fiscalía allanaron desde tempranas horas de este martes el penal Martín Mendoza de Emboscada en prosecución a la investigación iniciada por la fuga de dos reos de alta peligrosidad.",
+        "El equipo interventor del Ministerio de Justicia inició verificaciones en el penal Martín Mendoza, luego de la fuga de dos internos.",
+        "Pablo Abel González Apuril fue detenido por disposición fiscal ante indicios de posible complicidad en la fuga de dos internos del penal de máxima seguridad de Emboscada."
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
+          "publishedAt": "2026-10-28T00:51:14.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Justicia destituye al director de Establecimientos Penitenciarios, tras liberación de reos",
+          "url": "https://www.ultimahora.com/justicia-destituye-al-director-de-establecimientos-penitenciarios-tras-liberacion-de-reos",
+          "publishedAt": "2026-10-28T00:10:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Destituyen a director general de Establecimientos Penitenciarios",
+          "url": "https://www.abc.com.py/politica/2026/10/27/destituyen-a-director-general-de-establecimientos-penitenciarios",
+          "publishedAt": "2026-10-27T23:22:58.000Z",
+          "image": "https://www.abc.com.py/resizer/jFGgNF5QMNRkhdJzVD_4teJOSO0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FUU7XE3MYZA55MKPLY6WDCXTTI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
+          "publishedAt": "2026-10-27T23:05:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
+          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-27T22:00:58.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -500,30 +548,31 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/OHUI7VB3HFFANGUKX625WISYAU.jpg?auth=71387271cfae4fb12df85b8a3a5b0c81f1388f68de849143fb4d5dc72cebc8f2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T23:05:03.316Z",
+      "updatedAt": "2026-10-28T02:07:32.283Z",
       "updatedSlot": "tarde",
-      "score": 29.8
+      "score": 29.89
     },
     {
       "id": "ev-0fq6c2e",
-      "title": "Alliana define su compañero de fórmula entre tres nombres por encuesta",
-      "summary": "Pedro Alliana define su compañero de fórmula entre Marco Riquelme, Raúl Latorre y César Sosa. Una encuesta decidirá al elegido. El ministro de Agricultura Carlos Giménez prefiere a Riquelme. Raúl Latorre dijo que acompañará la decisión de Alliana. El oficialismo colorado apunta a las próximas internas de la ANR.",
+      "title": "Marco Riquelme es la figura que necesita Alliana, dice ministro del MAG",
+      "summary": "“De los tres de los que se está hablando ahora, que son Riquelme, (Raúl) Latorre y Cesarito (Sosa) me gustaría que sea (Marco) Riquelme, una persona muy capaz” , expresó el ministro de Agricultura y Ganadería (MAG) Carlos Giménez, quien es además senador colorado con permiso.",
       "keyPoints": [
-        "La encuesta definirá el compañero de fórmula de Alliana.",
-        "El ministro Carlos Giménez prefiere a Marco Riquelme.",
-        "Raúl Latorre acompañará la decisión de Alliana."
+        "“De los tres de los que se está hablando ahora, que son Riquelme, (Raúl) Latorre y Cesarito (Sosa) me gustaría que sea (Marco) Riquelme, una persona muy capaz” , expresó el ministro de Agricultura y Ganadería…",
+        "El vicepresidente analiza posibles candidatos para acompañarlo en las elecciones generales de 2028 y apuesta por una figura técnica y urbana que complemente su trayectoria política.",
+        "El titular de la Cámara de Diputados, Raúl Latorre, manifestó que su respaldo a la candidatura presidencial de Pedro Alliana, seguirá firme en el caso de que llegase a apostar por la figura del ministro de…",
+        "Durante su jornada de gobierno en la localidad de Mariano Roque Alonso, departamento Central, el mandatario Santiago Peña elogió la incursión del ministro de Industria y Comercio (MIC), Marco Riquelme, en la función pública."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
         {
           "sourceId": "abc",
@@ -548,6 +597,14 @@
           "url": "https://www.abc.com.py/politica/2026/10/27/raul-latorre-insiste-que-acatara-decision-de-alliana-y-afirma-no-estar-negociando-con-anetete",
           "publishedAt": "2026-10-27T17:53:38.000Z",
           "image": "https://www.abc.com.py/resizer/k8WjoEWSrCkwCNxgIHQxsFIrpEs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RAIMZGFGSRB3DN7QDI57SGPUDQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña elogió la incursión de Riquelme en la función pública: “Vino a poner el hombro al país”",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/pena-elogio-la-incursion-de-riquelme-en-la-funcion-publica-vino-a-poner-el-hombro-al-pais",
+          "publishedAt": "2026-10-27T15:54:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TjsKCGjbH_xMy42qNV3Erx5Xsvg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/G72GHQGNHZFOLCQIZDBC4T2564.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -653,31 +710,72 @@
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T23:05:03.316Z",
+      "updatedAt": "2026-10-28T02:07:32.283Z",
       "updatedSlot": "tarde",
-      "score": 23.88
+      "score": 23.63
     },
     {
       "id": "ev-1dkgd84",
-      "title": "Flávio Bolsonaro huyó a EE.UU. pese a orden de entregar pasaportes, según medios",
-      "summary": "El excandidato presidencial Flávio Bolsonaro salió de Brasil rumbo a Estados Unidos, según CNN, The New York Times y otros medios. Derrotado por Lula en la segunda vuelta, no cumplió la orden del Supremo de entregar sus pasaportes en 24 horas. Las autoridades brasileñas cancelaron sus documentos. Bolsonaro está investigado en una causa por presunto lavado de dinero, que permanece bajo secreto judicial.",
+      "title": "Flávio Bolsonaro aterriza en EEUU, según medios",
+      "summary": "El conservador Flávio Bolsonaro huyó de Brasil con destino Estados Unidos tras haber perdido las presidenciales contra Lula, a pesar de una orden judicial que le impedía salir del país, informaron este martes medios estadounidenses. Flávio Bolsonaro, el candidato derrotado por el presidente Lula da Silva en el reciente balotaje en Brasil, aterrizó al caer la tarde de este martes en Estados Unidos, según dos medios estadounidenses.",
       "keyPoints": [
-        "Lula da Silva derrotó a Flávio Bolsonaro en la segunda vuelta.",
-        "El Supremo ordenó entregar pasaportes en 24 horas.",
-        "Sus pasaportes ordinario y diplomático fueron cancelados."
+        "El conservador Flávio Bolsonaro huyó de Brasil con destino Estados Unidos tras haber perdido las presidenciales contra Lula, a pesar de una orden judicial que le impedía salir del país, informaron este martes medios estadounidenses.",
+        "Flávio Bolsonaro, el candidato derrotado por el presidente Lula da Silva en el reciente balotaje en Brasil, aterrizó al caer la tarde de este martes en Estados Unidos, según dos medios estadounidenses.",
+        "El candidato presidencial brasileño Flávio Bolsonaro, derrotado en las urnas el domingo, huyó a Estados Unidos pese a una orden judicial que le impedía salir del país, según CNN y el New York Times, que citan…",
+        "El presidente brasileño, Luiz Inácio Lula da Silva, afirmó este martes que \"quien no debe, no teme\", por lo que \"quien sale escondido de su país, debe alguna cosa\", en referencia a la huida de Flávio…"
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Flávio Bolsonaro aterriza en EEUU, según medios de ese país",
+          "url": "https://www.ultimahora.com/flavio-bolsonaro-aterriza-en-eeuu-segun-medios-de-ese-pais",
+          "publishedAt": "2026-10-28T01:52:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro huye a EE.UU. con su familia y Lula califica la salida de \"vergonzosa\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/flavio-bolsonaro-huye-a-eeuu-con-su-familia-y-lula-califica-la-salida-de-vergonzosa",
+          "publishedAt": "2026-10-28T00:55:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Flávio Bolsonaro aterriza en EEUU, según medios",
+          "url": "https://www.hoy.com.py/mundo/2026/10/27/flavio-bolsonaro-aterriza-en-eeuu-segun-medios",
+          "publishedAt": "2026-10-28T00:52:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PK43VD2P3REFBJG6BX4USY3ARA.jpg?auth=e099d4c84914a9b062c7efc2c23909923c1696fb14a100274c083617bbcdaadc&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lula, sobre la ida de Flávio a EEUU: \"Quien sale escondido de su país, debe alguna cosa\"",
+          "url": "https://www.ultimahora.com/lula-sobre-la-ida-de-flavio-a-eeuu-quien-sale-escondido-de-su-pais-debe-alguna-cosa",
+          "publishedAt": "2026-10-27T22:44:49.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Las investigaciones que cercan a Flávio Bolsonaro, fugado a Estados Unidos",
           "url": "https://www.abc.com.py/internacionales/2026/10/27/las-investigaciones-que-cercan-a-flavio-bolsonaro-fugado-a-estados-unidos",
           "publishedAt": "2026-10-27T22:20:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula, sobre la ida de Flávio a EE.UU.: \"Quien sale escondido de su país, debe alguna cosa\"",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/lula-sobre-la-ida-de-flavio-a-eeuu-quien-sale-escondido-de-su-pais-debe-alguna-cosa",
+          "publishedAt": "2026-10-27T22:15:21.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
@@ -703,6 +801,14 @@
           "url": "https://www.ultimahora.com/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-en-medio-de-interrogantes-sobre-su-paradero",
           "publishedAt": "2026-10-27T21:08:10.000Z",
           "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Diputados del partido de Lula pidieron una alerta roja de Interpol para Flávio Bolsonaro",
+          "url": "https://www.adndigital.com.py/diputados-del-partido-de-lula-pidieron-una-alerta-roja-de-interpol-para-flavio-bolsonaro",
+          "publishedAt": "2026-10-27T20:00:46.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-165945.jpeg"
         },
         {
           "sourceId": "elnacional",
@@ -802,15 +908,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CYG43VQMSNF43OWG5WRRYOI6BM.jpg?auth=37a60f0460b522875e03a8a4df7909eb90a1abd9d30a286da4a5c0f879ecbc37&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/27/flavio-bolsonaro-huyo-a-ee-uu-tras-derrota-electoral-en-brasil-segun-medios"
+        "url": "https://www.lanacion.com.py/resizer/v2/PK43VD2P3REFBJG6BX4USY3ARA.jpg?auth=e099d4c84914a9b062c7efc2c23909923c1696fb14a100274c083617bbcdaadc&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/mundo/2026/10/27/flavio-bolsonaro-aterriza-en-eeuu-segun-medios"
       },
       "firstSeenAt": "2026-10-27T08:07:10.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-27T23:05:03.316Z",
+      "updatedAt": "2026-10-28T02:07:32.283Z",
       "updatedSlot": "tarde",
-      "score": 21.44
+      "score": 21.48
     },
     {
       "id": "ev-0uq2key",
@@ -918,7 +1024,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 17.03
+      "score": 16.77
     },
     {
       "id": "ev-1vikgtt",
@@ -986,7 +1092,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T12:07:14.389Z",
       "updatedSlot": "manana",
-      "score": 16.99
+      "score": 16.74
     },
     {
       "id": "ev-1mbks70",
@@ -1046,7 +1152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T16:07:16.784Z",
       "updatedSlot": "tarde",
-      "score": 14.62
+      "score": 14.37
     },
     {
       "id": "ev-19r6cmi",
@@ -1106,7 +1212,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 13.47
+      "score": 13.22
     },
     {
       "id": "ev-1slc3ej",
@@ -1202,7 +1308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.26
     },
     {
       "id": "ev-0n4wvps",
@@ -1246,7 +1352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.16
     },
     {
       "id": "ev-0m44r25",
@@ -1289,7 +1395,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.08
     },
     {
       "id": "ev-1bk2c3m",
@@ -1332,7 +1438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 8.06
+      "score": 8
     },
     {
       "id": "ev-1gofppa",
@@ -1505,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.6
+      "score": 5.5
     },
     {
       "id": "ev-0rugw54",
@@ -1549,7 +1655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.52
+      "score": 5.27
     },
     {
       "id": "ev-0duqb3n",
@@ -1593,7 +1699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.23
     },
     {
       "id": "ev-0ldc1sy",
@@ -1637,7 +1743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.22
     },
     {
       "id": "ev-14kva4n",
@@ -1681,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.16
     },
     {
       "id": "ev-0j01ntm",
@@ -1725,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.08
     },
     {
       "id": "ev-06ftyzn",
@@ -1769,7 +1875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.08
     },
     {
       "id": "ev-0crjp6u",
@@ -1842,7 +1948,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-06lduq5",
@@ -1872,7 +1978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-0ahco50",
@@ -1903,7 +2009,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-093l6cd",
@@ -1932,7 +2038,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-1w8n2vb",
@@ -1961,7 +2067,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-1jsagn1",
@@ -1993,7 +2099,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-06j0k1j",
@@ -2022,7 +2128,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.41
     },
     {
       "id": "ev-0lnu9wk",
@@ -2055,7 +2161,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.28
     },
     {
       "id": "ev-15z0wx7",
@@ -2090,7 +2196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.22
     },
     {
       "id": "ev-19b2blz",
@@ -2124,7 +2230,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.2
     },
     {
       "id": "ev-1xl7v27",
@@ -2159,7 +2265,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-0cjctzh",
@@ -2194,7 +2300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-0ewy266",
@@ -2229,7 +2335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-1qnthkb",
@@ -2265,7 +2371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-0t7kqyk",
@@ -2296,7 +2402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-0ng90j6",
@@ -2331,7 +2437,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-1fhjnhf",
@@ -2366,7 +2472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.16
     },
     {
       "id": "ev-1h0g79k",
@@ -2402,7 +2508,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-04l858b",
@@ -2436,7 +2542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 4.03
+      "score": 4
     },
     {
       "id": "ev-0n5hwg3",
@@ -2585,7 +2691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.99
+      "score": 3.74
     },
     {
       "id": "ev-0xv1owl",
@@ -2624,7 +2730,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 3.22
+      "score": 2.96
     },
     {
       "id": "ev-07gv1y5",
@@ -2668,7 +2774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 2.83
+      "score": 2.58
     },
     {
       "id": "ev-0gqq9ge",
@@ -2699,7 +2805,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-27T08:07:10.962Z",
       "updatedSlot": "manana",
-      "score": 2.17
+      "score": 1.92
     }
   ],
   "runs": [
@@ -2737,6 +2843,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-28T02:07:32.283Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 12
     }
   ]
 }
