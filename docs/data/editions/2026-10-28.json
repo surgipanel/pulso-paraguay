@@ -1,20 +1,248 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T12:07:13.605Z",
+  "generatedAt": "2026-10-28T15:01:44.345Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-1on1lzq",
-      "title": "Fuga de reos en Emboscada: allanan vivienda de exfuncionario penitenciario",
-      "summary": "La fiscal Fabiola Sosa ordenó un allanamiento en Villa Elisa a la vivienda del subcomisario Derlis Cáceres, exdirector de Inteligencia Penitenciaria, por la fuga de presos del penal de Emboscada. Cáceres es investigado por presunta colaboración en la evasión. Hay detenidos y el Ministerio de Justicia destituyó a Rubén Peña y dispuso la intervención del penal. Las autoridades hablan de liberación de reos.",
+      "id": "ev-15bmxnn",
+      "title": "Yolanda Paredes presenta libelo acusatorio contra Zenaida Delgado por supuestos cobros",
+      "summary": "La senadora Yolanda Paredes formalizó una acusación contra su colega Zenaida Delgado. Según la denuncia, Delgado habría exigido pagos a funcionarios a cambio de nombramientos. Paredes afirmó que cuenta con testimonios, mensajes y transferencias bancarias como respaldo. Delgado niega las acusaciones y se declaró inocente en el Senado.",
       "keyPoints": [
-        "Allanaron la vivienda de Derlis Cáceres en Villa Elisa y ordenaron su captura.",
-        "Cáceres es investigado por presunta colaboración en la fuga, según la Fiscalía.",
-        "El Ministerio de Justicia destituyó a Rubén Peña y dispuso la intervención del penal.",
-        "Según las autoridades, el hecho fue una liberación de reos."
+        "Paredes pertenece al movimiento Cruzada Nacional.",
+        "Afirmó que cuenta con testimonios, mensajes y transferencias bancarias.",
+        "Las denuncias hablan de pagos a funcionarios a cambio de nombramientos.",
+        "Delgado negó las acusaciones y se declaró inocente."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Yolanda Paredes advierte que el caso Delgado podría destapar más irregularidades",
+          "url": "https://www.abc.com.py/politica/2026/10/28/yolanda-paredes-advierte-que-el-caso-delgado-podria-destapar-mas-irregularidades",
+          "publishedAt": "2026-10-28T14:50:01.000Z",
+          "image": "https://www.abc.com.py/resizer/PKC-w23qCAZClOVleJyXfjrtU0k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZM53JYBIBBCSNOXWOZXZVQCQGE.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“Peaje salarial”: Senado aplaza hasta el miércoles pedido de expulsión de Zenaida Delgado",
+          "url": "https://www.abc.com.py/politica/2026/10/28/peaje-salarial-senado-aplaza-hasta-el-miercoles-pedido-de-expulsion-de-zenaida-delgado",
+          "publishedAt": "2026-10-28T14:23:51.000Z",
+          "image": "https://www.abc.com.py/resizer/o_1wOVPlU6-VJKeTvbRAanx40_I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G3ZKSBJOZBDVHGAJNVBW7N36HU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "¿Salvataje? Senado se tomará su tiempo para definir expulsión de Zenaida",
+          "url": "https://www.ultimahora.com/salvataje-senado-se-tomara-su-tiempo-para-definir-expulsion-de-zenaida",
+          "publishedAt": "2026-10-28T14:04:03.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado tratará pérdida de investidura de Zenaida Delgado el próximo miércoles",
+          "url": "https://elnacional.com.py/politica/senado-tratara-perdida-investidura-zenaida-delgado-proximo-miercoles-n114312",
+          "publishedAt": "2026-10-28T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "No habrá renuncia. Senado tratará la pérdida de investidura de Delgado el próximo miércoles",
+          "url": "https://www.adndigital.com.py/no-habra-renuncia-senado-tratara-la-perdida-de-investidura-de-delgado-el-proximo-miercoles",
+          "publishedAt": "2026-10-28T13:57:30.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-22-at-073554.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Senado posterga para el miércoles el tratamiento de la pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/senado-posterga-para-el-miercoles-el-tratamiento-de-la-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-28T13:41:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado se declara inocente y pide siete días para analizar las pruebas en su contra",
+          "url": "https://www.abc.com.py/politica/2026/10/28/zenaida-delgado-se-declara-inocente-y-pide-siete-dias-para-analizar-las-pruebas-en-su-contra",
+          "publishedAt": "2026-10-28T13:38:07.000Z",
+          "image": "https://www.abc.com.py/resizer/6R9WhrAioB9Kehm5gYIUUxRsZxY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UICTSOK2J5DPDNQ7YELZV4AKPM.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Zenaida pide tiempo y le dan una semana para tratar su pérdida de investidura",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/28/zenaida-pide-tiempo-y-le-dan-una-semana-para-tratar-su-perdida-de-investidura",
+          "publishedAt": "2026-10-28T13:30:39.590Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/TN3QFAWHGVF7ZHZFVQZW7ANR7E.jpg?auth=7a4b154fbdc6a207c692b543d8ada46bb3dbf748b478ec8b06a2b982dc00caf6&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pérdida de investidura de Zenaida Delgado se tratará el próximo miércoles en el Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/10/28/perdida-de-investidura-de-zenaida-delgado-se-tratara-el-proximo-miercoles-en-el-senado",
+          "publishedAt": "2026-10-28T13:10:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XXDiz__Ncc3TOhnoL5gNIH2i_JY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PUFMVURFZRB2ND2ZMXCHT44AUA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado: Senado trataría pérdida de investidura en sesión extra la próxima semana",
+          "url": "https://www.abc.com.py/politica/2026/10/28/zenaida-delgado-senado-trataria-perdida-de-investidura-en-sesion-extra-la-proxima-semana",
+          "publishedAt": "2026-10-28T13:10:08.000Z",
+          "image": "https://www.abc.com.py/resizer/1f9VUH7EMWdKr5HNZqBzE19Xq4k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SOBXMAMPRVH7XJDJKY2ITP2QI4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Me declaro inocente\": Zenaida Delgado pide siete días para preparar su defensa",
+          "url": "https://elnacional.com.py/politica/me-declaro-inocente-zenaida-delgado-pide-siete-dias-preparar-su-defensa-n114304",
+          "publishedAt": "2026-10-28T13:08:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f3d918820.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Senado posterga y pasa para el martes estudio de pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.ultimahora.com/senado-posterga-y-pasa-para-el-martes-estudio-de-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-28T13:00:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nakayama defiende acusación contra Zenaida Delgado y descarta similitudes con el caso Kattya",
+          "url": "https://www.abc.com.py/politica/2026/10/28/nakayama-defiende-acusacion-contra-zenaida-delgado-y-descarta-similitudes-con-el-caso-kattya",
+          "publishedAt": "2026-10-28T11:46:38.000Z",
+          "image": "https://www.abc.com.py/resizer/imhJCMmVeIqoijndRbhSzy3_H1g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZU6NSHUUIBDCXIBEHRVL6WCCRI.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía caratula como tráfico de influencias la causa contra Zenaida Delgado y pide primeros oficios",
+          "url": "https://www.ultimahora.com/fiscalia-caratula-como-trafico-de-influencias-la-causa-contra-zenaida-delgado-y-pide-primeros-oficios",
+          "publishedAt": "2026-10-28T11:32:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senador Maidana plantea esperar antes de decidir sobre la investidura de Zenaida",
+          "url": "https://www.adndigital.com.py/senador-maidana-plantea-esperar-antes-de-decidir-sobre-la-investidura-de-zenaida",
+          "publishedAt": "2026-10-28T11:10:49.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Definen hoy en Senado el futuro de Delgado",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/definen-hoy-en-senado-el-futuro-de-delgado",
+          "publishedAt": "2026-10-28T03:02:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/d0z9sDOQ2antgWlZnVL2-eEkuq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JWDZJFES5JGONK6TEAVCU3JAIQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tras acusarla de corrupta, la hermana de Zenaida se echa atrás ante Lilian Samaniego",
+          "url": "https://www.abc.com.py/politica/2026/10/27/tras-acusarla-de-corrupta-la-hermana-de-zenaida-se-echa-atras-ante-lilian-samaniego",
+          "publishedAt": "2026-10-28T01:40:33.000Z",
+          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bancada oficialista definirá mañana el futuro de Zenaida Delgado",
+          "url": "https://www.lanacion.com.py/politica/2026/10/27/bancada-oficialista-definira-manana-el-futuro-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T20:47:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7XHRCN38TRMDZpDytDjtCtVjR2g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AUY5DKTHJFSXPS42CKNC5RW74.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Plantean la pérdida de investidura de Zenaida Delgado",
+          "url": "https://www.telefuturo.com.py/plantean-la-perdida-de-investidura-de-zenaida-delgado",
+          "publishedAt": "2026-10-27T19:15:10.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Los siete puntos del libelo acusatorio para impulsar la pérdida de investidura de Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272",
+          "publishedAt": "2026-10-27T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
+          "url": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261",
+          "publishedAt": "2026-10-27T16:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Celeste Amarilla afirma que las denuncias contra Zenaida Delgado ya circulaban hace un año",
+          "url": "https://elnacional.com.py/politica/celeste-amarilla-afirma-denuncias-zenaida-delgado-ya-circulaban-hace-ano-n114247",
+          "publishedAt": "2026-10-27T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a7202ded8c02.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Ex pareja de Zenaida Delgado \"prestaba su cuenta\" a legisladora",
+          "url": "https://www.telefuturo.com.py/ex-pareja-de-zenaida-delgado-prestaba-su-cuenta-a-legisladora",
+          "publishedAt": "2026-10-27T13:49:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Expareja de Zenaida Delgado afirma que recibía dinero en su cuenta y se lo entregaba en efectivo",
+          "url": "https://www.npy.com.py/noticias/nacionales/expareja-de-zenaida-delgado-afirma-que-recibia-dinero-en-su-cuenta-y-se-lo-entregaba-en-efectivo",
+          "publishedAt": "2026-10-27T13:40:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Zenaida Delgado niega los cobros de “peajes” y responsabiliza a su expareja",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-niega-los-cobros-de-peajes-y-responsabiliza-a-su-expareja",
+          "publishedAt": "2026-10-27T11:42:00.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedSlot": "tarde",
+      "score": 29.98
+    },
+    {
+      "id": "ev-1on1lzq",
+      "title": "Allanan vivienda del subcomisario Derlis Cáceres por la fuga en Emboscada",
+      "summary": "Fiscales allanaron este miércoles la vivienda del subcomisario Derlis Cáceres, en Villa Elisa. Cáceres es investigado por su presunta colaboración en la fuga de dos reclusos del penal de Emboscada. Fue exdirector de Inteligencia Penitenciaria. Según ABC Color, los investigadores incautaron cartas que exponen un presunto esquema de corrupción.",
+      "keyPoints": [
+        "El allanamiento fue encabezado por los fiscales Fabiola Sosa y Rubén Romero.",
+        "Según ABC Color, se incautaron cartas en portugués.",
+        "Cáceres es investigado, no tiene condena.",
+        "La fuga fue de dos reclusos del Centro Penitenciario Martín Mendoza."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +250,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan vivienda de subcomisario vinculado a la fuga de presos en Emboscada",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/28/allanan-vivienda-de-subcomisario-vinculado-a-la-fuga-de-presos-en-emboscada",
+          "publishedAt": "2026-10-28T14:37:25.694Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga de presos: hallan evidencias de presunta red de sobornos en penal de Emboscada",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-de-presos-hallan-evidencias-de-presunta-red-de-sobornos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-28T14:18:19.000Z",
+          "image": "https://www.abc.com.py/resizer/xykjZipskE_2VMRRE3FMJ3fosRI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G5D3CD4ZCFBFXOGZSI3X3WHRLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan la vivienda de un exjefe de Inteligencia Penitenciaria por la fuga de reos en Emboscada",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/allanan-la-vivienda-de-un-exjefe-de-inteligencia-penitenciaria-por-la-fuga-de-reos-en-emboscada",
+          "publishedAt": "2026-10-28T14:17:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2w1nhB7BYbdpts9tTfaEhky2mDE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/10/28/audio-fuga-en-emboscada-allanan-vivienda-de-excoordinador-penitenciario-en-villa-elisa",
+          "publishedAt": "2026-10-28T12:53:02.000Z",
+          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Allanan vivienda de ex director de Inteligencia Penitenciaria por fuga de presos",
+          "url": "https://www.adndigital.com.py/allanan-vivienda-de-ex-director-de-inteligencia-penitenciaria-por-fuga-de-presos",
+          "publishedAt": "2026-10-28T12:02:45.000Z",
+          "image": null
+        },
         {
           "sourceId": "npy",
           "sourceName": "NPY",
@@ -136,157 +404,25 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg?auth=ee32199bd9b3cd7eb27aa3a0ba4cad5a8a9f3e0b28f7e0b7dcac763bdc6178fc&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-allanan-vivienda-en-villa-elisa-de-excoordinador-penitenciario"
+        "url": "https://www.lanacion.com.py/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/28/allanan-vivienda-de-subcomisario-vinculado-a-la-fuga-de-presos-en-emboscada"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T12:07:13.605Z",
-      "updatedSlot": "manana",
+      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedSlot": "tarde",
       "score": 29.97
     },
     {
-      "id": "ev-15bmxnn",
-      "title": "Senado analiza pedido de pérdida de investidura contra Zenaida Delgado",
-      "summary": "La senadora Yolanda Paredes impulsa un libelo acusatorio contra la senadora Zenaida Delgado por presuntos cobros irregulares a funcionarios a cambio de nombramientos. Según la acusación, hubo tráfico de influencias. La Fiscalía caratuló la causa como tráfico de influencias. La bancada oficialista analiza el caso y no descarta la renuncia ni la pérdida de investidura. Delgado no tiene respuesta publicada en las notas consultadas.",
-      "keyPoints": [
-        "La senadora Yolanda Paredes presentó un libelo acusatorio contra Zenaida Delgado.",
-        "Paredes sostiene que hubo cobros irregulares a funcionarios por nombramientos.",
-        "La fiscala Marlene González caratuló la causa como tráfico de influencias.",
-        "La bancada oficialista analiza el caso y no descarta renuncia ni pérdida de investidura."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Nakayama defiende acusación contra Zenaida Delgado y descarta similitudes con el caso Kattya",
-          "url": "https://www.abc.com.py/politica/2026/10/28/nakayama-defiende-acusacion-contra-zenaida-delgado-y-descarta-similitudes-con-el-caso-kattya",
-          "publishedAt": "2026-10-28T11:46:38.000Z",
-          "image": "https://www.abc.com.py/resizer/imhJCMmVeIqoijndRbhSzy3_H1g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZU6NSHUUIBDCXIBEHRVL6WCCRI.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fiscalía caratula como tráfico de influencias la causa contra Zenaida Delgado y pide primeros oficios",
-          "url": "https://www.ultimahora.com/fiscalia-caratula-como-trafico-de-influencias-la-causa-contra-zenaida-delgado-y-pide-primeros-oficios",
-          "publishedAt": "2026-10-28T11:32:01.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Senador Maidana plantea esperar antes de decidir sobre la investidura de Zenaida",
-          "url": "https://www.adndigital.com.py/senador-maidana-plantea-esperar-antes-de-decidir-sobre-la-investidura-de-zenaida",
-          "publishedAt": "2026-10-28T11:10:49.000Z",
-          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Definen hoy en Senado el futuro de Delgado",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/definen-hoy-en-senado-el-futuro-de-delgado",
-          "publishedAt": "2026-10-28T03:02:02.000Z",
-          "image": "https://www.lanacion.com.py/resizer/d0z9sDOQ2antgWlZnVL2-eEkuq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JWDZJFES5JGONK6TEAVCU3JAIQ.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Tras acusarla de corrupta, la hermana de Zenaida se echa atrás ante Lilian Samaniego",
-          "url": "https://www.abc.com.py/politica/2026/10/27/tras-acusarla-de-corrupta-la-hermana-de-zenaida-se-echa-atras-ante-lilian-samaniego",
-          "publishedAt": "2026-10-28T01:40:33.000Z",
-          "image": "https://www.abc.com.py/resizer/hM8_l0UJe0JEHM6ORrug3AOqY-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TZ6SDFN7AVCX3OCSE6UOVL2BF4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Bancada oficialista definirá mañana el futuro de Zenaida Delgado",
-          "url": "https://www.lanacion.com.py/politica/2026/10/27/bancada-oficialista-definira-manana-el-futuro-de-zenaida-delgado",
-          "publishedAt": "2026-10-27T20:47:51.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7XHRCN38TRMDZpDytDjtCtVjR2g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AUY5DKTHJFSXPS42CKNC5RW74.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Plantean la pérdida de investidura de Zenaida Delgado",
-          "url": "https://www.telefuturo.com.py/plantean-la-perdida-de-investidura-de-zenaida-delgado",
-          "publishedAt": "2026-10-27T19:15:10.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Los siete puntos del libelo acusatorio para impulsar la pérdida de investidura de Zenaida Delgado",
-          "url": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272",
-          "publishedAt": "2026-10-27T17:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Hermana de Zenaida Delgado afirma que la senadora es víctima del narcotráfico",
-          "url": "https://elnacional.com.py/politica/hermana-zenaida-delgado-afirma-senadora-victima-narcotrafico-n114261",
-          "publishedAt": "2026-10-27T16:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae0aad92dce0.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Celeste Amarilla afirma que las denuncias contra Zenaida Delgado ya circulaban hace un año",
-          "url": "https://elnacional.com.py/politica/celeste-amarilla-afirma-denuncias-zenaida-delgado-ya-circulaban-hace-ano-n114247",
-          "publishedAt": "2026-10-27T14:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/08/6a7202ded8c02.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Ex pareja de Zenaida Delgado \"prestaba su cuenta\" a legisladora",
-          "url": "https://www.telefuturo.com.py/ex-pareja-de-zenaida-delgado-prestaba-su-cuenta-a-legisladora",
-          "publishedAt": "2026-10-27T13:49:34.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Expareja de Zenaida Delgado afirma que recibía dinero en su cuenta y se lo entregaba en efectivo",
-          "url": "https://www.npy.com.py/noticias/nacionales/expareja-de-zenaida-delgado-afirma-que-recibia-dinero-en-su-cuenta-y-se-lo-entregaba-en-efectivo",
-          "publishedAt": "2026-10-27T13:40:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Zenaida Delgado niega los cobros de “peajes” y responsabiliza a su expareja",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-niega-los-cobros-de-peajes-y-responsabiliza-a-su-expareja",
-          "publishedAt": "2026-10-27T11:42:00.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZU6NSHUUIBDCXIBEHRVL6WCCRI.jpeg?auth=1702994e284cd1d0bb2382ecaad0cc315ceb27761f4daa1790ba9cdd3242a993&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/28/nakayama-defiende-acusacion-contra-zenaida-delgado-y-descarta-similitudes-con-el-caso-kattya"
-      },
-      "firstSeenAt": "2026-10-28T08:07:14.815Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-28T12:07:13.605Z",
-      "updatedSlot": "manana",
-      "score": 26.97
-    },
-    {
       "id": "ev-0y35zcb",
-      "title": "Flávio Bolsonaro sale de Brasil pese a orden judicial y llega a Ecuador",
-      "summary": "El senador brasileño Flávio Bolsonaro, derrotado por Luiz Inácio Lula da Silva en el balotaje, dejó Brasil pese a una orden judicial que le impedía salir del país. Según Argentina, cruzó por tierra y voló desde Misiones a Guayaquil, Ecuador. Medios citan fuentes que indican que luego viajó a Estados Unidos, algo que no está confirmado oficialmente. Migraciones de Paraguay aclaró que el país no tuvo participación en su salida.",
+      "title": "Flávio Bolsonaro llega a Florida tras salir de Brasil pese a una orden judicial",
+      "summary": "El senador Flávio Bolsonaro llegó a Florida, Estados Unidos, tras escalas en Argentina y Ecuador. Había perdido el balotaje presidencial ante Luiz Inácio Lula da Silva. Según las notas, la Justicia brasileña le había ordenado entregar sus pasaportes en una investigación por presunto lavado de dinero. Su salida generó versiones contradictorias.",
       "keyPoints": [
-        "Bolsonaro cruzó la frontera terrestre con Argentina y voló a Guayaquil, según Migraciones argentina.",
-        "Tenía una orden judicial que le exigía entregar sus pasaportes y no salir del país.",
-        "Según fuentes citadas por medios, luego viajó a Estados Unidos, sin confirmación oficial.",
-        "Migraciones paraguaya descartó que Paraguay haya intervenido en su salida."
+        "Perdió el balotaje presidencial ante Lula da Silva.",
+        "La Policía Federal pidió medidas cautelares por presunto lavado de dinero.",
+        "Según ABC Color, llegó con su esposa y sus dos hijas.",
+        "Las autoridades migratorias argentinas confirmaron su escala en Argentina."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -294,6 +430,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro llegó a Florida tras escala en Ecuador",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-llego-a-florida-tras-escala-en-ecuador",
+          "publishedAt": "2026-10-28T14:55:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/SGyl6DINW_iMKl5jnkwD398Z2-o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L3GK7WYQWVBDZMNJP62E6M253E.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro llega a Miami (EEUU) tras huir de Brasil después de perder las elecciones",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/flavio-bolsonaro-llega-a-miami-eeuu-tras-huir-de-brasil-despues-de-perder-las-elecciones",
+          "publishedAt": "2026-10-28T14:00:19.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Qué se sabe de la fuga de Flávio Bolsonaro: un viaje envuelto en misterio y desinformación",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/que-se-sabe-de-la-fuga-de-flavio-bolsonaro-un-viaje-envuelto-en-misterio-y-desinformacion",
+          "publishedAt": "2026-10-28T13:40:17.000Z",
+          "image": "https://www.abc.com.py/resizer/OO528If_bZdDfM0Das7skTzC87g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/43NIYWD3IVDPZMKAUXU5TMYLIE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro baja del avión tras aterrizar en Florida",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/flavio-bolsonaro-baja-del-avion-tras-aterrizar-en-florida",
+          "publishedAt": "2026-10-28T13:39:02.000Z",
+          "image": "https://www.abc.com.py/resizer/sT1eqnuWTuEpyUkRIkg5gAmOfuc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VHBV6X5N7NDG3KXSKWWTIYEGGQ.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Flávio Bolsonaro llegó a EE.UU. mientras crecía la incertidumbre sobre su paradero",
+          "url": "https://5dias.com.py/article/flvio-bolsonaro-lleg-a-eeuu-mientras-creca-la-incertidumbre-sobre-su-paradero",
+          "publishedAt": "2026-10-28T11:53:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-10-28T115328.736_20261028_115406.png"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -416,15 +592,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg?auth=43c99e5edb0feec51bb87f78ca62e84ecb7e2e51be6aa909a51812922a98320c&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/27/las-investigaciones-que-cercan-a-flavio-bolsonaro-fugado-a-estados-unidos"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/L3GK7WYQWVBDZMNJP62E6M253E.jpg?auth=cba14e2996d801f6d4c221501cde08cb2ff7df1545908388e1e24223199801a7&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-llego-a-florida-tras-escala-en-ecuador"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T12:07:13.605Z",
-      "updatedSlot": "manana",
-      "score": 21.44
+      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedSlot": "tarde",
+      "score": 24.49
     },
     {
       "id": "ev-153sh1k",
@@ -492,7 +668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 20.97
+      "score": 20.73
     },
     {
       "id": "ev-1l7bw79",
@@ -551,7 +727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 16.92
+      "score": 16.68
     },
     {
       "id": "ev-0d3orv9",
@@ -611,7 +787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 14.91
+      "score": 14.66
     },
     {
       "id": "ev-0435o0h",
@@ -670,7 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 14.27
+      "score": 14.03
     },
     {
       "id": "ev-0uyjd82",
@@ -722,7 +898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 10
     },
     {
       "id": "ev-1lzhw54",
@@ -774,7 +950,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 10
     },
     {
       "id": "ev-0ok1yds",
@@ -818,7 +994,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 9.08
     },
     {
       "id": "ev-0k2qhyn",
@@ -862,7 +1038,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 9.08
     },
     {
       "id": "ev-0g4onea",
@@ -906,7 +1082,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.25
+      "score": 9.01
     },
     {
       "id": "ev-1lxuraf",
@@ -949,7 +1125,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.83
     },
     {
       "id": "ev-0borz9n",
@@ -992,7 +1168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.71
     },
     {
       "id": "ev-14bd47u",
@@ -1036,7 +1212,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.54
     },
     {
       "id": "ev-0bdld3x",
@@ -1079,7 +1255,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.42
     },
     {
       "id": "ev-1xxz888",
@@ -1122,7 +1298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.49
+      "score": 8.25
     },
     {
       "id": "ev-1uzhov8",
@@ -1165,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 7.14
+      "score": 6.9
     },
     {
       "id": "ev-1xfj0xb",
@@ -1208,7 +1384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.35
+      "score": 6.1
     },
     {
       "id": "ev-0er4cxm",
@@ -1251,7 +1427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.26
+      "score": 6.02
     },
     {
       "id": "ev-107mk4a",
@@ -1294,7 +1470,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-097ojem",
@@ -1337,7 +1513,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-1wl06cw",
@@ -1380,7 +1556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-0p2pz89",
@@ -1423,7 +1599,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-10qf0gd",
@@ -1466,7 +1642,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-0xs4fak",
@@ -1509,7 +1685,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 6
     },
     {
       "id": "ev-1ntdivc",
@@ -1552,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.91
     },
     {
       "id": "ev-1na3i9i",
@@ -1581,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-1bh7dt4",
@@ -1610,7 +1786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-1y8mlln",
@@ -1639,7 +1815,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-0p1wlza",
@@ -1669,7 +1845,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-0q0vfrx",
@@ -1701,7 +1877,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-0a8ruir",
@@ -1731,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-00olzi1",
@@ -1763,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-01wk2i7",
@@ -1793,7 +1969,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-0m6jf3a",
@@ -1823,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-0oc1i37",
@@ -1854,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.33
     },
     {
       "id": "ev-1ddj47y",
@@ -1890,7 +2066,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.11
     },
     {
       "id": "ev-1fwgaq9",
@@ -1923,7 +2099,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.08
     },
     {
       "id": "ev-00679nu",
@@ -1958,7 +2134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 5.07
     },
     {
       "id": "ev-0zdmt9u",
@@ -1991,7 +2167,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.29
+      "score": 5.05
     },
     {
       "id": "ev-0gm0zgx",
@@ -2024,7 +2200,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 5
     },
     {
       "id": "ev-02ghxv2",
@@ -2057,7 +2233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.81
     },
     {
       "id": "ev-11mzwbo",
@@ -2105,7 +2281,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.98
+      "score": 4.73
     },
     {
       "id": "ev-0z0ml3g",
@@ -2141,7 +2317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.96
+      "score": 4.72
     },
     {
       "id": "ev-0zeghtx",
@@ -2176,7 +2352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.9
+      "score": 4.66
     },
     {
       "id": "ev-0a3eu74",
@@ -2211,7 +2387,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.75
+      "score": 4.51
     },
     {
       "id": "ev-1ykd2kt",
@@ -2263,7 +2439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.5
     },
     {
       "id": "ev-0rsm6up",
@@ -2294,7 +2470,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 3.16
+      "score": 2.91
     },
     {
       "id": "ev-1x29glz",
@@ -2326,7 +2502,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.9
     }
   ],
   "runs": [
@@ -2343,6 +2519,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-28T15:01:44.345Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 17
     }
   ]
 }
