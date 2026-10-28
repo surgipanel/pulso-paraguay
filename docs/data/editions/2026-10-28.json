@@ -1,20 +1,20 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T08:07:14.815Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-28T12:07:13.605Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1on1lzq",
-      "title": "Fiscalía detiene al exdirector y a dos jefes por la fuga de dos reos en Emboscada",
-      "summary": "La Policía y la Fiscalía allanaron el penal Martín Mendoza, de Emboscada, tras la fuga de dos internos de alta peligrosidad. Fueron detenidos el exdirector Pablo Abel González Apuril y dos jefes de seguridad, sospechados de complicidad. El Ministerio de Justicia intervino la penitenciaría y verificó las condiciones de los internos. El interventor Gustavo Ferriol negó que hubiera celdas VIP, aunque reconoció diferencias entre reclusos. La investigación sigue abierta.",
+      "title": "Fuga de reos en Emboscada: allanan vivienda de exfuncionario penitenciario",
+      "summary": "La fiscal Fabiola Sosa ordenó un allanamiento en Villa Elisa a la vivienda del subcomisario Derlis Cáceres, exdirector de Inteligencia Penitenciaria, por la fuga de presos del penal de Emboscada. Cáceres es investigado por presunta colaboración en la evasión. Hay detenidos y el Ministerio de Justicia destituyó a Rubén Peña y dispuso la intervención del penal. Las autoridades hablan de liberación de reos.",
       "keyPoints": [
-        "La Policía y la Fiscalía allanaron el penal Martín Mendoza el martes.",
-        "Fueron detenidos el exdirector Pablo Abel González Apuril y dos jefes de seguridad.",
-        "El exdirector negó tener responsabilidad en la fuga, según su defensa en las notas.",
-        "El interventor Gustavo Ferriol negó haber encontrado celdas VIP en el penal."
+        "Allanaron la vivienda de Derlis Cáceres en Villa Elisa y ordenaron su captura.",
+        "Cáceres es investigado por presunta colaboración en la fuga, según la Fiscalía.",
+        "El Ministerio de Justicia destituyó a Rubén Peña y dispuso la intervención del penal.",
+        "Según las autoridades, el hecho fue una liberación de reos."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,86 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Allanan vivienda de exdirector de Inteligencia Penitenciaria y ordenan su captura por fuga en Emboscada",
+          "url": "https://www.npy.com.py/noticias/nacionales/allanan-vivienda-de-exdirector-de-inteligencia-penitenciaria-y-ordenan-su-captura-por-fuga-en-emboscada",
+          "publishedAt": "2026-10-28T11:43:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Exdirector de Inteligencia Penitenciaria es buscado por liberación de reos",
+          "url": "https://www.ultimahora.com/exdirector-de-inteligencia-penitenciaria-es-buscado-por-liberacion-de-reos",
+          "publishedAt": "2026-10-28T10:54:03.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La Policía confirma celda vip en Emboscada y estaría en un sector no habilitado: ¿Quiénes la ocupan?",
+          "url": "https://www.ultimahora.com/la-policia-confirma-celda-vip-en-emboscada-y-estaria-en-un-sector-no-habilitado-quienes-la-ocupan",
+          "publishedAt": "2026-10-28T10:34:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: allanan vivienda de excoordinador penitenciario en Villa Elisa",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-allanan-vivienda-en-villa-elisa-de-excoordinador-penitenciario",
+          "publishedAt": "2026-10-28T10:15:28.000Z",
+          "image": "https://www.abc.com.py/resizer/sIUYPyAxFAufBrSWcPJO1YhIjU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Destituyen a alto jefe penitenciario tras fuga de dos reclusos en Emboscada",
+          "url": "https://elnacional.com.py/politica/destituyen-alto-jefe-penitenciario-tras-fuga-dos-reclusos-emboscada-n114287",
+          "publishedAt": "2026-10-28T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Emboscada: requisa y detención del director",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/28/emboscada-requisa-y-detencion-del-director",
+          "publishedAt": "2026-10-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/j4FrphRi5_jgU6327OKj5mVxZoE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BNJM4MHMPZDX7EL73NMOA3YSCE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
+          "publishedAt": "2026-10-28T00:51:14.000Z",
+          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
+          "publishedAt": "2026-10-27T23:05:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
+          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
+          "publishedAt": "2026-10-27T22:00:58.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
+          "publishedAt": "2026-10-27T19:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -31,12 +111,12 @@
           "image": "https://www.lanacion.com.py/resizer/lHUPrPhQ_-G1YeLUJLGZqK76MSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg"
         },
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Descartan celdas vip en Emboscada: internos tenían ventiladores, speaker y mosquiteros",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/27/audio-descartan-celdas-vip-en-emboscada-internos-tenian-ventiladores-speaker-y-mosquiteros",
-          "publishedAt": "2026-10-28T00:51:14.000Z",
-          "image": "https://www.abc.com.py/resizer/zay7b4-rsmd01lnNA6YUxf89enw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OHUI7VB3HFFANGUKX625WISYAU.jpg"
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
+          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
+          "publishedAt": "2026-10-27T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
         },
         {
           "sourceId": "npy",
@@ -53,68 +133,28 @@
           "url": "https://www.telefuturo.com.py/investigan-liberacion-de-presos-en-el-penal-martin-mendoza",
           "publishedAt": "2026-10-27T13:53:39.000Z",
           "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Interventor admite diferencias entre reclusos en penal de Emboscada",
-          "url": "https://www.adndigital.com.py/interventor-admite-diferencias-entre-reclusos-en-penal-de-emboscada",
-          "publishedAt": "2026-10-27T22:00:58.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Emboscada: requisa y detención del director",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/28/emboscada-requisa-y-detencion-del-director",
-          "publishedAt": "2026-10-28T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/j4FrphRi5_jgU6327OKj5mVxZoE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BNJM4MHMPZDX7EL73NMOA3YSCE.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fuga y corrupción en Emboscada: descubren lujos clandestinos y complicidad de guardias",
-          "url": "https://www.lanacion.com.py/pais/2026/10/27/fuga-y-corrupcion-en-emboscada-descubren-lujos-clandestinos-y-complicidad-de-guardias",
-          "publishedAt": "2026-10-27T19:50:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/o_tIRzhlnFyVJAlyzr27snrxrY4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QYWAVPPALRAKVDYSZ5HKGHVNWM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Detienen a exdirector de Emboscada por la fuga de dos presos y sospechan de una liberación pactada",
-          "url": "https://elnacional.com.py/nacionales/detienen-exdirector-emboscada-fuga-dos-presos-sospechan-una-liberacion-pactada-n114255",
-          "publishedAt": "2026-10-27T17:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ade4fcc907bd.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fuga en Emboscada: intervienen penal y descartan celdas VIP",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/27/fuga-en-emboscada-intervienen-penal-y-descartan-celdas-vip",
-          "publishedAt": "2026-10-27T23:05:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BUOXRFGUYNCDDKQZYY5DNZQ63Q.jfif?auth=9564d2573d3b335f71a5826bb83ddab186ea000a92fc443194c61470d26eb25c&width=1200&height=630&smart=true"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QKODEWGZLRGGXGAHLQWLOKLVBE.jpg?auth=8759543ff4be2910069ba8bb626765a03a88cb41c5bc41212a14e791b86f5767&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/requisan-penal-de-emboscada-y-detienen-al-director-y-a-dos-jefes-por-fuga-de-dos-reos"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LBQIDL2U3NDSXHNYXDWSTMQGXE.jpg?auth=ee32199bd9b3cd7eb27aa3a0ba4cad5a8a9f3e0b28f7e0b7dcac763bdc6178fc&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-allanan-vivienda-en-villa-elisa-de-excoordinador-penitenciario"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 26.58
+      "score": 29.97
     },
     {
       "id": "ev-15bmxnn",
-      "title": "Yolanda Paredes impulsa pérdida de investidura de Zenaida Delgado por presuntos cobros",
-      "summary": "La senadora Yolanda Paredes presentó un libelo acusatorio para pedir la pérdida de investidura de Zenaida Delgado. Lo acusa de presuntos cobros a funcionarios a cambio de nombramientos, según Paredes. Delgado niega las acusaciones y responsabiliza a su expareja, Gustavo Vera. Vera afirmó que recibía transferencias en su cuenta y que le entregaba el dinero a la senadora. El oficialismo analiza el caso y aún no tiene postura definida.",
+      "title": "Senado analiza pedido de pérdida de investidura contra Zenaida Delgado",
+      "summary": "La senadora Yolanda Paredes impulsa un libelo acusatorio contra la senadora Zenaida Delgado por presuntos cobros irregulares a funcionarios a cambio de nombramientos. Según la acusación, hubo tráfico de influencias. La Fiscalía caratuló la causa como tráfico de influencias. La bancada oficialista analiza el caso y no descarta la renuncia ni la pérdida de investidura. Delgado no tiene respuesta publicada en las notas consultadas.",
       "keyPoints": [
-        "Yolanda Paredes presentó un libelo acusatorio contra Zenaida Delgado.",
-        "Según Paredes, hay testimonios, mensajes y referencias a transferencias bancarias.",
-        "Zenaida Delgado niega los cobros y responsabiliza a su expareja.",
-        "El senador Natalicio Chase dijo que la bancada oficialista analiza la situación."
+        "La senadora Yolanda Paredes presentó un libelo acusatorio contra Zenaida Delgado.",
+        "Paredes sostiene que hubo cobros irregulares a funcionarios por nombramientos.",
+        "La fiscala Marlene González caratuló la causa como tráfico de influencias.",
+        "La bancada oficialista analiza el caso y no descarta renuncia ni pérdida de investidura."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -122,6 +162,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nakayama defiende acusación contra Zenaida Delgado y descarta similitudes con el caso Kattya",
+          "url": "https://www.abc.com.py/politica/2026/10/28/nakayama-defiende-acusacion-contra-zenaida-delgado-y-descarta-similitudes-con-el-caso-kattya",
+          "publishedAt": "2026-10-28T11:46:38.000Z",
+          "image": "https://www.abc.com.py/resizer/imhJCMmVeIqoijndRbhSzy3_H1g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZU6NSHUUIBDCXIBEHRVL6WCCRI.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía caratula como tráfico de influencias la causa contra Zenaida Delgado y pide primeros oficios",
+          "url": "https://www.ultimahora.com/fiscalia-caratula-como-trafico-de-influencias-la-causa-contra-zenaida-delgado-y-pide-primeros-oficios",
+          "publishedAt": "2026-10-28T11:32:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senador Maidana plantea esperar antes de decidir sobre la investidura de Zenaida",
+          "url": "https://www.adndigital.com.py/senador-maidana-plantea-esperar-antes-de-decidir-sobre-la-investidura-de-zenaida",
+          "publishedAt": "2026-10-28T11:10:49.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -204,25 +268,25 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JWDZJFES5JGONK6TEAVCU3JAIQ.jpg?auth=879217de9a17257d894bdd22bd48294255ca168ae9c73fdf2806777d3cda69bf&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/28/definen-hoy-en-senado-el-futuro-de-delgado"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZU6NSHUUIBDCXIBEHRVL6WCCRI.jpeg?auth=1702994e284cd1d0bb2382ecaad0cc315ceb27761f4daa1790ba9cdd3242a993&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/28/nakayama-defiende-acusacion-contra-zenaida-delgado-y-descarta-similitudes-con-el-caso-kattya"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 20.58
+      "score": 26.97
     },
     {
       "id": "ev-0y35zcb",
-      "title": "Flávio Bolsonaro sale de Brasil pese a orden judicial, según medios",
-      "summary": "Flávio Bolsonaro, derrotado por Lula en el balotaje, habría salido de Brasil pese a una orden del Supremo Tribunal Federal que le impedía viajar. Medios estadounidenses lo reportan citando fuentes oficiales anónimas, y su entorno confirmó a EFE que ya está en Estados Unidos con su familia. Las autoridades argentinas desmintieron que haya cruzado por su territorio. Brasil canceló sus pasaportes y diputados del PT pidieron su prisión preventiva.",
+      "title": "Flávio Bolsonaro sale de Brasil pese a orden judicial y llega a Ecuador",
+      "summary": "El senador brasileño Flávio Bolsonaro, derrotado por Luiz Inácio Lula da Silva en el balotaje, dejó Brasil pese a una orden judicial que le impedía salir del país. Según Argentina, cruzó por tierra y voló desde Misiones a Guayaquil, Ecuador. Medios citan fuentes que indican que luego viajó a Estados Unidos, algo que no está confirmado oficialmente. Migraciones de Paraguay aclaró que el país no tuvo participación en su salida.",
       "keyPoints": [
-        "Flávio Bolsonaro fue derrotado por Lula en la segunda vuelta presidencial.",
-        "Brasil canceló los pasaportes de Flávio Bolsonaro, según una fuente policial a la AFP.",
-        "Las autoridades argentinas desmintieron que haya ingresado a su territorio.",
-        "Diputados del PT pidieron su prisión preventiva."
+        "Bolsonaro cruzó la frontera terrestre con Argentina y voló a Guayaquil, según Migraciones argentina.",
+        "Tenía una orden judicial que le exigía entregar sus pasaportes y no salir del país.",
+        "Según fuentes citadas por medios, luego viajó a Estados Unidos, sin confirmación oficial.",
+        "Migraciones paraguaya descartó que Paraguay haya intervenido en su salida."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -230,6 +294,62 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Bolsonaro podía pasar por Paraguay, pero el país no intervino en su salida de Brasil, aclaran",
+          "url": "https://www.adndigital.com.py/bolsonaro-podia-pasar-por-paraguay-pero-el-pais-no-intervino-en-su-salida-de-brasil-aclaran",
+          "publishedAt": "2026-10-28T11:24:53.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Argentina confirma de que Flavio Bolsonaro hizo escala en el país rumbo a Ecuador",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/argentina-confirma-de-que-flavio-bolsonaro-hizo-escala-en-el-pais-rumbo-a-ecuador",
+          "publishedAt": "2026-10-28T11:05:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro: estas son las investigaciones que lo cercan y habrían motivado su fuga a EE.UU.",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/las-investigaciones-que-cercan-a-flavio-bolsonaro-fugado-a-estados-unidos",
+          "publishedAt": "2026-10-28T10:47:50.000Z",
+          "image": "https://www.abc.com.py/resizer/zPbagKxJULKAGcqBpPLD7qGdBDI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro viaja a Ecuador desde Argentina tras salir de Brasil pese a orden judicial",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-viaja-a-ecuador-desde-argentina-tras-salir-de-brasil-pese-a-orden-judicial",
+          "publishedAt": "2026-10-28T10:04:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gTyAehqXOBsdbsWJahSrGnF14lA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HI5XZFMTGJHAPKPHYNPTUZF72I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/flavio-bolsonaro-viaja-a-ecuador-desde-argentina-tras-huir-de-brasil",
+          "publishedAt": "2026-10-28T09:34:59.000Z",
+          "image": "https://www.abc.com.py/resizer/l8vQqFUzpdTbzcMIFic1slxpl4Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CEGPQBVLVNEQXDPPEYEZOD7NLE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Flávio Bolsonaro viajó desde Argentina a Ecuador tras huir de Brasil",
+          "url": "https://www.ultimahora.com/flavio-bolsonaro-viajo-desde-argentina-a-ecuador-tras-huir-de-brasil",
+          "publishedAt": "2026-10-28T09:33:41.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/28/flavio-bolsonaro-viajo-a-ecuador-desde-argentina-tras-huir-de-brasil",
+          "publishedAt": "2026-10-28T08:34:18.259Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IYGOQFEH35B6FGKUFO3HYPWGTI.jpg?auth=9d4df39fda08edee1c7a4a971eb705ea36db360eaad532f3cb6ff1a632590b31&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -296,15 +416,83 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/PK43VD2P3REFBJG6BX4USY3ARA.jpg?auth=e099d4c84914a9b062c7efc2c23909923c1696fb14a100274c083617bbcdaadc&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/mundo/2026/10/27/flavio-bolsonaro-aterriza-en-eeuu-segun-medios"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg?auth=43c99e5edb0feec51bb87f78ca62e84ecb7e2e51be6aa909a51812922a98320c&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/27/las-investigaciones-que-cercan-a-flavio-bolsonaro-fugado-a-estados-unidos"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 17.9
+      "score": 21.44
+    },
+    {
+      "id": "ev-153sh1k",
+      "title": "Alertan por robos de cuentas de WhatsApp mediante el buzón de voz",
+      "summary": "Usuarios denunciaron en los últimos días intentos de clonación y robo de cuentas de WhatsApp en Paraguay. Según los reportes, los delincuentes llaman al buzón de voz para obtener el código de verificación. El especialista en ciberseguridad Miguel Ángel Gaspar aclaró que no todos los problemas con WhatsApp Business se deben a hackeos, algunos responden a condiciones comerciales de la aplicación.",
+      "keyPoints": [
+        "Usuarios denunciaron intentos de clonación y estafa por WhatsApp.",
+        "La modalidad consiste en llamadas al buzón de voz para obtener el código de verificación.",
+        "El especialista Miguel Ángel Gaspar advirtió sobre suplantación de identidad y engaños.",
+        "Algunos problemas con WhatsApp Business no son hackeos, según Gaspar."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Advierten sobre los intentos de clonación y estafas por WhatsApp",
+          "url": "https://diariovanguardia.com.py/advierten-sobre-los-intentos-de-clonacion-y-estafas-por-whatsapp",
+          "publishedAt": "2026-10-28T11:46:37.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-1.40.13-PM-1024x686.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hackeo de WhatsApp: cómo recuperar cuentas y proteger a los usuarios",
+          "url": "https://www.abc.com.py/tecnologia/2026/10/28/hackeo-de-whatsapp-como-recuperar-cuentas-y-proteger-a-los-usuarios",
+          "publishedAt": "2026-10-28T11:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/117KE3R-Iy1eg09AOZ3jMt9zBAE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HDIVXIGFNRF2DF4RAVT56G7QCE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alerta del Mitic: roban tu WhatsApp usando el buzón de voz",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/alerta-del-mitic-roban-tu-whatsapp-usando-el-buzon-de-voz",
+          "publishedAt": "2026-10-27T21:13:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/94MgXRn1p7_8IDNua32MlkgUlWo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LQDC3LQWHBFRFEYUTNFXRUMGV4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alertan sobre masivo robo de cuentas de WhatsApp vía “buzón de voz”: en qué consiste",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/27/alertan-sobre-masivo-robo-de-cuentas-de-whatsapp-via-buzon-de-voz-en-que-consiste",
+          "publishedAt": "2026-10-27T20:52:59.978Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BMNZWIP3AZCU7BSNBF2HXDDCKA.jpg?auth=8db2c6d6f02e6c59c90458892623dd3a21297c918e407355606d5b8a9d1d8760&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Advierten sobre intentos masivos de robo de cuentas de WhatsApp",
+          "url": "https://elnacional.com.py/nacionales/advierten-sobre-intentos-masivos-robo-cuentas-whatsapp-n114264",
+          "publishedAt": "2026-10-27T16:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/04/cf6bdf05f7b1acdc49455f8a2171901e.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-1.40.13-PM-1024x686.jpeg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/advierten-sobre-los-intentos-de-clonacion-y-estafas-por-whatsapp"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T12:07:13.605Z",
+      "updatedSlot": "manana",
+      "score": 20.97
     },
     {
       "id": "ev-1l7bw79",
@@ -363,7 +551,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 17.25
+      "score": 16.92
+    },
+    {
+      "id": "ev-0d3orv9",
+      "title": "Desde el 3 de noviembre rigen nuevos requisitos para vehículos livianos en el Puente de la Integración",
+      "summary": "Desde el 3 de noviembre, el paso de vehículos livianos entre Presidente Franco y Foz de Iguazú tendrá nuevas condiciones documentales. El procedimiento será para paraguayos y brasileños que residan en Presidente Franco, Ciudad del Este, Hernandarias o Foz de Iguazú. Los requisitos cambian según la nacionalidad y el lugar de residencia.",
+      "keyPoints": [
+        "El cambio rige desde el 3 de noviembre.",
+        "Aplica a residentes de Presidente Franco, Ciudad del Este, Hernandarias y Foz de Iguazú.",
+        "Los requisitos dependen de la nacionalidad y la residencia.",
+        "La Comisión Mixta Paraguay-Brasil difundió el cronograma."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Desde el 3 de noviembre, regirán nuevos requisitos para cruzar por el Puente de la Integración",
+          "url": "https://elnacional.com.py/economia/desde-3-noviembre-regiran-nuevos-requisitos-cruzar-puente-integracion-n114259",
+          "publishedAt": "2026-10-28T11:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad781262098e.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Puente de la Integración: Brasil divulga nueva regla sin cambio relevante para el paso vehicular",
+          "url": "https://www.lanacion.com.py/pais/2026/10/27/puente-de-la-integracion-brasil-divulga-nueva-regla-sin-cambio-relevante-para-el-paso-vehicular",
+          "publishedAt": "2026-10-27T22:56:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2HcgSJj3Azi65cl5Buzcszs0XzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QWQFSPT7Q5CSVMZDKSEC2GB7HM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Puente de la Integración tendrá nuevas exigencias para vehículos livianos",
+          "url": "https://www.adndigital.com.py/puente-de-la-integracion-tendra-nuevas-exigencias-para-vehiculos-livianos",
+          "publishedAt": "2026-10-27T20:28:48.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-172750.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anuncian nuevos requisitos para el paso por el Puente de la Integración",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/27/anuncian-nuevos-requisitos-para-el-paso-por-el-puente-de-la-integracion",
+          "publishedAt": "2026-10-27T15:25:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vqRbQy5wQkNinbdCCqrQnyjTeyM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/U42HU7EIEVHWJKBQZ5JKLPIGMQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-172750.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/puente-de-la-integracion-tendra-nuevas-exigencias-para-vehiculos-livianos"
+      },
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T12:07:13.605Z",
+      "updatedSlot": "manana",
+      "score": 14.91
     },
     {
       "id": "ev-0435o0h",
@@ -422,58 +670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 14.6
-    },
-    {
-      "id": "ev-153sh1k",
-      "title": "Alertan por robos de cuentas de WhatsApp mediante el buzón de voz",
-      "summary": "Se reportaron robos de cuentas de WhatsApp en Paraguay. La modalidad consiste en llamar al buzón de voz de la víctima para obtener el código de verificación. El especialista Miguel Ángel Gaspar advirtió sobre suplantación de identidad, engaños y el uso de aplicaciones paralelas. Los reportes afectan especialmente a cuentas comerciales.",
-      "keyPoints": [
-        "Se reportaron robos de cuentas de WhatsApp en los últimos días.",
-        "La modalidad usa el buzón de voz para acceder al código de verificación.",
-        "Los reportes afectan especialmente a cuentas comerciales."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alerta del Mitic: roban tu WhatsApp usando el buzón de voz",
-          "url": "https://www.lanacion.com.py/pais/2026/10/27/alerta-del-mitic-roban-tu-whatsapp-usando-el-buzon-de-voz",
-          "publishedAt": "2026-10-27T21:13:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/94MgXRn1p7_8IDNua32MlkgUlWo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LQDC3LQWHBFRFEYUTNFXRUMGV4.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alertan sobre masivo robo de cuentas de WhatsApp vía “buzón de voz”: en qué consiste",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/27/alertan-sobre-masivo-robo-de-cuentas-de-whatsapp-via-buzon-de-voz-en-que-consiste",
-          "publishedAt": "2026-10-27T20:52:59.978Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BMNZWIP3AZCU7BSNBF2HXDDCKA.jpg?auth=8db2c6d6f02e6c59c90458892623dd3a21297c918e407355606d5b8a9d1d8760&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Advierten sobre intentos masivos de robo de cuentas de WhatsApp",
-          "url": "https://elnacional.com.py/nacionales/advierten-sobre-intentos-masivos-robo-cuentas-whatsapp-n114264",
-          "publishedAt": "2026-10-27T16:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2024/04/cf6bdf05f7b1acdc49455f8a2171901e.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LQDC3LQWHBFRFEYUTNFXRUMGV4.jpg?auth=0d54a5421dd0253c634e1603300c339fbfba533500ed51f9b8718ad23edc65e6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/alerta-del-mitic-roban-tu-whatsapp-usando-el-buzon-de-voz"
-      },
-      "firstSeenAt": "2026-10-28T08:07:14.815Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
-      "updatedSlot": "manana",
-      "score": 13.09
+      "score": 14.27
     },
     {
       "id": "ev-0uyjd82",
@@ -525,7 +722,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1lzhw54",
@@ -577,58 +774,6 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-0d3orv9",
-      "title": "Puente de la Integración tendrá nuevos requisitos para vehículos livianos desde el 3 de noviembre",
-      "summary": "Desde el 3 de noviembre rige una nueva regla para el paso de vehículos livianos por el Puente de la Integración. La medida fue acordada en la Comisión Mixta Paraguay-Brasil y el procedimiento quedará reservado a residentes de Presidente Franco, Ciudad del Este, Hernandarias y Foz de Iguazú. Los requisitos dependerán de la nacionalidad y del lugar de residencia.",
-      "keyPoints": [
-        "La comisión mixta acordó los cambios el 20 de octubre.",
-        "Los nuevos requisitos aplican desde el 3 de noviembre.",
-        "El procedimiento es para residentes de cuatro ciudades de la frontera.",
-        "Los requisitos dependen de la nacionalidad y la residencia."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Puente de la Integración: Brasil divulga nueva regla sin cambio relevante para el paso vehicular",
-          "url": "https://www.lanacion.com.py/pais/2026/10/27/puente-de-la-integracion-brasil-divulga-nueva-regla-sin-cambio-relevante-para-el-paso-vehicular",
-          "publishedAt": "2026-10-27T22:56:50.000Z",
-          "image": "https://www.lanacion.com.py/resizer/2HcgSJj3Azi65cl5Buzcszs0XzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QWQFSPT7Q5CSVMZDKSEC2GB7HM.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Puente de la Integración tendrá nuevas exigencias para vehículos livianos",
-          "url": "https://www.adndigital.com.py/puente-de-la-integracion-tendra-nuevas-exigencias-para-vehiculos-livianos",
-          "publishedAt": "2026-10-27T20:28:48.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-172750.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Anuncian nuevos requisitos para el paso por el Puente de la Integración",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/27/anuncian-nuevos-requisitos-para-el-paso-por-el-puente-de-la-integracion",
-          "publishedAt": "2026-10-27T15:25:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vqRbQy5wQkNinbdCCqrQnyjTeyM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/U42HU7EIEVHWJKBQZ5JKLPIGMQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QWQFSPT7Q5CSVMZDKSEC2GB7HM.jpg?auth=3750ef0ccea30e9d9f31eee56d964b9c6d42056b333752dd503525d98094e497&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/27/puente-de-la-integracion-brasil-divulga-nueva-regla-sin-cambio-relevante-para-el-paso-vehicular"
-      },
-      "firstSeenAt": "2026-10-28T08:07:14.815Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
-      "updatedSlot": "manana",
       "score": 10.24
     },
     {
@@ -673,7 +818,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.32
     },
     {
       "id": "ev-0k2qhyn",
@@ -717,7 +862,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.32
     },
     {
       "id": "ev-0g4onea",
@@ -761,7 +906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.25
     },
     {
       "id": "ev-1lxuraf",
@@ -804,7 +949,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.4
+      "score": 9.07
     },
     {
       "id": "ev-0borz9n",
@@ -847,7 +992,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.29
+      "score": 8.95
     },
     {
       "id": "ev-14bd47u",
@@ -891,7 +1036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.11
+      "score": 8.78
     },
     {
       "id": "ev-0bdld3x",
@@ -934,7 +1079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9
+      "score": 8.67
     },
     {
       "id": "ev-1xxz888",
@@ -977,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-1uzhov8",
@@ -1020,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 7.48
+      "score": 7.14
     },
     {
       "id": "ev-1xfj0xb",
@@ -1063,7 +1208,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.68
+      "score": 6.35
     },
     {
       "id": "ev-0er4cxm",
@@ -1106,7 +1251,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.26
     },
     {
       "id": "ev-107mk4a",
@@ -1149,7 +1294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-097ojem",
@@ -1192,7 +1337,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1wl06cw",
@@ -1235,7 +1380,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0p2pz89",
@@ -1278,7 +1423,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-10qf0gd",
@@ -1321,7 +1466,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0xs4fak",
@@ -1364,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1ntdivc",
@@ -1407,7 +1552,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.48
+      "score": 6.15
     },
     {
       "id": "ev-1na3i9i",
@@ -1436,7 +1581,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1bh7dt4",
@@ -1465,7 +1610,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1y8mlln",
@@ -1494,7 +1639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0p1wlza",
@@ -1524,7 +1669,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0q0vfrx",
@@ -1556,7 +1701,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0a8ruir",
@@ -1586,7 +1731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-00olzi1",
@@ -1618,7 +1763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-01wk2i7",
@@ -1648,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0m6jf3a",
@@ -1678,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0oc1i37",
@@ -1709,7 +1854,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1ddj47y",
@@ -1745,7 +1890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.36
     },
     {
       "id": "ev-1fwgaq9",
@@ -1778,7 +1923,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-00679nu",
@@ -1813,7 +1958,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.31
     },
     {
       "id": "ev-0zdmt9u",
@@ -1846,7 +1991,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.29
     },
     {
       "id": "ev-0gm0zgx",
@@ -1879,7 +2024,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-02ghxv2",
@@ -1912,7 +2057,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-11mzwbo",
@@ -1960,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.98
     },
     {
       "id": "ev-0z0ml3g",
@@ -1996,7 +2141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.29
+      "score": 4.96
     },
     {
       "id": "ev-0zeghtx",
@@ -2031,7 +2176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.23
+      "score": 4.9
     },
     {
       "id": "ev-0a3eu74",
@@ -2066,7 +2211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.75
     },
     {
       "id": "ev-1ykd2kt",
@@ -2118,7 +2263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-0rsm6up",
@@ -2149,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 3.49
+      "score": 3.16
     },
     {
       "id": "ev-1x29glz",
@@ -2181,7 +2326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.14
     }
   ],
   "runs": [
@@ -2191,6 +2336,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 69
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-28T12:07:13.605Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 14
     }
   ]
 }
