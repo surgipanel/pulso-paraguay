@@ -1,27 +1,35 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T15:01:44.345Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-28T18:29:00.102Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-15bmxnn",
-      "title": "Yolanda Paredes presenta libelo acusatorio contra Zenaida Delgado por supuestos cobros",
-      "summary": "La senadora Yolanda Paredes formalizó una acusación contra su colega Zenaida Delgado. Según la denuncia, Delgado habría exigido pagos a funcionarios a cambio de nombramientos. Paredes afirmó que cuenta con testimonios, mensajes y transferencias bancarias como respaldo. Delgado niega las acusaciones y se declaró inocente en el Senado.",
+      "title": "Pérdida de investidura de Zenaida Delgado se tratará el próximo miércoles en el Senado",
+      "summary": "El presidente del Congreso Nacional, Basilio “Bachi” Núñez, confirmó este miércoles que el proyecto para impulsar la pérdida de investidura de su colega Zenaida Delgado, será analizado el próximo martes a través de una sesión extraordinaria. Agregó que el Ministerio Público ya requirió varias informaciones a la Cámara Alta en el marco de la investigación abierta contra la senadora.",
       "keyPoints": [
-        "Paredes pertenece al movimiento Cruzada Nacional.",
-        "Afirmó que cuenta con testimonios, mensajes y transferencias bancarias.",
-        "Las denuncias hablan de pagos a funcionarios a cambio de nombramientos.",
-        "Delgado negó las acusaciones y se declaró inocente."
+        "El presidente del Congreso Nacional, Basilio “Bachi” Núñez, confirmó este miércoles que el proyecto para impulsar la pérdida de investidura de su colega Zenaida Delgado, será analizado el próximo martes a través de una sesión extraordinaria.",
+        "A pedido del senador Natalicio Chase, el pleno aprobó una moción de preferencia para que el pedido de pérdida de investidura de la legisladora sea tratado como primer punto del orden del día de la sesión…",
+        "Zenaida Delgado anunció que presentará su renuncia a la Cámara de Senadores y se someterá a la justicia, tras enfrentar un inminente proceso de pérdida de investidura impulsado por denuncias de corrupción e irregularidades vinculadas al…",
+        "El Senado tratará el miércoles el pedido de pérdida de investidura de Zenaida Delgado, tras aprobar la convocatoria con 28 votos a favor y dos en contra."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nakayama plantea reglar contratación de funcionarios por legislador ante caso Zenaida",
+          "url": "https://www.abc.com.py/politica/2026/10/28/nakayama-plantea-reglar-contratacion-de-funcionarios-por-legislador-ante-caso-zenaida",
+          "publishedAt": "2026-10-28T18:17:01.000Z",
+          "image": "https://www.abc.com.py/resizer/KIQPzMrOfk_yOdzAhac41IZKfpQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QYQV2PTKG5FYLEQCZQHUFENW4E.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -61,6 +69,14 @@
           "url": "https://www.adndigital.com.py/no-habra-renuncia-senado-tratara-la-perdida-de-investidura-de-delgado-el-proximo-miercoles",
           "publishedAt": "2026-10-28T13:57:30.000Z",
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-22-at-073554.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Zenaida Delgado renunciaría al Senado ante inminente pérdida de investidura",
+          "url": "https://www.telefuturo.com.py/zenaida-delgado-renunciaria-al-senado-ante-inminente-perdida-de-investidura",
+          "publishedAt": "2026-10-28T13:46:14.000Z",
+          "image": null
         },
         {
           "sourceId": "npy",
@@ -117,6 +133,54 @@
           "url": "https://www.ultimahora.com/senado-posterga-y-pasa-para-el-martes-estudio-de-perdida-de-investidura-de-zenaida-delgado",
           "publishedAt": "2026-10-28T13:00:06.000Z",
           "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Zenaida Delgado afecta sesión ordinaria y deja al Senado sin quórum, convocan a una extra",
+          "url": "https://elnacional.com.py/politica/caso-zenaida-delgado-afecta-sesion-ordinaria-deja-senado-quorum-convocan-una-extra-n114302",
+          "publishedAt": "2026-10-28T12:53:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad8f6d9b973d.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Zenaida: senador afirma que es \"imposible salvar\" a su colega",
+          "url": "https://elnacional.com.py/politica/caso-zenaida-senador-afirma-imposible-salvar-su-colega-n114299",
+          "publishedAt": "2026-10-28T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69baa26f572df.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Zenaida Delgado anuncia que presentará su renuncia en medio del pedido de pérdida de investidura",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-anuncia-que-presentara-su-renuncia-en-medio-del-pedido-de-perdida-de-investidura",
+          "publishedAt": "2026-10-28T12:38:05.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La senadora Zenaida Delgado presentaría renuncia a su banca",
+          "url": "https://www.lanacion.com.py/politica/2026/10/28/la-senadora-zenaida-delgado-presentaria-renuncia-a-su-banca",
+          "publishedAt": "2026-10-28T12:29:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MIYj_OMtRRqK7xApycWZgr6FEzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GHHTQSBRN5CC5PTB6ZUBRSCHPM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zenaida Delgado renunciaría al Senado y se sometería a la Justicia",
+          "url": "https://elnacional.com.py/politica/zenaida-delgado-renunciaria-senado-someteria-justicia-n114300",
+          "publishedAt": "2026-10-28T12:16:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69bc123157f50.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cuerda floja: Pruebas contra Zenaida Delgado son contundentes y se encaminaría su expulsión",
+          "url": "https://elnacional.com.py/politica/cuerda-floja-pruebas-zenaida-delgado-son-contundentes-encaminaria-su-expulsion-n114295",
+          "publishedAt": "2026-10-28T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/03/8188c074c75e7358ffaef08fea875260.jpg"
         },
         {
           "sourceId": "abc",
@@ -224,25 +288,25 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/10/690382ae0a6dc.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/los-siete-puntos-libelo-acusatorio-impulsar-perdida-investidura-zenaida-delgado-n114272"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PUFMVURFZRB2ND2ZMXCHT44AUA.jpg?auth=438bb8d91f68570ee200b6da38aac98f1abed96c363b1c428a3c2a53fe4f596a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/28/perdida-de-investidura-de-zenaida-delgado-se-tratara-el-proximo-miercoles-en-el-senado"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedAt": "2026-10-28T18:29:00.102Z",
       "updatedSlot": "tarde",
       "score": 29.98
     },
     {
       "id": "ev-1on1lzq",
-      "title": "Allanan vivienda del subcomisario Derlis Cáceres por la fuga en Emboscada",
-      "summary": "Fiscales allanaron este miércoles la vivienda del subcomisario Derlis Cáceres, en Villa Elisa. Cáceres es investigado por su presunta colaboración en la fuga de dos reclusos del penal de Emboscada. Fue exdirector de Inteligencia Penitenciaria. Según ABC Color, los investigadores incautaron cartas que exponen un presunto esquema de corrupción.",
+      "title": "Allanan casa de exjefe de Inteligencia Penitenciaria por la fuga de Emboscada",
+      "summary": "La Fiscalía allanó la casa del subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria del Ministerio de Justicia, en la investigación por la fuga de dos reclusos. Los investigadores sospechan de presuntos vínculos con el crimen organizado, según ABC Color. Luego del allanamiento, Cáceres se presentó ante la Fiscalía de Emboscada.",
       "keyPoints": [
-        "El allanamiento fue encabezado por los fiscales Fabiola Sosa y Rubén Romero.",
-        "Según ABC Color, se incautaron cartas en portugués.",
-        "Cáceres es investigado, no tiene condena.",
-        "La fuga fue de dos reclusos del Centro Penitenciario Martín Mendoza."
+        "Se allanó la vivienda del subcomisario Derlis Cáceres.",
+        "Los investigadores mantienen sospechas sobre presuntos vínculos con el crimen organizado.",
+        "Cáceres se presentó ante la Fiscalía de Emboscada.",
+        "El agente fue removido de su cargo en septiembre del año pasado."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -250,6 +314,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga en Emboscada: excoordinador prófugo se presentó ante la Justicia",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-excoordinador-profugo-se-presenta-ante-la-justicia",
+          "publishedAt": "2026-10-28T17:39:14.000Z",
+          "image": "https://www.abc.com.py/resizer/6Er-2XLhjLUu785GbJSjojrEWAQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nombraron a nuevo director de Establecimientos Penitenciarios tras fuga de reclusos de alta peligrosidad",
+          "url": "https://www.abc.com.py/policiales/2026/10/28/nombraron-a-nuevo-director-de-establecimientos-penitenciarios-tras-fuga-de-reclusos-de-alta-peligrosidad",
+          "publishedAt": "2026-10-28T17:28:31.000Z",
+          "image": "https://www.abc.com.py/resizer/YzBoAMsuAUbVq3uRtrO_oUKUQzg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N526GV62DVHZJETJLK2ZCQEIQA.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Se entrega exdirector de Inteligencia buscado por fuga en Emboscada",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/28/se-entrega-exdirector-de-inteligencia-buscado-por-fuga-en-emboscada",
+          "publishedAt": "2026-10-28T16:41:45.485Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/P6U2BKO46BFCRBHMNLGMAPZSQA.jpg?auth=17ce9620f949ea90656650bacbd667c17fbb49c70df9e3910223aab59e929e93&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -404,25 +492,25 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/28/allanan-vivienda-de-subcomisario-vinculado-a-la-fuga-de-presos-en-emboscada"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg?auth=6f43f4e7a9fc0f72d3a1640236116b1f9c6f3ca2194079433fc020efe7ce8f2c&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/policiales/2026/10/28/fuga-en-emboscada-excoordinador-profugo-se-presenta-ante-la-justicia"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedAt": "2026-10-28T18:29:00.102Z",
       "updatedSlot": "tarde",
-      "score": 29.97
+      "score": 29.93
     },
     {
       "id": "ev-0y35zcb",
-      "title": "Flávio Bolsonaro llega a Florida tras salir de Brasil pese a una orden judicial",
-      "summary": "El senador Flávio Bolsonaro llegó a Florida, Estados Unidos, tras escalas en Argentina y Ecuador. Había perdido el balotaje presidencial ante Luiz Inácio Lula da Silva. Según las notas, la Justicia brasileña le había ordenado entregar sus pasaportes en una investigación por presunto lavado de dinero. Su salida generó versiones contradictorias.",
+      "title": "Flávio Bolsonaro salió de Brasil pese a una orden judicial y llegó a Miami",
+      "summary": "El senador Flávio Bolsonaro, derrotado por Luiz Inácio Lula da Silva en el balotaje, dejó Brasil rumbo a Estados Unidos. Según los medios, tenía orden judicial de no salir del país y de entregar sus pasaportes, en una investigación por lavado de dinero. Viajó con escala en Ecuador y llegó a Miami junto a su familia. El caso genera tensión política en Brasil y dudas sobre su paradero.",
       "keyPoints": [
-        "Perdió el balotaje presidencial ante Lula da Silva.",
-        "La Policía Federal pidió medidas cautelares por presunto lavado de dinero.",
-        "Según ABC Color, llegó con su esposa y sus dos hijas.",
-        "Las autoridades migratorias argentinas confirmaron su escala en Argentina."
+        "Flávio Bolsonaro perdió el balotaje frente a Luiz Inácio Lula da Silva.",
+        "Según los medios, tenía orden judicial de no salir de Brasil.",
+        "La investigación es por lavado de dinero, según los extractos.",
+        "Llegó a Miami en un vuelo privado con escala en Ecuador."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -430,6 +518,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
+          "url": "https://www.adndigital.com.py/flavio-bolsonaro-viajo-a-ecuador-desde-argentina-tras-huir-de-brasil",
+          "publishedAt": "2026-10-28T17:57:09.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/whatsapp-image-2025-12-08-at-150823.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La espectacular fuga de Flávio Bolsonaro de Brasil paso a paso",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/28/la-espectacular-fuga-de-flavio-bolsonaro-de-brasil-paso-a-paso",
+          "publishedAt": "2026-10-28T17:39:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KnND3oSGlEUuV2snl5mWQuZTvfs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6SFK555ZN5C33KQJ4L6EGR4EJU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Llegada de Flávio Bolsonaro a Estados Unidos tras su salida de Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/10/28/llegada-de-flavio-bolsonaro-a-estados-unidos-tras-su-salida-de-brasil",
+          "publishedAt": "2026-10-28T17:07:11.588Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IVVK7JD2HRCDXDHWK54K3Q4HXE.webp?auth=488eff02b23c4ed7d45e0f39f6d9a02a5f4f9f80f26c7852b30e8ec61b9d24af&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papel del Gobierno de Milei en la fuga de Flávio Bolsonaro a través de Argentina",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/el-papel-del-gobierno-de-milei-en-la-fuga-de-flavio-bolsonaro-a-traves-de-argentina",
+          "publishedAt": "2026-10-28T17:00:10.000Z",
+          "image": "https://www.abc.com.py/resizer/ShorZLFoEwHAH0eKAtzDLkmsfDY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GXGWXMQV7NAT3L6FWPYQHRPNY4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Jair Bolsonaro \"intenta asimilar todo lo que está ocurriendo\", según uno de sus hijos",
+          "url": "https://www.ultimahora.com/jair-bolsonaro-intenta-asimilar-todo-lo-que-esta-ocurriendo-segun-uno-de-sus-hijos",
+          "publishedAt": "2026-10-28T16:31:39.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -592,15 +720,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/L3GK7WYQWVBDZMNJP62E6M253E.jpg?auth=cba14e2996d801f6d4c221501cde08cb2ff7df1545908388e1e24223199801a7&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-llego-a-florida-tras-escala-en-ecuador"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/whatsapp-image-2025-12-08-at-150823.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/flavio-bolsonaro-viajo-a-ecuador-desde-argentina-tras-huir-de-brasil"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T15:01:44.345Z",
+      "updatedAt": "2026-10-28T18:29:00.102Z",
       "updatedSlot": "tarde",
-      "score": 24.49
+      "score": 24.46
     },
     {
       "id": "ev-153sh1k",
@@ -668,7 +796,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 20.73
+      "score": 20.44
     },
     {
       "id": "ev-1l7bw79",
@@ -727,7 +855,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 16.68
+      "score": 16.39
     },
     {
       "id": "ev-0d3orv9",
@@ -787,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 14.66
+      "score": 14.38
     },
     {
       "id": "ev-0435o0h",
@@ -846,7 +974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 14.03
+      "score": 13.74
     },
     {
       "id": "ev-0uyjd82",
@@ -898,7 +1026,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10
+      "score": 9.71
     },
     {
       "id": "ev-1lzhw54",
@@ -950,7 +1078,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 10
+      "score": 9.71
     },
     {
       "id": "ev-0ok1yds",
@@ -994,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.08
+      "score": 8.79
     },
     {
       "id": "ev-0k2qhyn",
@@ -1038,7 +1166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.08
+      "score": 8.79
     },
     {
       "id": "ev-0g4onea",
@@ -1082,7 +1210,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.72
     },
     {
       "id": "ev-1lxuraf",
@@ -1125,7 +1253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.54
     },
     {
       "id": "ev-0borz9n",
@@ -1168,7 +1296,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.71
+      "score": 8.42
     },
     {
       "id": "ev-14bd47u",
@@ -1212,7 +1340,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.25
     },
     {
       "id": "ev-0bdld3x",
@@ -1255,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.14
     },
     {
       "id": "ev-1xxz888",
@@ -1298,7 +1426,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.25
+      "score": 8
     },
     {
       "id": "ev-1uzhov8",
@@ -1341,7 +1469,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.9
+      "score": 6.61
     },
     {
       "id": "ev-1xfj0xb",
@@ -1384,7 +1512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.1
+      "score": 5.82
     },
     {
       "id": "ev-0er4cxm",
@@ -1427,7 +1555,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.02
+      "score": 5.73
     },
     {
       "id": "ev-107mk4a",
@@ -1470,7 +1598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-097ojem",
@@ -1513,7 +1641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-1wl06cw",
@@ -1556,7 +1684,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-0p2pz89",
@@ -1599,7 +1727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-10qf0gd",
@@ -1642,7 +1770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-0xs4fak",
@@ -1685,7 +1813,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-1ntdivc",
@@ -1728,7 +1856,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1na3i9i",
@@ -1757,7 +1885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1bh7dt4",
@@ -1786,7 +1914,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1y8mlln",
@@ -1815,7 +1943,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0p1wlza",
@@ -1845,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0q0vfrx",
@@ -1877,7 +2005,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0a8ruir",
@@ -1907,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-00olzi1",
@@ -1939,7 +2067,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-01wk2i7",
@@ -1969,7 +2097,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0m6jf3a",
@@ -1999,7 +2127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0oc1i37",
@@ -2030,7 +2158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1ddj47y",
@@ -2066,7 +2194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.11
+      "score": 4.83
     },
     {
       "id": "ev-1fwgaq9",
@@ -2099,7 +2227,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.79
     },
     {
       "id": "ev-00679nu",
@@ -2134,7 +2262,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.78
     },
     {
       "id": "ev-0zdmt9u",
@@ -2167,7 +2295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.76
     },
     {
       "id": "ev-0gm0zgx",
@@ -2200,7 +2328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5
+      "score": 4.71
     },
     {
       "id": "ev-02ghxv2",
@@ -2233,7 +2361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.81
+      "score": 4.53
     },
     {
       "id": "ev-11mzwbo",
@@ -2281,7 +2409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.45
     },
     {
       "id": "ev-0z0ml3g",
@@ -2317,7 +2445,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-0zeghtx",
@@ -2352,7 +2480,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-0a3eu74",
@@ -2387,7 +2515,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.51
+      "score": 4.22
     },
     {
       "id": "ev-1ykd2kt",
@@ -2439,7 +2567,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.21
     },
     {
       "id": "ev-0rsm6up",
@@ -2470,7 +2598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.91
+      "score": 2.63
     },
     {
       "id": "ev-1x29glz",
@@ -2502,7 +2630,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.9
+      "score": 2.61
     }
   ],
   "runs": [
@@ -2526,6 +2654,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-28T18:29:00.102Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 20
     }
   ]
 }
