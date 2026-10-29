@@ -1,26 +1,83 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-29T08:07:13.017Z",
+  "generatedAt": "2026-10-29T12:07:10.644Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0x6rcfn",
-      "title": "Choque de trenes cerca de Toledo deja decenas de muertos y heridos",
-      "summary": "Dos trenes chocaron en la provincia de Toledo, en España, y dejaron decenas de víctimas fatales y heridos. El número de muertos siguió aumentando en las horas siguientes. Entre los pasajeros había ciudadanos de China, Japón y Filipinas, según sus gobiernos. Varios países enviaron condolencias. Las causas del accidente todavía se investigan.",
+      "title": "España, de luto tras la colisión de dos trenes que dejó al menos 68 muertos",
+      "summary": "Esta nueva catástrofe, que volvió a conmocionar a los españoles, reactivó las dudas sobre la seguridad de la red ferroviaria nacional, que en enero ya había sufrido un duro golpe cuando el choque de otros dos trenes de alta velocidad en Adamuz, Andalucía, dejó 46 fallecidos.",
       "keyPoints": [
-        "El accidente ocurrió en la provincia de Toledo.",
-        "Más de 500 pasajeros viajaban en los trenes involucrados.",
-        "Las causas del siniestro aún se investigan."
+        "Esta nueva catástrofe, que volvió a conmocionar a los españoles, reactivó las dudas sobre la seguridad de la red ferroviaria nacional, que en enero ya había sufrido un duro golpe cuando el choque de otros dos…",
+        "España inicia este jueves tres días de luto por la muerte de al menos 68 personas en la colisión de dos trenes registrada la víspera, mientras los rescatistas siguen buscando víctimas entre los vagones destrozados por…",
+        "Una grúa móvil opera en el lugar de un choque entre dos trenes de alta velocidad —un AVE de Renfe y un tren de Iryo—, ocurrido el 28 de octubre de 2026 a unos 150 km…",
+        "El accidente ocurrió en la provincia de Toledo y dejó decenas de víctimas y heridos."
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un argentino entre los fallecidos y hay 24 desaparecidos en el accidente de tren en España",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/un-argentino-entre-los-fallecidos-y-hay-24-desaparecidos-en-el-accidente-de-tren-en-espana",
+          "publishedAt": "2026-10-29T11:50:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Grúas pesadas tratan de mover los vagones de los dos trenes accidentados en España",
+          "url": "https://www.ultimahora.com/gruas-pesadas-tratan-de-mover-los-vagones-de-los-dos-trenes-accidentados-en-espana",
+          "publishedAt": "2026-10-29T10:40:24.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "España decreta tres días de luto tras colisión trenes que dejó al menos 68 muertos",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/29/espana-decreta-tres-dias-de-luto-tras-colision-trenes-que-dejo-al-menos-68-muertos",
+          "publishedAt": "2026-10-29T09:57:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/kmYcQCDqTwfmio5sqZnmUsYLUSA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FX2WZSOPBVDKHOOWGCWPIC6B7M.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "España, de luto tras la colisión de dos trenes que dejó al menos 68 muertos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/espana-de-luto-tras-la-colision-de-dos-trenes-que-dejo-al-menos-68-muertos",
+          "publishedAt": "2026-10-29T09:35:52.000Z",
+          "image": "https://www.abc.com.py/resizer/XpX9OMVKP94UaFA5OrEtmxpPhqs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2KOCHO7YERFDBCAKH6I3BI3SQQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Grúas pesadas tratan de mover los vagones de los dos trenes accidentados en España",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/gruas-pesadas-tratan-de-mover-los-vagones-de-los-dos-trenes-accidentados-en-espana",
+          "publishedAt": "2026-10-29T08:35:15.000Z",
+          "image": "https://www.abc.com.py/resizer/j_nkE_a1a5OQ2U6GGJJrpbBMm8I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/W5STD7I4WRCE5O4EIZR6YADGII.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "España, de luto tras la colisión de dos trenes que dejó al menos 68 muertos",
+          "url": "https://www.hoy.com.py/mundo/2026/10/29/espana-de-luto-tras-la-colision-de-dos-trenes-que-dejo-al-menos-68-muertos",
+          "publishedAt": "2026-10-29T08:24:06.287Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UFYH4FRYRZA3XLVZ7EAO5KMVL4.jpg?auth=3f7c44d1fc719960b9ece3a3c088aeddf9933545d20f5e028b7c8da999183504&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ciudadanos de China, Japón y Filipinas, entre los pasajeros del choque de trenes en España",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/ciudadanos-de-china-japon-y-filipinas-entre-los-pasajeros-del-choque-de-trenes-en-espana",
+          "publishedAt": "2026-10-29T05:25:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -28,6 +85,14 @@
           "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/29/choque-de-trenes-cerca-de-70-muertos-en-espana",
           "publishedAt": "2026-10-29T03:53:18.000Z",
           "image": "https://www.lanacion.com.py/resizer/2gVqZLHWUGZl3KSMuxQvzDgyMl4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EMUCMUJRT5AWDGIYWWLAMHT4SY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Gobierno de Nicaragua envía sus condolencias a España por el accidente ferroviario",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/el-gobierno-de-nicaragua-envia-sus-condolencias-a-espana-por-el-accidente-ferroviario",
+          "publishedAt": "2026-10-29T01:40:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
           "sourceId": "telefuturo",
@@ -44,50 +109,51 @@
           "url": "https://elnacional.com.py/mundo/al-menos-64-fallecidos-colision-dos-trenes-espana-n114323",
           "publishedAt": "2026-10-28T15:47:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/10/6ae219422cf3d.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ciudadanos de China, Japón y Filipinas, entre los pasajeros del choque de trenes en España",
-          "url": "https://www.abc.com.py/internacionales/2026/10/29/ciudadanos-de-china-japon-y-filipinas-entre-los-pasajeros-del-choque-de-trenes-en-espana",
-          "publishedAt": "2026-10-29T05:25:11.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El Gobierno de Nicaragua envía sus condolencias a España por el accidente ferroviario",
-          "url": "https://www.abc.com.py/internacionales/2026/10/28/el-gobierno-de-nicaragua-envia-sus-condolencias-a-espana-por-el-accidente-ferroviario",
-          "publishedAt": "2026-10-29T01:40:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/EMUCMUJRT5AWDGIYWWLAMHT4SY.jpg?auth=2259c2d0ba8db4baa78b34dc63aedb3a77d7099113dc5bdd6827991bc230119d&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/29/choque-de-trenes-cerca-de-70-muertos-en-espana"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2KOCHO7YERFDBCAKH6I3BI3SQQ.jpg?auth=b179430b65d03a9e63f9b40151cf63dcc567a8b8593b617c1cde93f37935ba7a&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/29/espana-de-luto-tras-la-colision-de-dos-trenes-que-dejo-al-menos-68-muertos"
       },
       "firstSeenAt": "2026-10-29T08:07:13.017Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
+      "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 15.27
+      "score": 21.48
     },
     {
       "id": "ev-14nr1oy",
-      "title": "Senado tratará el miércoles la pérdida de investidura de Zenaida Delgado",
-      "summary": "El Senado tratará el próximo miércoles el pedido de pérdida de investidura de la senadora Zenaida Delgado. El pleno aprobó una moción de preferencia, a pedido del senador Natalicio Chase, para que sea el primer punto del orden del día. La convocatoria se aprobó con 28 votos a favor y dos en contra. El Ministerio Público ya pidió varias informaciones a la Cámara Alta en la investigación abierta contra la legisladora.",
+      "title": "Zenaida Delgado renunciaría al Senado ante inminente pérdida de investidura",
+      "summary": "Zenaida Delgado anunció que presentará su renuncia a la Cámara de Senadores y se someterá a la justicia, tras enfrentar un inminente proceso de pérdida de investidura impulsado por denuncias de corrupción e irregularidades vinculadas al manejo de recursos con sus propios colaboradores.",
       "keyPoints": [
-        "El pleno aprobó tratar el caso como primer punto del orden del día.",
-        "La convocatoria se aprobó con 28 votos a favor y dos en contra.",
-        "El Ministerio Público pidió varias informaciones a la Cámara Alta."
+        "Zenaida Delgado anunció que presentará su renuncia a la Cámara de Senadores y se someterá a la justicia, tras enfrentar un inminente proceso de pérdida de investidura impulsado por denuncias de corrupción e irregularidades vinculadas al…",
+        "El Senado tratará el miércoles el pedido de pérdida de investidura de Zenaida Delgado, tras aprobar la convocatoria con 28 votos a favor y dos en contra.",
+        "A pedido del senador Natalicio Chase, el pleno aprobó una moción de preferencia para que el pedido de pérdida de investidura de la legisladora sea tratado como primer punto del orden del día de la sesión…",
+        "La Cámara de Senadores fijó para la próxima semana el estudio del pedido de pérdida de investidura de la senadora oficialista Zenaida Delgado ."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Zenaida Delgado: Líder Amarilla dice que aún no se demostró uso indebido de influencias",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/10/29/audio-zenaida-delgado-lider-amarilla-dice-que-aun-no-se-demostro-uso-indebido-de-influencias",
+          "publishedAt": "2026-10-29T11:30:50.000Z",
+          "image": "https://www.abc.com.py/resizer/4KAXF8Q5B8AGFN7zsD6SLpbKBDQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado: Líder Amarilla dice que aún no se demostró uso indebido de influencias",
+          "url": "https://www.abc.com.py/politica/2026/10/29/zenaida-delgado-lider-amarilla-dice-que-aun-no-se-demostro-uso-indebido-de-influencias",
+          "publishedAt": "2026-10-29T11:09:08.000Z",
+          "image": "https://www.abc.com.py/resizer/4KAXF8Q5B8AGFN7zsD6SLpbKBDQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -97,12 +163,44 @@
           "image": "https://www.lanacion.com.py/resizer/ycWKXrBnJEiTYcpuh1055eZbhw4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4KWB3RX5NNF4HPVWKOZMJMZFFU.jpg"
         },
         {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Zenaida Delgado se pone a disposición de la Fiscalía y niega acusaciones",
+          "url": "https://www.telefuturo.com.py/zenaida-delgado-se-pone-a-disposicion-de-la-fiscalia-y-niega-acusaciones",
+          "publishedAt": "2026-10-28T20:05:55.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dionisio Amarilla llama \"degenerado\" a Payo Cubas y exige que Zenaida Delgado \"cuente todo\"",
+          "url": "https://elnacional.com.py/politica/dionisio-amarilla-llama-degenerado-payo-cubas-exige-zenaida-delgado-cuente-todo-n114328",
+          "publishedAt": "2026-10-28T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae237cd39734.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 28 de octubre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/10/28/ln-pm-edicion-del-28-de-octubre",
+          "publishedAt": "2026-10-28T15:21:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/bnNcv-0tEwPFdvgbvj6wUx5_PvU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N45YHEBMVVCVDPF7V4OGKWCZLU.jpg"
+        },
+        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
           "title": "Senado tratará pérdida de investidura de Zenaida Delgado el próximo miércoles",
           "url": "https://elnacional.com.py/politica/senado-tratara-perdida-investidura-zenaida-delgado-proximo-miercoles-n114312",
           "publishedAt": "2026-10-28T14:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Zenaida Delgado renunciaría al Senado ante inminente pérdida de investidura",
+          "url": "https://www.telefuturo.com.py/zenaida-delgado-renunciaria-al-senado-ante-inminente-perdida-de-investidura",
+          "publishedAt": "2026-10-28T13:46:14.000Z",
+          "image": null
         },
         {
           "sourceId": "npy",
@@ -121,24 +219,124 @@
           "image": "https://www.lanacion.com.py/resizer/XXDiz__Ncc3TOhnoL5gNIH2i_JY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PUFMVURFZRB2ND2ZMXCHT44AUA.jpg"
         },
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "LN PM: edición del 28 de octubre",
-          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/10/28/ln-pm-edicion-del-28-de-octubre",
-          "publishedAt": "2026-10-28T15:21:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/bnNcv-0tEwPFdvgbvj6wUx5_PvU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N45YHEBMVVCVDPF7V4OGKWCZLU.jpg"
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Me declaro inocente\": Zenaida Delgado pide siete días para preparar su defensa",
+          "url": "https://elnacional.com.py/politica/me-declaro-inocente-zenaida-delgado-pide-siete-dias-preparar-su-defensa-n114304",
+          "publishedAt": "2026-10-28T13:08:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f3d918820.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Zenaida Delgado anuncia que presentará su renuncia en medio del pedido de pérdida de investidura",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/zenaida-delgado-anuncia-que-presentara-su-renuncia-en-medio-del-pedido-de-perdida-de-investidura",
+          "publishedAt": "2026-10-28T12:38:05.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zenaida Delgado renunciaría al Senado y se sometería a la Justicia",
+          "url": "https://elnacional.com.py/politica/zenaida-delgado-renunciaria-senado-someteria-justicia-n114300",
+          "publishedAt": "2026-10-28T12:16:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69bc123157f50.jpeg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4KWB3RX5NNF4HPVWKOZMJMZFFU.jpg?auth=70c6a5ddbdf910c4d8b69df0f08665655c070c535792e7a54ac287702dd10d40&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/postergan-tratamiento-de-la-perdida-de-investidura"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg?auth=2a27670819ae18d06d6692588d97c05bc87c7bdd5474e08597f0ea66cad9c2e8&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/la-primera-manana/2026/10/29/audio-zenaida-delgado-lider-amarilla-dice-que-aun-no-se-demostro-uso-indebido-de-influencias"
       },
       "firstSeenAt": "2026-10-29T08:07:13.017Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
+      "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 14.59
+      "score": 20.95
+    },
+    {
+      "id": "ev-1yvvfag",
+      "title": "Oposición acordó firmar el 9 de noviembre un compromiso de unidad rumbo a 2028",
+      "summary": "Los partidos de oposición se reunieron en la sede del PLRA y acordaron avanzar hacia la unidad con miras a las elecciones generales de 2028. Firmarán un compromiso programático el 9 de noviembre. Todavía falta definir cómo se conformará la chapa presidencial única. La diputada Rocío Vallejo, de Patria Querida, calificó la reunión como optimista.",
+      "keyPoints": [
+        "La reunión se realizó en la sede del PLRA.",
+        "Payo Cubas y Yolanda Paredes, de Cruzada Nacional, no asistieron.",
+        "Falta definir el mecanismo para la chapa presidencial.",
+        "Alcides Riveros, titular del PLRA, habló de llegar unidos al 2028."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rocío Vallejo destaca avance de la oposición hacia una candidatura única para 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/29/rocio-vallejo-destaca-avance-de-la-oposicion-hacia-una-candidatura-unica-para-2028",
+          "publishedAt": "2026-10-29T10:44:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZjlE4OpmDSc7ndvkcTMUW9Mp4xw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Vallejo sobre la unidad de la oposición: “Acá no tenemos un Mesías, se necesita de un equipo”",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/10/29/audio-vallejo-sobre-la-unidad-de-la-oposicion-aca-no-tenemos-un-mesias-se-necesita-de-un-equipo",
+          "publishedAt": "2026-10-29T10:33:40.000Z",
+          "image": "https://www.abc.com.py/resizer/gPWz-H8SqJFz1L4ULaIfM-Fo2Pc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/BPZNEEF6Z5HQPBT6IP6KDM4OH4.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Vallejo sobre la unidad de la oposición: “Acá no tenemos un Mesías, se necesita de un equipo”",
+          "url": "https://www.abc.com.py/politica/2026/10/29/vallejo-sobre-la-unidad-de-la-oposicion-aca-no-tenemos-un-mesias-se-necesita-de-un-equipo",
+          "publishedAt": "2026-10-29T10:25:46.000Z",
+          "image": "https://www.abc.com.py/resizer/ZMNqawLd3iYT7aBH-OJC6PZuk2s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2XDFB45XXNG4JP5WWFV3ARRTC4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Oposición fija el 9 de noviembre para firmar un compromiso de unidad rumbo al 2028",
+          "url": "https://www.adndigital.com.py/oposicion-fija-el-9-de-noviembre-para-firmar-un-compromiso-de-unidad-rumbo-al-2028",
+          "publishedAt": "2026-10-29T10:24:00.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición se reúne y fija fecha para sellar unidad con miras al 2028",
+          "url": "https://elnacional.com.py/politica/oposicion-reune-fija-fecha-sellar-unidad-miras-2028-n114344",
+          "publishedAt": "2026-10-29T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae2bf86b96f5.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La oposición inicia diálogo en busca de consensos",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/la-oposicion-inicia-dialogo-en-busca-de-consensos",
+          "publishedAt": "2026-10-29T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZjlE4OpmDSc7ndvkcTMUW9Mp4xw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La oposición inicia diálogo en busca de consensos de cara al 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/28/la-oposicion-inicia-dialogo-en-busca-de-consensos-de-cara-al-2028",
+          "publishedAt": "2026-10-28T21:59:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZODhlmm2dEPYhK9JKwaH-tdZWRY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GTEPEY6ZEVCPFCHAEDOSIHJCII.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg?auth=70c4702205263df436832ecc5fc06df77487368aa7410773f9d738a586ddfa56&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/29/rocio-vallejo-destaca-avance-de-la-oposicion-hacia-una-candidatura-unica-para-2028"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T12:07:10.644Z",
+      "updatedSlot": "manana",
+      "score": 17.88
     },
     {
       "id": "ev-0ikj54y",
@@ -205,7 +403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 14
+      "score": 13.66
     },
     {
       "id": "ev-163uxw0",
@@ -256,7 +454,135 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 13.03
+      "score": 12.69
+    },
+    {
+      "id": "ev-0g82edt",
+      "title": "Flávio Bolsonaro denuncia fraude desde EE. UU. y anuncia que encabezará la oposición",
+      "summary": "El excandidato presidencial Flávio Bolsonaro difundió un comunicado desde Estados Unidos en el que desconoce su derrota frente a Luiz Inácio Lula da Silva. Denuncia un supuesto fraude en los comicios del 25 de octubre, aunque no presentó pruebas. Anunció que encabezará la oposición desde el exterior. Según La Nación, llegó a Florida tras salir de Brasil, a través de Argentina.",
+      "keyPoints": [
+        "Flávio Bolsonaro perdió la elección frente a Luiz Inácio Lula da Silva.",
+        "Denuncia un supuesto fraude, sin presentar pruebas.",
+        "Anunció que encabezará la oposición desde el exterior.",
+        "Llegó a Florida, Estados Unidos, tras salir de Brasil."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro se declara “líder” de Brasil desde EE. UU. tras huir del país",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/29/flavio-bolsonaro-se-declara-lider-de-brasil-desde-ee-uu-tras-huir-del-pais",
+          "publishedAt": "2026-10-29T09:59:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vCQdNZ-dCxzvrsfR6PQ3U51nv90=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCKY7FYF3FFQHJKO7OSJN62O7U.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Flávio Bolsonaro se proclama presidente electo de Brasil desde Miami",
+          "url": "https://5dias.com.py/article/flvio-bolsonaro-se-proclama-presidente-electo-de-brasil-desde-miami",
+          "publishedAt": "2026-10-29T06:24:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-10-29T062413.072_20261029_062353.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bolsonaro está en los Estados Unidos",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/29/bolsonaro-esta-en-los-estados-unidos",
+          "publishedAt": "2026-10-29T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3vU5qvrdNfra1wapWZM5gTIA7vc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FPAFEJ2OONEAHAD47WMTDOIQZA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Desde EE.UU., Flávio Bolsonaro denuncia fraude y anuncia que liderará la oposición",
+          "url": "https://elnacional.com.py/mundo/desde-eeuu-flavio-bolsonaro-denuncia-fraude-anuncia-liderara-oposicion-n114338",
+          "publishedAt": "2026-10-28T21:09:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La espectacular fuga de Flávio Bolsonaro de Brasil paso a paso",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/28/la-espectacular-fuga-de-flavio-bolsonaro-de-brasil-paso-a-paso",
+          "publishedAt": "2026-10-28T17:39:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KnND3oSGlEUuV2snl5mWQuZTvfs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6SFK555ZN5C33KQJ4L6EGR4EJU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro llegó a Florida tras escala en Ecuador",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-llego-a-florida-tras-escala-en-ecuador",
+          "publishedAt": "2026-10-28T14:55:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/SGyl6DINW_iMKl5jnkwD398Z2-o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L3GK7WYQWVBDZMNJP62E6M253E.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CCKY7FYF3FFQHJKO7OSJN62O7U.jpg?auth=1e815ad29a132325966eb432b7d58856cf728e37eee3d07244f76bd5c90cb3e7&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/29/flavio-bolsonaro-se-declara-lider-de-brasil-desde-ee-uu-tras-huir-del-pais"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T12:07:10.644Z",
+      "updatedSlot": "manana",
+      "score": 12.32
+    },
+    {
+      "id": "ev-17q9ixm",
+      "title": "Un hombre atropelló a una mujer en Ñemby, derribó una muralla y huyó",
+      "summary": "Un hombre atropelló a una mujer en Ñemby, derribó la muralla y el portón de una vivienda y huyó. Según la información disponible, dijo que estaba ebrio. La víctima rechazó asistencia médica y dio versiones contradictorias sobre el conductor, que todavía no fue identificado. La Policía revisa imágenes de cámaras de circuito cerrado, aunque aún no está claro qué pasó.",
+      "keyPoints": [
+        "Un hombre atropelló a una mujer y derribó la muralla y el portón de una vivienda en Ñemby.",
+        "El conductor huyó y aún no fue identificado.",
+        "La víctima rechazó asistencia médica y dio versiones contradictorias.",
+        "La Policía tiene imágenes de circuito cerrado."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Un hombre atropelló a una mujer, derribó una muralla y huyó",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/un-hombre-atropello-a-una-mujer-derribo-una-muralla-y-huyo",
+          "publishedAt": "2026-10-29T10:50:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hombre persiguió y atropelló a una mujer con su auto",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/29/hombre-persiguio-y-atropello-a-una-mujer-con-su-auto",
+          "publishedAt": "2026-10-29T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AK35_CqP_YIAwbGF4HRuMoFLuE8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UUBS5DHA3ZDIHJ2IQNLFEG7BAM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Conductor persiguió y atropelló a una mujer en Ñemby",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/conductor-persiguio-y-atropello-a-una-mujer-en-nemby",
+          "publishedAt": "2026-10-28T19:33:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0r6W4BNsvs8oY4HJ-vC-lNoJkyg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AU4BYTKW2BDCVBXUHPWF6N5ISE.png"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UUBS5DHA3ZDIHJ2IQNLFEG7BAM.jpg?auth=2fefa6d3d9228ad495ad0266d30d796439829341f408ec704eea145646a9b927&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/29/hombre-persiguio-y-atropello-a-una-mujer-con-su-auto"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T12:07:10.644Z",
+      "updatedSlot": "manana",
+      "score": 10.89
     },
     {
       "id": "ev-1f4iue2",
@@ -307,7 +633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0ids5va",
@@ -350,7 +676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.29
     },
     {
       "id": "ev-0iocdsc",
@@ -393,7 +719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-0i52vu5",
@@ -436,7 +762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-0xunynz",
@@ -479,7 +805,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.03
     },
     {
       "id": "ev-0yhj4zn",
@@ -523,7 +849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.99
     },
     {
       "id": "ev-0i54t9o",
@@ -567,7 +893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1ei10md",
@@ -610,7 +936,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.83
     },
     {
       "id": "ev-1cek0q0",
@@ -653,50 +979,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.11
-    },
-    {
-      "id": "ev-11feg9m",
-      "title": "DNIT activa plan piloto de factura electrónica de exportación con seis empresas",
-      "summary": "La DNIT puso en marcha una etapa de prueba de la Factura Electrónica de Exportación con seis empresas. El proceso tendrá cuatro fases antes de una implementación progresiva. Busca modernizar la documentación del comercio exterior, simplificar trámites y reforzar la supervisión.",
-      "keyPoints": [
-        "La prueba se hace con seis empresas en una primera etapa.",
-        "El proceso tendrá cuatro fases antes de la implementación progresiva.",
-        "La medida se estableció por la Resolución General DNIT N.º 59/2026."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "DNIT prueba la factura electrónica para exportaciones con seis empresas",
-          "url": "https://www.adndigital.com.py/dnit-prueba-la-factura-electronica-para-exportaciones-con-seis-empresas",
-          "publishedAt": "2026-10-28T21:15:41.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/12/dnit-fachada.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "DNIT implementa plan piloto para la factura electrónica de exportación",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/28/dnit-implementa-plan-piloto-para-la-factura-electronica-de-exportacion",
-          "publishedAt": "2026-10-28T19:43:02.000Z",
-          "image": "https://www.lanacion.com.py/resizer/u6v3Zz0PwYgDD8oOHsEjpLNnBeM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5XMFKFZL3ZHPPAC6NY24SUM7SM.webp"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/12/dnit-fachada.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/dnit-prueba-la-factura-electronica-para-exportaciones-con-seis-empresas"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.77
     },
     {
       "id": "ev-1nqafdr",
@@ -739,7 +1022,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.77
+    },
+    {
+      "id": "ev-11feg9m",
+      "title": "DNIT activa plan piloto de factura electrónica de exportación con seis empresas",
+      "summary": "La DNIT puso en marcha una etapa de prueba de la Factura Electrónica de Exportación con seis empresas. El proceso tendrá cuatro fases antes de una implementación progresiva. Busca modernizar la documentación del comercio exterior, simplificar trámites y reforzar la supervisión.",
+      "keyPoints": [
+        "La prueba se hace con seis empresas en una primera etapa.",
+        "El proceso tendrá cuatro fases antes de la implementación progresiva.",
+        "La medida se estableció por la Resolución General DNIT N.º 59/2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "DNIT prueba la factura electrónica para exportaciones con seis empresas",
+          "url": "https://www.adndigital.com.py/dnit-prueba-la-factura-electronica-para-exportaciones-con-seis-empresas",
+          "publishedAt": "2026-10-28T21:15:41.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/12/dnit-fachada.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "DNIT implementa plan piloto para la factura electrónica de exportación",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/28/dnit-implementa-plan-piloto-para-la-factura-electronica-de-exportacion",
+          "publishedAt": "2026-10-28T19:43:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/u6v3Zz0PwYgDD8oOHsEjpLNnBeM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5XMFKFZL3ZHPPAC6NY24SUM7SM.webp"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/12/dnit-fachada.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/dnit-prueba-la-factura-electronica-para-exportaciones-con-seis-empresas"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T08:07:13.017Z",
+      "updatedSlot": "manana",
+      "score": 8.76
     },
     {
       "id": "ev-1ozr3rw",
@@ -782,66 +1108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.08
-    },
-    {
-      "id": "ev-0g82edt",
-      "title": "Flávio Bolsonaro llega a Florida y denuncia fraude electoral desde Estados Unidos",
-      "summary": "El excandidato presidencial brasileño Flávio Bolsonaro llegó a Florida tras salir de Brasil con escala en Ecuador. Desde Estados Unidos difundió un comunicado en el que desconoce su derrota frente a Luiz Inácio Lula da Silva. Denuncia un supuesto fraude en los comicios del 25 de octubre y anunció que encabezará la oposición desde el exterior. Las notas no traen una respuesta oficial sobre la denuncia.",
-      "keyPoints": [
-        "Flávio Bolsonaro llegó al Aeropuerto Ejecutivo Opa-Locka, en Miami, Florida.",
-        "Denuncia un supuesto fraude en los comicios del 25 de octubre.",
-        "Anunció que liderará la oposición desde el exterior."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Desde EE.UU., Flávio Bolsonaro denuncia fraude y anuncia que liderará la oposición",
-          "url": "https://elnacional.com.py/mundo/desde-eeuu-flavio-bolsonaro-denuncia-fraude-anuncia-liderara-oposicion-n114338",
-          "publishedAt": "2026-10-28T21:09:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Bolsonaro está en los Estados Unidos",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/29/bolsonaro-esta-en-los-estados-unidos",
-          "publishedAt": "2026-10-29T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/3vU5qvrdNfra1wapWZM5gTIA7vc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FPAFEJ2OONEAHAD47WMTDOIQZA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Flávio Bolsonaro llegó a Florida tras escala en Ecuador",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/28/flavio-bolsonaro-llego-a-florida-tras-escala-en-ecuador",
-          "publishedAt": "2026-10-28T14:55:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/SGyl6DINW_iMKl5jnkwD398Z2-o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L3GK7WYQWVBDZMNJP62E6M253E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La espectacular fuga de Flávio Bolsonaro de Brasil paso a paso",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/28/la-espectacular-fuga-de-flavio-bolsonaro-de-brasil-paso-a-paso",
-          "publishedAt": "2026-10-28T17:39:11.000Z",
-          "image": "https://www.lanacion.com.py/resizer/KnND3oSGlEUuV2snl5mWQuZTvfs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6SFK555ZN5C33KQJ4L6EGR4EJU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/desde-eeuu-flavio-bolsonaro-denuncia-fraude-anuncia-liderara-oposicion-n114338"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 9.08
+      "score": 8.75
     },
     {
       "id": "ev-0mif42w",
@@ -884,7 +1151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.67
     },
     {
       "id": "ev-1qgb4qu",
@@ -927,7 +1194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.93
+      "score": 8.6
     },
     {
       "id": "ev-10gy97l",
@@ -970,7 +1237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-0xzc3i1",
@@ -1013,7 +1280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.18
     },
     {
       "id": "ev-0cbwc1l",
@@ -1064,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.13
     },
     {
       "id": "ev-1ykxecx",
@@ -1107,7 +1374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-10qyhff",
@@ -1150,7 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-1grn7p1",
@@ -1193,7 +1460,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.64
+      "score": 6.31
     },
     {
       "id": "ev-1vxsqgm",
@@ -1236,93 +1503,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.6
-    },
-    {
-      "id": "ev-17q9ixm",
-      "title": "Conductor habría atropellado a una mujer en Ñemby; la Policía revisa cámaras",
-      "summary": "Un conductor habría perseguido y atropellado a una mujer en Ñemby, según las notas. La Policía tiene imágenes de un circuito cerrado de cámaras, pero todavía no aclaró qué sucedió. Hasta ahora no hay una versión oficial confirmada sobre lo ocurrido.",
-      "keyPoints": [
-        "La Policía cuenta con imágenes de cámaras de circuito cerrado.",
-        "Todavía no está claro qué pasó antes del atropello.",
-        "El hecho ocurrió en Ñemby."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Hombre persiguió y atropelló a una mujer con su auto",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/29/hombre-persiguio-y-atropello-a-una-mujer-con-su-auto",
-          "publishedAt": "2026-10-29T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AK35_CqP_YIAwbGF4HRuMoFLuE8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UUBS5DHA3ZDIHJ2IQNLFEG7BAM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Conductor persiguió y atropelló a una mujer en Ñemby",
-          "url": "https://www.lanacion.com.py/pais/2026/10/28/conductor-persiguio-y-atropello-a-una-mujer-en-nemby",
-          "publishedAt": "2026-10-28T19:33:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0r6W4BNsvs8oY4HJ-vC-lNoJkyg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AU4BYTKW2BDCVBXUHPWF6N5ISE.png"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UUBS5DHA3ZDIHJ2IQNLFEG7BAM.jpg?auth=2fefa6d3d9228ad495ad0266d30d796439829341f408ec704eea145646a9b927&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/29/hombre-persiguio-y-atropello-a-una-mujer-con-su-auto"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-1yvvfag",
-      "title": "Oposición firmará compromiso de unidad el 9 de noviembre",
-      "summary": "Los partidos de la oposición realizaron su primera reunión en la sede del PLRA. Participaron líderes de las principales agrupaciones, senadores y diputados. No asistieron Payo Cubas ni Yolanda Paredes, del Partido Cruzada Nacional. Alcides Riveros, titular del PLRA, dijo que llegarán unidos al 2028.",
-      "keyPoints": [
-        "La primera reunión del bloque opositor se realizó en la sede del PLRA.",
-        "Los representantes firmarán el compromiso de unidad el 9 de noviembre.",
-        "Payo Cubas y Yolanda Paredes no asistieron al encuentro."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La oposición inicia diálogo en busca de consensos",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/la-oposicion-inicia-dialogo-en-busca-de-consensos",
-          "publishedAt": "2026-10-29T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZjlE4OpmDSc7ndvkcTMUW9Mp4xw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La oposición inicia diálogo en busca de consensos de cara al 2028",
-          "url": "https://www.lanacion.com.py/politica/2026/10/28/la-oposicion-inicia-dialogo-en-busca-de-consensos-de-cara-al-2028",
-          "publishedAt": "2026-10-28T21:59:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZODhlmm2dEPYhK9JKwaH-tdZWRY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GTEPEY6ZEVCPFCHAEDOSIHJCII.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg?auth=70c4702205263df436832ecc5fc06df77487368aa7410773f9d738a586ddfa56&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/la-oposicion-inicia-dialogo-en-busca-de-consensos"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.27
     },
     {
       "id": "ev-1y4q41z",
@@ -1365,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0sp2pcj",
@@ -1408,7 +1589,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.48
+      "score": 6.15
     },
     {
       "id": "ev-0yxozqv",
@@ -1451,7 +1632,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.09
+      "score": 5.75
     },
     {
       "id": "ev-0dj922y",
@@ -1487,7 +1668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-1lig7ef",
@@ -1517,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0203sw4",
@@ -1547,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1bcb91j",
@@ -1577,7 +1758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0qhvesi",
@@ -1607,7 +1788,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-13s9398",
@@ -1637,7 +1818,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0inp724",
@@ -1667,7 +1848,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1adlbuw",
@@ -1697,7 +1878,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-03zrkoc",
@@ -1727,7 +1908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ak45ae",
@@ -1757,7 +1938,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-08rpheg",
@@ -1788,7 +1969,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.72
+      "score": 5.39
     },
     {
       "id": "ev-0ged0t7",
@@ -1836,7 +2017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.85
     },
     {
       "id": "ev-0akplr9",
@@ -1871,7 +2052,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.13
+      "score": 4.79
     },
     {
       "id": "ev-12t25xq",
@@ -1907,7 +2088,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.67
     },
     {
       "id": "ev-180rqy9",
@@ -1941,7 +2122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.71
+      "score": 4.38
     },
     {
       "id": "ev-0ls4h0r",
@@ -1975,7 +2156,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.24
     },
     {
       "id": "ev-1sguysy",
@@ -2010,7 +2191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.29
+      "score": 4
     },
     {
       "id": "ev-06lkx9j",
@@ -2050,7 +2231,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.14
+      "score": 3.81
     },
     {
       "id": "ev-01q8hti",
@@ -2085,7 +2266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 2.7
+      "score": 2.37
     }
   ],
   "runs": [
@@ -2095,6 +2276,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 64
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-29T12:07:10.644Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 14
     }
   ]
 }
