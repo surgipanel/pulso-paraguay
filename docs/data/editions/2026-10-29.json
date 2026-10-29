@@ -1,9 +1,9 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-29T12:07:10.644Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-29T15:09:33.805Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -120,7 +120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 21.48
+      "score": 21.22
     },
     {
       "id": "ev-14nr1oy",
@@ -252,17 +252,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 20.95
+      "score": 20.7
     },
     {
       "id": "ev-1yvvfag",
-      "title": "Oposición acordó firmar el 9 de noviembre un compromiso de unidad rumbo a 2028",
-      "summary": "Los partidos de oposición se reunieron en la sede del PLRA y acordaron avanzar hacia la unidad con miras a las elecciones generales de 2028. Firmarán un compromiso programático el 9 de noviembre. Todavía falta definir cómo se conformará la chapa presidencial única. La diputada Rocío Vallejo, de Patria Querida, calificó la reunión como optimista.",
+      "title": "Oposición busca candidatura única para 2028 y firmará compromiso el 9 de noviembre",
+      "summary": "Los partidos de la oposición avanzan hacia una chapa única para la Presidencia y Vicepresidencia rumbo a las elecciones de 2028. Tras una reunión, acordaron firmar un compromiso de unidad el 9 de noviembre, en el Hotel Guaraní. El presidente del PLRA, Alcides Riveros, anunció que también convocará a sectores sociales y gremiales.",
       "keyPoints": [
-        "La reunión se realizó en la sede del PLRA.",
-        "Payo Cubas y Yolanda Paredes, de Cruzada Nacional, no asistieron.",
-        "Falta definir el mecanismo para la chapa presidencial.",
-        "Alcides Riveros, titular del PLRA, habló de llegar unidos al 2028."
+        "Los partidos opositores acordaron firmar un compromiso de unidad el 9 de noviembre.",
+        "La firma se realizaría en el Hotel Guaraní de Asunción.",
+        "El PLRA convocará a sectores sociales y gremiales al proceso.",
+        "La diputada Rocío Vallejo calificó como optimista la primera reunión."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -270,6 +270,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "PLRA busca sumar a sectores sociales y gremiales a la unidad opositora",
+          "url": "https://www.adndigital.com.py/plra-busca-sumar-a-sectores-sociales-y-gremiales-a-la-unidad-opositora",
+          "publishedAt": "2026-10-29T14:22:31.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-19-at-185531.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Chapa única para la Presidencia y Vicepresidencia, prioridad de la oposición",
+          "url": "https://elnacional.com.py/politica/chapa-unica-presidencia-vicepresidencia-prioridad-oposicion-n114358",
+          "publishedAt": "2026-10-29T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae3383e3b17f.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El PLRA convocará a gremios y sectores sociales para articular la unidad opositora hacia 2028",
+          "url": "https://www.lanacion.com.py/politica/2026/10/29/el-plra-convocara-a-gremios-y-sectores-sociales-para-articular-la-unidad-opositora-hacia-2028",
+          "publishedAt": "2026-10-29T12:24:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3VyA2gsZGsx0u7Q6yfaJwFsPlLM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZP7ILKB5PFFFPEJEJ35OEHEKLE.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -328,15 +352,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5KCZ4XCBVBG3LA2V3C77HJH55E.jpg?auth=70c4702205263df436832ecc5fc06df77487368aa7410773f9d738a586ddfa56&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/29/rocio-vallejo-destaca-avance-de-la-oposicion-hacia-una-candidatura-unica-para-2028"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-19-at-185531.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/plra-busca-sumar-a-sectores-sociales-y-gremiales-a-la-unidad-opositora"
       },
       "firstSeenAt": "2026-10-29T08:07:13.017Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-29T12:07:10.644Z",
-      "updatedSlot": "manana",
-      "score": 17.88
+      "updatedAt": "2026-10-29T15:09:33.805Z",
+      "updatedSlot": "tarde",
+      "score": 17.93
     },
     {
       "id": "ev-0ikj54y",
@@ -403,7 +427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 13.66
+      "score": 13.41
     },
     {
       "id": "ev-163uxw0",
@@ -454,7 +478,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 12.69
+      "score": 12.44
     },
     {
       "id": "ev-0g82edt",
@@ -530,7 +554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 12.32
+      "score": 12.07
     },
     {
       "id": "ev-17q9ixm",
@@ -582,7 +606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 10.89
+      "score": 10.64
     },
     {
       "id": "ev-1f4iue2",
@@ -633,7 +657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.99
     },
     {
       "id": "ev-0ids5va",
@@ -676,7 +700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.29
+      "score": 9.03
     },
     {
       "id": "ev-0iocdsc",
@@ -719,7 +743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.99
     },
     {
       "id": "ev-0i52vu5",
@@ -762,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.99
     },
     {
       "id": "ev-0xunynz",
@@ -805,7 +829,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.03
+      "score": 8.78
     },
     {
       "id": "ev-0yhj4zn",
@@ -849,7 +873,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.74
     },
     {
       "id": "ev-0i54t9o",
@@ -893,7 +917,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.65
     },
     {
       "id": "ev-1ei10md",
@@ -936,7 +960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.58
     },
     {
       "id": "ev-1cek0q0",
@@ -979,7 +1003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.52
     },
     {
       "id": "ev-1nqafdr",
@@ -1022,7 +1046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.52
     },
     {
       "id": "ev-11feg9m",
@@ -1065,7 +1089,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.76
+      "score": 8.51
     },
     {
       "id": "ev-1ozr3rw",
@@ -1108,7 +1132,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.75
+      "score": 8.5
     },
     {
       "id": "ev-0mif42w",
@@ -1151,7 +1175,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.42
     },
     {
       "id": "ev-1qgb4qu",
@@ -1194,7 +1218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.34
     },
     {
       "id": "ev-10gy97l",
@@ -1237,7 +1261,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.49
+      "score": 8.24
+    },
+    {
+      "id": "ev-10qyhff",
+      "title": "Paraguay vence 1-0 a Marruecos y avanza a cuartos del Mundial Sub-15",
+      "summary": "La Albirroja Sub-15 superó a Marruecos por 1-0 en octavos de final del Mundial de la categoría. Kevin Cardozo anotó el único gol del partido. Con este resultado, Paraguay se instaló en cuartos de final, donde enfrentará a Ghana.",
+      "keyPoints": [
+        "Paraguay ganó 1-0 a Marruecos en octavos de final.",
+        "Kevin Cardozo marcó el único gol del partido.",
+        "Paraguay jugará ante Ghana en cuartos de final."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "¡Paraguay es semifinalista del Mundial Sub-15!",
+          "url": "https://elnacional.com.py/deportes/paraguay-semifinalista-mundial-sub-15-n114347",
+          "publishedAt": "2026-10-29T10:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae31ec35de2c.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Albirroja sub 15 se instaló en cuartos",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/29/albirroja-sub-15-se-instalo-en-cuartos",
+          "publishedAt": "2026-10-29T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Nh4QuaNNuLIECecm_dNxNEVWqHw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DUHNFZJMHNBKNDWRF6XOHSZCUQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "¡Paraguay elimina a Marruecos y se mete en los cuartos de final del Mundial Sub-15!",
+          "url": "https://elnacional.com.py/deportes/paraguay-elimina-marruecos-mete-cuartos-final-mundial-sub-15-n114332",
+          "publishedAt": "2026-10-28T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae24d5827dde.png"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae31ec35de2c.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/deportes/paraguay-semifinalista-mundial-sub-15-n114347"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T15:09:33.805Z",
+      "updatedSlot": "tarde",
+      "score": 8.1
     },
     {
       "id": "ev-0xzc3i1",
@@ -1280,7 +1355,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-0cbwc1l",
@@ -1331,7 +1406,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.13
+      "score": 7.88
     },
     {
       "id": "ev-1ykxecx",
@@ -1374,50 +1449,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.74
-    },
-    {
-      "id": "ev-10qyhff",
-      "title": "Paraguay sub 15 vence a Marruecos y avanza a cuartos del Mundial",
-      "summary": "La selección paraguaya sub 15 venció 1-0 a Marruecos en octavos de final del Mundial de la categoría. Kevin Cardozo marcó el único gol del partido. El equipo enfrentará a Ghana en cuartos de final.",
-      "keyPoints": [
-        "Paraguay ganó 1-0 a Marruecos en octavos de final.",
-        "Kevin Cardozo anotó el único gol del partido.",
-        "Paraguay jugará contra Ghana en cuartos de final."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Albirroja sub 15 se instaló en cuartos",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/29/albirroja-sub-15-se-instalo-en-cuartos",
-          "publishedAt": "2026-10-29T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Nh4QuaNNuLIECecm_dNxNEVWqHw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DUHNFZJMHNBKNDWRF6XOHSZCUQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "¡Paraguay elimina a Marruecos y se mete en los cuartos de final del Mundial Sub-15!",
-          "url": "https://elnacional.com.py/deportes/paraguay-elimina-marruecos-mete-cuartos-final-mundial-sub-15-n114332",
-          "publishedAt": "2026-10-28T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae24d5827dde.png"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DUHNFZJMHNBKNDWRF6XOHSZCUQ.jpg?auth=1325c4d0fa03546d9aa9bdb55811a6e6bea74490ff239ffe0f50fa1683645425&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/29/albirroja-sub-15-se-instalo-en-cuartos"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.49
     },
     {
       "id": "ev-1grn7p1",
@@ -1460,7 +1492,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.31
+      "score": 6.05
     },
     {
       "id": "ev-1vxsqgm",
@@ -1503,7 +1535,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.27
+      "score": 6.02
     },
     {
       "id": "ev-1y4q41z",
@@ -1546,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.99
     },
     {
       "id": "ev-0sp2pcj",
@@ -1589,7 +1621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.9
     },
     {
       "id": "ev-0yxozqv",
@@ -1632,7 +1664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.75
+      "score": 5.5
     },
     {
       "id": "ev-0dj922y",
@@ -1668,7 +1700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.4
     },
     {
       "id": "ev-1lig7ef",
@@ -1698,7 +1730,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0203sw4",
@@ -1728,7 +1760,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1bcb91j",
@@ -1758,7 +1790,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0qhvesi",
@@ -1788,7 +1820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-13s9398",
@@ -1818,7 +1850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0inp724",
@@ -1848,7 +1880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-1adlbuw",
@@ -1878,7 +1910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-03zrkoc",
@@ -1908,7 +1940,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-0ak45ae",
@@ -1938,7 +1970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.32
     },
     {
       "id": "ev-08rpheg",
@@ -1969,7 +2001,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.14
     },
     {
       "id": "ev-0ged0t7",
@@ -2017,7 +2049,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.85
+      "score": 4.6
     },
     {
       "id": "ev-0akplr9",
@@ -2052,7 +2084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.79
+      "score": 4.54
     },
     {
       "id": "ev-12t25xq",
@@ -2088,7 +2120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.42
     },
     {
       "id": "ev-180rqy9",
@@ -2122,7 +2154,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.38
+      "score": 4.13
     },
     {
       "id": "ev-0ls4h0r",
@@ -2156,7 +2188,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-1sguysy",
@@ -2231,7 +2263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 3.81
+      "score": 3.56
     },
     {
       "id": "ev-01q8hti",
@@ -2266,7 +2298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 2.37
+      "score": 2.11
     }
   ],
   "runs": [
@@ -2283,6 +2315,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-29T15:09:33.805Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
     }
   ]
 }
