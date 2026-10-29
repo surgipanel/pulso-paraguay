@@ -1,27 +1,59 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-29T15:09:33.805Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-29T18:38:16.615Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0x6rcfn",
-      "title": "España, de luto tras la colisión de dos trenes que dejó al menos 68 muertos",
-      "summary": "Esta nueva catástrofe, que volvió a conmocionar a los españoles, reactivó las dudas sobre la seguridad de la red ferroviaria nacional, que en enero ya había sufrido un duro golpe cuando el choque de otros dos trenes de alta velocidad en Adamuz, Andalucía, dejó 46 fallecidos.",
+      "title": "Choque de trenes en Toledo deja al menos 68 muertos y la cifra cambia",
+      "summary": "Dos trenes de alta velocidad chocaron el miércoles cerca de Urda, en la provincia española de Toledo. Un tren de Iryo detenido fue embestido por detrás por un tren de Renfe. Los medios informan cifras distintas de fallecidos, entre 68 y 74, y los equipos de emergencia siguen buscando víctimas. España decretó tres días de luto. Es el segundo accidente ferroviario grave del año en el país.",
       "keyPoints": [
-        "Esta nueva catástrofe, que volvió a conmocionar a los españoles, reactivó las dudas sobre la seguridad de la red ferroviaria nacional, que en enero ya había sufrido un duro golpe cuando el choque de otros dos…",
-        "España inicia este jueves tres días de luto por la muerte de al menos 68 personas en la colisión de dos trenes registrada la víspera, mientras los rescatistas siguen buscando víctimas entre los vagones destrozados por…",
-        "Una grúa móvil opera en el lugar de un choque entre dos trenes de alta velocidad —un AVE de Renfe y un tren de Iryo—, ocurrido el 28 de octubre de 2026 a unos 150 km…",
-        "El accidente ocurrió en la provincia de Toledo y dejó decenas de víctimas y heridos."
+        "El choque ocurrió el miércoles cerca de Urda, en Toledo.",
+        "Un tren de Iryo detenido fue embestido por un tren de Renfe.",
+        "Las cifras de fallecidos varían según la fuente y el balance es provisional.",
+        "España decretó tres días de luto."
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "España sigue buscando víctimas, de luto tras grave accidente de trenes",
+          "url": "https://www.adndigital.com.py/espana-sigue-buscando-victimas-de-luto-tras-grave-accidente-de-trenes",
+          "publishedAt": "2026-10-29T18:26:31.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Comisión de Investigación rectifica y mantiene en 69 las muertes por accidente ferroviario",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/comision-de-investigacion-rectifica-y-mantiene-en-69-las-muertes-por-accidente-ferroviario",
+          "publishedAt": "2026-10-29T18:00:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ascienden a 74 los fallecidos por el accidente ferroviario de España",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/ascienden-a-74-los-fallecidos-por-el-accidente-ferroviario-de-espana",
+          "publishedAt": "2026-10-29T17:10:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Familiares de desaparecidos del accidente de tren en España esperan que sigan vivos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/29/familiares-de-desaparecidos-del-accidente-de-tren-en-espana-esperan-que-sigan-vivos",
+          "publishedAt": "2026-10-29T16:25:17.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -112,15 +144,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2KOCHO7YERFDBCAKH6I3BI3SQQ.jpg?auth=b179430b65d03a9e63f9b40151cf63dcc567a8b8593b617c1cde93f37935ba7a&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/10/29/espana-de-luto-tras-la-colision-de-dos-trenes-que-dejo-al-menos-68-muertos"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FX2WZSOPBVDKHOOWGCWPIC6B7M.jpg?auth=2efe5ac96773dfb96e7683da83af582a259141a87df4614a0e7ebfa4511c8a90&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/29/espana-decreta-tres-dias-de-luto-tras-colision-trenes-que-dejo-al-menos-68-muertos"
       },
       "firstSeenAt": "2026-10-29T08:07:13.017Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-29T12:07:10.644Z",
-      "updatedSlot": "manana",
-      "score": 21.22
+      "updatedAt": "2026-10-29T18:38:16.615Z",
+      "updatedSlot": "tarde",
+      "score": 24.48
     },
     {
       "id": "ev-14nr1oy",
@@ -252,17 +284,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 20.7
+      "score": 20.41
     },
     {
       "id": "ev-1yvvfag",
-      "title": "Oposición busca candidatura única para 2028 y firmará compromiso el 9 de noviembre",
-      "summary": "Los partidos de la oposición avanzan hacia una chapa única para la Presidencia y Vicepresidencia rumbo a las elecciones de 2028. Tras una reunión, acordaron firmar un compromiso de unidad el 9 de noviembre, en el Hotel Guaraní. El presidente del PLRA, Alcides Riveros, anunció que también convocará a sectores sociales y gremiales.",
+      "title": "Balmelli y Alegre retoman conversaciones para la unidad liberal rumbo a 2028",
+      "summary": "Los dirigentes liberales Mateo Balmelli y Efraín Alegre se mostraron juntos y reactivaron conversaciones para construir un consenso dentro del PLRA. El objetivo es la unidad de la oposición de cara a las elecciones generales de 2028. El presidente del partido, Alcides Riveros, dijo que convocará a gremios y sectores sociales.",
       "keyPoints": [
-        "Los partidos opositores acordaron firmar un compromiso de unidad el 9 de noviembre.",
-        "La firma se realizaría en el Hotel Guaraní de Asunción.",
-        "El PLRA convocará a sectores sociales y gremiales al proceso.",
-        "La diputada Rocío Vallejo calificó como optimista la primera reunión."
+        "Balmelli y Alegre reactivaron conversaciones dentro del PLRA.",
+        "El PLRA apunta a elecciones generales de 2028.",
+        "Alcides Riveros anunció que convocará a gremios y sectores sociales.",
+        "Riveros pidió poner énfasis en energía, salud, educación y seguridad."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -270,6 +302,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Mateo Balmelli y Efraín Alegre reactivan conversaciones sobre la unidad liberal",
+          "url": "https://elnacional.com.py/politica/mateo-balmelli-efrain-alegre-reactivan-conversaciones-sobre-unidad-liberal-n114366",
+          "publishedAt": "2026-10-29T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae35755da413.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -352,15 +392,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-19-at-185531.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/plra-busca-sumar-a-sectores-sociales-y-gremiales-a-la-unidad-opositora"
+        "url": "https://statics.elnacional.com.py/2026/10/6ae35755da413.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/mateo-balmelli-efrain-alegre-reactivan-conversaciones-sobre-unidad-liberal-n114366"
       },
       "firstSeenAt": "2026-10-29T08:07:13.017Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-29T15:09:33.805Z",
+      "updatedAt": "2026-10-29T18:38:16.615Z",
       "updatedSlot": "tarde",
-      "score": 17.93
+      "score": 17.86
     },
     {
       "id": "ev-0ikj54y",
@@ -427,7 +467,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 13.41
+      "score": 13.12
     },
     {
       "id": "ev-163uxw0",
@@ -478,7 +518,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 12.44
+      "score": 12.15
     },
     {
       "id": "ev-0g82edt",
@@ -554,7 +594,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 12.07
+      "score": 11.78
     },
     {
       "id": "ev-17q9ixm",
@@ -606,7 +646,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T12:07:10.644Z",
       "updatedSlot": "manana",
-      "score": 10.64
+      "score": 10.35
     },
     {
       "id": "ev-1f4iue2",
@@ -657,7 +697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.7
     },
     {
       "id": "ev-0ids5va",
@@ -700,7 +740,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 9.03
+      "score": 8.74
     },
     {
       "id": "ev-0iocdsc",
@@ -743,7 +783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.7
     },
     {
       "id": "ev-0i52vu5",
@@ -786,7 +826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.7
     },
     {
       "id": "ev-0xunynz",
@@ -829,7 +869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.49
     },
     {
       "id": "ev-0yhj4zn",
@@ -873,7 +913,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.45
     },
     {
       "id": "ev-0i54t9o",
@@ -917,7 +957,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.36
     },
     {
       "id": "ev-1ei10md",
@@ -960,7 +1000,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.58
+      "score": 8.29
     },
     {
       "id": "ev-1cek0q0",
@@ -1003,7 +1043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.23
     },
     {
       "id": "ev-1nqafdr",
@@ -1046,7 +1086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.23
     },
     {
       "id": "ev-11feg9m",
@@ -1089,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.22
     },
     {
       "id": "ev-1ozr3rw",
@@ -1132,7 +1172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.21
     },
     {
       "id": "ev-0mif42w",
@@ -1175,7 +1215,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.13
     },
     {
       "id": "ev-1qgb4qu",
@@ -1218,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.05
     },
     {
       "id": "ev-10gy97l",
@@ -1261,7 +1301,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
+    },
+    {
+      "id": "ev-0xzc3i1",
+      "title": "Bomberos de Minga Guazú liberan a un niño con una olla atorada en la cabeza",
+      "summary": "Bomberos Voluntarios de la unidad K122 de Minga Guazú atendieron a un niño de cinco años con una olla de metal a presión atorada en la cabeza. Su familia lo llevó de urgencia a la base de los bomberos. Los voluntarios lograron liberarlo sin lesiones. El caso ocurrió el día anterior a la publicación de la nota.",
+      "keyPoints": [
+        "El niño tenía cinco años y una olla a presión atorada en la cabeza.",
+        "La familia llevó al niño a la base de la unidad K122 de Minga Guazú.",
+        "Los bomberos lo liberaron sin lesiones."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bomberos auxiliaron a un niño para sacar una olla a presión atorada por su cabeza",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/bomberos-auxiliaron-a-un-nino-para-sacar-una-olla-a-presion-atorada-por-su-cabeza",
+          "publishedAt": "2026-10-28T14:18:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hkoSt4OivAltEgDSNPDqXow1joo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RA5PYWTH2VGVTP7Y5HLDPAH3NQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Niño de 5 años queda con la cabeza atrapada en una olla a presión",
+          "url": "https://elnacional.com.py/nacionales/nino-5-anos-queda-cabeza-atrapada-una-olla-presion-n114292",
+          "publishedAt": "2026-10-28T11:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1d4d1d0c92.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RA5PYWTH2VGVTP7Y5HLDPAH3NQ.jpg?auth=e60a773f634f8726dcf35b11524500258c90400eb97eb04a45844a741baabc94&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/28/bomberos-auxiliaron-a-un-nino-para-sacar-una-olla-a-presion-atorada-por-su-cabeza"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T08:07:13.017Z",
+      "updatedSlot": "manana",
+      "score": 8
     },
     {
       "id": "ev-10qyhff",
@@ -1312,50 +1395,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T15:09:33.805Z",
       "updatedSlot": "tarde",
-      "score": 8.1
-    },
-    {
-      "id": "ev-0xzc3i1",
-      "title": "Bomberos de Minga Guazú liberan a un niño con una olla atorada en la cabeza",
-      "summary": "Bomberos Voluntarios de la unidad K122 de Minga Guazú atendieron a un niño de cinco años con una olla de metal a presión atorada en la cabeza. Su familia lo llevó de urgencia a la base de los bomberos. Los voluntarios lograron liberarlo sin lesiones. El caso ocurrió el día anterior a la publicación de la nota.",
-      "keyPoints": [
-        "El niño tenía cinco años y una olla a presión atorada en la cabeza.",
-        "La familia llevó al niño a la base de la unidad K122 de Minga Guazú.",
-        "Los bomberos lo liberaron sin lesiones."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Bomberos auxiliaron a un niño para sacar una olla a presión atorada por su cabeza",
-          "url": "https://www.lanacion.com.py/pais/2026/10/28/bomberos-auxiliaron-a-un-nino-para-sacar-una-olla-a-presion-atorada-por-su-cabeza",
-          "publishedAt": "2026-10-28T14:18:53.000Z",
-          "image": "https://www.lanacion.com.py/resizer/hkoSt4OivAltEgDSNPDqXow1joo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RA5PYWTH2VGVTP7Y5HLDPAH3NQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Niño de 5 años queda con la cabeza atrapada en una olla a presión",
-          "url": "https://elnacional.com.py/nacionales/nino-5-anos-queda-cabeza-atrapada-una-olla-presion-n114292",
-          "publishedAt": "2026-10-28T11:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae1d4d1d0c92.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RA5PYWTH2VGVTP7Y5HLDPAH3NQ.jpg?auth=e60a773f634f8726dcf35b11524500258c90400eb97eb04a45844a741baabc94&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/28/bomberos-auxiliaron-a-un-nino-para-sacar-una-olla-a-presion-atorada-por-su-cabeza"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 8
+      "score": 7.81
     },
     {
       "id": "ev-0cbwc1l",
@@ -1406,7 +1446,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 7.88
+      "score": 7.59
+    },
+    {
+      "id": "ev-1vxsqgm",
+      "title": "MOPC alista firma de contrato para el Tren de Cercanías, confirma Centurión",
+      "summary": "La ministra de Obras Públicas y Comunicaciones, Claudia Centurión, confirmó que la firma del contrato para el Tren de Cercanías se concretará en la brevedad. El proyecto prevé un trazado de 18 kilómetros entre Asunción y Luque.",
+      "keyPoints": [
+        "La firma del contrato se concretará en la brevedad, según la ministra.",
+        "El proyecto tendrá 18 kilómetros de trazado.",
+        "El tren unirá Asunción y Luque."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "MOPC alista firma de contrato para poner en marcha el Tren de Cercanías, confirma ministra",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/29/mopc-alista-firma-de-contrato-para-poner-en-marcha-el-tren-de-cercanias-confirma-ministra",
+          "publishedAt": "2026-10-29T11:14:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hliH3fUcpzIV4na6yHYG7l-XRqs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4ESHFBUUFFDITNPQALHPR3YC5U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Central concentra alrededor de USD 1.500 millones en obras",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/central-concentra-alrededor-de-usd-1500-millones-en-obras",
+          "publishedAt": "2026-10-29T03:22:23.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Qs8OEqJvGdbp3mYXhyzDjrUbeq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XDC442VTBRGTNBJPVTJ7J4UL2M.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Central concentra alrededor de USD 1.500 millones en obras, resalta ministra Centurión",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/28/central-concentra-alrededor-de-usd-1500-millones-en-obras-resalta-ministra-centurion",
+          "publishedAt": "2026-10-28T15:55:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nxmxEL6ZWLdLJRxtMPFCR-Z9tfw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YMUZHOJHKNHIVEXEAZED7WTBQU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4ESHFBUUFFDITNPQALHPR3YC5U.jpg?auth=564720bcdbde2a3556e8ef5ed660a40feeeb78a87d832fa90836cbd6c62954d3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/29/mopc-alista-firma-de-contrato-para-poner-en-marcha-el-tren-de-cercanias-confirma-ministra"
+      },
+      "firstSeenAt": "2026-10-29T08:07:13.017Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-29T18:38:16.615Z",
+      "updatedSlot": "tarde",
+      "score": 7.38
     },
     {
       "id": "ev-1ykxecx",
@@ -1449,7 +1540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.49
+      "score": 6.2
     },
     {
       "id": "ev-1grn7p1",
@@ -1492,50 +1583,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 6.05
-    },
-    {
-      "id": "ev-1vxsqgm",
-      "title": "Central concentra unos USD 1.500 millones en obras públicas, según la ministra Centurión",
-      "summary": "El departamento Central concentra alrededor de USD 1.500 millones en obras públicas, informó la ministra de Obras Públicas, Claudia Centurión. Entre los trabajos figuran la ampliación de la ruta PY01 y de la D027. La ministra informó que se pavimentan unos 300 kilómetros en zonas como Ñemby, Itá, Itauguá, Capiatá y Luque.",
-      "keyPoints": [
-        "Alrededor de USD 1.500 millones se destinan a obras públicas en el departamento Central.",
-        "Se amplían las rutas PY01 y D027.",
-        "Según la ministra, se pavimentan 300 kilómetros en varias zonas del Central."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Central concentra alrededor de USD 1.500 millones en obras",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/central-concentra-alrededor-de-usd-1500-millones-en-obras",
-          "publishedAt": "2026-10-29T03:22:23.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Qs8OEqJvGdbp3mYXhyzDjrUbeq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XDC442VTBRGTNBJPVTJ7J4UL2M.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Central concentra alrededor de USD 1.500 millones en obras, resalta ministra Centurión",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/28/central-concentra-alrededor-de-usd-1500-millones-en-obras-resalta-ministra-centurion",
-          "publishedAt": "2026-10-28T15:55:58.000Z",
-          "image": "https://www.lanacion.com.py/resizer/nxmxEL6ZWLdLJRxtMPFCR-Z9tfw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YMUZHOJHKNHIVEXEAZED7WTBQU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XDC442VTBRGTNBJPVTJ7J4UL2M.jpg?auth=13690936542228dac602e9c0dcbdd6f1dbe0c2e28d9f1693c457296c3d431f8f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/29/central-concentra-alrededor-de-usd-1500-millones-en-obras"
-      },
-      "firstSeenAt": "2026-10-29T08:07:13.017Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-29T08:07:13.017Z",
-      "updatedSlot": "manana",
-      "score": 6.02
+      "score": 5.76
     },
     {
       "id": "ev-1y4q41z",
@@ -1578,7 +1626,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-0sp2pcj",
@@ -1621,7 +1669,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.9
+      "score": 5.61
     },
     {
       "id": "ev-0yxozqv",
@@ -1664,7 +1712,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.5
+      "score": 5.21
     },
     {
       "id": "ev-0dj922y",
@@ -1700,7 +1748,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.4
+      "score": 5.11
     },
     {
       "id": "ev-1lig7ef",
@@ -1730,7 +1778,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-0203sw4",
@@ -1760,7 +1808,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-1bcb91j",
@@ -1790,7 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-0qhvesi",
@@ -1820,7 +1868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-13s9398",
@@ -1850,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-0inp724",
@@ -1880,7 +1928,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-1adlbuw",
@@ -1910,7 +1958,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-03zrkoc",
@@ -1940,7 +1988,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-0ak45ae",
@@ -1970,7 +2018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-08rpheg",
@@ -2001,7 +2049,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 5.14
+      "score": 4.85
     },
     {
       "id": "ev-0ged0t7",
@@ -2049,7 +2097,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.6
+      "score": 4.31
     },
     {
       "id": "ev-0akplr9",
@@ -2084,7 +2132,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.25
     },
     {
       "id": "ev-12t25xq",
@@ -2120,7 +2168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.13
     },
     {
       "id": "ev-180rqy9",
@@ -2154,7 +2202,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 4.13
+      "score": 4
     },
     {
       "id": "ev-0ls4h0r",
@@ -2263,7 +2311,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 3.56
+      "score": 3.27
     },
     {
       "id": "ev-01q8hti",
@@ -2298,7 +2346,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-29T08:07:13.017Z",
       "updatedSlot": "manana",
-      "score": 2.11
+      "score": 1.82
     }
   ],
   "runs": [
@@ -2322,6 +2370,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-29T18:38:16.615Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 17
     }
   ]
 }
