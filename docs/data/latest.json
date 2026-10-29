@@ -1,42 +1,40 @@
 {
-  "editionDate": "2026-10-28",
+  "editionDate": "2026-10-29",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-29T02:21:10.432Z",
+  "generatedAt": "2026-10-29T08:07:13.017Z",
   "eventsCount": 50,
   "maxEvents": 50,
   "aiMode": "mixto",
   "model": "claude-haiku-5-5",
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-10-29T02:23:45.118Z",
+  "lastSuccessAt": "2026-10-29T08:11:17.706Z",
   "lastRun": {
-    "startedAt": "2026-10-29T02:21:10.432Z",
-    "finishedAt": "2026-10-29T02:23:45.118Z",
-    "edition": "2026-10-28",
-    "slot": "tarde",
+    "startedAt": "2026-10-29T08:07:13.017Z",
+    "finishedAt": "2026-10-29T08:11:17.706Z",
+    "edition": "2026-10-29",
+    "slot": "manana",
     "ok": true,
     "error": null,
     "aiMode": "ia",
     "model": "claude-haiku-5-5",
-    "articles": 301,
-    "clusters": 242,
-    "candidates": 12,
-    "added": 0,
-    "updated": 2,
+    "articles": 302,
+    "clusters": 248,
+    "candidates": 60,
+    "added": 50,
+    "updated": 0,
     "eventsTotal": 50,
     "sourcesOk": 10,
     "sourcesTotal": 11,
     "ai": {
       "mode": "ia",
-      "aiCalls": 1,
-      "aiErrors": [
-        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 4275 (line 1 column 4276)"
-      ],
-      "inputTokens": 3253,
-      "outputTokens": 2036,
-      "fallbacks": 6
+      "aiCalls": 10,
+      "aiErrors": [],
+      "inputTokens": 34335,
+      "outputTokens": 28300,
+      "fallbacks": 1
     },
     "forced": false
   },
-  "editions": 18
+  "editions": 19
 }
