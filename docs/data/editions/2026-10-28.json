@@ -1,27 +1,75 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T23:07:10.829Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-29T02:21:10.432Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1on1lzq",
-      "title": "Exjefe de Inteligencia Penitenciaria se presenta ante la Fiscalía por fuga en Emboscada",
-      "summary": "El subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria, se presentó este miércoles ante la Fiscalía de Emboscada. Antes, agentes habían allanado su vivienda. Es investigado por su presunta vinculación con la fuga de dos reclusos del penal de Emboscada. La fiscal Fabiola Sosa dijo que declaraciones de guardias detenidos llevaron al allanamiento. La investigación sigue con nuevas detenciones.",
+      "title": "Allanan la vivienda de un exjefe de Inteligencia Penitenciaria por la fuga de reos en Emboscada",
+      "summary": "En el marco de las investigaciones por la fuga de dos reclusos del Centro Penitenciario Martín Mendoza de Emboscada, se allanó este miércoles la casa del subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria del Ministerio de Justicia. El subcomisario Derlis Cáceres, exdirector de Inteligencia Penitenciaria, compareció este miércoles ante la Fiscalía de Emboscada, horas después de que agentes allanaran su vivienda en Villeta.",
       "keyPoints": [
-        "Derlis Cáceres se presentó ante la Fiscalía de Emboscada.",
-        "Agentes allanaron su vivienda en Villa Elisa.",
-        "Es investigado por presunta vinculación con la fuga de dos reclusos.",
-        "Otros funcionarios penitenciarios ya están detenidos o imputados."
+        "En el marco de las investigaciones por la fuga de dos reclusos del Centro Penitenciario Martín Mendoza de Emboscada, se allanó este miércoles la casa del subcomisario Derlis Cáceres, exjefe de Inteligencia Penitenciaria del Ministerio de…",
+        "El subcomisario Derlis Cáceres, exdirector de Inteligencia Penitenciaria, compareció este miércoles ante la Fiscalía de Emboscada, horas después de que agentes allanaran su vivienda en Villeta.",
+        "Allanaron la vivienda del subcomisario Derlis Cáceres en Villa Elisa y ordenaron su captura por la fuga de reclusos de la cárcel de Emboscada.",
+        "ABC Cardinal 730 AM · 28 10 2026 02 Periodísticamente Fiscala Fabiola Sosa"
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía imputa a ex director del penal de Emboscada tras liberación de dos reclusos",
+          "url": "https://www.ultimahora.com/fiscalia-imputa-a-ex-director-del-penal-de-emboscada-tras-liberacion-de-dos-reclusos",
+          "publishedAt": "2026-10-29T01:42:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Tekoporã: detalles, alcance y responsabilidades del programa",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/28/audio-tekopora-detalles-alcance-y-responsabilidades-del-programa",
+          "publishedAt": "2026-10-29T00:24:49.000Z",
+          "image": "https://www.abc.com.py/resizer/17GB82hvqw9leH_ppN1yOZygNwo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PT6JK67J6FHHHJTDIU3OEYLVP4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Fuga en Emboscada: tras entrega de subcomisario e incautación de celulares siguen las investigaciones",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/28/audio-fuga-en-emboscada-tras-entrega-de-subcomisario-e-incautacion-de-celulares-siguen-las-investigaciones",
+          "publishedAt": "2026-10-29T00:18:53.000Z",
+          "image": "https://www.abc.com.py/resizer/6Er-2XLhjLUu785GbJSjojrEWAQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VA5MCNHGQ5CERKVRH4TNHYWEP4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Incendio en local abandonado en Lambaré: bomberos aseguran que fue intencional",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/28/audio-incendio-en-local-abandonado-en-lambare-bomberos-aseguran-que-fue-intencional",
+          "publishedAt": "2026-10-29T00:16:05.000Z",
+          "image": "https://www.abc.com.py/resizer/9fB3BJuInddIKufSml3ues6ect0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PFYYUMUCBZAXDKZZPAVVEEKXE4.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nombran a nuevo director de Centros Penitenciarios tras la fuga de dos reos de alta peligrosidad",
+          "url": "https://www.abc.com.py/nacionales/2026/10/28/nombran-a-nuevo-director-de-centros-penitenciarios-tras-la-fuga-de-dos-reos-de-alta-peligrosidad",
+          "publishedAt": "2026-10-28T23:41:52.000Z",
+          "image": "https://www.abc.com.py/resizer/YzBoAMsuAUbVq3uRtrO_oUKUQzg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N526GV62DVHZJETJLK2ZCQEIQA.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ministro aclara que centro penitenciario de Emboscada no cuenta con celdas VIP",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/ministro-aclara-que-centro-penitenciario-de-emboscada-no-cuenta-con-celdas-vip",
+          "publishedAt": "2026-10-28T21:09:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dsr4lguz7n_0rInEkX3f6lAgwww=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QN5Z2J3WYBH3FDWZ2JD7OCSFNE.jpeg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -29,6 +77,14 @@
           "url": "https://www.adndigital.com.py/exjefe-de-inteligencia-penitenciaria-se-presenta-ante-la-fiscalia-por-fuga-en-emboscada",
           "publishedAt": "2026-10-28T20:25:14.000Z",
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-28-at-172442.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Saltan nombres de capos narcos y criminales de alto perfil como huéspedes en celdas VIP",
+          "url": "https://www.lanacion.com.py/pais/2026/10/28/policia-confirma-celdas-vip-no-autorizadas-en-la-carcel-de-maxima-seguridad-de-emboscada",
+          "publishedAt": "2026-10-28T19:16:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ic8Z219KTkjwhnVG5dNZC5LxAAQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/33ZQE66G6ZEPTOBV5TFZIX543U.jpg"
         },
         {
           "sourceId": "abc",
@@ -216,15 +272,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-28-at-172442.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/exjefe-de-inteligencia-penitenciaria-se-presenta-ante-la-fiscalia-por-fuga-en-emboscada"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RK3WFPKKLJE6LLGHLUEKQKJDKY.jpg?auth=3358e97d06887594d78755d23938c758c49f87a53c17c0a567f00957a9afb0f5&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/28/allanan-la-vivienda-de-un-exjefe-de-inteligencia-penitenciaria-por-la-fuga-de-reos-en-emboscada"
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T23:07:10.829Z",
+      "updatedAt": "2026-10-29T02:21:10.432Z",
       "updatedSlot": "tarde",
-      "score": 29.78
+      "score": 29.95
     },
     {
       "id": "ev-15bmxnn",
@@ -524,24 +580,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T23:07:10.829Z",
       "updatedSlot": "tarde",
-      "score": 29.75
+      "score": 29.48
     },
     {
       "id": "ev-0y35zcb",
-      "title": "Flávio Bolsonaro se declara presidente electo de Brasil tras perder elecciones",
-      "summary": "Flávio Bolsonaro, senador brasileño, dejó Brasil tras perder el balotaje ante Lula y llegó a Florida, en Estados Unidos. Desde allí publicó en X una carta en la que se declaraba presidente electo, y luego la cambió por la expresión líder de Brasil. Según la nota, el resultado fue reconocido por las instituciones brasileñas. Trump evitó opinar sobre la carta.",
+      "title": "Bolsonaro se declara líder de Brasil tras borrar carta en la que se proclamaba presidente",
+      "summary": "“Quiero decir, no solo a mis 60 millones de votantes, sino también al pueblo brasileño, que soy el presidente electo y que los criminales que robaron las elecciones en Brasil forman parte de una organización criminal que instauró una tiranía”, afirmó en la primera misiva, compartida en su perfil oficial de X.",
       "keyPoints": [
-        "Flávio Bolsonaro perdió el balotaje ante Lula.",
-        "Viajó a Ecuador y luego llegó a Florida, Estados Unidos.",
-        "Publicó una carta en X que luego modificó.",
-        "Trump no comentó la carta y calificó de extraños los comicios."
+        "“Quiero decir, no solo a mis 60 millones de votantes, sino también al pueblo brasileño, que soy el presidente electo y que los criminales que robaron las elecciones en Brasil forman parte de una organización criminal…",
+        "El senador ultraderechista brasileño Flávio Bolsonaro, quien huyó a EEUU tras perder las elecciones presidenciales, se declaró este miércoles \"líder de Brasil\" en una segunda versión de una carta abierta, después de borrar la primera, en…",
+        "El hijo mayor del expresidente Jair Bolsonaro compartió en su perfil de X dos cartas abiertas en un intervalo de 30 minutos, en las que denunció, sin pruebas, que hubo un supuesto \"fraude\" en la segunda…",
+        "El senador conservador Flávio Bolsonaro protagonizó una rocambolesca fuga de Brasil a Estados Unidos que tuvo en vilo al país durante 24 horas."
       ],
       "category": "internacional",
       "scope": "internacional",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Bolsonaro se declara líder de Brasil tras borrar carta en la que se proclamaba presidente",
+          "url": "https://www.ultimahora.com/bolsonaro-se-declara-lider-de-brasil-tras-borrar-carta-en-la-que-se-proclamaba-presidente",
+          "publishedAt": "2026-10-28T23:58:53.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Flávio Bolsonaro se declara \"presidente electo de Brasil\" y luego da marcha atrás",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/flavio-bolsonaro-se-declara-presidente-electo-de-brasil-y-luego-da-marcha-atras",
+          "publishedAt": "2026-10-28T23:35:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -557,6 +629,14 @@
           "url": "https://www.abc.com.py/internacionales/2026/10/28/trump-evita-comentar-autoproclamacion-de-bolsonaro-pero-considera-extranos-los-comicios",
           "publishedAt": "2026-10-28T21:55:12.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Desde EE.UU., Flávio Bolsonaro denuncia fraude y anuncia que liderará la oposición",
+          "url": "https://elnacional.com.py/mundo/desde-eeuu-flavio-bolsonaro-denuncia-fraude-anuncia-liderara-oposicion-n114338",
+          "publishedAt": "2026-10-28T21:09:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac250f480e50.png"
         },
         {
           "sourceId": "ultimahora",
@@ -782,9 +862,9 @@
       },
       "firstSeenAt": "2026-10-28T08:07:14.815Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-28T23:07:10.829Z",
+      "updatedAt": "2026-10-29T02:21:10.432Z",
       "updatedSlot": "tarde",
-      "score": 24.4
+      "score": 24.3
     },
     {
       "id": "ev-153sh1k",
@@ -852,7 +932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 20.05
+      "score": 19.79
     },
     {
       "id": "ev-1l7bw79",
@@ -971,7 +1051,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T12:07:13.605Z",
       "updatedSlot": "manana",
-      "score": 13.99
+      "score": 13.72
     },
     {
       "id": "ev-0435o0h",
@@ -1030,7 +1110,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 13.35
+      "score": 13.08
     },
     {
       "id": "ev-0uyjd82",
@@ -1082,7 +1162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.06
     },
     {
       "id": "ev-1lzhw54",
@@ -1134,7 +1214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.06
     },
     {
       "id": "ev-0ok1yds",
@@ -1178,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.14
     },
     {
       "id": "ev-0k2qhyn",
@@ -1222,7 +1302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.14
     },
     {
       "id": "ev-0g4onea",
@@ -1266,7 +1346,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.06
     },
     {
       "id": "ev-1lxuraf",
@@ -1309,7 +1389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.15
+      "score": 8
     },
     {
       "id": "ev-0borz9n",
@@ -1352,7 +1432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 8.04
+      "score": 8
     },
     {
       "id": "ev-14bd47u",
@@ -1525,7 +1605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 6.23
+      "score": 5.96
     },
     {
       "id": "ev-1xfj0xb",
@@ -1568,7 +1648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.16
     },
     {
       "id": "ev-0er4cxm",
@@ -1611,7 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.07
     },
     {
       "id": "ev-107mk4a",
@@ -1654,7 +1734,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-097ojem",
@@ -1697,7 +1777,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-1wl06cw",
@@ -1740,7 +1820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-0p2pz89",
@@ -1783,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-10qf0gd",
@@ -1826,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-0xs4fak",
@@ -1869,7 +1949,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-1ntdivc",
@@ -1912,7 +1992,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 5.23
+      "score": 5
     },
     {
       "id": "ev-1na3i9i",
@@ -1941,7 +2021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1bh7dt4",
@@ -1970,7 +2050,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1y8mlln",
@@ -1999,7 +2079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0p1wlza",
@@ -2029,7 +2109,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0q0vfrx",
@@ -2061,7 +2141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0a8ruir",
@@ -2091,7 +2171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-00olzi1",
@@ -2123,7 +2203,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-01wk2i7",
@@ -2153,7 +2233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0m6jf3a",
@@ -2183,7 +2263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0oc1i37",
@@ -2214,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1ddj47y",
@@ -2250,7 +2330,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.17
     },
     {
       "id": "ev-1fwgaq9",
@@ -2283,7 +2363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.14
     },
     {
       "id": "ev-00679nu",
@@ -2318,7 +2398,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.39
+      "score": 4.12
     },
     {
       "id": "ev-0zdmt9u",
@@ -2351,7 +2431,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.38
+      "score": 4.11
     },
     {
       "id": "ev-0gm0zgx",
@@ -2384,7 +2464,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.06
     },
     {
       "id": "ev-02ghxv2",
@@ -2417,55 +2497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.14
-    },
-    {
-      "id": "ev-11mzwbo",
-      "title": "Con el 48 % escrutado, el Likud lidera en Israel y Yashar! recorta distancia",
-      "summary": "Con el 48 % del recuento, el Likud de Netanyahu lidera las elecciones israelíes. Yashar!, de Eisenkot, se acerca en el escrutinio. Juntos, de Bénet y Lapid, aparece tercero con 9,2 %. Eisenkot y Bénet prometieron intentar formar un gobierno sin Netanyahu, según los medios.",
-      "keyPoints": [
-        "El Likud lidera con el 48 % escrutado.",
-        "Juntos obtiene 9,2 % y ocupa la tercera posición.",
-        "Yashar! y Juntos hablaron de aliarse.",
-        "Eisenkot y Bénet buscan un gobierno sin Netanyahu."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Con el 48 % escrutado, el Likud lidera en Israel mientras Yashar! recorta distancias",
-          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-48-escrutado-el-likud-lidera-en-israel-mientras-yashar-recorta-distancias",
-          "publishedAt": "2026-10-28T05:50:05.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Con el 28 % escrutado, Likud lidera el recuento en Israel, seguido de Yashar! y Juntos",
-          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-28-escrutado-likud-lidera-el-recuento-en-israel-seguido-de-yashar-y-juntos",
-          "publishedAt": "2026-10-28T03:25:15.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Con un 5,6 % escrutado, el Likud gana las elecciones, seguido de Yashar! y Juntos",
-          "url": "https://www.abc.com.py/internacionales/2026/10/27/con-un-56-escrutado-el-likud-gana-las-elecciones-seguido-de-yashar-y-juntos",
-          "publishedAt": "2026-10-28T01:10:07.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-28T08:07:14.815Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-28T08:07:14.815Z",
-      "updatedSlot": "manana",
-      "score": 4.06
+      "score": 4
     },
     {
       "id": "ev-0z0ml3g",
@@ -2501,7 +2533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 4.04
+      "score": 4
     },
     {
       "id": "ev-0zeghtx",
@@ -2574,6 +2606,54 @@
       "score": 4
     },
     {
+      "id": "ev-11mzwbo",
+      "title": "Con el 48 % escrutado, el Likud lidera en Israel y Yashar! recorta distancia",
+      "summary": "Con el 48 % del recuento, el Likud de Netanyahu lidera las elecciones israelíes. Yashar!, de Eisenkot, se acerca en el escrutinio. Juntos, de Bénet y Lapid, aparece tercero con 9,2 %. Eisenkot y Bénet prometieron intentar formar un gobierno sin Netanyahu, según los medios.",
+      "keyPoints": [
+        "El Likud lidera con el 48 % escrutado.",
+        "Juntos obtiene 9,2 % y ocupa la tercera posición.",
+        "Yashar! y Juntos hablaron de aliarse.",
+        "Eisenkot y Bénet buscan un gobierno sin Netanyahu."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con el 48 % escrutado, el Likud lidera en Israel mientras Yashar! recorta distancias",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-48-escrutado-el-likud-lidera-en-israel-mientras-yashar-recorta-distancias",
+          "publishedAt": "2026-10-28T05:50:05.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con el 28 % escrutado, Likud lidera el recuento en Israel, seguido de Yashar! y Juntos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/28/con-el-28-escrutado-likud-lidera-el-recuento-en-israel-seguido-de-yashar-y-juntos",
+          "publishedAt": "2026-10-28T03:25:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Con un 5,6 % escrutado, el Likud gana las elecciones, seguido de Yashar! y Juntos",
+          "url": "https://www.abc.com.py/internacionales/2026/10/27/con-un-56-escrutado-el-likud-gana-las-elecciones-seguido-de-yashar-y-juntos",
+          "publishedAt": "2026-10-28T01:10:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-28T08:07:14.815Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-28T08:07:14.815Z",
+      "updatedSlot": "manana",
+      "score": 3.79
+    },
+    {
       "id": "ev-1ykd2kt",
       "title": "La Albirroja U15 vuelve campeona del Sudamericano de básquetbol en Chile",
       "summary": "La selección paraguaya masculina U15 de básquetbol regresó al país tras ganar el Clasificatorio Sudamericano al FIBA AmeriCup U16 de 2027. El equipo, dirigido por Benjamín Cano, venció 71-67 a Chile en la final disputada en Castro. Es el primer título de Paraguay en la categoría y le dio el tercer cupo para el AmeriCup U16.",
@@ -2623,7 +2703,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 3.82
+      "score": 3.55
     },
     {
       "id": "ev-0rsm6up",
@@ -2654,7 +2734,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.24
+      "score": 1.97
     },
     {
       "id": "ev-1x29glz",
@@ -2686,7 +2766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-28T08:07:14.815Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.96
     }
   ],
   "runs": [
@@ -2724,6 +2804,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-29T02:21:10.432Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
     }
   ]
 }

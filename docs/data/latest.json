@@ -1,17 +1,17 @@
 {
   "editionDate": "2026-10-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-28T23:07:10.829Z",
+  "generatedAt": "2026-10-29T02:21:10.432Z",
   "eventsCount": 50,
   "maxEvents": 50,
-  "aiMode": "ia",
+  "aiMode": "mixto",
   "model": "claude-haiku-5-5",
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-10-28T23:09:19.495Z",
+  "lastSuccessAt": "2026-10-29T02:23:45.118Z",
   "lastRun": {
-    "startedAt": "2026-10-28T23:07:10.829Z",
-    "finishedAt": "2026-10-28T23:09:19.495Z",
+    "startedAt": "2026-10-29T02:21:10.432Z",
+    "finishedAt": "2026-10-29T02:23:45.118Z",
     "edition": "2026-10-28",
     "slot": "tarde",
     "ok": true,
@@ -22,17 +22,19 @@
     "clusters": 242,
     "candidates": 12,
     "added": 0,
-    "updated": 3,
+    "updated": 2,
     "eventsTotal": 50,
     "sourcesOk": 10,
     "sourcesTotal": 11,
     "ai": {
       "mode": "ia",
-      "aiCalls": 2,
-      "aiErrors": [],
-      "inputTokens": 15022,
-      "outputTokens": 6023,
-      "fallbacks": 0
+      "aiCalls": 1,
+      "aiErrors": [
+        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 4275 (line 1 column 4276)"
+      ],
+      "inputTokens": 3253,
+      "outputTokens": 2036,
+      "fallbacks": 6
     },
     "forced": false
   },
