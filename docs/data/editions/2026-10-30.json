@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-30T16:07:12.469Z",
+  "generatedAt": "2026-10-30T19:37:11.065Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
@@ -96,17 +96,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T16:07:12.469Z",
       "updatedSlot": "tarde",
-      "score": 23.8
+      "score": 23.5
     },
     {
       "id": "ev-1noguhs",
-      "title": "Zenaida Delgado firma acuerdo con funcionarias que la denunciaron por supuestos cobros",
-      "summary": "La senadora Zenaida Delgado firmó un acuerdo de conciliación para pagar créditos de dos funcionarias del Congreso que la denunciaron por supuestos aprietes para nombramientos. Las denunciantes rechazaron firmar y afirman que continuarán con la causa penal. Según la defensa, la senadora no está imputada. Su abogado, Óscar Tuma, descartó por ahora una renuncia a su banca.",
+      "title": "Denunciantes rechazan acuerdo propuesto por la senadora Zenaida Delgado",
+      "summary": "Las funcionarias que denunciaron a la senadora Zenaida Delgado rechazaron firmar un acuerdo de cierre de controversias. Según NPY, la senadora firmó el documento en solitario y las denunciantes dijeron que mantendrán la causa penal. Las denunciantes afirman que se les exigió entregar sus celulares para borrar conversaciones de WhatsApp. Delgado tiene una causa penal abierta por presuntos cobros irregulares, que ella no fue condenada por.",
       "keyPoints": [
-        "Zenaida Delgado firmó un documento para pagar más de G. 70 millones en créditos de dos funcionarias.",
-        "Las denunciantes dicen que no firmaron el acuerdo y mantienen la denuncia penal.",
-        "Según su defensa, la senadora no está imputada.",
-        "La senadora comparecerá ante una comisión del Senado el lunes."
+        "Las funcionarias rechazaron firmar el acuerdo de conciliación.",
+        "La senadora firmó el documento en solitario, según NPY.",
+        "Las denunciantes dicen que continuarán con la causa penal.",
+        "Una garante afirmó que firmó voluntariamente y negó que Delgado le haya pedido firmar."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -114,6 +114,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Acuerdo que pretendía Zenaida Delgado la comprometía a pagar los préstamos de las funcionarias",
+          "url": "https://www.abc.com.py/politica/2026/10/30/acuerdo-que-intento-hacer-zenaida-delgado-la-comprometia-a-pagar-los-prestamos-de-las-funcionarias-a-cambio-de-un-cierre-de-controversias",
+          "publishedAt": "2026-10-30T17:35:00.000Z",
+          "image": "https://www.abc.com.py/resizer/n7Qxbo9SyELWGZZ4MDHMYvcsUnE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/B22B2UTX5ZCBHOK5UX7AHWLGNY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado: denunciante ratifica rechazo a acuerdo y dice temer por su vida",
+          "url": "https://www.abc.com.py/politica/2026/10/30/zenaida-delgado-denunciante-ratifica-rechazo-a-acuerdo-y-dice-temer-por-su-vida",
+          "publishedAt": "2026-10-30T16:31:20.000Z",
+          "image": "https://www.abc.com.py/resizer/6R9WhrAioB9Kehm5gYIUUxRsZxY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UICTSOK2J5DPDNQ7YELZV4AKPM.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -164,25 +180,25 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae4b01700c21.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/caso-zenaida-delgado-codeudora-funcionaria-dice-firmaba-prestamos-conocer-montos-n114436"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/B22B2UTX5ZCBHOK5UX7AHWLGNY.jpg?auth=ea107c3648841acae84ae3d214c7e37914045f93d39478fb37def2e751c496ab&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/30/acuerdo-que-intento-hacer-zenaida-delgado-la-comprometia-a-pagar-los-prestamos-de-las-funcionarias-a-cambio-de-un-cierre-de-controversias"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedAt": "2026-10-30T19:37:11.065Z",
       "updatedSlot": "tarde",
-      "score": 20.99
+      "score": 20.83
     },
     {
       "id": "ev-0wuzn37",
       "title": "Carmen Marín renuncia al directorio del Banco Central del Paraguay",
-      "summary": "La economista Carmen Marín presentó su renuncia al directorio del Banco Central del Paraguay, según fuentes consultadas por ABC Color. Asumió en octubre de 2022. Consultado sobre el caso, el presidente Santiago Peña dijo que la funcionaria estaba por cumplir su período de cinco años. Los motivos de la decisión no fueron detallados en las notas.",
+      "summary": "La economista Carmen Marín presentó su renuncia al directorio del Banco Central del Paraguay. Según el presidente Santiago Peña, la funcionaria estaba por cumplir su periodo de cinco años. Peña dijo que la renuncia no es un caso aislado y defendió la independencia del regulador financiero. Marín asumió el cargo en octubre de 2022. Los motivos detallados de su decisión no fueron informados en las notas.",
       "keyPoints": [
-        "Carmen Marín renunció al directorio del BCP.",
-        "Asumió el cargo en octubre de 2022.",
-        "El presidente Santiago Peña dijo que su período de cinco años estaba por cumplirse.",
-        "Las notas no detallan los motivos formales de la renuncia."
+        "Marín asumió en el directorio del BCP en octubre de 2022.",
+        "Peña dijo que la funcionaria estaba por cumplir su periodo de cinco años.",
+        "Peña afirmó que la renuncia no es un caso aislado.",
+        "Peña defendió la independencia del BCP."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -190,6 +206,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Marín cumplía sus últimos meses en el BCP y renuncia no es un caso aislado, afirma Peña",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/30/marin-cumplia-sus-ultimos-meses-en-el-bcp-y-renuncia-no-es-un-caso-aislado-afirma-pena",
+          "publishedAt": "2026-10-30T16:54:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/oRMCxTV3moqI3owfhzfmU40ni4k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -232,15 +256,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TP5QLTLADFGBDO72Z327VTDZU4.jpg?auth=62e924964548b1a4c1752869a19386ddd10a1f9e6ce30ce35eaa55afba760308&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/30/renuncia-de-carmen-marin-al-bcp-fue-porque-estaba-por-fenecer-su-periodo-segun-santi-pena"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/30/marin-cumplia-sus-ultimos-meses-en-el-bcp-y-renuncia-no-es-un-caso-aislado-afirma-pena"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedAt": "2026-10-30T19:37:11.065Z",
       "updatedSlot": "tarde",
-      "score": 20.97
+      "score": 20.77
     },
     {
       "id": "ev-0m6drk4",
@@ -332,7 +356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T16:07:12.469Z",
       "updatedSlot": "tarde",
-      "score": 20.86
+      "score": 20.56
     },
     {
       "id": "ev-174qy9b",
@@ -408,7 +432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 14.48
+      "score": 14.19
     },
     {
       "id": "ev-01avj30",
@@ -459,7 +483,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 13
+      "score": 12.71
     },
     {
       "id": "ev-02qk7qp",
@@ -510,7 +534,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 12.23
+      "score": 12
     },
     {
       "id": "ev-1yxa8mm",
@@ -570,7 +594,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T16:07:12.469Z",
       "updatedSlot": "tarde",
-      "score": 11.93
+      "score": 11.63
     },
     {
       "id": "ev-162z2pv",
@@ -638,7 +662,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.65
+      "score": 11.36
     },
     {
       "id": "ev-0bihw4a",
@@ -698,7 +722,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.6
+      "score": 11.31
     },
     {
       "id": "ev-1fhjx80",
@@ -750,7 +774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0xgwpcq",
@@ -802,7 +826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1o06oz8",
@@ -854,7 +878,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0slz0mg",
@@ -897,7 +921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-15uvek7",
@@ -941,7 +965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-0d08l3e",
@@ -984,7 +1008,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.73
+      "score": 8.43
     },
     {
       "id": "ev-0ylfuh0",
@@ -1027,7 +1051,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.44
+      "score": 8.15
     },
     {
       "id": "ev-0zlrpbt",
@@ -1070,7 +1094,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-0wqcrxu",
@@ -1114,7 +1138,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.45
     },
     {
       "id": "ev-18ghx90",
@@ -1158,7 +1182,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.12
     },
     {
       "id": "ev-109ebbe",
@@ -1201,7 +1225,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.68
     },
     {
       "id": "ev-1fpv50m",
@@ -1244,7 +1268,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.63
     },
     {
       "id": "ev-1larjqy",
@@ -1288,7 +1312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-119sm08",
@@ -1331,7 +1355,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-07bi4dv",
@@ -1375,7 +1399,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1rv1p3b",
@@ -1418,7 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1qfw5cp",
@@ -1461,7 +1485,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1g17yrl",
@@ -1490,7 +1514,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1f403pz",
@@ -1520,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ejfefo",
@@ -1550,7 +1574,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1n1270f",
@@ -1579,7 +1603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-068kxon",
@@ -1610,7 +1634,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1i4irir",
@@ -1641,7 +1665,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1qxm5wn",
@@ -1676,7 +1700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-19po230",
@@ -1711,7 +1735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.32
     },
     {
       "id": "ev-1fxuteq",
@@ -1746,7 +1770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.29
     },
     {
       "id": "ev-06ienbg",
@@ -1777,7 +1801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.21
+      "score": 4
     },
     {
       "id": "ev-1fizhqc",
@@ -1886,7 +1910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.77
+      "score": 3.48
     },
     {
       "id": "ev-0cv6dms",
@@ -1925,7 +1949,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.66
+      "score": 3.37
     },
     {
       "id": "ev-1tppwou",
@@ -1969,7 +1993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-1x1u15m",
@@ -2012,7 +2036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-0xuip5f",
@@ -2043,7 +2067,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     },
     {
       "id": "ev-0eqpt25",
@@ -2074,7 +2098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.52
     },
     {
       "id": "ev-1ruazie",
@@ -2105,7 +2129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.65
+      "score": 2.36
     },
     {
       "id": "ev-0hacmb6",
@@ -2136,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.24
     },
     {
       "id": "ev-0ajrotd",
@@ -2167,7 +2191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.48
+      "score": 2.18
     },
     {
       "id": "ev-0ubazs7",
@@ -2198,7 +2222,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.47
+      "score": 2.18
     },
     {
       "id": "ev-10kh2b0",
@@ -2233,7 +2257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 1.66
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2257,6 +2281,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 14
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-30T19:37:11.065Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 12
     }
   ]
 }
