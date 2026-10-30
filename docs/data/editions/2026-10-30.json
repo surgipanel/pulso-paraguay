@@ -1,19 +1,104 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-30T08:07:16.958Z",
+  "generatedAt": "2026-10-30T12:07:19.022Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0m6drk4",
-      "title": "Fuga de amoníaco en planta de pollos de Mariano Roque Alonso deja al menos 11 afectados",
-      "summary": "Una fuga de amoníaco se registró en la planta de Pollpar S.A., en Mariano Roque Alonso. La empresa dice que detectó una pérdida leve en una válvula y evacuó al personal. El IPS atendió a 11 personas, según reportes, y la zona quedó restringida hasta completar las verificaciones técnicas.",
+      "id": "ev-1ewq5dq",
+      "title": "IPS rechaza propuesta de usar USD 30 millones para capitalizar Ueno Bank",
+      "summary": "El presidente del IPS, Derlis León, adelantó que la institución no aceptará usar USD 30 millones del fondo de contingencia para comprar acciones de Ueno Bank. La propuesta fue presentada por el exconsejero Carlos Pereira, que planteaba que el IPS fuera accionista del banco. Diputados opositores cuestionaron la idea por los riesgos para los fondos jubilatorios. La Presidencia dio por terminadas las funciones de Pereira como asesor ad honorem.",
       "keyPoints": [
-        "La empresa Pollpar S.A. detectó una pérdida en una válvula de amoníaco.",
-        "El IPS atendió a 11 personas, según la empresa y el IPS.",
-        "La zona afectada fue restringida hasta completar verificaciones técnicas."
+        "Carlos Pereira propuso usar USD 30 millones del Autoseguro Operativo del IPS.",
+        "El equipo técnico del IPS recomienda rechazar la propuesta.",
+        "Diputados opositores advirtieron riesgos para los fondos jubilatorios.",
+        "Mediante la Resolución N.º 628/2026 se dio por terminado el cargo de Pereira."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Dieron por terminadas las funciones de Carlos Pereira como asesor Ad honorem del IPS",
+          "url": "https://www.ultimahora.com/dieron-por-terminadas-las-funciones-de-carlos-pereira-como-asesor-ad-honorem-de-ips",
+          "publishedAt": "2026-10-30T11:10:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Carlos Pereira y su propuesta a IPS para “capitalizar” en Ueno: “Hoy es capitulo cerrado”",
+          "url": "https://www.abc.com.py/nacionales/2026/10/30/carlos-pereira-y-su-propuesta-a-ips-para-capitalizar-en-ueno-hoy-es-capitulo-cerrado",
+          "publishedAt": "2026-10-30T10:22:18.000Z",
+          "image": "https://www.abc.com.py/resizer/aFmwk8uhnAfVNWLRnLyVr4wtdUg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/U4ANF7Y5XJFUDHQKRJUDDL6D5Q.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPS cesa a Carlos Pereira Olmedo como asesor adjunto",
+          "url": "https://www.adndigital.com.py/ips-cesa-a-carlos-pereira-olmedo-como-asesor-adjunto",
+          "publishedAt": "2026-10-29T21:42:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-27-at-143520.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "IPS da por terminadas las funciones de Carlos Pereira como asesor ad honoren",
+          "url": "https://www.lanacion.com.py/pais/2026/10/29/ips-da-por-terminadas-las-funciones-de-carlos-pereira-como-asesor-ad-honoren",
+          "publishedAt": "2026-10-29T20:12:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zo2TaHSjOuCDMn9eil7AfZip4C0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EKWTN4JVKZGDXO3XQXU6FMKWPE.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Buscan utilizar fondos del IPS para capitalizar a Ueno Bank",
+          "url": "https://www.telefuturo.com.py/buscan-utilizar-fondos-del-ips-para-capitalizar-a-ueno-bank",
+          "publishedAt": "2026-10-29T18:39:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "IPS rechaza usar USD 30 millones de fondos previsionales para capitalizar banco privado",
+          "url": "https://elnacional.com.py/politica/ips-rechaza-usar-usd-30-millones-fondos-previsionales-capitalizar-banco-privado-n114360",
+          "publishedAt": "2026-10-29T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa9bdd635043.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Exconsejero presenta a IPS propuesta para “capitalizar” Ueno y ser “accionista” del banco",
+          "url": "https://www.abc.com.py/economia/2026/10/29/exconsejero-presenta-a-ips-propuesta-para-capitalizar-ueno-y-ser-accionista-del-banco",
+          "publishedAt": "2026-10-29T12:39:27.000Z",
+          "image": "https://www.abc.com.py/resizer/hQEum6EZAJqkz6oMvP1Q3hG9ir4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GCZNBUCGM5B2DKVCLI3TB3Y63Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/U4ANF7Y5XJFUDHQKRJUDDL6D5Q.jpg?auth=43e795a4e15a506d2942ac404a07ae345bece4ac83d688bf30f0ec165f1cc74f&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/30/carlos-pereira-y-su-propuesta-a-ips-para-capitalizar-en-ueno-hoy-es-capitulo-cerrado"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
+      "updatedSlot": "manana",
+      "score": 23.92
+    },
+    {
+      "id": "ev-0m6drk4",
+      "title": "Fuga de amoníaco en planta de pollos de Mariano Roque Alonso deja afectados",
+      "summary": "Una fuga de amoníaco se registró en una planta procesadora de pollos de Mariano Roque Alonso, según reportes de los medios. Los primeros datos hablaban de al menos 12 personas afectadas. Según la directora médica del Hospital Central del IPS, Cristina Ghezzi, el hospital recibió a 30 trabajadores, de los cuales 26 ya recibieron el alta. Cuatro mujeres siguen bajo observación médica.",
+      "keyPoints": [
+        "La fuga de amoníaco ocurrió en una planta de pollos de Mariano Roque Alonso.",
+        "El IPS recibió a 30 trabajadores afectados.",
+        "26 de ellos fueron dados de alta.",
+        "Cuatro mujeres permanecen bajo observación médica con oxígeno."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +106,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fuga de amoníaco en empresa de pollos: ¿qué se sabe del estado de los afectados?",
+          "url": "https://www.abc.com.py/nacionales/2026/10/30/fuga-de-amoniaco-en-empresa-de-pollos-que-se-sabe-del-estado-de-los-afectados",
+          "publishedAt": "2026-10-30T11:00:50.000Z",
+          "image": "https://www.abc.com.py/resizer/m-cd6Cz1BZi5aAU2G1pbwSrumVw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VOEYX3YSB5FXRDLQHEEXUQUSEE.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -55,15 +148,143 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AKHCERTSQRH37OWDKOTCCD4SVM.jpeg?auth=8fcadaa4d14a96dd432b9adae29cb1696e6ca6a387a348e0a9eb8a1b6d918eda&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/29/reportan-fuga-de-amoniaco-en-empresa-procesadora-de-pollos"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VOEYX3YSB5FXRDLQHEEXUQUSEE.jpg?auth=15ceee951912a69a0ec47f64976a199331ee6967a6ad6d7024b6104a3151d2e4&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/30/fuga-de-amoniaco-en-empresa-de-pollos-que-se-sabe-del-estado-de-los-afectados"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 17.38
+      "score": 17.91
+    },
+    {
+      "id": "ev-174qy9b",
+      "title": "Cuatro movimientos colorados se inscriben para las internas de 2027",
+      "summary": "Cuatro movimientos colorados ya se inscribieron ante el Tribunal Electoral Partidario de la ANR para las internas de diciembre de 2027. El secretario ejecutivo del TEP, Rubén Rolón, confirmó los registros. El periodo de inscripción sigue abierto para nuevas agrupaciones.",
+      "keyPoints": [
+        "Cuatro movimientos ya presentaron su inscripción ante el TEP.",
+        "Las internas partidarias están previstas para diciembre de 2027.",
+        "El periodo de registro sigue abierto para nuevas agrupaciones.",
+        "El senador Carlos Núñez Agüero pidió inscribir el Movimiento Colorado Renovador."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cuatro movimientos colorados ya se anotaron para las internas partidarias del 2027",
+          "url": "https://www.adndigital.com.py/cuatro-movimientos-colorados-ya-se-anotaron-para-las-internas-partidarias-del-2027",
+          "publishedAt": "2026-10-30T09:55:55.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/06/sede-de-la-anr.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Movimientos colorados toman forma rumbo al 2027",
+          "url": "https://elnacional.com.py/politica/movimientos-colorados-toman-forma-rumbo-2027-n114395",
+          "publishedAt": "2026-10-30T08:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69bec92b05376.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hugo Velázquez inscribió Fuerza Republicana ante el TEP de ANR",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/hugo-velazquez-inscribio-fuerza-republicana-ante-el-tep-de-anr",
+          "publishedAt": "2026-10-30T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yiG1me3YoMj_eQEc3jO9FHP2oMQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/F7YHB4BXB5FDTF3LNQENKJS4Y4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Suman 4 movimientos inscriptos ante el TEP de la ANR, de cara a las internas",
+          "url": "https://www.lanacion.com.py/politica/2026/10/29/suman-4-movimientos-inscriptos-ante-el-tep-de-la-anr-de-cara-a-las-internas",
+          "publishedAt": "2026-10-30T00:57:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PhFfbt3NGGqTjvpV3rMdp8g53gw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZIVHEQXFI5CBDC6IXTLNI7G6DA.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fuerza Republicana se inscribe en la ANR con Hugo Velázquez al frente",
+          "url": "https://elnacional.com.py/politica/fuerza-republicana-inscribe-anr-hugo-velazquez-frente-n114385",
+          "publishedAt": "2026-10-29T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/11/6911c340036d2.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hugo Velázquez inscribe su movimiento Fuerza Republicana para las internas del 2027",
+          "url": "https://www.lanacion.com.py/politica/2026/10/29/hugo-velazquez-inscribe-su-movimiento-fuerza-republicana-para-las-internas-del-2027",
+          "publishedAt": "2026-10-29T15:08:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PhFfbt3NGGqTjvpV3rMdp8g53gw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZIVHEQXFI5CBDC6IXTLNI7G6DA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ZIVHEQXFI5CBDC6IXTLNI7G6DA.jpeg?auth=2983d1f9b1304b57273b6b2406d1d45debeebde7633a4a6262695bd806e22391&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/29/suman-4-movimientos-inscriptos-ante-el-tep-de-la-anr-de-cara-a-las-internas"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
+      "updatedSlot": "manana",
+      "score": 14.82
+    },
+    {
+      "id": "ev-0wuzn37",
+      "title": "Carmen Marín renuncia al directorio del Banco Central del Paraguay",
+      "summary": "La economista Carmen Marín presentó su renuncia como miembro titular del directorio del Banco Central del Paraguay. Comunicó la decisión mediante una nota al presidente del Congreso, Basilio Núñez. Su salida se da en medio de cuestionamientos a la supervisión del regulador sobre operaciones de entidades financieras con empresas vinculadas.",
+      "keyPoints": [
+        "Carmen Marín era miembro titular del directorio del BCP desde octubre de 2022.",
+        "Comunicó su renuncia al Senado mediante una nota a Basilio Núñez.",
+        "La salida se da en medio de cuestionamientos a la supervisión del regulador.",
+        "Las críticas apuntan a operaciones con empresas vinculadas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tormenta financiera cobra su primera cabeza",
+          "url": "https://elnacional.com.py/economia/tormenta-financiera-cobra-su-primera-cabeza-n114399",
+          "publishedAt": "2026-10-30T10:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae46ffc0935b.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Carmen Marín renuncia al BCP en medio de cuestionamientos a la supervisión",
+          "url": "https://5dias.com.py/article/carmen-marn-renuncia-al-bcp-en-medio-de-cuestionamientos-a-la-supervisin",
+          "publishedAt": "2026-10-30T07:20:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Carmen_Marin_palabras_20261030_072208.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Renuncia Carmen Marín al directorio del BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/29/renuncia-carmen-marin-al-directorio-del-bcp",
+          "publishedAt": "2026-10-30T01:12:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_bAzSuFJnuFhJBKl9giMrWeS3gA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJ6442OOYVGGVMXWRNK3OLD7NA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae46ffc0935b.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/tormenta-financiera-cobra-su-primera-cabeza-n114399"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
+      "updatedSlot": "manana",
+      "score": 13.86
     },
     {
       "id": "ev-01avj30",
@@ -114,7 +335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 13.67
+      "score": 13.33
     },
     {
       "id": "ev-02qk7qp",
@@ -165,17 +386,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 12.9
+      "score": 12.57
     },
     {
-      "id": "ev-174qy9b",
-      "title": "Hugo Velázquez inscribe Fuerza Republicana en el TEP de la ANR para las internas",
-      "summary": "El movimiento Fuerza Republicana, liderado por Hugo Velázquez, se inscribió ante el Tribunal Electoral Partidario de la ANR. Según la nota de El Nacional, Luis Pettengill fue designado vicelíder y el sector pidió la lista 3. El TEP confirmó que cuatro movimientos se inscribieron hasta ahora para las internas de 2027. Las internas partidarias son el próximo año.",
+      "id": "ev-162z2pv",
+      "title": "Funcionarias de Zenaida Delgado se niegan a firmar acuerdo que pedía borrar mensajes",
+      "summary": "Una de las funcionarias afectadas por el presunto cobro de peaje de la senadora Zenaida Delgado afirmó que ella y sus compañeras se negaron a firmar un acuerdo de no transgresión. Según su relato, el documento exigía entregar los teléfonos para borrar mensajes y les impedía querellar. Las funcionarias anunciaron que declararán en noviembre.",
       "keyPoints": [
-        "Fuerza Republicana se inscribió ante el TEP de la ANR.",
-        "Hugo Velázquez aparece como líder del movimiento.",
-        "Luis Pettengill fue designado vicelíder, según El Nacional.",
-        "Cuatro movimientos se inscribieron hasta el momento para las internas de 2027."
+        "Según una funcionaria, el acuerdo exigía entregar teléfonos para borrar mensajes.",
+        "El documento impedía querellar a la senadora, según el relato.",
+        "Las funcionarias declararán en noviembre.",
+        "Zenaida Delgado es investigada por un presunto cobro de peaje."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -184,58 +405,66 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Hugo Velázquez inscribió Fuerza Republicana ante el TEP de ANR",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/hugo-velazquez-inscribio-fuerza-republicana-ante-el-tep-de-anr",
-          "publishedAt": "2026-10-30T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/yiG1me3YoMj_eQEc3jO9FHP2oMQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/F7YHB4BXB5FDTF3LNQENKJS4Y4.jpg"
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Caso Zenaida: Funcionarias se niegan a firmar acuerdo que exigía borrar mensajes de sus celulares",
+          "url": "https://www.ultimahora.com/caso-zenaida-funcionarias-se-niegan-a-firmar-acuerdo-que-exigia-borrar-mensajes-de-sus-celulares",
+          "publishedAt": "2026-10-30T11:55:22.000Z",
+          "image": null
         },
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Suman 4 movimientos inscriptos ante el TEP de la ANR, de cara a las internas",
-          "url": "https://www.lanacion.com.py/politica/2026/10/29/suman-4-movimientos-inscriptos-ante-el-tep-de-la-anr-de-cara-a-las-internas",
-          "publishedAt": "2026-10-30T00:57:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PhFfbt3NGGqTjvpV3rMdp8g53gw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZIVHEQXFI5CBDC6IXTLNI7G6DA.jpeg"
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Acuerdo en caso Zenaida, Cetrapam amenaza con paro y renuncia en el BCP",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-acuerdo-en-caso-zenaida-cetrapam-amenaza-con-paro-y-renuncia-en-el-bcp",
+          "publishedAt": "2026-10-30T09:27:43.000Z",
+          "image": null
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fuerza Republicana se inscribe en la ANR con Hugo Velázquez al frente",
-          "url": "https://elnacional.com.py/politica/fuerza-republicana-inscribe-anr-hugo-velazquez-frente-n114385",
-          "publishedAt": "2026-10-29T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/11/6911c340036d2.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Zenaida: desmienten firma de acuerdo y revelan exigencia para borrar chats",
+          "url": "https://www.abc.com.py/politica/2026/10/29/caso-zenaida-desmienten-firma-de-acuerdo-y-revelan-exigencia-para-borrar-chats",
+          "publishedAt": "2026-10-30T01:04:06.000Z",
+          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
         },
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Hugo Velázquez inscribe su movimiento Fuerza Republicana para las internas del 2027",
-          "url": "https://www.lanacion.com.py/politica/2026/10/29/hugo-velazquez-inscribe-su-movimiento-fuerza-republicana-para-las-internas-del-2027",
-          "publishedAt": "2026-10-29T15:08:56.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PhFfbt3NGGqTjvpV3rMdp8g53gw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZIVHEQXFI5CBDC6IXTLNI7G6DA.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Funcionarias de Zenaida Delgado declararán en noviembre",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/29/audio-funcionarias-de-zenaida-delgado-declararan-en-noviembre",
+          "publishedAt": "2026-10-30T00:53:14.000Z",
+          "image": "https://www.abc.com.py/resizer/n7Qxbo9SyELWGZZ4MDHMYvcsUnE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/B22B2UTX5ZCBHOK5UX7AHWLGNY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Zenaida y funcionarias que denunciaron “peajes salariales” llegaron a un acuerdo, dice Tuma",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/29/audio-zenaida-y-funcionarias-que-denunciaron-peajes-salariales-llegaron-a-un-acuerdo-dice-tuma",
+          "publishedAt": "2026-10-30T00:43:33.000Z",
+          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/F7YHB4BXB5FDTF3LNQENKJS4Y4.jpg?auth=1a917d5e77c1ae6b736bca9d352215499ffd499d26cb3daf83f63cb7c9f039e4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/hugo-velazquez-inscribio-fuerza-republicana-ante-el-tep-de-anr"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg?auth=3cb2bb5b201590f3bf1bc7059d568c451001012bb04d7c388383b4256adf9ab1&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/29/caso-zenaida-desmienten-firma-de-acuerdo-y-revelan-exigencia-para-borrar-chats"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.58
+      "score": 11.98
     },
     {
       "id": "ev-0bihw4a",
-      "title": "Ueno Bank anuncia plan de capitalización de USD 100 millones sin fondos del IPS",
-      "summary": "Ueno Bank anunció un plan para capitalizarse con USD 100 millones. Según el banco, USD 50 millones llegarán de su accionista controlante, UHoldings, y otros USD 50 millones saldrán de una emisión de acciones para inversores paraguayos. El banco dice que, con sus resultados y el aporte de OTP Bank, sumará más de USD 170 millones en 2026.",
+      "title": "Ueno Bank anuncia capitalización de USD 100 millones sin fondos del IPS",
+      "summary": "Ueno Bank anunció un plan de capitalización de USD 100 millones. Según el banco, USD 50 millones saldrán de su accionista controlante y otros USD 50 millones de una emisión de acciones para inversores privados paraguayos. La entidad afirma que la operación elevaría su capital Tier 1 al 14,9%. El banco descarta usar fondos del IPS.",
       "keyPoints": [
-        "Ueno Bank prevé capitalizarse con USD 100 millones.",
-        "USD 50 millones llegarán de su accionista controlante, UHoldings.",
-        "Otros USD 50 millones saldrían de acciones para inversores paraguayos.",
-        "El banco descarta usar fondos del IPS, según sus comunicados."
+        "El plan suma USD 100 millones en capital.",
+        "USD 50 millones llegarían del accionista controlante.",
+        "Otros USD 50 millones saldrían de una emisión para inversores privados paraguayos.",
+        "El banco prevé superar los USD 170 millones de patrimonio en 2026."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -243,6 +472,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "ueno bank proyecta superar los USD 170 millones en capitalización",
+          "url": "https://www.lanacion.com.py/foco/2026/10/30/ueno-bank-proyecta-superar-los-usd-170-millones-en-capitalizacion",
+          "publishedAt": "2026-10-30T11:19:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LLminViDWsUigEuqTosrGbboNs4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MAI3AOZWCNA7BHNJFMJ2OVRM2I.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "ueno bank inyectará capital de unos USD 100 millones",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/30/ueno-bank-inyectara-capital-de-unos-usd-100-millones",
+          "publishedAt": "2026-10-30T03:10:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8koAn-1HS_iVdwfGd-NwbzyPmMY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H4BERHGJ4JE55KGD53AKIWNSBU.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -258,14 +503,6 @@
           "url": "https://www.lanacion.com.py/negocios/2026/10/29/ueno-bank-anuncia-un-plan-de-capitalizacion-de-usd-100-millones-para-fortalecer-su-capital-primario",
           "publishedAt": "2026-10-29T15:55:40.000Z",
           "image": "https://www.lanacion.com.py/resizer/-Wj4OBEYfDc1-9ua4kVDJh9ZfT4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/C575NVOO4JBANB6F3O4KPALKQM.webp"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "ueno bank inyectará capital de unos USD 100 millones",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/30/ueno-bank-inyectara-capital-de-unos-usd-100-millones",
-          "publishedAt": "2026-10-30T03:10:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8koAn-1HS_iVdwfGd-NwbzyPmMY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H4BERHGJ4JE55KGD53AKIWNSBU.jpg"
         }
       ],
       "image": {
@@ -275,9 +512,9 @@
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
+      "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 10.59
+      "score": 11.93
     },
     {
       "id": "ev-1fhjx80",
@@ -329,7 +566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0xgwpcq",
@@ -381,7 +618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1o06oz8",
@@ -433,7 +670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0slz0mg",
@@ -476,7 +713,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-15uvek7",
@@ -520,7 +757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-0d08l3e",
@@ -563,50 +800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.39
-    },
-    {
-      "id": "ev-1ewq5dq",
-      "title": "IPS da por terminadas las funciones de Carlos Pereira como asesor adjunto",
-      "summary": "La Presidencia del Instituto de Previsión Social (IPS), a cargo de Derlis León, resolvió dar por terminadas las funciones de Carlos Alberto Pereira Olmedo como asesor adjunto ad honorem. La decisión figura en la Resolución N.º 628/2026 y la vacancia rige desde el 20 de octubre. Pereira había sido designado en el cargo el 11 de agosto de 2026.",
-      "keyPoints": [
-        "La Resolución N.º 628/2026 dispone el cese de Carlos Alberto Pereira Olmedo.",
-        "Pereira había sido designado como asesor adjunto ad honorem el 11 de agosto de 2026.",
-        "La vacancia del puesto rige desde el 20 de octubre."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "IPS cesa a Carlos Pereira Olmedo como asesor adjunto",
-          "url": "https://www.adndigital.com.py/ips-cesa-a-carlos-pereira-olmedo-como-asesor-adjunto",
-          "publishedAt": "2026-10-29T21:42:56.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-27-at-143520.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "IPS da por terminadas las funciones de Carlos Pereira como asesor ad honoren",
-          "url": "https://www.lanacion.com.py/pais/2026/10/29/ips-da-por-terminadas-las-funciones-de-carlos-pereira-como-asesor-ad-honoren",
-          "publishedAt": "2026-10-29T20:12:54.000Z",
-          "image": "https://www.lanacion.com.py/resizer/zo2TaHSjOuCDMn9eil7AfZip4C0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EKWTN4JVKZGDXO3XQXU6FMKWPE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-27-at-143520.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/ips-cesa-a-carlos-pereira-olmedo-como-asesor-adjunto"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 9.13
+      "score": 9.06
     },
     {
       "id": "ev-0ylfuh0",
@@ -649,7 +843,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.11
+      "score": 8.77
     },
     {
       "id": "ev-0zlrpbt",
@@ -692,7 +886,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.61
     },
     {
       "id": "ev-1yxa8mm",
@@ -743,7 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 7.58
+      "score": 7.24
     },
     {
       "id": "ev-0wqcrxu",
@@ -787,59 +981,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 7.41
-    },
-    {
-      "id": "ev-162z2pv",
-      "title": "Lidia González desmiente acuerdo con Zenaida Delgado y denuncia exigencia para borrar chats",
-      "summary": "Una de las denunciantes de la senadora Zenaida Delgado negó que exista un acuerdo firmado con ella. Según su relato, rechazaron un borrador porque la senadora pedía entregar celulares para que un perito borrara conversaciones de WhatsApp. Esas conversaciones, según las denunciantes, revelan un supuesto cobro de \"peajes salariales\" a funcionarias del Congreso. El abogado Óscar Tuma, representante de la senadora, sostiene que hubo un acuerdo. Las funcionarias declararán en noviembre.",
-      "keyPoints": [
-        "Lidia González, exfuncionaria del Congreso, desmintió la firma de un acuerdo.",
-        "Las denunciantes rechazaron un borrador planteado en un estudio jurídico.",
-        "Según la denuncia, la senadora exigió entregar celulares para borrar chats.",
-        "Óscar Tuma afirma que Zenaida Delgado y las funcionarias llegaron a un acuerdo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Zenaida: desmienten firma de acuerdo y revelan exigencia para borrar chats",
-          "url": "https://www.abc.com.py/politica/2026/10/29/caso-zenaida-desmienten-firma-de-acuerdo-y-revelan-exigencia-para-borrar-chats",
-          "publishedAt": "2026-10-30T01:04:06.000Z",
-          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Funcionarias de Zenaida Delgado declararán en noviembre",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/29/audio-funcionarias-de-zenaida-delgado-declararan-en-noviembre",
-          "publishedAt": "2026-10-30T00:53:14.000Z",
-          "image": "https://www.abc.com.py/resizer/n7Qxbo9SyELWGZZ4MDHMYvcsUnE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/B22B2UTX5ZCBHOK5UX7AHWLGNY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Zenaida y funcionarias que denunciaron “peajes salariales” llegaron a un acuerdo, dice Tuma",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/29/audio-zenaida-y-funcionarias-que-denunciaron-peajes-salariales-llegaron-a-un-acuerdo-dice-tuma",
-          "publishedAt": "2026-10-30T00:43:33.000Z",
-          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg?auth=3cb2bb5b201590f3bf1bc7059d568c451001012bb04d7c388383b4256adf9ab1&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/10/29/caso-zenaida-desmienten-firma-de-acuerdo-y-revelan-exigencia-para-borrar-chats"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 7.41
+      "score": 7.07
     },
     {
       "id": "ev-18ghx90",
@@ -883,7 +1025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-109ebbe",
@@ -926,7 +1068,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.64
+      "score": 6.31
     },
     {
       "id": "ev-1fpv50m",
@@ -969,7 +1111,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.25
     },
     {
       "id": "ev-1larjqy",
@@ -1013,7 +1155,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-119sm08",
@@ -1056,7 +1198,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-07bi4dv",
@@ -1100,7 +1242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1rv1p3b",
@@ -1143,7 +1285,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1qfw5cp",
@@ -1186,7 +1328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1g17yrl",
@@ -1215,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1f403pz",
@@ -1245,7 +1387,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ejfefo",
@@ -1275,7 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1n1270f",
@@ -1304,7 +1446,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-068kxon",
@@ -1335,7 +1477,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1i4irir",
@@ -1366,7 +1508,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1qxm5wn",
@@ -1401,42 +1543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-0wuzn37",
-      "title": "Carmen Marín Rodríguez renuncia al directorio del Banco Central del Paraguay",
-      "summary": "Carmen Marín Rodríguez dejó el directorio del Banco Central del Paraguay. Su salida se produce en un momento de especial atención sobre la supervisión del sistema financiero y el papel de la banca matriz. El extracto no detalla los motivos de la renuncia ni los cuestionamientos señalados.",
-      "keyPoints": [
-        "Carmen Marín Rodríguez renunció al directorio del BCP.",
-        "La salida se da en un contexto de atención sobre la supervisión financiera.",
-        "Las notas mencionan cuestionamientos sobre la banca matriz."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Renuncia Carmen Marín al directorio del BCP",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/29/renuncia-carmen-marin-al-directorio-del-bcp",
-          "publishedAt": "2026-10-30T01:12:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_bAzSuFJnuFhJBKl9giMrWeS3gA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJ6442OOYVGGVMXWRNK3OLD7NA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TJ6442OOYVGGVMXWRNK3OLD7NA.jpg?auth=0f503c73e008e11e740bffbce5099847b0b9b93fc1a340a7eee27f7c2d26f6b4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/29/renuncia-carmen-marin-al-directorio-del-bcp"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 5.42
+      "score": 5.32
     },
     {
       "id": "ev-19po230",
@@ -1471,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.95
     },
     {
       "id": "ev-1fxuteq",
@@ -1506,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-06ienbg",
@@ -1537,7 +1644,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.55
     },
     {
       "id": "ev-1noguhs",
@@ -1568,7 +1675,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.75
+      "score": 4.41
     },
     {
       "id": "ev-1fizhqc",
@@ -1603,7 +1710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.3
     },
     {
       "id": "ev-0uocltn",
@@ -1642,7 +1749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.11
     },
     {
       "id": "ev-0cv6dms",
@@ -1681,7 +1788,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4
     },
     {
       "id": "ev-1wpz4il",
@@ -1716,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-1tppwou",
@@ -1760,7 +1867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.08
+      "score": 3.74
     },
     {
       "id": "ev-1x1u15m",
@@ -1803,7 +1910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.07
+      "score": 3.74
     },
     {
       "id": "ev-0xuip5f",
@@ -1834,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-0eqpt25",
@@ -1865,7 +1972,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-1ruazie",
@@ -1896,7 +2003,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.32
+      "score": 2.98
     },
     {
       "id": "ev-0hacmb6",
@@ -1927,7 +2034,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.2
+      "score": 2.87
     },
     {
       "id": "ev-0ajrotd",
@@ -1958,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.81
     },
     {
       "id": "ev-0ubazs7",
@@ -1989,7 +2096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.8
     },
     {
       "id": "ev-10kh2b0",
@@ -2024,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.33
+      "score": 2
     }
   ],
   "runs": [
@@ -2034,6 +2141,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 68
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-30T12:07:19.022Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 16
     }
   ]
 }
