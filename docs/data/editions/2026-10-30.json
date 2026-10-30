@@ -1,20 +1,20 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-30T12:07:19.022Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-30T16:07:12.469Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1ewq5dq",
-      "title": "IPS rechaza propuesta de usar USD 30 millones para capitalizar Ueno Bank",
-      "summary": "El presidente del IPS, Derlis León, adelantó que la institución no aceptará usar USD 30 millones del fondo de contingencia para comprar acciones de Ueno Bank. La propuesta fue presentada por el exconsejero Carlos Pereira, que planteaba que el IPS fuera accionista del banco. Diputados opositores cuestionaron la idea por los riesgos para los fondos jubilatorios. La Presidencia dio por terminadas las funciones de Pereira como asesor ad honorem.",
+      "title": "Diputados cuestionan propuesta de usar fondos del IPS en Ueno Bank",
+      "summary": "Diputados opositores y disidentes cuestionaron la propuesta de destinar unos US$ 30 millones de la previsional a capitalizar Ueno Bank. Advirtieron sobre los riesgos para los fondos jubilatorios. Carlos Pereira, exasesor ad honorem, dice que su planteo fue sacado de contexto. Afirma que nunca propuso capitalizar un banco privado con recursos del IPS, sino abrir un debate sobre la gestión de los activos de la previsional.",
       "keyPoints": [
-        "Carlos Pereira propuso usar USD 30 millones del Autoseguro Operativo del IPS.",
-        "El equipo técnico del IPS recomienda rechazar la propuesta.",
-        "Diputados opositores advirtieron riesgos para los fondos jubilatorios.",
-        "Mediante la Resolución N.º 628/2026 se dio por terminado el cargo de Pereira."
+        "La propuesta prevé destinar unos US$ 30 millones del IPS a Ueno Bank.",
+        "Diputados opositores y disidentes advirtieron sobre riesgos para los jubilados.",
+        "Carlos Pereira afirma que su planteo fue sacado de contexto.",
+        "Pereira dice que buscaba mejorar la gestión de los activos del IPS."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Carlos Pereira dice que su propuesta sobre fondos del IPS fue sacada de contexto",
+          "url": "https://elnacional.com.py/politica/carlos-pereira-dice-su-propuesta-sobre-fondos-ips-fue-sacada-contexto-n114422",
+          "publishedAt": "2026-10-30T13:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/06/685ea907c44e9.jpeg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -80,25 +88,169 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/U4ANF7Y5XJFUDHQKRJUDDL6D5Q.jpg?auth=43e795a4e15a506d2942ac404a07ae345bece4ac83d688bf30f0ec165f1cc74f&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/30/carlos-pereira-y-su-propuesta-a-ips-para-capitalizar-en-ueno-hoy-es-capitulo-cerrado"
+        "url": "https://statics.elnacional.com.py/2025/06/685ea907c44e9.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/carlos-pereira-dice-su-propuesta-sobre-fondos-ips-fue-sacada-contexto-n114422"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T12:07:19.022Z",
-      "updatedSlot": "manana",
-      "score": 23.92
+      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedSlot": "tarde",
+      "score": 23.8
+    },
+    {
+      "id": "ev-1noguhs",
+      "title": "Zenaida Delgado firma acuerdo con funcionarias que la denunciaron por supuestos cobros",
+      "summary": "La senadora Zenaida Delgado firmó un acuerdo de conciliación para pagar créditos de dos funcionarias del Congreso que la denunciaron por supuestos aprietes para nombramientos. Las denunciantes rechazaron firmar y afirman que continuarán con la causa penal. Según la defensa, la senadora no está imputada. Su abogado, Óscar Tuma, descartó por ahora una renuncia a su banca.",
+      "keyPoints": [
+        "Zenaida Delgado firmó un documento para pagar más de G. 70 millones en créditos de dos funcionarias.",
+        "Las denunciantes dicen que no firmaron el acuerdo y mantienen la denuncia penal.",
+        "Según su defensa, la senadora no está imputada.",
+        "La senadora comparecerá ante una comisión del Senado el lunes."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Zenaida Delgado: codeudora de funcionaria dice que firmaba préstamos sin conocer los montos",
+          "url": "https://elnacional.com.py/politica/caso-zenaida-delgado-codeudora-funcionaria-dice-firmaba-prestamos-conocer-montos-n114436",
+          "publishedAt": "2026-10-30T16:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae4b01700c21.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Zenaida ofrece en el acuerdo pagar créditos de funcionarias que la denunciaron por aprietes",
+          "url": "https://www.ultimahora.com/zenaida-ofrece-en-el-acuerdo-pagar-creditos-de-funcionarias-que-la-denunciaron-por-aprietes",
+          "publishedAt": "2026-10-30T14:49:22.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado: funcionaria codeudora de préstamos niega ser parte de esquema de “peajes”",
+          "url": "https://www.abc.com.py/politica/2026/10/30/zenaida-delgado-funcionaria-codeudora-de-prestamos-niega-ser-parte-de-esquema-de-peajes",
+          "publishedAt": "2026-10-30T14:32:21.000Z",
+          "image": "https://www.abc.com.py/resizer/TPorNl3EHU2Y_ykoeJdolkA1DiA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IG5WEHGKCRAKJEIN5JUUNBTW6M.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Denunciantes de Zenaida Delgado rechazan acuerdo",
+          "url": "https://www.telefuturo.com.py/denunciantes-de-zenaida-delgado-rechazan-acuerdo",
+          "publishedAt": "2026-10-30T14:01:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Denunciantes rechazan acuerdo con Zenaida Delgado y mantienen la denuncia: \"No firmamos nada\"",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/denunciantes-rechazan-acuerdo-con-zenaida-delgado-y-mantienen-la-denuncia-no-firmamos-nada",
+          "publishedAt": "2026-10-30T12:50:14.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Óscar Tuma asume la defensa de Zenaida Delgado y descarta una renuncia por el momento",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/oscar-tuma-asume-la-defensa-de-zenaida-delgado-y-descarta-una-renuncia-por-el-momento",
+          "publishedAt": "2026-10-29T17:06:06.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae4b01700c21.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/caso-zenaida-delgado-codeudora-funcionaria-dice-firmaba-prestamos-conocer-montos-n114436"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedSlot": "tarde",
+      "score": 20.99
+    },
+    {
+      "id": "ev-0wuzn37",
+      "title": "Carmen Marín renuncia al directorio del Banco Central del Paraguay",
+      "summary": "La economista Carmen Marín presentó su renuncia al directorio del Banco Central del Paraguay, según fuentes consultadas por ABC Color. Asumió en octubre de 2022. Consultado sobre el caso, el presidente Santiago Peña dijo que la funcionaria estaba por cumplir su período de cinco años. Los motivos de la decisión no fueron detallados en las notas.",
+      "keyPoints": [
+        "Carmen Marín renunció al directorio del BCP.",
+        "Asumió el cargo en octubre de 2022.",
+        "El presidente Santiago Peña dijo que su período de cinco años estaba por cumplirse.",
+        "Las notas no detallan los motivos formales de la renuncia."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Renuncia de Carmen Marín al BCP fue porque estaba por fenecer su periodo, según Santi Peña",
+          "url": "https://www.abc.com.py/politica/2026/10/30/renuncia-de-carmen-marin-al-bcp-fue-porque-estaba-por-fenecer-su-periodo-segun-santi-pena",
+          "publishedAt": "2026-10-30T15:44:40.000Z",
+          "image": "https://www.abc.com.py/resizer/-SCmiL2PehLrBue1JQa7A5bW5Y0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TP5QLTLADFGBDO72Z327VTDZU4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lo que dice Peña sobre la renuncia de Carmen Marín al directorio del BCP",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/30/lo-que-dice-pena-sobre-la-renuncia-de-carmen-marin-al-directorio-del-bpc",
+          "publishedAt": "2026-10-30T14:06:59.311Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ULB5K2T55VBTBP77OFXMEZYPKE.jpg?auth=80d710b2b29bcbe91976760f83314cd5f1abea5b16a243e5ba95af4fcc4c799d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tormenta financiera cobra su primera cabeza",
+          "url": "https://elnacional.com.py/economia/tormenta-financiera-cobra-su-primera-cabeza-n114399",
+          "publishedAt": "2026-10-30T10:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae46ffc0935b.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Carmen Marín renuncia al BCP en medio de cuestionamientos a la supervisión",
+          "url": "https://5dias.com.py/article/carmen-marn-renuncia-al-bcp-en-medio-de-cuestionamientos-a-la-supervisin",
+          "publishedAt": "2026-10-30T07:20:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Carmen_Marin_palabras_20261030_072208.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Renuncia Carmen Marín al directorio del BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/29/renuncia-carmen-marin-al-directorio-del-bcp",
+          "publishedAt": "2026-10-30T01:12:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_bAzSuFJnuFhJBKl9giMrWeS3gA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJ6442OOYVGGVMXWRNK3OLD7NA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/TP5QLTLADFGBDO72Z327VTDZU4.jpg?auth=62e924964548b1a4c1752869a19386ddd10a1f9e6ce30ce35eaa55afba760308&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/10/30/renuncia-de-carmen-marin-al-bcp-fue-porque-estaba-por-fenecer-su-periodo-segun-santi-pena"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedSlot": "tarde",
+      "score": 20.97
     },
     {
       "id": "ev-0m6drk4",
-      "title": "Fuga de amoníaco en planta de pollos de Mariano Roque Alonso deja afectados",
-      "summary": "Una fuga de amoníaco se registró en una planta procesadora de pollos de Mariano Roque Alonso, según reportes de los medios. Los primeros datos hablaban de al menos 12 personas afectadas. Según la directora médica del Hospital Central del IPS, Cristina Ghezzi, el hospital recibió a 30 trabajadores, de los cuales 26 ya recibieron el alta. Cuatro mujeres siguen bajo observación médica.",
+      "title": "Fuga de amoníaco en planta de pollos de Mariano Roque Alonso deja decenas de afectados",
+      "summary": "Una fuga de amoníaco en una planta procesadora de pollos de Mariano Roque Alonso afectó a decenas de trabajadores. Según el IPS, 26 pacientes recibieron el alta y cuatro mujeres siguen en observación con oxígeno. La empresa es Pollpar S.A. El IPS atendió a 42 personas, según sus datos.",
       "keyPoints": [
-        "La fuga de amoníaco ocurrió en una planta de pollos de Mariano Roque Alonso.",
-        "El IPS recibió a 30 trabajadores afectados.",
-        "26 de ellos fueron dados de alta.",
-        "Cuatro mujeres permanecen bajo observación médica con oxígeno."
+        "La fuga ocurrió en una planta de la empresa Pollpar S.A.",
+        "El IPS atendió a 42 personas afectadas.",
+        "26 pacientes recibieron el alta médica.",
+        "Cuatro mujeres permanecen en observación con asistencia de oxígeno."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -106,6 +258,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cuatro mujeres afectadas por fuga de amoniaco permanecen internadas y en observación",
+          "url": "https://www.lanacion.com.py/pais/2026/10/30/cuatro-mujeres-afectadas-por-fuga-de-amoniaco-permanecen-internadas-y-en-observacion",
+          "publishedAt": "2026-10-30T14:23:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ayYiYc_6mdqvZyG4wPqx9JjgFNI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LYLMADXCIFGSHGYJX7TTR75MYE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Siguen internados 6 funcionarios afectados por fuga de amoníaco",
+          "url": "https://www.adndigital.com.py/siguen-internados-6-funcionarios-afectados-por-fuga-de-amoniaco",
+          "publishedAt": "2026-10-30T13:35:22.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-02-at-152551.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerca de 50 trabajadores afectados por fuga amoniaco en una planta de pollos en Paraguay",
+          "url": "https://www.abc.com.py/internacionales/2026/10/30/cerca-de-50-trabajadores-afectados-por-fuga-amoniaco-en-una-planta-de-pollos-en-paraguay",
+          "publishedAt": "2026-10-30T13:30:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -148,15 +324,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VOEYX3YSB5FXRDLQHEEXUQUSEE.jpg?auth=15ceee951912a69a0ec47f64976a199331ee6967a6ad6d7024b6104a3151d2e4&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/30/fuga-de-amoniaco-en-empresa-de-pollos-que-se-sabe-del-estado-de-los-afectados"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-02-at-152551.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/siguen-internados-6-funcionarios-afectados-por-fuga-de-amoniaco"
       },
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-30T12:07:19.022Z",
-      "updatedSlot": "manana",
-      "score": 17.91
+      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedSlot": "tarde",
+      "score": 20.86
     },
     {
       "id": "ev-174qy9b",
@@ -232,59 +408,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 14.82
-    },
-    {
-      "id": "ev-0wuzn37",
-      "title": "Carmen Marín renuncia al directorio del Banco Central del Paraguay",
-      "summary": "La economista Carmen Marín presentó su renuncia como miembro titular del directorio del Banco Central del Paraguay. Comunicó la decisión mediante una nota al presidente del Congreso, Basilio Núñez. Su salida se da en medio de cuestionamientos a la supervisión del regulador sobre operaciones de entidades financieras con empresas vinculadas.",
-      "keyPoints": [
-        "Carmen Marín era miembro titular del directorio del BCP desde octubre de 2022.",
-        "Comunicó su renuncia al Senado mediante una nota a Basilio Núñez.",
-        "La salida se da en medio de cuestionamientos a la supervisión del regulador.",
-        "Las críticas apuntan a operaciones con empresas vinculadas."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Tormenta financiera cobra su primera cabeza",
-          "url": "https://elnacional.com.py/economia/tormenta-financiera-cobra-su-primera-cabeza-n114399",
-          "publishedAt": "2026-10-30T10:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae46ffc0935b.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Carmen Marín renuncia al BCP en medio de cuestionamientos a la supervisión",
-          "url": "https://5dias.com.py/article/carmen-marn-renuncia-al-bcp-en-medio-de-cuestionamientos-a-la-supervisin",
-          "publishedAt": "2026-10-30T07:20:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Carmen_Marin_palabras_20261030_072208.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Renuncia Carmen Marín al directorio del BCP",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/29/renuncia-carmen-marin-al-directorio-del-bcp",
-          "publishedAt": "2026-10-30T01:12:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_bAzSuFJnuFhJBKl9giMrWeS3gA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJ6442OOYVGGVMXWRNK3OLD7NA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae46ffc0935b.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/tormenta-financiera-cobra-su-primera-cabeza-n114399"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T12:07:19.022Z",
-      "updatedSlot": "manana",
-      "score": 13.86
+      "score": 14.48
     },
     {
       "id": "ev-01avj30",
@@ -335,7 +459,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 13.33
+      "score": 13
     },
     {
       "id": "ev-02qk7qp",
@@ -386,7 +510,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 12.57
+      "score": 12.23
+    },
+    {
+      "id": "ev-1yxa8mm",
+      "title": "Alliana anunciaría a Marco Riquelme como compañero de fórmula el 2 de noviembre",
+      "summary": "Según Última Hora, el vicepresidente Pedro Alliana daría a conocer el lunes 2 de noviembre a Marco Riquelme, ministro de Industria y Comercio, como su compañero de fórmula para 2028. La encuesta que debía orientar la decisión no sería divulgada. La Nación informa que el oficialismo colorado busca retener el poder y que la fórmula se anunciaría antes del 23 de noviembre.",
+      "keyPoints": [
+        "Última Hora indica que el anuncio sería el lunes 2 de noviembre.",
+        "Marco Riquelme es ministro de Industria y Comercio.",
+        "La encuesta que debía orientar la elección no sería divulgada.",
+        "La fórmula se anunciaría antes del 23 de noviembre, según La Nación."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Pedro Alliana anunciaría a Marco Riquelme como su dupla la próxima semana",
+          "url": "https://www.ultimahora.com/pedro-alliana-anunciaria-a-marco-riquelme-como-su-dupla-la-proxima-semana",
+          "publishedAt": "2026-10-30T15:13:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña insta a acompañar la candidatura de Pedro Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/santiago-pena-insta-a-acompanar-la-candidatura-de-pedro-alliana",
+          "publishedAt": "2026-10-30T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6z7dZ-qkE7AwOyRmPWGsYDp53W8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AWZPEAJ2ZARDONGLEXE63725I.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gobierno convoca a intendentes y ediles electos para el 6 de noviembre",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/gobierno-convoca-a-intendentes-y-ediles-electos-para-el-6-de-noviembre",
+          "publishedAt": "2026-10-30T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dNExh5M4cGnROvpMbzLj0YR7hyE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N6EWJ6PRINAOVEORLEKCXA6BEI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña y Alliana convocan a intendentes y ediles electos para el 6 de noviembre",
+          "url": "https://www.lanacion.com.py/politica/2026/10/29/pena-y-alliana-convocan-a-intendentes-y-ediles-electos-para-el-6-de-noviembre",
+          "publishedAt": "2026-10-29T16:15:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pyczHOdyvHR49TrHoSSkZoKOVCE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H3LV755W4RFOHP3GXROG55YW2U.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3AWZPEAJ2ZARDONGLEXE63725I.jpg?auth=c3fd63306cb3e9b0b156903a37e28a40d5c93cd895ff4fdf8cad654585183e87&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/santiago-pena-insta-a-acompanar-la-candidatura-de-pedro-alliana"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T16:07:12.469Z",
+      "updatedSlot": "tarde",
+      "score": 11.93
     },
     {
       "id": "ev-162z2pv",
@@ -454,7 +638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.98
+      "score": 11.65
     },
     {
       "id": "ev-0bihw4a",
@@ -514,7 +698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.93
+      "score": 11.6
     },
     {
       "id": "ev-1fhjx80",
@@ -566,7 +750,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0xgwpcq",
@@ -618,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-1o06oz8",
@@ -670,7 +854,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0slz0mg",
@@ -713,7 +897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-15uvek7",
@@ -757,7 +941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-0d08l3e",
@@ -800,7 +984,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.06
+      "score": 8.73
     },
     {
       "id": "ev-0ylfuh0",
@@ -843,7 +1027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.44
     },
     {
       "id": "ev-0zlrpbt",
@@ -886,58 +1070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.61
-    },
-    {
-      "id": "ev-1yxa8mm",
-      "title": "Peña y Alliana convocan a intendentes y ediles electos para el 6 de noviembre",
-      "summary": "Las altas autoridades del Poder Ejecutivo, Santiago Peña y Pedro Alliana, convocan para el próximo 6 de noviembre a los intendentes y concejales electos de los 263 municipios a una gran jornada de unidad con el fin de coordinar acciones y proyectos para los próximos años.",
-      "keyPoints": [
-        "Las altas autoridades del Poder Ejecutivo, Santiago Peña y Pedro Alliana, convocan para el próximo 6 de noviembre a los intendentes y concejales electos de los 263 municipios a una gran jornada de unidad con el…",
-        "La ocasión también sería utilizada por el oficialismo para blindar su capital político interno y captar nuevos adherentes colorados.",
-        "El oficialismo colorado apunta a retener el poder mediante la candidatura presidencial de Alliana, quien anunciará a su compañero de fórmula antes del 23 de noviembre"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Santiago Peña insta a acompañar la candidatura de Pedro Alliana",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/santiago-pena-insta-a-acompanar-la-candidatura-de-pedro-alliana",
-          "publishedAt": "2026-10-30T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6z7dZ-qkE7AwOyRmPWGsYDp53W8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3AWZPEAJ2ZARDONGLEXE63725I.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gobierno convoca a intendentes y ediles electos para el 6 de noviembre",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/30/gobierno-convoca-a-intendentes-y-ediles-electos-para-el-6-de-noviembre",
-          "publishedAt": "2026-10-30T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/dNExh5M4cGnROvpMbzLj0YR7hyE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N6EWJ6PRINAOVEORLEKCXA6BEI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña y Alliana convocan a intendentes y ediles electos para el 6 de noviembre",
-          "url": "https://www.lanacion.com.py/politica/2026/10/29/pena-y-alliana-convocan-a-intendentes-y-ediles-electos-para-el-6-de-noviembre",
-          "publishedAt": "2026-10-29T16:15:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pyczHOdyvHR49TrHoSSkZoKOVCE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H3LV755W4RFOHP3GXROG55YW2U.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H3LV755W4RFOHP3GXROG55YW2U.jpeg?auth=8918d3793cb24de53c38547eeef331cb49d6d767d3327e9a168c74af31b64f61&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/29/pena-y-alliana-convocan-a-intendentes-y-ediles-electos-para-el-6-de-noviembre"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 7.24
+      "score": 8.28
     },
     {
       "id": "ev-0wqcrxu",
@@ -981,7 +1114,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 7.07
+      "score": 6.74
     },
     {
       "id": "ev-18ghx90",
@@ -1025,7 +1158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-109ebbe",
@@ -1068,7 +1201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.31
+      "score": 5.97
     },
     {
       "id": "ev-1fpv50m",
@@ -1111,7 +1244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.25
+      "score": 5.92
     },
     {
       "id": "ev-1larjqy",
@@ -1155,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-119sm08",
@@ -1198,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-07bi4dv",
@@ -1242,7 +1375,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1rv1p3b",
@@ -1285,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1qfw5cp",
@@ -1328,7 +1461,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1g17yrl",
@@ -1357,7 +1490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1f403pz",
@@ -1387,7 +1520,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ejfefo",
@@ -1417,7 +1550,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1n1270f",
@@ -1446,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-068kxon",
@@ -1477,7 +1610,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1i4irir",
@@ -1508,7 +1641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1qxm5wn",
@@ -1543,7 +1676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-19po230",
@@ -1578,7 +1711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.61
     },
     {
       "id": "ev-1fxuteq",
@@ -1613,7 +1746,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.58
     },
     {
       "id": "ev-06ienbg",
@@ -1644,38 +1777,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.55
-    },
-    {
-      "id": "ev-1noguhs",
-      "title": "Óscar Tuma asume la defensa de Zenaida Delgado y descarta renuncia por ahora",
-      "summary": "El abogado Óscar Tuma asumió la defensa de la senadora Zenaida Delgado. Afirmó que la senadora no está imputada y confirmó un acuerdo de conciliación con las denunciantes. La legisladora comparecerá ante una comisión del Senado el lunes y, por ahora, descarta renunciar a su banca.",
-      "keyPoints": [
-        "Óscar Tuma asumió la defensa de Zenaida Delgado.",
-        "Según Tuma, la senadora no está imputada.",
-        "La senadora comparecerá ante una comisión del Senado el lunes."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Óscar Tuma asume la defensa de Zenaida Delgado y descarta una renuncia por el momento",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/oscar-tuma-asume-la-defensa-de-zenaida-delgado-y-descarta-una-renuncia-por-el-momento",
-          "publishedAt": "2026-10-29T17:06:06.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.21
     },
     {
       "id": "ev-1fizhqc",
@@ -1706,84 +1808,6 @@
         "credit": "El Nacional",
         "articleUrl": "https://elnacional.com.py/lifestyle/oniriatbwa-conquista-su-decimosexto-titulo-mejor-agencia-tatakua-n114313"
       },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 4.3
-    },
-    {
-      "id": "ev-0uocltn",
-      "title": "Manuel González se recupera de una caída y marca el mejor tiempo en Moto2",
-      "summary": "El piloto Manuel González sufrió una caída en la tanda libre matinal de Moto2 y fue revisado en la clínica del circuito. Recibió el apto médico y en su segunda vuelta marcó el mejor tiempo con 2:03.737. Más tarde, Izan Guevara figuró primero en otro momento de la práctica.",
-      "keyPoints": [
-        "González se cayó en la curva seis durante la tanda libre matinal.",
-        "Fue declarado apto por los médicos para seguir la jornada.",
-        "González registró 2:03.737 en su segunda vuelta."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Manuel González se 'repone' de su caída matinal y marca el mejor tiempo",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/30/manuel-gonzalez-se-repone-de-su-caida-matinal-y-marca-el-mejor-tiempo",
-          "publishedAt": "2026-10-30T07:25:07.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Izan Guevara marca el mejor tiempo, Manuel González se va por los suelos",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/29/izan-guevara-marca-el-mejor-tiempo-manuel-gonzalez-se-va-por-los-suelos",
-          "publishedAt": "2026-10-30T02:40:13.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T08:07:16.958Z",
-      "updatedSlot": "manana",
-      "score": 4.11
-    },
-    {
-      "id": "ev-0cv6dms",
-      "title": "David Almansa encabeza la práctica oficial de Moto3 con 2:11.427",
-      "summary": "El español David Almansa lideró la práctica oficial con un tiempo de 2:11.427. Lejos de la vuelta rápida de la categoría, establecida por Adrián Fernández en 2024 con 2:09.542. Antes, Álvaro Carpe había marcado el ritmo por la mañana y Máximo Quiles, ya campeón de la categoría, también estuvo al frente de la tabla.",
-      "keyPoints": [
-        "David Almansa marcó 2:11.427 en la práctica oficial.",
-        "La vuelta rápida de la categoría es de 2:09.542, establecida en 2024.",
-        "Máximo Quiles ya es campeón matemático de la categoría."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El español David Almansa encabeza la práctica oficial",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/30/el-espanol-david-almansa-encabeza-la-practica-oficial",
-          "publishedAt": "2026-10-30T06:05:09.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El español Álvaro Carpe marca el ritmo inicial, por delante del campeón Máximo Quiles",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/29/el-espanol-alvaro-carpe-marca-el-ritmo-inicial-por-delante-del-campeon-maximo-quiles",
-          "publishedAt": "2026-10-30T01:45:07.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        }
-      ],
-      "image": null,
       "firstSeenAt": "2026-10-30T08:07:16.958Z",
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
@@ -1824,6 +1848,84 @@
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
       "score": 4
+    },
+    {
+      "id": "ev-0uocltn",
+      "title": "Manuel González se recupera de una caída y marca el mejor tiempo en Moto2",
+      "summary": "El piloto Manuel González sufrió una caída en la tanda libre matinal de Moto2 y fue revisado en la clínica del circuito. Recibió el apto médico y en su segunda vuelta marcó el mejor tiempo con 2:03.737. Más tarde, Izan Guevara figuró primero en otro momento de la práctica.",
+      "keyPoints": [
+        "González se cayó en la curva seis durante la tanda libre matinal.",
+        "Fue declarado apto por los médicos para seguir la jornada.",
+        "González registró 2:03.737 en su segunda vuelta."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Manuel González se 'repone' de su caída matinal y marca el mejor tiempo",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/30/manuel-gonzalez-se-repone-de-su-caida-matinal-y-marca-el-mejor-tiempo",
+          "publishedAt": "2026-10-30T07:25:07.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Izan Guevara marca el mejor tiempo, Manuel González se va por los suelos",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/29/izan-guevara-marca-el-mejor-tiempo-manuel-gonzalez-se-va-por-los-suelos",
+          "publishedAt": "2026-10-30T02:40:13.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T08:07:16.958Z",
+      "updatedSlot": "manana",
+      "score": 3.77
+    },
+    {
+      "id": "ev-0cv6dms",
+      "title": "David Almansa encabeza la práctica oficial de Moto3 con 2:11.427",
+      "summary": "El español David Almansa lideró la práctica oficial con un tiempo de 2:11.427. Lejos de la vuelta rápida de la categoría, establecida por Adrián Fernández en 2024 con 2:09.542. Antes, Álvaro Carpe había marcado el ritmo por la mañana y Máximo Quiles, ya campeón de la categoría, también estuvo al frente de la tabla.",
+      "keyPoints": [
+        "David Almansa marcó 2:11.427 en la práctica oficial.",
+        "La vuelta rápida de la categoría es de 2:09.542, establecida en 2024.",
+        "Máximo Quiles ya es campeón matemático de la categoría."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El español David Almansa encabeza la práctica oficial",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/30/el-espanol-david-almansa-encabeza-la-practica-oficial",
+          "publishedAt": "2026-10-30T06:05:09.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El español Álvaro Carpe marca el ritmo inicial, por delante del campeón Máximo Quiles",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/10/29/el-espanol-alvaro-carpe-marca-el-ritmo-inicial-por-delante-del-campeon-maximo-quiles",
+          "publishedAt": "2026-10-30T01:45:07.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-30T08:07:16.958Z",
+      "updatedSlot": "manana",
+      "score": 3.66
     },
     {
       "id": "ev-1tppwou",
@@ -1867,7 +1969,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-1x1u15m",
@@ -1910,7 +2012,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-0xuip5f",
@@ -1941,7 +2043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-0eqpt25",
@@ -1972,7 +2074,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-1ruazie",
@@ -2003,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.98
+      "score": 2.65
     },
     {
       "id": "ev-0hacmb6",
@@ -2034,7 +2136,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.87
+      "score": 2.53
     },
     {
       "id": "ev-0ajrotd",
@@ -2065,7 +2167,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.81
+      "score": 2.48
     },
     {
       "id": "ev-0ubazs7",
@@ -2096,7 +2198,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.47
     },
     {
       "id": "ev-10kh2b0",
@@ -2131,7 +2233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2
+      "score": 1.66
     }
   ],
   "runs": [
@@ -2148,6 +2250,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-30T16:07:12.469Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 14
     }
   ]
 }
