@@ -1,20 +1,19 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T08:07:11.400Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-10-31T12:07:13.960Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0ryq7s0",
-      "title": "Yacyretá instala la primera pieza electromecánica de la Unidad N° 1 de Aña Cuá",
-      "summary": "La Entidad Binacional Yacyretá instaló la primera pieza electromecánica fija de la turbina de la Unidad N° 1 de la central Aña Cuá. Es un revestimiento metálico del tubo de aspiración de 32 toneladas, fabricado por la empresa paraguaya CIE S. A. dentro del contrato con la firma alemana Voith Hydro. Según la EBY, marca el inicio del montaje de los componentes principales de generación, y habrá otras dos piezas similares.",
+      "title": "Yacyretá instala la primera pieza de 32 toneladas para la turbina de Aña Cuá",
+      "summary": "La Entidad Binacional Yacyretá instaló la primera pieza electromecánica fija de la turbina de la Unidad N° 1 en la central hidroeléctrica Aña Cuá. Es una estructura metálica de 32 toneladas, colocada el viernes 30 de octubre. Según las notas, marca el inicio del montaje de los componentes principales de generación. Es un paso dentro de la etapa electromecánica de la obra.",
       "keyPoints": [
-        "La pieza pesa 32 toneladas y fue fabricada por CIE S. A.",
-        "Forma parte del suministro del contrato con Voith Hydro Ltda.",
-        "Es la primera de tres piezas que se instalarán en la obra, según la EBY.",
-        "La instalación se realizó el viernes 30 de octubre."
+        "La pieza instalada es una estructura metálica de 32 toneladas.",
+        "Corresponde a la turbina de la Unidad N° 1.",
+        "La instalación se hizo el viernes 30 de octubre."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +21,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Instalan primera estructura del sistema de generación de Aña Cuá",
+          "url": "https://www.adndigital.com.py/instalan-primera-estructura-del-sistema-de-generacion-de-ana-cua",
+          "publishedAt": "2026-10-31T11:18:32.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/ana-cua-turbina.png"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -56,15 +63,90 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3LONGUPQXREQHIR47RYT6ANT3U.jpg?auth=6473d8c0c3ccb1e7c0e81090f2a4e1263a773d1655abaceb124bd19d25ababfc&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/10/30/yacyreta-instalo-la-primera-pieza-electromecanica-de-la-unidad-n-1-de-ana-cua"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/ana-cua-turbina.png",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/instalan-primera-estructura-del-sistema-de-generacion-de-ana-cua"
       },
       "firstSeenAt": "2026-10-31T08:07:11.400Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 17.37
+      "score": 20.93
+    },
+    {
+      "id": "ev-1qcp9or",
+      "title": "Brasil convoca a la encargada de negocios argentina por la huida de Bolsonaro",
+      "summary": "La cancillería brasileña convocó a la encargada de negocios de Argentina en Brasilia para que dé explicaciones por la huida de Flávio Bolsonaro. Lo informó una fuente diplomática brasileña a la AFP. El canciller argentino, Pablo Quirno, negó que Brasil haya pedido explicaciones a Buenos Aires. El Gobierno de Lula da Silva quiere saber si hubo implicación de autoridades.",
+      "keyPoints": [
+        "La cancillería brasileña convocó a la encargada de negocios argentina.",
+        "Quirno negó que Brasil haya pedido explicaciones.",
+        "Brasil quiere saber si hubo implicación de autoridades argentinas."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Argentina niega que Brasil haya pedido explicación sobre huida de Bolsonaro",
+          "url": "https://www.hoy.com.py/mundo/2026/10/31/argentina-niega-que-brasil-haya-pedido-explicacion-sobre-huida-de-bolsonaro",
+          "publishedAt": "2026-10-31T10:08:22.581Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg?auth=19c370d160c3fd18c55f99fdd075ffb33e2af6733c2f43be5bc55f7dd833b6c4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fuga de Bolsonaro genera reclamo de Brasil a Milei",
+          "url": "https://www.ultimahora.com/fuga-de-bolsonaro-genera-reclamo-de-brasil-a-milei",
+          "publishedAt": "2026-10-31T10:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tensión entre Argentina y Brasil por huida de Flávio Bolsonaro",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/31/tension-entre-argentina-y-brasil-por-huida-de-flavio-bolsonaro",
+          "publishedAt": "2026-10-31T05:41:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pxikQyzH5utyyoBvz__FgdZZxJY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Argentina niega que Brasil haya pedido explicaciones por su papel en la fuga de Bolsonaro",
+          "url": "https://www.abc.com.py/internacionales/2026/10/30/argentina-niega-que-brasil-haya-pedido-explicaciones-por-su-papel-en-la-fuga-de-bolsonaro",
+          "publishedAt": "2026-10-30T23:25:05.000Z",
+          "image": "https://www.abc.com.py/resizer/zPbagKxJULKAGcqBpPLD7qGdBDI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil convoca a representante diplomático argentino por huida de Flávio Bolsonaro",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro",
+          "publishedAt": "2026-10-30T20:23:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PvgvwYzTzna5fcF4VdvkdwCoqy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Brasil convocó a la encargada de negocios de Argentina para pedir información sobre la salida de Flávio Bolsonaro hacia Estados Unidos",
+          "url": "https://www.adndigital.com.py/brasil-convoco-a-la-encargada-de-negocios-de-argentina-para-pedir-informacion-sobre-la-salida-de-flavio-bolsonaro-hacia-estados-unidos",
+          "publishedAt": "2026-10-30T19:20:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-30-at-160937.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg?auth=858828bb91ee2eb92447029e8ca3083b6ed02eae0d5708e7abe660442c8eaebd&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T12:07:13.960Z",
+      "updatedSlot": "manana",
+      "score": 18.33
     },
     {
       "id": "ev-1cukvyn",
@@ -124,7 +206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 14.79
+      "score": 14.45
     },
     {
       "id": "ev-0qmhsed",
@@ -176,20 +258,19 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 12.96
+      "score": 12.63
     },
     {
-      "id": "ev-1qcp9or",
-      "title": "Brasil convoca a la encargada de negocios argentina por la salida de Flávio Bolsonaro",
-      "summary": "Según una fuente diplomática brasileña citada por AFP, Brasil convocó a la encargada de negocios de Argentina para pedir explicaciones. Flávio Bolsonaro huyó a Estados Unidos a través de territorio argentino. El canciller argentino Pablo Quirno negó que haya existido un pedido de información. Milei respaldó ese desmentido. La tensión bilateral aumentó tras la reunión diplomática.",
+      "id": "ev-1d9xs95",
+      "title": "Contraloría informa que 18 de 22 auditorías al IPS hallaron indicios de hechos punibles",
+      "summary": "La Contraloría presentó al Senado los resultados de 22 auditorías al Instituto de Previsión Social. En 18 detectaron indicios de hechos punibles, comunicados al Ministerio Público. Según el senador Dionisio Amarilla, presidente de la comisión investigadora, ocho de esos informes tienen causas abiertas. El contralor Camilo Benítez compareció el viernes ante esa comisión.",
       "keyPoints": [
-        "Itamaraty convocó a la encargada de negocios argentina en Brasilia.",
-        "Flávio Bolsonaro salió hacia Estados Unidos por territorio argentino.",
-        "El canciller Pablo Quirno dijo que no hubo ningún pedido de información.",
-        "El presidente Javier Milei replicó el mensaje de su canciller."
+        "La Contraloría presentó 22 auditorías del IPS al Senado.",
+        "18 auditorías detectaron indicios de hechos punibles.",
+        "Ocho de esos informes tienen causas abiertas, según Amarilla."
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "politica",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
@@ -197,46 +278,90 @@
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Brasil convocó a la encargada de negocios de Argentina para pedir información sobre la salida de Flávio Bolsonaro hacia Estados Unidos",
-          "url": "https://www.adndigital.com.py/brasil-convoco-a-la-encargada-de-negocios-de-argentina-para-pedir-informacion-sobre-la-salida-de-flavio-bolsonaro-hacia-estados-unidos",
-          "publishedAt": "2026-10-30T19:20:02.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-30-at-160937.jpeg"
+          "title": "IPS acumula 18 auditorías con indicios de hechos punibles",
+          "url": "https://www.adndigital.com.py/ips-acumula-18-auditorias-con-indicios-de-hechos-punibles",
+          "publishedAt": "2026-10-31T11:57:53.000Z",
+          "image": null
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Brasil convoca a representante diplomático argentino por huida de Flávio Bolsonaro",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro",
-          "publishedAt": "2026-10-30T20:23:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PvgvwYzTzna5fcF4VdvkdwCoqy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Argentina niega que Brasil haya pedido explicaciones por su papel en la fuga de Bolsonaro",
-          "url": "https://www.abc.com.py/internacionales/2026/10/30/argentina-niega-que-brasil-haya-pedido-explicaciones-por-su-papel-en-la-fuga-de-bolsonaro",
-          "publishedAt": "2026-10-30T23:25:05.000Z",
-          "image": "https://www.abc.com.py/resizer/zPbagKxJULKAGcqBpPLD7qGdBDI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg"
+          "title": "Contraloría entrega resumen de auditorías al IPS",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips",
+          "publishedAt": "2026-10-31T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mrtNjD3JV43KL4oyHZ_H9n_zBus=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Tensión entre Argentina y Brasil por huida de Flávio Bolsonaro",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/31/tension-entre-argentina-y-brasil-por-huida-de-flavio-bolsonaro",
-          "publishedAt": "2026-10-31T05:41:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pxikQyzH5utyyoBvz__FgdZZxJY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg"
+          "title": "Contraloría entregó a Comisión Especial del Senado resumen de 24 auditorías al IPS",
+          "url": "https://www.lanacion.com.py/politica/2026/10/30/contraloria-entrego-a-comision-especial-del-senado-resumen-de-24-auditorias-al-ips",
+          "publishedAt": "2026-10-30T21:25:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Uyz26cM1B_d-7jqMKOPijXfMPOE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRPTRHHPERC2RKXYGGCXL737AE.jpeg"
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-30-at-160937.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/brasil-convoco-a-la-encargada-de-negocios-de-argentina-para-pedir-informacion-sobre-la-salida-de-flavio-bolsonaro-hacia-estados-unidos"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg?auth=90d939dde32993a0bc903f9f8c2b0466297ba91bc9698f86c05459ed93a7820e&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips"
       },
       "firstSeenAt": "2026-10-31T08:07:11.400Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 12.3
+      "score": 10.99
+    },
+    {
+      "id": "ev-1n4prbf",
+      "title": "Peña recorre obras del nuevo barrio Bañado Tacumbú para 2.500 familias",
+      "summary": "El presidente Santiago Peña recorrió junto a la ministra de Obras Públicas, Claudia Centurión, las obras del nuevo barrio Bañado Tacumbú, en Asunción. La infraestructura tiene un 75% de avance. El proyecto busca reubicar a familias en un barrio planificado, con viviendas para unas 2.500 familias según una nota y unas 10.000 personas según otra.",
+      "keyPoints": [
+        "El presidente Santiago Peña recorrió las obras junto a la ministra Claudia Centurión.",
+        "La infraestructura registra un 75% de avance.",
+        "El proyecto está en Asunción y reubicará familias del Bañado Tacumbú.",
+        "Las cifras de beneficiarios varían según los medios consultados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña anunció obras para viviendas de 2.000 familias en el nuevo barrio Bañado Tacumbú",
+          "url": "https://elnacional.com.py/nacionales/pena-anuncio-obras-viviendas-2000-familias-nuevo-barrio-banado-tacumbu-n114450",
+          "publishedAt": "2026-10-31T10:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae5107673b23.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza construcción del nuevo barrio Bañado Tacumbú",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/avanza-construccion-del-nuevo-barrio-banado-tacumbu",
+          "publishedAt": "2026-10-31T03:21:28.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ATvatc4zjzJuUUdKD2IfU-vxOTs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2MYQEHU7RBWHMYVVXT62ZCOUI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza la construcción del nuevo barrio Bañado Tacumbú que beneficiará a 2.500 familias",
+          "url": "https://www.lanacion.com.py/politica/2026/10/30/avanza-la-construccion-del-nuevo-barrio-banado-tacumbu-que-beneficiara-a-2500-familias",
+          "publishedAt": "2026-10-30T17:46:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wZ19mNoNiYmRvL3ZyPu9kExm8Ss=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ISMECQJN65EVVHHEVOTNOLG4O4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae5107673b23.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/pena-anuncio-obras-viviendas-2000-familias-nuevo-barrio-banado-tacumbu-n114450"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T12:07:13.960Z",
+      "updatedSlot": "manana",
+      "score": 10.86
     },
     {
       "id": "ev-1q5gy9u",
@@ -288,7 +413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 10.63
+      "score": 10.29
     },
     {
       "id": "ev-048m5cg",
@@ -340,7 +465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-09sr6l3",
@@ -383,7 +508,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.83
+      "score": 9.5
     },
     {
       "id": "ev-0hr59h3",
@@ -426,7 +551,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.72
+      "score": 9.38
     },
     {
       "id": "ev-08d4bhm",
@@ -468,7 +593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.63
+      "score": 9.3
     },
     {
       "id": "ev-19gbck1",
@@ -511,7 +636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.99
     },
     {
       "id": "ev-0zt5e65",
@@ -550,7 +675,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.2
+      "score": 8.86
     },
     {
       "id": "ev-0corxhf",
@@ -593,7 +718,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.18
+      "score": 8.85
     },
     {
       "id": "ev-0r0a5o5",
@@ -637,7 +762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.13
+      "score": 8.8
     },
     {
       "id": "ev-19zf48p",
@@ -681,7 +806,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-0z5xe2g",
@@ -724,7 +849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.88
+      "score": 8.55
     },
     {
       "id": "ev-0vxn17g",
@@ -768,7 +893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.86
+      "score": 8.53
     },
     {
       "id": "ev-0p5qfi0",
@@ -811,7 +936,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.51
     },
     {
       "id": "ev-1cbclof",
@@ -849,7 +974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.57
     },
     {
       "id": "ev-1kibev8",
@@ -891,7 +1016,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.32
     },
     {
       "id": "ev-1ak2927",
@@ -935,50 +1060,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.61
-    },
-    {
-      "id": "ev-1n4prbf",
-      "title": "Avanza en 75% la obra del nuevo barrio Bañado Tacumbú en Asunción",
-      "summary": "El Gobierno avanza con la construcción del nuevo barrio Bañado Tacumbú, en Asunción. El presidente Santiago Peña y la ministra de Obras Públicas y Comunicaciones, Claudia Centurión, recorrieron las obras junto a equipos técnicos. La infraestructura registra un 75% de avance y el proyecto beneficiará a unas 2.500 familias, unas 10.000 personas según otra nota.",
-      "keyPoints": [
-        "La infraestructura del barrio registra un 75% de avance.",
-        "El presidente Santiago Peña recorrió las obras con Claudia Centurión.",
-        "El proyecto está pensado para 2.500 familias."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza la construcción del nuevo barrio Bañado Tacumbú que beneficiará a 2.500 familias",
-          "url": "https://www.lanacion.com.py/politica/2026/10/30/avanza-la-construccion-del-nuevo-barrio-banado-tacumbu-que-beneficiara-a-2500-familias",
-          "publishedAt": "2026-10-30T17:46:08.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wZ19mNoNiYmRvL3ZyPu9kExm8Ss=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ISMECQJN65EVVHHEVOTNOLG4O4.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza construcción del nuevo barrio Bañado Tacumbú",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/avanza-construccion-del-nuevo-barrio-banado-tacumbu",
-          "publishedAt": "2026-10-31T03:21:28.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ATvatc4zjzJuUUdKD2IfU-vxOTs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2MYQEHU7RBWHMYVVXT62ZCOUI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ISMECQJN65EVVHHEVOTNOLG4O4.jpeg?auth=1eb22a3e5ed3e87fd56421e183b80d4c18b19ca414cb628ddca9c6185a40b28c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/30/avanza-la-construccion-del-nuevo-barrio-banado-tacumbu-que-beneficiara-a-2500-familias"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 6.6
+      "score": 6.28
     },
     {
       "id": "ev-16c7dt4",
@@ -1021,7 +1103,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.26
     },
     {
       "id": "ev-0vqkjoc",
@@ -1064,7 +1146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0qt0d8o",
@@ -1107,50 +1189,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-1d9xs95",
-      "title": "Contraloría entrega al Senado resumen de auditorías al IPS con indicios de delitos",
-      "summary": "El contralor Camilo Benítez presentó a la comisión especial del Senado un resumen de auditorías al Instituto de Previsión Social. Según el senador Dionisio Amarilla, de 22 auditorías, 18 generaron indicios de hechos punibles derivados al Ministerio Público, y ocho tienen causas abiertas. Las cifras varían entre notas, por lo que el número exacto de auditorías queda sujeto a confirmación.",
-      "keyPoints": [
-        "El contralor Camilo Benítez acudió a la comisión especial del Senado.",
-        "Dieciocho auditorías al IPS generaron indicios de hechos punibles, según Amarilla.",
-        "Ocho de esos informes tienen causas abiertas."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Contraloría entregó a Comisión Especial del Senado resumen de 24 auditorías al IPS",
-          "url": "https://www.lanacion.com.py/politica/2026/10/30/contraloria-entrego-a-comision-especial-del-senado-resumen-de-24-auditorias-al-ips",
-          "publishedAt": "2026-10-30T21:25:22.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Uyz26cM1B_d-7jqMKOPijXfMPOE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRPTRHHPERC2RKXYGGCXL737AE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Contraloría entrega resumen de auditorías al IPS",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips",
-          "publishedAt": "2026-10-31T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mrtNjD3JV43KL4oyHZ_H9n_zBus=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TRPTRHHPERC2RKXYGGCXL737AE.jpeg?auth=92db24b6bc25eea17908375e176aaedc1db48ef72e50fd883bb696f51e743ebd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/30/contraloria-entrego-a-comision-especial-del-senado-resumen-de-24-auditorias-al-ips"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ucnvnn",
@@ -1193,7 +1232,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0myvxq8",
@@ -1236,7 +1275,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.14
+      "score": 5.81
     },
     {
       "id": "ev-1n6df6a",
@@ -1266,7 +1305,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-00zkd8w",
@@ -1296,7 +1335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1g7jwxz",
@@ -1326,7 +1365,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0alx5v7",
@@ -1356,7 +1395,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ywvt3a",
@@ -1385,7 +1424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0vwgce8",
@@ -1417,7 +1456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1avtlzm",
@@ -1448,7 +1487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ry9s6w",
@@ -1477,7 +1516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-10as4aq",
@@ -1510,7 +1549,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.85
+      "score": 5.52
     },
     {
       "id": "ev-10ymwth",
@@ -1545,7 +1584,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.49
     },
     {
       "id": "ev-00ox1p8",
@@ -1579,7 +1618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.81
+      "score": 5.48
     },
     {
       "id": "ev-18bgbs7",
@@ -1614,7 +1653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.81
+      "score": 5.48
     },
     {
       "id": "ev-0bf06v7",
@@ -1649,7 +1688,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.77
+      "score": 5.44
     },
     {
       "id": "ev-0qwqx6m",
@@ -1684,7 +1723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.76
+      "score": 5.42
     },
     {
       "id": "ev-12m4o89",
@@ -1718,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.41
     },
     {
       "id": "ev-1ycz6yn",
@@ -1752,7 +1791,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.4
     },
     {
       "id": "ev-1dpd4zr",
@@ -1787,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1i7xe2y",
@@ -1820,7 +1859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0s1xbtq",
@@ -1868,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.15
     },
     {
       "id": "ev-1iunfbk",
@@ -1899,7 +1938,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-0pt1lsd",
@@ -1930,7 +1969,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.89
+      "score": 4.56
     },
     {
       "id": "ev-16rtnjw",
@@ -1961,7 +2000,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-00n0hw5",
@@ -1992,7 +2031,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     }
   ],
   "runs": [
@@ -2002,6 +2041,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 68
+    },
+    {
+      "slot": "manana",
+      "at": "2026-10-31T12:07:13.960Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 17
     }
   ]
 }
