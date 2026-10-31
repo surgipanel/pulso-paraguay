@@ -1,42 +1,40 @@
 {
-  "editionDate": "2026-10-30",
+  "editionDate": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T02:16:18.442Z",
+  "generatedAt": "2026-10-31T08:07:11.400Z",
   "eventsCount": 50,
   "maxEvents": 50,
   "aiMode": "mixto",
   "model": "claude-haiku-5-5",
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-10-31T02:19:06.318Z",
+  "lastSuccessAt": "2026-10-31T08:11:03.423Z",
   "lastRun": {
-    "startedAt": "2026-10-31T02:16:18.442Z",
-    "finishedAt": "2026-10-31T02:19:06.318Z",
-    "edition": "2026-10-30",
-    "slot": "tarde",
+    "startedAt": "2026-10-31T08:07:11.400Z",
+    "finishedAt": "2026-10-31T08:11:03.423Z",
+    "edition": "2026-10-31",
+    "slot": "manana",
     "ok": true,
     "error": null,
     "aiMode": "ia",
     "model": "claude-haiku-5-5",
-    "articles": 297,
-    "clusters": 243,
-    "candidates": 12,
-    "added": 0,
-    "updated": 1,
+    "articles": 298,
+    "clusters": 253,
+    "candidates": 60,
+    "added": 50,
+    "updated": 0,
     "eventsTotal": 50,
-    "sourcesOk": 11,
+    "sourcesOk": 10,
     "sourcesTotal": 11,
     "ai": {
       "mode": "ia",
-      "aiCalls": 1,
-      "aiErrors": [
-        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 5758 (line 1 column 5759)"
-      ],
-      "inputTokens": 7436,
-      "outputTokens": 3920,
-      "fallbacks": 6
+      "aiCalls": 10,
+      "aiErrors": [],
+      "inputTokens": 32397,
+      "outputTokens": 29109,
+      "fallbacks": 4
     },
     "forced": false
   },
-  "editions": 20
+  "editions": 21
 }
