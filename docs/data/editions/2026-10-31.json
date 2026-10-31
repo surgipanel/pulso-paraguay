@@ -1,20 +1,19 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T19:37:11.720Z",
+  "generatedAt": "2026-10-31T22:44:00.219Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1n4prbf",
-      "title": "Essap inicia obras de planta de agua potable para el Bañado Sur",
-      "summary": "La Essap comenzó las obras de una planta de tratamiento de agua potable en el Bañado Sur de Asunción. Según la empresa, la planta producirá seis millones de litros diarios y beneficiará a unas 30.000 personas, aunque otra nota habla de 5.000 familias. La inversión sería de unos USD 1 millón, según Última Hora. El proyecto incluye unos 3.580 metros de tuberías para reforzar la red de distribución.",
+      "title": "Essap inicia obras de una planta de agua potable en el Bañado Sur",
+      "summary": "La Essap anunció el inicio de obras de una nueva planta de tratamiento de agua potable en el Bañado Sur de Asunción. Según la empresa, beneficiará a unas 30.000 personas. La infraestructura tendrá capacidad para seis millones de litros diarios y unos 3.580 metros de tuberías para reforzar la red. El presidente de la Essap, Luis Bernal, señaló que también se regularizará el servicio a muchos usuarios.",
       "keyPoints": [
-        "La planta producirá seis millones de litros diarios, según la Essap.",
-        "Incluye unos 3.580 metros de tuberías para la red de distribución.",
-        "La inversión aproximada sería de USD 1 millón, según Última Hora.",
-        "La obra se ubicará cerca del nuevo Barrio Tacumbú, con acceso desde la Costanera Sur."
+        "La planta tendrá capacidad para seis millones de litros diarios.",
+        "Incluirá unos 3.580 metros de tuberías para la red de distribución.",
+        "La obra estará ubicada cerca del nuevo Barrio Tacumbú, con acceso desde la Costanera Sur."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +21,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nueva planta de agua potable en el Bañado Sur beneficiará a 30.0000 personas",
+          "url": "https://www.lanacion.com.py/pais/2026/10/31/nueva-planta-de-agua-potable-en-el-banado-sur-beneficiara-a-300000-personas",
+          "publishedAt": "2026-10-31T20:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Ny8czvDU4EVGHWDaOQG69jSX4Kk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MJ2IYSCHRRGS3BEWVEDPJC4JQE.jpeg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -80,15 +87,115 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/EVQB5S27TVB33JKBNCRWUOUWFI.jpg?auth=bc65730a75a4756df57391f7e8a59db52d787eb40f105e3a001073f99e7fff51&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MJ2IYSCHRRGS3BEWVEDPJC4JQE.jpeg?auth=7856fb0b59e43b15614bebf5ae48baa117c193024bd9546518044ad15731d65a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/31/nueva-planta-de-agua-potable-en-el-banado-sur-beneficiara-a-300000-personas"
       },
       "firstSeenAt": "2026-10-31T08:07:11.400Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-31T19:37:11.720Z",
+      "updatedAt": "2026-10-31T22:44:00.219Z",
       "updatedSlot": "tarde",
-      "score": 23.96
+      "score": 23.77
+    },
+    {
+      "id": "ev-1qcp9or",
+      "title": "Flávio Bolsonaro dice que dejó Brasil por una supuesta persecución política",
+      "summary": "Flávio Bolsonaro afirmó desde Estados Unidos que salió de Brasil por una persecución política y habló de un supuesto régimen de excepción. Según un medio, dejó el país de forma clandestina y llegó a Florida en un jet privado. Su declaración generó burlas y divisiones dentro de la derecha brasileña. Argentina y Estados Unidos no reconocen la victoria de Lula.",
+      "keyPoints": [
+        "Bolsonaro dice que es víctima de persecución política.",
+        "Según El Nacional, salió clandestinamente de Brasil y llegó a Florida en jet privado.",
+        "Su declaración generó burlas y resistencia entre dirigentes de su entorno.",
+        "Argentina y Estados Unidos no reconocen la victoria de Lula."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Flávio Bolsonaro dice que salió de Brasil porque es víctima de una \"persecución\"",
+          "url": "https://elnacional.com.py/mundo/flavio-bolsonaro-dice-salio-brasil-porque-victima-una-persecucion-n114470",
+          "publishedAt": "2026-10-31T20:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/11/6925cc63a8c1a.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro desata burlas y pierde respaldo tras proclamarse líder de Brasil desde EE. UU.",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/31/flavio-bolsonaro-desata-burlas-y-pierde-respaldo-tras-proclamarse-lider-de-brasil-desde-ee-uu",
+          "publishedAt": "2026-10-31T18:24:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gTyAehqXOBsdbsWJahSrGnF14lA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HI5XZFMTGJHAPKPHYNPTUZF72I.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Flávio Bolsonaro afirma que abandonó Brasil por “persecución” política",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/31/flavio-bolsonaro-afirma-que-abandono-brasil-por-persecucion-politica",
+          "publishedAt": "2026-10-31T10:34:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pL-jDfGSPPUeccF2RJAROjGMhNY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WIRSHJ2MZRG2XK7KP73LRHSZNE.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Argentina niega que Brasil haya pedido explicación sobre huida de Bolsonaro",
+          "url": "https://www.hoy.com.py/mundo/2026/10/31/argentina-niega-que-brasil-haya-pedido-explicacion-sobre-huida-de-bolsonaro",
+          "publishedAt": "2026-10-31T10:08:22.581Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg?auth=19c370d160c3fd18c55f99fdd075ffb33e2af6733c2f43be5bc55f7dd833b6c4&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fuga de Bolsonaro genera reclamo de Brasil a Milei",
+          "url": "https://www.ultimahora.com/fuga-de-bolsonaro-genera-reclamo-de-brasil-a-milei",
+          "publishedAt": "2026-10-31T10:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tensión entre Argentina y Brasil por huida de Flávio Bolsonaro",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/31/tension-entre-argentina-y-brasil-por-huida-de-flavio-bolsonaro",
+          "publishedAt": "2026-10-31T05:41:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pxikQyzH5utyyoBvz__FgdZZxJY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Argentina niega que Brasil haya pedido explicaciones por su papel en la fuga de Bolsonaro",
+          "url": "https://www.abc.com.py/internacionales/2026/10/30/argentina-niega-que-brasil-haya-pedido-explicaciones-por-su-papel-en-la-fuga-de-bolsonaro",
+          "publishedAt": "2026-10-30T23:25:05.000Z",
+          "image": "https://www.abc.com.py/resizer/zPbagKxJULKAGcqBpPLD7qGdBDI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Brasil convoca a representante diplomático argentino por huida de Flávio Bolsonaro",
+          "url": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro",
+          "publishedAt": "2026-10-30T20:23:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PvgvwYzTzna5fcF4VdvkdwCoqy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Brasil convocó a la encargada de negocios de Argentina para pedir información sobre la salida de Flávio Bolsonaro hacia Estados Unidos",
+          "url": "https://www.adndigital.com.py/brasil-convoco-a-la-encargada-de-negocios-de-argentina-para-pedir-informacion-sobre-la-salida-de-flavio-bolsonaro-hacia-estados-unidos",
+          "publishedAt": "2026-10-30T19:20:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-30-at-160937.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/11/6925cc63a8c1a.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/flavio-bolsonaro-dice-salio-brasil-porque-victima-una-persecucion-n114470"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T22:44:00.219Z",
+      "updatedSlot": "tarde",
+      "score": 21.33
     },
     {
       "id": "ev-1cukvyn",
@@ -164,7 +271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 20.7
+      "score": 20.44
     },
     {
       "id": "ev-0ryq7s0",
@@ -231,19 +338,19 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 20.31
+      "score": 20.05
     },
     {
-      "id": "ev-1qcp9or",
-      "title": "Brasil convoca a la encargada de negocios argentina por la huida de Bolsonaro",
-      "summary": "La cancillería brasileña convocó a la encargada de negocios de Argentina en Brasilia para que dé explicaciones por la huida de Flávio Bolsonaro. Lo informó una fuente diplomática brasileña a la AFP. El canciller argentino, Pablo Quirno, negó que Brasil haya pedido explicaciones a Buenos Aires. El Gobierno de Lula da Silva quiere saber si hubo implicación de autoridades.",
+      "id": "ev-1d9xs95",
+      "title": "Contraloría halla indicios de hechos punibles en 18 de 22 auditorías al IPS",
+      "summary": "El contralor Camilo Benítez presentó ante el Senado los resultados de 22 auditorías al Instituto de Previsión Social (IPS). En 18 de ellas se detectaron indicios de hechos punibles, que fueron comunicados al Ministerio Público. Entre los hallazgos figuran falta de transparencia, un desfase millonario en el sistema informático y compras directas por mecanismos legales.",
       "keyPoints": [
-        "La cancillería brasileña convocó a la encargada de negocios argentina.",
-        "Quirno negó que Brasil haya pedido explicaciones.",
-        "Brasil quiere saber si hubo implicación de autoridades argentinas."
+        "Benítez compareció ante la Comisión Especial de Investigación del Senado.",
+        "Las auditorías detectaron indicios de hechos punibles en 18 casos.",
+        "La Contraloría urge al IPS a realizar un estudio financiero profundo."
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "politica",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
@@ -251,62 +358,46 @@
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
-          "title": "Argentina niega que Brasil haya pedido explicación sobre huida de Bolsonaro",
-          "url": "https://www.hoy.com.py/mundo/2026/10/31/argentina-niega-que-brasil-haya-pedido-explicacion-sobre-huida-de-bolsonaro",
-          "publishedAt": "2026-10-31T10:08:22.581Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg?auth=19c370d160c3fd18c55f99fdd075ffb33e2af6733c2f43be5bc55f7dd833b6c4&width=1200&height=630&smart=true"
+          "title": "Contraloría detecta irregularidades y riesgo en fondos jubilatorios del IPS tras auditoría",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/31/contraloria-detecta-irregularidades-y-riesgo-en-fondos-jubilatorios-del-ips-tras-auditoria",
+          "publishedAt": "2026-10-31T21:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BGGW73XTFNEAPOKFOHWBEQDMDE.jpg?auth=b13d82202fa3fb81594d4472583acd0fb37045a521f04c0c0e0bd46b4586beb7&width=1200&height=630&smart=true"
         },
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fuga de Bolsonaro genera reclamo de Brasil a Milei",
-          "url": "https://www.ultimahora.com/fuga-de-bolsonaro-genera-reclamo-de-brasil-a-milei",
-          "publishedAt": "2026-10-31T10:00:00.000Z",
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPS acumula 18 auditorías con indicios de hechos punibles",
+          "url": "https://www.adndigital.com.py/ips-acumula-18-auditorias-con-indicios-de-hechos-punibles",
+          "publishedAt": "2026-10-31T11:57:53.000Z",
           "image": null
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Tensión entre Argentina y Brasil por huida de Flávio Bolsonaro",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/10/31/tension-entre-argentina-y-brasil-por-huida-de-flavio-bolsonaro",
-          "publishedAt": "2026-10-31T05:41:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pxikQyzH5utyyoBvz__FgdZZxJY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y4XEFELGSNCTBFJ5B6MDQLC2JU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Argentina niega que Brasil haya pedido explicaciones por su papel en la fuga de Bolsonaro",
-          "url": "https://www.abc.com.py/internacionales/2026/10/30/argentina-niega-que-brasil-haya-pedido-explicaciones-por-su-papel-en-la-fuga-de-bolsonaro",
-          "publishedAt": "2026-10-30T23:25:05.000Z",
-          "image": "https://www.abc.com.py/resizer/zPbagKxJULKAGcqBpPLD7qGdBDI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CX5GPMTBU5AQBNUA7BPHODCN3Q.jpg"
+          "title": "Contraloría entrega resumen de auditorías al IPS",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips",
+          "publishedAt": "2026-10-31T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mrtNjD3JV43KL4oyHZ_H9n_zBus=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Brasil convoca a representante diplomático argentino por huida de Flávio Bolsonaro",
-          "url": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro",
-          "publishedAt": "2026-10-30T20:23:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PvgvwYzTzna5fcF4VdvkdwCoqy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Brasil convocó a la encargada de negocios de Argentina para pedir información sobre la salida de Flávio Bolsonaro hacia Estados Unidos",
-          "url": "https://www.adndigital.com.py/brasil-convoco-a-la-encargada-de-negocios-de-argentina-para-pedir-informacion-sobre-la-salida-de-flavio-bolsonaro-hacia-estados-unidos",
-          "publishedAt": "2026-10-30T19:20:02.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-30-at-160937.jpeg"
+          "title": "Contraloría entregó a Comisión Especial del Senado resumen de 24 auditorías al IPS",
+          "url": "https://www.lanacion.com.py/politica/2026/10/30/contraloria-entrego-a-comision-especial-del-senado-resumen-de-24-auditorias-al-ips",
+          "publishedAt": "2026-10-30T21:25:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Uyz26cM1B_d-7jqMKOPijXfMPOE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRPTRHHPERC2RKXYGGCXL737AE.jpeg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S2HXQIHIJFA4RDYSV4WRUAYPJI.jpg?auth=858828bb91ee2eb92447029e8ca3083b6ed02eae0d5708e7abe660442c8eaebd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo/2026/10/30/brasil-convoca-a-representante-diplomatico-argentino-por-huida-de-flavio-bolsonaro"
+        "url": "https://www.lanacion.com.py/resizer/v2/BGGW73XTFNEAPOKFOHWBEQDMDE.jpg?auth=b13d82202fa3fb81594d4472583acd0fb37045a521f04c0c0e0bd46b4586beb7&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/31/contraloria-detecta-irregularidades-y-riesgo-en-fondos-jubilatorios-del-ips-tras-auditoria"
       },
       "firstSeenAt": "2026-10-31T08:07:11.400Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-10-31T12:07:13.960Z",
-      "updatedSlot": "manana",
-      "score": 17.71
+      "updatedAt": "2026-10-31T22:44:00.219Z",
+      "updatedSlot": "tarde",
+      "score": 14.86
     },
     {
       "id": "ev-09sr6l3",
@@ -366,7 +457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T19:37:11.720Z",
       "updatedSlot": "tarde",
-      "score": 14.79
+      "score": 14.53
     },
     {
       "id": "ev-0qmhsed",
@@ -421,57 +512,6 @@
       "score": 12
     },
     {
-      "id": "ev-1d9xs95",
-      "title": "Contraloría informa que 18 de 22 auditorías al IPS hallaron indicios de hechos punibles",
-      "summary": "La Contraloría presentó al Senado los resultados de 22 auditorías al Instituto de Previsión Social. En 18 detectaron indicios de hechos punibles, comunicados al Ministerio Público. Según el senador Dionisio Amarilla, presidente de la comisión investigadora, ocho de esos informes tienen causas abiertas. El contralor Camilo Benítez compareció el viernes ante esa comisión.",
-      "keyPoints": [
-        "La Contraloría presentó 22 auditorías del IPS al Senado.",
-        "18 auditorías detectaron indicios de hechos punibles.",
-        "Ocho de esos informes tienen causas abiertas, según Amarilla."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "IPS acumula 18 auditorías con indicios de hechos punibles",
-          "url": "https://www.adndigital.com.py/ips-acumula-18-auditorias-con-indicios-de-hechos-punibles",
-          "publishedAt": "2026-10-31T11:57:53.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Contraloría entrega resumen de auditorías al IPS",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips",
-          "publishedAt": "2026-10-31T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mrtNjD3JV43KL4oyHZ_H9n_zBus=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Contraloría entregó a Comisión Especial del Senado resumen de 24 auditorías al IPS",
-          "url": "https://www.lanacion.com.py/politica/2026/10/30/contraloria-entrego-a-comision-especial-del-senado-resumen-de-24-auditorias-al-ips",
-          "publishedAt": "2026-10-30T21:25:22.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Uyz26cM1B_d-7jqMKOPijXfMPOE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRPTRHHPERC2RKXYGGCXL737AE.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XVCSTA2W3NDKBAENFJBIBFO3YY.jpg?auth=90d939dde32993a0bc903f9f8c2b0466297ba91bc9698f86c05459ed93a7820e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/contraloria-entrega-resumen-de-auditorias-al-ips"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T12:07:13.960Z",
-      "updatedSlot": "manana",
-      "score": 10.36
-    },
-    {
       "id": "ev-1q5gy9u",
       "title": "Día de Muertos llega al Centro Cultural del Puerto este domingo 1 de noviembre",
       "summary": "La Embajada de México en Paraguay organiza una nueva edición del Día de Muertos en el Centro Cultural del Puerto de Asunción. La jornada será el domingo 1 de noviembre, de 11:00 a 19:00, con entrada libre y gratuita. Bajo el lema “Recordar es vivir”, incluye cultura, música y gastronomía mexicana.",
@@ -521,7 +561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.67
+      "score": 9.41
     },
     {
       "id": "ev-12m4o89",
@@ -565,7 +605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 9.65
+      "score": 9.39
     },
     {
       "id": "ev-048m5cg",
@@ -617,7 +657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.36
     },
     {
       "id": "ev-0hr59h3",
@@ -660,7 +700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.76
+      "score": 8.5
     },
     {
       "id": "ev-08d4bhm",
@@ -702,7 +742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.41
     },
     {
       "id": "ev-19gbck1",
@@ -745,7 +785,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.37
+      "score": 8.11
     },
     {
       "id": "ev-0zt5e65",
@@ -784,7 +824,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-0corxhf",
@@ -827,7 +867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.23
+      "score": 8
     },
     {
       "id": "ev-0r0a5o5",
@@ -871,7 +911,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.17
+      "score": 8
     },
     {
       "id": "ev-19zf48p",
@@ -915,7 +955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.09
+      "score": 8
     },
     {
       "id": "ev-0z5xe2g",
@@ -1083,49 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.95
-    },
-    {
-      "id": "ev-1kibev8",
-      "title": "Libertad visita a San Lorenzo en el Clausura este sábado",
-      "summary": "Libertad visita a Sportivo San Lorenzo este sábado en el estadio Gunther Vogel, desde las 19:30, por el campeonato Clausura. El arbitraje estará a cargo de Carlos Paul Benítez, y el VAR, de Édgar Galeano. Guaraní busca sostener su pelea por el título.",
-      "keyPoints": [
-        "El partido se juega este sábado en el estadio Gunther Vogel desde las 19:30.",
-        "Carlos Paul Benítez dirigirá el arbitraje y Édgar Galeano estará en el VAR."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad buscará meterle presión a Olimpia en su visita a San Lorenzo",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/libertad-buscara-meterle-presion-a-olimpia-en-su-visita-a-san-lorenzo",
-          "publishedAt": "2026-10-31T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/7KCmgM-E4AhIrcXyvLSEA7mAOck=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F4OSJVFKTJFRPNV7EPLTXBKAMY.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Recoleta FC recibe a Sportivo Ameliano en el arranque de la jornada sabatina",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/recoleta-fc-recibe-a-sportivo-ameliano-en-el-arranque-de-la-jornada-sabatina",
-          "publishedAt": "2026-10-31T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/zYdJS_Gy2ChvbSxEn7jMPq5rPF8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UYJU7UFBT5FW7IZ2LDTX55VG5Y.png"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F4OSJVFKTJFRPNV7EPLTXBKAMY.jpeg?auth=58fd306cd272a6b4ef6147f4617ecc8706e667642e8ebf4348f0808eb8676e85&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/10/31/libertad-buscara-meterle-presion-a-olimpia-en-su-visita-a-san-lorenzo"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.69
     },
     {
       "id": "ev-1ak2927",
@@ -1169,7 +1167,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.5
+    },
+    {
+      "id": "ev-1kibev8",
+      "title": "Libertad visita a San Lorenzo en el Clausura este sábado",
+      "summary": "Libertad visita a Sportivo San Lorenzo este sábado en el estadio Gunther Vogel, desde las 19:30, por el campeonato Clausura. El arbitraje estará a cargo de Carlos Paul Benítez, y el VAR, de Édgar Galeano. Guaraní busca sostener su pelea por el título.",
+      "keyPoints": [
+        "El partido se juega este sábado en el estadio Gunther Vogel desde las 19:30.",
+        "Carlos Paul Benítez dirigirá el arbitraje y Édgar Galeano estará en el VAR."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad buscará meterle presión a Olimpia en su visita a San Lorenzo",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/libertad-buscara-meterle-presion-a-olimpia-en-su-visita-a-san-lorenzo",
+          "publishedAt": "2026-10-31T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/7KCmgM-E4AhIrcXyvLSEA7mAOck=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F4OSJVFKTJFRPNV7EPLTXBKAMY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Recoleta FC recibe a Sportivo Ameliano en el arranque de la jornada sabatina",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/recoleta-fc-recibe-a-sportivo-ameliano-en-el-arranque-de-la-jornada-sabatina",
+          "publishedAt": "2026-10-31T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/zYdJS_Gy2ChvbSxEn7jMPq5rPF8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UYJU7UFBT5FW7IZ2LDTX55VG5Y.png"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F4OSJVFKTJFRPNV7EPLTXBKAMY.jpeg?auth=58fd306cd272a6b4ef6147f4617ecc8706e667642e8ebf4348f0808eb8676e85&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/10/31/libertad-buscara-meterle-presion-a-olimpia-en-su-visita-a-san-lorenzo"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedSlot": "manana",
+      "score": 5.44
     },
     {
       "id": "ev-16c7dt4",
@@ -1212,7 +1252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.37
     },
     {
       "id": "ev-0vqkjoc",
@@ -1255,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.36
     },
     {
       "id": "ev-0qt0d8o",
@@ -1298,7 +1338,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.36
     },
     {
       "id": "ev-0ucnvnn",
@@ -1341,7 +1381,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.36
     },
     {
       "id": "ev-0myvxq8",
@@ -1384,7 +1424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 5
     },
     {
       "id": "ev-1n6df6a",
@@ -1414,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-00zkd8w",
@@ -1444,7 +1484,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-1g7jwxz",
@@ -1474,7 +1514,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-0alx5v7",
@@ -1504,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-0ywvt3a",
@@ -1533,7 +1573,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-0vwgce8",
@@ -1565,7 +1605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-1avtlzm",
@@ -1596,7 +1636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-0ry9s6w",
@@ -1625,7 +1665,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.69
     },
     {
       "id": "ev-10as4aq",
@@ -1658,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.89
+      "score": 4.63
     },
     {
       "id": "ev-10ymwth",
@@ -1693,7 +1733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.6
     },
     {
       "id": "ev-00ox1p8",
@@ -1727,7 +1767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.6
     },
     {
       "id": "ev-18bgbs7",
@@ -1762,7 +1802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.85
+      "score": 4.59
     },
     {
       "id": "ev-0bf06v7",
@@ -1797,7 +1837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.81
+      "score": 4.55
     },
     {
       "id": "ev-0qwqx6m",
@@ -1832,7 +1872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.54
     },
     {
       "id": "ev-1ycz6yn",
@@ -1866,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.77
+      "score": 4.51
     },
     {
       "id": "ev-1dpd4zr",
@@ -1901,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.44
     },
     {
       "id": "ev-1i7xe2y",
@@ -1934,7 +1974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.36
     },
     {
       "id": "ev-0s1xbtq",
@@ -1982,7 +2022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.27
     },
     {
       "id": "ev-1iunfbk",
@@ -2013,7 +2053,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.17
     },
     {
       "id": "ev-0pt1lsd",
@@ -2075,7 +2115,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.27
     },
     {
       "id": "ev-00n0hw5",
@@ -2106,7 +2146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.27
     }
   ],
   "runs": [
@@ -2137,6 +2177,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-31T22:44:00.219Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 15
     }
   ]
 }
