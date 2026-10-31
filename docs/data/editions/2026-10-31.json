@@ -1,11 +1,87 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T12:07:13.960Z",
+  "generatedAt": "2026-10-31T16:07:13.500Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1cukvyn",
+      "title": "Imputan a un supuesto entrenador por captar adolescentes con falsas ofertas de fútbol",
+      "summary": "La Fiscalía imputó por estafa y violación del deber de cuidado a un hombre que se presenta como técnico de fútbol. Según las notas, ofrecía a menores la posibilidad de jugar en clubes profesionales, oferta que presuntamente no se concretó. Los adolescentes fueron rescatados y, según la investigación, vivían en condiciones precarias. El caso se investiga como una presunta red de trata.",
+      "keyPoints": [
+        "Un hombre que dice ser técnico de fútbol fue imputado.",
+        "Se le atribuye captar menores con promesas de carrera profesional.",
+        "La causa se abrió por estafa y violación del deber de cuidado.",
+        "Los adolescentes fueron rescatados, según las notas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Captaba adolescentes con falsas ofertas para jugar en clubes profesionales",
+          "url": "https://www.adndigital.com.py/captaba-adolescentes-con-falsas-ofertas-para-jugar-en-clubes-profesionales",
+          "publishedAt": "2026-10-31T16:01:35.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Imputado el “DT” que captaba adolescentes con la promesa de convertirlos en futbolistas",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/31/imputado-el-dt-que-captaba-adolescentes-con-la-promesa-de-convertirlos-en-futbolistas",
+          "publishedAt": "2026-10-31T12:50:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GDCTLPHNHBCP3MZPK6BIRVPUJY.webp?auth=d89147d8d25a7c0964080ddaa4e1057764a98d40d91fc012c4d5faa6493e0c65&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presunta red de trata: rescatan a menores",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/31/presunta-red-de-trata-rescatan-a-menores",
+          "publishedAt": "2026-10-31T05:34:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7ieGXZJN_VOVxlcbcys2IRG2dKg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DR5XXFQ3HZHQRHVOKXD3XBFXF4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Promesa del fútbol profesional: adolescentes fueron rescatados de una presunta red de tratas",
+          "url": "https://www.lanacion.com.py/pais/2026/10/30/promesa-del-futbol-profesional-adolescentes-fueron-rescatados-de-una-presunta-red-de-tratas",
+          "publishedAt": "2026-10-30T21:03:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Skz9Dn_su6YxgTOgEJx_HvVikA4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WFHSNCFDHRCGHA3GBGNNO7AEOE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Falsos cazatalentos: rescatan a tres adolescentes captados con promesas de ser futbolistas",
+          "url": "https://elnacional.com.py/nacionales/falsos-cazatalentos-rescatan-tres-adolescentes-captados-promesas-ser-futbolistas-n114417",
+          "publishedAt": "2026-10-30T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae48c815cc60.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Falsas promesas de fútbol: rescatan a tres adolescentes de un supuesto caso de trata de personas en Pirayú",
+          "url": "https://www.npy.com.py/noticias/nacionales/falsas-promesas-de-futbol-rescatan-a-tres-adolescentes-de-un-supuesto-caso-de-trata-de-personas-en-pirayu",
+          "publishedAt": "2026-10-30T11:44:40.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/GDCTLPHNHBCP3MZPK6BIRVPUJY.webp?auth=d89147d8d25a7c0964080ddaa4e1057764a98d40d91fc012c4d5faa6493e0c65&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/31/imputado-el-dt-que-captaba-adolescentes-con-la-promesa-de-convertirlos-en-futbolistas"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T16:07:13.500Z",
+      "updatedSlot": "tarde",
+      "score": 20.99
+    },
     {
       "id": "ev-0ryq7s0",
       "title": "Yacyretá instala la primera pieza de 32 toneladas para la turbina de Aña Cuá",
@@ -71,7 +147,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 20.93
+      "score": 20.6
     },
     {
       "id": "ev-1qcp9or",
@@ -146,67 +222,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 18.33
-    },
-    {
-      "id": "ev-1cukvyn",
-      "title": "Rescatan a tres adolescentes captados con falsas promesas de fútbol en Pirayú",
-      "summary": "Tres adolescentes fueron rescatados de una vivienda en Pirayú, donde un hombre los habría captado con promesas de formación futbolística. Según las notas, los menores llegaron desde el Chaco, Concepción y Caaguazú y fueron hallados en condiciones precarias. El sospechoso fue detenido. Se investiga un supuesto caso de trata de personas.",
-      "keyPoints": [
-        "Tres adolescentes fueron rescatados en Pirayú.",
-        "Un hombre los habría captado con promesas de fútbol profesional.",
-        "El sospechoso fue detenido.",
-        "Otros dos menores habrían logrado escapar días antes, según NPY."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Presunta red de trata: rescatan a menores",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/31/presunta-red-de-trata-rescatan-a-menores",
-          "publishedAt": "2026-10-31T05:34:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7ieGXZJN_VOVxlcbcys2IRG2dKg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DR5XXFQ3HZHQRHVOKXD3XBFXF4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Promesa del fútbol profesional: adolescentes fueron rescatados de una presunta red de tratas",
-          "url": "https://www.lanacion.com.py/pais/2026/10/30/promesa-del-futbol-profesional-adolescentes-fueron-rescatados-de-una-presunta-red-de-tratas",
-          "publishedAt": "2026-10-30T21:03:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Skz9Dn_su6YxgTOgEJx_HvVikA4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WFHSNCFDHRCGHA3GBGNNO7AEOE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Falsos cazatalentos: rescatan a tres adolescentes captados con promesas de ser futbolistas",
-          "url": "https://elnacional.com.py/nacionales/falsos-cazatalentos-rescatan-tres-adolescentes-captados-promesas-ser-futbolistas-n114417",
-          "publishedAt": "2026-10-30T12:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae48c815cc60.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Falsas promesas de fútbol: rescatan a tres adolescentes de un supuesto caso de trata de personas en Pirayú",
-          "url": "https://www.npy.com.py/noticias/nacionales/falsas-promesas-de-futbol-rescatan-a-tres-adolescentes-de-un-supuesto-caso-de-trata-de-personas-en-pirayu",
-          "publishedAt": "2026-10-30T11:44:40.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DR5XXFQ3HZHQRHVOKXD3XBFXF4.jpg?auth=f4e93608f35e3f971703552ba0c03774a4002fb8bb4fa769b599562be430d971&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/10/31/presunta-red-de-trata-rescatan-a-menores"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 14.45
+      "score": 18
     },
     {
       "id": "ev-0qmhsed",
@@ -258,7 +274,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 12.63
+      "score": 12.3
+    },
+    {
+      "id": "ev-09sr6l3",
+      "title": "Comienzan las obras del nuevo Hospital General de Asunción, con 334 camas",
+      "summary": "El Gobierno oficializó el inicio de las obras del futuro Hospital General de Asunción, en el barrio Sajonia. La construcción fue adjudicada al Consorcio GHA y demandará una inversión total de USD 62 millones. El presidente Santiago Peña destacó la cooperación del gobierno de Taiwán. El establecimiento contará con 88 camas de terapia intensiva y 12 quirófanos.",
+      "keyPoints": [
+        "La obra fue adjudicada al Consorcio GHA.",
+        "La inversión total prevista es de USD 62 millones.",
+        "El hospital tendrá 334 camas, incluidas 88 de terapia intensiva.",
+        "Peña destacó la cooperación del gobierno de Taiwán."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña destaca cooperación del gobierno taiwanés para la obra del Hospital General de Asunción",
+          "url": "https://www.lanacion.com.py/politica/2026/10/31/pena-destaca-cooperacion-del-gobierno-taiwanes-para-la-obra-del-hospital-general-de-asuncion",
+          "publishedAt": "2026-10-31T13:13:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3V4kf5mBKVYy1cv-BLGOpBTsSa0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gobierno inicia obras del futuro Hospital General de Asunción",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/gobierno-inicia-obras-del-futuro-hospital-general-de-asuncion",
+          "publishedAt": "2026-10-31T06:08:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1oKq9mKEuVfDYE-COTTUgogTRSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4IUM6YYDG5EW7O4UJ47WM7BYX4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Gobierno oficializa el inicio de obras del futuro Hospital General de Asunción",
+          "url": "https://elnacional.com.py/economia/gobierno-oficializa-inicio-obras-futuro-hospital-general-asuncion-n114429",
+          "publishedAt": "2026-10-30T19:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae4a1195660c.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif?auth=8c9dceba045c130365e5d5fc5c8d0b626bb59fd6fadb3f55fec47db35135b373&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/31/pena-destaca-cooperacion-del-gobierno-taiwanes-para-la-obra-del-hospital-general-de-asuncion"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T16:07:13.500Z",
+      "updatedSlot": "tarde",
+      "score": 10.76
     },
     {
       "id": "ev-1d9xs95",
@@ -309,7 +377,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 10.99
+      "score": 10.65
     },
     {
       "id": "ev-1n4prbf",
@@ -361,7 +429,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 10.86
+      "score": 10.53
     },
     {
       "id": "ev-1q5gy9u",
@@ -413,7 +481,51 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 10.29
+      "score": 9.96
+    },
+    {
+      "id": "ev-12m4o89",
+      "title": "Mica Chamorro se suma a Radio Corazón con el espacio Ladies First",
+      "summary": "La locutora, conductora y actriz Micaela Chamorro se incorpora a Radio Corazón desde el lunes 2 de noviembre. Se suma a las primeras dos horas de Tarde de oro, junto a Rubén Rodríguez, con el espacio Ladies First. Tendrá a cargo la apertura del programa, a las 15:00.",
+      "keyPoints": [
+        "Micaela Chamorro se suma a Radio Corazón desde el lunes 2 de noviembre.",
+        "Compartirá cabina en Tarde de oro con Rubén Rodríguez.",
+        "El espacio se llama Ladies First.",
+        "Tendrá a cargo la apertura del programa, a las 15:00."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Las damas primero, dice el Pionero: Mica Chamorro en Tarde de oro",
+          "url": "https://www.hoy.com.py/espectaculos/2026/10/31/las-damas-primero-dice-el-pionero-mica-chamorro-en-tarde-de-oro",
+          "publishedAt": "2026-10-31T15:27:09.492Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SBXGGTZZNVEMBGR7C2MCH7FQII.jpg?auth=f0d2d9954a9271bcdbeee2aeee9fe7a4b5bc50dd53b8b6f93dc0f0e0b7278d81&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mica Chamorro se suma al staff de Radio Corazón",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/31/mica-chamorro-se-suma-al-staff-de-radio-corazon",
+          "publishedAt": "2026-10-31T05:00:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JOo4YfMFX6HPHvFcRZftU3zRR6M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SBXGGTZZNVEMBGR7C2MCH7FQII.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/SBXGGTZZNVEMBGR7C2MCH7FQII.jpg?auth=f0d2d9954a9271bcdbeee2aeee9fe7a4b5bc50dd53b8b6f93dc0f0e0b7278d81&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/espectaculos/2026/10/31/las-damas-primero-dice-el-pionero-mica-chamorro-en-tarde-de-oro"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T16:07:13.500Z",
+      "updatedSlot": "tarde",
+      "score": 9.94
     },
     {
       "id": "ev-048m5cg",
@@ -465,50 +577,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 10.24
-    },
-    {
-      "id": "ev-09sr6l3",
-      "title": "Gobierno oficializa el inicio de obras del futuro Hospital General de Asunción",
-      "summary": "El Gobierno inició las obras del futuro Hospital General de Asunción. La construcción fue adjudicada al Consorcio GHA. El establecimiento tendrá 334 camas de internación, 88 de ellas de terapia intensiva, 67 consultorios y 12 quirófanos. Según los reportes, la obra reforzará la red pública de salud y ampliará la atención para la población de la capital y ciudades vecinas.",
-      "keyPoints": [
-        "La obra fue adjudicada al Consorcio GHA.",
-        "El hospital tendrá 334 camas de internación.",
-        "Incluirá 88 camas de terapia intensiva, 67 consultorios y 12 quirófanos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Gobierno oficializa el inicio de obras del futuro Hospital General de Asunción",
-          "url": "https://elnacional.com.py/economia/gobierno-oficializa-inicio-obras-futuro-hospital-general-asuncion-n114429",
-          "publishedAt": "2026-10-30T19:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae4a1195660c.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gobierno inicia obras del futuro Hospital General de Asunción",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/gobierno-inicia-obras-del-futuro-hospital-general-de-asuncion",
-          "publishedAt": "2026-10-31T06:08:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1oKq9mKEuVfDYE-COTTUgogTRSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4IUM6YYDG5EW7O4UJ47WM7BYX4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae4a1195660c.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/gobierno-oficializa-inicio-obras-futuro-hospital-general-asuncion-n114429"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 9.5
+      "score": 9.91
     },
     {
       "id": "ev-0hr59h3",
@@ -551,7 +620,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.38
+      "score": 9.05
     },
     {
       "id": "ev-08d4bhm",
@@ -593,7 +662,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.3
+      "score": 8.96
     },
     {
       "id": "ev-19gbck1",
@@ -636,7 +705,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.66
     },
     {
       "id": "ev-0zt5e65",
@@ -675,7 +744,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.86
+      "score": 8.53
     },
     {
       "id": "ev-0corxhf",
@@ -718,7 +787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.52
     },
     {
       "id": "ev-0r0a5o5",
@@ -762,7 +831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.46
     },
     {
       "id": "ev-19zf48p",
@@ -806,7 +875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.38
     },
     {
       "id": "ev-0z5xe2g",
@@ -849,7 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.55
+      "score": 8.21
     },
     {
       "id": "ev-0vxn17g",
@@ -893,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.19
     },
     {
       "id": "ev-0p5qfi0",
@@ -936,7 +1005,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.18
     },
     {
       "id": "ev-1cbclof",
@@ -974,7 +1043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.57
+      "score": 6.24
     },
     {
       "id": "ev-1kibev8",
@@ -1016,7 +1085,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.32
+      "score": 5.99
     },
     {
       "id": "ev-1ak2927",
@@ -1060,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.28
+      "score": 5.95
     },
     {
       "id": "ev-16c7dt4",
@@ -1103,7 +1172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.26
+      "score": 5.92
     },
     {
       "id": "ev-0vqkjoc",
@@ -1146,7 +1215,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0qt0d8o",
@@ -1189,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0ucnvnn",
@@ -1232,7 +1301,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0myvxq8",
@@ -1275,7 +1344,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.81
+      "score": 5.48
     },
     {
       "id": "ev-1n6df6a",
@@ -1305,7 +1374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-00zkd8w",
@@ -1335,7 +1404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1g7jwxz",
@@ -1365,7 +1434,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0alx5v7",
@@ -1395,7 +1464,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ywvt3a",
@@ -1424,7 +1493,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0vwgce8",
@@ -1456,7 +1525,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1avtlzm",
@@ -1487,7 +1556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ry9s6w",
@@ -1516,7 +1585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-10as4aq",
@@ -1549,7 +1618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.52
+      "score": 5.18
     },
     {
       "id": "ev-10ymwth",
@@ -1584,7 +1653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.15
     },
     {
       "id": "ev-00ox1p8",
@@ -1618,7 +1687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.15
     },
     {
       "id": "ev-18bgbs7",
@@ -1653,7 +1722,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.14
     },
     {
       "id": "ev-0bf06v7",
@@ -1688,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.44
+      "score": 5.1
     },
     {
       "id": "ev-0qwqx6m",
@@ -1723,41 +1792,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.42
-    },
-    {
-      "id": "ev-12m4o89",
-      "title": "Mica Chamorro se suma al staff de Radio Corazón con un espacio propio",
-      "summary": "La periodista Mica Chamorro se incorpora al staff de Radio Corazón. Compartirá cabina en el programa Tarde de oro con Rubén Rodríguez. Con la propuesta Ladies First, tendrá a su cargo la apertura del programa, a las 15:00.",
-      "keyPoints": [
-        "Mica Chamorro compartirá cabina con Rubén Rodríguez en Tarde de oro.",
-        "Con Ladies First, Chamorro abrirá el programa a las 15:00."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mica Chamorro se suma al staff de Radio Corazón",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/31/mica-chamorro-se-suma-al-staff-de-radio-corazon",
-          "publishedAt": "2026-10-31T05:00:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/JOo4YfMFX6HPHvFcRZftU3zRR6M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SBXGGTZZNVEMBGR7C2MCH7FQII.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/SBXGGTZZNVEMBGR7C2MCH7FQII.jpg?auth=f0d2d9954a9271bcdbeee2aeee9fe7a4b5bc50dd53b8b6f93dc0f0e0b7278d81&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/31/mica-chamorro-se-suma-al-staff-de-radio-corazon"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.09
     },
     {
       "id": "ev-1ycz6yn",
@@ -1791,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.4
+      "score": 5.06
     },
     {
       "id": "ev-1dpd4zr",
@@ -1826,7 +1861,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1i7xe2y",
@@ -1859,7 +1894,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0s1xbtq",
@@ -1907,7 +1942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.82
     },
     {
       "id": "ev-1iunfbk",
@@ -1938,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.72
     },
     {
       "id": "ev-0pt1lsd",
@@ -1969,7 +2004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.56
+      "score": 4.22
     },
     {
       "id": "ev-16rtnjw",
@@ -2000,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-00n0hw5",
@@ -2031,7 +2066,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     }
   ],
   "runs": [
@@ -2048,6 +2083,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-31T16:07:13.500Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 13
     }
   ]
 }
