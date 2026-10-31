@@ -1,5 +1,34 @@
 [
   {
+    "startedAt": "2026-10-31T02:16:18.442Z",
+    "finishedAt": "2026-10-31T02:19:06.318Z",
+    "edition": "2026-10-30",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 297,
+    "clusters": 243,
+    "candidates": 12,
+    "added": 0,
+    "updated": 1,
+    "eventsTotal": 50,
+    "sourcesOk": 11,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 1,
+      "aiErrors": [
+        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 5758 (line 1 column 5759)"
+      ],
+      "inputTokens": 7436,
+      "outputTokens": 3920,
+      "fallbacks": 6
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-10-30T23:07:10.065Z",
     "finishedAt": "2026-10-30T23:09:35.724Z",
     "edition": "2026-10-30",
@@ -2143,33 +2172,6 @@
       "inputTokens": 23244,
       "outputTokens": 13308,
       "fallbacks": 2
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-10-13T01:57:39.054Z",
-    "finishedAt": "2026-10-13T01:59:50.746Z",
-    "edition": "2026-10-12",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-opus-5-5",
-    "articles": 267,
-    "clusters": 228,
-    "candidates": 12,
-    "added": 0,
-    "updated": 3,
-    "eventsTotal": 20,
-    "sourcesOk": 7,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 2,
-      "aiErrors": [],
-      "inputTokens": 8762,
-      "outputTokens": 4712,
-      "fallbacks": 0
     },
     "forced": false
   }

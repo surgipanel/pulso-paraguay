@@ -1,9 +1,9 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-30T23:07:10.065Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-31T02:16:18.442Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
@@ -112,7 +112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T23:07:10.065Z",
       "updatedSlot": "tarde",
-      "score": 23.88
+      "score": 23.62
     },
     {
       "id": "ev-1ewq5dq",
@@ -204,7 +204,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T16:07:12.469Z",
       "updatedSlot": "tarde",
-      "score": 23.21
+      "score": 22.95
     },
     {
       "id": "ev-0m6drk4",
@@ -312,7 +312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T23:07:10.065Z",
       "updatedSlot": "tarde",
-      "score": 20.95
+      "score": 20.68
     },
     {
       "id": "ev-0wuzn37",
@@ -388,7 +388,115 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T19:37:11.065Z",
       "updatedSlot": "tarde",
-      "score": 20.48
+      "score": 20.22
+    },
+    {
+      "id": "ev-1fpv50m",
+      "title": "Otro accidente en Guairá deja tres fallecidos y una mujer gravemente herida",
+      "summary": "Tres personas perdieron la vida en un grave accidente de tránsito ocurrido este viernes en el distrito de Mbocayaty, departamento de Guairá. Una joven logró sobrevivir, aunque resultó con severas lesiones. Tres personas murieron y una mujer quedó gravemente herida tras un choque frontal entre un automóvil y un camión sobre la ruta PY08, en Mbocayaty del Guairá.",
+      "keyPoints": [
+        "Tres personas perdieron la vida en un grave accidente de tránsito ocurrido este viernes en el distrito de Mbocayaty, departamento de Guairá.",
+        "Tres personas murieron y una mujer quedó gravemente herida tras un choque frontal entre un automóvil y un camión sobre la ruta PY08, en Mbocayaty del Guairá.",
+        "Tres personas fallecieron de manera trágica en un accidente de tránsito ocurrido este viernes, alrededor de las 05:00, en el kilómetro 186 de la ruta PY08 “Dr.",
+        "La Policía Nacional prepara un fuerte operativo de seguridad para el superclásico del domingo 1 de noviembre a desarrollarse en el estadio Pablo Rojas desde las 17:00."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Otro accidente en Guairá deja tres fallecidos y una mujer gravemente herida",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/30/otro-accidente-en-guaira-deja-tres-victimas-faltas-y-una-mujer-herida",
+          "publishedAt": "2026-10-30T18:16:58.793Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LK6OGWCIPJBMRIJALS3L3N5FOA.jpg?auth=256ddf7808563bea4df7913ce507eafd5c6b9a61516f083935879c6b7ff76c78&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Tragedia en Mbocayaty: choque frontal deja tres muertos y una mujer gravemente herida",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/tragedia-en-mbocayaty-choque-frontal-deja-tres-muertos-y-una-mujer-gravemente-herida",
+          "publishedAt": "2026-10-30T16:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 30 de octubre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/10/30/ln-pm-edicion-del-30-de-octubre",
+          "publishedAt": "2026-10-30T15:07:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jXxZxKWJ8jfpX_XylNflY6zng10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZF3VXKJYO5C47NW3NMHZCGII2M.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Operativo de la Ande en Caaguazú detecta 449 conexiones irregulares",
+          "url": "https://www.lanacion.com.py/pais/2026/10/30/operativo-de-la-ande-en-caaguazu-detecta-449-conexiones-irregulares",
+          "publishedAt": "2026-10-30T13:03:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JDujZnDspwgGV7A5l-Fd-tWr6r0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TZOZLAIJFZA55KAD6AZE6LUCME.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nuevo director penitenciario promete controles estrictos tras fuga en penal de Emboscada",
+          "url": "https://www.lanacion.com.py/politica/2026/10/30/nuevo-director-penitenciario-promete-controles-estrictos-tras-fuga-en-penal-de-emboscada",
+          "publishedAt": "2026-10-30T12:09:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/WSpsk75oP9d_xPLsaQAXdKEe_TA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NXXGW7YK4ZBYNPO5RDFIY6RPDI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Congreso Mundial de Braford: “Paraguay se va a lucir por la calidad de animales”, señala Cartes",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/30/congreso-mundial-de-braford-paraguay-se-va-a-lucir-por-la-calidad-de-animales-senala-cartes",
+          "publishedAt": "2026-10-30T12:05:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OFpTtkAEKHFG1WoiRCcJXT9-5Wc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2A63M3UEXBHQPIKH5TDHAELPU4.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Violento choque frontal en Guairá deja tres fallecidos",
+          "url": "https://www.lanacion.com.py/pais/2026/10/30/violento-choque-frontal-en-guaira-deja-tres-fallecidos",
+          "publishedAt": "2026-10-30T11:59:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/oKynidHcgMlF34IcWP0v5P8Ja0M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LK6OGWCIPJBMRIJALS3L3N5FOA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La Policía desplegará fuerte operativo de seguridad para el superclásico del domingo",
+          "url": "https://www.lanacion.com.py/pais/2026/10/30/la-policia-desplegara-fuerte-operativo-de-seguridad-para-el-superclasico-del-domingo",
+          "publishedAt": "2026-10-30T10:25:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/um5pcXr-eSik0t_Mke-8Dyf0iQ8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PI2M3E5KNZAMVNZVYUPGGXTNZA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mi Chini se prepara para el Mundial Bradford 2028",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/30/mi-chini-se-prepara-para-el-mundial-bradford-2028",
+          "publishedAt": "2026-10-30T03:09:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fz5lGf4fB9QXN88-3MJu6GzBVA4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LY55PEYDCZCATCFTIT2JBHMMEQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mi Chini se prepara para mostrar su genética en el Mundial Braford 2028",
+          "url": "https://www.lanacion.com.py/negocios/2026/10/29/mi-chini-se-prepara-para-mostrar-su-genetica-en-el-mundial-braford-2028",
+          "publishedAt": "2026-10-29T22:24:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OFpTtkAEKHFG1WoiRCcJXT9-5Wc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2A63M3UEXBHQPIKH5TDHAELPU4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/LK6OGWCIPJBMRIJALS3L3N5FOA.jpg?auth=256ddf7808563bea4df7913ce507eafd5c6b9a61516f083935879c6b7ff76c78&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/10/30/otro-accidente-en-guaira-deja-tres-victimas-faltas-y-una-mujer-herida"
+      },
+      "firstSeenAt": "2026-10-30T08:07:16.958Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T02:16:18.442Z",
+      "updatedSlot": "tarde",
+      "score": 14.33
     },
     {
       "id": "ev-174qy9b",
@@ -464,7 +572,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 13.9
+      "score": 13.64
     },
     {
       "id": "ev-01avj30",
@@ -515,7 +623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 12.42
+      "score": 12.15
     },
     {
       "id": "ev-02qk7qp",
@@ -626,7 +734,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T16:07:12.469Z",
       "updatedSlot": "tarde",
-      "score": 11.34
+      "score": 11.08
     },
     {
       "id": "ev-162z2pv",
@@ -694,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.07
+      "score": 10.8
     },
     {
       "id": "ev-0bihw4a",
@@ -754,7 +862,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T12:07:19.022Z",
       "updatedSlot": "manana",
-      "score": 11.02
+      "score": 10.75
     },
     {
       "id": "ev-1fhjx80",
@@ -806,7 +914,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.06
     },
     {
       "id": "ev-0xgwpcq",
@@ -858,7 +966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.06
     },
     {
       "id": "ev-1o06oz8",
@@ -910,7 +1018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.06
     },
     {
       "id": "ev-0slz0mg",
@@ -953,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.06
     },
     {
       "id": "ev-15uvek7",
@@ -997,7 +1105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.06
     },
     {
       "id": "ev-0d08l3e",
@@ -1040,7 +1148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-0ylfuh0",
@@ -1129,58 +1237,6 @@
       "score": 8
     },
     {
-      "id": "ev-1fpv50m",
-      "title": "Estancia Mi Chini será sede del Mundial Braford Paraguay 2028",
-      "summary": "La Estancia Mi Chini fue elegida como uno de los establecimientos anfitriones del Mundial Braford Paraguay 2028. El expresidente Horacio Cartes recorrió las instalaciones. Cartes dijo que Paraguay se lucirá por la calidad de sus animales.",
-      "keyPoints": [
-        "La Estancia Mi Chini es uno de los anfitriones elegidos.",
-        "El evento es el Mundial Braford Paraguay 2028.",
-        "Horacio Cartes recorrió la estancia.",
-        "Cartes destacó la calidad de los animales paraguayos."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Congreso Mundial de Braford: “Paraguay se va a lucir por la calidad de animales”, señala Cartes",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/30/congreso-mundial-de-braford-paraguay-se-va-a-lucir-por-la-calidad-de-animales-senala-cartes",
-          "publishedAt": "2026-10-30T12:05:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/OFpTtkAEKHFG1WoiRCcJXT9-5Wc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2A63M3UEXBHQPIKH5TDHAELPU4.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mi Chini se prepara para el Mundial Bradford 2028",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/30/mi-chini-se-prepara-para-el-mundial-bradford-2028",
-          "publishedAt": "2026-10-30T03:09:49.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fz5lGf4fB9QXN88-3MJu6GzBVA4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LY55PEYDCZCATCFTIT2JBHMMEQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mi Chini se prepara para mostrar su genética en el Mundial Braford 2028",
-          "url": "https://www.lanacion.com.py/negocios/2026/10/29/mi-chini-se-prepara-para-mostrar-su-genetica-en-el-mundial-braford-2028",
-          "publishedAt": "2026-10-29T22:24:10.000Z",
-          "image": "https://www.lanacion.com.py/resizer/OFpTtkAEKHFG1WoiRCcJXT9-5Wc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2A63M3UEXBHQPIKH5TDHAELPU4.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2A63M3UEXBHQPIKH5TDHAELPU4.jpeg?auth=a21e297a9631d659a943470df46008b4893c75f6bfbd2e90ace0181ff61329e3&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/10/30/congreso-mundial-de-braford-paraguay-se-va-a-lucir-por-la-calidad-de-animales-senala-cartes"
-      },
-      "firstSeenAt": "2026-10-30T08:07:16.958Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-30T23:07:10.065Z",
-      "updatedSlot": "tarde",
-      "score": 7.08
-    },
-    {
       "id": "ev-0wqcrxu",
       "title": "Netanyahu gana elecciones en Israel, pero su bloque no logra mayoría",
       "summary": "Según el recuento final, la coalición de Netanyahu obtuvo 53 escaños, frente a 48 de la oposición y 19 de las dos listas árabes. La mayoría requiere 61 escaños. Yashar!, de Gadi Eisenkot, quedó segundo con 21 escaños. Un medio informa que Netanyahu acusó a partidos árabes, sin que las notas traigan la respuesta de esas formaciones.",
@@ -1222,7 +1278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 6.16
+      "score": 5.89
     },
     {
       "id": "ev-18ghx90",
@@ -1266,7 +1322,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.83
+      "score": 5.56
     },
     {
       "id": "ev-109ebbe",
@@ -1353,7 +1409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-119sm08",
@@ -1396,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-07bi4dv",
@@ -1440,7 +1496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-1rv1p3b",
@@ -1483,7 +1539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-1qfw5cp",
@@ -1526,7 +1582,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.06
     },
     {
       "id": "ev-1g17yrl",
@@ -1555,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1f403pz",
@@ -1585,7 +1641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-0ejfefo",
@@ -1615,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1n1270f",
@@ -1644,7 +1700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-068kxon",
@@ -1675,7 +1731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.39
     },
     {
       "id": "ev-1i4irir",
@@ -1706,7 +1762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.14
     },
     {
       "id": "ev-1qxm5wn",
@@ -1741,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.14
     },
     {
       "id": "ev-19po230",
@@ -1776,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 4.03
+      "score": 4
     },
     {
       "id": "ev-1fxuteq",
@@ -1951,7 +2007,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.19
+      "score": 2.93
     },
     {
       "id": "ev-0cv6dms",
@@ -1990,7 +2046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 3.08
+      "score": 2.82
     },
     {
       "id": "ev-1tppwou",
@@ -2034,7 +2090,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.83
+      "score": 2.56
     },
     {
       "id": "ev-1x1u15m",
@@ -2077,7 +2133,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.56
     },
     {
       "id": "ev-0xuip5f",
@@ -2108,7 +2164,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.97
     },
     {
       "id": "ev-0eqpt25",
@@ -2139,7 +2195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.97
     },
     {
       "id": "ev-1ruazie",
@@ -2170,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 2.07
+      "score": 1.8
     },
     {
       "id": "ev-0hacmb6",
@@ -2201,7 +2257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 1.95
+      "score": 1.69
     },
     {
       "id": "ev-0ajrotd",
@@ -2232,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 1.89
+      "score": 1.63
     },
     {
       "id": "ev-0ubazs7",
@@ -2263,7 +2319,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-30T08:07:16.958Z",
       "updatedSlot": "manana",
-      "score": 1.89
+      "score": 1.62
     },
     {
       "id": "ev-10kh2b0",
@@ -2336,6 +2392,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-31T02:16:18.442Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 14
     }
   ]
 }
