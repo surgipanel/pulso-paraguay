@@ -1,11 +1,95 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T16:07:13.500Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-10-31T19:37:11.720Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1n4prbf",
+      "title": "Essap inicia obras de planta de agua potable para el Bañado Sur",
+      "summary": "La Essap comenzó las obras de una planta de tratamiento de agua potable en el Bañado Sur de Asunción. Según la empresa, la planta producirá seis millones de litros diarios y beneficiará a unas 30.000 personas, aunque otra nota habla de 5.000 familias. La inversión sería de unos USD 1 millón, según Última Hora. El proyecto incluye unos 3.580 metros de tuberías para reforzar la red de distribución.",
+      "keyPoints": [
+        "La planta producirá seis millones de litros diarios, según la Essap.",
+        "Incluye unos 3.580 metros de tuberías para la red de distribución.",
+        "La inversión aproximada sería de USD 1 millón, según Última Hora.",
+        "La obra se ubicará cerca del nuevo Barrio Tacumbú, con acceso desde la Costanera Sur."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Essap inicia obras para primera planta de tratamiento en el Bañado Sur",
+          "url": "https://www.adndigital.com.py/essap-inicia-obras-para-primera-planta-de-tratamiento-en-el-banado-sur",
+          "publishedAt": "2026-10-31T19:09:24.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "ESSAP anuncia nueva planta de agua potable para beneficiar a 30.000 personas del Bañado Sur",
+          "url": "https://www.npy.com.py/noticias/essap-anuncia-nueva-planta-de-agua-potable-para-beneficiar-a-30-000-personas-del-banado-sur",
+          "publishedAt": "2026-10-31T18:44:58.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Anuncian construcción de planta de agua potable en el Bañado Sur",
+          "url": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur",
+          "publishedAt": "2026-10-31T17:43:12.000Z",
+          "image": "https://www.abc.com.py/resizer/A8PsIIxAsDvIV_1v20OjLnaMA7k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EVQB5S27TVB33JKBNCRWUOUWFI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Asunción: Arrancan las obras de una nueva planta de agua potable del Bañado Sur",
+          "url": "https://www.ultimahora.com/asuncion-arrancan-las-obras-de-una-nueva-planta-de-agua-potable-del-banado-sur",
+          "publishedAt": "2026-10-31T16:01:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña anunció obras para viviendas de 2.000 familias en el nuevo barrio Bañado Tacumbú",
+          "url": "https://elnacional.com.py/nacionales/pena-anuncio-obras-viviendas-2000-familias-nuevo-barrio-banado-tacumbu-n114450",
+          "publishedAt": "2026-10-31T10:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae5107673b23.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza construcción del nuevo barrio Bañado Tacumbú",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/avanza-construccion-del-nuevo-barrio-banado-tacumbu",
+          "publishedAt": "2026-10-31T03:21:28.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ATvatc4zjzJuUUdKD2IfU-vxOTs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2MYQEHU7RBWHMYVVXT62ZCOUI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza la construcción del nuevo barrio Bañado Tacumbú que beneficiará a 2.500 familias",
+          "url": "https://www.lanacion.com.py/politica/2026/10/30/avanza-la-construccion-del-nuevo-barrio-banado-tacumbu-que-beneficiara-a-2500-familias",
+          "publishedAt": "2026-10-30T17:46:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wZ19mNoNiYmRvL3ZyPu9kExm8Ss=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ISMECQJN65EVVHHEVOTNOLG4O4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/EVQB5S27TVB33JKBNCRWUOUWFI.jpg?auth=bc65730a75a4756df57391f7e8a59db52d787eb40f105e3a001073f99e7fff51&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T19:37:11.720Z",
+      "updatedSlot": "tarde",
+      "score": 23.96
+    },
     {
       "id": "ev-1cukvyn",
       "title": "Imputan a un supuesto entrenador por captar adolescentes con falsas ofertas de fútbol",
@@ -80,7 +164,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 20.99
+      "score": 20.7
     },
     {
       "id": "ev-0ryq7s0",
@@ -147,7 +231,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 20.6
+      "score": 20.31
     },
     {
       "id": "ev-1qcp9or",
@@ -222,7 +306,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 18
+      "score": 17.71
+    },
+    {
+      "id": "ev-09sr6l3",
+      "title": "Gobierno oficializa inicio de obras del Hospital General de Asunción",
+      "summary": "El Gobierno inició las obras del nuevo Hospital General de Asunción, que se construirá en el barrio Sajonia. La obra tiene una inversión de USD 62 millones y fue adjudicada al Consorcio GHA. El presidente Santiago Peña destacó la cooperación del gobierno de Taiwán, que brinda respaldo financiero. El hospital tendrá 334 camas, 67 consultorios y 12 quirófanos.",
+      "keyPoints": [
+        "La inversión total es de USD 62 millones.",
+        "La obra fue adjudicada al Consorcio GHA.",
+        "El hospital tendrá 334 camas, incluidas 88 de terapia intensiva.",
+        "El proyecto cuenta con respaldo financiero del Gobierno de Taiwán."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña destaca obra hospitalaria que busca cambiar la atención en Asunción",
+          "url": "https://www.adndigital.com.py/pena-destaca-obra-hospitalaria-que-busca-cambiar-la-atencion-en-asuncion",
+          "publishedAt": "2026-10-31T17:04:19.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/hospital-general-de-asuncion-en-la-costanera-sur.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña destaca cooperación del gobierno taiwanés para la obra del Hospital General de Asunción",
+          "url": "https://www.lanacion.com.py/politica/2026/10/31/pena-destaca-cooperacion-del-gobierno-taiwanes-para-la-obra-del-hospital-general-de-asuncion",
+          "publishedAt": "2026-10-31T13:13:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3V4kf5mBKVYy1cv-BLGOpBTsSa0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gobierno inicia obras del futuro Hospital General de Asunción",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/gobierno-inicia-obras-del-futuro-hospital-general-de-asuncion",
+          "publishedAt": "2026-10-31T06:08:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1oKq9mKEuVfDYE-COTTUgogTRSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4IUM6YYDG5EW7O4UJ47WM7BYX4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Gobierno oficializa el inicio de obras del futuro Hospital General de Asunción",
+          "url": "https://elnacional.com.py/economia/gobierno-oficializa-inicio-obras-futuro-hospital-general-asuncion-n114429",
+          "publishedAt": "2026-10-30T19:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae4a1195660c.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/hospital-general-de-asuncion-en-la-costanera-sur.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/pena-destaca-obra-hospitalaria-que-busca-cambiar-la-atencion-en-asuncion"
+      },
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T19:37:11.720Z",
+      "updatedSlot": "tarde",
+      "score": 14.79
     },
     {
       "id": "ev-0qmhsed",
@@ -274,59 +418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 12.3
-    },
-    {
-      "id": "ev-09sr6l3",
-      "title": "Comienzan las obras del nuevo Hospital General de Asunción, con 334 camas",
-      "summary": "El Gobierno oficializó el inicio de las obras del futuro Hospital General de Asunción, en el barrio Sajonia. La construcción fue adjudicada al Consorcio GHA y demandará una inversión total de USD 62 millones. El presidente Santiago Peña destacó la cooperación del gobierno de Taiwán. El establecimiento contará con 88 camas de terapia intensiva y 12 quirófanos.",
-      "keyPoints": [
-        "La obra fue adjudicada al Consorcio GHA.",
-        "La inversión total prevista es de USD 62 millones.",
-        "El hospital tendrá 334 camas, incluidas 88 de terapia intensiva.",
-        "Peña destacó la cooperación del gobierno de Taiwán."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña destaca cooperación del gobierno taiwanés para la obra del Hospital General de Asunción",
-          "url": "https://www.lanacion.com.py/politica/2026/10/31/pena-destaca-cooperacion-del-gobierno-taiwanes-para-la-obra-del-hospital-general-de-asuncion",
-          "publishedAt": "2026-10-31T13:13:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/3V4kf5mBKVYy1cv-BLGOpBTsSa0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gobierno inicia obras del futuro Hospital General de Asunción",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/gobierno-inicia-obras-del-futuro-hospital-general-de-asuncion",
-          "publishedAt": "2026-10-31T06:08:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1oKq9mKEuVfDYE-COTTUgogTRSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4IUM6YYDG5EW7O4UJ47WM7BYX4.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Gobierno oficializa el inicio de obras del futuro Hospital General de Asunción",
-          "url": "https://elnacional.com.py/economia/gobierno-oficializa-inicio-obras-futuro-hospital-general-asuncion-n114429",
-          "publishedAt": "2026-10-30T19:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae4a1195660c.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif?auth=8c9dceba045c130365e5d5fc5c8d0b626bb59fd6fadb3f55fec47db35135b373&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/10/31/pena-destaca-cooperacion-del-gobierno-taiwanes-para-la-obra-del-hospital-general-de-asuncion"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T16:07:13.500Z",
-      "updatedSlot": "tarde",
-      "score": 10.76
+      "score": 12
     },
     {
       "id": "ev-1d9xs95",
@@ -377,59 +469,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 10.65
-    },
-    {
-      "id": "ev-1n4prbf",
-      "title": "Peña recorre obras del nuevo barrio Bañado Tacumbú para 2.500 familias",
-      "summary": "El presidente Santiago Peña recorrió junto a la ministra de Obras Públicas, Claudia Centurión, las obras del nuevo barrio Bañado Tacumbú, en Asunción. La infraestructura tiene un 75% de avance. El proyecto busca reubicar a familias en un barrio planificado, con viviendas para unas 2.500 familias según una nota y unas 10.000 personas según otra.",
-      "keyPoints": [
-        "El presidente Santiago Peña recorrió las obras junto a la ministra Claudia Centurión.",
-        "La infraestructura registra un 75% de avance.",
-        "El proyecto está en Asunción y reubicará familias del Bañado Tacumbú.",
-        "Las cifras de beneficiarios varían según los medios consultados."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña anunció obras para viviendas de 2.000 familias en el nuevo barrio Bañado Tacumbú",
-          "url": "https://elnacional.com.py/nacionales/pena-anuncio-obras-viviendas-2000-familias-nuevo-barrio-banado-tacumbu-n114450",
-          "publishedAt": "2026-10-31T10:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae5107673b23.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza construcción del nuevo barrio Bañado Tacumbú",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/31/avanza-construccion-del-nuevo-barrio-banado-tacumbu",
-          "publishedAt": "2026-10-31T03:21:28.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ATvatc4zjzJuUUdKD2IfU-vxOTs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2MYQEHU7RBWHMYVVXT62ZCOUI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza la construcción del nuevo barrio Bañado Tacumbú que beneficiará a 2.500 familias",
-          "url": "https://www.lanacion.com.py/politica/2026/10/30/avanza-la-construccion-del-nuevo-barrio-banado-tacumbu-que-beneficiara-a-2500-familias",
-          "publishedAt": "2026-10-30T17:46:08.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wZ19mNoNiYmRvL3ZyPu9kExm8Ss=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ISMECQJN65EVVHHEVOTNOLG4O4.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae5107673b23.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/pena-anuncio-obras-viviendas-2000-familias-nuevo-barrio-banado-tacumbu-n114450"
-      },
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T12:07:13.960Z",
-      "updatedSlot": "manana",
-      "score": 10.53
+      "score": 10.36
     },
     {
       "id": "ev-1q5gy9u",
@@ -481,7 +521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.96
+      "score": 9.67
     },
     {
       "id": "ev-12m4o89",
@@ -525,7 +565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 9.94
+      "score": 9.65
     },
     {
       "id": "ev-048m5cg",
@@ -577,7 +617,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0hr59h3",
@@ -620,7 +660,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.76
     },
     {
       "id": "ev-08d4bhm",
@@ -662,7 +702,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.67
     },
     {
       "id": "ev-19gbck1",
@@ -705,7 +745,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.66
+      "score": 8.37
     },
     {
       "id": "ev-0zt5e65",
@@ -744,7 +784,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.24
     },
     {
       "id": "ev-0corxhf",
@@ -787,7 +827,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.23
     },
     {
       "id": "ev-0r0a5o5",
@@ -831,7 +871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-19zf48p",
@@ -875,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.38
+      "score": 8.09
     },
     {
       "id": "ev-0z5xe2g",
@@ -918,7 +958,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-0vxn17g",
@@ -962,7 +1002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.19
+      "score": 8
     },
     {
       "id": "ev-0p5qfi0",
@@ -1005,7 +1045,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-1cbclof",
@@ -1043,7 +1083,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.95
     },
     {
       "id": "ev-1kibev8",
@@ -1085,7 +1125,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-1ak2927",
@@ -1129,7 +1169,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.65
     },
     {
       "id": "ev-16c7dt4",
@@ -1172,7 +1212,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.63
     },
     {
       "id": "ev-0vqkjoc",
@@ -1215,7 +1255,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0qt0d8o",
@@ -1258,7 +1298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0ucnvnn",
@@ -1301,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0myvxq8",
@@ -1344,7 +1384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.18
     },
     {
       "id": "ev-1n6df6a",
@@ -1374,7 +1414,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-00zkd8w",
@@ -1404,7 +1444,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1g7jwxz",
@@ -1434,7 +1474,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0alx5v7",
@@ -1464,7 +1504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ywvt3a",
@@ -1493,7 +1533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0vwgce8",
@@ -1525,7 +1565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1avtlzm",
@@ -1556,7 +1596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ry9s6w",
@@ -1585,7 +1625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-10as4aq",
@@ -1618,7 +1658,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.18
+      "score": 4.89
     },
     {
       "id": "ev-10ymwth",
@@ -1653,7 +1693,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.86
     },
     {
       "id": "ev-00ox1p8",
@@ -1687,7 +1727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.86
     },
     {
       "id": "ev-18bgbs7",
@@ -1722,7 +1762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.14
+      "score": 4.85
     },
     {
       "id": "ev-0bf06v7",
@@ -1757,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.81
     },
     {
       "id": "ev-0qwqx6m",
@@ -1792,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.8
     },
     {
       "id": "ev-1ycz6yn",
@@ -1826,7 +1866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.77
     },
     {
       "id": "ev-1dpd4zr",
@@ -1861,7 +1901,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1i7xe2y",
@@ -1894,7 +1934,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0s1xbtq",
@@ -1942,7 +1982,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.82
+      "score": 4.53
     },
     {
       "id": "ev-1iunfbk",
@@ -1973,7 +2013,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-0pt1lsd",
@@ -2004,7 +2044,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-16rtnjw",
@@ -2035,7 +2075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     },
     {
       "id": "ev-00n0hw5",
@@ -2066,7 +2106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.53
     }
   ],
   "runs": [
@@ -2090,6 +2130,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 13
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-10-31T19:37:11.720Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 17
     }
   ]
 }
