@@ -1,20 +1,20 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-01T12:07:11.091Z",
+  "generatedAt": "2026-11-01T16:07:13.054Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yzsfh3",
-      "title": "Alerta por tormentas, granizos y vientos de hasta 90 km/h hasta el lunes 2",
-      "summary": "La Dirección de Meteorología e Hidrología advirtió sobre un sistema de tormentas que afectará a gran parte del país desde el domingo 1 hasta el lunes 2 de noviembre. Se esperan lluvias intensas, descargas eléctricas, ráfagas de hasta 90 km/h y posible caída de granizos. Algunas zonas podrían registrar acumulados de hasta 90 milímetros de lluvia.",
+      "title": "Meteorología alerta por tormentas fuertes, granizo y vientos de hasta 90 km/h",
+      "summary": "La Dirección de Meteorología e Hidrología emitió una alerta por tormentas que afectarán a gran parte del país entre el domingo 1 y el lunes 2 de noviembre. Se esperan lluvias de variada intensidad, ráfagas de viento fuertes y caída ocasional de granizo en algunas zonas. Un reporte indica que la alerta se concentra en el centro de la Región Occidental, aunque podría llegar a Asunción durante la tarde.",
       "keyPoints": [
-        "La DMH emitió un aviso especial por el sistema de tormentas.",
+        "La alerta vale para el domingo 1 y el lunes 2 de noviembre.",
         "Se esperan ráfagas de viento de hasta 90 km/h.",
-        "Hay probabilidad de caída de granizos en varias zonas.",
-        "Los acumulados de lluvia podrían alcanzar 90 milímetros."
+        "Podría caer granizo de forma puntual en algunas zonas.",
+        "La alerta se concentra en el centro de la Región Occidental."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Emiten alerta por severas tormentas con ráfagas de viento y probable granizo",
+          "url": "https://www.abc.com.py/clima/2026/11/01/emiten-alerta-por-severas-tormentas-con-rafagas-de-viento-y-probable-granizo",
+          "publishedAt": "2026-11-01T13:43:51.000Z",
+          "image": "https://www.abc.com.py/resizer/ymFm2xTO1cnpRdkTLX6cWIRR3R4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EPDWTVCJBZEDTCYERK3U743YVY.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -96,24 +104,25 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/meteoro-819x1024.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/temporal-avanzara-sobre-el-pais-con-lluvias-intensas-fuertes-vientos-y-granizadas"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S2NXA3PKFFEULLLJSPC7JSF4RQ.jpg?auth=21f081d515f0f1e9804b6737e0f619921ae4e2d72542d126f46c1294a39ef2bd&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/01/meteorologia-advierte-sobre-lluvias-y-severas-tormentas-electricas-en-varios-puntos-del-pais"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T12:07:11.091Z",
-      "updatedSlot": "manana",
-      "score": 23.95
+      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedSlot": "tarde",
+      "score": 23.8
     },
     {
       "id": "ev-0qlisc5",
-      "title": "Migue Zaldívar pasa al frente del Rally del Chaco en la Etapa 3",
-      "summary": "Migue Zaldívar encabeza la clasificación del Rally del Chaco 2026 tras la PE18 de la Etapa 3, según la cobertura en vivo de ABC Color. Gustavo Saba completó esa especial en 12 minutos y 32,7 segundos. Zaldívar largó después la PE19, la tercera especial de la etapa.",
+      "title": "Alejandro Galanti volcó en la PE18 y abandonó el Rally del Chaco",
+      "summary": "Alejandro Galanti y Marcelo Toyotoshi abandonaron el Rally del Chaco 2026 en la Etapa 3, tras volcar en la PE18 sobre la Ruta Transchaco-Picada Histórica. El piloto, el más ganador de la competencia, perdía así la chance de ganar por séptima vez. Minutos antes, Gustavo Saba también volcó en el mismo tramo, según ABC Color. Galanti había comenzado el día como líder de la clasificación general.",
       "keyPoints": [
-        "Zaldívar aparece primero en la clasificación tras la PE18.",
-        "Gustavo Saba terminó la PE18 en 12 minutos y 32,7 segundos.",
-        "Zaldívar largó la PE19, la tercera especial de la Etapa 3."
+        "Galanti y Toyotoshi abandonaron en la PE18 de la Etapa 3.",
+        "El Toyota de Galanti volcó en la Ruta Transchaco-Picada Histórica.",
+        "Gustavo Saba volcó minutos después en el mismo lugar.",
+        "Galanti comenzaba el día como líder de la clasificación general."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -121,6 +130,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ale Galanti volcó en la PE18 y abandonó el Rally del Chaco",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/alejandro-galanti-volco-en-la-pe18-y-abandono-del-rally-del-chaco",
+          "publishedAt": "2026-11-01T13:39:42.000Z",
+          "image": "https://www.abc.com.py/resizer/0SkMS0AxbLr2KDMtAgfFJLa4Nu8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5PBWIXCLY5EGJGW47FSTHWA6HY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“Mierda”: así volcó Gustavo Saba cerca del auto de Galanti",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/mierda-asi-volco-gustavo-saba-cerca-del-auto-de-galanti",
+          "publishedAt": "2026-11-01T13:38:44.000Z",
+          "image": "https://www.abc.com.py/resizer/bztNR6PCkOIx9SmIpQvGD1rSaTA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LSQUIPWTQNBINDRGNKMH36M6UI.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -163,15 +188,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VXURP7I2KVCWFJWDALTPJLIECQ.jpeg?auth=cb520bd42aaa0409341808cba329e0f8a7d7117b04e7ea7d00daf408dc890fae&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5PBWIXCLY5EGJGW47FSTHWA6HY.jpeg?auth=9b7b6a4128b3b80ca348008b50ceeadc36bf955d83fd99f2f8cd407f997c3474&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/rally-del-chaco-2026-en-vivo-comienza-la-decisiva-etapa-3"
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/alejandro-galanti-volco-en-la-pe18-y-abandono-del-rally-del-chaco"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T12:07:11.091Z",
-      "updatedSlot": "manana",
-      "score": 14.99
+      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedSlot": "tarde",
+      "score": 14.8
     },
     {
       "id": "ev-0ndxm8d",
@@ -231,7 +256,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 14.25
+      "score": 13.92
     },
     {
       "id": "ev-15ufxm6",
@@ -291,7 +316,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
     },
     {
       "id": "ev-0ban3ch",
@@ -342,58 +367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 13.97
-    },
-    {
-      "id": "ev-1t0ta9c",
-      "title": "Obras cierran media calzada de la Silvio Pettirossi el domingo hasta las 12:00",
-      "summary": "Los conductores que vayan de Luque hacia Asunción deberán circular por media calzada este domingo en la autopista Silvio Pettirossi. La restricción es en un tramo de unos 200 metros cerca del parque Ñu Guasu y rige de 6:00 a 12:00. La medida se debe al retiro de un pórtico, dispuesto por el Ministerio de Obras. Quienes circulan en sentido contrario no se ven afectados.",
-      "keyPoints": [
-        "La restricción rige de 6:00 a 12:00 del domingo 1 de noviembre.",
-        "Afecta solo a quienes se dirigen de Luque hacia Asunción.",
-        "La intervención se debe al retiro de un pórtico en la zona."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-11-01T15:00:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Retiro de pórtico obliga a circular por media calzada en la autopista Silvio Pettirossi",
-          "url": "https://www.adndigital.com.py/retiro-de-portico-obliga-a-circular-por-media-calzada-en-la-autopista-silvio-pettirossi",
-          "publishedAt": "2026-11-01T11:16:21.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Realizarán este domingo cierre de media calzada de la autopista Silvio Pettirossi por obras",
-          "url": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras",
-          "publishedAt": "2026-10-31T16:11:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_dHqggJW7hB_ACjzJoPqsURUJxg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Este domingo habrá paso a media calzada hacia Asunción por obras en la autopista Silvio Pettirossi",
-          "url": "https://elnacional.com.py/nacionales/este-domingo-habra-paso-media-calzada-asuncion-obras-autopista-silvio-pettirossi-n114420",
-          "publishedAt": "2026-10-31T13:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae492b0b7cf3.webp"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg?auth=04c8dc7fa2f9d7dd787908bcb0a528fedc3305eb5ef28b8c3c82ecb5531a9168&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T12:07:11.091Z",
-      "updatedSlot": "manana",
-      "score": 13.93
+      "score": 13.63
     },
     {
       "id": "ev-0acvcni",
@@ -445,7 +419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 12.83
+      "score": 12.5
     },
     {
       "id": "ev-1swzfpk",
@@ -497,7 +471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-00yeorm",
@@ -549,7 +523,51 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
+    },
+    {
+      "id": "ev-1et4anq",
+      "title": "Compol reúne en Asunción a expertos internacionales en comunicación política",
+      "summary": "El congreso internacional Compol sobre comunicación política se realizará el lunes 2 de noviembre en la Biblioteca y Archivo Central del Congreso Nacional. Entre los disertantes estará Celso Lamounier, consultor que colaboró en la campaña electoral de Lula da Silva en Brasil. El encuentro reúne además a especialistas de seis países.",
+      "keyPoints": [
+        "El encuentro es el lunes 2 de noviembre en el Congreso Nacional.",
+        "Celso Lamounier colaboró en la campaña electoral de Lula da Silva.",
+        "Participan especialistas de seis países.",
+        "La actividad se realizará en la Biblioteca y Archivo Central del Congreso."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Encuentro sobre comunicación política llega a Paraguay con expertos internacionales",
+          "url": "https://www.ultimahora.com/encuentro-sobre-comunicacion-politica-llega-a-paraguay-con-expertos-internacionales",
+          "publishedAt": "2026-11-01T14:12:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Compol desembarca en Paraguay con expertos internacionales y estrategas de Lula",
+          "url": "https://elnacional.com.py/politica/compol-desembarca-paraguay-expertos-internacionales-estrategas-lula-n114405",
+          "publishedAt": "2026-10-31T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae47bbb1234d.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae47bbb1234d.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/compol-desembarca-paraguay-expertos-internacionales-estrategas-lula-n114405"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedSlot": "tarde",
+      "score": 9.84
     },
     {
       "id": "ev-0s2qqno",
@@ -593,7 +611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.11
+      "score": 8.77
     },
     {
       "id": "ev-0bbfmmp",
@@ -637,7 +655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.92
+      "score": 8.59
     },
     {
       "id": "ev-0ypkhgd",
@@ -681,7 +699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.57
     },
     {
       "id": "ev-169qfji",
@@ -724,7 +742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.18
     },
     {
       "id": "ev-03mr3h9",
@@ -768,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.19
+      "score": 8
     },
     {
       "id": "ev-1nl83ep",
@@ -812,7 +830,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.11
+      "score": 8
+    },
+    {
+      "id": "ev-1t0ta9c",
+      "title": "Obras cierran media calzada de la Silvio Pettirossi el domingo hasta las 12:00",
+      "summary": "Los conductores que vayan de Luque hacia Asunción deberán circular por media calzada este domingo en la autopista Silvio Pettirossi. La restricción es en un tramo de unos 200 metros cerca del parque Ñu Guasu y rige de 6:00 a 12:00. La medida se debe al retiro de un pórtico, dispuesto por el Ministerio de Obras. Quienes circulan en sentido contrario no se ven afectados.",
+      "keyPoints": [
+        "La restricción rige de 6:00 a 12:00 del domingo 1 de noviembre.",
+        "Afecta solo a quienes se dirigen de Luque hacia Asunción.",
+        "La intervención se debe al retiro de un pórtico en la zona."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-11-01T15:00:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Retiro de pórtico obliga a circular por media calzada en la autopista Silvio Pettirossi",
+          "url": "https://www.adndigital.com.py/retiro-de-portico-obliga-a-circular-por-media-calzada-en-la-autopista-silvio-pettirossi",
+          "publishedAt": "2026-11-01T11:16:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Realizarán este domingo cierre de media calzada de la autopista Silvio Pettirossi por obras",
+          "url": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras",
+          "publishedAt": "2026-10-31T16:11:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_dHqggJW7hB_ACjzJoPqsURUJxg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Este domingo habrá paso a media calzada hacia Asunción por obras en la autopista Silvio Pettirossi",
+          "url": "https://elnacional.com.py/nacionales/este-domingo-habra-paso-media-calzada-asuncion-obras-autopista-silvio-pettirossi-n114420",
+          "publishedAt": "2026-10-31T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae492b0b7cf3.webp"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg?auth=04c8dc7fa2f9d7dd787908bcb0a528fedc3305eb5ef28b8c3c82ecb5531a9168&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
+      "updatedSlot": "manana",
+      "score": 7.6
     },
     {
       "id": "ev-0n9p216",
@@ -864,7 +933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 7.32
+      "score": 6.99
     },
     {
       "id": "ev-17vwhbd",
@@ -907,7 +976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0nknkfl",
@@ -950,7 +1019,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0bh8rhl",
@@ -993,7 +1062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1icblht",
@@ -1036,7 +1105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0ao6hsp",
@@ -1079,7 +1148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-056hvyk",
@@ -1122,7 +1191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1xvz5mv",
@@ -1165,7 +1234,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0zqorlu",
@@ -1209,7 +1278,48 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
+    },
+    {
+      "id": "ev-1yo92y2",
+      "title": "Lanzan Portal ASU, que permite gestión digital",
+      "summary": "La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias. La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias.",
+      "keyPoints": [
+        "La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lanzan Portal ASU, que permite gestión digital",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital",
+          "publishedAt": "2026-11-01T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NSeON7C5Cr9h0x117ZSqadgPXZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Jornada literaria por la protección infantil",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/jornada-literaria-por-la-proteccion-infantil",
+          "publishedAt": "2026-11-01T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4VM498doE6vCAcSBt6ACFx8Bq8s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IDU3EJTMXRF53JE2DGSQSPBKKA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg?auth=e8b4b4f1510bfad3bb7a16036dfac0c5da8dbc569a8623a9b35bb11c870a1c3f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedSlot": "tarde",
+      "score": 5.91
     },
     {
       "id": "ev-04c8g9u",
@@ -1253,7 +1363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.05
+      "score": 5.72
     },
     {
       "id": "ev-0f7hgu5",
@@ -1296,7 +1406,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.3
     },
     {
       "id": "ev-021exol",
@@ -1328,7 +1438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0owg8ii",
@@ -1379,7 +1489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 5.49
+      "score": 5.15
     },
     {
       "id": "ev-0dhd7es",
@@ -1413,7 +1523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.11
     },
     {
       "id": "ev-1lphvcq",
@@ -1448,7 +1558,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1e17chk",
@@ -1483,7 +1593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1lb5p3n",
@@ -1512,7 +1622,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1oug9qt",
@@ -1547,7 +1657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0kec48c",
@@ -1582,7 +1692,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0urjiqh",
@@ -1613,7 +1723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0lz2by7",
@@ -1648,7 +1758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0nufxmr",
@@ -1683,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0dtc0cv",
@@ -1714,78 +1824,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.32
-    },
-    {
-      "id": "ev-1yo92y2",
-      "title": "Municipalidad lanza Portal ASU para gestionar servicios desde el celular",
-      "summary": "La Municipalidad lanzó el Portal ASU, una plataforma digital que permite gestionar servicios municipales desde el teléfono celular. Según la nota, también sirve para presentar denuncias. La herramienta busca que los vecinos hagan trámites sin ir a las oficinas municipales.",
-      "keyPoints": [
-        "La plataforma funciona desde el teléfono celular.",
-        "Permite gestionar servicios municipales.",
-        "También sirve para hacer denuncias."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lanzan Portal ASU, que permite gestión digital",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital",
-          "publishedAt": "2026-11-01T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NSeON7C5Cr9h0x117ZSqadgPXZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg?auth=e8b4b4f1510bfad3bb7a16036dfac0c5da8dbc569a8623a9b35bb11c870a1c3f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-1et4anq",
-      "title": "Compol reunirá en el Congreso a estrategas de Lula y expertos internacionales",
-      "summary": "Compol realizará un encuentro el 2 de noviembre en la Biblioteca y Archivo Central del Congreso Nacional, en Asunción. Entre los disertantes estará Celso Lamounier, consultor que colaboró en la campaña de Luiz Inácio Lula da Silva. También participarán especialistas de seis países.",
-      "keyPoints": [
-        "El encuentro será el 2 de noviembre en Asunción.",
-        "Participará Celso Lamounier, que colaboró en la campaña de Lula.",
-        "Habrá especialistas de seis países.",
-        "Se realizará en la Biblioteca del Congreso Nacional."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Compol desembarca en Paraguay con expertos internacionales y estrategas de Lula",
-          "url": "https://elnacional.com.py/politica/compol-desembarca-paraguay-expertos-internacionales-estrategas-lula-n114405",
-          "publishedAt": "2026-10-31T21:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae47bbb1234d.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae47bbb1234d.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/compol-desembarca-paraguay-expertos-internacionales-estrategas-lula-n114405"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.99
     },
     {
       "id": "ev-1uvlr2e",
@@ -1819,7 +1858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.15
     },
     {
       "id": "ev-0cr03xe",
@@ -1854,7 +1893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.28
+      "score": 4
     },
     {
       "id": "ev-1udpcit",
@@ -1898,7 +1937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-08smyk9",
@@ -1929,7 +1968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-0x3qhn6",
@@ -1960,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.06
+      "score": 2.73
     },
     {
       "id": "ev-0b82ytd",
@@ -1991,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.02
+      "score": 2.68
     },
     {
       "id": "ev-1sb572v",
@@ -2023,7 +2062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3
+      "score": 2.66
     },
     {
       "id": "ev-12jerc9",
@@ -2054,7 +2093,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.94
+      "score": 2.61
     },
     {
       "id": "ev-1y49t1h",
@@ -2086,7 +2125,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.55
     },
     {
       "id": "ev-1hjccys",
@@ -2121,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.41
     }
   ],
   "runs": [
@@ -2138,6 +2177,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-01T16:07:13.054Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 16
     }
   ]
 }
