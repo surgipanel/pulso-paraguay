@@ -1,20 +1,20 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-01T16:07:13.054Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-01T19:37:15.118Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yzsfh3",
-      "title": "Meteorología alerta por tormentas fuertes, granizo y vientos de hasta 90 km/h",
-      "summary": "La Dirección de Meteorología e Hidrología emitió una alerta por tormentas que afectarán a gran parte del país entre el domingo 1 y el lunes 2 de noviembre. Se esperan lluvias de variada intensidad, ráfagas de viento fuertes y caída ocasional de granizo en algunas zonas. Un reporte indica que la alerta se concentra en el centro de la Región Occidental, aunque podría llegar a Asunción durante la tarde.",
+      "title": "Meteorología emite alerta por tormentas fuertes en gran parte del país",
+      "summary": "La Dirección de Meteorología e Hidrología emitió una alerta por tormentas que afectarán a gran parte del país entre el domingo 1 y el lunes 2 de noviembre. Se esperan lluvias intensas, vientos moderados a fuertes y la posible caída de granizos, sobre todo en el centro y norte de la Región Oriental y el sur de la Occidental. Según Última Hora, la alerta incluye Asunción y el departamento Central.",
       "keyPoints": [
-        "La alerta vale para el domingo 1 y el lunes 2 de noviembre.",
-        "Se esperan ráfagas de viento de hasta 90 km/h.",
-        "Podría caer granizo de forma puntual en algunas zonas.",
-        "La alerta se concentra en el centro de la Región Occidental."
+        "La alerta abarca el domingo 1 y el lunes 2 de noviembre.",
+        "Se prevén lluvias intensas y vientos moderados a fuertes.",
+        "Existe posibilidad de caída de granizos en algunas zonas.",
+        "Asunción y el departamento Central están incluidos en la alerta."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Actualizan alerta por tormentas: ahora son 12 los departamentos afectados para esta tarde",
+          "url": "https://www.abc.com.py/clima/2026/11/01/actualizan-alerta-por-tormentas-ahora-son-12-los-departamentos-afectados-para-esta-tarde",
+          "publishedAt": "2026-11-01T18:46:47.000Z",
+          "image": "https://www.abc.com.py/resizer/FKvaup_FL7FGwCvkL6n5cDRp7HE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6U23T2QY4ZFIPOUUKQNKV55ZFU.png"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Asunción, Central y otros departamentos bajo alerta de tiempo severo",
+          "url": "https://www.ultimahora.com/asuncion-central-y-otros-departamentos-bajo-alerta-de-tiempo-severo",
+          "publishedAt": "2026-11-01T16:59:32.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta meteorológica se extiende a seis departamentos",
+          "url": "https://www.abc.com.py/clima/2026/11/01/alerta-meteorologica-anuncian-tormentas-fuertes-para-tres-departamentos",
+          "publishedAt": "2026-11-01T16:28:03.000Z",
+          "image": "https://www.abc.com.py/resizer/VrxwczdOto-xFOimSXvu1HNPfQQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IDELJRSVXRCOPOAZAQDDKMACKY.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -104,25 +128,25 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S2NXA3PKFFEULLLJSPC7JSF4RQ.jpg?auth=21f081d515f0f1e9804b6737e0f619921ae4e2d72542d126f46c1294a39ef2bd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/01/meteorologia-advierte-sobre-lluvias-y-severas-tormentas-electricas-en-varios-puntos-del-pais"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6U23T2QY4ZFIPOUUKQNKV55ZFU.png?auth=33d5fe772b23df490c96ec630dd065be87f3924cf4d1f1e9e0393221fae49b43&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/11/01/actualizan-alerta-por-tormentas-ahora-son-12-los-departamentos-afectados-para-esta-tarde"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 23.8
+      "score": 23.93
     },
     {
       "id": "ev-0qlisc5",
-      "title": "Alejandro Galanti volcó en la PE18 y abandonó el Rally del Chaco",
-      "summary": "Alejandro Galanti y Marcelo Toyotoshi abandonaron el Rally del Chaco 2026 en la Etapa 3, tras volcar en la PE18 sobre la Ruta Transchaco-Picada Histórica. El piloto, el más ganador de la competencia, perdía así la chance de ganar por séptima vez. Minutos antes, Gustavo Saba también volcó en el mismo tramo, según ABC Color. Galanti había comenzado el día como líder de la clasificación general.",
+      "title": "Migue Zaldívar gana el Rally del Chaco y es bicampeón nacional",
+      "summary": "Migue Zaldívar, del equipo MZ Racing, ganó el Rally del Chaco 2026 con 26,04 segundos de ventaja sobre Tiago Weiler. Con el triunfo en la Región Occidental, se consagró bicampeón del Campeonato Nacional de Rally. La carrera fue la séptima y última fecha del certamen. El abandono de Alejandro Galanti en la PE18 cambió el rumbo de la definición.",
       "keyPoints": [
-        "Galanti y Toyotoshi abandonaron en la PE18 de la Etapa 3.",
-        "El Toyota de Galanti volcó en la Ruta Transchaco-Picada Histórica.",
-        "Gustavo Saba volcó minutos después en el mismo lugar.",
-        "Galanti comenzaba el día como líder de la clasificación general."
+        "Migue Zaldívar ganó el Rally del Chaco 2026 y es bicampeón nacional.",
+        "Tiago Weiler fue segundo, a 26,04 segundos.",
+        "Gustavo Saba terminó tercero, a 5 minutos y 9,68 segundos.",
+        "Alejandro Galanti abandonó tras volcar en la PE18."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -130,6 +154,38 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Migue Zaldívar: ¡Bicampeón con la conquista del Rally del Chaco!",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-asi-fue-bicampeon-al-ganar-el-rally-del-chaco",
+          "publishedAt": "2026-11-01T19:13:55.000Z",
+          "image": "https://www.abc.com.py/resizer/tu_aNyn-oExADUxjeRvx98JVrFI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YWJU6OZ4QBB3PLP4WDV5UDX2SE.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Migue Zaldívar ganó el Rally del Chaco: “Esto es indescriptible”",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-gano-el-rally-del-chaco-esto-es-indescriptible",
+          "publishedAt": "2026-11-01T18:31:22.000Z",
+          "image": "https://www.abc.com.py/resizer/CFV06xS2jmwjeeazVeIQ45b9m14=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RQ76ARGW5RBQZDE46PGWX7GRYI.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Migue Zaldívar, de MZ Racing, ganó el Rally del Chaco 2026!",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-gano-el-rally-del-chaco-2026",
+          "publishedAt": "2026-11-01T17:56:11.000Z",
+          "image": "https://www.abc.com.py/resizer/R37qQIOOm3vI1H8y555yylt-r2c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V2SL3ZMH3BEMBPXAWSUPV5OHTM.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Migue Zaldívar conquistó el Chaco y se consagró bicampeón nacional",
+          "url": "https://elnacional.com.py/deportes/migue-zaldivar-conquisto-chaco-consagro-bicampeon-nacional-n114537",
+          "publishedAt": "2026-11-01T17:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae7714c3af27.jfif"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -188,15 +244,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5PBWIXCLY5EGJGW47FSTHWA6HY.jpeg?auth=9b7b6a4128b3b80ca348008b50ceeadc36bf955d83fd99f2f8cd407f997c3474&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YWJU6OZ4QBB3PLP4WDV5UDX2SE.jpeg?auth=16e35dbbb38bf4cfe3b7968e942a57a5b8bf94616618d3b841a3f24075470308&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/alejandro-galanti-volco-en-la-pe18-y-abandono-del-rally-del-chaco"
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-asi-fue-bicampeon-al-ganar-el-rally-del-chaco"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T16:07:13.054Z",
+      "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 14.8
+      "score": 14.97
     },
     {
       "id": "ev-0ndxm8d",
@@ -256,7 +312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 13.92
+      "score": 13.63
     },
     {
       "id": "ev-15ufxm6",
@@ -316,7 +372,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
     },
     {
       "id": "ev-0ban3ch",
@@ -367,7 +423,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 13.63
+      "score": 13.34
+    },
+    {
+      "id": "ev-0s2qqno",
+      "title": "Sportivo San Lorenzo vence 2-1 a Libertad con gol en el final",
+      "summary": "Sportivo San Lorenzo venció 2-1 a Libertad el sábado. El descendido marcó el gol en la agonía del partido. La derrota fue el antecedente directo de la salida de Nelson Haedo Valdez, decidida el domingo.",
+      "keyPoints": [
+        "Sportivo San Lorenzo ganó 2-1 a Libertad.",
+        "El gol decisivo llegó en el final del partido.",
+        "Sportivo San Lorenzo había descendido de categoría."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Golpazo sanlorenzano deja blanco a Libertad",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/01/golpazo-sanlorenzano-deja-blanco-a-libertad",
+          "publishedAt": "2026-11-01T03:49:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2mSerHy3LJahdn0xmtU_gh7QX0g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J2ASKAAM3ZDYRHLG7SZEMAXGOQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Sportivo San Lorenzo golpea sobre el final a Libertad y suma su primera victoria",
+          "url": "https://elnacional.com.py/deportes/sportivo-san-lorenzo-golpea-sobre-final-libertad-suma-su-primera-victoria-n114520",
+          "publishedAt": "2026-11-01T01:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae6948ec08b3.jfif"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "San Lorenzo le da una cachetada a Libertad sobre el final",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/san-lorenzo-le-da-una-cachetada-a-libertad-sobre-el-final",
+          "publishedAt": "2026-11-01T00:46:48.000Z",
+          "image": "https://www.abc.com.py/resizer/2WDlCqbNd49V6MiOOHHsptM0laY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZAJS2SM2DVAAXMT4BDVBXAFC2I.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J2ASKAAM3ZDYRHLG7SZEMAXGOQ.jpg?auth=74fa22f93f9bbbbe2ced863145b0988a728a22a75d3af52b2d987ba31a6e2b2f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/01/golpazo-sanlorenzano-deja-blanco-a-libertad"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedSlot": "tarde",
+      "score": 12.68
     },
     {
       "id": "ev-0acvcni",
@@ -419,7 +526,126 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 12.5
+      "score": 12.21
+    },
+    {
+      "id": "ev-0n9p216",
+      "title": "Cerro Porteño y Olimpia se enfrentan hoy en el último superclásico del año",
+      "summary": "Cerro Porteño y Olimpia se miden este domingo desde las 17:00 en La Nueva Olla, en Barrio Obrero. Es el cuarto y último superclásico liguero del año, por la fecha 17 del torneo Clausura. Ambos equipos ya confirmaron sus formaciones. El arbitraje estará a cargo de Juan Gabriel Benítez.",
+      "keyPoints": [
+        "El partido se juega este domingo desde las 17:00.",
+        "Es el cuarto y último superclásico liguero de la temporada.",
+        "Corresponde a la fecha 17 del torneo Clausura.",
+        "El árbitro será Juan Gabriel Benítez."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cerro Porteño y Olimpia tienen equipos confirmados para el último Superclásico del año",
+          "url": "https://elnacional.com.py/deportes/cerro-porteno-olimpia-tienen-equipos-confirmados-ultimo-superclasico-ano-n114547",
+          "publishedAt": "2026-11-01T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae7926b95942.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerro Porteño vs. Olimpia: Superclásico paraguayo en vivo",
+          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-vs-olimpia-superclasico-paraguayo-en-vivo",
+          "publishedAt": "2026-11-01T19:28:02.000Z",
+          "image": "https://www.abc.com.py/resizer/g9i9m1N2ocqnjcgXdHTPf88FI0Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/44HVIE274JAOROJBRAZH645HEA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La Olla presenta su mejor ingrediente: el clásico",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/01/la-olla-presenta-su-mejor-ingrediente-el-clasico",
+          "publishedAt": "2026-11-01T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/SgoUmIajlVenVNV8kEF54XFI8WE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EL77SBKUPZAZ7FQQD6HVIQNINA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerro Porteño vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-11-01T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/JZTX5G1RAVvWI3sSZI6rSW3EsS8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XYATJWO3BJDYBDFMEKVVBO4FHM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerro Porteño y la obsesión de romper cinco años sin ganarle a Olimpia La Nueva Olla",
+          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-y-la-obsesion-de-romper-cinco-anos-sin-ganarle-a-olimpia-la-nueva-olla",
+          "publishedAt": "2026-11-01T03:36:13.000Z",
+          "image": "https://www.abc.com.py/resizer/OolT7BF69FiQRn8mEFwfO_TXmRg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GR4ZPSFAPJF5TCVT3YJSTJGMZU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/44HVIE274JAOROJBRAZH645HEA.jpg?auth=05af09765706bf465afad41baa42a4cbc248c93f1556eb3fc8c77b080f215d4c&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-vs-olimpia-superclasico-paraguayo-en-vivo"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedSlot": "tarde",
+      "score": 11.99
+    },
+    {
+      "id": "ev-1yo92y2",
+      "title": "La Municipalidad de Asunción lanza Portal ASU, su primera app móvil",
+      "summary": "La Municipalidad de Asunción presentó Portal ASU, su primera aplicación móvil. La herramienta fue desarrollada para facilitar trámites y mejorar el acceso a los servicios municipales. Desde el teléfono celular los vecinos pueden gestionar servicios y también hacer denuncias.",
+      "keyPoints": [
+        "Portal ASU es la primera aplicación móvil de la Municipalidad de Asunción.",
+        "Permite gestionar servicios municipales desde el celular.",
+        "La aplicación también permite hacer denuncias."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Portal ASU, la app que facilita gestiones en Asunción",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/portal-asu-la-app-que-facilita-gestiones-en-asuncion",
+          "publishedAt": "2026-11-01T16:06:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/Y7P5UPZRI5EBXCODX6F43FOERM.jpg?auth=2c18329cf8b93cc1bde8abe10de8b7ecc540b1d5e91c87e7838a38536cf1b684&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lanzan Portal ASU, que permite gestión digital",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital",
+          "publishedAt": "2026-11-01T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NSeON7C5Cr9h0x117ZSqadgPXZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Jornada literaria por la protección infantil",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/jornada-literaria-por-la-proteccion-infantil",
+          "publishedAt": "2026-11-01T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4VM498doE6vCAcSBt6ACFx8Bq8s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IDU3EJTMXRF53JE2DGSQSPBKKA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/Y7P5UPZRI5EBXCODX6F43FOERM.jpg?auth=2c18329cf8b93cc1bde8abe10de8b7ecc540b1d5e91c87e7838a38536cf1b684&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/01/portal-asu-la-app-que-facilita-gestiones-en-asuncion"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedSlot": "tarde",
+      "score": 10.71
     },
     {
       "id": "ev-1swzfpk",
@@ -471,7 +697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-00yeorm",
@@ -523,7 +749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1et4anq",
@@ -567,51 +793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T16:07:13.054Z",
       "updatedSlot": "tarde",
-      "score": 9.84
-    },
-    {
-      "id": "ev-0s2qqno",
-      "title": "Sportivo San Lorenzo vence 2-1 a Libertad con gol en tiempo añadido",
-      "summary": "Sportivo San Lorenzo derrotó 2-1 a Libertad en el torneo Clausura, con un gol en tiempo añadido. El equipo sumó su primera victoria y se despidió de la Primera División. Libertad dejó escapar puntos importantes en su intento por mantenerse cerca de la cima.",
-      "keyPoints": [
-        "San Lorenzo ganó 2-1 a Libertad en el torneo Clausura.",
-        "El gol decisivo llegó en tiempo añadido.",
-        "Libertad perdió puntos importantes en la lucha por la cima.",
-        "San Lorenzo se despide de la Primera División."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Sportivo San Lorenzo golpea sobre el final a Libertad y suma su primera victoria",
-          "url": "https://elnacional.com.py/deportes/sportivo-san-lorenzo-golpea-sobre-final-libertad-suma-su-primera-victoria-n114520",
-          "publishedAt": "2026-11-01T01:25:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae6948ec08b3.jfif"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "San Lorenzo le da una cachetada a Libertad sobre el final",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/10/31/san-lorenzo-le-da-una-cachetada-a-libertad-sobre-el-final",
-          "publishedAt": "2026-11-01T00:46:48.000Z",
-          "image": "https://www.abc.com.py/resizer/2WDlCqbNd49V6MiOOHHsptM0laY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZAJS2SM2DVAAXMT4BDVBXAFC2I.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZAJS2SM2DVAAXMT4BDVBXAFC2I.jpeg?auth=6efb304bfe7a1a66fac3a821d193269771db3fb821abb40c9b1a6e2e71167a85&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/10/31/san-lorenzo-le-da-una-cachetada-a-libertad-sobre-el-final"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 8.77
+      "score": 9.55
     },
     {
       "id": "ev-0bbfmmp",
@@ -655,7 +837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.3
     },
     {
       "id": "ev-0ypkhgd",
@@ -699,7 +881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.28
     },
     {
       "id": "ev-169qfji",
@@ -742,7 +924,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-03mr3h9",
@@ -881,59 +1063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 7.6
-    },
-    {
-      "id": "ev-0n9p216",
-      "title": "Cerro Porteño recibe hoy a Olimpia en La Nueva Olla por la fecha 17 del Clausura",
-      "summary": "Cerro Porteño y Olimpia se enfrentan hoy a las 17:00 en La Nueva Olla, por la fecha 17 del torneo Clausura 2026. El Ciclón busca cortar una racha de cinco años sin ganarle al Decano en su casa. Dirige Juan Gabriel Benítez, con VAR de José Natael Méndez. El partido se transmite por ABC Cardinal 730 AM, ABC del Este 107.1 FM y ABC Paraguay en Youtube.",
-      "keyPoints": [
-        "El partido se juega hoy a las 17:00 en La Nueva Olla.",
-        "Corresponde a la fecha 17 del torneo Clausura 2026.",
-        "Cerro Porteño no le gana a Olimpia en su casa desde hace cinco años.",
-        "Dirige Juan Gabriel Benítez con VAR de José Natael Méndez."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La Olla presenta su mejor ingrediente: el clásico",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/01/la-olla-presenta-su-mejor-ingrediente-el-clasico",
-          "publishedAt": "2026-11-01T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/SgoUmIajlVenVNV8kEF54XFI8WE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EL77SBKUPZAZ7FQQD6HVIQNINA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Cerro Porteño vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
-          "publishedAt": "2026-11-01T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/JZTX5G1RAVvWI3sSZI6rSW3EsS8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XYATJWO3BJDYBDFMEKVVBO4FHM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Cerro Porteño y la obsesión de romper cinco años sin ganarle a Olimpia La Nueva Olla",
-          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-y-la-obsesion-de-romper-cinco-anos-sin-ganarle-a-olimpia-la-nueva-olla",
-          "publishedAt": "2026-11-01T03:36:13.000Z",
-          "image": "https://www.abc.com.py/resizer/OolT7BF69FiQRn8mEFwfO_TXmRg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GR4ZPSFAPJF5TCVT3YJSTJGMZU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/EL77SBKUPZAZ7FQQD6HVIQNINA.jpg?auth=0145259b55968bf3b3dd1a05d2e513425f050e077148c190fff7acac568be5d7&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/01/la-olla-presenta-su-mejor-ingrediente-el-clasico"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 6.99
+      "score": 7.3
     },
     {
       "id": "ev-17vwhbd",
@@ -976,7 +1106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0nknkfl",
@@ -1019,7 +1149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0bh8rhl",
@@ -1062,7 +1192,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1icblht",
@@ -1105,7 +1235,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0ao6hsp",
@@ -1148,7 +1278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-056hvyk",
@@ -1191,7 +1321,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1xvz5mv",
@@ -1234,7 +1364,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0zqorlu",
@@ -1278,48 +1408,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
-    },
-    {
-      "id": "ev-1yo92y2",
-      "title": "Lanzan Portal ASU, que permite gestión digital",
-      "summary": "La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias. La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias.",
-      "keyPoints": [
-        "La plataforma permite gestionar los servicios municipales desde el teléfono celular e incluso hacer denuncias."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lanzan Portal ASU, que permite gestión digital",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital",
-          "publishedAt": "2026-11-01T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NSeON7C5Cr9h0x117ZSqadgPXZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Jornada literaria por la protección infantil",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/jornada-literaria-por-la-proteccion-infantil",
-          "publishedAt": "2026-11-01T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4VM498doE6vCAcSBt6ACFx8Bq8s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IDU3EJTMXRF53JE2DGSQSPBKKA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5Q3KPNYGZ5AQPOBKV3TGYOZBPU.jpg?auth=e8b4b4f1510bfad3bb7a16036dfac0c5da8dbc569a8623a9b35bb11c870a1c3f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/lanzan-portal-asu-que-permite-gestion-digital"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T16:07:13.054Z",
-      "updatedSlot": "tarde",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-04c8g9u",
@@ -1363,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.72
+      "score": 5.43
     },
     {
       "id": "ev-0f7hgu5",
@@ -1406,7 +1495,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 5
     },
     {
       "id": "ev-021exol",
@@ -1438,7 +1527,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0owg8ii",
@@ -1489,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.86
     },
     {
       "id": "ev-0dhd7es",
@@ -1523,7 +1612,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.11
+      "score": 4.82
     },
     {
       "id": "ev-1lphvcq",
@@ -1558,7 +1647,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1e17chk",
@@ -1593,7 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1lb5p3n",
@@ -1622,7 +1711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1oug9qt",
@@ -1657,7 +1746,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0kec48c",
@@ -1692,7 +1781,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0urjiqh",
@@ -1723,7 +1812,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0lz2by7",
@@ -1758,7 +1847,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0nufxmr",
@@ -1793,7 +1882,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0dtc0cv",
@@ -1824,7 +1913,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1uvlr2e",
@@ -1858,7 +1947,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.15
+      "score": 4
     },
     {
       "id": "ev-0cr03xe",
@@ -1937,7 +2026,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-08smyk9",
@@ -1968,7 +2057,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.52
     },
     {
       "id": "ev-0x3qhn6",
@@ -1999,7 +2088,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.73
+      "score": 2.43
     },
     {
       "id": "ev-0b82ytd",
@@ -2030,7 +2119,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.68
+      "score": 2.39
     },
     {
       "id": "ev-1sb572v",
@@ -2062,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.66
+      "score": 2.37
     },
     {
       "id": "ev-12jerc9",
@@ -2093,7 +2182,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.61
+      "score": 2.32
     },
     {
       "id": "ev-1y49t1h",
@@ -2125,7 +2214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.55
+      "score": 2.26
     },
     {
       "id": "ev-1hjccys",
@@ -2160,7 +2249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.41
+      "score": 2.12
     }
   ],
   "runs": [
@@ -2184,6 +2273,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-01T19:37:15.118Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 19
     }
   ]
 }
