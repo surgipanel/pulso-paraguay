@@ -1,9 +1,9 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-10-31T22:44:00.219Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-01T02:06:45.968Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
@@ -95,7 +95,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T22:44:00.219Z",
       "updatedSlot": "tarde",
-      "score": 23.77
+      "score": 23.49
     },
     {
       "id": "ev-1qcp9or",
@@ -195,7 +195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T22:44:00.219Z",
       "updatedSlot": "tarde",
-      "score": 21.33
+      "score": 21.05
     },
     {
       "id": "ev-1cukvyn",
@@ -271,7 +271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 20.44
+      "score": 20.16
     },
     {
       "id": "ev-0ryq7s0",
@@ -338,7 +338,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T12:07:13.960Z",
       "updatedSlot": "manana",
-      "score": 20.05
+      "score": 19.77
     },
     {
       "id": "ev-1d9xs95",
@@ -397,7 +397,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T22:44:00.219Z",
       "updatedSlot": "tarde",
-      "score": 14.86
+      "score": 14.57
     },
     {
       "id": "ev-09sr6l3",
@@ -457,7 +457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T19:37:11.720Z",
       "updatedSlot": "tarde",
-      "score": 14.53
+      "score": 14.25
     },
     {
       "id": "ev-0qmhsed",
@@ -561,7 +561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.13
     },
     {
       "id": "ev-12m4o89",
@@ -605,7 +605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T16:07:13.500Z",
       "updatedSlot": "tarde",
-      "score": 9.39
+      "score": 9.11
     },
     {
       "id": "ev-048m5cg",
@@ -657,7 +657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.08
     },
     {
       "id": "ev-0hr59h3",
@@ -700,7 +700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.22
     },
     {
       "id": "ev-08d4bhm",
@@ -742,7 +742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.13
     },
     {
       "id": "ev-19gbck1",
@@ -785,7 +785,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 8.11
+      "score": 8
     },
     {
       "id": "ev-0zt5e65",
@@ -1088,44 +1088,6 @@
       "score": 8
     },
     {
-      "id": "ev-1cbclof",
-      "title": "Martina celebra sus quince años con una fiesta de cumpleaños",
-      "summary": "Última Hora publicó una nota sobre los quince años de Martina. El medio no entregó un extracto, por lo que el resumen se limita a este dato. No hay más información disponible sobre el evento.",
-      "keyPoints": [
-        "Martina cumple quince años.",
-        "La nota fue publicada por Última Hora."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Los quince años de Martina",
-          "url": "https://www.ultimahora.com/los-quince-anos-de-martina",
-          "publishedAt": "2026-10-31T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "La fiesta de cumple de Chiara",
-          "url": "https://www.ultimahora.com/la-fiesta-de-cumple-de-chiara",
-          "publishedAt": "2026-10-31T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 5.69
-    },
-    {
       "id": "ev-1ak2927",
       "title": "Rodrigo Gamarra encabeza delegación paraguaya en plenaria EuroLat en España",
       "summary": "Una delegación de legisladores paraguayos participa en Santa Cruz de Tenerife, España, de la XVII Sesión Plenaria de EuroLat. La comitiva está encabezada por el diputado Rodrigo Gamarra, presidente del Parlasur. El encuentro coincide con los 20 años de creación de este foro birregional entre Europa y Latinoamérica.",
@@ -1170,6 +1132,44 @@
       "score": 5.5
     },
     {
+      "id": "ev-1cbclof",
+      "title": "Martina celebra sus quince años con una fiesta de cumpleaños",
+      "summary": "Última Hora publicó una nota sobre los quince años de Martina. El medio no entregó un extracto, por lo que el resumen se limita a este dato. No hay más información disponible sobre el evento.",
+      "keyPoints": [
+        "Martina cumple quince años.",
+        "La nota fue publicada por Última Hora."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Los quince años de Martina",
+          "url": "https://www.ultimahora.com/los-quince-anos-de-martina",
+          "publishedAt": "2026-10-31T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La fiesta de cumple de Chiara",
+          "url": "https://www.ultimahora.com/la-fiesta-de-cumple-de-chiara",
+          "publishedAt": "2026-10-31T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedSlot": "manana",
+      "score": 5.41
+    },
+    {
       "id": "ev-1kibev8",
       "title": "Libertad visita a San Lorenzo en el Clausura este sábado",
       "summary": "Libertad visita a Sportivo San Lorenzo este sábado en el estadio Gunther Vogel, desde las 19:30, por el campeonato Clausura. El arbitraje estará a cargo de Carlos Paul Benítez, y el VAR, de Édgar Galeano. Guaraní busca sostener su pelea por el título.",
@@ -1209,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.44
+      "score": 5.16
     },
     {
       "id": "ev-16c7dt4",
@@ -1252,7 +1252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.09
     },
     {
       "id": "ev-0vqkjoc",
@@ -1295,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.08
     },
     {
       "id": "ev-0qt0d8o",
@@ -1338,7 +1338,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.08
     },
     {
       "id": "ev-0ucnvnn",
@@ -1381,7 +1381,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.08
     },
     {
       "id": "ev-0myvxq8",
@@ -1454,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-00zkd8w",
@@ -1484,7 +1484,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-1g7jwxz",
@@ -1514,7 +1514,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-0alx5v7",
@@ -1544,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-0ywvt3a",
@@ -1573,7 +1573,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-0vwgce8",
@@ -1605,7 +1605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-1avtlzm",
@@ -1636,7 +1636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-0ry9s6w",
@@ -1665,7 +1665,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.41
     },
     {
       "id": "ev-10as4aq",
@@ -1698,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.35
     },
     {
       "id": "ev-10ymwth",
@@ -1733,7 +1733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.6
+      "score": 4.32
     },
     {
       "id": "ev-00ox1p8",
@@ -1767,7 +1767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.6
+      "score": 4.32
     },
     {
       "id": "ev-18bgbs7",
@@ -1802,7 +1802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.59
+      "score": 4.31
     },
     {
       "id": "ev-0bf06v7",
@@ -1837,7 +1837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.55
+      "score": 4.27
     },
     {
       "id": "ev-0qwqx6m",
@@ -1872,7 +1872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.26
     },
     {
       "id": "ev-1ycz6yn",
@@ -1906,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.51
+      "score": 4.23
     },
     {
       "id": "ev-1dpd4zr",
@@ -1941,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.16
     },
     {
       "id": "ev-1i7xe2y",
@@ -1974,7 +1974,69 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.36
+      "score": 4.08
+    },
+    {
+      "id": "ev-1iunfbk",
+      "title": "Celeste Amarilla dice que ser un fenómeno no garantiza ser buen presidente",
+      "summary": "La senadora liberal Celeste Amarilla habló en Ancho Perfil de Cardinal 730 AM sobre la figura de un posible candidato presidencial. Sostuvo que ser un fenómeno no significa ser buen presidente. La nota es un audio sin más detalles en los extractos.",
+      "keyPoints": [
+        "Celeste Amarilla es senadora del PLRA.",
+        "Las declaraciones se difundieron en Ancho Perfil de Cardinal 730 AM.",
+        "La entrevista fue emitida el 30 de octubre de 2026."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Ser un fenómeno no significa ser buen presidente”, asegura Celeste Amarilla",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/30/audio-ser-un-fenomeno-no-significa-ser-buen-presidente-asegura-celeste-amarilla",
+          "publishedAt": "2026-10-31T00:47:25.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedSlot": "manana",
+      "score": 4
+    },
+    {
+      "id": "ev-0pt1lsd",
+      "title": "Personal presenta una herramienta para verificar cambios de SIM y frenar fraudes",
+      "summary": "La empresa Personal ofrece a bancos, fintechs y comercios una solución que muestra cuándo se hizo el último cambio de tarjeta SIM de un número telefónico. La información busca reforzar la protección de aplicaciones y operaciones digitales frente a fraudes.",
+      "keyPoints": [
+        "La herramienta se llama SIM SWAP.",
+        "Permite verificar en tiempo real el último cambio de SIM de un número.",
+        "Está dirigida a bancos, fintechs y comercios."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Personal ofrece una solución para reforzar la seguridad digital",
+          "url": "https://5dias.com.py/article/personal-ofrece-una-solucin-para-reforzar-la-seguridad-digital",
+          "publishedAt": "2026-10-30T18:47:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/que-hacer-en-caso-de-robo-de-chip_20261030_184835.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-10-31T08:07:11.400Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-10-31T08:07:11.400Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-0s1xbtq",
@@ -2022,69 +2084,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 4.27
-    },
-    {
-      "id": "ev-1iunfbk",
-      "title": "Celeste Amarilla dice que ser un fenómeno no garantiza ser buen presidente",
-      "summary": "La senadora liberal Celeste Amarilla habló en Ancho Perfil de Cardinal 730 AM sobre la figura de un posible candidato presidencial. Sostuvo que ser un fenómeno no significa ser buen presidente. La nota es un audio sin más detalles en los extractos.",
-      "keyPoints": [
-        "Celeste Amarilla es senadora del PLRA.",
-        "Las declaraciones se difundieron en Ancho Perfil de Cardinal 730 AM.",
-        "La entrevista fue emitida el 30 de octubre de 2026."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: “Ser un fenómeno no significa ser buen presidente”, asegura Celeste Amarilla",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/10/30/audio-ser-un-fenomeno-no-significa-ser-buen-presidente-asegura-celeste-amarilla",
-          "publishedAt": "2026-10-31T00:47:25.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 4.17
-    },
-    {
-      "id": "ev-0pt1lsd",
-      "title": "Personal presenta una herramienta para verificar cambios de SIM y frenar fraudes",
-      "summary": "La empresa Personal ofrece a bancos, fintechs y comercios una solución que muestra cuándo se hizo el último cambio de tarjeta SIM de un número telefónico. La información busca reforzar la protección de aplicaciones y operaciones digitales frente a fraudes.",
-      "keyPoints": [
-        "La herramienta se llama SIM SWAP.",
-        "Permite verificar en tiempo real el último cambio de SIM de un número.",
-        "Está dirigida a bancos, fintechs y comercios."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Personal ofrece una solución para reforzar la seguridad digital",
-          "url": "https://5dias.com.py/article/personal-ofrece-una-solucin-para-reforzar-la-seguridad-digital",
-          "publishedAt": "2026-10-30T18:47:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/que-hacer-en-caso-de-robo-de-chip_20261030_184835.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-10-31T08:07:11.400Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-10-31T08:07:11.400Z",
-      "updatedSlot": "manana",
-      "score": 4
+      "score": 3.98
     },
     {
       "id": "ev-16rtnjw",
@@ -2115,7 +2115,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.27
+      "score": 1.98
     },
     {
       "id": "ev-00n0hw5",
@@ -2146,7 +2146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-10-31T08:07:11.400Z",
       "updatedSlot": "manana",
-      "score": 2.27
+      "score": 1.98
     }
   ],
   "runs": [
@@ -2184,6 +2184,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 15
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-01T02:06:45.968Z",
+      "added": 0,
+      "updated": 0,
+      "candidates": 17
     }
   ]
 }
