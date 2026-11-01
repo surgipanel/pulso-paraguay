@@ -1,20 +1,119 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-01T08:07:09.714Z",
+  "generatedAt": "2026-11-01T12:07:11.091Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0qlisc5",
-      "title": "Alejandro Galanti lidera el Rally del Chaco tras la Etapa 2",
-      "summary": "Alejandro Galanti tomó el liderato del Rally del Chaco 2026 al terminar la Etapa 2. Migue Zaldívar ganó la jornada, con 39,20 segundos de diferencia, después del abandono de Fau Zaldívar por la rotura del motor de su Škoda. Galanti suma 174 puntos en el Campeonato Nacional de Rally.",
+      "id": "ev-1yzsfh3",
+      "title": "Alerta por tormentas, granizos y vientos de hasta 90 km/h hasta el lunes 2",
+      "summary": "La Dirección de Meteorología e Hidrología advirtió sobre un sistema de tormentas que afectará a gran parte del país desde el domingo 1 hasta el lunes 2 de noviembre. Se esperan lluvias intensas, descargas eléctricas, ráfagas de hasta 90 km/h y posible caída de granizos. Algunas zonas podrían registrar acumulados de hasta 90 milímetros de lluvia.",
       "keyPoints": [
-        "Galanti terminó la Etapa 2 con 39,20 segundos de ventaja sobre Migue Zaldívar.",
-        "Fau Zaldívar abandonó por la rotura del motor de su Škoda.",
-        "Galanti lidera el Campeonato Nacional de Rally 2026 con 174 puntos.",
-        "Gustavo Saba es tercero en la clasificación general."
+        "La DMH emitió un aviso especial por el sistema de tormentas.",
+        "Se esperan ráfagas de viento de hasta 90 km/h.",
+        "Hay probabilidad de caída de granizos en varias zonas.",
+        "Los acumulados de lluvia podrían alcanzar 90 milímetros."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-11-03T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Noviembre inicia con probabilidad de lluvias, tormentas y granizos",
+          "url": "https://www.ultimahora.com/noviembre-inicia-con-probabilidad-de-lluvias-tormentas-y-granizos",
+          "publishedAt": "2026-11-01T11:31:40.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Temporal avanzará sobre el país con lluvias intensas, fuertes vientos y granizadas",
+          "url": "https://www.adndigital.com.py/temporal-avanzara-sobre-el-pais-con-lluvias-intensas-fuertes-vientos-y-granizadas",
+          "publishedAt": "2026-11-01T11:08:13.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/meteoro-819x1024.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Meteorología advierte sobre lluvias y severas tormentas eléctricas en varios puntos del país",
+          "url": "https://www.lanacion.com.py/pais/2026/11/01/meteorologia-advierte-sobre-lluvias-y-severas-tormentas-electricas-en-varios-puntos-del-pais",
+          "publishedAt": "2026-11-01T10:55:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mHZCpfms8drvBTtB9LmCxZSp50I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S2NXA3PKFFEULLLJSPC7JSF4RQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Lluvias y tormentas eléctricas desde hoy en varios puntos del país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-lluvias-tormentas-electricas-hoy-varios-puntos-pais-n114521",
+          "publishedAt": "2026-11-01T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ada04ef10458.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Tormentas con ráfagas de hasta 90 km/h y posible caída de granizos desde hoy",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/tormentas-con-rafagas-de-hasta-90-kmh-y-posible-caida-de-granizos-desde-hoy",
+          "publishedAt": "2026-11-01T10:03:55.665Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ITZP7ZYIIJDALM3WPXDADMX6F4.jpeg?auth=e0f4bbc9839ea86d1718cfb2c38c9c0f7720c01ee5fc241d8f21d9fc5ae0d9d2&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Superclásico X ABC: ¿Cómo estará el tiempo a la hora del partido?",
+          "url": "https://www.abc.com.py/clima/2026/11/01/superclasico-x-abc-como-estara-el-tiempo-a-la-hora-del-partido",
+          "publishedAt": "2026-11-01T09:57:32.000Z",
+          "image": "https://www.abc.com.py/resizer/5GpXboY0dp1t92lKl_sZ3xSbf2A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/I5EIUSKKGZHTLANJ5BRRB2HIMI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hay probabilidad de lluvias para este domingo en el Este",
+          "url": "https://www.abc.com.py/este/2026/11/01/hay-probabilidad-de-lluvias-para-este-domingo-en-el-este",
+          "publishedAt": "2026-11-01T09:52:14.000Z",
+          "image": "https://www.abc.com.py/resizer/xzeqUFovAXQIKZ3uwoz3vaR625s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KMWUF5NGOJEIDHSTHJOQ45TDSE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Meteorología anuncia tormentas con vientos de 90 km/h y granizos desde este domingo",
+          "url": "https://www.abc.com.py/clima/2026/10/31/meteorologia-anuncia-tormentas-con-vientos-de-90-kmh-y-granizos-desde-este-domingo",
+          "publishedAt": "2026-11-01T01:14:33.000Z",
+          "image": "https://www.abc.com.py/resizer/FKvaup_FL7FGwCvkL6n5cDRp7HE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6U23T2QY4ZFIPOUUKQNKV55ZFU.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Emiten alerta por tormentas y vientos de hasta 90 km/h para gran parte del país",
+          "url": "https://www.hoy.com.py/nacionales/2026/10/31/emiten-alerta-por-tormentas-y-vientos-de-hasta-90-kmh-para-gran-parte-del-pais",
+          "publishedAt": "2026-11-01T00:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NHGJ5RLKUFHKTOPFUIPG24RRTY.jpeg?auth=3123b9c0cf3c49539059fa4f66d85fd16127d589e983faf86cd9b0361bd938f3&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/meteoro-819x1024.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/temporal-avanzara-sobre-el-pais-con-lluvias-intensas-fuertes-vientos-y-granizadas"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
+      "updatedSlot": "manana",
+      "score": 23.95
+    },
+    {
+      "id": "ev-0qlisc5",
+      "title": "Migue Zaldívar pasa al frente del Rally del Chaco en la Etapa 3",
+      "summary": "Migue Zaldívar encabeza la clasificación del Rally del Chaco 2026 tras la PE18 de la Etapa 3, según la cobertura en vivo de ABC Color. Gustavo Saba completó esa especial en 12 minutos y 32,7 segundos. Zaldívar largó después la PE19, la tercera especial de la etapa.",
+      "keyPoints": [
+        "Zaldívar aparece primero en la clasificación tras la PE18.",
+        "Gustavo Saba terminó la PE18 en 12 minutos y 32,7 segundos.",
+        "Zaldívar largó la PE19, la tercera especial de la Etapa 3."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -25,18 +124,10 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Alejandro Galanti lidera el Rally del Chaco 2026 tras la Etapa 2",
-          "url": "https://www.abc.com.py/deportes/motor/2026/10/31/alejandro-galanti-lidera-el-rally-del-chaco-2026-tras-la-etapa-2",
-          "publishedAt": "2026-10-31T23:58:31.000Z",
-          "image": "https://www.abc.com.py/resizer/_H0PySwYymgcQKTFM8XxRNrxhnQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KU2ZW2UK6VGPVGB2Q35Z2RKTEM.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Rally del Chaco 2026: Alejandro Galanti se queda con el liderato tras la segunda etapa",
-          "url": "https://elnacional.com.py/deportes/rally-chaco-2026-alejandro-galanti-queda-liderato-tras-segunda-etapa-n114513",
-          "publishedAt": "2026-10-31T20:55:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae65545b8378.jpg"
+          "title": "Rally del Chaco 2026 en vivo: ¡Migue Zaldívar es el nuevo líder!",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/rally-del-chaco-2026-en-vivo-comienza-la-decisiva-etapa-3",
+          "publishedAt": "2026-11-01T12:03:06.000Z",
+          "image": "https://www.abc.com.py/resizer/M8mLqZ1bZUuC5CXJBKphAAu1KQk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VXURP7I2KVCWFJWDALTPJLIECQ.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -53,18 +144,34 @@
           "url": "https://www.abc.com.py/deportes/motor/2026/10/31/como-esta-la-pelea-por-el-titulo-de-campeon-del-nacional",
           "publishedAt": "2026-11-01T00:31:02.000Z",
           "image": "https://www.abc.com.py/resizer/XqHoNAnF4wjT3x-8jUoBFhMv_fo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JCZFO3G4TRHSPP2D2LQGUHRPAY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alejandro Galanti lidera el Rally del Chaco 2026 tras la Etapa 2",
+          "url": "https://www.abc.com.py/deportes/motor/2026/10/31/alejandro-galanti-lidera-el-rally-del-chaco-2026-tras-la-etapa-2",
+          "publishedAt": "2026-10-31T23:58:31.000Z",
+          "image": "https://www.abc.com.py/resizer/_H0PySwYymgcQKTFM8XxRNrxhnQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KU2ZW2UK6VGPVGB2Q35Z2RKTEM.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Rally del Chaco 2026: Alejandro Galanti se queda con el liderato tras la segunda etapa",
+          "url": "https://elnacional.com.py/deportes/rally-chaco-2026-alejandro-galanti-queda-liderato-tras-segunda-etapa-n114513",
+          "publishedAt": "2026-10-31T20:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae65545b8378.jpg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/KU2ZW2UK6VGPVGB2Q35Z2RKTEM.jpeg?auth=218396462c85eb8fc9d3257d7092aabf578db4d7cb2cdf3d03845e2e132cbae0&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VXURP7I2KVCWFJWDALTPJLIECQ.jpeg?auth=cb520bd42aaa0409341808cba329e0f8a7d7117b04e7ea7d00daf408dc890fae&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/10/31/alejandro-galanti-lidera-el-rally-del-chaco-2026-tras-la-etapa-2"
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/rally-del-chaco-2026-en-vivo-comienza-la-decisiva-etapa-3"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 14.62
+      "score": 14.99
     },
     {
       "id": "ev-0ndxm8d",
@@ -124,7 +231,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 14.59
+      "score": 14.25
     },
     {
       "id": "ev-15ufxm6",
@@ -184,7 +291,109 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.24
+    },
+    {
+      "id": "ev-0ban3ch",
+      "title": "Dani Vallejo vence a Dimitrov y va por el cuadro principal de París",
+      "summary": "El tenista paraguayo Daniel Vallejo derrotó al búlgaro Grigor Dimitrov, exnúmero tres del mundo, en la primera ronda de clasificación del Masters 1000 de París, por 7-6 (7-3), 4-6 y 6-3. Ahora enfrenta a Lorenzo Sonego este domingo a las 10:30, hora de Paraguay, por un lugar en el cuadro principal.",
+      "keyPoints": [
+        "Vallejo ganó 7-6 (7-3), 4-6 y 6-3 a Dimitrov.",
+        "El duelo ante Sonego está previsto para este domingo a las 10:30.",
+        "El partido se juega en la Cancha 1 de Nanterre, cerca de París."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Dani Vallejo, por el acceso al cuadro principal del Masters de París",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/01/dani-vallejo-por-el-acceso-al-cuadro-principal-del-masters-de-paris",
+          "publishedAt": "2026-11-01T11:43:56.000Z",
+          "image": "https://www.abc.com.py/resizer/A0vmL_1gulRTLtySlu8zH7AmFFU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LVDXJ5K6VNFXJBGOIEWHEKDILA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Daniel Vallejo vuelve a tumbar a un ex top-3",
+          "url": "https://elnacional.com.py/deportes/daniel-vallejo-vuelve-tumbar-ex-top-3-n114514",
+          "publishedAt": "2026-10-31T21:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69ce9a7c1a706.jfif"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Dani Vallejo se impone ante Dimitrov y avanza en el Masters 1000 de París",
+          "url": "https://5dias.com.py/article/dani-vallejo-se-impone-ante-dimitrov-y-avanza-en-el-masters-1000-de-pars",
+          "publishedAt": "2026-10-31T18:13:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Retrato_del_tenista_en_el_estadio_20261031_181445.png"
+        }
+      ],
+      "image": {
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Retrato_del_tenista_en_el_estadio_20261031_181445.png",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/dani-vallejo-se-impone-ante-dimitrov-y-avanza-en-el-masters-1000-de-pars"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
+      "updatedSlot": "manana",
+      "score": 13.97
+    },
+    {
+      "id": "ev-1t0ta9c",
+      "title": "Obras cierran media calzada de la Silvio Pettirossi el domingo hasta las 12:00",
+      "summary": "Los conductores que vayan de Luque hacia Asunción deberán circular por media calzada este domingo en la autopista Silvio Pettirossi. La restricción es en un tramo de unos 200 metros cerca del parque Ñu Guasu y rige de 6:00 a 12:00. La medida se debe al retiro de un pórtico, dispuesto por el Ministerio de Obras. Quienes circulan en sentido contrario no se ven afectados.",
+      "keyPoints": [
+        "La restricción rige de 6:00 a 12:00 del domingo 1 de noviembre.",
+        "Afecta solo a quienes se dirigen de Luque hacia Asunción.",
+        "La intervención se debe al retiro de un pórtico en la zona."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-11-01T15:00:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Retiro de pórtico obliga a circular por media calzada en la autopista Silvio Pettirossi",
+          "url": "https://www.adndigital.com.py/retiro-de-portico-obliga-a-circular-por-media-calzada-en-la-autopista-silvio-pettirossi",
+          "publishedAt": "2026-11-01T11:16:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Realizarán este domingo cierre de media calzada de la autopista Silvio Pettirossi por obras",
+          "url": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras",
+          "publishedAt": "2026-10-31T16:11:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_dHqggJW7hB_ACjzJoPqsURUJxg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Este domingo habrá paso a media calzada hacia Asunción por obras en la autopista Silvio Pettirossi",
+          "url": "https://elnacional.com.py/nacionales/este-domingo-habra-paso-media-calzada-asuncion-obras-autopista-silvio-pettirossi-n114420",
+          "publishedAt": "2026-10-31T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae492b0b7cf3.webp"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg?auth=04c8dc7fa2f9d7dd787908bcb0a528fedc3305eb5ef28b8c3c82ecb5531a9168&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
+      "updatedSlot": "manana",
+      "score": 13.93
     },
     {
       "id": "ev-0acvcni",
@@ -236,7 +445,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 13.17
+      "score": 12.83
     },
     {
       "id": "ev-1swzfpk",
@@ -288,7 +497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-00yeorm",
@@ -340,7 +549,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0s2qqno",
@@ -384,51 +593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.44
-    },
-    {
-      "id": "ev-1yzsfh3",
-      "title": "Meteorología emite alerta por tormentas y vientos de hasta 90 km/h",
-      "summary": "La Dirección de Meteorología e Hidrología emitió un boletín especial por núcleos de tiempo severo. Las tormentas se esperan desde la mañana del domingo 1 hasta el lunes 2 de noviembre en varios departamentos. Se prevén lluvias intensas, descargas eléctricas, ráfagas de hasta 90 km/h y posible granizo.",
-      "keyPoints": [
-        "La DMH emitió un aviso especial por tormentas severas.",
-        "Las ráfagas podrían alcanzar los 90 km/h.",
-        "Se prevé caída puntual de granizo.",
-        "El aviso abarca desde el domingo 1 hasta el lunes 2 de noviembre de 2026."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-11-03T02:59:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Meteorología anuncia tormentas con vientos de 90 km/h y granizos desde este domingo",
-          "url": "https://www.abc.com.py/clima/2026/10/31/meteorologia-anuncia-tormentas-con-vientos-de-90-kmh-y-granizos-desde-este-domingo",
-          "publishedAt": "2026-11-01T01:14:33.000Z",
-          "image": "https://www.abc.com.py/resizer/FKvaup_FL7FGwCvkL6n5cDRp7HE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6U23T2QY4ZFIPOUUKQNKV55ZFU.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Emiten alerta por tormentas y vientos de hasta 90 km/h para gran parte del país",
-          "url": "https://www.hoy.com.py/nacionales/2026/10/31/emiten-alerta-por-tormentas-y-vientos-de-hasta-90-kmh-para-gran-parte-del-pais",
-          "publishedAt": "2026-11-01T00:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/NHGJ5RLKUFHKTOPFUIPG24RRTY.jpeg?auth=3123b9c0cf3c49539059fa4f66d85fd16127d589e983faf86cd9b0361bd938f3&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6U23T2QY4ZFIPOUUKQNKV55ZFU.png?auth=33d5fe772b23df490c96ec630dd065be87f3924cf4d1f1e9e0393221fae49b43&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/10/31/meteorologia-anuncia-tormentas-con-vientos-de-90-kmh-y-granizos-desde-este-domingo"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 9.43
+      "score": 9.11
     },
     {
       "id": "ev-0bbfmmp",
@@ -472,7 +637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.26
+      "score": 8.92
     },
     {
       "id": "ev-0ypkhgd",
@@ -516,7 +681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-169qfji",
@@ -559,51 +724,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.85
-    },
-    {
-      "id": "ev-1t0ta9c",
-      "title": "Habrá cierre de media calzada en la Silvio Pettirossi este domingo hasta las 12:00",
-      "summary": "Este domingo 1 de noviembre, de 6:00 a 12:00, se cierra media calzada en un tramo de unos 200 metros cerca del parque Ñu Guasu. Afecta a los conductores que van de Luque hacia Asunción. La medida se debe al retiro de un pórtico. Conviene elegir otra ruta en ese horario.",
-      "keyPoints": [
-        "El cierre rige de 6:00 a 12:00.",
-        "Afecta a quienes viajan de Luque hacia Asunción.",
-        "El tramo está cerca del parque Ñu Guasu.",
-        "La restricción se debe al retiro de un pórtico."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-11-01T15:00:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Realizarán este domingo cierre de media calzada de la autopista Silvio Pettirossi por obras",
-          "url": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras",
-          "publishedAt": "2026-10-31T16:11:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_dHqggJW7hB_ACjzJoPqsURUJxg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Este domingo habrá paso a media calzada hacia Asunción por obras en la autopista Silvio Pettirossi",
-          "url": "https://elnacional.com.py/nacionales/este-domingo-habra-paso-media-calzada-asuncion-obras-autopista-silvio-pettirossi-n114420",
-          "publishedAt": "2026-10-31T13:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae492b0b7cf3.webp"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7ZJM755TZBA3FKM7YM2LVFARYQ.jpeg?auth=04c8dc7fa2f9d7dd787908bcb0a528fedc3305eb5ef28b8c3c82ecb5531a9168&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/10/31/realizaran-este-domingo-cierre-de-media-calzada-de-la-autopista-silvio-pettirossi-por-obras"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.52
     },
     {
       "id": "ev-03mr3h9",
@@ -647,7 +768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.19
     },
     {
       "id": "ev-1nl83ep",
@@ -691,7 +812,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.44
+      "score": 8.11
     },
     {
       "id": "ev-0n9p216",
@@ -743,51 +864,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 7.66
-    },
-    {
-      "id": "ev-0ban3ch",
-      "title": "Daniel Vallejo vence a Dimitrov y avanza en el Masters 1000 de París",
-      "summary": "Daniel Vallejo derrotó al búlgaro Grigor Dimitrov por 7-6 (7-3), 4-6 y 6-3 en la primera ronda de clasificación del Rolex Paris Masters. El paraguayo quedó a una victoria del cuadro principal. Dimitrov es exnúmero tres del mundo.",
-      "keyPoints": [
-        "Vallejo venció a Dimitrov por 7-6 (7-3), 4-6 y 6-3.",
-        "El partido fue la primera ronda de clasificación del Rolex Paris Masters.",
-        "Dimitrov es exnúmero tres del mundo.",
-        "Vallejo queda a una victoria del cuadro principal."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Daniel Vallejo vuelve a tumbar a un ex top-3",
-          "url": "https://elnacional.com.py/deportes/daniel-vallejo-vuelve-tumbar-ex-top-3-n114514",
-          "publishedAt": "2026-10-31T21:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69ce9a7c1a706.jfif"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Dani Vallejo se impone ante Dimitrov y avanza en el Masters 1000 de París",
-          "url": "https://5dias.com.py/article/dani-vallejo-se-impone-ante-dimitrov-y-avanza-en-el-masters-1000-de-pars",
-          "publishedAt": "2026-10-31T18:13:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Retrato_del_tenista_en_el_estadio_20261031_181445.png"
-        }
-      ],
-      "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Retrato_del_tenista_en_el_estadio_20261031_181445.png",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/dani-vallejo-se-impone-ante-dimitrov-y-avanza-en-el-masters-1000-de-pars"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 6.6
+      "score": 7.32
     },
     {
       "id": "ev-17vwhbd",
@@ -830,7 +907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0nknkfl",
@@ -873,7 +950,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0bh8rhl",
@@ -916,7 +993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1icblht",
@@ -959,7 +1036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ao6hsp",
@@ -1002,7 +1079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-056hvyk",
@@ -1045,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1xvz5mv",
@@ -1088,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0zqorlu",
@@ -1132,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-04c8g9u",
@@ -1176,7 +1253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 6.39
+      "score": 6.05
     },
     {
       "id": "ev-0f7hgu5",
@@ -1219,7 +1296,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.63
     },
     {
       "id": "ev-021exol",
@@ -1251,7 +1328,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
+    },
+    {
+      "id": "ev-0owg8ii",
+      "title": "Marc Márquez gana en Sepang y acelera hacia el título mundial de MotoGP",
+      "summary": "Marc Márquez ganó el Gran Premio de Malasia en Sepang, su séptima victoria de la temporada. Lidera la clasificación provisional con 399 puntos, 44 más que Jorge Martín, que no compitió por una lesión en el brazo derecho. Pedro Acosta y Álex Márquez también terminaron entre los primeros. Marco Bezzecchi fue sexto en la carrera.",
+      "keyPoints": [
+        "Es la séptima victoria de Márquez en la temporada.",
+        "Tiene 44 puntos de ventaja sobre Jorge Martín en la clasificación provisional.",
+        "Marco Bezzecchi terminó sexto en Sepang."
+      ],
+      "category": "deportes",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Márquez acelera por su 8º título mundial tras su victoria en Malasia",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/marquez-acelera-por-su-8-titulo-mundial-tras-su-victoria-en-malasia",
+          "publishedAt": "2026-11-01T11:56:40.000Z",
+          "image": "https://www.abc.com.py/resizer/B-v8KKLe-GVZFaSAlhPeRpTZasM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/KPKLDMJX35CC3HOBETPGRR3A64.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Marc Márquez da un paso más hacia el título en MotoGP; también ganan Alonso y Quiles",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/01/marc-marquez-da-un-paso-mas-hacia-el-titulo-en-motogp-tambien-ganan-alonso-y-quiles",
+          "publishedAt": "2026-11-01T08:15:14.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Séptima victoria de la temporada para Marc Márquez",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/01/septima-victoria-de-la-temporada-para-marc-marquez",
+          "publishedAt": "2026-11-01T08:00:09.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/KPKLDMJX35CC3HOBETPGRR3A64.jpg?auth=390a5ac045e2f4d7c2c0b1f7b19394895babad61a59891704e9a1dde1bece112&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/marquez-acelera-por-su-8-titulo-mundial-tras-su-victoria-en-malasia"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T12:07:11.091Z",
+      "updatedSlot": "manana",
+      "score": 5.49
     },
     {
       "id": "ev-0dhd7es",
@@ -1285,7 +1413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.78
+      "score": 5.45
     },
     {
       "id": "ev-1lphvcq",
@@ -1320,7 +1448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1e17chk",
@@ -1355,7 +1483,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1lb5p3n",
@@ -1384,7 +1512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1oug9qt",
@@ -1419,7 +1547,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0kec48c",
@@ -1454,7 +1582,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0urjiqh",
@@ -1485,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0lz2by7",
@@ -1520,7 +1648,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0nufxmr",
@@ -1555,7 +1683,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0dtc0cv",
@@ -1586,7 +1714,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1yo92y2",
@@ -1621,7 +1749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1et4anq",
@@ -1657,7 +1785,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-1uvlr2e",
@@ -1691,7 +1819,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.82
+      "score": 4.48
     },
     {
       "id": "ev-0cr03xe",
@@ -1726,7 +1854,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.28
     },
     {
       "id": "ev-1udpcit",
@@ -1770,38 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.08
-    },
-    {
-      "id": "ev-0owg8ii",
-      "title": "Marc Márquez gana en Sepang y amplía su ventaja en el Mundial de MotoGP",
-      "summary": "Marc Márquez ganó la carrera de Sepang, su séptima victoria de la temporada. Con ese resultado amplió a 44 puntos su ventaja sobre Jorge Martín, que estuvo ausente. Pedro Acosta y Alex Márquez completaron el podio.",
-      "keyPoints": [
-        "Es la séptima victoria de Márquez en la temporada.",
-        "Lidera el mundial con 44 puntos de ventaja sobre Jorge Martín.",
-        "Pedro Acosta y Alex Márquez terminaron detrás de él."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Séptima victoria de la temporada para Marc Márquez",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/01/septima-victoria-de-la-temporada-para-marc-marquez",
-          "publishedAt": "2026-11-01T08:00:09.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 3.49
+      "score": 3.74
     },
     {
       "id": "ev-08smyk9",
@@ -1832,7 +1929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-0x3qhn6",
@@ -1863,7 +1960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3.06
     },
     {
       "id": "ev-0b82ytd",
@@ -1894,7 +1991,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.35
+      "score": 3.02
     },
     {
       "id": "ev-1sb572v",
@@ -1926,7 +2023,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.33
+      "score": 3
     },
     {
       "id": "ev-12jerc9",
@@ -1957,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.27
+      "score": 2.94
     },
     {
       "id": "ev-1y49t1h",
@@ -1989,7 +2086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.22
+      "score": 2.89
     },
     {
       "id": "ev-1hjccys",
@@ -2024,7 +2121,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.08
+      "score": 2.74
     }
   ],
   "runs": [
@@ -2034,6 +2131,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 65
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-01T12:07:11.091Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 17
     }
   ]
 }
