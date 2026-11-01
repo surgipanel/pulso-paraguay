@@ -1,20 +1,19 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-01T19:37:15.118Z",
+  "generatedAt": "2026-11-01T22:58:25.406Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yzsfh3",
-      "title": "Meteorología emite alerta por tormentas fuertes en gran parte del país",
-      "summary": "La Dirección de Meteorología e Hidrología emitió una alerta por tormentas que afectarán a gran parte del país entre el domingo 1 y el lunes 2 de noviembre. Se esperan lluvias intensas, vientos moderados a fuertes y la posible caída de granizos, sobre todo en el centro y norte de la Región Oriental y el sur de la Occidental. Según Última Hora, la alerta incluye Asunción y el departamento Central.",
+      "title": "Alerta por tormentas en 12 departamentos hasta el lunes 2 de noviembre",
+      "summary": "La Dirección de Meteorología e Hidrología emitió un aviso especial por un sistema de tormentas que afectará a gran parte del país. La zona de cobertura incluye la región Oriental y el este de la Occidental. Se esperan lluvias intensas, ráfagas de viento de hasta 90 km/h y posible caída de granizo. El fenómeno se extiende entre el domingo 1 y el lunes 2 de noviembre, con riesgo de tiempo severo en puntos concretos.",
       "keyPoints": [
-        "La alerta abarca el domingo 1 y el lunes 2 de noviembre.",
-        "Se prevén lluvias intensas y vientos moderados a fuertes.",
-        "Existe posibilidad de caída de granizos en algunas zonas.",
-        "Asunción y el departamento Central están incluidos en la alerta."
+        "Alerta por tormentas en 12 departamentos del país.",
+        "Se esperan ráfagas de hasta 90 km/h y posible caída de granizo.",
+        "El fenómeno se extiende entre el domingo 1 y el lunes 2 de noviembre."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tormentas continuarán hasta primeras horas de la noche en 12 departamentos, según meteorología",
+          "url": "https://www.abc.com.py/clima/2026/11/01/tormentas-continuaran-hasta-primeras-horas-de-la-noche-en-12-departamentos-segun-meteorologia",
+          "publishedAt": "2026-11-01T20:54:53.000Z",
+          "image": "https://www.abc.com.py/resizer/fuV3i2F3p4aec82lFNqsHS2e_YA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EAW6LMLNWFA3HAOIVJABBAUPNA.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Rige alerta de lluvias y tormentas para 12 departamentos del Paraguay",
+          "url": "https://www.ultimahora.com/rige-alerta-de-lluvias-y-tormentas-para-12-departamentos-del-paraguay",
+          "publishedAt": "2026-11-01T20:05:00.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -128,25 +143,99 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6U23T2QY4ZFIPOUUKQNKV55ZFU.png?auth=33d5fe772b23df490c96ec630dd065be87f3924cf4d1f1e9e0393221fae49b43&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/EAW6LMLNWFA3HAOIVJABBAUPNA.jpg?auth=280fd0b37fcc768bec101451b58949955f7681f9a18a9a970831805b4db85973&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/11/01/actualizan-alerta-por-tormentas-ahora-son-12-los-departamentos-afectados-para-esta-tarde"
+        "articleUrl": "https://www.abc.com.py/clima/2026/11/01/tormentas-continuaran-hasta-primeras-horas-de-la-noche-en-12-departamentos-segun-meteorologia"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedAt": "2026-11-01T22:58:25.406Z",
       "updatedSlot": "tarde",
-      "score": 23.93
+      "score": 23.83
+    },
+    {
+      "id": "ev-15ufxm6",
+      "title": "Essap construirá nueva planta de agua potable en el Bañado Sur",
+      "summary": "La Essap anunció la construcción de una planta potabilizadora en el Bañado Sur de Asunción. Producirá 6 millones de litros diarios, equivalentes a 250.000 litros por hora. El proyecto busca beneficiar a unas 30.000 personas de la zona, que hoy tienen dificultades para acceder a agua potable.",
+      "keyPoints": [
+        "La planta producirá 6 millones de litros de agua potable por día.",
+        "La capacidad equivale a 250.000 litros por hora.",
+        "El proyecto beneficiaría a unas 30.000 personas del Bañado Sur."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Essap construirá nueva planta para proveer agua potable a familias del Bañado Sur",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/essap-construira-nueva-planta-para-proveer-agua-potable-a-familias-del-banado-sur",
+          "publishedAt": "2026-11-01T20:21:00.120Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/Y3MHK6QBIJDJRL3D4FA25PT7EQ.jpeg?auth=1fe08bc1af27849d779198af417cf8ab3fb7c23a9eff3b4f808923cb02266568&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nueva planta de Essap en el Bañado Sur",
+          "url": "https://www.lanacion.com.py/ojo/2026/11/01/nueva-planta-de-essap-en-el-banado-sur",
+          "publishedAt": "2026-11-01T17:56:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-zs8-q1sLlxoLRERST4yOGnjNrg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y3MHK6QBIJDJRL3D4FA25PT7EQ.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Essap construirá planta de agua para más de 30.000 personas del Bañado Sur",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/01/essap-construira-planta-de-agua-para-mas-de-30000-personas-del-banado-sur",
+          "publishedAt": "2026-11-01T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xKKrhNsfX53rCglbiUIRN_E18Mg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7AFJVPU5PBH7FMMNONER2LBJQI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nueva planta de agua potable en el Bañado Sur beneficiará a 30.0000 personas",
+          "url": "https://www.lanacion.com.py/pais/2026/10/31/nueva-planta-de-agua-potable-en-el-banado-sur-beneficiara-a-300000-personas",
+          "publishedAt": "2026-10-31T20:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Ny8czvDU4EVGHWDaOQG69jSX4Kk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MJ2IYSCHRRGS3BEWVEDPJC4JQE.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Essap inicia obras para primera planta de tratamiento en el Bañado Sur",
+          "url": "https://www.adndigital.com.py/essap-inicia-obras-para-primera-planta-de-tratamiento-en-el-banado-sur",
+          "publishedAt": "2026-10-31T19:09:24.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/captura-de-pantalla-2026-10-31-130844.png"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "ESSAP anuncia nueva planta de agua potable para beneficiar a 30.000 personas del Bañado Sur",
+          "url": "https://www.npy.com.py/noticias/essap-anuncia-nueva-planta-de-agua-potable-para-beneficiar-a-30-000-personas-del-banado-sur",
+          "publishedAt": "2026-10-31T18:44:58.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/Y3MHK6QBIJDJRL3D4FA25PT7EQ.jpeg?auth=1fe08bc1af27849d779198af417cf8ab3fb7c23a9eff3b4f808923cb02266568&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/01/essap-construira-nueva-planta-para-proveer-agua-potable-a-familias-del-banado-sur"
+      },
+      "firstSeenAt": "2026-11-01T08:07:09.714Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-01T22:58:25.406Z",
+      "updatedSlot": "tarde",
+      "score": 17.78
     },
     {
       "id": "ev-0qlisc5",
-      "title": "Migue Zaldívar gana el Rally del Chaco y es bicampeón nacional",
-      "summary": "Migue Zaldívar, del equipo MZ Racing, ganó el Rally del Chaco 2026 con 26,04 segundos de ventaja sobre Tiago Weiler. Con el triunfo en la Región Occidental, se consagró bicampeón del Campeonato Nacional de Rally. La carrera fue la séptima y última fecha del certamen. El abandono de Alejandro Galanti en la PE18 cambió el rumbo de la definición.",
+      "title": "Migue Zaldívar gana el Rally del Chaco 2026 y es bicampeón nacional",
+      "summary": "Migue Zaldívar, de MZ Racing, ganó la edición 51 del Rally del Chaco con 26,04 segundos de ventaja sobre Tiago Weiler. Con el triunfo también se quedó con el Campeonato Nacional de Rally 2026, su segundo título consecutivo. La carrera se corrió en la Región Occidental y fue la séptima y última fecha del campeonato. Gustavo Saba completó el podio.",
       "keyPoints": [
-        "Migue Zaldívar ganó el Rally del Chaco 2026 y es bicampeón nacional.",
-        "Tiago Weiler fue segundo, a 26,04 segundos.",
-        "Gustavo Saba terminó tercero, a 5 minutos y 9,68 segundos.",
-        "Alejandro Galanti abandonó tras volcar en la PE18."
+        "Migue Zaldívar terminó con 26,04 segundos de ventaja sobre Tiago Weiler.",
+        "Gustavo Saba completó el podio de la clasificación general.",
+        "Es la primera vez que Zaldívar gana el Rally del Chaco."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -154,6 +243,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Todos los ganadores del Rally del Chaco 2026, clase por clase",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/clase-por-clase-todos-los-ganadores-del-rally-del-chaco-2026",
+          "publishedAt": "2026-11-01T22:14:25.000Z",
+          "image": "https://www.abc.com.py/resizer/muDLrqt61vwg6yVOQQ5kCmyGJi0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H3ZXNA32CVETBK5O445KWHM6RM.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rally del Chaco: El historial con la coronación de Migue Zaldívar",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/rally-del-chaco-el-historial-con-el-triunfo-de-migue-zaldivar",
+          "publishedAt": "2026-11-01T20:13:22.000Z",
+          "image": "https://www.abc.com.py/resizer/sQYZ11p0oC_vjwPbFK9IS3AY6U4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YOLNPNTS65CLVHII2KTAFE7UVA.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -244,15 +349,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YWJU6OZ4QBB3PLP4WDV5UDX2SE.jpeg?auth=16e35dbbb38bf4cfe3b7968e942a57a5b8bf94616618d3b841a3f24075470308&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/V2SL3ZMH3BEMBPXAWSUPV5OHTM.jpeg?auth=696255a18c9f8672028f04cc5eca84b59e97ea7c97f73746449aea3cae444933&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-asi-fue-bicampeon-al-ganar-el-rally-del-chaco"
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-gano-el-rally-del-chaco-2026"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedAt": "2026-11-01T22:58:25.406Z",
       "updatedSlot": "tarde",
-      "score": 14.97
+      "score": 14.94
     },
     {
       "id": "ev-0ndxm8d",
@@ -312,67 +417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 13.63
-    },
-    {
-      "id": "ev-15ufxm6",
-      "title": "Essap inicia obras de planta de agua para 30.000 personas del Bañado Sur",
-      "summary": "La Essap comenzó las obras de una nueva planta de tratamiento de agua potable en el Bañado Sur de Asunción. Tendrá capacidad para producir 6 millones de litros diarios y beneficiará a unas 30.000 personas. La obra incluye unos 3.580 metros de tuberías para reforzar la red. Según su presidente, Luis Bernal, también se regularizará el servicio a muchos usuarios.",
-      "keyPoints": [
-        "La planta producirá 250.000 litros de agua potable por hora.",
-        "La obra incluye unos 3.580 metros de tuberías.",
-        "La Essap también regularizará el servicio de muchos usuarios.",
-        "La planta será para el Bañado Sur de Asunción."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Essap construirá planta de agua para más de 30.000 personas del Bañado Sur",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/01/essap-construira-planta-de-agua-para-mas-de-30000-personas-del-banado-sur",
-          "publishedAt": "2026-11-01T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/xKKrhNsfX53rCglbiUIRN_E18Mg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7AFJVPU5PBH7FMMNONER2LBJQI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Nueva planta de agua potable en el Bañado Sur beneficiará a 30.0000 personas",
-          "url": "https://www.lanacion.com.py/pais/2026/10/31/nueva-planta-de-agua-potable-en-el-banado-sur-beneficiara-a-300000-personas",
-          "publishedAt": "2026-10-31T20:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Ny8czvDU4EVGHWDaOQG69jSX4Kk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MJ2IYSCHRRGS3BEWVEDPJC4JQE.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Essap inicia obras para primera planta de tratamiento en el Bañado Sur",
-          "url": "https://www.adndigital.com.py/essap-inicia-obras-para-primera-planta-de-tratamiento-en-el-banado-sur",
-          "publishedAt": "2026-10-31T19:09:24.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/captura-de-pantalla-2026-10-31-130844.png"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "ESSAP anuncia nueva planta de agua potable para beneficiar a 30.000 personas del Bañado Sur",
-          "url": "https://www.npy.com.py/noticias/essap-anuncia-nueva-planta-de-agua-potable-para-beneficiar-a-30-000-personas-del-banado-sur",
-          "publishedAt": "2026-10-31T18:44:58.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7AFJVPU5PBH7FMMNONER2LBJQI.jpg?auth=5ed72ba57cda682f8c61d3421d850011e9f6d4c3e5d19761d425c51b99318eae&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/01/essap-construira-planta-de-agua-para-mas-de-30000-personas-del-banado-sur"
-      },
-      "firstSeenAt": "2026-11-01T08:07:09.714Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-01T08:07:09.714Z",
-      "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.35
     },
     {
       "id": "ev-0ban3ch",
@@ -423,7 +468,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 13.34
+      "score": 13.06
     },
     {
       "id": "ev-0s2qqno",
@@ -474,7 +519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 12.68
+      "score": 12.4
     },
     {
       "id": "ev-0acvcni",
@@ -526,17 +571,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 12.21
+      "score": 12
     },
     {
       "id": "ev-0n9p216",
-      "title": "Cerro Porteño y Olimpia se enfrentan hoy en el último superclásico del año",
-      "summary": "Cerro Porteño y Olimpia se miden este domingo desde las 17:00 en La Nueva Olla, en Barrio Obrero. Es el cuarto y último superclásico liguero del año, por la fecha 17 del torneo Clausura. Ambos equipos ya confirmaron sus formaciones. El arbitraje estará a cargo de Juan Gabriel Benítez.",
+      "title": "Olimpia vence 2-0 a Cerro Porteño en el Superclásico en La Nueva Olla",
+      "summary": "Olimpia ganó 2-0 a Cerro Porteño en el Superclásico disputado en La Nueva Olla. Eduardo Delmás marcó el primer gol en la primera mitad y Bernardo Romeo Benítez anotó el segundo en el complemento. Según ABC Color, Cerro buscó el descuento, pero la defensa visitante se mantuvo sólida. Al final del encuentro hubo incidentes en las tribunas. El triunfo deja a Olimpia firme en la cima del campeonato.",
       "keyPoints": [
-        "El partido se juega este domingo desde las 17:00.",
-        "Es el cuarto y último superclásico liguero de la temporada.",
-        "Corresponde a la fecha 17 del torneo Clausura.",
-        "El árbitro será Juan Gabriel Benítez."
+        "Eduardo Delmás marcó el primer gol en la primera mitad.",
+        "Bernardo Romeo Benítez anotó el segundo gol.",
+        "El partido se jugó en La Nueva Olla."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -544,6 +588,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Una vez más, el Superclásico termina rodeado de violencia",
+          "url": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/una-vez-mas-el-superclasico-termina-rodeado-de-violencia",
+          "publishedAt": "2026-11-01T22:53:22.000Z",
+          "image": "https://www.abc.com.py/resizer/LOBI-4LCYjcSPFPOMnUJCr0q-Uk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SDDYMKZQGVENRDLSOUNE2MBYMU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Olimpia, con dos golazos, mantiene su hegemonía sobre Cerro Porteño en la Nueva Olla",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/01/olimpia-con-dos-golazos-mantiene-su-hegemonia-sobre-cerro-porteno-en-la-nueva-olla",
+          "publishedAt": "2026-11-01T22:04:00.000Z",
+          "image": "https://www.abc.com.py/resizer/YBTWPGZwgjZt1Iv2SlgJimn-MOU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V6XC3FIP7RBJBND5Y254WD3WPE.jpeg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -586,13 +646,13 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/44HVIE274JAOROJBRAZH645HEA.jpg?auth=05af09765706bf465afad41baa42a4cbc248c93f1556eb3fc8c77b080f215d4c&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6HPGFO7P6VFKTNLBYYW4U6P7CI.jpg?auth=c0498dc83b19efb79d60db1c1e37356de929214dad545fe3ce7f32246a1dfcea&width=1200",
         "credit": "ABC Color",
         "articleUrl": "https://www.abc.com.py/deportes/futbol/superclasico/2026/11/01/cerro-porteno-vs-olimpia-superclasico-paraguayo-en-vivo"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T19:37:15.118Z",
+      "updatedAt": "2026-11-01T22:58:25.406Z",
       "updatedSlot": "tarde",
       "score": 11.99
     },
@@ -645,7 +705,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 10.71
+      "score": 10.43
     },
     {
       "id": "ev-1swzfpk",
@@ -697,7 +757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.34
     },
     {
       "id": "ev-00yeorm",
@@ -749,7 +809,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.34
     },
     {
       "id": "ev-1et4anq",
@@ -793,7 +853,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T16:07:13.054Z",
       "updatedSlot": "tarde",
-      "score": 9.55
+      "score": 9.27
     },
     {
       "id": "ev-0bbfmmp",
@@ -837,7 +897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.3
+      "score": 8.02
     },
     {
       "id": "ev-0ypkhgd",
@@ -881,7 +941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-169qfji",
@@ -1063,7 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 7.3
+      "score": 7.02
     },
     {
       "id": "ev-17vwhbd",
@@ -1106,7 +1166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-0nknkfl",
@@ -1149,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-0bh8rhl",
@@ -1192,7 +1252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-1icblht",
@@ -1235,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-0ao6hsp",
@@ -1278,7 +1338,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-056hvyk",
@@ -1321,7 +1381,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-1xvz5mv",
@@ -1364,7 +1424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-0zqorlu",
@@ -1408,7 +1468,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.34
     },
     {
       "id": "ev-04c8g9u",
@@ -1452,7 +1512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.15
     },
     {
       "id": "ev-0f7hgu5",
@@ -1527,7 +1587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.67
     },
     {
       "id": "ev-0owg8ii",
@@ -1578,7 +1638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.58
     },
     {
       "id": "ev-0dhd7es",
@@ -1612,7 +1672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.82
+      "score": 4.54
     },
     {
       "id": "ev-1lphvcq",
@@ -1647,7 +1707,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-1e17chk",
@@ -1682,7 +1742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-1lb5p3n",
@@ -1711,7 +1771,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-1oug9qt",
@@ -1746,7 +1806,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-0kec48c",
@@ -1781,7 +1841,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-0urjiqh",
@@ -1812,7 +1872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-0lz2by7",
@@ -1847,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-0nufxmr",
@@ -1882,7 +1942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-0dtc0cv",
@@ -1913,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.42
     },
     {
       "id": "ev-1uvlr2e",
@@ -2026,7 +2086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 3.12
+      "score": 2.84
     },
     {
       "id": "ev-08smyk9",
@@ -2057,7 +2117,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.52
+      "score": 2.25
     },
     {
       "id": "ev-0x3qhn6",
@@ -2088,7 +2148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.16
     },
     {
       "id": "ev-0b82ytd",
@@ -2119,7 +2179,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.39
+      "score": 2.11
     },
     {
       "id": "ev-1sb572v",
@@ -2151,7 +2211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.37
+      "score": 2.09
     },
     {
       "id": "ev-12jerc9",
@@ -2182,7 +2242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.32
+      "score": 2.04
     },
     {
       "id": "ev-1y49t1h",
@@ -2214,7 +2274,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.26
+      "score": 1.98
     },
     {
       "id": "ev-1hjccys",
@@ -2249,7 +2309,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.12
+      "score": 1.84
     }
   ],
   "runs": [
@@ -2280,6 +2340,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 19
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-01T22:58:25.406Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 15
     }
   ]
 }
