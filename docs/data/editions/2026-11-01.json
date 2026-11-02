@@ -1,19 +1,20 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-01T22:58:25.406Z",
+  "generatedAt": "2026-11-02T02:22:35.439Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yzsfh3",
-      "title": "Alerta por tormentas en 12 departamentos hasta el lunes 2 de noviembre",
-      "summary": "La Dirección de Meteorología e Hidrología emitió un aviso especial por un sistema de tormentas que afectará a gran parte del país. La zona de cobertura incluye la región Oriental y el este de la Occidental. Se esperan lluvias intensas, ráfagas de viento de hasta 90 km/h y posible caída de granizo. El fenómeno se extiende entre el domingo 1 y el lunes 2 de noviembre, con riesgo de tiempo severo en puntos concretos.",
+      "title": "Meteorología mantiene alerta por tormentas en nueve departamentos y núcleos activos",
+      "summary": "La Dirección de Meteorología mantiene la alerta por tormentas en varios departamentos del país. Según el último informe, nueve departamentos siguen bajo alerta por lluvias intensas, descargas eléctricas, vientos fuertes y granizo. Los núcleos de tormenta continúan desarrollándose sobre el territorio nacional, con riesgo de fenómenos severos en la región Oriental y el este de la Occidental. Se recomienda estar atentos a los avisos oficiales.",
       "keyPoints": [
-        "Alerta por tormentas en 12 departamentos del país.",
-        "Se esperan ráfagas de hasta 90 km/h y posible caída de granizo.",
-        "El fenómeno se extiende entre el domingo 1 y el lunes 2 de noviembre."
+        "Nueve departamentos permanecen bajo alerta por tormentas, según Meteorología.",
+        "Se esperan lluvias intensas, descargas eléctricas, vientos fuertes y caída de granizo.",
+        "Los núcleos de tormenta siguen activos sobre el territorio nacional.",
+        "La zona más afectada es la región Oriental y el este de la Occidental."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Meteorología mantiene la alerta en nueve departamentos",
+          "url": "https://www.abc.com.py/clima/2026/11/01/meteorologia-mantiene-la-alerta-en-nueve-departamentos",
+          "publishedAt": "2026-11-02T00:10:39.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -149,9 +158,9 @@
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T22:58:25.406Z",
+      "updatedAt": "2026-11-02T02:22:35.439Z",
       "updatedSlot": "tarde",
-      "score": 23.83
+      "score": 23.82
     },
     {
       "id": "ev-15ufxm6",
@@ -226,16 +235,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T22:58:25.406Z",
       "updatedSlot": "tarde",
-      "score": 17.78
+      "score": 17.5
     },
     {
       "id": "ev-0qlisc5",
       "title": "Migue Zaldívar gana el Rally del Chaco 2026 y es bicampeón nacional",
-      "summary": "Migue Zaldívar, de MZ Racing, ganó la edición 51 del Rally del Chaco con 26,04 segundos de ventaja sobre Tiago Weiler. Con el triunfo también se quedó con el Campeonato Nacional de Rally 2026, su segundo título consecutivo. La carrera se corrió en la Región Occidental y fue la séptima y última fecha del campeonato. Gustavo Saba completó el podio.",
+      "summary": "Migue Zaldívar, de MZ Racing, ganó la edición 51 del Rally del Chaco, la carrera más importante del automovilismo paraguayo. Con el Skoda Fabia RS, terminó con 26,04 segundos de ventaja sobre Tiago Weiler. Con esta victoria también logró el Campeonato Nacional de Rally 2026, por segundo año consecutivo. En la F2, Iván Wasmosy se impuso con el Peugeot 208 Rally4.",
       "keyPoints": [
-        "Migue Zaldívar terminó con 26,04 segundos de ventaja sobre Tiago Weiler.",
-        "Gustavo Saba completó el podio de la clasificación general.",
-        "Es la primera vez que Zaldívar gana el Rally del Chaco."
+        "Migue Zaldívar ganó el Rally del Chaco 2026 con 26,04 segundos de ventaja sobre Tiago Weiler.",
+        "Gustavo Saba terminó tercero en la clasificación general.",
+        "Zaldívar logró el Campeonato Nacional de Rally 2026.",
+        "Iván Wasmosy ganó la categoría F2."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -246,10 +256,26 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
+          "title": "Iván Wasmosy: “El Rally del Chaco elige a su ganador y nos tocó”",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/ivan-wasmosy-el-rally-del-chaco-elige-a-su-ganador-y-nos-toco",
+          "publishedAt": "2026-11-01T22:35:34.000Z",
+          "image": "https://www.abc.com.py/resizer/4a3KBWt9ZQDlyD3peLu2SnjYshA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PZD567LLRVG6JFI3DO32FBBZC4.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
           "title": "Todos los ganadores del Rally del Chaco 2026, clase por clase",
           "url": "https://www.abc.com.py/deportes/motor/2026/11/01/clase-por-clase-todos-los-ganadores-del-rally-del-chaco-2026",
           "publishedAt": "2026-11-01T22:14:25.000Z",
           "image": "https://www.abc.com.py/resizer/muDLrqt61vwg6yVOQQ5kCmyGJi0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H3ZXNA32CVETBK5O445KWHM6RM.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Iván Wasmosy conquistó el Rally del Chaco 2026 en la F2",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/01/ivan-wasmosy-gano-el-rally-del-chaco-2026-en-la-f2",
+          "publishedAt": "2026-11-01T21:17:03.000Z",
+          "image": "https://www.abc.com.py/resizer/wkb81igNWvcPL69moSHQiwQPPxA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QELX5MBXIBHCXEMSGZNCCPPXXQ.jpeg"
         },
         {
           "sourceId": "abc",
@@ -349,15 +375,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/V2SL3ZMH3BEMBPXAWSUPV5OHTM.jpeg?auth=696255a18c9f8672028f04cc5eca84b59e97ea7c97f73746449aea3cae444933&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YZMA4KR6HZG7DAPAAALIK7BEBQ.jpeg?auth=80675fa91809822c64da6bc3e560172d11cfe51553044c381d5b15a6e7a71287&width=1200",
         "credit": "ABC Color",
         "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/01/migue-zaldivar-gano-el-rally-del-chaco-2026"
       },
       "firstSeenAt": "2026-11-01T08:07:09.714Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-01T22:58:25.406Z",
+      "updatedAt": "2026-11-02T02:22:35.439Z",
       "updatedSlot": "tarde",
-      "score": 14.94
+      "score": 14.68
     },
     {
       "id": "ev-0ndxm8d",
@@ -417,7 +443,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 13.35
+      "score": 13.06
     },
     {
       "id": "ev-0ban3ch",
@@ -468,7 +494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 13.06
+      "score": 12.78
     },
     {
       "id": "ev-0s2qqno",
@@ -519,7 +545,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 12.4
+      "score": 12.12
     },
     {
       "id": "ev-0acvcni",
@@ -654,7 +680,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T22:58:25.406Z",
       "updatedSlot": "tarde",
-      "score": 11.99
+      "score": 11.71
     },
     {
       "id": "ev-1yo92y2",
@@ -705,7 +731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T19:37:15.118Z",
       "updatedSlot": "tarde",
-      "score": 10.43
+      "score": 10.14
     },
     {
       "id": "ev-1swzfpk",
@@ -757,7 +783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.34
+      "score": 9.05
     },
     {
       "id": "ev-00yeorm",
@@ -809,7 +835,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 9.34
+      "score": 9.05
     },
     {
       "id": "ev-1et4anq",
@@ -853,7 +879,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T16:07:13.054Z",
       "updatedSlot": "tarde",
-      "score": 9.27
+      "score": 8.99
     },
     {
       "id": "ev-0bbfmmp",
@@ -897,7 +923,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-0ypkhgd",
@@ -1123,7 +1149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 7.02
+      "score": 6.74
     },
     {
       "id": "ev-17vwhbd",
@@ -1166,7 +1192,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-0nknkfl",
@@ -1209,7 +1235,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-0bh8rhl",
@@ -1252,7 +1278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-1icblht",
@@ -1295,7 +1321,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-0ao6hsp",
@@ -1338,7 +1364,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-056hvyk",
@@ -1381,7 +1407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-1xvz5mv",
@@ -1424,7 +1450,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-0zqorlu",
@@ -1468,7 +1494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.05
     },
     {
       "id": "ev-04c8g9u",
@@ -1512,7 +1538,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 5
     },
     {
       "id": "ev-0f7hgu5",
@@ -1587,7 +1613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-0owg8ii",
@@ -1638,7 +1664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T12:07:11.091Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.3
     },
     {
       "id": "ev-0dhd7es",
@@ -1672,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.26
     },
     {
       "id": "ev-1lphvcq",
@@ -1707,7 +1733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-1e17chk",
@@ -1742,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-1lb5p3n",
@@ -1771,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-1oug9qt",
@@ -1806,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0kec48c",
@@ -1841,7 +1867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0urjiqh",
@@ -1872,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0lz2by7",
@@ -1907,7 +1933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0nufxmr",
@@ -1942,7 +1968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0dtc0cv",
@@ -1973,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-1uvlr2e",
@@ -2086,7 +2112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.84
+      "score": 2.55
     },
     {
       "id": "ev-08smyk9",
@@ -2117,7 +2143,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.25
+      "score": 1.96
     },
     {
       "id": "ev-0x3qhn6",
@@ -2148,7 +2174,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.16
+      "score": 1.87
     },
     {
       "id": "ev-0b82ytd",
@@ -2179,7 +2205,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.11
+      "score": 1.83
     },
     {
       "id": "ev-1sb572v",
@@ -2211,7 +2237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.09
+      "score": 1.81
     },
     {
       "id": "ev-12jerc9",
@@ -2242,7 +2268,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 2.04
+      "score": 1.75
     },
     {
       "id": "ev-1y49t1h",
@@ -2274,7 +2300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 1.98
+      "score": 1.7
     },
     {
       "id": "ev-1hjccys",
@@ -2309,7 +2335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-01T08:07:09.714Z",
       "updatedSlot": "manana",
-      "score": 1.84
+      "score": 1.55
     }
   ],
   "runs": [
@@ -2347,6 +2373,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 15
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-02T02:22:35.439Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 13
     }
   ]
 }
