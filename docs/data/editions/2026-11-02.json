@@ -1,11 +1,70 @@
 {
   "date": "2026-11-02",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-02T08:07:12.388Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-02T12:07:14.844Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-08t1phm",
+      "title": "Zenaida Delgado presenta su defensa ante el Senado por denuncia de cobros",
+      "summary": "La senadora Zenaida Delgado comparecerá este lunes ante la Comisión de Asuntos Constitucionales para presentar su descargo. Las acusaciones son de presuntos cobros a funcionarios a cambio de contratos, nombramientos y beneficios. Delgado decidió no renunciar. El miércoles 4 de noviembre, el Senado tratará como primer punto el pedido de pérdida de investidura.",
+      "keyPoints": [
+        "Delgado comparece este lunes a las 15:30.",
+        "Las denuncias son por presuntos cobros a funcionarios.",
+        "El Senado tratará el pedido de pérdida de investidura el miércoles 4 de noviembre."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Zenaida Delgado presenta hoy su defensa ante el Senado por denuncia de cobros a funcionarios",
+          "url": "https://www.adndigital.com.py/zenaida-delgado-presenta-hoy-su-defensa-ante-el-senado-por-denuncia-de-cobros-a-funcionarios",
+          "publishedAt": "2026-11-02T09:50:48.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-141811.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El Senado enfrenta una prueba institucional con el caso Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/el-senado-enfrenta-una-prueba-institucional-caso-zenaida-delgado-n114543",
+          "publishedAt": "2026-11-02T08:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f65c32aad.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Zenaida presenta hoy su descargo ante Constitucionales del Senado",
+          "url": "https://www.ultimahora.com/zenaida-presenta-hoy-su-descargo-ante-constitucionales-del-senado",
+          "publishedAt": "2026-11-02T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Senado: Asuntos Constitucionales mañana recibe a Zenaida Delgado para escuchar su descargo",
+          "url": "https://www.abc.com.py/politica/2026/11/01/senado-asuntos-constitucionales-manana-recibe-a-zenaida-delgado-para-escuchar-su-descargo",
+          "publishedAt": "2026-11-01T18:03:12.000Z",
+          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-141811.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/zenaida-delgado-presenta-hoy-su-defensa-ante-el-senado-por-denuncia-de-cobros-a-funcionarios"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T12:07:14.844Z",
+      "updatedSlot": "manana",
+      "score": 17.81
+    },
     {
       "id": "ev-01kflsm",
       "title": "Remesowski asume como intendente de Encarnación con la presencia de Cartes, Peña y Alliana",
@@ -64,7 +123,110 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 14.63
+      "score": 14.29
+    },
+    {
+      "id": "ev-1tuj07f",
+      "title": "Muere médica de 26 años y ya suman cuatro víctimas por choque en Guairá",
+      "summary": "Murió una médica de 26 años que estaba internada en estado crítico en el Hospital Regional de Villarrica. Había sobrevivido al accidente de tránsito de Mbocayaty, en Guairá. Con su muerte, el saldo del choque subió a cuatro fallecidos.",
+      "keyPoints": [
+        "El accidente ocurrió en Mbocayaty, Guairá.",
+        "La víctima es una joven médica de 26 años.",
+        "Permanecía internada en el Hospital Regional de Villarrica.",
+        "El saldo del accidente asciende a cuatro muertos."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fallece joven médica que sobrevivió al choque que dejó tres muertos en Guairá",
+          "url": "https://www.adndigital.com.py/fallece-joven-medica-que-sobrevivio-al-choque-que-dejo-tres-muertos-en-guaira",
+          "publishedAt": "2026-11-02T11:32:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Choque en Guairá: confirman muerte de joven médica y ya suman cuatro víctimas",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/choque-en-guaira-confirman-muerte-de-joven-medica-y-ya-suman-cuatro-victimas",
+          "publishedAt": "2026-11-01T23:21:00.042Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/L5Q3ZPSQORB6VG5UNRH6N26OEY.jpg?auth=e67a962b0952a7c0a3c967eab6a1c47806b4aa8b59b8741ba445e1147ff8f359&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fallece la médica superviviente del trágico choque en Mbocayaty",
+          "url": "https://www.lanacion.com.py/pais/2026/11/01/fallece-la-medica-superviviente-del-tragico-choque-en-mbocayaty",
+          "publishedAt": "2026-11-01T19:11:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Zcr1_7yKxLYDihvq5ntKDLxwWmw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y2LAFT5PSRHZHGPEDGPDMWSNWU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/L5Q3ZPSQORB6VG5UNRH6N26OEY.jpg?auth=e67a962b0952a7c0a3c967eab6a1c47806b4aa8b59b8741ba445e1147ff8f359&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/01/choque-en-guaira-confirman-muerte-de-joven-medica-y-ya-suman-cuatro-victimas"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T12:07:14.844Z",
+      "updatedSlot": "manana",
+      "score": 13.95
+    },
+    {
+      "id": "ev-06ik8rt",
+      "title": "Investigan presunto feminicidio en Pedro Juan Caballero; el concubino está prófugo",
+      "summary": "Una joven de 26 años murió tras recibir un disparo en la cabeza en Pedro Juan Caballero. Se investiga como presunto feminicidio. El principal sospechoso es su concubino, que permanece prófugo y es buscado por la Policía.",
+      "keyPoints": [
+        "La víctima tenía 26 años.",
+        "Se investiga como presunto feminicidio.",
+        "El principal sospechoso es el concubino, que está prófugo."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Nuevo presunto feminicidio en Pedro Juan Caballero: joven murió tras recibir un disparo",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/nuevo-presunto-feminicidio-en-pedro-juan-caballero-joven-murio-tras-recibir-un-disparo",
+          "publishedAt": "2026-11-02T10:55:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nuevo feminicidio en Pedro Juan",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan",
+          "publishedAt": "2026-11-02T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/F6J1UGu7uBIU1zHHvhPEeefqkmQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Nuevo feminicidio en PJC: mujer murió de un disparo en la cabeza",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/nuevo-feminicidio-en-pjc-mujer-murio-de-un-disparo-en-la-cabeza",
+          "publishedAt": "2026-11-01T17:58:00.487Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JS573SKDXBBXVPZ5CD2OGIGZPI.jpg?auth=55523479a3137b8e2cef1b0c1d253ad5fbcdfeb5ab3adda03250e9f2fc8d0b4f&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg?auth=d4d609b1c0b3975f0f70961275ecf6f7c5eb1923d57c43bbb8a58a70591e9b44&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T12:07:14.844Z",
+      "updatedSlot": "manana",
+      "score": 13.9
     },
     {
       "id": "ev-0hdwwr6",
@@ -116,7 +278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 13.63
+      "score": 13.3
     },
     {
       "id": "ev-1l36qzj",
@@ -168,51 +330,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-08t1phm",
-      "title": "Zenaida Delgado presenta su descargo ante la comisión del Senado por pedido de pérdida de investidura",
-      "summary": "La senadora Zenaida Delgado será recibida el lunes a las 15:30 por la Comisión de Asuntos Constitucionales, junto con su abogado. Expondrá su descargo sobre las acusaciones de un supuesto \"peaje salarial\" que involucraría a funcionarios a su cargo. El pedido de pérdida de investidura fue impulsado por la senadora Yolanda Paredes. Según Última Hora, la senadora no renuncia y prefiere el proceso de expulsión.",
-      "keyPoints": [
-        "La reunión será el lunes a las 15:30 en la sala de sesiones del Senado.",
-        "Se trata de un pedido de pérdida de investidura.",
-        "Las acusaciones señalan un supuesto \"peaje salarial\" a funcionarios.",
-        "Según Última Hora, Delgado no renuncia al cargo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Zenaida presenta hoy su descargo ante Constitucionales del Senado",
-          "url": "https://www.ultimahora.com/zenaida-presenta-hoy-su-descargo-ante-constitucionales-del-senado",
-          "publishedAt": "2026-11-02T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Senado: Asuntos Constitucionales mañana recibe a Zenaida Delgado para escuchar su descargo",
-          "url": "https://www.abc.com.py/politica/2026/11/01/senado-asuntos-constitucionales-manana-recibe-a-zenaida-delgado-para-escuchar-su-descargo",
-          "publishedAt": "2026-11-01T18:03:12.000Z",
-          "image": "https://www.abc.com.py/resizer/GphT5Ddhz-sHCnWPrJuMvtCjnNg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/AV3ICJ5K2NHTHO6ET237PSJBLA.jpg?auth=3cb2bb5b201590f3bf1bc7059d568c451001012bb04d7c388383b4256adf9ab1&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/01/senado-asuntos-constitucionales-manana-recibe-a-zenaida-delgado-para-escuchar-su-descargo"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 9.91
+      "score": 10.24
     },
     {
       "id": "ev-051roai",
@@ -255,51 +373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.62
-    },
-    {
-      "id": "ev-06ik8rt",
-      "title": "Mujer de 26 años murió de un disparo en Pedro Juan Caballero; buscan a su concubino",
-      "summary": "Una mujer de 26 años murió de un disparo en la cabeza en Pedro Juan Caballero. Un hecho que se investiga como posible feminicidio. Su concubino es señalado como presunto autor y se encuentra prófugo, según la Policía. La violencia contra las mujeres sigue siendo un problema grave en el país.",
-      "keyPoints": [
-        "La víctima es una mujer de 26 años que recibió un disparo en la cabeza.",
-        "El hecho se registró en Pedro Juan Caballero.",
-        "Su concubino es señalado como principal sospechoso.",
-        "El sospechoso está prófugo y la policía lo busca."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Nuevo feminicidio en Pedro Juan",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan",
-          "publishedAt": "2026-11-02T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/F6J1UGu7uBIU1zHHvhPEeefqkmQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Nuevo feminicidio en PJC: mujer murió de un disparo en la cabeza",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/01/nuevo-feminicidio-en-pjc-mujer-murio-de-un-disparo-en-la-cabeza",
-          "publishedAt": "2026-11-01T17:58:00.487Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/JS573SKDXBBXVPZ5CD2OGIGZPI.jpg?auth=55523479a3137b8e2cef1b0c1d253ad5fbcdfeb5ab3adda03250e9f2fc8d0b4f&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg?auth=d4d609b1c0b3975f0f70961275ecf6f7c5eb1923d57c43bbb8a58a70591e9b44&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.29
     },
     {
       "id": "ev-0pyfru8",
@@ -343,51 +417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.55
-    },
-    {
-      "id": "ev-1tuj07f",
-      "title": "Murió una joven médica herida en choque en Mbocayaty; suman cuatro fallecidos",
-      "summary": "La joven médica internada tras un choque en Mbocayaty, Guairá, murió este domingo. El accidente fue un choque frontal entre un automóvil BMW y un camión de gran porte. Con su muerte, suman cuatro las víctimas fatales, según las notas.",
-      "keyPoints": [
-        "El choque fue frontal entre un BMW y un camión.",
-        "La médica estaba internada en grave estado.",
-        "Suman cuatro fallecidos en el accidente.",
-        "El hecho ocurrió en el distrito de Mbocayaty, Guairá."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Choque en Guairá: confirman muerte de joven médica y ya suman cuatro víctimas",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/01/choque-en-guaira-confirman-muerte-de-joven-medica-y-ya-suman-cuatro-victimas",
-          "publishedAt": "2026-11-01T23:21:00.042Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/L5Q3ZPSQORB6VG5UNRH6N26OEY.jpg?auth=e67a962b0952a7c0a3c967eab6a1c47806b4aa8b59b8741ba445e1147ff8f359&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fallece la médica superviviente del trágico choque en Mbocayaty",
-          "url": "https://www.lanacion.com.py/pais/2026/11/01/fallece-la-medica-superviviente-del-tragico-choque-en-mbocayaty",
-          "publishedAt": "2026-11-01T19:11:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Zcr1_7yKxLYDihvq5ntKDLxwWmw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y2LAFT5PSRHZHGPEDGPDMWSNWU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/L5Q3ZPSQORB6VG5UNRH6N26OEY.jpg?auth=e67a962b0952a7c0a3c967eab6a1c47806b4aa8b59b8741ba445e1147ff8f359&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/01/choque-en-guaira-confirman-muerte-de-joven-medica-y-ya-suman-cuatro-victimas"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 9.27
+      "score": 9.22
     },
     {
       "id": "ev-0sqotzd",
@@ -431,7 +461,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.2
+      "score": 8.87
     },
     {
       "id": "ev-1qfonmt",
@@ -475,7 +505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.77
     },
     {
       "id": "ev-04q668y",
@@ -518,7 +548,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.02
+      "score": 8.69
     },
     {
       "id": "ev-1r7yerd",
@@ -561,7 +591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.98
+      "score": 8.65
     },
     {
       "id": "ev-1uumcml",
@@ -604,7 +634,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-0gyr5f2",
@@ -647,7 +677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.49
+      "score": 6.16
     },
     {
       "id": "ev-1l9xf1p",
@@ -690,7 +720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.47
+      "score": 6.14
     },
     {
       "id": "ev-15tkde7",
@@ -734,7 +764,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.3
+      "score": 5.96
     },
     {
       "id": "ev-0sqxibe",
@@ -777,7 +807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.79
     },
     {
       "id": "ev-1vzyt0e",
@@ -831,7 +861,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.07
+      "score": 5.74
     },
     {
       "id": "ev-0xcg3kg",
@@ -866,7 +896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0nahjvc",
@@ -901,7 +931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-1p42y4j",
@@ -932,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1kuogkd",
@@ -963,7 +993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1aqwr8r",
@@ -994,7 +1024,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1qic84g",
@@ -1025,7 +1055,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0j8u520",
@@ -1056,7 +1086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1t6egjo",
@@ -1087,7 +1117,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-04pfcyt",
@@ -1116,7 +1146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0xy5qc5",
@@ -1147,7 +1177,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-13hpb6o",
@@ -1176,7 +1206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-12iugh4",
@@ -1211,7 +1241,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.34
     },
     {
       "id": "ev-19ttbyu",
@@ -1240,7 +1270,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0ek9bgd",
@@ -1276,7 +1306,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-039t61c",
@@ -1309,7 +1339,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.29
+    },
+    {
+      "id": "ev-1w6l3f1",
+      "title": "Las panteras quedaron en el sexto puesto en la FIBA AmeriCup 3x3 de El Salvador",
+      "summary": "Las panteras guaraníes cayeron en la jornada final del AmeriCup 3x3 de baloncesto dándole porfiada batalla a la selección de Estados Unidos, por cuartos de final del torneo que se realizó en el Salvador. Resultó campeón Canadá, que se impuso a EE.UU. en la final.",
+      "keyPoints": [
+        "Las panteras guaraníes cayeron en la jornada final del AmeriCup 3x3 de baloncesto dándole porfiada batalla a la selección de Estados Unidos, por cuartos de final del torneo que se realizó en el Salvador."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Las panteras quedaron en el sexto puesto en la FIBA AmeriCup 3x3 de El Salvador",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/02/las-panteras-quedaron-en-el-sexto-puesto-en-la-fiba-americup-3x3-de-el-salvador",
+          "publishedAt": "2026-11-02T03:05:31.000Z",
+          "image": "https://www.abc.com.py/resizer/sZXz4Qn4amrJec0lQAIkTVSIrqo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7CCDZK4DSJENHOQTDTDVC6HEVA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7CCDZK4DSJENHOQTDTDVC6HEVA.jpeg?auth=1dbd6dd7b128fbedc13b5c7693792f424ced8d46061bf492c453bb1a88476918&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/02/las-panteras-quedaron-en-el-sexto-puesto-en-la-fiba-americup-3x3-de-el-salvador"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T08:07:12.388Z",
+      "updatedSlot": "manana",
+      "score": 5.25
     },
     {
       "id": "ev-07h2xxq",
@@ -1344,7 +1407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0gdjg5i",
@@ -1374,40 +1437,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.58
-    },
-    {
-      "id": "ev-1w6l3f1",
-      "title": "Las panteras quedaron en el sexto puesto en la FIBA AmeriCup 3x3 de El Salvador",
-      "summary": "Las panteras guaraníes cayeron en la jornada final del AmeriCup 3x3 de baloncesto dándole porfiada batalla a la selección de Estados Unidos, por cuartos de final del torneo que se realizó en el Salvador. Resultó campeón Canadá, que se impuso a EE.UU. en la final.",
-      "keyPoints": [
-        "Las panteras guaraníes cayeron en la jornada final del AmeriCup 3x3 de baloncesto dándole porfiada batalla a la selección de Estados Unidos, por cuartos de final del torneo que se realizó en el Salvador."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Las panteras quedaron en el sexto puesto en la FIBA AmeriCup 3x3 de El Salvador",
-          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/02/las-panteras-quedaron-en-el-sexto-puesto-en-la-fiba-americup-3x3-de-el-salvador",
-          "publishedAt": "2026-11-02T03:05:31.000Z",
-          "image": "https://www.abc.com.py/resizer/sZXz4Qn4amrJec0lQAIkTVSIrqo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7CCDZK4DSJENHOQTDTDVC6HEVA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7CCDZK4DSJENHOQTDTDVC6HEVA.jpeg?auth=1dbd6dd7b128fbedc13b5c7693792f424ced8d46061bf492c453bb1a88476918&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/02/las-panteras-quedaron-en-el-sexto-puesto-en-la-fiba-americup-3x3-de-el-salvador"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1f86nxs",
@@ -1442,7 +1472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-04zrfr2",
@@ -1475,7 +1505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0ebh8sl",
@@ -1511,7 +1541,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.2
     },
     {
       "id": "ev-08abdth",
@@ -1559,7 +1589,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.05
     },
     {
       "id": "ev-098her0",
@@ -1594,7 +1624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.74
     },
     {
       "id": "ev-04qu2nb",
@@ -1629,7 +1659,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.74
     },
     {
       "id": "ev-14d6re4",
@@ -1664,7 +1694,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-1rkkt7s",
@@ -1699,7 +1729,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-0cytpx6",
@@ -1734,7 +1764,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.71
     },
     {
       "id": "ev-0xxsq2n",
@@ -1769,7 +1799,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.64
     },
     {
       "id": "ev-0ba0x7z",
@@ -1805,7 +1835,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.53
     },
     {
       "id": "ev-0ioz0s8",
@@ -1838,7 +1868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.07
     },
     {
       "id": "ev-1asgcol",
@@ -1877,7 +1907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 3.99
     },
     {
       "id": "ev-16md7o0",
@@ -1917,7 +1947,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.25
+      "score": 3.92
     }
   ],
   "runs": [
@@ -1927,6 +1957,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 63
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-02T12:07:14.844Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 20
     }
   ]
 }
