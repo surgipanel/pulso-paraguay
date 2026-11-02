@@ -1,27 +1,75 @@
 {
   "date": "2026-11-02",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-02T16:07:12.768Z",
+  "generatedAt": "2026-11-02T19:37:13.266Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-08t1phm",
-      "title": "Senadores piden la pérdida de investidura de Zenaida Delgado por supuestos cobros",
-      "summary": "Senadores como Líder Amarilla, Blanca Ovelar y Lizarella Valiente consideran que Zenaida Delgado perdió la confianza y debería dejar la banca. Delgado enfrenta acusaciones de presuntos cobros irregulares a funcionarias de su despacho, denunciadas por Yolanda Paredes. La Comisión de Asuntos Constitucionales recibirá su descargo y luego emitirá un dictamen. El pedido será tratado el miércoles 4 de noviembre.",
+      "title": "Zenaida Delgado renuncia al Senado",
+      "summary": "La cuestionada senadora colorada Zenaida Delgado envió una carta al presidente del Congreso Nacional, Basilio ‘Bachi’ Núñez para comunicar su renuncia a la Cámara de Senadores. “Esta decisión obedece a razones personales y familiares, ante el impacto que la exposición pública de los últimos días ha generado en mi entorno”, precisó.",
       "keyPoints": [
-        "Las acusaciones son por presuntos cobros a funcionarias de su despacho.",
-        "La denuncia fue impulsada por Yolanda Paredes.",
-        "La Comisión de Asuntos Constitucionales recibe su defensa y luego emite dictamen.",
-        "El pedido de pérdida de investidura se tratará el miércoles 4 de noviembre."
+        "La cuestionada senadora colorada Zenaida Delgado envió una carta al presidente del Congreso Nacional, Basilio ‘Bachi’ Núñez para comunicar su renuncia a la Cámara de Senadores.",
+        "La senadora Zenaida Delgado finalmente presentó renuncia ante el Congreso alegando una decisión personal y luego de que salieran a luz acusaciones sobre supuestos descuentos o cobros indebidos a funcionarios vinculados a su despacho.",
+        "La senadora Zenaida Delgado oficializó este lunes su dimisión al cargo de senadora de la Nación, formalizando su salida de la Cámara Alta en medio de denuncias y un inminente pedido de pérdida de investidura en…",
+        "La senadora Zenaida Delgado (ANR, ex Cruzada Nacional) pidió más tiempo y cuestionó el procedimiento de pérdida de investidura que enfrenta por las graves denuncias de un supuesto esquema de “ peaje salarial ” a funcionarios…"
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado ante su inminente destitución en el Senado",
+          "url": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-ante-su-inminente-destitucion-en-el-senado",
+          "publishedAt": "2026-11-02T19:35:00.000Z",
+          "image": "https://www.abc.com.py/resizer/1f9VUH7EMWdKr5HNZqBzE19Xq4k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SOBXMAMPRVH7XJDJKY2ITP2QI4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Médico cirujano asumirá como senador tras la renuncia de Zenaida Delgado",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/02/medico-cirujano-asumiria-como-senador-tras-la-renuncia-de-zenaida-delgado",
+          "publishedAt": "2026-11-02T19:23:16.172Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2Y5E43ZXQ5GWPJRM7MDZJTBV5E.jpg?auth=9b408a69c68940d51ce7a91607496f2639e1464cdae3c6d0e32f2615f7d78b11&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Zenaida Delgado presentó su renuncia al Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
+          "publishedAt": "2026-11-02T18:33:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/46d4yM7g1OGSYsV_PjKtHWqdPVA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KXMC6GCUHFHM3JY243CHOTFXYQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zenaida Delgado finalmente renunció al Senado",
+          "url": "https://elnacional.com.py/politica/zenaida-delgado-finalmente-renuncio-senado-n114586",
+          "publishedAt": "2026-11-02T18:24:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Zenaida Delgado presentó su renuncia al Senado",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
+          "publishedAt": "2026-11-02T18:21:54.327Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MKJXZX54KVEV3MUEDV4JD7GGTA.jpg?auth=8db9a8d6c6129a024d8fdc22551de15055aef333ba34b5ea29c3d634eaa61f33&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado renuncia al Senado",
+          "url": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-renuncia-al-senado",
+          "publishedAt": "2026-11-02T18:20:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Wh01MZs9LNVIyNQ1vGy5nIieG7Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7RTNPNMGYZF3LI75KWDOQSQHCI.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -128,32 +176,48 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg?auth=2a27670819ae18d06d6692588d97c05bc87c7bdd5474e08597f0ea66cad9c2e8&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7RTNPNMGYZF3LI75KWDOQSQHCI.jpg?auth=a3e0bd33d71682b02ffe29143c05eb35a769c178e979e81af2e24a9e3f00ab64&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-estan-dadas-las-condiciones-para-que-deje-el-senado-dice-lider-amarilla"
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-renuncia-al-senado"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T16:07:12.768Z",
+      "updatedAt": "2026-11-02T19:37:13.266Z",
       "updatedSlot": "tarde",
-      "score": 23.94
+      "score": 27
     },
     {
       "id": "ev-06ik8rt",
-      "title": "Hombre acusado de matar a su pareja en Pedro Juan Caballero sigue prófugo",
-      "summary": "Una mujer de 26 años, Reinalda López Núñez, murió tras recibir un disparo en la cabeza en el predio del Cementerio Alemán de Pedro Juan Caballero, Amambay, en la madrugada del sábado 31 de octubre. Según el jefe de Investigaciones de Amambay, su pareja, Nelson Cárdenas, la llevó al lugar y le disparó. El hombre huyó en una motocicleta y permanece prófugo. Los medios señalan que podría haber imitado otro caso.",
+      "title": "Tenía denuncias por violencia y asesinó a su ex pareja en otro presunto caso de feminicidio",
+      "summary": "Una mujer de 39 años fue asesinada por su ex pareja en un nuevo caso de presunto feminicidio que enluta a Ciudad del Este. El hombre hostigaba a la mujer a pesar de haber acabado la relación por denunciar de violencia familiar.",
       "keyPoints": [
-        "La víctima es Reinalda López Núñez, de 26 años.",
-        "Según la policía, el principal sospechoso es su pareja, Nelson Cárdenas.",
-        "El sospechoso permanece prófugo.",
-        "El hecho ocurrió en el Cementerio Alemán de Pedro Juan Caballero."
+        "Una mujer de 39 años fue asesinada por su ex pareja en un nuevo caso de presunto feminicidio que enluta a Ciudad del Este.",
+        "El principal sospechoso del crimen es su concubino, quien se encuentra prófugo y está siendo buscado por la policía.",
+        "Un nuevo caso de presunto feminicidio se reportó este lunes en Ciudad del Este.",
+        "María de Jesús Ramírez fue atacada en su vivienda, en Ciudad del Este."
       ],
       "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tenía denuncias por violencia y asesinó a su ex pareja en otro presunto caso de feminicidio",
+          "url": "https://www.ultimahora.com/tenia-denuncias-por-violencia-y-asesino-a-su-ex-pareja-en-otro-presunto-caso-de-feminicidio",
+          "publishedAt": "2026-11-02T18:44:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Feminicidio en CDE: autor tenía 4 denuncias y envió foto de “panteón” a la víctima",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/02/feminicidio-en-cde-autor-tenia-4-denuncias-y-envio-foto-de-panteon-a-la-victima",
+          "publishedAt": "2026-11-02T15:21:17.137Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JZWGUG4ZKNHF3EHEF4AW6DD4ZQ.jpg?auth=05409f9ac1dbb49b9631e8fb809fb4576a46f12b39431be9f56f0b47f1f27194&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -161,6 +225,22 @@
           "url": "https://www.abc.com.py/policiales/2026/11/02/feminicidio-en-pedro-juan-caballero-autor-imito-el-caso-de-eusebio-ayala",
           "publishedAt": "2026-11-02T14:36:30.000Z",
           "image": "https://www.abc.com.py/resizer/hxWIDLh3HyiD0cujioQhDNYABHg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LQTAYWYHJFDMXIXIBNFAKNSBOM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Feminicidio en CDE: la asesinó a tiros pese a las denuncias previas",
+          "url": "https://elnacional.com.py/nacionales/feminicidio-cde-asesino-tiros-pese-denuncias-previas-n114564",
+          "publishedAt": "2026-11-02T13:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae889e94f533.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Reportan nuevo caso de presunto feminicidio en Ciudad del Este",
+          "url": "https://www.lanacion.com.py/pais/2026/11/02/reportan-nuevo-caso-de-presunto-feminicidio-en-ciudad-del-este",
+          "publishedAt": "2026-11-02T12:44:33.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_e_fXP8Y_-g4vWllRm6dR_zSl78=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FWPNCZ3EUREUPAF6T7BT36ADQ4.jpeg"
         },
         {
           "sourceId": "npy",
@@ -188,32 +268,96 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LQTAYWYHJFDMXIXIBNFAKNSBOM.jpg?auth=e58e0e9bd7322497ea3f7980878440e4edb174569712c8ae97f329308e12e6b2&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/02/feminicidio-en-pedro-juan-caballero-autor-imito-el-caso-de-eusebio-ayala"
+        "url": "https://www.lanacion.com.py/resizer/v2/JZWGUG4ZKNHF3EHEF4AW6DD4ZQ.jpg?auth=05409f9ac1dbb49b9631e8fb809fb4576a46f12b39431be9f56f0b47f1f27194&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/02/feminicidio-en-cde-autor-tenia-4-denuncias-y-envio-foto-de-panteon-a-la-victima"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T16:07:12.768Z",
+      "updatedAt": "2026-11-02T19:37:13.266Z",
       "updatedSlot": "tarde",
-      "score": 17.87
+      "score": 23.93
     },
     {
       "id": "ev-01kflsm",
-      "title": "Remesowski asume como intendente de Encarnación con la presencia de Cartes, Peña y Alliana",
-      "summary": "Sebastián \"Cheba\" Remesowski asumirá este martes 3 de noviembre como intendente de Encarnación para el período 2026-2031, en un acto en el Club de Pesca Pacucua. Estarán presentes el presidente Santiago Peña, el vicepresidente Pedro Alliana y el titular de la ANR, Horacio Cartes. La presencia de los tres referentes concentra la atención política por la tensión dentro del Partido Colorado.",
+      "title": "Remesowski inició corte en Encarnación: anunció auditoría y la presencia de Peña y Cartes",
+      "summary": "Sebastián “Cheba” Remesowski (derecha), en una conferencia de prensa con el intendente saliente Luis Yd, inició el corte administrativo en Encarnación. Foto: Rocío Gómez/NM Además del titular de la ANR, también estarán presentes el presidente de la República, Santiago Peña, y el vice Pedro Alliana.",
       "keyPoints": [
-        "Remesowski asumirá como intendente de Encarnación para el período 2026-2031.",
-        "El acto será el martes 3 de noviembre en el Club de Pesca Pacucua.",
-        "Asistirán Santiago Peña, Pedro Alliana y Horacio Cartes.",
-        "La ANR recupera el control de la capital de Itapúa, según ADN Digital."
+        "Sebastián “Cheba” Remesowski (derecha), en una conferencia de prensa con el intendente saliente Luis Yd, inició el corte administrativo en Encarnación.",
+        "Además del titular de la ANR, también estarán presentes el presidente de la República, Santiago Peña, y el vice Pedro Alliana.",
+        "El titular de la ANR acompañará este martes 3 de noviembre la asunción de Sebastián \"Cheba\" Remesowski como intendente de Encarnación.",
+        "El equipo de Sebastián Remesowski arrancó la transición comunal que culminará en un plazo de 10 a 15 días."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cartes reaparecerá mañana en Encarnación tras el quiebre de Honor Colorado",
+          "url": "https://www.abc.com.py/politica/2026/11/02/cartes-reaparecera-manana-en-encarnacion-tras-el-quiebre-de-honor-colorado",
+          "publishedAt": "2026-11-02T18:47:06.000Z",
+          "image": "https://www.abc.com.py/resizer/7FWkfqMfoYcqj-6KE_N7SIueGjo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HBTWUT4MPNEYND7VVDUGVRNVCI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 2 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/02/ln-pm-edicion-del-2-de-noviembre",
+          "publishedAt": "2026-11-02T15:16:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/t6ovy1PNaGpkOK4WLqP8pbu0AfY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JJGJIXDUWRDCZKUXZKFFVZ4DDY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inició el corte administrativo en Encarnación con la presencia de la Contraloría",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/inicio-el-corte-administrativo-en-encarnacion-con-la-presencia-de-la-contraloria",
+          "publishedAt": "2026-11-02T14:11:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KPIkeqKWlKglheaHGnoPjzU5Vbc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/G3YU3L7LD5DH5MEVYHJNJ5DPWM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana pide “arreglar la casa” antes de definir dupla",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/alliana-pide-arreglar-la-casa-antes-de-definir-dupla",
+          "publishedAt": "2026-11-02T13:43:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/B67HyULJW1UpowehhrIEVobkbdg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X4UHSSYAPFABLILUE2TRC3GXK4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Contraloría urge un sistema integrado para controlar el patrimonio público",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/contraloria-urge-un-sistema-integrado-para-controlar-el-patrimonio-publico",
+          "publishedAt": "2026-11-02T13:03:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GsViqjuD7fYiY8dyUELT-VjCvzw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SFV3ZICL6RF67E7NM7GWA3Q32I.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Remesowski inició corte en Encarnación: anunció auditoría y la presencia de Peña y Cartes",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/remesowski-inicio-corte-en-encarnacion-anuncio-auditoria-y-la-presencia-de-pena",
+          "publishedAt": "2026-11-02T12:42:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TB6xAcwYtukwXeCLrboA3cdhLvQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COUDA2OVKNFTBAFVUN7UOH7DEE.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana vuelve a mantener el misterio sobre su dupla: \"Primero hay que arreglar la casa\"",
+          "url": "https://elnacional.com.py/politica/alliana-vuelve-mantener-misterio-sobre-su-dupla-primero-hay-arreglar-casa-n114556",
+          "publishedAt": "2026-11-02T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a6ac371044b5.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuertes lluvias y granizos afectaron Alto Paraná y Canindeyú",
+          "url": "https://www.lanacion.com.py/pais/2026/11/02/fuertes-lluvias-y-granizos-afectaron-alto-parana-y-canindeyu",
+          "publishedAt": "2026-11-02T11:25:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/SxP-WvepJZY5vYIYMBml3KgQqCQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L5RJNYXHIRAIHLRRRVJ7LHIH4U.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -248,15 +392,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UEXU7Q7GNJDTZMLO5GZKCA35IQ.jpg?auth=46cc69d78fa86379fbb010408dfa1689f2db99aa30bfa033e420c9efd06b9cf8&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/COUDA2OVKNFTBAFVUN7UOH7DEE.jpeg?auth=3c82367b83b64ce2df29189d9c218a054aa40f0148d4754c1eaf275b5738fb7c&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/02/cartes-acompanara-el-juramento-de-remesowski-en-encarnacion"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/02/remesowski-inicio-corte-en-encarnacion-anuncio-auditoria-y-la-presencia-de-pena"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 13.96
+      "updatedAt": "2026-11-02T19:37:13.266Z",
+      "updatedSlot": "tarde",
+      "score": 17.93
     },
     {
       "id": "ev-1tuj07f",
@@ -308,7 +452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T12:07:14.844Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.33
     },
     {
       "id": "ev-0hdwwr6",
@@ -360,7 +504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 12.96
+      "score": 12.67
     },
     {
       "id": "ev-1l36qzj",
@@ -412,7 +556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-051roai",
@@ -455,7 +599,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.67
     },
     {
       "id": "ev-0pyfru8",
@@ -499,7 +643,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.88
+      "score": 8.59
     },
     {
       "id": "ev-0sqotzd",
@@ -543,7 +687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.24
     },
     {
       "id": "ev-1qfonmt",
@@ -587,7 +731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.43
+      "score": 8.14
     },
     {
       "id": "ev-04q668y",
@@ -630,7 +774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.06
     },
     {
       "id": "ev-1r7yerd",
@@ -673,7 +817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.31
+      "score": 8.02
     },
     {
       "id": "ev-1uumcml",
@@ -716,7 +860,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.12
     },
     {
       "id": "ev-0gyr5f2",
@@ -759,7 +903,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.53
     },
     {
       "id": "ev-1l9xf1p",
@@ -802,7 +946,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.8
+      "score": 5.51
     },
     {
       "id": "ev-15tkde7",
@@ -846,7 +990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.5
     },
     {
       "id": "ev-0sqxibe",
@@ -889,7 +1033,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.16
     },
     {
       "id": "ev-1vzyt0e",
@@ -943,7 +1087,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.12
     },
     {
       "id": "ev-0xcg3kg",
@@ -978,7 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-0nahjvc",
@@ -1013,7 +1157,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-1p42y4j",
@@ -1044,7 +1188,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1kuogkd",
@@ -1075,7 +1219,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1aqwr8r",
@@ -1106,7 +1250,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1qic84g",
@@ -1137,7 +1281,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0j8u520",
@@ -1168,7 +1312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1t6egjo",
@@ -1199,7 +1343,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-04pfcyt",
@@ -1228,7 +1372,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0xy5qc5",
@@ -1259,7 +1403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-13hpb6o",
@@ -1288,7 +1432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-12iugh4",
@@ -1323,7 +1467,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.72
     },
     {
       "id": "ev-19ttbyu",
@@ -1352,7 +1496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0ek9bgd",
@@ -1388,7 +1532,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-039t61c",
@@ -1421,7 +1565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1w6l3f1",
@@ -1454,7 +1598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-07h2xxq",
@@ -1489,7 +1633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0gdjg5i",
@@ -1519,7 +1663,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1f86nxs",
@@ -1554,7 +1698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-04zrfr2",
@@ -1587,7 +1731,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0ebh8sl",
@@ -1623,7 +1767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.57
     },
     {
       "id": "ev-08abdth",
@@ -1671,7 +1815,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-098her0",
@@ -1706,7 +1850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-04qu2nb",
@@ -1741,7 +1885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-14d6re4",
@@ -1776,7 +1920,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-1rkkt7s",
@@ -1811,7 +1955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.4
+      "score": 4.11
     },
     {
       "id": "ev-0cytpx6",
@@ -1846,7 +1990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.37
+      "score": 4.08
     },
     {
       "id": "ev-0xxsq2n",
@@ -1881,7 +2025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.31
+      "score": 4.02
     },
     {
       "id": "ev-0ba0x7z",
@@ -1917,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.2
+      "score": 4
     },
     {
       "id": "ev-0ioz0s8",
@@ -1989,7 +2133,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.66
+      "score": 3.37
     },
     {
       "id": "ev-16md7o0",
@@ -2029,7 +2173,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.59
+      "score": 3.3
     }
   ],
   "runs": [
@@ -2053,6 +2197,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 21
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-02T19:37:13.266Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 16
     }
   ]
 }
