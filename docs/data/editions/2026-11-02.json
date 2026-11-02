@@ -1,27 +1,42 @@
 {
   "date": "2026-11-02",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-02T19:37:13.266Z",
+  "generatedAt": "2026-11-02T23:07:16.188Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-08t1phm",
-      "title": "Zenaida Delgado renuncia al Senado",
-      "summary": "La cuestionada senadora colorada Zenaida Delgado envió una carta al presidente del Congreso Nacional, Basilio ‘Bachi’ Núñez para comunicar su renuncia a la Cámara de Senadores. “Esta decisión obedece a razones personales y familiares, ante el impacto que la exposición pública de los últimos días ha generado en mi entorno”, precisó.",
+      "title": "Zenaida Delgado presenta su renuncia al Senado tras las denuncias",
+      "summary": "La senadora Zenaida Delgado presentó su renuncia al Senado en una carta dirigida al presidente del Congreso, Basilio Núñez. Citó razones personales y familiares. La renuncia llega en medio de denuncias por supuestos cobros a funcionarios de su despacho a cambio de conservar sus puestos o acceder a nombramientos. Hay un pedido de pérdida de investidura y una investigación del Ministerio Público.",
       "keyPoints": [
-        "La cuestionada senadora colorada Zenaida Delgado envió una carta al presidente del Congreso Nacional, Basilio ‘Bachi’ Núñez para comunicar su renuncia a la Cámara de Senadores.",
-        "La senadora Zenaida Delgado finalmente presentó renuncia ante el Congreso alegando una decisión personal y luego de que salieran a luz acusaciones sobre supuestos descuentos o cobros indebidos a funcionarios vinculados a su despacho.",
-        "La senadora Zenaida Delgado oficializó este lunes su dimisión al cargo de senadora de la Nación, formalizando su salida de la Cámara Alta en medio de denuncias y un inminente pedido de pérdida de investidura en…",
-        "La senadora Zenaida Delgado (ANR, ex Cruzada Nacional) pidió más tiempo y cuestionó el procedimiento de pérdida de investidura que enfrenta por las graves denuncias de un supuesto esquema de “ peaje salarial ” a funcionarios…"
+        "Delgado envió una carta a Basilio Núñez comunicando su renuncia.",
+        "Citó razones personales y familiares.",
+        "Las denuncias son por supuestos cobros a funcionarios de su despacho."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Zenaida Delgado renuncia al Senado en medio de denuncias por cobros a funcionarios",
+          "url": "https://www.adndigital.com.py/zenaida-delgado-renuncia-al-senado-en-medio-de-denuncias-por-cobros-a-funcionarios",
+          "publishedAt": "2026-11-02T20:11:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-170959.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Senadora paraguaya renuncia a su escaño tras denuncias de supuestos cobros a colaboradores",
+          "url": "https://www.abc.com.py/internacionales/2026/11/02/senadora-paraguaya-renuncia-a-su-escano-tras-denuncias-de-supuestos-cobros-a-colaboradores",
+          "publishedAt": "2026-11-02T19:45:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -176,15 +191,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/7RTNPNMGYZF3LI75KWDOQSQHCI.jpg?auth=a3e0bd33d71682b02ffe29143c05eb35a769c178e979e81af2e24a9e3f00ab64&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-renuncia-al-senado"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-170959.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/zenaida-delgado-renuncia-al-senado-en-medio-de-denuncias-por-cobros-a-funcionarios"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T19:37:13.266Z",
+      "updatedAt": "2026-11-02T23:07:16.188Z",
       "updatedSlot": "tarde",
-      "score": 27
+      "score": 26.76
     },
     {
       "id": "ev-06ik8rt",
@@ -276,24 +291,39 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T19:37:13.266Z",
       "updatedSlot": "tarde",
-      "score": 23.93
+      "score": 23.64
     },
     {
       "id": "ev-01kflsm",
-      "title": "Remesowski inició corte en Encarnación: anunció auditoría y la presencia de Peña y Cartes",
-      "summary": "Sebastián “Cheba” Remesowski (derecha), en una conferencia de prensa con el intendente saliente Luis Yd, inició el corte administrativo en Encarnación. Foto: Rocío Gómez/NM Además del titular de la ANR, también estarán presentes el presidente de la República, Santiago Peña, y el vice Pedro Alliana.",
+      "title": "Contraloría revisa patrimonio de gobernadores de Hambre Cero",
+      "summary": "La Contraloría General de la República revisa las declaraciones juradas de gobernadores que administran el programa Hambre Cero. El objetivo es verificar si su patrimonio coincide con su situación económica. El contralor Camilo Benítez confirmó que las verificaciones avanzan. También pidió acceso automático a datos de instituciones clave del Estado.",
       "keyPoints": [
-        "Sebastián “Cheba” Remesowski (derecha), en una conferencia de prensa con el intendente saliente Luis Yd, inició el corte administrativo en Encarnación.",
-        "Además del titular de la ANR, también estarán presentes el presidente de la República, Santiago Peña, y el vice Pedro Alliana.",
-        "El titular de la ANR acompañará este martes 3 de noviembre la asunción de Sebastián \"Cheba\" Remesowski como intendente de Encarnación.",
-        "El equipo de Sebastián Remesowski arrancó la transición comunal que culminará en un plazo de 10 a 15 días."
+        "La revisión alcanza a gobernadores responsables del programa Hambre Cero.",
+        "El contralor Camilo Benítez confirmó que las verificaciones avanzan.",
+        "Benítez pide acceso automático a datos de instituciones clave del Estado."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: temporal causa destrozos en Amambay",
+          "url": "https://www.abc.com.py/nacionales/2026/11/02/video-temporal-causa-destrozos-en-amambay",
+          "publishedAt": "2026-11-02T22:36:02.000Z",
+          "image": "https://www.abc.com.py/resizer/KPqDAm4lxMkKXzsY4z1ch1oADlw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DPZ7ORC2CNHMDENTU4CEOTFQBI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Contraloría revisa patrimonio de gobernadores por la ejecución de Hambre Cero",
+          "url": "https://www.adndigital.com.py/contraloria-revisa-patrimonio-de-gobernadores-por-la-ejecucion-de-hambre-cero",
+          "publishedAt": "2026-11-02T21:26:15.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-26-at-165714.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -392,15 +422,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/COUDA2OVKNFTBAFVUN7UOH7DEE.jpeg?auth=3c82367b83b64ce2df29189d9c218a054aa40f0148d4754c1eaf275b5738fb7c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/02/remesowski-inicio-corte-en-encarnacion-anuncio-auditoria-y-la-presencia-de-pena"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-26-at-165714.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/contraloria-revisa-patrimonio-de-gobernadores-por-la-ejecucion-de-hambre-cero"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T19:37:13.266Z",
+      "updatedAt": "2026-11-02T23:07:16.188Z",
       "updatedSlot": "tarde",
-      "score": 17.93
+      "score": 17.96
     },
     {
       "id": "ev-1tuj07f",
@@ -452,7 +482,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T12:07:14.844Z",
       "updatedSlot": "manana",
-      "score": 13.33
+      "score": 13.03
     },
     {
       "id": "ev-0hdwwr6",
@@ -504,7 +534,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 12.67
+      "score": 12.38
     },
     {
       "id": "ev-1l36qzj",
@@ -556,7 +586,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-051roai",
@@ -599,7 +629,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.37
     },
     {
       "id": "ev-0pyfru8",
@@ -643,7 +673,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.3
     },
     {
       "id": "ev-0sqotzd",
@@ -687,7 +717,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-1qfonmt",
@@ -731,7 +761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-04q668y",
@@ -774,7 +804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.06
+      "score": 8
     },
     {
       "id": "ev-1r7yerd",
@@ -817,7 +847,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-1uumcml",
@@ -860,7 +890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-0gyr5f2",
@@ -903,50 +933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.53
-    },
-    {
-      "id": "ev-1l9xf1p",
-      "title": "Gustavo Costas pidió disculpas tras la derrota de Cerro Porteño en el clásico",
-      "summary": "El entrenador de Cerro Porteño, Gustavo Costas, habló en conferencia de prensa tras perder el clásico. Reconoció su malestar por el gol de Eduardo Delmás, que se marcó con facilidad. Pidió disculpas a los hinchas por no haber logrado el triunfo.",
-      "keyPoints": [
-        "Cerro Porteño perdió el clásico ante Olimpia.",
-        "Eduardo Delmás marcó el primer gol del partido.",
-        "Costas pidió disculpas a los hinchas."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas y la bronca por el gol de Edu Delmás en el clásico: “Me quería matar cuando vi el gol ese”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-y-la-bronca-por-el-gol-de-edu-delmas-en-el-clasico-me-queria-matar-cuando-vi-el-gol-ese",
-          "publishedAt": "2026-11-02T01:45:26.000Z",
-          "image": "https://www.abc.com.py/resizer/DQOm-bCWIkNKn134u5n0cihD9co=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CFCTHYSZXVHQLOIDPTJU3FHHRE.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas: “Pedir disculpas a la gente, a quienes no pudimos regalar un triunfo”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-pedir-disculpas-a-la-gente-a-quienes-no-pudimos-regalar-un-triunfo",
-          "publishedAt": "2026-11-02T00:23:23.000Z",
-          "image": "https://www.abc.com.py/resizer/jDjxcmFwBS7SuGKOdds_Xe1Rw44=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LRZ4XRZ3DJGWFDWXZEZX5Z7YNY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CFCTHYSZXVHQLOIDPTJU3FHHRE.jpg?auth=959199614038b25e4a47b23a70e7f201dfb5cb091d20936f61e8f806a343c7b5&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-y-la-bronca-por-el-gol-de-edu-delmas-en-el-clasico-me-queria-matar-cuando-vi-el-gol-ese"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T08:07:12.388Z",
-      "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.5
     },
     {
       "id": "ev-15tkde7",
@@ -993,6 +980,49 @@
       "score": 5.5
     },
     {
+      "id": "ev-1l9xf1p",
+      "title": "Gustavo Costas pidió disculpas tras la derrota de Cerro Porteño en el clásico",
+      "summary": "El entrenador de Cerro Porteño, Gustavo Costas, habló en conferencia de prensa tras perder el clásico. Reconoció su malestar por el gol de Eduardo Delmás, que se marcó con facilidad. Pidió disculpas a los hinchas por no haber logrado el triunfo.",
+      "keyPoints": [
+        "Cerro Porteño perdió el clásico ante Olimpia.",
+        "Eduardo Delmás marcó el primer gol del partido.",
+        "Costas pidió disculpas a los hinchas."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas y la bronca por el gol de Edu Delmás en el clásico: “Me quería matar cuando vi el gol ese”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-y-la-bronca-por-el-gol-de-edu-delmas-en-el-clasico-me-queria-matar-cuando-vi-el-gol-ese",
+          "publishedAt": "2026-11-02T01:45:26.000Z",
+          "image": "https://www.abc.com.py/resizer/DQOm-bCWIkNKn134u5n0cihD9co=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CFCTHYSZXVHQLOIDPTJU3FHHRE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas: “Pedir disculpas a la gente, a quienes no pudimos regalar un triunfo”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-pedir-disculpas-a-la-gente-a-quienes-no-pudimos-regalar-un-triunfo",
+          "publishedAt": "2026-11-02T00:23:23.000Z",
+          "image": "https://www.abc.com.py/resizer/jDjxcmFwBS7SuGKOdds_Xe1Rw44=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LRZ4XRZ3DJGWFDWXZEZX5Z7YNY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CFCTHYSZXVHQLOIDPTJU3FHHRE.jpg?auth=959199614038b25e4a47b23a70e7f201dfb5cb091d20936f61e8f806a343c7b5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/01/gustavo-costas-y-la-bronca-por-el-gol-de-edu-delmas-en-el-clasico-me-queria-matar-cuando-vi-el-gol-ese"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T08:07:12.388Z",
+      "updatedSlot": "manana",
+      "score": 5.22
+    },
+    {
       "id": "ev-0sqxibe",
       "title": "Ever Villalba y Dionisio Amarilla critican a Miguel Prieto por su candidatura",
       "summary": "El senador liberal Ever Villalba cuestionó al destituido intendente de Ciudad del Este, Miguel Prieto, por alegar un respaldo de entre 70 y 75 % de dirigentes liberales. Dionisio Amarilla, del movimiento Diálogo Azul, pidió mesura y rechazó esas encuestas. Ambos reclaman internas opositoras rumbo a las elecciones de 2028.",
@@ -1033,7 +1063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.16
+      "score": 5
     },
     {
       "id": "ev-1vzyt0e",
@@ -1087,7 +1117,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.12
+      "score": 4.82
     },
     {
       "id": "ev-0xcg3kg",
@@ -1122,7 +1152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-0nahjvc",
@@ -1157,7 +1187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1p42y4j",
@@ -1188,7 +1218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1kuogkd",
@@ -1219,7 +1249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1aqwr8r",
@@ -1250,7 +1280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1qic84g",
@@ -1281,7 +1311,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0j8u520",
@@ -1312,7 +1342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1t6egjo",
@@ -1343,7 +1373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-04pfcyt",
@@ -1372,7 +1402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0xy5qc5",
@@ -1403,7 +1433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-13hpb6o",
@@ -1432,7 +1462,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-12iugh4",
@@ -1467,7 +1497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-19ttbyu",
@@ -1496,7 +1526,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0ek9bgd",
@@ -1532,7 +1562,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-039t61c",
@@ -1565,7 +1595,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1w6l3f1",
@@ -1598,7 +1628,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-07h2xxq",
@@ -1633,7 +1663,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0gdjg5i",
@@ -1663,7 +1693,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1f86nxs",
@@ -1698,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-04zrfr2",
@@ -1731,7 +1761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0ebh8sl",
@@ -1767,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.28
     },
     {
       "id": "ev-08abdth",
@@ -1815,7 +1845,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.14
     },
     {
       "id": "ev-098her0",
@@ -1850,7 +1880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 4
     },
     {
       "id": "ev-04qu2nb",
@@ -1885,7 +1915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 4
     },
     {
       "id": "ev-14d6re4",
@@ -1920,7 +1950,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 4
     },
     {
       "id": "ev-1rkkt7s",
@@ -1955,7 +1985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 4
     },
     {
       "id": "ev-0cytpx6",
@@ -1990,7 +2020,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.08
+      "score": 4
     },
     {
       "id": "ev-0xxsq2n",
@@ -2025,7 +2055,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.02
+      "score": 4
     },
     {
       "id": "ev-0ba0x7z",
@@ -2133,7 +2163,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.07
     },
     {
       "id": "ev-16md7o0",
@@ -2173,7 +2203,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.3
+      "score": 3
     }
   ],
   "runs": [
@@ -2204,6 +2234,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-02T23:07:16.188Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 22
     }
   ]
 }
