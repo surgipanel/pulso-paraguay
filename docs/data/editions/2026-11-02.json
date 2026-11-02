@@ -1,19 +1,20 @@
 {
   "date": "2026-11-02",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-02T12:07:14.844Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-02T16:07:12.768Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-08t1phm",
-      "title": "Zenaida Delgado presenta su defensa ante el Senado por denuncia de cobros",
-      "summary": "La senadora Zenaida Delgado comparecerá este lunes ante la Comisión de Asuntos Constitucionales para presentar su descargo. Las acusaciones son de presuntos cobros a funcionarios a cambio de contratos, nombramientos y beneficios. Delgado decidió no renunciar. El miércoles 4 de noviembre, el Senado tratará como primer punto el pedido de pérdida de investidura.",
+      "title": "Senadores piden la pérdida de investidura de Zenaida Delgado por supuestos cobros",
+      "summary": "Senadores como Líder Amarilla, Blanca Ovelar y Lizarella Valiente consideran que Zenaida Delgado perdió la confianza y debería dejar la banca. Delgado enfrenta acusaciones de presuntos cobros irregulares a funcionarias de su despacho, denunciadas por Yolanda Paredes. La Comisión de Asuntos Constitucionales recibirá su descargo y luego emitirá un dictamen. El pedido será tratado el miércoles 4 de noviembre.",
       "keyPoints": [
-        "Delgado comparece este lunes a las 15:30.",
-        "Las denuncias son por presuntos cobros a funcionarios.",
-        "El Senado tratará el pedido de pérdida de investidura el miércoles 4 de noviembre."
+        "Las acusaciones son por presuntos cobros a funcionarias de su despacho.",
+        "La denuncia fue impulsada por Yolanda Paredes.",
+        "La Comisión de Asuntos Constitucionales recibe su defensa y luego emite dictamen.",
+        "El pedido de pérdida de investidura se tratará el miércoles 4 de noviembre."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -21,6 +22,78 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "No hay forma de salvar a Zenaida Delgado, sentencian y le sugieren renunciar a la banca",
+          "url": "https://www.ultimahora.com/no-hay-forma-de-salvar-a-zenaida-delgado-sentencian-y-le-sugieren-renunciar-a-la-banca",
+          "publishedAt": "2026-11-02T15:27:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Zenaida Delgado: Están dadas las condiciones para que deje el Senado, dice Líder Amarilla",
+          "url": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-estan-dadas-las-condiciones-para-que-deje-el-senado-dice-lider-amarilla",
+          "publishedAt": "2026-11-02T15:05:17.000Z",
+          "image": "https://www.abc.com.py/resizer/4KAXF8Q5B8AGFN7zsD6SLpbKBDQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Blanca Ovelar sobre Zenaida Delgado: “No hay forma de salvarla”",
+          "url": "https://www.abc.com.py/politica/2026/11/02/blanca-ovelar-sobre-zenaida-delgado-no-hay-forma-de-salvarla",
+          "publishedAt": "2026-11-02T14:50:32.000Z",
+          "image": "https://www.abc.com.py/resizer/HmQ5Bjvi3gEmriysL5XwtIzXfd8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WD2DWBHJFFBP5I24VSIRYZJANU.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zenaida Delgado debe presentar hoy su defensa ante Comisión del Senado",
+          "url": "https://elnacional.com.py/politica/zenaida-delgado-debe-presentar-hoy-su-defensa-comision-senado-n114565",
+          "publishedAt": "2026-11-02T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69bc123157f50.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Senado aguarda dictamen para definir pérdida de investidura de Zenaida",
+          "url": "https://www.abc.com.py/politica/2026/11/02/senado-aguarda-dictamen-para-definir-perdida-de-investidura-de-zenaida",
+          "publishedAt": "2026-11-02T13:52:15.000Z",
+          "image": "https://www.abc.com.py/resizer/RYHRq-asEFYXN_gHZMhggXpNSAU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TNGSV7EIMNCCBOXP6XFOESCCKU.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Caso Zenaida Delgado: Defensa revela que la senadora ya firmó su renuncia",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/11/02/audio-caso-zenaida-delgado-defensa-revela-que-la-senadora-ya-firmo-su-renuncia",
+          "publishedAt": "2026-11-02T13:50:38.000Z",
+          "image": "https://www.abc.com.py/resizer/4KAXF8Q5B8AGFN7zsD6SLpbKBDQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fuerte presión familiar obligaría a Zenaida a renunciar antes del miércoles",
+          "url": "https://www.adndigital.com.py/fuerte-presion-familiar-obligaria-a-zenaida-a-renunciar-antes-del-miercoles",
+          "publishedAt": "2026-11-02T13:44:21.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-071508.jpeg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Zenaida Delgado ya tendría su renuncia firmada por pedido de su familia",
+          "url": "https://diariovanguardia.com.py/zenaida-delgado-ya-tendria-su-renuncia-firmada-por-pedido-de-su-familia",
+          "publishedAt": "2026-11-02T13:14:51.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/zenaida-delgado.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senadora Delgado presentará descargo ante Comisión de Asuntos Constitucionales",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/senadora-delgado-presentara-descargo-ante-comision-de-asuntos-constitucionales",
+          "publishedAt": "2026-11-02T12:37:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/rkFAwCysDf-gYLzmEUT3MNWyRZ0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JL5HO2P265CBLDEH2EU2XJWDMU.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -55,15 +128,75 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-27-at-141811.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/zenaida-delgado-presenta-hoy-su-defensa-ante-el-senado-por-denuncia-de-cobros-a-funcionarios"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C3TKLHPBLVDOHOWFBIF47QVM2E.jpg?auth=2a27670819ae18d06d6692588d97c05bc87c7bdd5474e08597f0ea66cad9c2e8&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/02/zenaida-delgado-estan-dadas-las-condiciones-para-que-deje-el-senado-dice-lider-amarilla"
       },
       "firstSeenAt": "2026-11-02T08:07:12.388Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-02T12:07:14.844Z",
-      "updatedSlot": "manana",
-      "score": 17.81
+      "updatedAt": "2026-11-02T16:07:12.768Z",
+      "updatedSlot": "tarde",
+      "score": 23.94
+    },
+    {
+      "id": "ev-06ik8rt",
+      "title": "Hombre acusado de matar a su pareja en Pedro Juan Caballero sigue prófugo",
+      "summary": "Una mujer de 26 años, Reinalda López Núñez, murió tras recibir un disparo en la cabeza en el predio del Cementerio Alemán de Pedro Juan Caballero, Amambay, en la madrugada del sábado 31 de octubre. Según el jefe de Investigaciones de Amambay, su pareja, Nelson Cárdenas, la llevó al lugar y le disparó. El hombre huyó en una motocicleta y permanece prófugo. Los medios señalan que podría haber imitado otro caso.",
+      "keyPoints": [
+        "La víctima es Reinalda López Núñez, de 26 años.",
+        "Según la policía, el principal sospechoso es su pareja, Nelson Cárdenas.",
+        "El sospechoso permanece prófugo.",
+        "El hecho ocurrió en el Cementerio Alemán de Pedro Juan Caballero."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Feminicidio en Pedro Juan Caballero: ¿autor imitó el caso de Eusebio Ayala?",
+          "url": "https://www.abc.com.py/policiales/2026/11/02/feminicidio-en-pedro-juan-caballero-autor-imito-el-caso-de-eusebio-ayala",
+          "publishedAt": "2026-11-02T14:36:30.000Z",
+          "image": "https://www.abc.com.py/resizer/hxWIDLh3HyiD0cujioQhDNYABHg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LQTAYWYHJFDMXIXIBNFAKNSBOM.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Nuevo presunto feminicidio en Pedro Juan Caballero: joven murió tras recibir un disparo",
+          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/nuevo-presunto-feminicidio-en-pedro-juan-caballero-joven-murio-tras-recibir-un-disparo",
+          "publishedAt": "2026-11-02T10:55:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nuevo feminicidio en Pedro Juan",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan",
+          "publishedAt": "2026-11-02T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/F6J1UGu7uBIU1zHHvhPEeefqkmQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Nuevo feminicidio en PJC: mujer murió de un disparo en la cabeza",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/01/nuevo-feminicidio-en-pjc-mujer-murio-de-un-disparo-en-la-cabeza",
+          "publishedAt": "2026-11-01T17:58:00.487Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JS573SKDXBBXVPZ5CD2OGIGZPI.jpg?auth=55523479a3137b8e2cef1b0c1d253ad5fbcdfeb5ab3adda03250e9f2fc8d0b4f&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LQTAYWYHJFDMXIXIBNFAKNSBOM.jpg?auth=e58e0e9bd7322497ea3f7980878440e4edb174569712c8ae97f329308e12e6b2&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/policiales/2026/11/02/feminicidio-en-pedro-juan-caballero-autor-imito-el-caso-de-eusebio-ayala"
+      },
+      "firstSeenAt": "2026-11-02T08:07:12.388Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-02T16:07:12.768Z",
+      "updatedSlot": "tarde",
+      "score": 17.87
     },
     {
       "id": "ev-01kflsm",
@@ -123,7 +256,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 14.29
+      "score": 13.96
     },
     {
       "id": "ev-1tuj07f",
@@ -175,58 +308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T12:07:14.844Z",
       "updatedSlot": "manana",
-      "score": 13.95
-    },
-    {
-      "id": "ev-06ik8rt",
-      "title": "Investigan presunto feminicidio en Pedro Juan Caballero; el concubino está prófugo",
-      "summary": "Una joven de 26 años murió tras recibir un disparo en la cabeza en Pedro Juan Caballero. Se investiga como presunto feminicidio. El principal sospechoso es su concubino, que permanece prófugo y es buscado por la Policía.",
-      "keyPoints": [
-        "La víctima tenía 26 años.",
-        "Se investiga como presunto feminicidio.",
-        "El principal sospechoso es el concubino, que está prófugo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Nuevo presunto feminicidio en Pedro Juan Caballero: joven murió tras recibir un disparo",
-          "url": "https://www.npy.com.py/noticias/nacionales/sucesos/nuevo-presunto-feminicidio-en-pedro-juan-caballero-joven-murio-tras-recibir-un-disparo",
-          "publishedAt": "2026-11-02T10:55:33.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Nuevo feminicidio en Pedro Juan",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan",
-          "publishedAt": "2026-11-02T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/F6J1UGu7uBIU1zHHvhPEeefqkmQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Nuevo feminicidio en PJC: mujer murió de un disparo en la cabeza",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/01/nuevo-feminicidio-en-pjc-mujer-murio-de-un-disparo-en-la-cabeza",
-          "publishedAt": "2026-11-01T17:58:00.487Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/JS573SKDXBBXVPZ5CD2OGIGZPI.jpg?auth=55523479a3137b8e2cef1b0c1d253ad5fbcdfeb5ab3adda03250e9f2fc8d0b4f&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XBFUOW56D5G5PCRUGOO3KDMMHU.jpg?auth=d4d609b1c0b3975f0f70961275ecf6f7c5eb1923d57c43bbb8a58a70591e9b44&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/02/nuevo-feminicidio-en-pedro-juan"
-      },
-      "firstSeenAt": "2026-11-02T08:07:12.388Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-02T12:07:14.844Z",
-      "updatedSlot": "manana",
-      "score": 13.9
+      "score": 13.62
     },
     {
       "id": "ev-0hdwwr6",
@@ -278,7 +360,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 13.3
+      "score": 12.96
     },
     {
       "id": "ev-1l36qzj",
@@ -330,7 +412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-051roai",
@@ -373,7 +455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.29
+      "score": 8.96
     },
     {
       "id": "ev-0pyfru8",
@@ -417,7 +499,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 9.22
+      "score": 8.88
     },
     {
       "id": "ev-0sqotzd",
@@ -461,7 +543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.54
     },
     {
       "id": "ev-1qfonmt",
@@ -505,7 +587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.43
     },
     {
       "id": "ev-04q668y",
@@ -548,7 +630,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.69
+      "score": 8.35
     },
     {
       "id": "ev-1r7yerd",
@@ -591,7 +673,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.31
     },
     {
       "id": "ev-1uumcml",
@@ -634,7 +716,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-0gyr5f2",
@@ -677,7 +759,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.16
+      "score": 5.82
     },
     {
       "id": "ev-1l9xf1p",
@@ -720,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 6.14
+      "score": 5.8
     },
     {
       "id": "ev-15tkde7",
@@ -764,7 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.63
     },
     {
       "id": "ev-0sqxibe",
@@ -807,7 +889,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.79
+      "score": 5.45
     },
     {
       "id": "ev-1vzyt0e",
@@ -861,7 +943,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.41
     },
     {
       "id": "ev-0xcg3kg",
@@ -896,7 +978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0nahjvc",
@@ -931,7 +1013,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1p42y4j",
@@ -962,7 +1044,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1kuogkd",
@@ -993,7 +1075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1aqwr8r",
@@ -1024,7 +1106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1qic84g",
@@ -1055,7 +1137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0j8u520",
@@ -1086,7 +1168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1t6egjo",
@@ -1117,7 +1199,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-04pfcyt",
@@ -1146,7 +1228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0xy5qc5",
@@ -1177,7 +1259,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-13hpb6o",
@@ -1206,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-12iugh4",
@@ -1241,7 +1323,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.01
     },
     {
       "id": "ev-19ttbyu",
@@ -1270,7 +1352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0ek9bgd",
@@ -1306,7 +1388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-039t61c",
@@ -1339,7 +1421,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.29
+      "score": 4.95
     },
     {
       "id": "ev-1w6l3f1",
@@ -1372,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.25
+      "score": 4.91
     },
     {
       "id": "ev-07h2xxq",
@@ -1407,7 +1489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0gdjg5i",
@@ -1437,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1f86nxs",
@@ -1472,7 +1554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-04zrfr2",
@@ -1505,7 +1587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0ebh8sl",
@@ -1541,7 +1623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.86
     },
     {
       "id": "ev-08abdth",
@@ -1589,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.72
     },
     {
       "id": "ev-098her0",
@@ -1624,7 +1706,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-04qu2nb",
@@ -1659,7 +1741,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-14d6re4",
@@ -1694,7 +1776,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-1rkkt7s",
@@ -1729,7 +1811,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.4
     },
     {
       "id": "ev-0cytpx6",
@@ -1764,7 +1846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.71
+      "score": 4.37
     },
     {
       "id": "ev-0xxsq2n",
@@ -1799,7 +1881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.64
+      "score": 4.31
     },
     {
       "id": "ev-0ba0x7z",
@@ -1835,7 +1917,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.2
     },
     {
       "id": "ev-0ioz0s8",
@@ -1868,7 +1950,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 4.07
+      "score": 4
     },
     {
       "id": "ev-1asgcol",
@@ -1907,7 +1989,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.99
+      "score": 3.66
     },
     {
       "id": "ev-16md7o0",
@@ -1947,7 +2029,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-02T08:07:12.388Z",
       "updatedSlot": "manana",
-      "score": 3.92
+      "score": 3.59
     }
   ],
   "runs": [
@@ -1964,6 +2046,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-02T16:07:12.768Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 21
     }
   ]
 }
