@@ -35,10 +35,11 @@ export async function searchNews(query) {
   const request = (type) => client.messages.create({
     model: AI_MODEL,
     max_tokens: 1024,
-    tools: [{ type, name: "web_search", max_uses: 2, user_location: { type: "approximate", country: "PY", timezone: "America/Asuncion" } }],
+    // La herramienta no admite el código de país PY: Paraguay se prioriza en la instrucción.
+    tools: [{ type, name: "web_search", max_uses: 2, user_location: { type: "approximate", timezone: "America/Asuncion" } }],
     messages: [{
       role: "user",
-      content: `Hoy es ${today}. Buscá en internet notas periodísticas recientes sobre el tema indicado entre las etiquetas. Priorizá medios serios, primero los de Paraguay si el tema es paraguayo. Respondé solo "listo".\n<tema>${query}</tema>`,
+      content: `Hoy es ${today}. Buscá en internet notas periodísticas recientes sobre el tema indicado entre las etiquetas. El lector está en Paraguay: priorizá medios serios, y primero los paraguayos (abc.com.py, lanacion.com.py, ultimahora.com, hoy.com.py) salvo que el tema sea claramente de otro país. Respondé solo "listo".\n<tema>${query}</tema>`,
     }],
   });
   let message;
@@ -47,7 +48,10 @@ export async function searchNews(query) {
       message = await request(type);
       break;
     } catch (err) {
-      if (!(err instanceof Anthropic.BadRequestError) || type === SEARCH_TOOLS.at(-1)) throw err;
+      if (!(err instanceof Anthropic.BadRequestError) || type === SEARCH_TOOLS.at(-1)) {
+        console.error("Búsqueda falló:", err.message);
+        throw publicError(502, "La búsqueda no funcionó en este momento. Probá de nuevo o pegá el enlace de la nota.");
+      }
       console.warn(`Búsqueda: ${type} rechazada (${err.message}); se prueba la siguiente`);
     }
   }
