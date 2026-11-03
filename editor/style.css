@@ -50,6 +50,8 @@ textarea { resize: vertical; }
 .btn--red { background: var(--rojo); border-color: var(--rojo); }
 .actions { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
 
+.scratch { margin: 6px 0 0; }
+.link-btn { border: 0; background: transparent; padding: 6px 0; color: var(--digital); font: 700 14px/1.4 var(--sans); text-decoration: underline; cursor: pointer; }
 .results, .sources, .recent, .warnings { list-style: none; margin: 0; padding: 0; }
 .results { margin-top: 8px; }
 .results li { border-top: 1px solid #e4e8ee; }
@@ -61,7 +63,15 @@ textarea { resize: vertical; }
 .warnings li { margin-bottom: 8px; padding: 9px 12px; background: var(--warn-bg); border-left: 3px solid var(--warn); color: var(--warn); font-size: 14px; }
 .field { display: block; margin-bottom: 14px; }
 .field > span { display: block; margin-bottom: 4px; font-weight: 700; font-size: 14px; }
-#d-image { display: block; width: 100%; max-height: 260px; object-fit: cover; background: #e9edf2; margin-bottom: 6px; }
+.photo { border: 0; padding: 0; margin: 0 0 14px; min-width: 0; }
+.photo legend { padding: 0; margin-bottom: 4px; font-weight: 700; font-size: 14px; }
+.photo__opt { padding: 10px 0; border-top: 1px solid #e4e8ee; }
+.photo__opt .check { font-size: 15px; }
+.photo__opt img { display: block; width: 100%; max-height: 260px; object-fit: cover; background: #e9edf2; margin-top: 8px; }
+.file-btn { display: inline-flex; align-items: center; margin-top: 10px; cursor: pointer; }
+.file-btn input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.own-credit { margin: 10px 0 6px; }
+.small { margin: 6px 0 0; font-size: 13px; }
 .check { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; font-size: 14px; }
 .check input { width: 18px; height: 18px; }
 .sources li { padding: 7px 0; border-top: 1px solid #e4e8ee; font-size: 14px; }

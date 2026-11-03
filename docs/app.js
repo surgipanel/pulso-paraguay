@@ -36,7 +36,7 @@
   };
   const fold = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const distinctSources = (ev) => [...new Map(ev.sources.map((s) => [s.sourceId, s.sourceName])).values()];
-  const latestAt = (ev) => ev.sources.map((s) => s.publishedAt).sort().at(-1);
+  const latestAt = (ev) => ev.sources.map((s) => s.publishedAt).sort().at(-1) ?? ev.firstSeenAt;
   const relTime = (iso) => {
     if (!iso) return "";
     const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
@@ -358,14 +358,14 @@
         <h1>${esc(ev.title)}</h1>
         ${isExpired(ev) ? `<p class="expired-note">Aviso de servicio finalizado: valía hasta el ${esc(fmtDateTime(ev.expiresAt))}; queda como registro.</p>` : ""}
         <div class="article__bar">
-          <span>Última nota ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
+          <span>${srcs.length ? "Última nota" : "Redacción de El Prócer ·"} ${esc(fmtDateTime(latestAt(ev)))}${updated ? ` · actualizado ${esc(fmtDateTime(ev.updatedAt))}` : ""}</span>
           ${saveBtn(ev, date)}
         </div>
-        ${ev.image?.url ? `<figure>${mediaHtml(ev, { credit: true })}<figcaption>Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</figcaption></figure>` : ""}
+        ${ev.image?.url ? `<figure>${mediaHtml(ev, { credit: true })}<figcaption>${ev.image.own ? `Foto: ${esc(ev.image.credit)}.` : `Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.`}</figcaption></figure>` : ""}
         ${paragraphs(ev.summary).map((p, i) => `<p class="${i ? "article__para" : "article__lead"}">${esc(p)}</p>`).join("")}
-        <h2>Puntos clave</h2>
-        <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>
-        <h2 class="sources-head">Fuentes: ${esc(plural(srcs.length, "nota", "notas"))} de ${esc(plural(distinctSources(ev).length, "medio", "medios"))}</h2>
+        ${ev.keyPoints.length ? `<h2>Puntos clave</h2>
+        <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>` : ""}
+        ${srcs.length ? `<h2 class="sources-head">Fuentes: ${esc(plural(srcs.length, "nota", "notas"))} de ${esc(plural(distinctSources(ev).length, "medio", "medios"))}</h2>` : ""}
         <ul class="sources">
           ${srcs.map((s) => `<li><span class="src-name">${esc(s.sourceName)}</span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="src-time">${esc(fmtDateTime(s.publishedAt))}</span></li>`).join("")}
         </ul>
@@ -429,7 +429,7 @@
     main.innerHTML = `
       <div class="page-head"><h1>Criterios editoriales</h1><span class="count">Libres para informar</span></div>
       <div class="prose">
-        <p>El Prócer es un diario digital que informa sobre Paraguay y el mundo con claridad, contexto y fuentes identificables. No escribe noticias desde cero: lee lo que publican los medios, agrupa las notas que cubren un mismo hecho y lo cuenta con un texto propio, breve y atribuido. Estos son los compromisos que guían cada acontecimiento publicado.</p>
+        <p>El Prócer es un diario digital que informa sobre Paraguay y el mundo con claridad, contexto y fuentes identificables. La mayor parte de lo que publica surge de leer lo que publican los medios: agrupa las notas que cubren un mismo hecho y lo cuenta con un texto propio, breve y atribuido. Estos son los compromisos que guían cada acontecimiento publicado.</p>
 
         <h2>Nuestro marco ético</h2>
         <h3>1. Veracidad ante todo</h3>
@@ -465,11 +465,14 @@
         <h2>Límites de este método</h2>
         <p>Trabajamos con los títulos y extractos que publican los medios, no con los artículos completos: pueden quedar afuera matices, condiciones, antecedentes o desmentidos posteriores. Por eso cada acontecimiento enlaza a las notas originales. Que varias notas cuenten lo mismo no equivale a que el hecho haya sido confirmado por fuentes independientes: indicamos cuántas notas y cuántos medios lo cubren, y cuando se trata de un reclamo o una acusación, aclaramos de quién es la versión y si la otra parte respondió.</p>
 
+        <h2>Notas de la redacción</h2>
+        <p>Además de agrupar la cobertura de otros medios, publicamos notas propias, escritas por nuestro equipo editorial. Se identifican como «Redacción de El Prócer» y no llevan lista de fuentes externas. Cumplen el mismo marco ético de esta página, y El Prócer responde por su contenido.</p>
+
         <h2>Uso de inteligencia artificial</h2>
-        <p>Los títulos, resúmenes y puntos clave se redactan con ayuda de inteligencia artificial, a partir únicamente de los títulos y extractos publicados por los medios, y bajo todas las reglas de esta página. Cuando un resumen se arma solo con extractos del medio, sin intervención de la IA, lo marcamos «sin IA». La redacción automática puede contener errores: ante cualquier duda, la nota original manda.</p>
+        <p>En las noticias que agrupan cobertura de otros medios, los títulos, resúmenes y puntos clave se redactan con ayuda de inteligencia artificial, a partir únicamente de los títulos y extractos publicados por los medios, y bajo todas las reglas de esta página. Cuando un resumen se arma solo con extractos del medio, sin intervención de la IA, lo marcamos «sin IA». La redacción automática puede contener errores: ante cualquier duda, la nota original manda.</p>
 
         <h2>Fuentes, derechos y fotografías</h2>
-        <p>El contenido original pertenece a cada medio. Usamos solo extractos breves como insumo, citamos siempre al medio y enlazamos a su nota original desde cada acontecimiento. Las fotografías se muestran desde el sitio de cada medio, con su crédito; El Prócer no crea ni altera imágenes.</p>
+        <p>El contenido original pertenece a cada medio. Usamos solo extractos breves como insumo, citamos siempre al medio y enlazamos a su nota original. Las fotografías se muestran desde el sitio de cada medio, con su crédito; El Prócer no crea ni altera imágenes.</p>
         <p>Las cotizaciones del día son la referencia publicada por el Banco Central del Paraguay y el clima proviene de Open-Meteo.</p>
       </div>`;
   }

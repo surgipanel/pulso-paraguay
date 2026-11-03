@@ -37,6 +37,8 @@ async function main() {
     manual.events = manual.events.filter((e) => e.id !== payload.id);
     await writeManual(manual);
     await rm(path.join(DOCS, "n", payload.id), { recursive: true, force: true });
+    const own = /^https:\/\/elprocer\.com\.py\/(img\/manual\/\d{4}-\d{2}\/[a-f0-9]+\.jpg)$/.exec(ev.image?.own ? ev.image.url : "");
+    if (own) await rm(path.join(DOCS, own[1]), { force: true });
     await appendLog({ action: "unpublish", id: payload.id, date: payload.date, title: ev.title, editor: payload.editor, at: nowIso });
     console.log(`Retirada: ${ev.title}`);
     return;

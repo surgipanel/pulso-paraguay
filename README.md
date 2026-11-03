@@ -184,6 +184,8 @@ Flujo: buscar un tema (búsqueda web de Claude) o pegar un enlace, elegir las no
 
 - **Acceso:** inicio de sesión con Google. Solo entran las cuentas de `EDITOR_EMAILS`; sin esa variable no entra nadie. Sumar a alguien es agregar su correo ahí, separado por coma.
 - **Código:** `api/` (rutas), `src/editor/` (acceso, lectura de notas, búsqueda, borrador), `editor/` (pantalla). Se publica con `vercel deploy --prod` desde la raíz; no está conectado a Git para que los commits del bot no generen despliegues.
+- **Desde cero:** el botón «O escribí una noticia desde cero» abre el formulario vacío, sin fuentes ni IA. Se publica firmada «Redacción de El Prócer».
+- **Foto:** en el borrador se elige la sugerida, una propia de la galería o ninguna. La propia se achica a 1600 px en el navegador, sin los datos ocultos del archivo, y se guarda en `docs/img/manual/` con nombre al azar; al retirar la noticia se borra. Requiere que `GITHUB_TOKEN` tenga además **Contents: lectura y escritura**.
 - **Publicación:** el panel dispara el workflow `manual.yml`, que corre `scripts/publish-manual.mjs`. Escribe solo `docs/data/manual/` y `docs/n/<id>/`, que el bot no modifica, así que no hay choques; por eso tiene su propia cola y no espera a una corrida en curso. El bot lee esos archivos para no repetir lo publicado a mano. Las noticias manuales no se publican en X.
 - **Variables en Vercel (proyecto elprocer-editor):** `GOOGLE_CLIENT_ID`, `EDITOR_EMAILS`, `ANTHROPIC_API_KEY` y `GITHUB_TOKEN` (token de GitHub de grano fino, solo este repositorio, Actions lectura y escritura). La sesión se firma con una clave derivada de `GITHUB_TOKEN`.
 

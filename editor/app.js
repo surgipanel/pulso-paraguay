@@ -152,6 +152,16 @@
       $("draft-btn").disabled = false;
     }
   });
+  // Nota propia: el mismo formulario, vacío y sin fuentes. No pasa por la IA ni gasta tokens.
+  $("scratch-btn").addEventListener("click", () => {
+    if (state.draft && !confirm("Esto reemplaza el borrador que tenés abierto. ¿Seguir?")) return;
+    state.draft = { title: "", summary: "", keyPoints: [], category: "pais", scope: "paraguay", expiresAt: null, summaryKind: "editor", image: null, sources: [] };
+    fillDraft({ event: state.draft, warnings: [] });
+    show($("draft"));
+    show($("progress"), false);
+    $("draft").scrollIntoView({ behavior: "smooth", block: "start" });
+    $("d-title").focus();
+  });
   const countWords = () => {
     const n = $("d-summary").value.trim().split(/\s+/).filter(Boolean).length;
     $("d-words").textContent = `(${n} palabras)`;
@@ -159,18 +169,27 @@
   $("d-summary").addEventListener("input", countWords);
 
   function fillDraft({ event, warnings }) {
+    const scratch = event.sources.length === 0;
+    $("draft-heading").textContent = scratch ? "Escribí la noticia" : "Revisá y publicá";
+    show($("d-sources-box"), !scratch);
+    show($("d-scratch-note"), scratch);
     $("warnings").replaceChildren(...(warnings ?? []).map((w) => el("li", { textContent: w })));
     $("d-title").value = event.title;
     $("d-summary").value = event.summary;
     $("d-points").value = (event.keyPoints ?? []).join("\n");
     $("d-category").replaceChildren(...CATEGORIES.map(([v, label]) => el("option", { value: v, textContent: label, selected: v === event.category })));
     countWords();
-    show($("d-image-box"), Boolean(event.image));
+    state.own = null;
+    $("d-own").hidden = true;
+    $("d-file").value = "";
+    $("d-own-credit").value = "";
+    show($("own-error"), false);
+    show($("opt-suggested"), Boolean(event.image));
     if (event.image) {
       $("d-image").src = event.image.url;
-      $("d-use-image").checked = true;
-      $("d-image-credit").textContent = `Foto: ${event.image.credit}`;
+      $("d-image-credit").textContent = `(${event.image.credit})`;
     }
+    setPhoto(event.image ? "suggested" : "none");
     $("d-sources").replaceChildren(...event.sources.map((s) => {
       const ageH = (Date.now() - new Date(s.publishedAt).getTime()) / 36e5;
       const when = s.dateUnknown ? el("span", { className: "old", textContent: "Sin fecha verificable" })
@@ -179,8 +198,59 @@
       return el("li", {}, el("b", { textContent: s.sourceName }), el("a", { href: s.url, target: "_blank", rel: "noopener", textContent: s.title }), el("br"), when);
     }));
   }
+  // ---------- foto ----------
+  const photoChoice = () => document.querySelector('input[name="photo"]:checked')?.value ?? "none";
+  function setPhoto(value) {
+    document.querySelector(`input[name="photo"][value="${value}"]`).checked = true;
+    show($("own-box"), value === "own");
+  }
+  document.querySelectorAll('input[name="photo"]').forEach((r) => r.addEventListener("change", () => setPhoto(r.value)));
+
+  // Se redibuja la foto en un lienzo: queda en JPEG, con un máximo de 1600 px y sin los datos
+  // ocultos del archivo original (ubicación, cámara, fecha).
+  async function prepareOwnImage(file) {
+    const MAX_SIDE = 1600;
+    const bitmap = await createImageBitmap(file);
+    const scale = Math.min(1, MAX_SIDE / Math.max(bitmap.width, bitmap.height));
+    const canvas = el("canvas", { width: Math.round(bitmap.width * scale), height: Math.round(bitmap.height * scale) });
+    const ctx = canvas.getContext("2d");
+    ctx.fillStyle = "#ffffff";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
+    bitmap.close?.();
+    let dataUrl = canvas.toDataURL("image/jpeg", 0.85);
+    if (dataUrl.length > 3_500_000) dataUrl = canvas.toDataURL("image/jpeg", 0.65);
+    return dataUrl;
+  }
+  $("d-file").addEventListener("change", async () => {
+    const file = $("d-file").files[0];
+    if (!file) return;
+    show($("own-error"), false);
+    try {
+      const dataUrl = await prepareOwnImage(file);
+      state.own = { dataUrl, url: null };
+      $("d-own").src = dataUrl;
+      $("d-own").hidden = false;
+    } catch {
+      state.own = null;
+      $("d-own").hidden = true;
+      $("own-error").textContent = "No se pudo abrir esa foto. Probá con otra, en formato JPG o PNG.";
+      show($("own-error"));
+    }
+  });
+  // Devuelve la foto elegida; la propia se sube recién al publicar (y una sola vez si se reintenta).
+  async function resolveImage() {
+    const choice = photoChoice();
+    if (choice === "suggested") return state.draft.image;
+    if (choice !== "own") return null;
+    if (!state.own) throw new Error("Elegí una foto de tu galería, o cambiá la opción de foto.");
+    const credit = $("d-own-credit").value.trim();
+    if (!credit) throw new Error("Escribí el crédito de la foto: de quién es.");
+    if (!state.own.url) state.own.url = (await api("upload", { image: state.own.dataUrl })).url;
+    return { url: state.own.url, credit, own: true };
+  }
+
   function readDraft() {
-    const useImage = $("d-use-image").checked && state.draft.image;
     return {
       ...state.draft,
       title: $("d-title").value.trim(),
@@ -188,7 +258,6 @@
       keyPoints: $("d-points").value.split("\n").map((s) => s.trim()).filter(Boolean).slice(0, 6),
       category: $("d-category").value,
       scope: $("d-category").value === "internacional" ? "internacional" : state.draft.scope,
-      image: useImage ? state.draft.image : null,
       sources: state.draft.sources.map(({ dateUnknown, ...s }) => s),
     };
   }
@@ -218,11 +287,21 @@
   }
   $("publish-btn").addEventListener("click", async () => {
     const event = readDraft();
+    if (event.title.length < 5 || event.summary.length < 40) {
+      progress("Falta completar", "Escribí un título y una nota de al menos 40 caracteres.");
+      return;
+    }
     if (!confirm(`¿Publicar ahora en elprocer.com.py?\n\n${event.title}`)) return;
     $("publish-btn").disabled = true;
+    show($("own-error"), false);
     try {
+      if (photoChoice() === "own") {
+        $("publish-btn").textContent = "Subiendo la foto…";
+      }
+      event.image = await resolveImage();
       const { id, url } = await api("publish", { event });
       show($("draft"), false);
+      show($("progress"));
       progress("Publicando…", "Suele tardar unos dos minutos en aparecer en la web. Podés dejar esta pantalla abierta.");
       const items = await waitFor((list) => list.some((i) => i.id === id));
       if (items) {
@@ -238,8 +317,10 @@
       state.draft = null;
     } catch (err) {
       progress("No se pudo publicar", err.message);
+      show($("draft"));
     } finally {
       $("publish-btn").disabled = false;
+      $("publish-btn").textContent = "Publicar ahora";
     }
   });
   function renderRecent(items) {

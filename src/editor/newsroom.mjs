@@ -1,4 +1,5 @@
 // Lo que hace el panel de editor: buscar en internet, preparar un borrador y mandarlo a publicar.
+import { randomBytes } from "node:crypto";
 import Anthropic from "@anthropic-ai/sdk";
 import { AI_MODEL } from "../config.mjs";
 import { eventId, resolveAiMode, summarizeClusters } from "../summarize.mjs";
@@ -122,6 +123,36 @@ export async function dispatchManual(payload) {
     console.error("GitHub respondió", res.status, await res.text());
     throw publicError(502, `GitHub rechazó la publicación (HTTP ${res.status}).`);
   }
+}
+
+const MAX_IMAGE_BYTES = 3 * 1024 * 1024;
+
+// Guarda en el diario una foto cargada por el editor. El panel siempre la manda como JPEG ya
+// achicado y sin datos ocultos (ubicación, cámara); acá solo se acepta ese formato, con nombre
+// al azar, para que nada del archivo original llegue a la web.
+export async function saveOwnImage(dataUrl) {
+  const token = process.env.GITHUB_TOKEN;
+  if (!token) throw publicError(503, "Falta configurar el permiso de GitHub en el panel");
+  const m = /^data:image\/jpeg;base64,([A-Za-z0-9+/=]+)$/.exec(dataUrl);
+  if (!m) throw publicError(400, "La foto no tiene un formato válido");
+  const bytes = Buffer.from(m[1], "base64");
+  if (bytes.length > MAX_IMAGE_BYTES) throw publicError(413, "La foto es demasiado pesada");
+  if (bytes[0] !== 0xff || bytes[1] !== 0xd8 || bytes[2] !== 0xff) throw publicError(400, "El archivo no es una foto válida");
+  const name = `${new Date().toISOString().slice(0, 7)}/${randomBytes(12).toString("hex")}.jpg`;
+  const res = await fetch(`https://api.github.com/repos/${REPO}/contents/docs/img/manual/${name}`, {
+    method: "PUT",
+    headers: { authorization: `Bearer ${token}`, accept: "application/vnd.github+json", "content-type": "application/json", "user-agent": "elprocer-editor" },
+    body: JSON.stringify({ message: "Editor: foto para una publicación manual", content: bytes.toString("base64"), branch: "main" }),
+  });
+  if (res.status === 403 || res.status === 404) {
+    console.error("GitHub rechazó la foto", res.status, await res.text());
+    throw publicError(502, "El permiso de GitHub no deja guardar fotos: falta activar Contents (lectura y escritura).");
+  }
+  if (!res.ok) {
+    console.error("GitHub rechazó la foto", res.status, await res.text());
+    throw publicError(502, `GitHub no pudo guardar la foto (HTTP ${res.status}).`);
+  }
+  return `${SITE}/img/manual/${name}`;
 }
 
 export const previewId = (event) => eventId(event);

@@ -20,8 +20,10 @@ export const ManualEvent = z.object({
   keyPoints: z.array(z.string().trim().min(1).max(400)).max(6),
   category: z.enum(CATEGORY_IDS),
   scope: z.enum(["paraguay", "internacional"]).default("paraguay"),
-  sources: z.array(ManualSource).min(1).max(12),
-  image: z.object({ url: httpsUrl, credit: z.string().max(120), articleUrl: httpsUrl }).nullable().optional(),
+  // Sin fuentes: nota propia de la redacción, escrita desde cero en el panel.
+  sources: z.array(ManualSource).max(12),
+  // own: foto cargada por el editor (guardada en el diario), no tomada de una nota.
+  image: z.object({ url: httpsUrl, credit: z.string().trim().min(1).max(120), articleUrl: httpsUrl.nullable().optional(), own: z.boolean().optional() }).nullable().optional(),
   expiresAt: z.string().datetime({ offset: true }).nullable().optional(),
   summaryKind: z.enum(["ia", "extractivo", "editor"]).default("editor"),
 });

@@ -37,7 +37,9 @@ function mergeSources(a, b) {
 
 export function scoreEvent(ev, now) {
   const distinct = new Set(ev.sources.map((s) => s.sourceId)).size;
-  const newest = Math.max(...ev.sources.map((s) => new Date(s.publishedAt).getTime()));
+  // Una nota propia de la redacción no tiene fuentes: cuenta su propia fecha.
+  const times = ev.sources.map((s) => new Date(s.publishedAt).getTime());
+  const newest = times.length ? Math.max(...times) : new Date(ev.firstSeenAt ?? now).getTime();
   const ageH = (now.getTime() - newest) / 36e5;
   const recency = Math.max(0, 2 - ageH / 12);
   const scopePenalty = ev.scope === "internacional" ? -2.5 : 0;

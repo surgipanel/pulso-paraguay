@@ -37,6 +37,7 @@
           <input id="url" type="url" inputmode="url" placeholder="O pegá el enlace de una nota" autocomplete="off" aria-label="Enlace de una nota" />
           <button class="btn btn--ghost" type="submit">Agregar</button>
         </form>
+        <p class="scratch"><button class="link-btn" id="scratch-btn" type="button">O escribí una noticia desde cero</button></p>
         <p class="status" id="search-status" hidden></p>
         <ul class="results" id="results"></ul>
         <div class="actions" id="draft-bar" hidden>
@@ -46,18 +47,34 @@
       </section>
 
       <section class="card" id="draft" hidden>
-        <h2><span class="step">2</span> Revisá y publicá</h2>
+        <h2><span class="step">2</span> <span id="draft-heading">Revisá y publicá</span></h2>
         <ul class="warnings" id="warnings"></ul>
         <label class="field"><span>Título</span><input id="d-title" maxlength="200" /></label>
         <label class="field"><span>Nota <small id="d-words" class="muted"></small></span><textarea id="d-summary" rows="11"></textarea></label>
         <label class="field"><span>Puntos clave <small class="muted">(uno por línea)</small></span><textarea id="d-points" rows="4"></textarea></label>
         <label class="field"><span>Sección</span><select id="d-category"></select></label>
-        <div class="field" id="d-image-box" hidden>
-          <span>Foto</span>
-          <img id="d-image" alt="" referrerpolicy="no-referrer" />
-          <label class="check"><input id="d-use-image" type="checkbox" checked /> Usar esta foto <small class="muted" id="d-image-credit"></small></label>
-        </div>
-        <div class="field"><span>Fuentes</span><ul class="sources" id="d-sources"></ul></div>
+        <fieldset class="field photo">
+          <legend>Foto</legend>
+          <div class="photo__opt" id="opt-suggested" hidden>
+            <label class="check"><input type="radio" name="photo" value="suggested" /> Foto sugerida <small class="muted" id="d-image-credit"></small></label>
+            <img id="d-image" alt="" referrerpolicy="no-referrer" />
+          </div>
+          <div class="photo__opt">
+            <label class="check"><input type="radio" name="photo" value="own" /> Una foto mía</label>
+            <div id="own-box" hidden>
+              <label class="btn btn--ghost file-btn">Elegir de mi galería<input id="d-file" type="file" accept="image/*" /></label>
+              <img id="d-own" alt="" hidden />
+              <label class="field own-credit"><span>Crédito de la foto</span><input id="d-own-credit" maxlength="120" placeholder="Por ejemplo: El Prócer" /></label>
+              <p class="muted small">Usá solo fotos propias o con permiso de su autor. Antes de subirla se achica y se le quitan los datos ocultos, como la ubicación.</p>
+              <p class="error small" id="own-error" hidden></p>
+            </div>
+          </div>
+          <div class="photo__opt">
+            <label class="check"><input type="radio" name="photo" value="none" /> Sin foto <small class="muted">(se muestra la imagen de la sección)</small></label>
+          </div>
+        </fieldset>
+        <div class="field" id="d-sources-box"><span>Fuentes</span><ul class="sources" id="d-sources"></ul></div>
+        <p class="muted small" id="d-scratch-note" hidden>Saldrá firmada como «Redacción de El Prócer», sin fuentes externas. El diario responde por lo que dice: atribuí las acusaciones y confirmá los datos antes de publicar.</p>
         <div class="actions">
           <button class="btn btn--red" id="publish-btn" type="button">Publicar ahora</button>
           <button class="btn btn--ghost" id="discard-btn" type="button">Descartar</button>
