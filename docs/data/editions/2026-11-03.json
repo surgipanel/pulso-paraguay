@@ -1,350 +1,51 @@
 {
   "date": "2026-11-03",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-03T12:07:14.530Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-03T16:05:04.288Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0s0vuve",
-      "title": "BCP inicia la resolución de Ueno Bank por baja solvencia",
-      "summary": "El Banco Central del Paraguay (BCP) inició el procedimiento de resolución de Ueno Bank, tras constatar que su índice de solvencia cayó por debajo del 50% del mínimo requerido. La medida fue aprobada por unanimidad por el Directorio, con fecha 2 de noviembre, y se informó de madrugada.\n\nLa Superintendencia de Bancos designará interventores para verificar la situación patrimonial del banco y preservar sus activos. El BCP dijo que la prioridad es proteger a los depositantes. Los depósitos tienen garantía de hasta 75 salarios mínimos por persona y por entidad, equivalente a G. 228.300.000.\n\nEl regulador afirmó que detectó irregularidades en créditos vinculados y que las denuncias se harán ante las autoridades competentes. Usuarios reportaron que no podían operar en cajeros ni en home banking esta mañana.",
+      "id": "ev-1c3gj24",
+      "title": "Sebastián Remezowski asumió como intendente de Encarnación",
+      "summary": "Sebastián Emilio Remezowski asumió como intendente de Encarnación para el período 2026-2031. El acto fue en el Club de Pesca Pacu Cuá y marca la vuelta del Partido Colorado a la comuna, después de dos períodos de gestión opositora.\n\nAsistieron el expresidente Horacio Cartes, líder de la ANR, el presidente de Diputados Raúl Latorre y senadores nacionales. Remezowski advirtió que el corte administrativo con la gestión saliente de Luis Yd le permitirá mostrar la situación económica heredada. Advirtió que se vienen meses complicados con salarios y aguinaldo.\n\nSegún las notas, el proceso de corte lo supervisa la Contraloría y el acta final se firmará en 10 a 15 días.",
       "keyPoints": [
-        "El BCP dispuso la resolución de Ueno Bank por solvencia por debajo del 50% del mínimo.",
-        "La Superintendencia de Bancos designará interventores para verificar el patrimonio.",
-        "La garantía de depósitos alcanza G. 228.300.000 por persona y por entidad.",
-        "El BCP denunciará las irregularidades detectadas."
+        "Remezowski asumió como intendente de Encarnación para 2026-2031.",
+        "Horacio Cartes participó del acto.",
+        "Advirtió meses complicados por salarios y aguinaldo.",
+        "El acta del corte administrativo se firmará en 10 a 15 días."
       ],
-      "category": "economia",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: BCP explica la resolución y qué va a pasar ahora",
-          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-bcp-explica-la-resolucion-y-que-va-a-pasar-ahora",
-          "publishedAt": "2026-11-03T11:42:37.000Z",
-          "image": "https://www.abc.com.py/resizer/GSQIEXpskggT62Q1cdiL-8FqD60=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TT7ME545VRCNNCR76SOBTAYXAA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Banco Central detalló las irregularidades que definieron la disolución de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/03/banco-central-detallo-las-irregularidades-que-definieron-la-disolucion-de-ueno-bank",
-          "publishedAt": "2026-11-03T10:48:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZugQ_TnY4Mf1IWHEpaCeXjxYZDU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MUV4BACVLVBVLKEEMVDZU3QUFQ.png"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia",
-          "url": "https://www.npy.com.py/noticias/nacionales/bcp-dispone-la-resolucion-del-banco-ueno-por-incumplimiento-del-indice-de-solvencia",
-          "publishedAt": "2026-11-03T10:33:28.000Z",
-          "image": null
-        },
-        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "BCP inicia la resolución de ueno bank por problemas de solvencia",
-          "url": "https://www.adndigital.com.py/bcp-inicia-la-resolucion-de-ueno-bank-por-problemas-de-solvencia",
-          "publishedAt": "2026-11-03T10:04:42.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/banco-central-819x1024.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: hasta cuánto dinero podrán recuperar los depositantes y cuándo",
-          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando",
-          "publishedAt": "2026-11-03T09:37:53.000Z",
-          "image": "https://www.abc.com.py/resizer/WL4r_sZ8d_mpzoHh-T1rDD38UNA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El BCP dispone resolución de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/03/el-bcp-dispone-resolucion-de-ueno-bank",
-          "publishedAt": "2026-11-03T09:26:48.000Z",
-          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "BCP dispone resolución de ueno bank por insuficiencia severa",
-          "url": "https://www.ultimahora.com/bcp-dispone-intervencion-de-ueno-bank-por-insuficiencia-severa",
-          "publishedAt": "2026-11-03T08:25:53.000Z",
-          "image": null
+          "title": "Asumió Remesowski y la ANR vuelve al poder en Encarnación",
+          "url": "https://www.adndigital.com.py/asumio-remesowski-y-la-anr-vuelve-al-poder-en-encarnacion",
+          "publishedAt": "2026-11-03T15:33:29.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-143952.jpeg"
         },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
-          "title": "BCP constata insuficiencia en solvencia de ueno y ordena intervención",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/03/bcp-constata-insuficiencia-en-solvencia-de-ueno-y-ordena-intervencion",
-          "publishedAt": "2026-11-03T08:02:06.521Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/LAI3FQURIJADFFTOVHL5M3W5VI.jpg?auth=4f30086262b51152251f00be9c2c3dca7a3ca47952f8ea7eb09d1b127bf2da92&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: el BCP anuncia “procedimiento de resolución”",
-          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-el-bcp-anuncia-procedimiento-de-resolucion",
-          "publishedAt": "2026-11-03T06:53:31.000Z",
-          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ueno Bank niega intervención del BCP y asegura que opera con normalidad",
-          "url": "https://www.hoy.com.py/negocios/2026/11/02/ueno-bank-niega-intervencion-del-bcp-y-asegura-que-opera-con-normalidad",
-          "publishedAt": "2026-11-03T00:10:39.569Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Presidencia y ueno bank desmienten versiones sobre medidas financieras",
-          "url": "https://elnacional.com.py/politica/presidencia-ueno-bank-desmienten-versiones-sobre-medidas-financieras-n114596",
-          "publishedAt": "2026-11-02T23:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69ec64caa1ebc.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña habría convocado a banqueros ante situación del sistema financiero",
-          "url": "https://elnacional.com.py/economia/pena-habria-convocado-banqueros-situacion-sistema-financiero-n114594",
-          "publishedAt": "2026-11-02T21:47:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6aa679dee711a.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg?auth=b420f3c08ea634207bd407d12a473db89cc7bdaa81a521dbfce9dc8842d27c54&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T12:07:14.530Z",
-      "updatedSlot": "manana",
-      "score": 26.97
-    },
-    {
-      "id": "ev-07moaci",
-      "title": "Pedro Alliana pone en pausa su candidatura",
-      "summary": "El vicepresidente cuestionó la gestión del Gobierno y afirmó que su prioridad es ordenar la administración estatal antes de pensar en proyectos electorales. El vicepresidente Pedro Alliana anunció que postergará su campaña presidencial debido a la crisis e incertidumbre en el sistema financiero paraguayo.",
-      "keyPoints": [
-        "El vicepresidente cuestionó la gestión del Gobierno y afirmó que su prioridad es ordenar la administración estatal antes de pensar en proyectos electorales.",
-        "El vicepresidente Pedro Alliana anunció que postergará su campaña presidencial debido a la crisis e incertidumbre en el sistema financiero paraguayo.",
-        "El candidato del oficialismo supeditó su proyecto electoral a la solución de varias situaciones relacionadas con deudas del Estado.",
-        "Pedro Alliana pone en pausa su precandidatura a la Presidencia de la República hasta que el Gobierno logre ordenar la situación financiera del país y resolver los problemas económicos."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana pone pausa a candidatura hasta zanjar situación financiera",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/alliana-pone-pausa-a-candidatura-hasta-zanjar-situacion-financiera",
-          "publishedAt": "2026-11-03T03:10:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NPY73fBCLQjSaXzEYPA4-xTAd4s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LRRXEQN7NVBILKTYL4REML3X5I.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Declaraciones de Alliana “vienen a preocuparnos más”, dice senador Maidana",
-          "url": "https://www.abc.com.py/politica/2026/11/02/declaraciones-de-alliana-vienen-a-preocuparnos-mas-dice-senador-maidana",
-          "publishedAt": "2026-11-02T23:13:21.000Z",
-          "image": "https://www.abc.com.py/resizer/MRvZEHxcGYoGestPPTqhQu1XmTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EGASNLVQWRAQ7GIWNYJJQ5O7IU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Lilian Samaniego: “Peña y Alliana son responsables de la situación del país”",
-          "url": "https://www.abc.com.py/politica/2026/11/02/lilian-samaniego-pena-y-alliana-son-responsables-de-la-situacion-del-pais",
-          "publishedAt": "2026-11-02T22:20:24.000Z",
-          "image": "https://www.abc.com.py/resizer/Cd6KncY3LxtRrhIu87EcyTVCHP0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CYXLMBNPU5BOVO5TFU7XA2UDFQ.png"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Pedro Alliana pone en pausa su candidatura",
-          "url": "https://www.telefuturo.com.py/pedro-alliana-pone-en-pausa-su-candidatura",
-          "publishedAt": "2026-11-02T19:47:26.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Pedro Alliana pone en pausa su candidatura presidencial por la incertidumbre financiera",
-          "url": "https://5dias.com.py/article/pedro-alliana-pone-en-pausa-su-candidatura-presidencial-por-la-incertidumbre-financiera",
-          "publishedAt": "2026-11-02T18:27:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Pedro_Alliana_20261102_152903.webp"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Pedro Alliana pone en pausa su precandidatura a la Presidencia de la República",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-pone-en-pausa-su-precandidatura-a-la-presidencia-de-la-republica",
-          "publishedAt": "2026-11-02T14:47:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "¿En pausa? Alliana admite molestias con Peña y condiciona su candidatura presidencial",
-          "url": "https://elnacional.com.py/politica/en-pausa-alliana-admite-molestias-pena-condiciona-su-candidatura-presidencial-n114568",
-          "publishedAt": "2026-11-02T13:50:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad3b82e5194f.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LRRXEQN7NVBILKTYL4REML3X5I.jpg?auth=d4d4c07bcdca3443498e43cb0aec61f2d80731b82d0b4c885e367872ecb631d9&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/alliana-pone-pausa-a-candidatura-hasta-zanjar-situacion-financiera"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T08:07:11.609Z",
-      "updatedSlot": "manana",
-      "score": 23.25
-    },
-    {
-      "id": "ev-06oo94c",
-      "title": "Zenaida Delgado presentó su renuncia al Senado",
-      "summary": "La senadora Zenaida Delgado finalmente presentó renuncia ante el Congreso alegando una decisión personal y luego de que salieran a luz acusaciones sobre supuestos descuentos o cobros indebidos a funcionarios vinculados a su despacho. Su caso figuraba en la agenda de la Comisión de Asuntos Constitucionales del Senado, pero se levantó la sesión extraordinaria, tras confirmarse la presentación de la nota de dimisión.",
-      "keyPoints": [
-        "La senadora Zenaida Delgado finalmente presentó renuncia ante el Congreso alegando una decisión personal y luego de que salieran a luz acusaciones sobre supuestos descuentos o cobros indebidos a funcionarios vinculados a su despacho.",
-        "La senadora Zenaida Delgado oficializó este lunes su dimisión al cargo de senadora de la Nación, formalizando su salida de la Cámara Alta en medio de denuncias y un inminente pedido de pérdida de investidura en…",
-        "Su caso figuraba en la agenda de la Comisión de Asuntos Constitucionales del Senado, pero se levantó la sesión extraordinaria tras confirmarse la presentación de la nota de dimisión.",
-        "La senadora Zenaida Delgado presentó su renuncia al cargo en medio de las acusaciones sobre supuestos cobros de dinero a funcionarios de su despacho a cambio de conservar sus puestos o acceder a nombramientos."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Zenaida Delgado presentó renuncia al Senado tras escándalo destapado",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/zenaida-delgado-presento-renuncia-al-senado-tras-escandalo-destapado",
-          "publishedAt": "2026-11-03T03:06:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/3HS7vkMzTJFN8CVPH1s3X8bVAvI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OQVWD36FXVA57IEZRRKQGPFMVE.jpg"
+          "title": "Con presencia de HC, asume Remezowski como nuevo intendente de Encarnación",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/con-presencia-de-hc-asume-remezowski-como-nuevo-intendente-de-encarnacion",
+          "publishedAt": "2026-11-03T14:19:52.430Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PU5V7NXAC5EGBHDH7LHYSDXFHQ.jpg?auth=39ac0d528b7365b564ef40b874ab1da4db1a28a3cb7d7c912e48617cefd5ed94&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Nakayama pide aceptar renuncia de Zenaida Delgado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/02/nakayama-pide-aceptar-renuncia-de-zenaida-delgado",
-          "publishedAt": "2026-11-03T00:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6abEs23Yqs7NGS0d6AJl359v12c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/E6OPXDP2VZBQ3GTOLU5BQ7R4D4.jpg"
+          "title": "Horacio Cartes arribó a Encarnación para la asunción de Remesowski",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/horacio-cartes-arribo-a-encarnacion-para-la-asuncion-de-remesowski",
+          "publishedAt": "2026-11-03T12:15:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iVoLIzL-GIrewZgBwKxCup2IuKk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GXYQZYM3FFAHXPRMHLANCODDAY.jpg"
         },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Filizzola no descarta rechazar renuncia de Zenaida y celebra “preocupación” de Alliana",
-          "url": "https://www.abc.com.py/politica/2026/11/02/filizzola-no-descarta-rechazar-renuncia-de-zenaida-y-celebra-preocupacion-de-alliana",
-          "publishedAt": "2026-11-02T22:12:27.000Z",
-          "image": "https://www.abc.com.py/resizer/vjO5Pu5q1xDHOD2GxtZgIgey_EU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3JGLKG6LLRGXRGDN6E7PXGURLQ.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Zenaida Delgado renuncia al Senado en medio de denuncias por cobros a funcionarios",
-          "url": "https://www.adndigital.com.py/zenaida-delgado-renuncia-al-senado-en-medio-de-denuncias-por-cobros-a-funcionarios",
-          "publishedAt": "2026-11-02T20:11:02.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-170959.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Zacarías Irún plantea rechazar renuncia de Zenaida Delgado y avanzar con su expulsión",
-          "url": "https://elnacional.com.py/politica/zacarias-irun-plantea-rechazar-renuncia-zenaida-delgado-avanzar-su-expulsion-n114587",
-          "publishedAt": "2026-11-02T19:23:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/06/6a1fe3f8ca606.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Zenaida Delgado presentó su renuncia al Senado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
-          "publishedAt": "2026-11-02T18:33:36.000Z",
-          "image": "https://www.lanacion.com.py/resizer/46d4yM7g1OGSYsV_PjKtHWqdPVA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KXMC6GCUHFHM3JY243CHOTFXYQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Zenaida Delgado finalmente renunció al Senado",
-          "url": "https://elnacional.com.py/politica/zenaida-delgado-finalmente-renuncio-senado-n114586",
-          "publishedAt": "2026-11-02T18:24:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Zenaida Delgado presentó su renuncia al Senado",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
-          "publishedAt": "2026-11-02T18:21:54.327Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MKJXZX54KVEV3MUEDV4JD7GGTA.jpg?auth=8db9a8d6c6129a024d8fdc22551de15055aef333ba34b5ea29c3d634eaa61f33&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Oficialismo colorado espera dictamen para definir postura sobre Zenaida Delgado",
-          "url": "https://elnacional.com.py/politica/oficialismo-colorado-espera-dictamen-definir-postura-sobre-zenaida-delgado-n114582",
-          "publishedAt": "2026-11-02T16:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a622de5b0c5f.jpg"
-        },
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Zenaida Delgado ya tendría su renuncia firmada por pedido de su familia",
-          "url": "https://diariovanguardia.com.py/zenaida-delgado-ya-tendria-su-renuncia-firmada-por-pedido-de-su-familia",
-          "publishedAt": "2026-11-02T13:14:51.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/zenaida-delgado.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "El Senado enfrenta una prueba institucional con el caso Zenaida Delgado",
-          "url": "https://elnacional.com.py/politica/el-senado-enfrenta-una-prueba-institucional-caso-zenaida-delgado-n114543",
-          "publishedAt": "2026-11-02T08:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae1f65c32aad.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KXMC6GCUHFHM3JY243CHOTFXYQ.jpg?auth=7502b37cb022634a4babfd642472bf2f5bc13a1097d6d2d1380fcc40fb796bb1&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T08:07:11.609Z",
-      "updatedSlot": "manana",
-      "score": 23.25
-    },
-    {
-      "id": "ev-1c3gj24",
-      "title": "Nuevo presunto feminicidio en Pedro Juan Caballero: joven murió tras recibir un disparo",
-      "summary": "Una joven de 26 años falleció tras recibir un disparo en la cabeza en un nuevo presunto caso de feminicidio en Pedro Juan Caballero. Su concubino, señalado como principal sospechoso, permanece prófugo. Un violento sistema de tormentas con intensas lluvias y ráfagas de viento azotó con fuerza en la tarde de este lunes a las ciudades de Pedro Juan Caballero, Departamento de Amambay y Ponta Porã, en el Brasil, provocando…",
-      "keyPoints": [
-        "Una joven de 26 años falleció tras recibir un disparo en la cabeza en un nuevo presunto caso de feminicidio en Pedro Juan Caballero.",
-        "Un violento sistema de tormentas con intensas lluvias y ráfagas de viento azotó con fuerza en la tarde de este lunes a las ciudades de Pedro Juan Caballero, Departamento de Amambay y Ponta Porã, en el…",
-        "Un nuevo caso de presunto feminicidio se reportó este lunes en Ciudad del Este."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -467,15 +168,362 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FWPNCZ3EUREUPAF6T7BT36ADQ4.jpeg?auth=18aa2418beffe5cac288d4cc88d34663d35ada7ba462050bfa109e952cd562a8&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/02/reportan-nuevo-caso-de-presunto-feminicidio-en-ciudad-del-este"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-143952.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/asumio-remesowski-y-la-anr-vuelve-al-poder-en-encarnacion"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T08:07:11.609Z",
+      "updatedAt": "2026-11-03T16:05:04.288Z",
+      "updatedSlot": "tarde",
+      "score": 26.96
+    },
+    {
+      "id": "ev-0s0vuve",
+      "title": "BCP inicia la resolución de Ueno Bank por baja solvencia",
+      "summary": "El Banco Central del Paraguay (BCP) inició el procedimiento de resolución de Ueno Bank, tras constatar que su índice de solvencia cayó por debajo del 50% del mínimo requerido. La medida fue aprobada por unanimidad por el Directorio, con fecha 2 de noviembre, y se informó de madrugada.\n\nLa Superintendencia de Bancos designará interventores para verificar la situación patrimonial del banco y preservar sus activos. El BCP dijo que la prioridad es proteger a los depositantes. Los depósitos tienen garantía de hasta 75 salarios mínimos por persona y por entidad, equivalente a G. 228.300.000.\n\nEl regulador afirmó que detectó irregularidades en créditos vinculados y que las denuncias se harán ante las autoridades competentes. Usuarios reportaron que no podían operar en cajeros ni en home banking esta mañana.",
+      "keyPoints": [
+        "El BCP dispuso la resolución de Ueno Bank por solvencia por debajo del 50% del mínimo.",
+        "La Superintendencia de Bancos designará interventores para verificar el patrimonio.",
+        "La garantía de depósitos alcanza G. 228.300.000 por persona y por entidad.",
+        "El BCP denunciará las irregularidades detectadas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: BCP explica la resolución y qué va a pasar ahora",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-bcp-explica-la-resolucion-y-que-va-a-pasar-ahora",
+          "publishedAt": "2026-11-03T11:42:37.000Z",
+          "image": "https://www.abc.com.py/resizer/GSQIEXpskggT62Q1cdiL-8FqD60=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TT7ME545VRCNNCR76SOBTAYXAA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Banco Central detalló las irregularidades que definieron la disolución de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/banco-central-detallo-las-irregularidades-que-definieron-la-disolucion-de-ueno-bank",
+          "publishedAt": "2026-11-03T10:48:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZugQ_TnY4Mf1IWHEpaCeXjxYZDU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MUV4BACVLVBVLKEEMVDZU3QUFQ.png"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia",
+          "url": "https://www.npy.com.py/noticias/nacionales/bcp-dispone-la-resolucion-del-banco-ueno-por-incumplimiento-del-indice-de-solvencia",
+          "publishedAt": "2026-11-03T10:33:28.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "BCP inicia la resolución de ueno bank por problemas de solvencia",
+          "url": "https://www.adndigital.com.py/bcp-inicia-la-resolucion-de-ueno-bank-por-problemas-de-solvencia",
+          "publishedAt": "2026-11-03T10:04:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/banco-central-819x1024.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: hasta cuánto dinero podrán recuperar los depositantes y cuándo",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando",
+          "publishedAt": "2026-11-03T09:37:53.000Z",
+          "image": "https://www.abc.com.py/resizer/WL4r_sZ8d_mpzoHh-T1rDD38UNA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP dispone resolución de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/el-bcp-dispone-resolucion-de-ueno-bank",
+          "publishedAt": "2026-11-03T09:26:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "BCP dispone resolución de ueno bank por insuficiencia severa",
+          "url": "https://www.ultimahora.com/bcp-dispone-intervencion-de-ueno-bank-por-insuficiencia-severa",
+          "publishedAt": "2026-11-03T08:25:53.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP constata insuficiencia en solvencia de ueno y ordena intervención",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/bcp-constata-insuficiencia-en-solvencia-de-ueno-y-ordena-intervencion",
+          "publishedAt": "2026-11-03T08:02:06.521Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LAI3FQURIJADFFTOVHL5M3W5VI.jpg?auth=4f30086262b51152251f00be9c2c3dca7a3ca47952f8ea7eb09d1b127bf2da92&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: el BCP anuncia “procedimiento de resolución”",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-el-bcp-anuncia-procedimiento-de-resolucion",
+          "publishedAt": "2026-11-03T06:53:31.000Z",
+          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ueno Bank niega intervención del BCP y asegura que opera con normalidad",
+          "url": "https://www.hoy.com.py/negocios/2026/11/02/ueno-bank-niega-intervencion-del-bcp-y-asegura-que-opera-con-normalidad",
+          "publishedAt": "2026-11-03T00:10:39.569Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Presidencia y ueno bank desmienten versiones sobre medidas financieras",
+          "url": "https://elnacional.com.py/politica/presidencia-ueno-bank-desmienten-versiones-sobre-medidas-financieras-n114596",
+          "publishedAt": "2026-11-02T23:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69ec64caa1ebc.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña habría convocado a banqueros ante situación del sistema financiero",
+          "url": "https://elnacional.com.py/economia/pena-habria-convocado-banqueros-situacion-sistema-financiero-n114594",
+          "publishedAt": "2026-11-02T21:47:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa679dee711a.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg?auth=b420f3c08ea634207bd407d12a473db89cc7bdaa81a521dbfce9dc8842d27c54&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 23.24
+      "score": 26.64
+    },
+    {
+      "id": "ev-06oo94c",
+      "title": "Zenaida Delgado presentó su renuncia al Senado en medio de denuncias",
+      "summary": "La senadora colorada Zenaida Delgado presentó su renuncia al Senado. La decisión llega en medio de denuncias de exfuncionarios de su despacho, que la acusan de exigir cobros indebidos y transferencias de bonificaciones, de hasta G. 100 millones, para acceder a nombramientos. Delgado alegó una decisión personal. Según las notas, las denuncias están en investigación fiscal.\n\nLa renuncia debe ser aceptada por el pleno del Senado. El senador Eduardo Nakayama pidió aceptarla y dijo que la sanción debe darse en la Justicia. Faisal Huespe Cibils, del Partido Cruzada Nacional, aguarda la convocatoria para jurar como senador en su lugar.",
+      "keyPoints": [
+        "Zenaida Delgado presentó su renuncia al Senado.",
+        "Exfuncionarios denunciaron supuestos cobros indebidos en su despacho.",
+        "El pleno del Senado debe aceptar la renuncia.",
+        "Faisal Huespe Cibils sería el próximo en asumir."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Faisal Huespe aguarda convocatoria del Senado para jurar tras renuncia de Delgado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/faisal-huespe-aguarda-convocatoria-del-senado-para-jurar-tras-renuncia-de-delgado",
+          "publishedAt": "2026-11-03T10:23:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pVivAUdhe1lATIsnPNhaW3uGGRQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2Y5E43ZXQ5GWPJRM7MDZJTBV5E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Zenaida Delgado presentó renuncia al Senado tras escándalo destapado",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/zenaida-delgado-presento-renuncia-al-senado-tras-escandalo-destapado",
+          "publishedAt": "2026-11-03T03:06:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3HS7vkMzTJFN8CVPH1s3X8bVAvI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OQVWD36FXVA57IEZRRKQGPFMVE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nakayama pide aceptar renuncia de Zenaida Delgado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/nakayama-pide-aceptar-renuncia-de-zenaida-delgado",
+          "publishedAt": "2026-11-03T00:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6abEs23Yqs7NGS0d6AJl359v12c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/E6OPXDP2VZBQ3GTOLU5BQ7R4D4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Filizzola no descarta rechazar renuncia de Zenaida y celebra “preocupación” de Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/02/filizzola-no-descarta-rechazar-renuncia-de-zenaida-y-celebra-preocupacion-de-alliana",
+          "publishedAt": "2026-11-02T22:12:27.000Z",
+          "image": "https://www.abc.com.py/resizer/vjO5Pu5q1xDHOD2GxtZgIgey_EU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3JGLKG6LLRGXRGDN6E7PXGURLQ.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Zenaida Delgado renuncia al Senado en medio de denuncias por cobros a funcionarios",
+          "url": "https://www.adndigital.com.py/zenaida-delgado-renuncia-al-senado-en-medio-de-denuncias-por-cobros-a-funcionarios",
+          "publishedAt": "2026-11-02T20:11:02.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-02-at-170959.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zacarías Irún plantea rechazar renuncia de Zenaida Delgado y avanzar con su expulsión",
+          "url": "https://elnacional.com.py/politica/zacarias-irun-plantea-rechazar-renuncia-zenaida-delgado-avanzar-su-expulsion-n114587",
+          "publishedAt": "2026-11-02T19:23:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a1fe3f8ca606.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Zenaida Delgado presentó su renuncia al Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
+          "publishedAt": "2026-11-02T18:33:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/46d4yM7g1OGSYsV_PjKtHWqdPVA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KXMC6GCUHFHM3JY243CHOTFXYQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zenaida Delgado finalmente renunció al Senado",
+          "url": "https://elnacional.com.py/politica/zenaida-delgado-finalmente-renuncio-senado-n114586",
+          "publishedAt": "2026-11-02T18:24:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Zenaida Delgado presentó su renuncia al Senado",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/02/zenaida-delgado-presento-su-renuncia-al-senado",
+          "publishedAt": "2026-11-02T18:21:54.327Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MKJXZX54KVEV3MUEDV4JD7GGTA.jpg?auth=8db9a8d6c6129a024d8fdc22551de15055aef333ba34b5ea29c3d634eaa61f33&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oficialismo colorado espera dictamen para definir postura sobre Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/oficialismo-colorado-espera-dictamen-definir-postura-sobre-zenaida-delgado-n114582",
+          "publishedAt": "2026-11-02T16:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a622de5b0c5f.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Zenaida Delgado ya tendría su renuncia firmada por pedido de su familia",
+          "url": "https://diariovanguardia.com.py/zenaida-delgado-ya-tendria-su-renuncia-firmada-por-pedido-de-su-familia",
+          "publishedAt": "2026-11-02T13:14:51.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/zenaida-delgado.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El Senado enfrenta una prueba institucional con el caso Zenaida Delgado",
+          "url": "https://elnacional.com.py/politica/el-senado-enfrenta-una-prueba-institucional-caso-zenaida-delgado-n114543",
+          "publishedAt": "2026-11-02T08:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f65c32aad.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/zenaida-delgado-finalmente-renuncio-senado-n114586"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T16:05:04.288Z",
+      "updatedSlot": "tarde",
+      "score": 23.53
+    },
+    {
+      "id": "ev-07moaci",
+      "title": "Alliana pone en pausa su candidatura hasta resolver la crisis financiera",
+      "summary": "El vicepresidente Pedro Alliana condicionó su precandidatura presidencial a resolver la crisis financiera del Estado. Dijo: \"Pongo en pausa mi candidatura hasta que se ponga la casa en orden\". Según sus palabras, también hay que solucionar las deudas con proveedores de insumos médicos, servicios de limpieza y seguridad, y fortalecer la Policía Nacional.\n\nAlliana afirmó que no está preocupado por las internas del Partido Colorado, sino por una buena gestión. Sus declaraciones fueron dadas a la 1020 AM.\n\nEl senador Natalicio Chase dijo que Alliana sigue siendo el precandidato del oficialismo y que la pausa es una medida de presión para que el Gobierno defina lo del BCP.",
+      "keyPoints": [
+        "Alliana pausó su candidatura hasta resolver la situación financiera.",
+        "Pidió solucionar deudas con proveedores y fortalecer la Policía Nacional.",
+        "Chase ratificó que Alliana sigue siendo precandidato del oficialismo."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "La fractura también llega al Ejecutivo",
+          "url": "https://elnacional.com.py/politica/la-fractura-tambien-llega-ejecutivo-n114598",
+          "publishedAt": "2026-11-03T08:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a81786f41f12.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana pone pausa a candidatura hasta zanjar situación financiera",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/alliana-pone-pausa-a-candidatura-hasta-zanjar-situacion-financiera",
+          "publishedAt": "2026-11-03T03:10:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NPY73fBCLQjSaXzEYPA4-xTAd4s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LRRXEQN7NVBILKTYL4REML3X5I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Declaraciones de Alliana “vienen a preocuparnos más”, dice senador Maidana",
+          "url": "https://www.abc.com.py/politica/2026/11/02/declaraciones-de-alliana-vienen-a-preocuparnos-mas-dice-senador-maidana",
+          "publishedAt": "2026-11-02T23:13:21.000Z",
+          "image": "https://www.abc.com.py/resizer/MRvZEHxcGYoGestPPTqhQu1XmTg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EGASNLVQWRAQ7GIWNYJJQ5O7IU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lilian Samaniego: “Peña y Alliana son responsables de la situación del país”",
+          "url": "https://www.abc.com.py/politica/2026/11/02/lilian-samaniego-pena-y-alliana-son-responsables-de-la-situacion-del-pais",
+          "publishedAt": "2026-11-02T22:20:24.000Z",
+          "image": "https://www.abc.com.py/resizer/Cd6KncY3LxtRrhIu87EcyTVCHP0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CYXLMBNPU5BOVO5TFU7XA2UDFQ.png"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Pedro Alliana pone en pausa su candidatura",
+          "url": "https://www.telefuturo.com.py/pedro-alliana-pone-en-pausa-su-candidatura",
+          "publishedAt": "2026-11-02T19:47:26.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Pedro Alliana pone en pausa su candidatura presidencial por la incertidumbre financiera",
+          "url": "https://5dias.com.py/article/pedro-alliana-pone-en-pausa-su-candidatura-presidencial-por-la-incertidumbre-financiera",
+          "publishedAt": "2026-11-02T18:27:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Pedro_Alliana_20261102_152903.webp"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Pedro Alliana sigue siendo el precandidato del oficialismo, afirma Natalicio Chase",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-sigue-siendo-el-precandidato-del-oficialismo-afirma-natalicio-chase",
+          "publishedAt": "2026-11-02T16:49:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Pedro Alliana pone en pausa su precandidatura a la Presidencia de la República",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/pedro-alliana-pone-en-pausa-su-precandidatura-a-la-presidencia-de-la-republica",
+          "publishedAt": "2026-11-02T14:47:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "¿En pausa? Alliana admite molestias con Peña y condiciona su candidatura presidencial",
+          "url": "https://elnacional.com.py/politica/en-pausa-alliana-admite-molestias-pena-condiciona-su-candidatura-presidencial-n114568",
+          "publishedAt": "2026-11-02T13:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad3b82e5194f.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/08/6a81786f41f12.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/la-fractura-tambien-llega-ejecutivo-n114598"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T16:05:04.288Z",
+      "updatedSlot": "tarde",
+      "score": 23.33
     },
     {
       "id": "ev-0ezi6b8",
@@ -543,7 +591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 20.81
+      "score": 20.48
     },
     {
       "id": "ev-03kwz6y",
@@ -619,7 +667,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 17.95
+      "score": 17.62
     },
     {
       "id": "ev-0orkq8z",
@@ -687,7 +735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 17.24
+      "score": 16.91
     },
     {
       "id": "ev-0qnqis3",
@@ -763,7 +811,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 17.14
+      "score": 16.81
     },
     {
       "id": "ev-07u3eyl",
@@ -822,7 +870,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 14.8
+      "score": 14.47
     },
     {
       "id": "ev-0psm3cn",
@@ -874,7 +922,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.66
+      "score": 12.33
     },
     {
       "id": "ev-1r2tsld",
@@ -925,7 +973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.43
+      "score": 12.1
     },
     {
       "id": "ev-06fnfie",
@@ -976,7 +1024,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0mjig34",
@@ -1027,7 +1075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-1sf97wz",
@@ -1078,7 +1126,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0tvqft5",
@@ -1129,7 +1177,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0v6zpdk",
@@ -1181,7 +1229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.14
+      "score": 9.81
     },
     {
       "id": "ev-1r4whx8",
@@ -1233,7 +1281,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.98
+      "score": 9.65
     },
     {
       "id": "ev-10sahcz",
@@ -1285,7 +1333,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.33
     },
     {
       "id": "ev-134wxxv",
@@ -1327,7 +1375,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1xbm10h",
@@ -1370,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.17
+      "score": 8.83
     },
     {
       "id": "ev-07lbsvr",
@@ -1413,7 +1461,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-1dyzoj7",
@@ -1456,7 +1504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-02n3l3n",
@@ -1499,7 +1547,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.04
+      "score": 8.7
     },
     {
       "id": "ev-0oyjz1l",
@@ -1542,7 +1590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.62
     },
     {
       "id": "ev-1sr6lpz",
@@ -1585,7 +1633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.62
     },
     {
       "id": "ev-1hl37ru",
@@ -1628,7 +1676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.5
     },
     {
       "id": "ev-0gnrhii",
@@ -1671,7 +1719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.76
+      "score": 8.43
     },
     {
       "id": "ev-1amttat",
@@ -1714,7 +1762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.39
     },
     {
       "id": "ev-1ae8o8i",
@@ -1757,7 +1805,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.34
     },
     {
       "id": "ev-15if0qa",
@@ -1800,7 +1848,47 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.32
+    },
+    {
+      "id": "ev-1yz97fo",
+      "title": "Olimpia vence a Cerro Porteño y amplía su ventaja en el Clausura",
+      "summary": "Olimpia derrotó a Cerro Porteño en La Nueva Olla y lidera el Clausura con 36 puntos, cuatro más que Nacional. El equipo extendió a 11 partidos su racha de triunfos en Barrio Obrero. También amplió su ventaja en el historial oficial frente al Azulgrana.",
+      "keyPoints": [
+        "Olimpia venció a Cerro Porteño en La Nueva Olla.",
+        "Olimpia lidera el Clausura con 36 puntos.",
+        "Nacional tiene 32 puntos, cuatro menos que Olimpia.",
+        "La racha de triunfos en Barrio Obrero llega a 11 partidos."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Baile franjeado en La Nueva Olla: Olimpia amplía su ventaja en la cima",
+          "url": "https://www.npy.com.py/noticias/deportes/baile-franjeado-en-la-nueva-olla-olimpia-amplia-su-ventaja-en-la-cima",
+          "publishedAt": "2026-11-02T13:37:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Así quedó el historial de enfrentamientos entre Olimpia y Cerro Porteño tras el último Superclásico",
+          "url": "https://elnacional.com.py/deportes/asi-quedo-historial-enfrentamientos-olimpia-cerro-porteno-tras-ultimo-superclasico-n114552",
+          "publishedAt": "2026-11-02T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae801e94c68e.jfif"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T03:54:04.962Z",
+      "updatedSlot": "manana",
+      "score": 8
     },
     {
       "id": "ev-17xr4c7",
@@ -1851,47 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 8.25
-    },
-    {
-      "id": "ev-1yz97fo",
-      "title": "Olimpia vence a Cerro Porteño y amplía su ventaja en el Clausura",
-      "summary": "Olimpia derrotó a Cerro Porteño en La Nueva Olla y lidera el Clausura con 36 puntos, cuatro más que Nacional. El equipo extendió a 11 partidos su racha de triunfos en Barrio Obrero. También amplió su ventaja en el historial oficial frente al Azulgrana.",
-      "keyPoints": [
-        "Olimpia venció a Cerro Porteño en La Nueva Olla.",
-        "Olimpia lidera el Clausura con 36 puntos.",
-        "Nacional tiene 32 puntos, cuatro menos que Olimpia.",
-        "La racha de triunfos en Barrio Obrero llega a 11 partidos."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Baile franjeado en La Nueva Olla: Olimpia amplía su ventaja en la cima",
-          "url": "https://www.npy.com.py/noticias/deportes/baile-franjeado-en-la-nueva-olla-olimpia-amplia-su-ventaja-en-la-cima",
-          "publishedAt": "2026-11-02T13:37:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Así quedó el historial de enfrentamientos entre Olimpia y Cerro Porteño tras el último Superclásico",
-          "url": "https://elnacional.com.py/deportes/asi-quedo-historial-enfrentamientos-olimpia-cerro-porteno-tras-ultimo-superclasico-n114552",
-          "publishedAt": "2026-11-02T09:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6ae801e94c68e.jfif"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T03:54:04.962Z",
-      "updatedSlot": "manana",
-      "score": 8.12
+      "score": 7.92
     },
     {
       "id": "ev-03zauy9",
@@ -1934,7 +1982,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-0s6lr74",
@@ -1977,7 +2025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0n1j551",
@@ -2021,7 +2069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0iqpukx",
@@ -2064,7 +2112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-14hjv33",
@@ -2108,7 +2156,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0x5290t",
@@ -2152,7 +2200,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-01ro5uf",
@@ -2195,7 +2243,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.87
+      "score": 5.53
     },
     {
       "id": "ev-1lfzxut",
@@ -2229,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1pos4v9",
@@ -2264,7 +2312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1e82c9r",
@@ -2299,7 +2347,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.68
     },
     {
       "id": "ev-04n2wnx",
@@ -2335,7 +2383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.33
     },
     {
       "id": "ev-1fd5upk",
@@ -2371,7 +2419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.56
+      "score": 4.23
     },
     {
       "id": "ev-148swdg",
@@ -2404,7 +2452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.52
+      "score": 4.19
     },
     {
       "id": "ev-1trgia6",
@@ -2439,7 +2487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.15
     },
     {
       "id": "ev-046c4je",
@@ -2473,7 +2521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.25
+      "score": 4
     },
     {
       "id": "ev-0f0i926",
@@ -2516,7 +2564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.68
+      "score": 3.35
     },
     {
       "id": "ev-0huby3k",
@@ -2555,7 +2603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.43
+      "score": 3.1
     },
     {
       "id": "ev-05kqik1",
@@ -2586,7 +2634,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.47
     }
   ],
   "runs": [
@@ -2610,6 +2658,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-03T16:05:04.288Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 18
     }
   ]
 }
