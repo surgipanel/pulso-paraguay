@@ -1,20 +1,19 @@
 {
   "date": "2026-11-03",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-03T16:05:04.288Z",
+  "generatedAt": "2026-11-03T19:37:29.240Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1c3gj24",
-      "title": "Sebastián Remezowski asumió como intendente de Encarnación",
-      "summary": "Sebastián Emilio Remezowski asumió como intendente de Encarnación para el período 2026-2031. El acto fue en el Club de Pesca Pacu Cuá y marca la vuelta del Partido Colorado a la comuna, después de dos períodos de gestión opositora.\n\nAsistieron el expresidente Horacio Cartes, líder de la ANR, el presidente de Diputados Raúl Latorre y senadores nacionales. Remezowski advirtió que el corte administrativo con la gestión saliente de Luis Yd le permitirá mostrar la situación económica heredada. Advirtió que se vienen meses complicados con salarios y aguinaldo.\n\nSegún las notas, el proceso de corte lo supervisa la Contraloría y el acta final se firmará en 10 a 15 días.",
+      "title": "El Partido Colorado retoma Encarnación con la asunción de Remesowski",
+      "summary": "El Partido Colorado volvió al poder en Encarnación, la tercera ciudad más importante del país. Sebastián Emilio Remesowski Squef asumió como intendente para el periodo 2026-2031, en un acto en el que participó Horacio Cartes. Es la única de las principales ciudades que la ANR ganó en las elecciones municipales.\n\nAl acto asistieron el presidente de la Cámara de Diputados, Raúl Latorre, y senadores y diputados nacionales. Según ABC Color, el presidente Santiago Peña y el vicepresidente Pedro Alliana se ausentaron, en medio de la crisis por la resolución de ueno bank.\n\nRemesowski pidió unidad y dijo que espera que el corte administrativo le permita mostrar la “mochila económica” con la que asume. Advirtió que se vienen meses complicados con salarios y aguinaldo, y prometió informar la situación económica real en 15 a 20 días.",
       "keyPoints": [
-        "Remezowski asumió como intendente de Encarnación para 2026-2031.",
-        "Horacio Cartes participó del acto.",
-        "Advirtió meses complicados por salarios y aguinaldo.",
-        "El acta del corte administrativo se firmará en 10 a 15 días."
+        "Remesowski asumió como intendente de Encarnación para 2026-2031.",
+        "Encarnación es la única de las principales ciudades que ganó la ANR.",
+        "Remesowski prometió informar la situación económica real en 15 a 20 días."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -23,12 +22,28 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Encarnación: luego de 11 años, el Partido Colorado retoma el poder con la asunción de Sebastián Remesowski",
+          "url": "https://www.abc.com.py/politica/2026/11/03/encarnacion-luego-de-11-anos-el-partido-colorado-retoma-el-poder-con-la-asuncion-de-sebastian-remesowski",
+          "publishedAt": "2026-11-03T19:24:49.000Z",
+          "image": "https://www.abc.com.py/resizer/zVdAYSRfhNGpzwmdP8GdKHI8a7o=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3YJTRAS3O5ATZG2WWX4XPXKHFM.jpg"
+        },
+        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
           "title": "Asumió Remesowski y la ANR vuelve al poder en Encarnación",
           "url": "https://www.adndigital.com.py/asumio-remesowski-y-la-anr-vuelve-al-poder-en-encarnacion",
           "publishedAt": "2026-11-03T15:33:29.000Z",
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-143952.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Remezowski asume la Intendencia con eje en barrios, Yacyretá e integración",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/remezowski-asume-la-intendencia-con-eje-en-barrios-yacyreta-e-integracion",
+          "publishedAt": "2026-11-03T14:37:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hwodIoVkjT-buuSIEp3Xrd21QQU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WQV2JYFOVNETDASL3DAXODLGBM.jpeg"
         },
         {
           "sourceId": "hoy",
@@ -168,25 +183,24 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-143952.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/asumio-remesowski-y-la-anr-vuelve-al-poder-en-encarnacion"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3YJTRAS3O5ATZG2WWX4XPXKHFM.jpg?auth=b49745efde4e22fcb890f3196cbc0df289657a215790bc4848bb8720ff0c93ea&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/03/encarnacion-luego-de-11-anos-el-partido-colorado-retoma-el-poder-con-la-asuncion-de-sebastian-remesowski"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T16:05:04.288Z",
+      "updatedAt": "2026-11-03T19:37:29.240Z",
       "updatedSlot": "tarde",
-      "score": 26.96
+      "score": 26.98
     },
     {
       "id": "ev-0s0vuve",
-      "title": "BCP inicia la resolución de Ueno Bank por baja solvencia",
-      "summary": "El Banco Central del Paraguay (BCP) inició el procedimiento de resolución de Ueno Bank, tras constatar que su índice de solvencia cayó por debajo del 50% del mínimo requerido. La medida fue aprobada por unanimidad por el Directorio, con fecha 2 de noviembre, y se informó de madrugada.\n\nLa Superintendencia de Bancos designará interventores para verificar la situación patrimonial del banco y preservar sus activos. El BCP dijo que la prioridad es proteger a los depositantes. Los depósitos tienen garantía de hasta 75 salarios mínimos por persona y por entidad, equivalente a G. 228.300.000.\n\nEl regulador afirmó que detectó irregularidades en créditos vinculados y que las denuncias se harán ante las autoridades competentes. Usuarios reportaron que no podían operar en cajeros ni en home banking esta mañana.",
+      "title": "El BCP dispone la resolución de ueno bank tras hallar irregularidades",
+      "summary": "El Banco Central del Paraguay (BCP) decidió la resolución de ueno bank, una medida que pone fin a la entidad tal como funcionaba. Según su presidente, Carlos Carvallo, el análisis comenzó el 5 de junio y las conclusiones confirmaron la decisión.\n\nEl BCP explicó que los créditos vinculados fueron lo primero que llamó la atención del regulador, por lo que al principio pidió ajustar esas operaciones. Después, una inspección más profunda halló más irregularidades hasta determinar lo que el organismo llamó “la ruta del dinero”.\n\nEl regulador dijo que denunciará las irregularidades ante las autoridades competentes. También señaló que la difusión de información sensible sobre la entidad aceleró el deterioro de su liquidez. Según el BCP, la solvencia del banco quedó por debajo del 50 % del mínimo requerido.",
       "keyPoints": [
-        "El BCP dispuso la resolución de Ueno Bank por solvencia por debajo del 50% del mínimo.",
-        "La Superintendencia de Bancos designará interventores para verificar el patrimonio.",
-        "La garantía de depósitos alcanza G. 228.300.000 por persona y por entidad.",
-        "El BCP denunciará las irregularidades detectadas."
+        "El análisis del BCP sobre ueno bank comenzó el 5 de junio.",
+        "Las irregularidades serán denunciadas ante las autoridades competentes.",
+        "El índice de solvencia quedó por debajo del 50 % del mínimo requerido."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -194,6 +208,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 3 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/03/ln-pm-edicion-del-3-de-noviembre",
+          "publishedAt": "2026-11-03T15:42:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/IPHDPhGb-PnefNgNAaKytlWJH74=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y62OZEKNPBC7PI7LY6B2I5W6NU.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -292,25 +314,24 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg?auth=b420f3c08ea634207bd407d12a473db89cc7bdaa81a521dbfce9dc8842d27c54&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MUV4BACVLVBVLKEEMVDZU3QUFQ.png?auth=e0d518e729edb1f6b6dc1d780fde3bebc903da476f49b0aa858f578fa121fa7b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/03/banco-central-detallo-las-irregularidades-que-definieron-la-disolucion-de-ueno-bank"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T12:07:14.530Z",
-      "updatedSlot": "manana",
-      "score": 26.64
+      "updatedAt": "2026-11-03T19:37:29.240Z",
+      "updatedSlot": "tarde",
+      "score": 26.67
     },
     {
       "id": "ev-06oo94c",
-      "title": "Zenaida Delgado presentó su renuncia al Senado en medio de denuncias",
-      "summary": "La senadora colorada Zenaida Delgado presentó su renuncia al Senado. La decisión llega en medio de denuncias de exfuncionarios de su despacho, que la acusan de exigir cobros indebidos y transferencias de bonificaciones, de hasta G. 100 millones, para acceder a nombramientos. Delgado alegó una decisión personal. Según las notas, las denuncias están en investigación fiscal.\n\nLa renuncia debe ser aceptada por el pleno del Senado. El senador Eduardo Nakayama pidió aceptarla y dijo que la sanción debe darse en la Justicia. Faisal Huespe Cibils, del Partido Cruzada Nacional, aguarda la convocatoria para jurar como senador en su lugar.",
+      "title": "Zenaida Delgado presenta su renuncia al Senado en medio de denuncias",
+      "summary": "La senadora Zenaida Delgado presentó su renuncia al Senado en medio de denuncias por presuntos cobros indebidos a funcionarios de su despacho. Ella alegó una decisión personal, según informaron los medios. La renuncia fue confirmada por el senador Natalicio Chase.\n\nLas denuncias, según exfuncionarios del Congreso, apuntan a un supuesto esquema de cobros para acceder a nombramientos. Su caso figuraba en la agenda de la Comisión de Asuntos Constitucionales, que levantó la sesión tras confirmarse la renuncia.\n\nLa renuncia debe ser aprobada por el pleno del Senado. Delgado enfrentaba un pedido de pérdida de investidura.",
       "keyPoints": [
-        "Zenaida Delgado presentó su renuncia al Senado.",
-        "Exfuncionarios denunciaron supuestos cobros indebidos en su despacho.",
-        "El pleno del Senado debe aceptar la renuncia.",
-        "Faisal Huespe Cibils sería el próximo en asumir."
+        "Delgado presentó su renuncia alegando una decisión personal.",
+        "Las denuncias son por presuntos cobros indebidos a funcionarios.",
+        "La renuncia debe ser aprobada por el pleno del Senado."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -318,6 +339,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "En medio del caos, jura suplente de Zenaida y Cruzada recupera otra banca",
+          "url": "https://www.abc.com.py/politica/2026/11/03/en-medio-del-caos-jura-suplente-de-zenaida-y-cruzada-recupera-otra-banca",
+          "publishedAt": "2026-11-03T18:33:15.000Z",
+          "image": "https://www.abc.com.py/resizer/uxAycXTu2wJjZa9MurVH5LbVuZQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HYDZHHHDVVEDZMHKOTFL3SHT7I.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado trata hoy renuncia de Zenaida Delgado en vuelta en casos de coimas",
+          "url": "https://elnacional.com.py/politica/senado-trata-hoy-renuncia-zenaida-delgado-vuelta-casos-coimas-n114648",
+          "publishedAt": "2026-11-03T18:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f65c32aad.jpeg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -416,15 +453,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/10/690382acb7556.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/zenaida-delgado-finalmente-renuncio-senado-n114586"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OQVWD36FXVA57IEZRRKQGPFMVE.jpg?auth=bb538cdcfe4b3ff820f8e2f52c32439b3b6639e0b8b5c405391ce584a7dc3648&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/zenaida-delgado-presento-renuncia-al-senado-tras-escandalo-destapado"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T16:05:04.288Z",
+      "updatedAt": "2026-11-03T19:37:29.240Z",
       "updatedSlot": "tarde",
-      "score": 23.53
+      "score": 23.91
     },
     {
       "id": "ev-07moaci",
@@ -523,7 +560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T16:05:04.288Z",
       "updatedSlot": "tarde",
-      "score": 23.33
+      "score": 23.04
     },
     {
       "id": "ev-0ezi6b8",
@@ -591,7 +628,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 20.48
+      "score": 20.18
     },
     {
       "id": "ev-03kwz6y",
@@ -667,7 +704,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 17.62
+      "score": 17.32
     },
     {
       "id": "ev-0orkq8z",
@@ -735,7 +772,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 16.91
+      "score": 16.62
     },
     {
       "id": "ev-0qnqis3",
@@ -811,7 +848,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 16.81
+      "score": 16.51
     },
     {
       "id": "ev-07u3eyl",
@@ -870,7 +907,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 14.47
+      "score": 14.18
     },
     {
       "id": "ev-0psm3cn",
@@ -922,7 +959,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.33
+      "score": 12.03
     },
     {
       "id": "ev-1r2tsld",
@@ -973,7 +1010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.1
+      "score": 12
     },
     {
       "id": "ev-06fnfie",
@@ -1024,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0mjig34",
@@ -1075,7 +1112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1sf97wz",
@@ -1126,7 +1163,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0tvqft5",
@@ -1177,7 +1214,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0v6zpdk",
@@ -1229,7 +1266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.81
+      "score": 9.52
     },
     {
       "id": "ev-1r4whx8",
@@ -1281,7 +1318,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.65
+      "score": 9.36
     },
     {
       "id": "ev-10sahcz",
@@ -1333,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.04
     },
     {
       "id": "ev-134wxxv",
@@ -1375,7 +1412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-1xbm10h",
@@ -1418,7 +1455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.54
     },
     {
       "id": "ev-07lbsvr",
@@ -1461,7 +1498,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.45
     },
     {
       "id": "ev-1dyzoj7",
@@ -1504,7 +1541,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.42
     },
     {
       "id": "ev-02n3l3n",
@@ -1547,7 +1584,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-0oyjz1l",
@@ -1590,7 +1627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-1sr6lpz",
@@ -1633,7 +1670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.32
     },
     {
       "id": "ev-1hl37ru",
@@ -1676,7 +1713,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.2
     },
     {
       "id": "ev-0gnrhii",
@@ -1719,7 +1756,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.43
+      "score": 8.14
     },
     {
       "id": "ev-1amttat",
@@ -1762,7 +1799,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.39
+      "score": 8.09
     },
     {
       "id": "ev-1ae8o8i",
@@ -1805,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.04
     },
     {
       "id": "ev-15if0qa",
@@ -1848,7 +1885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.32
+      "score": 8.02
     },
     {
       "id": "ev-1yz97fo",
@@ -1939,7 +1976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 7.92
+      "score": 7.63
     },
     {
       "id": "ev-03zauy9",
@@ -1982,7 +2019,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.12
     },
     {
       "id": "ev-0s6lr74",
@@ -2025,7 +2062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0n1j551",
@@ -2069,7 +2106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0iqpukx",
@@ -2112,7 +2149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-14hjv33",
@@ -2156,7 +2193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0x5290t",
@@ -2200,7 +2237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-01ro5uf",
@@ -2243,7 +2280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.24
     },
     {
       "id": "ev-1lfzxut",
@@ -2277,7 +2314,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1pos4v9",
@@ -2312,7 +2349,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1e82c9r",
@@ -2347,7 +2384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.68
+      "score": 4.38
     },
     {
       "id": "ev-04n2wnx",
@@ -2383,7 +2420,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-1fd5upk",
@@ -2419,7 +2456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.23
+      "score": 4
     },
     {
       "id": "ev-148swdg",
@@ -2452,7 +2489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.19
+      "score": 4
     },
     {
       "id": "ev-1trgia6",
@@ -2487,7 +2524,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.15
+      "score": 4
     },
     {
       "id": "ev-046c4je",
@@ -2564,7 +2601,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.35
+      "score": 3.05
     },
     {
       "id": "ev-0huby3k",
@@ -2603,7 +2640,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.1
+      "score": 2.81
     },
     {
       "id": "ev-05kqik1",
@@ -2634,7 +2671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 2.47
+      "score": 2.17
     }
   ],
   "runs": [
@@ -2665,6 +2702,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 18
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-03T19:37:29.240Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 20
     }
   ]
 }
