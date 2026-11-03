@@ -1,6 +1,6 @@
 // Descarga y parseo de feeds (RSS, Atom, sitemap de noticias) con reintentos limitados.
 import { XMLParser } from "fast-xml-parser";
-import { FETCH_RETRIES, FETCH_TIMEOUT_MS, STALE_HOURS, USER_AGENT, WINDOW_HOURS } from "./config.mjs";
+import { FETCH_RETRIES, FETCH_TIMEOUT_MS, MATERIAL_CHARS, STALE_HOURS, USER_AGENT, WINDOW_HOURS } from "./config.mjs";
 import { asuncionDate, canonicalUrl, decodeEntities, excerptOf, hoursBetween, parseDate, shortId, squeeze, stripHtml } from "./text.mjs";
 
 const parser = new XMLParser({
@@ -204,7 +204,7 @@ export function lightenImageUrl(url) {
   }
 }
 
-function metaContent(head, names) {
+export function metaContent(head, names) {
   for (const name of names) {
     const m =
       head.match(new RegExp(`<meta\\s+(?:property|name)=["']${name}["']\\s+content=["']([^"']*)["']`, "i")) ||
@@ -357,6 +357,9 @@ export async function fetchSource(source, { now = new Date(), log = console } = 
       title: i.title,
       url: i.url,
       excerpt: excerptOf(i.body || i.fullBody || "", 700),
+      // Para el redactor, el texto más completo que publica el medio (La Nación trae una bajada
+      // corta en description y unos 2.000 caracteres en content:encoded).
+      material: [i.body, i.fullBody].map((x) => excerptOf(x || "", MATERIAL_CHARS)).sort((a, b) => b.length - a.length)[0],
       image: i.image ?? null,
       publishedAt: i.publishedAt.toISOString(),
       fetchedAt: now.toISOString(),

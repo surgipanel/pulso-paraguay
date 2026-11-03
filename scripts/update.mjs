@@ -12,7 +12,7 @@ import { mergeEdition } from "../src/edition.mjs";
 import {
   appendRun, readEdition, readLatest, readRuns, rebuildEditionIndex, writeEdition, writeLatest, writeSources,
 } from "../src/store.mjs";
-import { asuncionDate, hoursBetween, slotFor } from "../src/text.mjs";
+import { asuncionDate, hoursBetween, nameTokens, slotFor, tokens } from "../src/text.mjs";
 import { writeSharePages, writeSitemap } from "../src/sharepages.mjs";
 
 const args = new Set(process.argv.slice(2));
@@ -50,6 +50,25 @@ async function mapLimit(items, limit, fn) {
     }
   }));
   return out;
+}
+
+// ¿Este grupo puede ser una actualización de algo ya publicado? Sirve para no pagar la redacción
+// de notas que no van a entrar cuando la edición del día ya está llena.
+function relatedToPublished(cluster, events) {
+  const overlap = (a, b) => {
+    const B = new Set(b);
+    const A = new Set(a);
+    let n = 0;
+    for (const x of A) if (B.has(x)) n++;
+    return A.size + B.size - n ? n / (A.size + B.size - n) : 0;
+  };
+  return cluster.articles.some((a) => events.some((e) => {
+    if (e.sources.some((s) => s.url === a.url)) return true;
+    const j = overlap(tokens(a.title), tokens(e.title));
+    if (j >= 0.3) return true;
+    const names = nameTokens(e.title);
+    return j >= 0.15 && [...nameTokens(a.title)].some((x) => x.length >= 5 && names.has(x));
+  }));
 }
 
 // Elige qué grupos se redactan: primero asegura un mínimo por sección (cultura o tecnología
@@ -144,7 +163,8 @@ async function main() {
     // Solo se redacta lo que puede entrar: lo ya publicado que crece + lugar disponible, con margen.
     const room = Math.max(0, MAX_EVENTS_PER_DAY - (existing?.events.length ?? 0));
     const limit = Math.min(MAX_CLUSTERS_TO_AI, room + 12);
-    const selected = selectClusters(withNews, limit, existing?.events ?? []);
+    const pool = room === 0 ? withNews.filter((c) => relatedToPublished(c, existing?.events ?? [])) : withNews;
+    const selected = selectClusters(pool, limit, existing?.events ?? []);
     run.candidates = selected.length;
     const bySection = {};
     for (const c of selected) bySection[clusterCategory(c)] = (bySection[clusterCategory(c)] ?? 0) + 1;

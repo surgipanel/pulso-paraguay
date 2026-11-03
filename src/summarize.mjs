@@ -101,7 +101,7 @@ Reglas editoriales (obligatorias):
 1. Un acontecimiento = un hecho concreto. Si un grupo mezcla hechos distintos (aunque sean del mismo tema), dividilo en varios acontecimientos y asigná cada nota al que corresponde. No fusiones hechos distintos. No dejes notas sin asignar salvo que no sean noticia (publicidad, horóscopo, etc.); en ese caso omitilas.
 2. Usá SOLO la información que aparece en los títulos y extractos recibidos. No inventes datos, cifras, nombres ni contexto. Si los extractos son escasos, el resumen es más corto y general, nunca inventado.
 3. Título propio: máximo 14 palabras, en español de Paraguay. Tiene que dar ganas de leer: empezá por el dato más fuerte, con verbo activo y sujeto concreto (quién hizo qué). Prohibido el sensacionalismo y el clickbait: nada de signos de exclamación, mayúsculas sostenidas, "impactante", "polémica", "escándalo", "no vas a creer", preguntas como título ni adjetivos que el hecho no justifique. No copies el título de ningún medio. El título nunca es más seguro que el texto: si las notas dicen "habría", "presuntamente", "según…" o algo no está confirmado, el título conserva esa duda ("habría quedado sin frenos", "según la Policía"). Nunca conviertas una hipótesis, una sospecha o una versión en un hecho.
-4. Resumen propio: entre ${SUMMARY_MIN_WORDS} y ${SUMMARY_MAX_WORDS} palabras, un solo párrafo. Voz de El Prócer: directa, clara y cercana, como un buen periodista que le cuenta el hecho a un lector inteligente que tiene poco tiempo. Primero qué pasó, después por qué importa. Frases cortas, palabras comunes, cero relleno. Sin opinión propia ni juicios de valor. No copies frases enteras de las notas.
+4. Texto propio (campo "summary"): es la nota que lee el público. Su largo depende del material: con varias notas o extractos largos, entre 90 y ${SUMMARY_MAX_WORDS} palabras en 2 o 3 párrafos separados por una línea en blanco. Primer párrafo: qué pasó y por qué importa. Los siguientes: detalles, cifras, versiones de cada parte, antecedentes y próximos pasos, solo si están en las notas. Con material escaso, más corto: un párrafo de ${SUMMARY_MIN_WORDS} palabras como mínimo. Nunca alargues con relleno, repeticiones ni contexto que no esté en las notas: es mejor una nota corta y cierta que una larga e inventada. Voz de El Prócer: directa, clara y cercana, como un buen periodista que le cuenta el hecho a un lector inteligente que tiene poco tiempo. Frases cortas, palabras comunes. Sin opinión propia ni juicios de valor. Redactá con tus palabras: no copies frases enteras de las notas.
 5. Puntos clave: entre 2 y 4, una oración corta cada uno, hechos verificables en los extractos.
 6. Atribuí siempre denuncias, acusaciones y versiones ("según la Fiscalía", "denunció el senador X", "de acuerdo con ABC Color"). Nunca presentes una acusación como hecho probado. Si es un reclamo o una acusación contra alguien y las notas traen la respuesta de la otra parte, incluila; si no la traen, dejá claro que es la posición de quien reclama, sin inventar la respuesta.
    Nombres y cargos: si los medios nombran a una misma persona, institución o cargo de formas distintas, elegí una sola forma, la más precisa y completa, y usala igual en título, resumen y puntos clave.
@@ -124,7 +124,7 @@ function clusterPayload(cluster) {
       id: a.id,
       medio: a.sourceName,
       titulo: a.title,
-      extracto: a.excerpt || "(el medio no provee extracto)",
+      extracto: a.material || a.excerpt || "(el medio no provee extracto)",
       fecha: a.publishedAt,
     })),
   };
@@ -151,8 +151,8 @@ function validateEvents(parsed, clusters) {
       continue;
     }
     const wc = wordCount(ev.summary);
-    if (wc < SUMMARY_MIN_WORDS - 5 || wc > SUMMARY_MAX_WORDS + 8) {
-      problems.push(`resumen de "${ev.title}" tiene ${wc} palabras (pedido: ${SUMMARY_MIN_WORDS}-${SUMMARY_MAX_WORDS})`);
+    if (wc < SUMMARY_MIN_WORDS - 5 || wc > SUMMARY_MAX_WORDS + 15) {
+      problems.push(`el texto de "${ev.title}" tiene ${wc} palabras (pedido: entre ${SUMMARY_MIN_WORDS} y ${SUMMARY_MAX_WORDS}, según el material)`);
     }
     const keyPoints = ev.key_points.map((k) => k.trim()).filter(Boolean).slice(0, 4);
     if (keyPoints.length < 1) {

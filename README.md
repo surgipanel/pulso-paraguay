@@ -10,7 +10,7 @@ GitHub Actions (cron 05:07, 09:37, 13:07, 16:37 y 20:07 America/Asuncion)
         ├─ lee RSS / Atom / sitemap de noticias de cada medio
         ├─ descarta notas sin fecha o fuera de las últimas 24 h
         ├─ agrupa notas que cubren el mismo hecho
-        ├─ redacta título + resumen (40–70 palabras) + puntos clave  ← Claude (API de Anthropic)
+        ├─ redacta título + nota propia (40–170 palabras, según el material) + puntos clave  ← Claude (API de Anthropic)
         ├─ fusiona con la edición del día (máx. 50 acontecimientos, mínimo por sección, sin duplicar)
         └─ escribe docs/data/*.json  →  commit al repositorio
 GitHub Pages sirve docs/  (web estática: portada, categorías, buscador, detalle, guardadas, medios, archivo, criterios)
@@ -91,7 +91,7 @@ Resultado: `https://elprocer.com.py` y `https://www.elprocer.com.py` sirven la w
 | GitHub Actions | Repos públicos: minutos ilimitados. Privados: 2.000 min/mes gratis. | Nada en público. Un repo privado con corridas muy largas podría exceder los 2.000 min (acá ~180 min/mes). |
 | GitHub Pages | Gratis en repos públicos. Límites blandos: 100 GB/mes de tráfico, 10 builds/hora, sitio ≤ 1 GB. | Nada para un diario personal; con tráfico masivo GitHub pide reducirlo. |
 | Anthropic (Claude) | Sin plan gratuito; se paga por token. Opus 5.5: USD 4 / 20 por millón de tokens de entrada / salida. Haiku 4.5: USD 1 / 5. | Estimación con 6 llamadas por corrida (~30 k tokens entrada, ~12 k salida): **Opus 5.5 ≈ USD 0,36 por corrida ≈ USD 22/mes**; **Haiku 4.5 ≈ USD 0,09 por corrida ≈ USD 5,5/mes**. El modelo se cambia con la variable `PULSO_MODEL`; el log de cada corrida imprime los tokens usados. |
-| Medios | Solo feeds públicos (o la portada, en el caso de HOY), con identificación del agente y respetando `Crawl-delay` (Última Hora, NPY y Telefuturo: 10 s entre notas). No se copian artículos completos: se usan extractos ≤ 700 caracteres como insumo y se enlaza siempre a la fuente. | Nada. |
+| Medios | Solo feeds públicos (o la portada, en el caso de HOY), con identificación del agente y respetando `Crawl-delay` (Última Hora, NPY y Telefuturo: 10 s entre notas). No se copian artículos completos: se usan extractos de hasta 1.500 caracteres de lo que el propio medio publica en su feed, solo como insumo (no se publican) y se enlaza siempre a la fuente. | Nada. |
 
 Advertencias de GitHub a tener en cuenta:
 - En repos públicos, **los cron se desactivan solos si el repositorio no tiene actividad en 60 días**. Los commits del bot suelen contar como actividad, pero conviene entrar a la pestaña Actions cada tanto; si aparece "This scheduled workflow is disabled", se reactiva con un clic.

@@ -19,7 +19,11 @@ export const CLUSTERS_PER_AI_CALL = 6;
 
 // Resumen: límites en palabras.
 export const SUMMARY_MIN_WORDS = 40;
-export const SUMMARY_MAX_WORDS = 70;
+export const SUMMARY_MAX_WORDS = 170;
+
+// Material que recibe el redactor por nota (solo como insumo; no se publica). Los feeds traen
+// mucho más que la bajada: con 700 caracteres no alcanzaba para escribir notas largas sin inventar.
+export const MATERIAL_CHARS = 1500;
 
 export const CATEGORIES = [
   { id: "pais", label: "País" },

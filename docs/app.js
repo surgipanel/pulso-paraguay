@@ -47,6 +47,7 @@
     return `hace ${Math.round(h / 24)} días`;
   };
   const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
+  const paragraphs = (s) => String(s ?? "").split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
   const setTitle = (t) => { document.title = t ? `${t} | ${SITE}` : `${SITE} | Libres para informar`; };
 
   function loadSaved() {
@@ -165,7 +166,7 @@
         <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
         ${kickerHtml(ev, dated ? `${dayLabel(editionDate)} · ${fmtTime(latestAt(ev))}` : undefined)}
         <h3 class="card__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h3>
-        <p class="card__summary">${esc(ev.summary)}</p>
+        <p class="card__summary">${esc(paragraphs(ev.summary)[0] ?? "")}</p>
         <div class="card__foot">
           ${saveBtn(ev, editionDate)}
         </div>
@@ -178,7 +179,7 @@
         <a href="${link(ev, editionDate)}" tabindex="-1" aria-hidden="true">${mediaHtml(ev)}</a>
         ${kickerHtml(ev)}
         <h2 class="lead__title"><a href="${link(ev, editionDate)}">${esc(ev.title)}</a></h2>
-        <p class="lead__deck">${esc(ev.summary)}</p>
+        <p class="lead__deck">${esc(paragraphs(ev.summary)[0] ?? "")}</p>
         <div class="lead__actions">
           <a class="readmore" href="${link(ev, editionDate)}">Leer el acontecimiento →</a>
           ${saveBtn(ev, editionDate)}
@@ -345,7 +346,7 @@
           ${saveBtn(ev, date)}
         </div>
         ${ev.image?.url ? `<figure>${mediaHtml(ev, { credit: true })}<figcaption>Foto: <a href="${esc(ev.image.articleUrl)}" target="_blank" rel="noopener">${esc(ev.image.credit)}</a>. Imagen referencial tomada de la nota original.</figcaption></figure>` : ""}
-        <p class="article__lead">${esc(ev.summary)}</p>
+        ${paragraphs(ev.summary).map((p, i) => `<p class="${i ? "article__para" : "article__lead"}">${esc(p)}</p>`).join("")}
         <h2>Puntos clave</h2>
         <ul class="keypoints">${ev.keyPoints.map((k) => `<li>${esc(k)}</li>`).join("")}</ul>
         <h2 class="sources-head">Fuentes: ${esc(plural(srcs.length, "nota", "notas"))} de ${esc(plural(distinctSources(ev).length, "medio", "medios"))}</h2>
