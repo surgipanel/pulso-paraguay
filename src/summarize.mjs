@@ -175,7 +175,7 @@ function validateEvents(parsed, clusters) {
   return { events, problems };
 }
 
-async function summarizeBatch(client, clusters, log) {
+async function summarizeOnce(client, clusters, log) {
   const payload = JSON.stringify({ grupos: clusters.map(clusterPayload) }, null, 1);
   const messages = [{ role: "user", content: `Grupos candidatos:\n${payload}` }];
   let best = null;
@@ -190,7 +190,7 @@ async function summarizeBatch(client, clusters, log) {
     if (response.stop_reason === "refusal") {
       throw new Error(`el modelo rechazó el lote (${response.stop_details?.category ?? "sin categoría"})`);
     }
-    if (!response.parsed_output) throw new Error("respuesta sin JSON válido");
+    if (!response.parsed_output) throw new Error("respuesta sin JSON válido: Failed to parse structured output");
     const { events, problems } = validateEvents(response.parsed_output, clusters);
     const usage = response.usage;
     log.info?.(`  IA lote: ${events.length} eventos, ${problems.length} observaciones, tokens in=${usage.input_tokens} out=${usage.output_tokens} cache=${usage.cache_read_input_tokens ?? 0}`);
@@ -203,6 +203,34 @@ async function summarizeBatch(client, clusters, log) {
     );
   }
   return best;
+}
+
+const RETRYABLE = /Failed to parse structured output|respuesta sin JSON válido/i;
+
+// Si Haiku devuelve un JSON cortado o mal escapado, el lote se parte en dos mitades y se reintenta.
+// Un grupo que falla solo queda sin IA; el llamador lo resuelve en modo extractivo.
+export async function summarizeBatch(client, clusters, log = console) {
+  try {
+    return await summarizeOnce(client, clusters, log);
+  } catch (err) {
+    if (!RETRYABLE.test(err.message)) throw err;
+    if (clusters.length === 1) {
+      log.warn?.("  IA: un grupo no devolvió JSON válido; queda en modo extractivo");
+      return { events: [], problems: [err.message], usage: { input_tokens: 0, output_tokens: 0 } };
+    }
+    log.warn?.(`  IA: JSON no válido en un lote de ${clusters.length}; se reintenta en dos mitades`);
+    const mid = Math.ceil(clusters.length / 2);
+    const a = await summarizeBatch(client, clusters.slice(0, mid), log);
+    const b = await summarizeBatch(client, clusters.slice(mid), log);
+    return {
+      events: [...a.events, ...b.events],
+      problems: [...a.problems, ...b.problems],
+      usage: {
+        input_tokens: (a.usage.input_tokens ?? 0) + (b.usage.input_tokens ?? 0),
+        output_tokens: (a.usage.output_tokens ?? 0) + (b.usage.output_tokens ?? 0),
+      },
+    };
+  }
 }
 
 export async function summarizeClusters(clusters, { mode, log = console } = {}) {
