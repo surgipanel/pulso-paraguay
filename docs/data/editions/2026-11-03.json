@@ -1,26 +1,43 @@
 {
   "date": "2026-11-03",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-03T19:37:29.240Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-03T23:07:13.306Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1c3gj24",
-      "title": "El Partido Colorado retoma Encarnación con la asunción de Remesowski",
-      "summary": "El Partido Colorado volvió al poder en Encarnación, la tercera ciudad más importante del país. Sebastián Emilio Remesowski Squef asumió como intendente para el periodo 2026-2031, en un acto en el que participó Horacio Cartes. Es la única de las principales ciudades que la ANR ganó en las elecciones municipales.\n\nAl acto asistieron el presidente de la Cámara de Diputados, Raúl Latorre, y senadores y diputados nacionales. Según ABC Color, el presidente Santiago Peña y el vicepresidente Pedro Alliana se ausentaron, en medio de la crisis por la resolución de ueno bank.\n\nRemesowski pidió unidad y dijo que espera que el corte administrativo le permita mostrar la “mochila económica” con la que asume. Advirtió que se vienen meses complicados con salarios y aguinaldo, y prometió informar la situación económica real en 15 a 20 días.",
+      "title": "IPS garantiza pago de jubilaciones y aguinaldo, pero tiene USD 355 millones comprometidos en ueno bank",
+      "summary": "La previsional aseguró que los pagos a jubilados y pensionados se realizarán conforme al calendario habitual, pese a la intervención de la entidad financiera. Además, anunció la conformación de un equipo jurídico para recuperar sus inversiones, que representan el 9% de su cartera.",
       "keyPoints": [
-        "Remesowski asumió como intendente de Encarnación para 2026-2031.",
-        "Encarnación es la única de las principales ciudades que ganó la ANR.",
-        "Remesowski prometió informar la situación económica real en 15 a 20 días."
+        "La previsional aseguró que los pagos a jubilados y pensionados se realizarán conforme al calendario habitual, pese a la intervención de la entidad financiera.",
+        "El IPS garantizó el pago en tiempo y forma de jubilaciones, pensiones y aguinaldos, pese a la intervención de banco Ueno.",
+        "“Queremos dar tranquilidad a nuestros jubilados y pensionados que los haberes jubilatorios van a ser desembolsados o pagados en tiempo y forma”, afirmó la gerente financiera del Instituto de Previsión Social (IPS), Gladys Vera, en el…",
+        "La Asociación de Bancos del Paraguay (ASOBAN) manifestó su postura oficial ante los proyectos de ley debatidos en el Congreso sobre el uso del Fondo de Garantía de Depósitos (FGD)."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Asoban respalda devolución de depósitos a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/asoban-respalda-devolucion-de-depositos-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-03T20:41:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lr3FSA7wA_ud6rcJ8GFE2GGdLSo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3UFXAXWVTBGTPMHLYBKDQDBU5Y.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Asoban aprueba pago a ahorristas, pero pide frenar uso del FGD para jubilaciones",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/asoban-aprueba-pago-a-ahorristas-pero-pide-frenar-uso-del-fgd-para-jubilaciones",
+          "publishedAt": "2026-11-03T19:51:09.565Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RHFZQNFVSZH6LOAX5YCARDR6YA.jpeg?auth=301146d93a9bbdbfaf657013b80ca058b6924b263da0962f78d6840af2b49ae6&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -30,12 +47,44 @@
           "image": "https://www.abc.com.py/resizer/zVdAYSRfhNGpzwmdP8GdKHI8a7o=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3YJTRAS3O5ATZG2WWX4XPXKHFM.jpg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "IPS garantiza pago de jubilaciones y aguinaldo, pero tiene USD 355 millones comprometidos en ueno bank",
+          "url": "https://elnacional.com.py/nacionales/ips-garantiza-pago-jubilaciones-aguinaldo-pero-tiene-usd-355-millones-comprometidos-ueno-bank-n114627",
+          "publishedAt": "2026-11-03T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab227ca4e44f.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 3 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/03/ln-pm-edicion-del-3-de-noviembre",
+          "publishedAt": "2026-11-03T15:42:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/IPHDPhGb-PnefNgNAaKytlWJH74=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y62OZEKNPBC7PI7LY6B2I5W6NU.jpg"
+        },
+        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
           "title": "Asumió Remesowski y la ANR vuelve al poder en Encarnación",
           "url": "https://www.adndigital.com.py/asumio-remesowski-y-la-anr-vuelve-al-poder-en-encarnacion",
           "publishedAt": "2026-11-03T15:33:29.000Z",
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-143952.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "ueno bank: Asoban transmite tranquilidad y ofrece apoyo para atender a los ahorristas",
+          "url": "https://elnacional.com.py/economia/ueno-bank-asoban-transmite-tranquilidad-ofrece-apoyo-atender-ahorristas-n114629",
+          "publishedAt": "2026-11-03T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae9f4e92c01c.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El sistema financiero está sólido, solvente y con liquidez, asegura la Asociación de Bancos",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/el-sistema-financiero-esta-solido-solvente-y-con-liquidez-asegura-la-asociacion-de-bancos",
+          "publishedAt": "2026-11-03T14:38:39.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MG0HqQBciZAC8fLnW7SNsXcRH8E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LZM32CZJEFEPTCCDLOSC6BSLB4.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -52,6 +101,30 @@
           "url": "https://www.hoy.com.py/nacionales/2026/11/03/con-presencia-de-hc-asume-remezowski-como-nuevo-intendente-de-encarnacion",
           "publishedAt": "2026-11-03T14:19:52.430Z",
           "image": "https://www.lanacion.com.py/resizer/v2/PU5V7NXAC5EGBHDH7LHYSDXFHQ.jpg?auth=39ac0d528b7365b564ef40b874ab1da4db1a28a3cb7d7c912e48617cefd5ed94&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "IPS garantiza el pago de jubilaciones y aguinaldo tras intervención de Banco Ueno",
+          "url": "https://www.npy.com.py/noticias/nacionales/ips-garantiza-el-pago-de-jubilaciones-y-aguinaldo-tras-intervencion-de-banco-ueno",
+          "publishedAt": "2026-11-03T14:02:39.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cartes pide a autoridades electas de la ANR gestión honesta y cercanía social",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/cartes-pide-a-autoridades-electas-de-la-anr-gestion-honesta-y-cercania-social",
+          "publishedAt": "2026-11-03T13:16:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3-zC-iajpk-lEkZ7wqdIOr9jJTI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UFLAIMVMEVCJ5P5UYO2SD5JHLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "IPS garantiza pago de jubilaciones “en tiempo y forma” según el cronograma habitual",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/ips-garantiza-pago-de-jubilaciones-en-tiempo-y-forma-segun-el-cronograma-habitual",
+          "publishedAt": "2026-11-03T12:45:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8aT7orrVXcRQQfhCTKxYk7j4bG4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CONV7Z66L5CADPF2DALUSP67JY.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -183,15 +256,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3YJTRAS3O5ATZG2WWX4XPXKHFM.jpg?auth=b49745efde4e22fcb890f3196cbc0df289657a215790bc4848bb8720ff0c93ea&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/03/encarnacion-luego-de-11-anos-el-partido-colorado-retoma-el-poder-con-la-asuncion-de-sebastian-remesowski"
+        "url": "https://statics.elnacional.com.py/2026/09/6ab227ca4e44f.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/ips-garantiza-pago-jubilaciones-aguinaldo-pero-tiene-usd-355-millones-comprometidos-ueno-bank-n114627"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T19:37:29.240Z",
+      "updatedAt": "2026-11-03T23:07:13.306Z",
       "updatedSlot": "tarde",
-      "score": 26.98
+      "score": 26.8
     },
     {
       "id": "ev-0s0vuve",
@@ -322,16 +395,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T19:37:29.240Z",
       "updatedSlot": "tarde",
-      "score": 26.67
+      "score": 26.38
     },
     {
       "id": "ev-06oo94c",
-      "title": "Zenaida Delgado presenta su renuncia al Senado en medio de denuncias",
-      "summary": "La senadora Zenaida Delgado presentó su renuncia al Senado en medio de denuncias por presuntos cobros indebidos a funcionarios de su despacho. Ella alegó una decisión personal, según informaron los medios. La renuncia fue confirmada por el senador Natalicio Chase.\n\nLas denuncias, según exfuncionarios del Congreso, apuntan a un supuesto esquema de cobros para acceder a nombramientos. Su caso figuraba en la agenda de la Comisión de Asuntos Constitucionales, que levantó la sesión tras confirmarse la renuncia.\n\nLa renuncia debe ser aprobada por el pleno del Senado. Delgado enfrentaba un pedido de pérdida de investidura.",
+      "title": "Senado acepta la renuncia de Zenaida Delgado y jura a Faisal Huespe",
+      "summary": "El Senado aceptó la renuncia de Zenaida Delgado, quien dejó su banca en medio de denuncias por presuntos cobros irregulares a funcionarios de su despacho. En su lugar juró el médico cirujano Faisal Ale Huespe Cibils, del Partido Cruzada Nacional.\n\nSegún exfuncionarios del Congreso, el esquema buscaba exigir bonificaciones y pagos de hasta G. 100 millones para acceder a un nombramiento. La renuncia se concretó antes de la aprobación de una pérdida de investidura en su contra.\n\nEn la misma sesión, el Senado se dispuso a estudiar dos proyectos de ley sobre los ahorristas de Ueno Bank.",
       "keyPoints": [
-        "Delgado presentó su renuncia alegando una decisión personal.",
-        "Las denuncias son por presuntos cobros indebidos a funcionarios.",
-        "La renuncia debe ser aprobada por el pleno del Senado."
+        "El Senado aceptó la renuncia de Zenaida Delgado.",
+        "Faisal Huespe juró como senador del Partido Cruzada Nacional.",
+        "Exfuncionarios denunciaron presuntos cobros irregulares."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -340,12 +413,36 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado acepta renuncia de Zenaida Delgado y toma juramento a su reemplazante",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/senado-acepta-renuncia-de-zenaida-delgado-y-toma-juramento-a-su-reemplazante",
+          "publishedAt": "2026-11-03T19:33:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/KL5P3MGLDZHD5HQXZNWKP5ZZKI.jfif?auth=86289211aa6c18edcb3a7417569ffadafc381758f8feb92566daf7e6d59e95e7&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado toma juramento a Huespe y se apresta a estudiar dos proyectos de ley",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/senado-toma-juramento-a-huespe-y-se-apresta-a-estudiar-dos-proyectos-de-ley",
+          "publishedAt": "2026-11-03T19:21:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Oq8hThBGy9O6OgNBCsL6j20wXy8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JO2B2EKVRBDS7LMAABRPIOLKYU.png"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "En medio del caos, jura suplente de Zenaida y Cruzada recupera otra banca",
           "url": "https://www.abc.com.py/politica/2026/11/03/en-medio-del-caos-jura-suplente-de-zenaida-y-cruzada-recupera-otra-banca",
           "publishedAt": "2026-11-03T18:33:15.000Z",
           "image": "https://www.abc.com.py/resizer/uxAycXTu2wJjZa9MurVH5LbVuZQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HYDZHHHDVVEDZMHKOTFL3SHT7I.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado acepta renuncia de Zenaida Delgado y toma juramento a Faisal Huespe",
+          "url": "https://elnacional.com.py/politica/senado-acepta-renuncia-zenaida-delgado-toma-juramento-faisal-huespe-n114654",
+          "publishedAt": "2026-11-03T18:11:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aea23e7c4a85.jpg"
         },
         {
           "sourceId": "elnacional",
@@ -453,15 +550,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OQVWD36FXVA57IEZRRKQGPFMVE.jpg?auth=bb538cdcfe4b3ff820f8e2f52c32439b3b6639e0b8b5c405391ce584a7dc3648&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/zenaida-delgado-presento-renuncia-al-senado-tras-escandalo-destapado"
+        "url": "https://www.lanacion.com.py/resizer/v2/KL5P3MGLDZHD5HQXZNWKP5ZZKI.jfif?auth=86289211aa6c18edcb3a7417569ffadafc381758f8feb92566daf7e6d59e95e7&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/03/senado-acepta-renuncia-de-zenaida-delgado-y-toma-juramento-a-su-reemplazante"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T19:37:29.240Z",
+      "updatedAt": "2026-11-03T23:07:13.306Z",
       "updatedSlot": "tarde",
-      "score": 23.91
+      "score": 23.7
     },
     {
       "id": "ev-07moaci",
@@ -560,7 +657,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T16:05:04.288Z",
       "updatedSlot": "tarde",
-      "score": 23.04
+      "score": 22.75
     },
     {
       "id": "ev-0ezi6b8",
@@ -628,7 +725,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 20.18
+      "score": 19.89
     },
     {
       "id": "ev-03kwz6y",
@@ -704,7 +801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 17.32
+      "score": 17.03
     },
     {
       "id": "ev-0orkq8z",
@@ -772,7 +869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 16.62
+      "score": 16.33
     },
     {
       "id": "ev-0qnqis3",
@@ -848,7 +945,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 16.51
+      "score": 16.22
     },
     {
       "id": "ev-07u3eyl",
@@ -907,7 +1004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 14.18
+      "score": 13.89
     },
     {
       "id": "ev-0psm3cn",
@@ -959,7 +1056,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.03
+      "score": 12
     },
     {
       "id": "ev-1r2tsld",
@@ -1061,7 +1158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-0mjig34",
@@ -1112,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-1sf97wz",
@@ -1163,7 +1260,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-0tvqft5",
@@ -1214,7 +1311,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-0v6zpdk",
@@ -1266,7 +1363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.52
+      "score": 9.23
     },
     {
       "id": "ev-1r4whx8",
@@ -1318,7 +1415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.07
     },
     {
       "id": "ev-10sahcz",
@@ -1370,7 +1467,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.04
+      "score": 9
     },
     {
       "id": "ev-134wxxv",
@@ -1412,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-1xbm10h",
@@ -1455,7 +1552,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.25
     },
     {
       "id": "ev-07lbsvr",
@@ -1498,7 +1595,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.45
+      "score": 8.16
     },
     {
       "id": "ev-1dyzoj7",
@@ -1541,7 +1638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.13
     },
     {
       "id": "ev-02n3l3n",
@@ -1584,7 +1681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.12
     },
     {
       "id": "ev-0oyjz1l",
@@ -1627,7 +1724,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.04
     },
     {
       "id": "ev-1sr6lpz",
@@ -1670,7 +1767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.32
+      "score": 8.03
     },
     {
       "id": "ev-1hl37ru",
@@ -1713,7 +1810,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 8
     },
     {
       "id": "ev-0gnrhii",
@@ -1756,7 +1853,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-1amttat",
@@ -1799,7 +1896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.09
+      "score": 8
     },
     {
       "id": "ev-1ae8o8i",
@@ -1842,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.04
+      "score": 8
     },
     {
       "id": "ev-15if0qa",
@@ -1885,7 +1982,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-1yz97fo",
@@ -1976,7 +2073,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 7.63
+      "score": 7.34
     },
     {
       "id": "ev-03zauy9",
@@ -2019,7 +2116,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-0s6lr74",
@@ -2062,7 +2159,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0n1j551",
@@ -2106,7 +2203,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0iqpukx",
@@ -2149,7 +2246,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-14hjv33",
@@ -2193,7 +2290,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0x5290t",
@@ -2237,7 +2334,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-01ro5uf",
@@ -2280,7 +2377,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 5
     },
     {
       "id": "ev-1lfzxut",
@@ -2314,7 +2411,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1pos4v9",
@@ -2349,7 +2446,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1e82c9r",
@@ -2384,7 +2481,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.38
+      "score": 4.09
     },
     {
       "id": "ev-04n2wnx",
@@ -2420,7 +2517,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.03
+      "score": 4
     },
     {
       "id": "ev-1fd5upk",
@@ -2601,7 +2698,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.05
+      "score": 2.76
     },
     {
       "id": "ev-0huby3k",
@@ -2640,7 +2737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 2.81
+      "score": 2.52
     },
     {
       "id": "ev-05kqik1",
@@ -2671,7 +2768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 2.17
+      "score": 1.88
     }
   ],
   "runs": [
@@ -2709,6 +2806,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-03T23:07:13.306Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 14
     }
   ]
 }
