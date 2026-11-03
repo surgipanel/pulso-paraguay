@@ -175,10 +175,17 @@ function validateEvents(parsed, clusters) {
   return { events, problems };
 }
 
+const emptyUsage = () => ({ input_tokens: 0, output_tokens: 0, cache_read_input_tokens: 0, cache_creation_input_tokens: 0 });
+function addUsage(total, u) {
+  for (const k of Object.keys(total)) total[k] += u?.[k] ?? 0;
+  return total;
+}
+
 async function summarizeOnce(client, clusters, log) {
   const payload = JSON.stringify({ grupos: clusters.map(clusterPayload) }, null, 1);
   const messages = [{ role: "user", content: `Grupos candidatos:\n${payload}` }];
   let best = null;
+  const total = emptyUsage();
   for (let attempt = 0; attempt < 2; attempt++) {
     const response = await client.messages.parse({
       model: AI_MODEL,
@@ -193,8 +200,9 @@ async function summarizeOnce(client, clusters, log) {
     if (!response.parsed_output) throw new Error("respuesta sin JSON válido: Failed to parse structured output");
     const { events, problems } = validateEvents(response.parsed_output, clusters);
     const usage = response.usage;
-    log.info?.(`  IA lote: ${events.length} eventos, ${problems.length} observaciones, tokens in=${usage.input_tokens} out=${usage.output_tokens} cache=${usage.cache_read_input_tokens ?? 0}`);
-    best = { events, problems, usage };
+    addUsage(total, usage);
+    log.info?.(`  IA lote: ${events.length} eventos, ${problems.length} observaciones, tokens in=${usage.input_tokens} out=${usage.output_tokens} cache leída=${usage.cache_read_input_tokens ?? 0} cache escrita=${usage.cache_creation_input_tokens ?? 0}`);
+    best = { events, problems, usage: total };
     if (problems.length === 0 || attempt === 1) break;
     // Un único reintento con las observaciones concretas.
     messages.push(
@@ -216,7 +224,7 @@ export async function summarizeBatch(client, clusters, log = console) {
     if (!RETRYABLE.test(err.message)) throw err;
     if (clusters.length === 1) {
       log.warn?.("  IA: un grupo no devolvió JSON válido; queda en modo extractivo");
-      return { events: [], problems: [err.message], usage: { input_tokens: 0, output_tokens: 0 } };
+      return { events: [], problems: [err.message], usage: emptyUsage() };
     }
     log.warn?.(`  IA: JSON no válido en un lote de ${clusters.length}; se reintenta en dos mitades`);
     const mid = Math.ceil(clusters.length / 2);
@@ -225,16 +233,13 @@ export async function summarizeBatch(client, clusters, log = console) {
     return {
       events: [...a.events, ...b.events],
       problems: [...a.problems, ...b.problems],
-      usage: {
-        input_tokens: (a.usage.input_tokens ?? 0) + (b.usage.input_tokens ?? 0),
-        output_tokens: (a.usage.output_tokens ?? 0) + (b.usage.output_tokens ?? 0),
-      },
+      usage: addUsage(addUsage(emptyUsage(), a.usage), b.usage),
     };
   }
 }
 
 export async function summarizeClusters(clusters, { mode, log = console } = {}) {
-  const stats = { mode, aiCalls: 0, aiErrors: [], inputTokens: 0, outputTokens: 0, fallbacks: 0 };
+  const stats = { mode, aiCalls: 0, aiErrors: [], inputTokens: 0, outputTokens: 0, cacheReadTokens: 0, cacheWriteTokens: 0, fallbacks: 0 };
   if (mode !== "ia") {
     return { events: clusters.map(extractiveEvent), stats };
   }
@@ -247,6 +252,8 @@ export async function summarizeClusters(clusters, { mode, log = console } = {}) 
       stats.aiCalls += 1;
       stats.inputTokens += result.usage.input_tokens ?? 0;
       stats.outputTokens += result.usage.output_tokens ?? 0;
+      stats.cacheReadTokens += result.usage.cache_read_input_tokens ?? 0;
+      stats.cacheWriteTokens += result.usage.cache_creation_input_tokens ?? 0;
       events.push(...result.events);
       // Grupos que la IA no cubrió → extractivo, para no perder el hecho.
       const covered = new Set(result.events.map((e) => e.clusterId));
