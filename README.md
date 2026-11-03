@@ -176,6 +176,17 @@ Las fotos genéricas de sección (ABC pone «Internacionales», «Ciencia» o f�
 
 `docs/og-image.png` (1200×630) es la vista previa al compartir en WhatsApp y redes; `apple-touch-icon.png`, `icon-192.png`, `icon-512.png` y `site.webmanifest` dan el ícono EP al agregar el sitio a la pantalla de inicio. Cada noticia tiene además su propia página, `docs/n/<id>/index.html` (`src/sharepages.mjs`): una copia de `index.html` con el título, el resumen y la foto de la noticia en las etiquetas de vista previa, porque WhatsApp, Facebook y X no leen lo que va después del `#`. Al abrirla, la web muestra esa noticia. El bot las genera en cada corrida junto con `docs/sitemap.xml` (y `docs/robots.txt` apunta al sitemap). En el detalle, un botón flotante rojo abre las opciones de compartir (Facebook, X, WhatsApp, correo y copiar enlace) usando esa dirección.
 
+## Panel de editor (publicación manual)
+
+Panel en https://elprocer-editor.vercel.app para publicar una noticia en el momento, sin esperar a las corridas. No aparece en ningún menú del diario y no lo indexan los buscadores.
+
+Flujo: buscar un tema (búsqueda web de Claude) o pegar un enlace, elegir las notas, revisar el borrador que redacta el mismo redactor del diario, corregirlo y publicar. Tarda unos dos minutos en aparecer. Encabeza la portada durante 6 horas y se puede retirar desde el panel.
+
+- **Acceso:** inicio de sesión con Google. Solo entran las cuentas de `EDITOR_EMAILS`; sin esa variable no entra nadie. Sumar a alguien es agregar su correo ahí, separado por coma.
+- **Código:** `api/` (rutas), `src/editor/` (acceso, lectura de notas, búsqueda, borrador), `editor/` (pantalla). Se publica con `vercel deploy --prod` desde la raíz; no está conectado a Git para que los commits del bot no generen despliegues.
+- **Publicación:** el panel dispara el workflow `manual.yml`, que corre `scripts/publish-manual.mjs`. Escribe solo `docs/data/manual/` y `docs/n/<id>/`, que el bot no modifica, así que no hay choques; por eso tiene su propia cola y no espera a una corrida en curso. El bot lee esos archivos para no repetir lo publicado a mano. Las noticias manuales no se publican en X.
+- **Variables en Vercel (proyecto elprocer-editor):** `GOOGLE_CLIENT_ID`, `EDITOR_EMAILS`, `ANTHROPIC_API_KEY` y `GITHUB_TOKEN` (token de GitHub de grano fino, solo este repositorio, Actions lectura y escritura). La sesión se firma con una clave derivada de `GITHUB_TOKEN`.
+
 ## Reglas editoriales que aplica el sistema
 
 - No inventa: el modelo solo recibe título, extracto y fecha de cada nota y tiene prohibido agregar datos. El JSON de respuesta se valida (ids de notas, categoría, largo del resumen) y se reintenta una vez con las observaciones concretas.

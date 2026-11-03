@@ -1,0 +1,59 @@
+name: Publicación manual
+
+# La dispara el panel de editor. No comparte cola con "Actualizar edición": esa corrida puede durar
+# más de 12 minutos por las pausas de X, y lo manual tiene que salir ya. No hay choque posible:
+# este flujo solo escribe docs/data/manual/ y docs/n/<id>/, que el bot no modifica.
+on:
+  workflow_dispatch:
+    inputs:
+      payload:
+        description: "Pedido del panel de editor (JSON)"
+        required: true
+        type: string
+
+concurrency:
+  group: pulso-manual
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      MANUAL_PAYLOAD: ${{ inputs.payload }}
+      TZ: America/Asuncion
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Publicar
+        run: |
+          git config user.name "procer-editor"
+          git config user.email "procer-editor@users.noreply.github.com"
+          # Se aplica siempre sobre lo último de main: si otro commit llegó entre medio, se rehace.
+          for i in 1 2 3 4; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            node scripts/publish-manual.mjs
+            git add docs/data/manual docs/n
+            if git diff --cached --quiet; then
+              echo "Sin cambios que publicar."
+              exit 0
+            fi
+            git commit -q -m "Editor: publicación manual $(TZ=America/Asuncion date '+%Y-%m-%d %H:%M')"
+            if git push -q origin HEAD:main; then exit 0; fi
+            sleep 5
+          done
+          exit 1

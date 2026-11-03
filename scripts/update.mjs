@@ -8,9 +8,9 @@ import { clusterCategory } from "../src/heuristics.mjs";
 import { detectGenericImages, imageKey, readGenericImages, writeGenericImages } from "../src/images.mjs";
 import { clusterArticles, scoreCluster } from "../src/cluster.mjs";
 import { resolveAiMode, summarizeClusters } from "../src/summarize.mjs";
-import { mergeEdition } from "../src/edition.mjs";
+import { mergeEdition, sameEvent } from "../src/edition.mjs";
 import {
-  appendRun, readEdition, readLatest, readRuns, rebuildEditionIndex, writeEdition, writeLatest, writeSources,
+  appendRun, readEdition, readEditionWithManual, readLatest, readManual, readRuns, rebuildEditionIndex, writeEdition, writeLatest, writeSources,
 } from "../src/store.mjs";
 import { asuncionDate, hoursBetween, nameTokens, slotFor, tokens } from "../src/text.mjs";
 import { writeSharePages, writeSitemap } from "../src/sharepages.mjs";
@@ -185,11 +185,15 @@ async function main() {
       }))
       .filter((d) => d.sources.length > 0);
     await mapLimit(candidates, 8, async (d) => { d.image = await pickImage(d, generic); });
+    // Lo que el editor ya publicó a mano no se repite en la edición automática.
+    const manual = (await readManual(date)).events;
+    const automatic = candidates.filter((c) => !manual.some((m) => sameEvent(m, c)));
+    if (automatic.length < candidates.length) log.info(`   ${candidates.length - automatic.length} acontecimientos omitidos: ya publicados a mano`);
     log.info(`   ${candidates.length} acontecimientos redactados${stats.aiErrors.length ? ` · ${stats.aiErrors.length} lotes cayeron a modo extractivo` : ""}`);
 
     // 5) Edición
     const effectiveMode = stats.fallbacks > 0 && aiMode === "ia" ? (stats.fallbacks === selected.length ? "extractivo" : "mixto") : aiMode;
-    const result = mergeEdition({ existing, candidates, date, slot, now, aiMode: effectiveMode, model: AI_MODEL });
+    const result = mergeEdition({ existing, candidates: automatic, date, slot, now, aiMode: effectiveMode, model: AI_MODEL });
     run.added = result.added;
     run.updated = result.updated;
     run.eventsTotal = result.edition.events.length;
@@ -210,7 +214,7 @@ async function main() {
     const index = await rebuildEditionIndex();
     // Página propia por noticia (vista previa al compartir) y sitemap para buscadores.
     const pages = await writeSharePages([result.edition]);
-    await writeSitemap(index, readEdition);
+    await writeSitemap(index, readEditionWithManual);
     log.info(`   ${pages} páginas para compartir actualizadas`);
     await writeLatest({
       editionDate: date,

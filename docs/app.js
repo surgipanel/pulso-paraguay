@@ -76,9 +76,25 @@
     if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
     return res.json();
   }
+  const MANUAL_TOP_HOURS = 6;
+  function withManual(edition, manualEvents) {
+    if (!manualEvents.length) return edition;
+    const ids = new Set(manualEvents.map((e) => e.id));
+    const urls = new Set(manualEvents.flatMap((e) => e.sources.map((s) => s.url)));
+    const auto = edition.events.filter((e) => !ids.has(e.id) && !e.sources.some((s) => urls.has(s.url)));
+    const isFresh = (e) => (Date.now() - new Date(e.firstSeenAt).getTime()) / 36e5 < MANUAL_TOP_HOURS;
+    const fresh = manualEvents.filter(isFresh).sort((a, b) => (a.firstSeenAt < b.firstSeenAt ? 1 : -1));
+    const rest = [...auto, ...manualEvents.filter((e) => !isFresh(e))].sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+    return { ...edition, events: [...fresh, ...rest] };
+  }
   async function loadEdition(date) {
     if (!date) return null;
-    if (!state.editions[date]) state.editions[date] = await getJson(`data/editions/${date}.json`);
+    if (!state.editions[date]) {
+      const edition = await getJson(`data/editions/${date}.json`);
+      if (!state.manualDates) state.manualDates = await getJson("data/manual/index.json").catch(() => []);
+      const manual = state.manualDates.includes(date) ? await getJson(`data/manual/${date}.json`).catch(() => null) : null;
+      state.editions[date] = withManual(edition, manual?.events ?? []);
+    }
     return state.editions[date];
   }
 

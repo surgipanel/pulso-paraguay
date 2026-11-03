@@ -32,6 +32,29 @@ export async function writeEdition(edition) {
   await writeJson(editionPath(edition.date), edition);
 }
 
+// Noticias publicadas a mano desde el panel de editor. Van en archivos aparte para que nunca
+// choquen con lo que escribe el bot: el bot las lee, pero no las modifica.
+export const MANUAL_DIR = path.join(DATA_DIR, "manual");
+export const manualPath = (date) => path.join(MANUAL_DIR, `${date}.json`);
+
+export async function readManual(date) {
+  return readJson(manualPath(date), { date, events: [] });
+}
+
+export async function writeManual(manual) {
+  await writeJson(manualPath(manual.date), manual);
+  const dates = (await readdir(MANUAL_DIR)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).map((f) => f.slice(0, 10));
+  await writeJson(path.join(MANUAL_DIR, "index.json"), dates.sort().reverse());
+}
+
+// Edición con las noticias manuales incluidas (para el sitemap).
+export async function readEditionWithManual(date) {
+  const ed = await readEdition(date);
+  const manual = await readManual(date);
+  if (!ed && !manual.events.length) return null;
+  return { ...(ed ?? { date, events: [] }), events: [...manual.events, ...(ed?.events ?? [])] };
+}
+
 export async function readLatest() {
   return readJson(path.join(DATA_DIR, "latest.json"), null);
 }

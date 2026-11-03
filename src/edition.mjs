@@ -12,7 +12,7 @@ function jaccard(a, b) {
   return inter / (A.size + B.size - inter);
 }
 
-function sameEvent(existing, candidate) {
+export function sameEvent(existing, candidate) {
   const urls = new Set(existing.sources.map((s) => s.url));
   if (candidate.sources.some((s) => urls.has(s.url))) return true;
   // Sin URL en común: títulos muy parecidos (p. ej. la IA reescribió el mismo hecho).
@@ -35,7 +35,7 @@ function mergeSources(a, b) {
   return [...map.values()].sort((x, y) => new Date(y.publishedAt) - new Date(x.publishedAt));
 }
 
-function scoreEvent(ev, now) {
+export function scoreEvent(ev, now) {
   const distinct = new Set(ev.sources.map((s) => s.sourceId)).size;
   const newest = Math.max(...ev.sources.map((s) => new Date(s.publishedAt).getTime()));
   const ageH = (now.getTime() - newest) / 36e5;
