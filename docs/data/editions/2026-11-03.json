@@ -1,11 +1,135 @@
 {
   "date": "2026-11-03",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-03T08:07:11.609Z",
+  "generatedAt": "2026-11-03T12:07:14.530Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0s0vuve",
+      "title": "BCP inicia la resolución de Ueno Bank por baja solvencia",
+      "summary": "El Banco Central del Paraguay (BCP) inició el procedimiento de resolución de Ueno Bank, tras constatar que su índice de solvencia cayó por debajo del 50% del mínimo requerido. La medida fue aprobada por unanimidad por el Directorio, con fecha 2 de noviembre, y se informó de madrugada.\n\nLa Superintendencia de Bancos designará interventores para verificar la situación patrimonial del banco y preservar sus activos. El BCP dijo que la prioridad es proteger a los depositantes. Los depósitos tienen garantía de hasta 75 salarios mínimos por persona y por entidad, equivalente a G. 228.300.000.\n\nEl regulador afirmó que detectó irregularidades en créditos vinculados y que las denuncias se harán ante las autoridades competentes. Usuarios reportaron que no podían operar en cajeros ni en home banking esta mañana.",
+      "keyPoints": [
+        "El BCP dispuso la resolución de Ueno Bank por solvencia por debajo del 50% del mínimo.",
+        "La Superintendencia de Bancos designará interventores para verificar el patrimonio.",
+        "La garantía de depósitos alcanza G. 228.300.000 por persona y por entidad.",
+        "El BCP denunciará las irregularidades detectadas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: BCP explica la resolución y qué va a pasar ahora",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-bcp-explica-la-resolucion-y-que-va-a-pasar-ahora",
+          "publishedAt": "2026-11-03T11:42:37.000Z",
+          "image": "https://www.abc.com.py/resizer/GSQIEXpskggT62Q1cdiL-8FqD60=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TT7ME545VRCNNCR76SOBTAYXAA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Banco Central detalló las irregularidades que definieron la disolución de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/banco-central-detallo-las-irregularidades-que-definieron-la-disolucion-de-ueno-bank",
+          "publishedAt": "2026-11-03T10:48:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZugQ_TnY4Mf1IWHEpaCeXjxYZDU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MUV4BACVLVBVLKEEMVDZU3QUFQ.png"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia",
+          "url": "https://www.npy.com.py/noticias/nacionales/bcp-dispone-la-resolucion-del-banco-ueno-por-incumplimiento-del-indice-de-solvencia",
+          "publishedAt": "2026-11-03T10:33:28.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "BCP inicia la resolución de ueno bank por problemas de solvencia",
+          "url": "https://www.adndigital.com.py/bcp-inicia-la-resolucion-de-ueno-bank-por-problemas-de-solvencia",
+          "publishedAt": "2026-11-03T10:04:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/banco-central-819x1024.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: hasta cuánto dinero podrán recuperar los depositantes y cuándo",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando",
+          "publishedAt": "2026-11-03T09:37:53.000Z",
+          "image": "https://www.abc.com.py/resizer/WL4r_sZ8d_mpzoHh-T1rDD38UNA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP dispone resolución de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/el-bcp-dispone-resolucion-de-ueno-bank",
+          "publishedAt": "2026-11-03T09:26:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "BCP dispone resolución de ueno bank por insuficiencia severa",
+          "url": "https://www.ultimahora.com/bcp-dispone-intervencion-de-ueno-bank-por-insuficiencia-severa",
+          "publishedAt": "2026-11-03T08:25:53.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP constata insuficiencia en solvencia de ueno y ordena intervención",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/bcp-constata-insuficiencia-en-solvencia-de-ueno-y-ordena-intervencion",
+          "publishedAt": "2026-11-03T08:02:06.521Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LAI3FQURIJADFFTOVHL5M3W5VI.jpg?auth=4f30086262b51152251f00be9c2c3dca7a3ca47952f8ea7eb09d1b127bf2da92&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: el BCP anuncia “procedimiento de resolución”",
+          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-el-bcp-anuncia-procedimiento-de-resolucion",
+          "publishedAt": "2026-11-03T06:53:31.000Z",
+          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ueno Bank niega intervención del BCP y asegura que opera con normalidad",
+          "url": "https://www.hoy.com.py/negocios/2026/11/02/ueno-bank-niega-intervencion-del-bcp-y-asegura-que-opera-con-normalidad",
+          "publishedAt": "2026-11-03T00:10:39.569Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Presidencia y ueno bank desmienten versiones sobre medidas financieras",
+          "url": "https://elnacional.com.py/politica/presidencia-ueno-bank-desmienten-versiones-sobre-medidas-financieras-n114596",
+          "publishedAt": "2026-11-02T23:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69ec64caa1ebc.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña habría convocado a banqueros ante situación del sistema financiero",
+          "url": "https://elnacional.com.py/economia/pena-habria-convocado-banqueros-situacion-sistema-financiero-n114594",
+          "publishedAt": "2026-11-02T21:47:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6aa679dee711a.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/QR4IV3DB6FAGXDDDBFLIRFCTFE.jpg?auth=b420f3c08ea634207bd407d12a473db89cc7bdaa81a521dbfce9dc8842d27c54&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-hasta-cuanto-dinero-podran-recuperar-los-depositantes-y-cuando"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
+      "updatedSlot": "manana",
+      "score": 26.97
+    },
     {
       "id": "ev-07moaci",
       "title": "Pedro Alliana pone en pausa su candidatura",
@@ -88,7 +212,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T08:07:11.609Z",
       "updatedSlot": "manana",
-      "score": 23.59
+      "score": 23.25
     },
     {
       "id": "ev-06oo94c",
@@ -204,7 +328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T08:07:11.609Z",
       "updatedSlot": "manana",
-      "score": 23.58
+      "score": 23.25
     },
     {
       "id": "ev-1c3gj24",
@@ -351,7 +475,151 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T08:07:11.609Z",
       "updatedSlot": "manana",
-      "score": 23.58
+      "score": 23.24
+    },
+    {
+      "id": "ev-0ezi6b8",
+      "title": "263 intendentes y concejales asumen hoy sus cargos para el periodo 2026-2031",
+      "summary": "Hoy martes 3 de noviembre asumen 263 intendentes y sus Juntas Municipales, electos en los comicios del 4 de octubre. Las nuevas administraciones quedan habilitadas para comenzar sus funciones en todo el país.\n\nLa ANR ganó 187 municipios y la oposición 76, de los cuales 61 corresponden al PLRA, según la nota de ADN Digital. Los concejales deben jurar antes de tomar posesión y luego toman juramento a los intendentes; si no es posible, pueden hacerlo ante el juez electoral de la circunscripción.\n\nEn los próximos días las nuevas autoridades definirán las mesas directivas de las Juntas y los principales nombramientos. El escenario político ya apunta a las elecciones generales de 2028.",
+      "keyPoints": [
+        "Asumen 263 intendentes y los concejales del periodo 2026-2031.",
+        "La ANR ganó 187 municipios; la oposición, 76.",
+        "Los concejales deben jurar antes que los intendentes.",
+        "Las Juntas definirán sus mesas directivas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "263 intendentes y 2.832 concejales asumen hoy con la mira puesta en el 2028",
+          "url": "https://www.adndigital.com.py/263-intendentes-y-2-832-concejales-asumen-hoy-con-la-mira-puesta-en-el-2028",
+          "publishedAt": "2026-11-03T09:49:08.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/proclamacion-2.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Asumen hoy las nuevas autoridades municipales",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/asumen-hoy-las-nuevas-autoridades-municipales",
+          "publishedAt": "2026-11-03T09:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QE7B233V3RACRDJ442UH6UXPSM.jpg?auth=0694a0d801cb3dc3b2e35fcd4e30667628b1c7c2010373fd6f05e870602598fa&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Intendentes y concejales deben trabajar para dar calidad de vida a la gente",
+          "url": "https://www.ultimahora.com/intendentes-y-concejales-deben-trabajar-para-dar-calidad-de-vida-a-la-gente",
+          "publishedAt": "2026-11-03T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Intendentes y concejales electos asumen hoy sus respectivos cargos",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/intendentes-y-concejales-electos-asumen-hoy-sus-respectivos-cargos",
+          "publishedAt": "2026-11-03T03:08:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FTg_pBBqgINWT8svJnQ5-a0Cxho=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UKQEFYBIINABTJEYX433XFZDQE.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Intendentes electos asumirán mañana sus respectivos cargos",
+          "url": "https://diariovanguardia.com.py/intendentes-electos-asumiran-manana-sus-respectivos-cargos",
+          "publishedAt": "2026-11-02T11:46:39.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/f7ad0acc251ffc286366d74c3431009a2c6e7ee14417d8941a0439c4-1024x685.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/QE7B233V3RACRDJ442UH6UXPSM.jpg?auth=0694a0d801cb3dc3b2e35fcd4e30667628b1c7c2010373fd6f05e870602598fa&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/03/asumen-hoy-las-nuevas-autoridades-municipales"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
+      "updatedSlot": "manana",
+      "score": 20.81
+    },
+    {
+      "id": "ev-03kwz6y",
+      "title": "Fiscal denuncia que Miguel Prieto amenaza a testigos del caso Tía Chela",
+      "summary": "El fiscal Silvio Corbeta denunció que el exintendente de Ciudad del Este, Miguel Prieto, estaría amedrentando a testigos clave del juicio oral por el caso Tía Chela. Según el fiscal, las amenazas alcanzan al exconcejal Celso Miranda y al director de la DNIT, Óscar Orué.\n\nCorbeta advirtió que esta conducta podría motivar la revocación de las medidas ambulatorias que permiten a Prieto permanecer en libertad. Dijo que una medida más severa debería quedar a criterio del Tribunal de Sentencia.\n\nLas declaraciones surgieron después de que Prieto anunciara una denuncia penal contra Miranda por una supuesta denuncia falsa. Miranda había denunciado irregularidades en la compra de equipos para una planta asfáltica municipal, investigación que fue desestimada. Según la Fiscalía, esa denuncia evitó un perjuicio económico.",
+      "keyPoints": [
+        "El fiscal Silvio Corbeta denunció amenazas de Prieto a testigos.",
+        "Las amenazas alcanzan a Celso Miranda y a Óscar Orué.",
+        "Corbeta dijo que podrían revocarse las medidas ambulatorias de Prieto.",
+        "Prieto anunció una denuncia penal contra Miranda."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía denuncia que Prieto amenaza a testigos del caso Tía Chela y podría ir preso",
+          "url": "https://www.adndigital.com.py/fiscalia-denuncia-que-prieto-amenaza-a-testigos-del-caso-tia-chela-y-podria-ir-preso",
+          "publishedAt": "2026-11-03T11:28:59.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-31-at-073828.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Reanudan juicio oral contra Prieto en caso conocido como Tía Chela",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/reanudan-juicio-oral-contra-prieto-en-caso-conocido-como-tia-chela",
+          "publishedAt": "2026-11-03T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ia7YxbiO4hcNQUmMVbKCKz-YBNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FCAC5QN53JEBRLJW7JRJ6AUBQY.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscal Corbeta denuncia que Miguel Prieto amenaza a testigos del caso Tía Chela",
+          "url": "https://elnacional.com.py/politica/fiscal-corbeta-denuncia-miguel-prieto-amenaza-testigos-caso-tia-chela-n114590",
+          "publishedAt": "2026-11-02T21:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/08/68a3b13999e5a.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fiscal advierte que Miguel Prieto podría perder su libertad por amenazas a testigos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/02/fiscal-advierte-que-miguel-prieto-podria-perder-su-libertad-por-amenazas-a-testigos",
+          "publishedAt": "2026-11-02T20:45:49.083Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/EUK6A2GVJFCNDFJGEO573Q724E.jpg?auth=43c5694e8f7a74d875906665defcd7d2cab04b70a808504a380448564676ba38&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Tía Chela: fiscal Silvio Corbeta advierte que Miguel Prieto amenaza a testigos clave",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/caso-tia-chela-fiscal-silvio-corbeta-advierte-que-miguel-prieto-amenaza-a-testigos-clave",
+          "publishedAt": "2026-11-02T18:48:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vNTZtedv4K1oo25j_78VCdvmHxA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7XIC477GZVH2JNUFCGU7JOVMAM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Reanudan juicio oral contra Miguel Prieto por el caso “Tía Chela”",
+          "url": "https://www.lanacion.com.py/politica/2026/11/02/reanudan-juicio-oral-contra-miguel-prieto-por-el-caso-tia-chela",
+          "publishedAt": "2026-11-02T13:14:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TCBDsTk8gPrfFhuWF3fuMGRRoDQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKQTP7YZBRCBJJFLHYWBAX6LXI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-31-at-073828.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/fiscalia-denuncia-que-prieto-amenaza-a-testigos-del-caso-tia-chela-y-podria-ir-preso"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
+      "updatedSlot": "manana",
+      "score": 17.95
     },
     {
       "id": "ev-0orkq8z",
@@ -419,7 +687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 17.58
+      "score": 17.24
     },
     {
       "id": "ev-0qnqis3",
@@ -495,193 +763,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 17.47
+      "score": 17.14
     },
     {
-      "id": "ev-0s0vuve",
-      "title": "Ueno Bank niega intervención del BCP y asegura que opera con normalidad",
-      "summary": "Ueno Bank rechazó las versiones que circulan sobre una supuesta aplicación del Fondo de Garantía de Depósitos a la entidad y aseguró que continúa operando con normalidad y prestando sus servicios habituales. Minutos después de las 3 am el Banco Central del Paraguay (BCP) informó en sus redes sociales que dispuso por unanimidad, mediante la correspondiente resolución de su Directorio de fecha 2 de noviembre de 2026, iniciar el procedimiento…",
+      "id": "ev-07u3eyl",
+      "title": "Cae el petróleo por expectativas de negociaciones para terminar la guerra en Medio Oriente",
+      "summary": "El petróleo bajó con fuerza por expectativas de avances diplomáticos entre Irán y Catar para terminar la guerra en Medio Oriente. El barril de Brent retrocedió 3,2 %, hasta 109,75 dólares, y el WTI cayó 3,3 %, hasta 100,69 dólares.\n\nEn Paraguay, que importa combustibles derivados del petróleo, la baja abre la posibilidad de un alivio en los precios. Sin embargo, la caída del crudo no garantiza que bajen los surtidores, porque también influyen los derivados, los costos de importación y las condiciones de abastecimiento.\n\nEl traslado al consumidor dependerá de las condiciones de compra, los inventarios y los costos logísticos.",
       "keyPoints": [
-        "Ueno Bank rechazó las versiones que circulan sobre una supuesta aplicación del Fondo de Garantía de Depósitos a la entidad y aseguró que continúa operando con normalidad y prestando sus servicios habituales.",
-        "Minutos después de las 3 am el Banco Central del Paraguay (BCP) informó en sus redes sociales que dispuso por unanimidad, mediante la correspondiente resolución de su Directorio de fecha 2 de noviembre de 2026, iniciar…",
-        "El Banco Central del Paraguay dispuso iniciar el procedimiento de resolución de ueno bank, tras constatarse una insuficiencia en su índice de solvencia por debajo del cincuenta por ciento (50%) del mínimo requerido.",
-        "La Presidencia de la República descartó una supuesta reunión del mandatario Santiago Peña con representantes de entidades bancarias en Mburuvicha Róga, mientras que ueno bank negó haber recibido notificación alguna sobre la eventual aplicación del Fondo…"
+        "El Brent bajó 3,2 % y quedó en 109,75 dólares.",
+        "El WTI cayó 3,3 % y llegó a 100,69 dólares.",
+        "La baja del crudo no garantiza menos precio en los surtidores paraguayos."
       ],
       "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
-          "title": "BCP constata insuficiencia en solvencia de ueno y ordena intervención",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/03/bcp-constata-insuficiencia-en-solvencia-de-ueno-y-ordena-intervencion",
-          "publishedAt": "2026-11-03T08:02:06.521Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/LAI3FQURIJADFFTOVHL5M3W5VI.jpg?auth=4f30086262b51152251f00be9c2c3dca7a3ca47952f8ea7eb09d1b127bf2da92&width=1200&height=630&smart=true"
+          "title": "Brusca caída del petróleo por reanudación de negociaciones",
+          "url": "https://www.hoy.com.py/mundo/2026/11/03/brusca-caida-del-petroleo-por-reanudacion-de-negociaciones",
+          "publishedAt": "2026-11-03T09:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JW3FBCVY2BDSRIEVWI4CSYRU54.jpg?auth=0ea0f4dde693e39bf4e8979fc62dc22c2bf13e01eabe9de3cb2f5c13bc9a8e02&width=1200&height=630&smart=true"
         },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: el BCP anuncia “procedimiento de resolución”",
-          "url": "https://www.abc.com.py/economia/2026/11/03/ueno-bank-el-bcp-anuncia-procedimiento-de-resolucion",
-          "publishedAt": "2026-11-03T06:53:31.000Z",
-          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ueno Bank niega intervención del BCP y asegura que opera con normalidad",
-          "url": "https://www.hoy.com.py/negocios/2026/11/02/ueno-bank-niega-intervencion-del-bcp-y-asegura-que-opera-con-normalidad",
-          "publishedAt": "2026-11-03T00:10:39.569Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Presidencia y ueno bank desmienten versiones sobre medidas financieras",
-          "url": "https://elnacional.com.py/politica/presidencia-ueno-bank-desmienten-versiones-sobre-medidas-financieras-n114596",
-          "publishedAt": "2026-11-02T23:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69ec64caa1ebc.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña habría convocado a banqueros ante situación del sistema financiero",
-          "url": "https://elnacional.com.py/economia/pena-habria-convocado-banqueros-situacion-sistema-financiero-n114594",
-          "publishedAt": "2026-11-02T21:47:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6aa679dee711a.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/GALBTPNI3BFPVCWZXWY6RLALRA.jpg?auth=3db67b653a5dfa85173b62ef3732839170d5570789b67a20682bb8c0c85d6c9a&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/negocios/2026/11/02/ueno-bank-niega-intervencion-del-bcp-y-asegura-que-opera-con-normalidad"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T08:07:11.609Z",
-      "updatedSlot": "manana",
-      "score": 14.99
-    },
-    {
-      "id": "ev-03kwz6y",
-      "title": "Fiscal Corbeta denuncia que Miguel Prieto amenaza a testigos del caso Tía Chela",
-      "summary": "El agente de la Fiscalía señaló que la situación puede motivar el endurecimiento de las medidas con las que goza Prieto, como la libertad ambulatoria. Miguel Prieto enfrenta el juicio oral y público por un perjuicio patrimonial de G. 2.130 millones a la Municipalidad de Ciudad del Este.",
-      "keyPoints": [
-        "El agente de la Fiscalía señaló que la situación puede motivar el endurecimiento de las medidas con las que goza Prieto, como la libertad ambulatoria.",
-        "Miguel Prieto enfrenta el juicio oral y público por un perjuicio patrimonial de G. 2.130 millones a la Municipalidad de Ciudad del Este.",
-        "El fiscal Silvio Corbeta señaló que amenazas de Prieto podrían ser consideradas por el Tribunal.",
-        "El proceso judicial contra Prieto se da por el presunto negociado en la compra de kits de alimentos para familias vulnerables durante la pandemia de covid-19."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Reanudan juicio oral contra Prieto en caso conocido como Tía Chela",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/reanudan-juicio-oral-contra-prieto-en-caso-conocido-como-tia-chela",
+          "title": "Baja del petróleo abre expectativas de alivio para los combustibles",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/03/baja-del-petroleo-abre-expectativas-de-alivio-para-los-combustibles",
           "publishedAt": "2026-11-03T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ia7YxbiO4hcNQUmMVbKCKz-YBNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FCAC5QN53JEBRLJW7JRJ6AUBQY.jpg"
+          "image": "https://www.lanacion.com.py/resizer/uYsdqxvTlnX7V2A06lpaupgqwak=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XA3UPR7WINAVRH224KFBEMEROA.jpg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Fiscal Corbeta denuncia que Miguel Prieto amenaza a testigos del caso Tía Chela",
-          "url": "https://elnacional.com.py/politica/fiscal-corbeta-denuncia-miguel-prieto-amenaza-testigos-caso-tia-chela-n114590",
-          "publishedAt": "2026-11-02T21:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/08/68a3b13999e5a.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fiscal advierte que Miguel Prieto podría perder su libertad por amenazas a testigos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/02/fiscal-advierte-que-miguel-prieto-podria-perder-su-libertad-por-amenazas-a-testigos",
-          "publishedAt": "2026-11-02T20:45:49.083Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/EUK6A2GVJFCNDFJGEO573Q724E.jpg?auth=43c5694e8f7a74d875906665defcd7d2cab04b70a808504a380448564676ba38&width=1200&height=630&smart=true"
+          "title": "Baja del petróleo abre expectativas de alivio en los precios de los combustibles",
+          "url": "https://elnacional.com.py/economia/baja-petroleo-abre-expectativas-alivio-precios-combustibles-n114571",
+          "publishedAt": "2026-11-02T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69aedddd4264d.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Caso Tía Chela: fiscal Silvio Corbeta advierte que Miguel Prieto amenaza a testigos clave",
-          "url": "https://www.lanacion.com.py/politica/2026/11/02/caso-tia-chela-fiscal-silvio-corbeta-advierte-que-miguel-prieto-amenaza-a-testigos-clave",
-          "publishedAt": "2026-11-02T18:48:24.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vNTZtedv4K1oo25j_78VCdvmHxA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7XIC477GZVH2JNUFCGU7JOVMAM.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Reanudan juicio oral contra Miguel Prieto por el caso “Tía Chela”",
-          "url": "https://www.lanacion.com.py/politica/2026/11/02/reanudan-juicio-oral-contra-miguel-prieto-por-el-caso-tia-chela",
-          "publishedAt": "2026-11-02T13:14:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TCBDsTk8gPrfFhuWF3fuMGRRoDQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKQTP7YZBRCBJJFLHYWBAX6LXI.jpg"
+          "title": "Baja del petróleo abre expectativas de alivio para los combustibles en Paraguay",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/02/baja-del-petroleo-abre-expectativas-de-alivio-para-los-combustibles-en-paraguay",
+          "publishedAt": "2026-11-02T13:43:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Ad-WrqZlOa3rKICFmS2Vp6xPR0k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y2GDTEJD6NF5ZAQ6MVIQGY6PAE.jpg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/08/68a3b13999e5a.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fiscal-corbeta-denuncia-miguel-prieto-amenaza-testigos-caso-tia-chela-n114590"
+        "url": "https://www.lanacion.com.py/resizer/v2/JW3FBCVY2BDSRIEVWI4CSYRU54.jpg?auth=0ea0f4dde693e39bf4e8979fc62dc22c2bf13e01eabe9de3cb2f5c13bc9a8e02&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/mundo/2026/11/03/brusca-caida-del-petroleo-por-reanudacion-de-negociaciones"
       },
       "firstSeenAt": "2026-11-03T03:54:04.962Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-03T03:54:04.962Z",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
       "updatedSlot": "manana",
-      "score": 14.58
-    },
-    {
-      "id": "ev-0ezi6b8",
-      "title": "Intendentes y concejales electos asumen hoy sus respectivos cargos",
-      "summary": "Las nuevas administraciones comunales quedan oficialmente habilitadas para el comienzo de sus obligaciones. Mañana se realizará la ceremonia de juramento y toma de posesión de los intendentes electos en los distintos municipios del país, marcando el inicio…",
-      "keyPoints": [
-        "Las nuevas administraciones comunales quedan oficialmente habilitadas para el comienzo de sus obligaciones.",
-        "Mañana se realizará la ceremonia de juramento y toma de posesión de los intendentes electos en los distintos municipios del país, marcando el inicio…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Intendentes y concejales deben trabajar para dar calidad de vida a la gente",
-          "url": "https://www.ultimahora.com/intendentes-y-concejales-deben-trabajar-para-dar-calidad-de-vida-a-la-gente",
-          "publishedAt": "2026-11-03T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Intendentes y concejales electos asumen hoy sus respectivos cargos",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/intendentes-y-concejales-electos-asumen-hoy-sus-respectivos-cargos",
-          "publishedAt": "2026-11-03T03:08:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/FTg_pBBqgINWT8svJnQ5-a0Cxho=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UKQEFYBIINABTJEYX433XFZDQE.jpg"
-        },
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Intendentes electos asumirán mañana sus respectivos cargos",
-          "url": "https://diariovanguardia.com.py/intendentes-electos-asumiran-manana-sus-respectivos-cargos",
-          "publishedAt": "2026-11-02T11:46:39.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/f7ad0acc251ffc286366d74c3431009a2c6e7ee14417d8941a0439c4-1024x685.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UKQEFYBIINABTJEYX433XFZDQE.jpg?auth=fa08076069d2572872f5aed90f66a5962c134c0382e7c551adad4b1ee81ea994&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/03/intendentes-y-concejales-electos-asumen-hoy-sus-respectivos-cargos"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T08:07:11.609Z",
-      "updatedSlot": "manana",
-      "score": 13.91
+      "score": 14.8
     },
     {
       "id": "ev-0psm3cn",
@@ -733,7 +874,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.99
+      "score": 12.66
     },
     {
       "id": "ev-1r2tsld",
@@ -784,7 +925,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 12.77
+      "score": 12.43
     },
     {
       "id": "ev-06fnfie",
@@ -835,58 +976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-07u3eyl",
-      "title": "Baja del petróleo abre expectativas de alivio en los combustibles en Paraguay",
-      "summary": "La caída de unos 3% en el precio internacional del crudo genera expectativas de una baja de combustibles en Paraguay. Avances diplomáticos entre Irán y Catar buscan un acuerdo para poner fin a la guerra en Medio Oriente. Sin embargo, el precio en los surtidores dependerá de los derivados, los costos de importación y las distribuidoras.",
-      "keyPoints": [
-        "Las cotizaciones internacionales del petróleo cayeron cerca de 3%.",
-        "Irán y Catar avanzan en diplomacia para terminar la guerra en Medio Oriente.",
-        "La baja del crudo no garantiza una reducción en los surtidores."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Baja del petróleo abre expectativas de alivio para los combustibles",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/03/baja-del-petroleo-abre-expectativas-de-alivio-para-los-combustibles",
-          "publishedAt": "2026-11-03T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/uYsdqxvTlnX7V2A06lpaupgqwak=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XA3UPR7WINAVRH224KFBEMEROA.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Baja del petróleo abre expectativas de alivio en los precios de los combustibles",
-          "url": "https://elnacional.com.py/economia/baja-petroleo-abre-expectativas-alivio-precios-combustibles-n114571",
-          "publishedAt": "2026-11-02T17:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/03/69aedddd4264d.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Baja del petróleo abre expectativas de alivio para los combustibles en Paraguay",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/02/baja-del-petroleo-abre-expectativas-de-alivio-para-los-combustibles-en-paraguay",
-          "publishedAt": "2026-11-02T13:43:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Ad-WrqZlOa3rKICFmS2Vp6xPR0k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Y2GDTEJD6NF5ZAQ6MVIQGY6PAE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XA3UPR7WINAVRH224KFBEMEROA.jpg?auth=1fcb886dfa4604fd4038b85970b56a0dd847097cb6c5972ecca16285d733ccda&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/03/baja-del-petroleo-abre-expectativas-de-alivio-para-los-combustibles"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T03:54:04.962Z",
-      "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0mjig34",
@@ -937,7 +1027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1sf97wz",
@@ -988,7 +1078,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0tvqft5",
@@ -1039,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0v6zpdk",
@@ -1091,7 +1181,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.48
+      "score": 10.14
     },
     {
       "id": "ev-1r4whx8",
@@ -1143,7 +1233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10.32
+      "score": 9.98
     },
     {
       "id": "ev-10sahcz",
@@ -1195,7 +1285,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 10
+      "score": 9.66
     },
     {
       "id": "ev-134wxxv",
@@ -1237,7 +1327,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-1xbm10h",
@@ -1280,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.5
+      "score": 9.17
     },
     {
       "id": "ev-07lbsvr",
@@ -1323,7 +1413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.07
     },
     {
       "id": "ev-1dyzoj7",
@@ -1366,7 +1456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.38
+      "score": 9.05
     },
     {
       "id": "ev-02n3l3n",
@@ -1409,7 +1499,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.37
+      "score": 9.04
     },
     {
       "id": "ev-0oyjz1l",
@@ -1452,7 +1542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.29
+      "score": 8.95
     },
     {
       "id": "ev-1sr6lpz",
@@ -1495,7 +1585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.28
+      "score": 8.95
     },
     {
       "id": "ev-1hl37ru",
@@ -1538,7 +1628,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.83
     },
     {
       "id": "ev-0gnrhii",
@@ -1581,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.09
+      "score": 8.76
     },
     {
       "id": "ev-1amttat",
@@ -1624,7 +1714,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-1ae8o8i",
@@ -1667,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 9
+      "score": 8.67
     },
     {
       "id": "ev-15if0qa",
@@ -1710,7 +1800,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.98
+      "score": 8.65
+    },
+    {
+      "id": "ev-17xr4c7",
+      "title": "El británico Karl Bushby completa a pie la vuelta al mundo tras 28 años",
+      "summary": "El aventurero británico Karl Bushby llegó este lunes a Hull, su ciudad natal en el noreste de Inglaterra, tras una caminata de 28 años que empezó en el sur de Chile. Unas 500 personas lo aclamaron en el centro de la ciudad.\n\nEl viaje cubrió unos 50.000 kilómetros y pasó por 29 países, con selvas, montañas, desiertos y mares de hielo. Bushby, de 57 años, se había impuesto dos reglas: no usar ningún medio de transporte y no volver a casa hasta terminar el desafío. El viaje se interrumpió a veces por la pandemia, la crisis financiera o problemas de visados.\n\nAl terminar, agradeció la amabilidad de desconocidos que le ofrecieron comida y bebida durante el camino. Dijo que el mundo fue su red de apoyo.",
+      "keyPoints": [
+        "Bushby partió a pie del sur de Chile en 1998.",
+        "Recorrió unos 50.000 kilómetros por 29 países.",
+        "Se había impuesto no usar ningún medio de transporte."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Un aventurero británico completa la épica vuelta al mundo a pie tras 28 años de travesía",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/03/un-aventurero-britanico-completa-la-epica-vuelta-al-mundo-a-pie-tras-28-anos-de-travesia",
+          "publishedAt": "2026-11-03T09:08:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0kvsiE_LnXkhN9QdiTkRO1NQDVc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UBM6T7GFNFAKBG4KCJ7IWAQJBI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Un hombre completó vuelta al mundo a pie",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/03/un-hombre-completo-vuelta-al-mundo-a-pie",
+          "publishedAt": "2026-11-03T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dHkQ6uHFTmyKDbAxSwt2fHaKp6I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HOV6C5XJMFHZ5OI4TAP4YRSPVE.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Un aventurero británico completa la vuelta al mundo a pie tras 28 años",
+          "url": "https://www.hoy.com.py/mundo/2026/11/02/un-aventurero-britanico-completa-la-vuelta-al-mundo-a-pie-tras-28-anos",
+          "publishedAt": "2026-11-02T22:49:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/VNXX6WFRR5APZKAQPFNEIFWIVM.jfif?auth=f6f2827643ef13174ba7bf9209685dc7f0765f7101e7b5aa9f18547b3d63f061&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UBM6T7GFNFAKBG4KCJ7IWAQJBI.jpg?auth=80b011eab1123d8a3af1238b9b95167511f2d3bd0020394747efbcf13ed74000&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/03/un-aventurero-britanico-completa-la-epica-vuelta-al-mundo-a-pie-tras-28-anos-de-travesia"
+      },
+      "firstSeenAt": "2026-11-03T03:54:04.962Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-03T12:07:14.530Z",
+      "updatedSlot": "manana",
+      "score": 8.25
     },
     {
       "id": "ev-1yz97fo",
@@ -1750,7 +1891,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.12
     },
     {
       "id": "ev-03zauy9",
@@ -1793,50 +1934,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 7.08
-    },
-    {
-      "id": "ev-17xr4c7",
-      "title": "Aventurero británico completa a pie la vuelta al mundo tras 28 años",
-      "summary": "El británico Karl Bushby llegó a Hull, su ciudad natal en el noreste de Inglaterra, tras recorrer a pie el mundo. La travesía de 28 años comenzó en Chile. Una multitud lo recibió y lo aclamó al llegar.",
-      "keyPoints": [
-        "Karl Bushby llegó a Hull, en el noreste de Inglaterra.",
-        "La travesía a pie duró 28 años y comenzó en Chile.",
-        "Fue aclamado por una multitud a su llegada."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Un hombre completó vuelta al mundo a pie",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/03/un-hombre-completo-vuelta-al-mundo-a-pie",
-          "publishedAt": "2026-11-03T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/dHkQ6uHFTmyKDbAxSwt2fHaKp6I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HOV6C5XJMFHZ5OI4TAP4YRSPVE.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Un aventurero británico completa la vuelta al mundo a pie tras 28 años",
-          "url": "https://www.hoy.com.py/mundo/2026/11/02/un-aventurero-britanico-completa-la-vuelta-al-mundo-a-pie-tras-28-anos",
-          "publishedAt": "2026-11-02T22:49:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/VNXX6WFRR5APZKAQPFNEIFWIVM.jfif?auth=f6f2827643ef13174ba7bf9209685dc7f0765f7101e7b5aa9f18547b3d63f061&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/HOV6C5XJMFHZ5OI4TAP4YRSPVE.jpg?auth=2f997a5151cb5e12ded69b800866ac9646fa32b0f404ffc3ea9b327964370b01&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/03/un-hombre-completo-vuelta-al-mundo-a-pie"
-      },
-      "firstSeenAt": "2026-11-03T03:54:04.962Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-03T03:54:04.962Z",
-      "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-0s6lr74",
@@ -1879,7 +1977,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0n1j551",
@@ -1923,7 +2021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0iqpukx",
@@ -1966,7 +2064,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-14hjv33",
@@ -2010,7 +2108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0x5290t",
@@ -2054,7 +2152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-01ro5uf",
@@ -2097,7 +2195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 6.2
+      "score": 5.87
     },
     {
       "id": "ev-1lfzxut",
@@ -2131,7 +2229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1pos4v9",
@@ -2166,7 +2264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1e82c9r",
@@ -2201,7 +2299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.01
     },
     {
       "id": "ev-04n2wnx",
@@ -2237,7 +2335,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-1fd5upk",
@@ -2273,7 +2371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.89
+      "score": 4.56
     },
     {
       "id": "ev-148swdg",
@@ -2306,7 +2404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.85
+      "score": 4.52
     },
     {
       "id": "ev-1trgia6",
@@ -2341,7 +2439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.81
+      "score": 4.48
     },
     {
       "id": "ev-046c4je",
@@ -2375,7 +2473,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.25
     },
     {
       "id": "ev-0f0i926",
@@ -2418,7 +2516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 4.01
+      "score": 3.68
     },
     {
       "id": "ev-0huby3k",
@@ -2457,7 +2555,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.77
+      "score": 3.43
     },
     {
       "id": "ev-05kqik1",
@@ -2488,7 +2586,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-03T03:54:04.962Z",
       "updatedSlot": "manana",
-      "score": 3.13
+      "score": 2.8
     }
   ],
   "runs": [
@@ -2505,6 +2603,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 13
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-03T12:07:14.530Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 17
     }
   ]
 }
