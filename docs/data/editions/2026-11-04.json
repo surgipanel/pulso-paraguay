@@ -1,19 +1,207 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-04T08:07:11.801Z",
+  "generatedAt": "2026-11-04T12:07:13.705Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-15ql8kv",
-      "title": "Fiscalía ordena detención de directivos de Ueno Bank; Vázquez se entregó a la Policía",
-      "summary": "La Fiscalía de Delitos Económicos y Anticorrupción ordenó la detención de ocho directivos de Ueno Bank, investigados por presunta lesión de confianza y otros delitos financieros. La medida se da tras la resolución del Banco Central del Paraguay, que dispuso el proceso de disolución de la entidad por inconsistencias en su índice de solvencia.\n\nEl CEO Federico Miguel Vázquez Villasanti se entregó a la Policía el martes por la tarde. Según las notas, varios directivos siguieron sus pasos durante la jornada. Los abogados de Miguel Ángel Almada Frutos informaron que su cliente se pondría a disposición de la Justicia. Diana Leticia Mongelós González, según algunos medios, habría salido del país, aunque esa información no fue confirmada por Migraciones.\n\nEn el allanamiento a la casa de Vázquez, en Asunción, los fiscales se llevaron documentos y dejaron siete vehículos bajo guarda fiscal.",
+      "id": "ev-0yvg1g9",
+      "title": "BCP habilita pago inicial de hasta G. 10 millones a ahorristas de ueno bank",
+      "summary": "El Banco Central del Paraguay anunció que los ahorristas de ueno bank recibirán un primer pago de hasta G. 10 millones por persona, a través del Fondo de Garantía de Depósitos. Según la presidenta interina, Liana Caballero, el desembolso se haría este viernes.\n\nEl monto restante, que puede alcanzar los G. 218 millones, se pagará dentro de 15 días. La devolución se calculará luego de compensar los depósitos con las deudas que cada cliente tenga con el banco. El BCP también habilitará un catastro para quienes tengan Certificados de Depósito de Ahorro (CDA). El límite de la garantía es de G. 228.300.000 por persona y por entidad financiera, y no se multiplica por cuentas o instrumentos.",
       "keyPoints": [
-        "La orden de detención alcanza a ocho directivos de Ueno Bank.",
-        "Vázquez se entregó a la Policía el martes por la tarde.",
-        "Mongelós González no se había presentado; habría salido del país, según versiones no confirmadas."
+        "Primer pago de hasta G. 10 millones por ahorrista, previsto para este viernes.",
+        "El resto, de hasta G. 218 millones, se pagará en 15 días.",
+        "El BCP habilitará un catastro para tenedores de CDA.",
+        "El límite de garantía es de G. 228.300.000 por persona y entidad."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "EN VIVO: Diputados trata la ley del Fondo de Garantía para pagar a los ahorristas de Ueno Bank",
+          "url": "https://www.abc.com.py/politica/2026/11/04/en-vivo-diputados-trata-en-sesion-extraordinaria-el-anticipo-del-fondo-de-garantia-para-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T11:35:08.000Z",
+          "image": "https://www.abc.com.py/resizer/yGgWFYrntNXu3JM97qHSgLCdi_I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PQT2HUB46FBLBB36A3CZGCCNTI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Diputados define hoy el anticipo de hasta G. 121 millones para afectados por Ueno Bank",
+          "url": "https://elnacional.com.py/politica/diputados-define-hoy-anticipo-g-121-millones-afectados-ueno-bank-n114681",
+          "publishedAt": "2026-11-04T11:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a76e191e1c3b.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Diputados trata hoy el pago anticipado de garantías a los ahorristas",
+          "url": "https://www.adndigital.com.py/diputados-trata-hoy-el-pago-anticipado-de-garantias-a-los-ahorristas",
+          "publishedAt": "2026-11-04T11:12:18.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/01/camara-de-diputados.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado aprueba pago anticipado de hasta G. 121 millones a ahorristas de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/senado-aprueba-pago-anticipado-g-121-millones-ahorristas-ueno-bank-n114672",
+          "publishedAt": "2026-11-04T09:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a8f3da8168ea.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Sancionarán ley para anticipar devolución de fondos a las víctimas de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/sancionaran-ley-para-anticipar-devolucion-de-fondos-a-las-victimas-de-ueno",
+          "publishedAt": "2026-11-04T09:17:46.411Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/TYLF4T2WFBBE5PGEL7N6EPMZ3M.jpeg?auth=39cf79075d4f276b13afce421ec7318127cef455d02c644adaecfcdaf99ebda5&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Convocan a sesión extraordinaria para tratar la ley de garantía de depósitos y anticipos",
+          "url": "https://5dias.com.py/article/convocan-a-sesin-extraordinaria-para-tratar-la-ley-de-garanta-de-depsitos-y-anticipos",
+          "publishedAt": "2026-11-04T06:49:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-11-04T065204.164_20261104_065138.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Banca matriz anuncia primer pago de hasta G. 10 millones a ahorristas",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/banca-matriz-anuncia-primer-pago-de-hasta-g-10-millones-a-ahorristas",
+          "publishedAt": "2026-11-04T05:09:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DMiJPXSlnaT83JQpCtV98n1M420=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JLOZTNDH5RCSZC7MBPUM36E7XE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado da luz verde a protección de los ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/senado-da-luz-verde-a-proteccion-de-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5Pr066m9nSam5BKBwhv2hdDgUk0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4HE6KTNS7JH5HLMNFK5RIKIDOA.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Comerciantes piden no usar el Fondo de Garantía para cubrir depósitos públicos de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/comerciantes-piden-no-usar-el-fondo-de-garantia-para-cubrir-depositos-publicos-de-ueno",
+          "publishedAt": "2026-11-04T01:58:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/URYQZTK7RRGLPAIEALL4P7LZGY.jpg?auth=2d0622b65aaea3f979dda4e5f77739ac466b8541beaac51fc51d8b958372b6a1&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados convoca a sesión para tratar proyecto de ley de protección a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/diputados-convoca-a-sesion-para-tratar-proyecto-de-ley-de-proteccion-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T00:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ueno Bank: proyecto para adelantar garantía de depósitos llega a Diputados",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/ueno-bank-proyecto-para-adelantar-garantia-de-depositos-llega-a-diputados",
+          "publishedAt": "2026-11-03T23:50:07.125Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SNYOLNOKKJALXM44ORTAZSTWBA.jpeg?auth=daf402cbe4a730f98179a09a3cda628962f0bae046e6c71c12f8fed97db0f2e7&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado aprueba devolución de hasta G. 120 millones a pequeños ahorristas de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/03/senado-aprueba-devolucion-de-hasta-g-120-millones-a-pequenos-ahorristas-de-ueno",
+          "publishedAt": "2026-11-03T22:27:39.130Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/K43CNRFZFJHJXJR5QZMSXUU5ZI.jfif?auth=5462ccc28888fc54b6e33ef8f667b3486ef658ee2b7fcb54aa7ce29d2e7743f0&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado otorga luz verde a la protección de los ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/senado-otorga-luz-verde-a-la-proteccion-de-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-03T22:06:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6-ubda0EdqDnEwRK7hxM9_lklDo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EHZTH2MTXZGOBOINIGM3JIZOWM.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senado aprueba adelantar pagos a ahorristas de Ueno Bank en un plazo de 24 horas",
+          "url": "https://www.adndigital.com.py/senado-aprueba-adelantar-pagos-a-ahorristas-de-ueno-bank-en-un-plazo-de-24-horas",
+          "publishedAt": "2026-11-03T21:58:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-03-at-185715.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP anuncia nuevas medidas para la devolución de depósitos a ahorristas",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/bcp-anuncia-nuevas-medidas-para-la-devolucion-de-depositos-a-ahorristas",
+          "publishedAt": "2026-11-03T19:47:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yx4xy83_xxfWGpLW1mE0SN-f3P0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LAI3FQURIJADFFTOVHL5M3W5VI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP autoriza primer pago de garantía de hasta G. 10 millones a los ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/03/bcp-autoriza-primer-pago-de-garantia-de-hasta-g-10-millones-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-03T19:02:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/teRVFSlnXViO6TuLxaHG3d4Gft0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GIWKM5LVYBEKTBKV4LYITLTDRU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "BCP anuncia primer pago de G. 10 millones a ahorristas de Ueno Bank",
+          "url": "https://elnacional.com.py/economia/bcp-anuncia-primer-pago-g-10-millones-ahorristas-ueno-bank-n114655",
+          "publishedAt": "2026-11-03T18:21:00.000Z",
+          "image": "https://statics.elnacional.com.py/2023/08/9e63727a8d46b21ce8009e0d2fa5c612.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Congreso convoca a sesión extraordinaria para liberar fondos de pequeños ahorristas",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/congreso-convoca-a-sesion-extraordinaria-para-liberar-fondos-de-pequenos-ahorristas",
+          "publishedAt": "2026-11-03T17:16:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado convoca a sesión extraordinaria para tratar pago a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/senado-convoca-a-sesion-extraordinaria-para-tratar-pago-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-03T16:57:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/h6FEFb8O9-eZf00LYRv4_V6auP8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B473A46AQNEHPH74R6YUKQ7T6A.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "BCP asegura pago a jubilados y cobertura para pequeños ahorristas",
+          "url": "https://elnacional.com.py/economia/bcp-asegura-pago-jubilados-cobertura-pequenos-ahorristas-n114607",
+          "publishedAt": "2026-11-03T12:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab2266a574cd.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JLOZTNDH5RCSZC7MBPUM36E7XE.jpg?auth=bb082a589dac7ec1cab85250110823db475c827e2e5592c74fadc2b655d51451&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/banca-matriz-anuncia-primer-pago-de-hasta-g-10-millones-a-ahorristas"
+      },
+      "firstSeenAt": "2026-11-04T08:07:11.801Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
+      "updatedSlot": "manana",
+      "score": 26.96
+    },
+    {
+      "id": "ev-15ql8kv",
+      "title": "Fiscales allanan la residencia de Miguel Vázquez y se llevan documentos",
+      "summary": "Fiscales y policías allanaron la casa de Miguel Vázquez en el barrio La Piedad, de Asunción. Según el comisario José Flores, se llevaron solo documentos y placas de vehículos, que serán analizados.\n\nEl comisario Hugo Grance dijo que no se halló computadora ni caja fuerte. Quedaron siete vehículos, algunos de alta gama, bajo guarda fiscal. Un medio habló de un valor estimado de US$ 1,4 millones para los rodados, dato que no fue confirmado por las autoridades.",
+      "keyPoints": [
+        "Fiscales y policías allanaron la casa de Miguel Vázquez en Asunción.",
+        "Se llevaron solo documentos y placas de vehículos.",
+        "No se halló computadora ni caja fuerte, según la Policía."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -21,6 +209,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Nueve vehículos de lujo, sin chapa, en la residencia de Miguel Vázquez",
+          "url": "https://elnacional.com.py/economia/nueve-vehiculos-lujo-chapa-residencia-miguel-vazquez-n114677",
+          "publishedAt": "2026-11-04T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeae6b9c1d4f.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Directivos detenidos de ueno bank declaran hoy ante la Fiscalía",
+          "url": "https://elnacional.com.py/politica/directivos-detenidos-ueno-bank-declaran-hoy-fiscalia-n114685",
+          "publishedAt": "2026-11-04T11:51:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -44,6 +248,14 @@
           "url": "https://www.ultimahora.com/caso-ueno-bank-incautan-siete-lujosos-vehiculos-en-vivienda-de-miguel-vazquez-en-asuncion",
           "publishedAt": "2026-11-04T02:10:21.000Z",
           "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscales allanan la residencia del CEO de ueno bank en Asunción",
+          "url": "https://www.lanacion.com.py/pais/2026/11/03/fiscales-allanan-la-residencia-del-ceo-de-ueno-bank-en-asuncion",
+          "publishedAt": "2026-11-04T00:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jl_L2phM75kwiIGPiG3LEzX7Rso=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HJRHTLWLDJDDDIFUONRD7AZHZE.jpg"
         },
         {
           "sourceId": "elnacional",
@@ -103,131 +315,25 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/EDYHH3EZERD7XIB5WSQQOH4MNA.jpg?auth=e50f6b2ebba2959c01e270e1e4a0cf317f5efc9f8ee26173d141e8d8cdc47f6d&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/directivos-de-ueno-bank-se-presentaron-ante-la-justicia-y-ya-quedaron-detenidos"
+        "url": "https://statics.elnacional.com.py/2026/11/6aea6e00d26b7.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/allanan-vivienda-miguel-vazquez-mientras-permanece-detenido-crisis-ueno-bank-n114664"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 23.75
-    },
-    {
-      "id": "ev-0yvg1g9",
-      "title": "Senado aprueba anticipo de hasta G. 120 millones a ahorristas de Ueno Bank",
-      "summary": "El Senado aprobó un proyecto de ley que permite adelantar a los pequeños ahorristas de Ueno Bank hasta 40 salarios mínimos, unos G. 120 millones, con pago en 24 horas. El texto fue aprobado en general y pasa a la Cámara de Diputados para su estudio, por lo que aún no es ley.\n\nEl proyecto modifica la Ley 2334/03 de Garantía de Depósitos. Antes de calcular el monto, se descontarían las deudas vencidas que el cliente tenga con el banco. El monto propuesto inicialmente era de 10 salarios mínimos; el presidente del Senado, Basilio Núñez, propuso ampliarlo a 40.\n\nDiputados convocó a sesión extraordinaria para este miércoles a las 10:00 con este único tema. Por otro lado, la Cámara Nacional de Comercio pidió no usar el Fondo de Garantía para cubrir depósitos públicos, en referencia a un proyecto que busca ampliar la cobertura a fondos públicos, incluidos los previsionales.",
-      "keyPoints": [
-        "El proyecto permite un anticipo de hasta 40 salarios mínimos por depositante.",
-        "El desembolso se haría en un plazo de 24 horas.",
-        "Diputados tratará el proyecto en sesión extraordinaria el miércoles a las 10:00."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado da luz verde a protección de los ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/senado-da-luz-verde-a-proteccion-de-los-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/5Pr066m9nSam5BKBwhv2hdDgUk0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4HE6KTNS7JH5HLMNFK5RIKIDOA.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Comerciantes piden no usar el Fondo de Garantía para cubrir depósitos públicos de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/03/comerciantes-piden-no-usar-el-fondo-de-garantia-para-cubrir-depositos-publicos-de-ueno",
-          "publishedAt": "2026-11-04T01:58:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/URYQZTK7RRGLPAIEALL4P7LZGY.jpg?auth=2d0622b65aaea3f979dda4e5f77739ac466b8541beaac51fc51d8b958372b6a1&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Diputados convoca a sesión para tratar proyecto de ley de protección a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/03/diputados-convoca-a-sesion-para-tratar-proyecto-de-ley-de-proteccion-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T00:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ueno Bank: proyecto para adelantar garantía de depósitos llega a Diputados",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/03/ueno-bank-proyecto-para-adelantar-garantia-de-depositos-llega-a-diputados",
-          "publishedAt": "2026-11-03T23:50:07.125Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/SNYOLNOKKJALXM44ORTAZSTWBA.jpeg?auth=daf402cbe4a730f98179a09a3cda628962f0bae046e6c71c12f8fed97db0f2e7&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Senado aprueba devolución de hasta G. 120 millones a pequeños ahorristas de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/03/senado-aprueba-devolucion-de-hasta-g-120-millones-a-pequenos-ahorristas-de-ueno",
-          "publishedAt": "2026-11-03T22:27:39.130Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/K43CNRFZFJHJXJR5QZMSXUU5ZI.jfif?auth=5462ccc28888fc54b6e33ef8f667b3486ef658ee2b7fcb54aa7ce29d2e7743f0&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado otorga luz verde a la protección de los ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/03/senado-otorga-luz-verde-a-la-proteccion-de-los-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-03T22:06:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6-ubda0EdqDnEwRK7hxM9_lklDo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EHZTH2MTXZGOBOINIGM3JIZOWM.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Senado aprueba adelantar pagos a ahorristas de Ueno Bank en un plazo de 24 horas",
-          "url": "https://www.adndigital.com.py/senado-aprueba-adelantar-pagos-a-ahorristas-de-ueno-bank-en-un-plazo-de-24-horas",
-          "publishedAt": "2026-11-03T21:58:00.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-03-at-185715.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Congreso convoca a sesión extraordinaria para liberar fondos de pequeños ahorristas",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/congreso-convoca-a-sesion-extraordinaria-para-liberar-fondos-de-pequenos-ahorristas",
-          "publishedAt": "2026-11-03T17:16:06.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado convoca a sesión extraordinaria para tratar pago a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/03/senado-convoca-a-sesion-extraordinaria-para-tratar-pago-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-03T16:57:09.000Z",
-          "image": "https://www.lanacion.com.py/resizer/h6FEFb8O9-eZf00LYRv4_V6auP8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B473A46AQNEHPH74R6YUKQ7T6A.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "BCP asegura pago a jubilados y cobertura para pequeños ahorristas",
-          "url": "https://elnacional.com.py/economia/bcp-asegura-pago-jubilados-cobertura-pequenos-ahorristas-n114607",
-          "publishedAt": "2026-11-03T12:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/09/6ab2266a574cd.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4HE6KTNS7JH5HLMNFK5RIKIDOA.jpg?auth=ed91f799d05a21f97c5df00bc37d3092cdfe5fa5b647acacb292cbaadbd47dcf&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/senado-da-luz-verde-a-proteccion-de-los-ahorristas-de-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-04T08:07:11.801Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 20.58
+      "score": 23.99
     },
     {
       "id": "ev-1d2yuce",
-      "title": "BCP denuncia a Ueno Bank ante la Fiscalía por presunta lesión de confianza",
-      "summary": "El Banco Central del Paraguay presentó una denuncia penal de unas 200 páginas contra Ueno Bank ante el Ministerio Público, por presuntas irregularidades en préstamos a empresas vinculadas. El fiscal general Emiliano Rolón Fernández conformó un equipo especial para investigar los hechos.\n\nEl equipo está integrado por Francisco Cabrera, Silvio Corbeta, Jorge Arce y Yeimi Adle Monges, bajo la coordinación de Nancy Salomón. Según la fiscal, los hechos podrían configurar lesión de confianza, estafa y conducta conducente a la quiebra. Las notas también mencionan bonos e inversiones del exterior, que serían parte de la causa.\n\nLa Fiscalía ordenó después la detención de directivos de la entidad. Los hechos aún son materia de investigación y no hay condena.",
+      "title": "Fiscalía prepara imputar a Miguel Vázquez y siete directivos de ueno bank",
+      "summary": "La Fiscalía prepara la imputación de Miguel Vázquez y otros siete directivos de ueno bank. La investigación comenzó con una denuncia del Banco Central del Paraguay (BCP), presentada el martes ante el fiscal general del Estado, que designó a cuatro agentes fiscales para el caso.\n\nSegún Universo 970 AM, los investigados permanecen detenidos mientras avanzan las diligencias, y el Ministerio Público prevería presentar el acta de imputación este miércoles. La causa incluye el embargo de bienes, cuentas y acciones por unos US$ 70 millones. Los hechos que analiza la Fiscalía son lesión de confianza, estafa y conducta conducente a la quiebra, y no se descarta ampliar los cargos.",
       "keyPoints": [
-        "El BCP presentó una denuncia penal de unas 200 páginas.",
-        "La Fiscalía conformó un equipo especial de fiscales.",
-        "Los posibles delitos mencionados son lesión de confianza, estafa y conducta conducente a la quiebra."
+        "La Fiscalía prepara la imputación de ocho directivos de ueno bank.",
+        "La denuncia fue presentada por el Banco Central del Paraguay.",
+        "Los hechos analizados son lesión de confianza, estafa y conducta conducente a la quiebra.",
+        "La causa incluye el embargo de bienes y cuentas por unos US$ 70 millones."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -235,6 +341,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía prepara imputación contra Vázquez y otros siete directivos de ueno",
+          "url": "https://www.adndigital.com.py/fiscalia-prepara-imputacion-contra-vazquez-y-otros-siete-directivos-de-ueno",
+          "publishedAt": "2026-11-04T11:47:40.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f399.png"
+        },
         {
           "sourceId": "telefuturo",
           "sourceName": "Telefuturo",
@@ -293,15 +407,89 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/V6I6AUJX5ZCSHIOPPUWXYOHCSM.jpg?auth=fb89cdf95aac5fdea0850f0ddc0b278841e8e6cfbd9a4eed8612cbc5a8760af7&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/03/fiscales-ordenan-la-detencion-de-directivos-de-ueno-bank"
+        "url": "https://s.w.org/images/core/emoji/11/72x72/1f399.png",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/fiscalia-prepara-imputacion-contra-vazquez-y-otros-siete-directivos-de-ueno"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 19.78
+      "score": 23.97
+    },
+    {
+      "id": "ev-1c719nq",
+      "title": "Wiens exige la renuncia de Peña y Alliana por la crisis bancaria",
+      "summary": "El precandidato presidencial de la disidencia colorada, Arnoldo Wiens, pidió la renuncia del presidente Santiago Peña y del vicepresidente Pedro Alliana. Les atribuye responsabilidad política por la crisis de Ueno Bank.\n\nLa posición es de Wiens como dirigente opositor. Las notas no incluyen una respuesta del Gobierno ni de los dos funcionarios.",
+      "keyPoints": [
+        "Arnoldo Wiens reclama la renuncia de Peña y Alliana.",
+        "Le atribuye responsabilidad política por la crisis de Ueno Bank."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Diputados firman libelo acusatorio contra Santiago Peña y Pedro Alliana",
+          "url": "https://www.ultimahora.com/diputados-firman-libelo-acusatorio-contra-santiago-pena-y-pedro-alliana",
+          "publishedAt": "2026-11-04T11:51:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Wiens exige la salida de Peña y Alliana por crisis bancaria",
+          "url": "https://elnacional.com.py/politica/wiens-exige-salida-pena-alliana-crisis-bancaria-n114673",
+          "publishedAt": "2026-11-04T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a21b84550ddf.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Barrios descarta juicio político a Peña y advierte sobre consecuencias para el país",
+          "url": "https://elnacional.com.py/politica/barrios-descarta-juicio-politico-pena-advierte-sobre-consecuencias-pais-n114626",
+          "publishedAt": "2026-11-03T18:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69d6629e80530.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Oposición exige juicio político para Peña y Alliana",
+          "url": "https://www.telefuturo.com.py/oposicion-exige-juicio-politico-para-pena-y-alliana",
+          "publishedAt": "2026-11-03T17:03:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Oposición anuncia pedido de juicio político contra Santiago Peña y Pedro Alliana",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/oposicion-anuncia-pedido-de-juicio-politico-contra-santiago-pena-y-pedro-alliana",
+          "publishedAt": "2026-11-03T16:06:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Yolanda Paredes va por juicio político contra Peña y pide cierre de fronteras para el grupo Vázquez",
+          "url": "https://elnacional.com.py/politica/yolanda-paredes-va-juicio-politico-pena-pide-cierre-fronteras-grupo-vazquez-n114616",
+          "publishedAt": "2026-11-03T13:08:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0d3ca52418.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/06/6a21b84550ddf.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/wiens-exige-salida-pena-alliana-crisis-bancaria-n114673"
+      },
+      "firstSeenAt": "2026-11-04T08:07:11.801Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
+      "updatedSlot": "manana",
+      "score": 17.98
     },
     {
       "id": "ev-0h5d5kt",
@@ -376,7 +564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 17.75
+      "score": 17.42
     },
     {
       "id": "ev-0vnne77",
@@ -451,7 +639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 17.57
+      "score": 17.24
     },
     {
       "id": "ev-0fkkcke",
@@ -526,7 +714,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 17.05
+      "score": 16.71
     },
     {
       "id": "ev-0ugl0js",
@@ -586,7 +774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 14.76
+      "score": 14.42
     },
     {
       "id": "ev-1i1ewu8",
@@ -645,7 +833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.24
     },
     {
       "id": "ev-11lyzri",
@@ -697,67 +885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 13.91
-    },
-    {
-      "id": "ev-1c719nq",
-      "title": "Oposición anuncia pedido de juicio político contra Peña y Alliana por crisis de Ueno Bank",
-      "summary": "La oposición anunció que impulsará un juicio político contra el presidente Santiago Peña y el ministro Pedro Alliana. La medida se da tras la decisión del Banco Central del Paraguay de iniciar el proceso de resolución de Ueno Bank. Según NPY, la acusación es por presunto mal desempeño de funciones, y la oposición busca reunir los 53 votos necesarios en Diputados.\n\nLa senadora Yolanda Paredes analiza acciones políticas y penales. También planteó la prohibición de salida del país para Peña y la salida de todo el directorio de Ueno Bank. El senador Antonio Barrios descartó el juicio político, aunque reconoció que la crisis tendrá un costo político para el Partido Colorado.\n\nLos legisladores reclamaron respuestas para los ahorristas afectados y garantías para la recuperación de sus fondos.",
-      "keyPoints": [
-        "La oposición busca reunir 53 votos en Diputados para impulsar la acusación.",
-        "El BCP inició el proceso de resolución de Ueno Bank.",
-        "Yolanda Paredes analiza acciones políticas y penales por la crisis bancaria.",
-        "El senador Antonio Barrios descartó un juicio político contra Peña."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Oposición exige juicio político para Peña y Alliana",
-          "url": "https://www.telefuturo.com.py/oposicion-exige-juicio-politico-para-pena-y-alliana",
-          "publishedAt": "2026-11-03T17:03:56.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Oposición anuncia pedido de juicio político contra Santiago Peña y Pedro Alliana",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/oposicion-anuncia-pedido-de-juicio-politico-contra-santiago-pena-y-pedro-alliana",
-          "publishedAt": "2026-11-03T16:06:07.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Yolanda Paredes va por juicio político contra Peña y pide cierre de fronteras para el grupo Vázquez",
-          "url": "https://elnacional.com.py/politica/yolanda-paredes-va-juicio-politico-pena-pide-cierre-fronteras-grupo-vazquez-n114616",
-          "publishedAt": "2026-11-03T13:08:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae0d3ca52418.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Barrios descarta juicio político a Peña y advierte sobre consecuencias para el país",
-          "url": "https://elnacional.com.py/politica/barrios-descarta-juicio-politico-pena-advierte-sobre-consecuencias-pais-n114626",
-          "publishedAt": "2026-11-03T18:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69d6629e80530.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ae0d3ca52418.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/yolanda-paredes-va-juicio-politico-pena-pide-cierre-fronteras-grupo-vazquez-n114616"
-      },
-      "firstSeenAt": "2026-11-04T08:07:11.801Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 13.88
+      "score": 13.57
     },
     {
       "id": "ev-1yniku6",
@@ -809,7 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 13.19
+      "score": 12.85
     },
     {
       "id": "ev-1hz8qxf",
@@ -861,7 +989,51 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 10.61
+      "score": 10.28
+    },
+    {
+      "id": "ev-1dgt57c",
+      "title": "Registro Civil digitalizará actas matrimoniales y permitirá descargar certificados en línea",
+      "summary": "El Registro Civil reemplazará de forma gradual los libros físicos de actas matrimoniales por un sistema electrónico. Los contrayentes firmarán digitalmente en una tableta electrónica y los datos pasarán directo a una base de datos oficial.\n\nLos cónyuges podrán obtener su certificado desde cualquier lugar, ingresando al portal de Identidad Electrónica, sin tener que ir después a una sede registral. Según el titular de la institución, Maximiliano Ayala, el esquema entrará en vigor en breve. Las notas no informan una fecha exacta.",
+      "keyPoints": [
+        "El Registro Civil digitaliza las actas matrimoniales.",
+        "Los contrayentes firmarán con una firma digital.",
+        "El certificado se podrá descargar sin trámite presencial.",
+        "El esquema entrará en vigor en breve, según Maximiliano Ayala."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Registro Civil digitaliza actas matrimoniales y permite descargar certificados sin trámites presenciales",
+          "url": "https://elnacional.com.py/nacionales/registro-civil-digitaliza-actas-matrimoniales-permite-descargar-certificados-tramites-presenciales-n114662",
+          "publishedAt": "2026-11-04T10:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/06/99a65d19a21d5fd01352d197462f0107.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Registro Civil digitaliza las actas matrimoniales",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/04/registro-civil-digitaliza-las-actas-matrimoniales",
+          "publishedAt": "2026-11-04T04:11:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5YMsClNMvVxwVB_RTG6W9E6mSiA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PSEBUWDZZBGQXLCO67PIE7HFJU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2024/06/99a65d19a21d5fd01352d197462f0107.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/registro-civil-digitaliza-actas-matrimoniales-permite-descargar-certificados-tramites-presenciales-n114662"
+      },
+      "firstSeenAt": "2026-11-04T08:07:11.801Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
+      "updatedSlot": "manana",
+      "score": 9.83
     },
     {
       "id": "ev-1c5jkjv",
@@ -905,7 +1077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.66
     },
     {
       "id": "ev-076954m",
@@ -949,7 +1121,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.75
+      "score": 9.41
     },
     {
       "id": "ev-0ko8v1i",
@@ -993,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.25
     },
     {
       "id": "ev-0ui72dx",
@@ -1037,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.49
+      "score": 9.16
     },
     {
       "id": "ev-0vgvcm0",
@@ -1081,7 +1253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.42
+      "score": 9.09
     },
     {
       "id": "ev-0oupou8",
@@ -1125,7 +1297,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 8.99
     },
     {
       "id": "ev-0t63udj",
@@ -1168,7 +1340,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.13
+      "score": 8.8
     },
     {
       "id": "ev-15f77zg",
@@ -1211,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-0b9dr2p",
@@ -1255,7 +1427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.02
+      "score": 8.69
     },
     {
       "id": "ev-1axsoer",
@@ -1299,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.63
     },
     {
       "id": "ev-1ann4o2",
@@ -1342,7 +1514,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.94
+      "score": 8.6
+    },
+    {
+      "id": "ev-0m1skke",
+      "title": "La UCP iniciará Medicina en Asunción en febrero de 2027 en el Centro Histórico",
+      "summary": "La Universidad Central del Paraguay (UCP) se prepara para iniciar las clases de Medicina en Asunción en febrero de 2027, con el traslado de una de sus filiales. La universidad busca que su presencia impulse la recuperación de inmuebles y la llegada de nuevos servicios al Centro Histórico.\n\nEl vicerrector Luis López Lafuente dijo que la universidad quiere atraer inversiones y devolver movimiento a la zona. Según la nota, la iniciativa también apunta a atraer estudiantes nacionales e internacionales.",
+      "keyPoints": [
+        "La UCP iniciará Medicina en Asunción en febrero de 2027.",
+        "La filial se trasladará al Centro Histórico.",
+        "La iniciativa busca atraer inversiones y estudiantes."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La UCP llega a Asunción para impulsar una nueva etapa en el Centro Histórico",
+          "url": "https://www.lanacion.com.py/foco/corebusiness-foco/2026/11/04/la-ucp-llega-a-asuncion-para-impulsar-una-nueva-etapa-en-el-centro-historico",
+          "publishedAt": "2026-11-04T09:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EHdG8lWdAqUfJtqw3sHrbsSaJuA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5CIUWTJQ45D23NVIDHW2LDFMRM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "UCP, proyecto que transforma el corazón de Asunción 04.11.26",
+          "url": "https://www.lanacion.com.py/foco/impreso-business-foco/2026/11/04/ucp-proyecto-que-transforma-el-corazon-de-asuncion-041126",
+          "publishedAt": "2026-11-04T06:08:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XQSoRRJ4OsGL7HuZS8w9NCUsbXY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UYE3Y5Q6IVGHVF6MFOO55DJQJ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5CIUWTJQ45D23NVIDHW2LDFMRM.jpg?auth=4bce2736c6325bb3cf76e8e0ba2b4f82a718de7688983a0318f8401c49bdfdd2&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/foco/corebusiness-foco/2026/11/04/la-ucp-llega-a-asuncion-para-impulsar-una-nueva-etapa-en-el-centro-historico"
+      },
+      "firstSeenAt": "2026-11-04T08:07:11.801Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-04T12:07:13.705Z",
+      "updatedSlot": "manana",
+      "score": 6.74
     },
     {
       "id": "ev-0vdked4",
@@ -1385,7 +1600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.33
     },
     {
       "id": "ev-1y0xyxk",
@@ -1429,7 +1644,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.65
+      "score": 6.32
     },
     {
       "id": "ev-0jjujzf",
@@ -1473,7 +1688,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.64
+      "score": 6.3
     },
     {
       "id": "ev-0y5ve6y",
@@ -1517,7 +1732,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1ay1e5t",
@@ -1548,7 +1763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1h7xvs1",
@@ -1578,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-16oov02",
@@ -1608,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0fqy7p6",
@@ -1637,7 +1852,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0zsqqiw",
@@ -1666,7 +1881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-047jdjd",
@@ -1695,7 +1910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0yk3kj1",
@@ -1733,40 +1948,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.9
-    },
-    {
-      "id": "ev-0m1skke",
-      "title": "UCP, proyecto que transforma el corazón de Asunción 04.11.26",
-      "summary": "UCP, proyecto que transforma el corazón de Asunción",
-      "keyPoints": [
-        "UCP, proyecto que transforma el corazón de Asunción"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "UCP, proyecto que transforma el corazón de Asunción 04.11.26",
-          "url": "https://www.lanacion.com.py/foco/impreso-business-foco/2026/11/04/ucp-proyecto-que-transforma-el-corazon-de-asuncion-041126",
-          "publishedAt": "2026-11-04T06:08:30.000Z",
-          "image": "https://www.lanacion.com.py/resizer/XQSoRRJ4OsGL7HuZS8w9NCUsbXY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UYE3Y5Q6IVGHVF6MFOO55DJQJ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UYE3Y5Q6IVGHVF6MFOO55DJQJ4.jpg?auth=d9f3cf745d5b008a9d2c911cc618705feef64bcca2dd994b33655daf25de23d4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/foco/impreso-business-foco/2026/11/04/ucp-proyecto-que-transforma-el-corazon-de-asuncion-041126"
-      },
-      "firstSeenAt": "2026-11-04T08:07:11.801Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 5.84
+      "score": 5.56
     },
     {
       "id": "ev-1v64fyl",
@@ -1801,7 +1983,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.4
     },
     {
       "id": "ev-1o2wnzx",
@@ -1836,7 +2018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.39
     },
     {
       "id": "ev-1p1fuj0",
@@ -1868,7 +2050,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.39
     },
     {
       "id": "ev-1v7yl9m",
@@ -1903,7 +2085,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.72
+      "score": 5.39
     },
     {
       "id": "ev-101styu",
@@ -1938,42 +2120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.68
-    },
-    {
-      "id": "ev-1dgt57c",
-      "title": "Registro Civil digitalizará las actas matrimoniales y emitirá certificados electrónicos",
-      "summary": "El Registro del Estado Civil comenzará a recibir las actas matrimoniales en formato digital. Las parejas podrán obtener su certificado oficial de forma electrónica e inmediata, sin el trámite presencial posterior.\n\nEl titular de la institución, Maximiliano Ayala, dijo que el esquema entrará en vigor en breve. Los cónyuges firmarán en una tableta electrónica en lugar de hacerlo en papel, y los datos ingresarán al servidor central.\n\nAyala señaló que la principal ventaja será poder obtener el certificado desde cualquier lugar, a través del portal de Identidad Electrónica.",
-      "keyPoints": [
-        "Las actas matrimoniales pasarán a formato digital.",
-        "Los cónyuges firmarán en tableta electrónica.",
-        "El certificado se podrá descargar desde el portal de Identidad Electrónica."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Registro Civil digitaliza las actas matrimoniales",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/04/registro-civil-digitaliza-las-actas-matrimoniales",
-          "publishedAt": "2026-11-04T04:11:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/5YMsClNMvVxwVB_RTG6W9E6mSiA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PSEBUWDZZBGQXLCO67PIE7HFJU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PSEBUWDZZBGQXLCO67PIE7HFJU.jpg?auth=71a7c92394974d2976cf124959930730e30605c9594b0c2a074223ff5b886a7c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/04/registro-civil-digitaliza-las-actas-matrimoniales"
-      },
-      "firstSeenAt": "2026-11-04T08:07:11.801Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.35
     },
     {
       "id": "ev-1tzx6bd",
@@ -2004,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1b1ians",
@@ -2040,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0ozu4u1",
@@ -2073,7 +2220,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1d7lkbt",
@@ -2125,7 +2272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.25
+      "score": 4.91
     },
     {
       "id": "ev-1xx65wd",
@@ -2161,7 +2308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.98
+      "score": 4.65
     },
     {
       "id": "ev-1bpljrm",
@@ -2197,7 +2344,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.24
     },
     {
       "id": "ev-0to0xhk",
@@ -2237,7 +2384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.28
+      "score": 3.95
     },
     {
       "id": "ev-1omcg2m",
@@ -2277,7 +2424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.27
+      "score": 3.93
     },
     {
       "id": "ev-1dmpzym",
@@ -2309,7 +2456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 3.31
+      "score": 2.98
     }
   ],
   "runs": [
@@ -2319,6 +2466,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 71
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-04T12:07:13.705Z",
+      "added": 0,
+      "updated": 11,
+      "candidates": 27
     }
   ]
 }
