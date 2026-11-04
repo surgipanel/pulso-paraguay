@@ -1,20 +1,20 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-04T19:37:19.198Z",
+  "generatedAt": "2026-11-04T23:07:11.985Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0yvg1g9",
-      "title": "Senado aprueba ley para acelerar pago a ahorristas de Ueno Bank",
-      "summary": "El Senado aprobó un proyecto de ley para acelerar la devolución de depósitos a los ahorristas afectados por la crisis de Ueno Bank. El texto prevé un anticipo de hasta 40 salarios mínimos por depositante y pagos en un plazo de 24 horas desde la promulgación.\n\nDiputados aprobó el proyecto con cambios, por lo que vuelve al Senado. Se mantuvo el plazo de 24 horas y se agregó un plazo prudencial de hasta 5 días hábiles. Se eliminó la habilitación temporal de la app de Ueno Bank, porque el sistema está inoperativo por el proceso de resolución.\n\nEl presidente Santiago Peña anunció cambios en la cúpula del Banco Central y confirmó el envío del acuerdo para designar a Raúl Vera Bogado como presidente del BCP. También propuso a Pedro Acosta y Edsel González Fariña para el directorio. El Senado aún debe sancionar la ley para que pase al Ejecutivo.",
+      "title": "Diputados modifican proyecto de devolución de depósitos de Ueno y vuelve al Senado",
+      "summary": "La Cámara de Diputados aprobó con modificaciones el proyecto de ley que busca acelerar la devolución de depósitos a los ahorristas afectados por la crisis de Ueno Bank. Por los cambios, el texto vuelve al Senado para un nuevo estudio.\n\nLa iniciativa mantiene el mecanismo para pagar en un plazo de 24 horas, con un límite máximo de cinco días hábiles. Los diputados consideraron que, tal como estaba, algunos puntos harían inviable su aplicación una vez promulgada la ley.\n\nSe eliminó el artículo que habilitaba temporalmente la aplicación de Ueno Bank y el acceso al Sistema de Pagos del Paraguay (SIPAP), porque la plataforma está fuera de servicio por el proceso de resolución. Si el Senado lo aprueba, el proyecto quedará pendiente de su remisión al Poder Ejecutivo.",
       "keyPoints": [
-        "El proyecto prevé un anticipo de hasta 40 salarios mínimos por depositante.",
-        "Diputados aprobó con cambios y el texto vuelve al Senado.",
-        "Se eliminó la habilitación temporal de la app de Ueno Bank.",
-        "Peña propuso a Raúl Vera Bogado para presidir el BCP."
+        "Diputados aprobaron con cambios el proyecto de devolución de depósitos de Ueno Bank.",
+        "Los pagos deberían hacerse en hasta 24 horas, con un máximo de cinco días hábiles.",
+        "Se suprimió la habilitación de la aplicación de Ueno Bank y el acceso al SIPAP.",
+        "El texto debe volver a ser analizado por el Senado."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
+          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
+          "publishedAt": "2026-11-04T20:05:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Formalizan pedido de juicio político contra Peña y Alliana",
+          "url": "https://www.adndigital.com.py/formalizan-pedido-de-juicio-politico-contra-pena-y-alliana",
+          "publishedAt": "2026-11-04T19:47:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164705.jpeg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -149,6 +165,14 @@
           "url": "https://www.lanacion.com.py/politica/2026/11/04/ley-de-proteccion-de-ahorristas-diputados-incluira-nueva-modificacion",
           "publishedAt": "2026-11-04T12:57:36.000Z",
           "image": "https://www.lanacion.com.py/resizer/PccnonjQ-_15M2_k0Osvb6ZSDSg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RH6VDO5ZNVCENI56MVLJOSAG4A.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición reúne firmas para libelo acusatorio contra Peña y Alliana: \"Las causales hay de sobra\"",
+          "url": "https://elnacional.com.py/politica/oposicion-reune-firmas-libelo-acusatorio-pena-alliana-las-causales-hay-sobra-n114686",
+          "publishedAt": "2026-11-04T12:13:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb2c7843151.jpg"
         },
         {
           "sourceId": "abc",
@@ -312,32 +336,64 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg?auth=be77cf0dee9d26eabc010d688a2538252a0d57a902f8cabe82606298dbc25bc6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T19:37:19.198Z",
+      "updatedAt": "2026-11-04T23:07:11.985Z",
       "updatedSlot": "tarde",
-      "score": 29.96
+      "score": 29.75
     },
     {
       "id": "ev-15ql8kv",
-      "title": "Fiscalía imputa a 27 personas por caso Ueno Bank y pide prisión para Vázquez",
-      "summary": "El Ministerio Público imputó a 27 personas vinculadas al caso Ueno Bank por presuntas irregularidades financieras. Entre ellas están directivos de la entidad y personas ligadas a empresas investigadas. La Fiscalía pidió prisión preventiva para Federico Miguel Vázquez Villasanti.\n\nSegún la Fiscalía, los investigados habrían autorizado operaciones entre 2025 y 2026 que comprometieron los activos del banco. Los delitos atribuidos son conducta indebida en situaciones de crisis, lesión de confianza, tentativa de estafa y violación de llevar libros de comercio. Para los demás imputados se pidió arresto domiciliario con monitoreo electrónico.\n\nEn las notas también se informó de un allanamiento en una vivienda de Vázquez, donde habrían sido localizados vehículos de alta gama, según El Nacional. Las imputaciones son acusaciones que deberá evaluar la Justicia; los imputados presumen su inocencia.",
+      "title": "Fiscalía imputa a 27 personas por caso Ueno y pide prisión para Vázquez",
+      "summary": "El Ministerio Público imputó a 27 personas vinculadas a Ueno Bank por presuntas irregularidades financieras. Entre ellas está el directivo Federico Miguel Vázquez Villasanti, para quien la Fiscalía pidió prisión preventiva. Los hechos atribuidos son lesión de confianza, tentativa de estafa, conducta indebida en situaciones de crisis y violación de la obligación de llevar libros de comercio.\n\nEl juez Humberto Otazú admitió la imputación. Según La Nación, la audiencia de imposición de medidas está fijada para el jueves 5 de noviembre a partir de las 7:30, ante el juez Rodrigo Estigarribia. Según ABC Color, la Fiscalía pidió arresto domiciliario con tobillera para siete de los imputados y fianza para los otros 19.\n\nLa Fiscalía sostiene que los directivos habrían autorizado operaciones entre 2025 y 2026 que comprometieron los activos del banco. Son hipótesis de la investigación. Los imputados no están condenados.",
       "keyPoints": [
-        "La Fiscalía imputó a 27 personas por el caso Ueno Bank.",
-        "Se pidió prisión preventiva para Federico Miguel Vázquez Villasanti.",
-        "Los imputados enfrentan cargos como lesión de confianza y tentativa de estafa.",
-        "Según El Nacional, se realizó un allanamiento en una vivienda de Vázquez."
+        "Son 27 imputados por lesión de confianza y otros delitos.",
+        "La Fiscalía pidió prisión preventiva para Federico Miguel Vázquez Villasanti.",
+        "La audiencia de medidas es el jueves 5 de noviembre a las 7:30.",
+        "Son imputaciones, no condenas."
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Caso ueno bank: Juez admite imputación y convoca a los 27 procesados",
+          "url": "https://www.ultimahora.com/caso-ueno-bank-juez-admite-imputacion-y-convoca-a-los-27-procesados",
+          "publishedAt": "2026-11-04T22:32:03.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "ueno bank: juez admite imputación y convoca a audiencia de imposición de medidas para este jueves",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/04/ueno-bank-juez-admite-imputacion-y-convoca-a-audiencia-de-imposicion-de-medidas-para-este-jueves",
+          "publishedAt": "2026-11-04T20:45:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0Qff81kmukov5bjVcVERLM0QVYM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OA5U7KE3GVGEDGR5WAHYOOCII4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Imputan a 27 personas por presunto esquema irregular en Ueno Bank",
+          "url": "https://www.adndigital.com.py/imputan-a-27-personas-por-presunto-esquema-irregular-en-ueno-bank",
+          "publishedAt": "2026-11-04T19:41:54.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164104.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "La Fiscalía imputa a 27 por caso Ueno Bank",
+          "url": "https://5dias.com.py/article/la-fiscala-imputa-a-27-por-caso-ueno-bank",
+          "publishedAt": "2026-11-04T19:17:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-04_at_7.23.16_PM_20261104_192330.jpeg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -369,6 +425,14 @@
           "url": "https://www.abc.com.py/nacionales/2026/11/04/caso-ueno-imputan-a-exdirectivos-por-supuesta-lesion-de-confianza-y-otros-delitos",
           "publishedAt": "2026-11-04T17:58:54.000Z",
           "image": "https://www.abc.com.py/resizer/ygZIOTrAQXxQ8DqPYzEJbSI--Dk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4LRURXGUGVA2PKEBZVRROXBVN4.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía pide prisión preventiva para Miguel Vázquez e imputa a otros 26 directivos de Grupo Vázquez",
+          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-vicepresidente-de-ueno-bank-por-presuntas-irregularidades",
+          "publishedAt": "2026-11-04T16:44:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_yrks5wyrks5wyrks_20261104_165457.jpg"
         },
         {
           "sourceId": "abc",
@@ -516,15 +580,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/T2DHH27DBJE5HHMMQO27TZ4LKQ.jpeg?auth=323711029bbe33b98b00d8f7b0aff8089b80d8d2fb52df0e7fb774ed5980b22f&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OA5U7KE3GVGEDGR5WAHYOOCII4.jpg?auth=8435750de6f2b22d6cfca7552533737e409287c4b2b2d72e4f0bbec29c1056e8&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/04/caso-ueno-bank-imputan-a-27-personas-y-piden-prision-de-miguel-vazquez"
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/04/ueno-bank-juez-admite-imputacion-y-convoca-a-audiencia-de-imposicion-de-medidas-para-este-jueves"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T19:37:19.198Z",
+      "updatedAt": "2026-11-04T23:07:11.985Z",
       "updatedSlot": "tarde",
-      "score": 26.9
+      "score": 26.95
     },
     {
       "id": "ev-1c719nq",
@@ -648,7 +712,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T16:07:12.856Z",
       "updatedSlot": "tarde",
-      "score": 23.63
+      "score": 23.34
     },
     {
       "id": "ev-1d2yuce",
@@ -740,7 +804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 23.35
+      "score": 23.06
     },
     {
       "id": "ev-1yniku6",
@@ -807,7 +871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T16:07:12.856Z",
       "updatedSlot": "tarde",
-      "score": 17.69
+      "score": 17.4
     },
     {
       "id": "ev-0h5d5kt",
@@ -882,7 +946,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 16.79
+      "score": 16.5
     },
     {
       "id": "ev-0vnne77",
@@ -957,7 +1021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 16.61
+      "score": 16.32
     },
     {
       "id": "ev-0fkkcke",
@@ -1032,7 +1096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 16.09
+      "score": 16
     },
     {
       "id": "ev-0oupou8",
@@ -1084,7 +1148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T19:37:19.198Z",
       "updatedSlot": "tarde",
-      "score": 13.91
+      "score": 13.62
     },
     {
       "id": "ev-0ugl0js",
@@ -1144,7 +1208,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 13.8
+      "score": 13.51
     },
     {
       "id": "ev-1i1ewu8",
@@ -1203,7 +1267,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.33
     },
     {
       "id": "ev-11lyzri",
@@ -1255,7 +1319,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 12.95
+      "score": 12.66
     },
     {
       "id": "ev-0y5ve6y",
@@ -1306,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T16:07:12.856Z",
       "updatedSlot": "tarde",
-      "score": 10.57
+      "score": 10.28
     },
     {
       "id": "ev-1hz8qxf",
@@ -1358,7 +1422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.36
     },
     {
       "id": "ev-1dgt57c",
@@ -1402,7 +1466,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 9.21
+      "score": 8.91
     },
     {
       "id": "ev-1c5jkjv",
@@ -1446,7 +1510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.03
+      "score": 8.74
     },
     {
       "id": "ev-076954m",
@@ -1490,7 +1554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.5
     },
     {
       "id": "ev-0ko8v1i",
@@ -1534,7 +1598,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-0ui72dx",
@@ -1578,7 +1642,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.24
     },
     {
       "id": "ev-0vgvcm0",
@@ -1622,7 +1686,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-0t63udj",
@@ -1665,7 +1729,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-15f77zg",
@@ -1708,7 +1772,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.11
+      "score": 8
     },
     {
       "id": "ev-0b9dr2p",
@@ -1752,7 +1816,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.06
+      "score": 8
     },
     {
       "id": "ev-1axsoer",
@@ -1882,7 +1946,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-0vdked4",
@@ -1925,7 +1989,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.41
     },
     {
       "id": "ev-1y0xyxk",
@@ -1969,7 +2033,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.4
     },
     {
       "id": "ev-0jjujzf",
@@ -2013,7 +2077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.39
     },
     {
       "id": "ev-0yk3kj1",
@@ -2082,7 +2146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1h7xvs1",
@@ -2112,7 +2176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-16oov02",
@@ -2142,7 +2206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0fqy7p6",
@@ -2171,7 +2235,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-0zsqqiw",
@@ -2200,7 +2264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-047jdjd",
@@ -2229,7 +2293,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1v64fyl",
@@ -2264,7 +2328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.49
     },
     {
       "id": "ev-1o2wnzx",
@@ -2299,7 +2363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.77
+      "score": 4.48
     },
     {
       "id": "ev-1p1fuj0",
@@ -2331,7 +2395,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.77
+      "score": 4.48
     },
     {
       "id": "ev-1v7yl9m",
@@ -2366,7 +2430,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.77
+      "score": 4.47
     },
     {
       "id": "ev-101styu",
@@ -2401,7 +2465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.43
     },
     {
       "id": "ev-1tzx6bd",
@@ -2432,7 +2496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1b1ians",
@@ -2468,7 +2532,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0ozu4u1",
@@ -2501,7 +2565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1d7lkbt",
@@ -2553,7 +2617,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.29
+      "score": 4
     },
     {
       "id": "ev-1xx65wd",
@@ -2589,7 +2653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.02
+      "score": 4
     },
     {
       "id": "ev-1bpljrm",
@@ -2665,7 +2729,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 3.32
+      "score": 3.03
     },
     {
       "id": "ev-1omcg2m",
@@ -2705,7 +2769,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 3.31
+      "score": 3.02
     },
     {
       "id": "ev-1dmpzym",
@@ -2737,7 +2801,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 2.35
+      "score": 2.06
     }
   ],
   "runs": [
@@ -2768,6 +2832,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-04T23:07:11.985Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 19
     }
   ]
 }
