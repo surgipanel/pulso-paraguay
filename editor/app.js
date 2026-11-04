@@ -312,7 +312,7 @@
         renderResults();
         $("q").value = "";
       } else {
-        progress("Todavía no aparece", "GitHub está demorando más de lo habitual. Si en unos minutos no está en la lista de abajo, volvé a intentarlo.", url);
+        progress("Todavía no aparece", "GitHub está demorando más de lo habitual. El pedido ya salió y la noticia va a aparecer sola: no hace falta publicarla de nuevo. Solo si en una hora no está en la lista de abajo, volvé a intentarlo.", url);
       }
       state.draft = null;
     } catch (err) {
