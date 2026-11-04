@@ -1,20 +1,19 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-04T12:07:13.705Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-04T16:07:12.856Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0yvg1g9",
-      "title": "BCP habilita pago inicial de hasta G. 10 millones a ahorristas de ueno bank",
-      "summary": "El Banco Central del Paraguay anunció que los ahorristas de ueno bank recibirán un primer pago de hasta G. 10 millones por persona, a través del Fondo de Garantía de Depósitos. Según la presidenta interina, Liana Caballero, el desembolso se haría este viernes.\n\nEl monto restante, que puede alcanzar los G. 218 millones, se pagará dentro de 15 días. La devolución se calculará luego de compensar los depósitos con las deudas que cada cliente tenga con el banco. El BCP también habilitará un catastro para quienes tengan Certificados de Depósito de Ahorro (CDA). El límite de la garantía es de G. 228.300.000 por persona y por entidad financiera, y no se multiplica por cuentas o instrumentos.",
+      "title": "BCP pagará a ahorristas de Ueno Bank en tres tramos",
+      "summary": "El Banco Central del Paraguay (BCP) anunció cómo devolverá los depósitos de los ahorristas de Ueno Bank. La presidenta interina, Liana Caballero, habló de pagar en tres tramos y de evitar demoras prolongadas.\n\nSegún La Nación, primero se abonará hasta G. 10 millones por ahorrista. El monto restante, que puede alcanzar los G. 218 millones, se pagaría dentro de 15 días. Quienes tienen cuenta en otra entidad financiera tendrán un cruce de datos para verificar la titularidad.\n\nPara los clientes que operaban solo con Ueno Bank, el BCP trabajará con el sistema financiero para habilitar cuentas temporales, con un plazo inicial de al menos tres días hábiles. También habilitará un catastro para los certificados de depósito de ahorro, con garantía estatal de hasta 75 salarios mínimos.",
       "keyPoints": [
-        "Primer pago de hasta G. 10 millones por ahorrista, previsto para este viernes.",
-        "El resto, de hasta G. 218 millones, se pagará en 15 días.",
-        "El BCP habilitará un catastro para tenedores de CDA.",
-        "El límite de garantía es de G. 228.300.000 por persona y entidad."
+        "El primer pago es de hasta G. 10 millones por ahorrista.",
+        "El monto restante se pagaría dentro de 15 días, según La Nación.",
+        "Para clientes solo de Ueno, el plazo inicial es de tres días hábiles."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -22,6 +21,38 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Titular de Diputados ratifica que prioridad es la protección de ahorristas",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/titular-de-diputados-ratifica-que-prioridad-es-la-proteccion-de-ahorristas",
+          "publishedAt": "2026-11-04T15:24:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OsHoc4Yfuj1wqtH4dMPVNamgfqs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZRGFKRSILFDQ5H3JHPUW6OT3XI.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cómo pagará el BCP a los ahorristas de Ueno Bank: plazos, tramos y detalles del proceso",
+          "url": "https://www.abc.com.py/economia/2026/11/04/como-pagara-el-bcp-a-los-ahorristas-de-ueno-bank-plazos-tramos-y-detalles-del-proceso",
+          "publishedAt": "2026-11-04T14:15:20.000Z",
+          "image": "https://www.abc.com.py/resizer/kKuiR7DXUjEPIac-9kbxHaF0cDY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LHJATE34ANH55OAQUHVSZ3YB4I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: plantearán nuevas modificaciones a la ley del Fondo de Garantías para pagar a los ahorristas",
+          "url": "https://www.abc.com.py/economia/2026/11/04/ueno-bank-impulsan-modificaciones-a-la-ley-del-fondo-de-garantias-para-pagar-a-los-ahorristas",
+          "publishedAt": "2026-11-04T14:12:54.000Z",
+          "image": "https://www.abc.com.py/resizer/CQDHmRjOHWebsXXy0voTinzW6vM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5UKU3U5P5VB5FPRYJDDVVK6ZSA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ley de protección de ahorristas: Diputados incluirá nueva modificación",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/ley-de-proteccion-de-ahorristas-diputados-incluira-nueva-modificacion",
+          "publishedAt": "2026-11-04T12:57:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PccnonjQ-_15M2_k0Osvb6ZSDSg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RH6VDO5ZNVCENI56MVLJOSAG4A.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -184,24 +215,24 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JLOZTNDH5RCSZC7MBPUM36E7XE.jpg?auth=bb082a589dac7ec1cab85250110823db475c827e2e5592c74fadc2b655d51451&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/banca-matriz-anuncia-primer-pago-de-hasta-g-10-millones-a-ahorristas"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LHJATE34ANH55OAQUHVSZ3YB4I.jpg?auth=b428b871f6816907972e5cff25570d21f7699a3fe87463a567ce8c7f8af2ced9&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/04/como-pagara-el-bcp-a-los-ahorristas-de-ueno-bank-plazos-tramos-y-detalles-del-proceso"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T12:07:13.705Z",
-      "updatedSlot": "manana",
-      "score": 26.96
+      "updatedAt": "2026-11-04T16:07:12.856Z",
+      "updatedSlot": "tarde",
+      "score": 26.94
     },
     {
       "id": "ev-15ql8kv",
-      "title": "Fiscales allanan la residencia de Miguel Vázquez y se llevan documentos",
-      "summary": "Fiscales y policías allanaron la casa de Miguel Vázquez en el barrio La Piedad, de Asunción. Según el comisario José Flores, se llevaron solo documentos y placas de vehículos, que serán analizados.\n\nEl comisario Hugo Grance dijo que no se halló computadora ni caja fuerte. Quedaron siete vehículos, algunos de alta gama, bajo guarda fiscal. Un medio habló de un valor estimado de US$ 1,4 millones para los rodados, dato que no fue confirmado por las autoridades.",
+      "title": "Fiscales allanan casa de Miguel Vázquez y encuentran nueve vehículos de lujo",
+      "summary": "Fiscales y policías allanaron la residencia de Federico Miguel Vázquez Villasanti en el barrio Mbocayaty de Asunción, según El Nacional. El procedimiento busca pruebas informáticas y documentales para la investigación por presunta lesión de confianza y otros delitos financieros.\n\nEl grupo fiscal está encabezado por Silvio Corbeta, Jorge Arce y Yeimy Adle. Según El Nacional, en la vivienda se localizaron nueve vehículos de alta gama sin chapa, entre ellos un Porsche 911 GT3 y un Bentley Continental GT.\n\nEl valor estimado del conjunto rondaría los US$ 1,4 millones, según la misma fuente. Es el primer allanamiento en torno al caso y se realizó tras la entrega de Vázquez, que ya está recluido junto a otros directivos.",
       "keyPoints": [
-        "Fiscales y policías allanaron la casa de Miguel Vázquez en Asunción.",
-        "Se llevaron solo documentos y placas de vehículos.",
-        "No se halló computadora ni caja fuerte, según la Policía."
+        "El allanamiento busca pruebas informáticas y documentales.",
+        "Según El Nacional, hay nueve vehículos de alta gama sin chapa.",
+        "El valor estimado rondaría los US$ 1,4 millones."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -209,6 +240,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Miguel Vázquez, el unicornio que no pudo ser: una mansión, vehículos de alta gama y un mundo de lujos",
+          "url": "https://www.abc.com.py/nacionales/2026/11/04/miguel-vazquez-el-unicornio-que-no-pudo-ser-una-mansion-vehiculos-de-alta-gama-y-un-mundo-de-lujos",
+          "publishedAt": "2026-11-04T15:53:44.000Z",
+          "image": "https://www.abc.com.py/resizer/QEY7SfyBznHVc8KOcUh98oES8f4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NRDVLENHHRFCTAIXN5EAJYQILE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Directivos de Ueno bank declaran ante Fiscalía en Paraguay entre reclamos de afectados",
+          "url": "https://www.abc.com.py/internacionales/2026/11/04/directivos-de-ueno-bank-declaran-ante-fiscalia-en-paraguay-entre-reclamos-de-afectados",
+          "publishedAt": "2026-11-04T13:50:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -222,6 +269,14 @@
           "sourceName": "El Nacional",
           "title": "Directivos detenidos de ueno bank declaran hoy ante la Fiscalía",
           "url": "https://elnacional.com.py/politica/directivos-detenidos-ueno-bank-declaran-hoy-fiscalia-n114685",
+          "publishedAt": "2026-11-04T11:51:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Directivos detenidos de ueno bank declaran hoy ante la Fiscalía",
+          "url": "https://elnacional.com.py/economia/directivos-detenidos-ueno-bank-declaran-hoy-fiscalia-n114685",
           "publishedAt": "2026-11-04T11:51:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
         },
@@ -312,18 +367,158 @@
           "url": "https://elnacional.com.py/politica/miguel-vazquez-entrega-policia-medio-crisis-ueno-bank-n114657",
           "publishedAt": "2026-11-03T19:24:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aea35391dd5e.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caen dos directivos de Ueno Bank tras orden de detención fiscal",
+          "url": "https://elnacional.com.py/economia/caen-dos-directivos-ueno-bank-tras-orden-detencion-fiscal-n114653",
+          "publishedAt": "2026-11-03T18:01:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aea21c411c44.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Confirman orden de detención para directores de ueno bank",
+          "url": "https://elnacional.com.py/economia/confirman-orden-detencion-directores-ueno-bank-n114649",
+          "publishedAt": "2026-11-03T17:02:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69f0e71e3a012.jpg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aea6e00d26b7.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/allanan-vivienda-miguel-vazquez-mientras-permanece-detenido-crisis-ueno-bank-n114664"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NRDVLENHHRFCTAIXN5EAJYQILE.jpg?auth=c01e4188e6fc760eab17ccfbd5d53018c489627a54c7e4f5a9117857d85d8319&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/11/04/miguel-vazquez-el-unicornio-que-no-pudo-ser-una-mansion-vehiculos-de-alta-gama-y-un-mundo-de-lujos"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T12:07:13.705Z",
-      "updatedSlot": "manana",
-      "score": 23.99
+      "updatedAt": "2026-11-04T16:07:12.856Z",
+      "updatedSlot": "tarde",
+      "score": 23.98
+    },
+    {
+      "id": "ev-1c719nq",
+      "title": "Oposición presenta libelo para juicio político contra Peña y Alliana",
+      "summary": "Legisladores de la oposición y de la disidencia colorada presentaron libelos acusatorios para un juicio político contra el presidente Santiago Peña y el vicepresidente Pedro Alliana. La iniciativa se da tras el inicio de la resolución de Ueno Bank.\n\nSegún el proyecto, a Peña se le atribuye conflicto de intereses por su vínculo con Ueno Holding, y se lo acusa de haber permitido la concentración de fondos del IPS en el banco. Al vicepresidente Alliana se le atribuye haber avalado la colocación de fondos previsionales. Son acusaciones de los proponentes, que los autores no comprobaron en las notas.\n\nLa disidencia colorada dijo que acompañará el pedido contra Peña, pero no contra Alliana. Según los promotores, el proyecto necesita el respaldo de Diputados y luego el Senado juzgaría a ambos. Las cifras de firmas varían entre las notas, por lo que no quedan claros los votos necesarios.",
+      "keyPoints": [
+        "Se presentaron libelos acusatorios contra Peña y Alliana en Diputados.",
+        "Al presidente se le atribuye conflicto de intereses y fondos del IPS en Ueno.",
+        "La disidencia colorada apoya el pedido solo contra Peña.",
+        "Las notas dan distintas cantidades de firmas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: pedirán sesión extraordinaria de Diputados para tratar juicios a Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/04/ueno-bank-pediran-sesion-extraordinaria-de-diputados-para-tratar-juicios-a-pena-y-alliana",
+          "publishedAt": "2026-11-04T15:13:13.000Z",
+          "image": "https://www.abc.com.py/resizer/hJOjq5prAejbUU-1iIhXnHupNcI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WUGPWCAWVZAFTMJV6GCPRNCRSE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Disidencia colorada acompaña juicio político a Peña, pero excluye a Alliana",
+          "url": "https://www.adndigital.com.py/disidencia-colorada-acompana-juicio-politico-a-pena-pero-excluye-a-alliana",
+          "publishedAt": "2026-11-04T14:11:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/whatsapp-image-2025-11-30-at-122023.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "En Diputados se presenta libelo acusatorio para juicio político de Peña y Alliana",
+          "url": "https://www.adndigital.com.py/en-diputados-se-presenta-libelo-acusatorio-para-juicio-politico-de-pena-y-alliana",
+          "publishedAt": "2026-11-04T14:08:34.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/whatsapp-image-2025-07-08-at-175908.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Disidencia colorada y oposición firman el libelo para juicio político",
+          "url": "https://www.telefuturo.com.py/disidencia-colorada-y-oposicion-firman-el-libelo-para-juicio-politico",
+          "publishedAt": "2026-11-04T14:01:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno: Diputados inician firma de libelo acusatorio para juicio político contra Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/04/caso-ueno-diputados-inician-firma-de-libelo-acusatorio-para-juicio-politico-contra-pena-y-alliana",
+          "publishedAt": "2026-11-04T12:29:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición reúne firmas para libelo acusatorio contra Peña y Alliana: \"Las causales hay de sobra\"",
+          "url": "https://elnacional.com.py/politica/oposicion-reune-firmas-libelo-acusatorio-pena-alliana-las-causales-hay-sobra-n114686",
+          "publishedAt": "2026-11-04T12:13:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb2c7843151.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Diputados firman libelo acusatorio contra Santiago Peña y Pedro Alliana",
+          "url": "https://www.ultimahora.com/diputados-firman-libelo-acusatorio-contra-santiago-pena-y-pedro-alliana",
+          "publishedAt": "2026-11-04T11:51:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Wiens exige la salida de Peña y Alliana por crisis bancaria",
+          "url": "https://elnacional.com.py/politica/wiens-exige-salida-pena-alliana-crisis-bancaria-n114673",
+          "publishedAt": "2026-11-04T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/06/6a21b84550ddf.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Barrios descarta juicio político a Peña y advierte sobre consecuencias para el país",
+          "url": "https://elnacional.com.py/politica/barrios-descarta-juicio-politico-pena-advierte-sobre-consecuencias-pais-n114626",
+          "publishedAt": "2026-11-03T18:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69d6629e80530.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Oposición exige juicio político para Peña y Alliana",
+          "url": "https://www.telefuturo.com.py/oposicion-exige-juicio-politico-para-pena-y-alliana",
+          "publishedAt": "2026-11-03T17:03:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Oposición anuncia pedido de juicio político contra Santiago Peña y Pedro Alliana",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/oposicion-anuncia-pedido-de-juicio-politico-contra-santiago-pena-y-pedro-alliana",
+          "publishedAt": "2026-11-03T16:06:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Yolanda Paredes va por juicio político contra Peña y pide cierre de fronteras para el grupo Vázquez",
+          "url": "https://elnacional.com.py/politica/yolanda-paredes-va-juicio-politico-pena-pide-cierre-fronteras-grupo-vazquez-n114616",
+          "publishedAt": "2026-11-03T13:08:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae0d3ca52418.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/WUGPWCAWVZAFTMJV6GCPRNCRSE.jpg?auth=9520b5730d142750583d22149064acf34d775ad14975f32eaff1402d37b09fa5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/04/ueno-bank-pediran-sesion-extraordinaria-de-diputados-para-tratar-juicios-a-pena-y-alliana"
+      },
+      "firstSeenAt": "2026-11-04T08:07:11.801Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-04T16:07:12.856Z",
+      "updatedSlot": "tarde",
+      "score": 23.93
     },
     {
       "id": "ev-1d2yuce",
@@ -415,15 +610,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 23.97
+      "score": 23.64
     },
     {
-      "id": "ev-1c719nq",
-      "title": "Wiens exige la renuncia de Peña y Alliana por la crisis bancaria",
-      "summary": "El precandidato presidencial de la disidencia colorada, Arnoldo Wiens, pidió la renuncia del presidente Santiago Peña y del vicepresidente Pedro Alliana. Les atribuye responsabilidad política por la crisis de Ueno Bank.\n\nLa posición es de Wiens como dirigente opositor. Las notas no incluyen una respuesta del Gobierno ni de los dos funcionarios.",
+      "id": "ev-1yniku6",
+      "title": "Miguel Prieto renuncia a la banca de concejal antes de jurar",
+      "summary": "Miguel Prieto, el candidato más votado a concejal de Ciudad del Este, presentó su renuncia horas antes de la ceremonia de juramento. Con esa decisión asume el siguiente candidato de la lista, Griselda Figueredo, y no su suplente Alejandro Martínez.\n\nPrieto había anunciado durante la campaña que renunciaría para enfocarse en su carrera presidencial, pero según las notas esperaba asumir primero. El senador Rubén Velázquez, de Yo Creo, dijo que fue una decisión unilateral que no fue comunicada al partido y que generó un malestar innecesario.\n\nVelázquez afirmó que espera reunirse con Prieto para conocer los motivos. Pedro Acuña, exintendente interino, lo calificó de traidor, según ABC Color. Prieto no aparece en las notas con una explicación pública.",
       "keyPoints": [
-        "Arnoldo Wiens reclama la renuncia de Peña y Alliana.",
-        "Le atribuye responsabilidad política por la crisis de Ueno Bank."
+        "Prieto renunció antes de jurar como concejal de Ciudad del Este.",
+        "Asume el siguiente en la lista, según las notas.",
+        "El senador Velázquez dijo que la decisión fue unilateral."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -432,63 +628,55 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Diputados firman libelo acusatorio contra Santiago Peña y Pedro Alliana",
-          "url": "https://www.ultimahora.com/diputados-firman-libelo-acusatorio-contra-santiago-pena-y-pedro-alliana",
-          "publishedAt": "2026-11-04T11:51:30.000Z",
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Mujica anuncia “estirón de orejas” ante renuncia anticipada de Prieto a la concejalía",
+          "url": "https://www.abc.com.py/este/2026/11/04/mujica-anuncia-estiron-de-orejas-ante-renuncia-anticipada-de-prieto-a-la-concejalia",
+          "publishedAt": "2026-11-04T15:55:32.000Z",
+          "image": "https://www.abc.com.py/resizer/Zncq59f9HHEY5HfG4D6uCRoZJU0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AMLYFS6E4BFPFDGR2STYDXVQHQ.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Velázquez cuestiona renuncia anticipada de Prieto y habla de un malestar innecesario",
+          "url": "https://diariovanguardia.com.py/velazquez-cuestiona-renuncia-anticipada-de-prieto-y-habla-de-un-malestar-innecesario",
+          "publishedAt": "2026-11-04T13:41:22.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/prieto-y-velazquez-1024x768.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Miguel Prieto renuncia a su banca sin avisar a su equipo y altera acuerdos",
+          "url": "https://www.adndigital.com.py/miguel-prieto-renuncia-a-su-banca-sin-avisar-a-su-equipo-y-altera-acuerdos",
+          "publishedAt": "2026-11-03T22:21:45.000Z",
           "image": null
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Wiens exige la salida de Peña y Alliana por crisis bancaria",
-          "url": "https://elnacional.com.py/politica/wiens-exige-salida-pena-alliana-crisis-bancaria-n114673",
-          "publishedAt": "2026-11-04T09:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/06/6a21b84550ddf.jpeg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Miguel Prieto renuncia a su banca de concejal antes de jurar y genera tensiones en Yo Creo",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/miguel-prieto-renuncia-a-su-banca-de-concejal-antes-de-jurar-y-genera-tensiones-en-yo-creo",
+          "publishedAt": "2026-11-03T21:08:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1L2IhZFLHIx1DJJmIh7MXzBKoSo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EHT7MZ6DHBEPHKDEYBV25GL7TI.jpeg"
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Barrios descarta juicio político a Peña y advierte sobre consecuencias para el país",
-          "url": "https://elnacional.com.py/politica/barrios-descarta-juicio-politico-pena-advierte-sobre-consecuencias-pais-n114626",
-          "publishedAt": "2026-11-03T18:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/04/69d6629e80530.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Oposición exige juicio político para Peña y Alliana",
-          "url": "https://www.telefuturo.com.py/oposicion-exige-juicio-politico-para-pena-y-alliana",
-          "publishedAt": "2026-11-03T17:03:56.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Oposición anuncia pedido de juicio político contra Santiago Peña y Pedro Alliana",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/oposicion-anuncia-pedido-de-juicio-politico-contra-santiago-pena-y-pedro-alliana",
-          "publishedAt": "2026-11-03T16:06:07.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Yolanda Paredes va por juicio político contra Peña y pide cierre de fronteras para el grupo Vázquez",
-          "url": "https://elnacional.com.py/politica/yolanda-paredes-va-juicio-politico-pena-pide-cierre-fronteras-grupo-vazquez-n114616",
-          "publishedAt": "2026-11-03T13:08:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae0d3ca52418.jpg"
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Prieto renuncia a su banca, deja fuera a Martínez y favorece a Griselda Figueredo",
+          "url": "https://diariovanguardia.com.py/prieto-renuncia-a-su-banca-deja-fuera-a-martinez-y-favorece-a-griselda-figueredo",
+          "publishedAt": "2026-11-03T16:12:00.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/griselda-figueredo-2.jpg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/06/6a21b84550ddf.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/wiens-exige-salida-pena-alliana-crisis-bancaria-n114673"
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/10/prieto-y-velazquez-1024x768.jpg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/velazquez-cuestiona-renuncia-anticipada-de-prieto-y-habla-de-un-malestar-innecesario"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T12:07:13.705Z",
-      "updatedSlot": "manana",
+      "updatedAt": "2026-11-04T16:07:12.856Z",
+      "updatedSlot": "tarde",
       "score": 17.98
     },
     {
@@ -564,7 +752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 17.42
+      "score": 17.09
     },
     {
       "id": "ev-0vnne77",
@@ -639,7 +827,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 17.24
+      "score": 16.9
     },
     {
       "id": "ev-0fkkcke",
@@ -714,7 +902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 16.71
+      "score": 16.38
     },
     {
       "id": "ev-0ugl0js",
@@ -774,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 14.42
+      "score": 14.09
     },
     {
       "id": "ev-1i1ewu8",
@@ -833,7 +1021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
     },
     {
       "id": "ev-11lyzri",
@@ -885,17 +1073,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 13.57
+      "score": 13.24
     },
     {
-      "id": "ev-1yniku6",
-      "title": "Miguel Prieto renuncia a su banca de concejal antes de jurar en Ciudad del Este",
-      "summary": "El líder de Yo Creo, Miguel Prieto, renunció a la banca de concejal municipal de Ciudad del Este antes de prestar juramento. Según las notas, la decisión no fue comunicada a su equipo y alteró un acuerdo interno del partido. La renuncia fue presentada ante el Tribunal Superior de Justicia Electoral.\n\nCon la renuncia, la banca no pasa a Alejandro Martínez, según lo previsto, sino a Griselda Figueredo, quien ingresa por el corrimiento de la lista de Yo Creo. Figueredo es esposa de Hugo Benítez, director general de la Municipalidad de Ciudad del Este. El senador Rubén Velázquez dijo que Prieto deberá dar una explicación.",
+      "id": "ev-0y5ve6y",
+      "title": "Consejo de Gobernadores pide devolver depósitos y recuperar fondos del IPS",
+      "summary": "El Consejo de Gobernadores del Paraguay, que reúne a los 17 gobernadores y es presidido por César Sosa (ANR), emitió un comunicado sobre el caso Ueno Bank. Insta a las autoridades a garantizar con urgencia la devolución de los depósitos.\n\nTambién pide recuperar los fondos públicos, del Instituto de Previsión Social (IPS) y de las demás instituciones afectadas. Exhorta al Poder Legislativo a aprobar las medidas legales necesarias para reparar los perjuicios a la ciudadanía.\n\nEl consejo sostuvo que hay que esclarecer lo sucedido, determinar las responsabilidades y recuperar la credibilidad de los organismos de control financiero. Señaló que quienes resulten responsables deberán asumir las consecuencias de sus actos.",
       "keyPoints": [
-        "Prieto renunció antes de jurar como concejal de Ciudad del Este.",
-        "La banca pasa a Griselda Figueredo y no a Alejandro Martínez.",
-        "Según el senador Rubén Velázquez, la decisión fue unilateral.",
-        "La renuncia se conoció el día de la instalación de la nueva Junta Municipal."
+        "El consejo, presidido por César Sosa, pide devolver los depósitos con urgencia.",
+        "Exhorta al Legislativo a aprobar leyes para reparar los perjuicios.",
+        "Pide esclarecer lo sucedido y determinar responsabilidades."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -904,40 +1091,40 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: Gobernadores piden recuperar fondos públicos y del IPS",
+          "url": "https://www.abc.com.py/politica/2026/11/04/ueno-bank-gobernadores-piden-recuperar-fondos-publicos-y-del-ips",
+          "publishedAt": "2026-11-04T14:26:24.000Z",
+          "image": "https://www.abc.com.py/resizer/ooWCZH05Ak7MiuJaftAnZrPCBIU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PF3VHW5NVRFMFGKAML4PPU2QNA.jpg"
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Miguel Prieto renuncia a su banca de concejal antes de jurar y genera tensiones en Yo Creo",
-          "url": "https://www.lanacion.com.py/politica/2026/11/03/miguel-prieto-renuncia-a-su-banca-de-concejal-antes-de-jurar-y-genera-tensiones-en-yo-creo",
-          "publishedAt": "2026-11-03T21:08:58.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1L2IhZFLHIx1DJJmIh7MXzBKoSo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EHT7MZ6DHBEPHKDEYBV25GL7TI.jpeg"
+          "title": "Gobernadores instan a proteger fondos públicos y del IPS",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/gobernadores-instan-a-proteger-fondos-publicos-y-del-ips",
+          "publishedAt": "2026-11-04T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1-8LzOr0-nEBOISTC8bhH2folPs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RLMQ5RIPPFCPFJNX6EN6BLKMKI.jpg"
         },
         {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Miguel Prieto renuncia a su banca sin avisar a su equipo y altera acuerdos",
-          "url": "https://www.adndigital.com.py/miguel-prieto-renuncia-a-su-banca-sin-avisar-a-su-equipo-y-altera-acuerdos",
-          "publishedAt": "2026-11-03T22:21:45.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Prieto renuncia a su banca, deja fuera a Martínez y favorece a Griselda Figueredo",
-          "url": "https://diariovanguardia.com.py/prieto-renuncia-a-su-banca-deja-fuera-a-martinez-y-favorece-a-griselda-figueredo",
-          "publishedAt": "2026-11-03T16:12:00.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/griselda-figueredo-2.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno bank: gobernadores instan a proteger fondos públicos y del IPS",
+          "url": "https://www.lanacion.com.py/politica/2026/11/03/caso-ueno-bank-gobernadores-instan-a-proteger-fondos-publicos-y-del-ips",
+          "publishedAt": "2026-11-03T22:42:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CKa4rAA81guUU4wDWAP58HUU83Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TMSJMPO2YNFQVJDJZ5PKVE4HNY.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/EHT7MZ6DHBEPHKDEYBV25GL7TI.jpeg?auth=3cb1cfcad674b9b9676ff0d6cadb7c1f6483a873d3fd5d5af1ca68f8156f3c6a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/03/miguel-prieto-renuncia-a-su-banca-de-concejal-antes-de-jurar-y-genera-tensiones-en-yo-creo"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PF3VHW5NVRFMFGKAML4PPU2QNA.jpg?auth=e7e7bb6b7b8d1518b00f4efbcb20ce2c46f001e7b20505ac5eba8222ba06301c&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/04/ueno-bank-gobernadores-piden-recuperar-fondos-publicos-y-del-ips"
       },
       "firstSeenAt": "2026-11-04T08:07:11.801Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 12.85
+      "updatedAt": "2026-11-04T16:07:12.856Z",
+      "updatedSlot": "tarde",
+      "score": 10.86
     },
     {
       "id": "ev-1hz8qxf",
@@ -989,7 +1176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 10.28
+      "score": 9.95
     },
     {
       "id": "ev-1dgt57c",
@@ -1033,7 +1220,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 9.83
+      "score": 9.5
     },
     {
       "id": "ev-1c5jkjv",
@@ -1077,7 +1264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.32
     },
     {
       "id": "ev-076954m",
@@ -1121,7 +1308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.08
     },
     {
       "id": "ev-0ko8v1i",
@@ -1165,7 +1352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.25
+      "score": 8.92
     },
     {
       "id": "ev-0ui72dx",
@@ -1209,7 +1396,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.82
     },
     {
       "id": "ev-0vgvcm0",
@@ -1253,7 +1440,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 9.09
+      "score": 8.75
     },
     {
       "id": "ev-0oupou8",
@@ -1297,7 +1484,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.66
     },
     {
       "id": "ev-0t63udj",
@@ -1340,7 +1527,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.47
     },
     {
       "id": "ev-15f77zg",
@@ -1383,7 +1570,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.41
     },
     {
       "id": "ev-0b9dr2p",
@@ -1427,7 +1614,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.69
+      "score": 8.35
     },
     {
       "id": "ev-1axsoer",
@@ -1471,7 +1658,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.63
+      "score": 8.3
     },
     {
       "id": "ev-1ann4o2",
@@ -1514,7 +1701,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.27
     },
     {
       "id": "ev-0m1skke",
@@ -1557,7 +1744,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T12:07:13.705Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-0vdked4",
@@ -1600,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.33
+      "score": 5.99
     },
     {
       "id": "ev-1y0xyxk",
@@ -1644,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.32
+      "score": 5.98
     },
     {
       "id": "ev-0jjujzf",
@@ -1688,51 +1875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 6.3
-    },
-    {
-      "id": "ev-0y5ve6y",
-      "title": "Gobernadores piden proteger fondos públicos y del IPS en el caso ueno bank",
-      "summary": "El Consejo de Gobernadores del Paraguay emitió un comunicado sobre el caso del banco intervenido ueno bank. Pide a las autoridades que garanticen la devolución de los depósitos y recuperen los fondos públicos, del IPS y de otras instituciones afectadas.\n\nTambién exhorta al Poder Legislativo a aprobar medidas legales para reparar los perjuicios a la ciudadanía. El documento pide esclarecer lo sucedido, determinar responsabilidades y recuperar la credibilidad de los organismos de control financiero. Sostiene que quienes comprometieron ahorros y recursos públicos deben asumir las consecuencias.",
-      "keyPoints": [
-        "El Consejo de Gobernadores emitió un comunicado sobre ueno bank.",
-        "Pide garantizar la devolución de los depósitos.",
-        "Exhorta al Poder Legislativo a aprobar medidas legales.",
-        "Reclama esclarecer lo sucedido y determinar responsabilidades."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gobernadores instan a proteger fondos públicos y del IPS",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/gobernadores-instan-a-proteger-fondos-publicos-y-del-ips",
-          "publishedAt": "2026-11-04T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1-8LzOr0-nEBOISTC8bhH2folPs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RLMQ5RIPPFCPFJNX6EN6BLKMKI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno bank: gobernadores instan a proteger fondos públicos y del IPS",
-          "url": "https://www.lanacion.com.py/politica/2026/11/03/caso-ueno-bank-gobernadores-instan-a-proteger-fondos-publicos-y-del-ips",
-          "publishedAt": "2026-11-03T22:42:15.000Z",
-          "image": "https://www.lanacion.com.py/resizer/CKa4rAA81guUU4wDWAP58HUU83Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TMSJMPO2YNFQVJDJZ5PKVE4HNY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RLMQ5RIPPFCPFJNX6EN6BLKMKI.jpg?auth=8f26916c747ef0510d9779f8a109ebea15139025bbbb1b4496f648c836543be6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/04/gobernadores-instan-a-proteger-fondos-publicos-y-del-ips"
-      },
-      "firstSeenAt": "2026-11-04T08:07:11.801Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-04T08:07:11.801Z",
-      "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.97
     },
     {
       "id": "ev-1ay1e5t",
@@ -1763,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1h7xvs1",
@@ -1793,7 +1936,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-16oov02",
@@ -1823,7 +1966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0fqy7p6",
@@ -1852,7 +1995,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0zsqqiw",
@@ -1881,7 +2024,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-047jdjd",
@@ -1910,7 +2053,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0yk3kj1",
@@ -1948,7 +2091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.56
+      "score": 5.23
     },
     {
       "id": "ev-1v64fyl",
@@ -1983,7 +2126,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.4
+      "score": 5.07
     },
     {
       "id": "ev-1o2wnzx",
@@ -2018,7 +2161,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-1p1fuj0",
@@ -2050,7 +2193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-1v7yl9m",
@@ -2085,7 +2228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-101styu",
@@ -2120,7 +2263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.35
+      "score": 5.02
     },
     {
       "id": "ev-1tzx6bd",
@@ -2151,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1b1ians",
@@ -2187,7 +2330,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0ozu4u1",
@@ -2220,7 +2363,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1d7lkbt",
@@ -2272,7 +2415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.58
     },
     {
       "id": "ev-1xx65wd",
@@ -2308,7 +2451,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.65
+      "score": 4.32
     },
     {
       "id": "ev-1bpljrm",
@@ -2344,7 +2487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-0to0xhk",
@@ -2384,7 +2527,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 3.95
+      "score": 3.62
     },
     {
       "id": "ev-1omcg2m",
@@ -2424,7 +2567,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 3.93
+      "score": 3.6
     },
     {
       "id": "ev-1dmpzym",
@@ -2456,7 +2599,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-04T08:07:11.801Z",
       "updatedSlot": "manana",
-      "score": 2.98
+      "score": 2.64
     }
   ],
   "runs": [
@@ -2473,6 +2616,13 @@
       "added": 0,
       "updated": 11,
       "candidates": 27
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-04T16:07:12.856Z",
+      "added": 0,
+      "updated": 7,
+      "candidates": 20
     }
   ]
 }
