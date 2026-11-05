@@ -1,19 +1,19 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-05T19:37:11.341Z",
+  "generatedAt": "2026-11-05T23:07:09.794Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1ugzwb3",
-      "title": "Diputados inicia el juicio político contra Peña; la tendencia es aprobarlo",
-      "summary": "La Cámara de Diputados inició el tratamiento del juicio político contra el presidente Santiago Peña en una sesión extraordinaria. Según La Nación, el presidente de la Cámara, Raúl Latorre, dijo que la tendencia es aprobarlo, pero no así para el vicepresidente Pedro Alliana.\n\nLa misma fuente informó que el libelo acusatorio fue aprobado con 78 votos a favor. Para que la acusación avance al Senado se necesita una mayoría de dos tercios de los diputados presentes, según Vanguardia.\n\nLatorre contó que habló con Peña, quien hasta ese momento quería dar batalla en el proceso. Según Latorre, el mandatario está convencido de su inocencia.",
+      "title": "Congreso prevé tomar juramento a Alliana tras la renuncia de Peña",
+      "summary": "El Congreso se preparaba para aceptar la renuncia del presidente Santiago Peña y tomar juramento al vicepresidente Pedro Alliana como nuevo presidente de la República. Según La Nación, el presidente de Diputados, Raúl Latorre, anunció que la renuncia se aceptaría a las 17:00 y el juramento se tomaría a las 18:00. Luego se elegiría al nuevo vicepresidente, con nombres como el senador Antonio Barrios y Gustavo Leite. Según El Nacional, en cambio, el juramento estaba previsto alrededor de las 16:00, después de una sesión a las 15:30. Los horarios difieren entre medios y podrían cambiar.",
       "keyPoints": [
-        "La sesión extraordinaria comenzó con 77 legisladores en sala.",
-        "La Nación informó que el libelo acusatorio fue aprobado con 78 votos.",
-        "La acusación pasaría al Senado con dos tercios de los diputados presentes."
+        "El Congreso debía aceptar la renuncia de Peña.",
+        "Pedro Alliana asumiría la Presidencia tras su juramento.",
+        "Los medios dan horarios distintos para el juramento."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -21,6 +21,78 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña anuncia que se someterá al juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/santiago-pena-anuncia-que-se-sometera-al-juicio-politico",
+          "publishedAt": "2026-11-05T22:52:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3V4kf5mBKVYy1cv-BLGOpBTsSa0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña anuncia que se presentará a defenderse en el juicio político",
+          "url": "https://www.adndigital.com.py/pena-anuncia-que-se-presentara-a-defenderse-en-el-juicio-politico",
+          "publishedAt": "2026-11-05T22:38:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Senado continuará el juicio político a Santiago Peña al no prosperar la aceptación de su renuncia",
+          "url": "https://www.ultimahora.com/senado-continuara-el-juicio-politico-a-santiago-pena-al-no-prosperar-la-aceptacion-de-su-renuncia",
+          "publishedAt": "2026-11-05T22:34:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña se someterá al juicio político ante el Congreso",
+          "url": "https://www.telefuturo.com.py/santiago-pena-se-sometera-al-juicio-politico-ante-el-congreso",
+          "publishedAt": "2026-11-05T22:32:32.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña se somete al juicio político: “Voy a ejercer mi derecho a la defensa”",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/pena-enfrentara-el-juicio-politico-voy-a-ejercer-mi-derecho-a-la-defensa",
+          "publishedAt": "2026-11-05T22:31:21.353Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ZOCH6BIMTVEIXC3MK4VNJBWK3A.jfif?auth=2bcb87ba93fa7954b79e0949f8cb0f204dae8f77bcbb32c352d5e26078c888ae&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santiago Peña afirma que se someterá al juicio político y pide no cesar pagos a ahorristas",
+          "url": "https://www.ultimahora.com/santiago-pena-afirma-que-se-sometera-al-juicio-politico-y-pide-no-cesar-pagos-a-ahorristas",
+          "publishedAt": "2026-11-05T22:30:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado convoca a sesión a las 19:30 para tratar libelo acusatorio contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-convoca-a-sesion-a-las-1930-para-tratar-libelo-acusatorio-contra-pena",
+          "publishedAt": "2026-11-05T22:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BZSA7fB1WPkhz42k-eS09_o1owQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COQEFIKY25AORFEAEUJ2NXXZKY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña acepta el juicio político y anuncia que se presentará",
+          "url": "https://www.abc.com.py/politica/2026/11/05/mensaje-de-santiago-pena",
+          "publishedAt": "2026-11-05T22:25:34.000Z",
+          "image": "https://www.abc.com.py/resizer/TCI7cS7W0NxCsUpjS7VwcedgwUY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SEFNUJWAW5AUBPZHCJE75M5G5M.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña anuncia que se presentará ante el Congreso para defenderse en el juicio político",
+          "url": "https://elnacional.com.py/politica/pena-anuncia-presentara-congreso-defenderse-juicio-politico-n114778",
+          "publishedAt": "2026-11-05T22:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab8d000824a3.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -30,12 +102,28 @@
           "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ciudadanos celebran aprobación de libelo acusatorio para enjuiciar a Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/ciudadanos-celebran-aprobacion-de-libelo-acusatorio-para-enjuiciar-a-pena",
+          "publishedAt": "2026-11-05T19:28:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/rNckBVm4Ft2aE-76rC5k8U4eB8o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/53U3SSCAAZA5DCX6ITAM5NLZSQ.jpeg"
+        },
+        {
           "sourceId": "hoy",
           "sourceName": "HOY",
           "title": "Renuncia de Peña, juramento de Alliana y elección de vice: así será la tarde en el Congreso",
           "url": "https://www.hoy.com.py/nacionales/2026/11/05/renuncia-de-pena-juramento-de-alliana-y-eleccion-de-nuevo-vice-asi-sera-la-tarde-en-el-congreso",
           "publishedAt": "2026-11-05T18:47:00.000Z",
           "image": "https://www.lanacion.com.py/resizer/v2/2PRKX6F2SBATZCQ52HJ6YT5KIQ.jpg?auth=e6888db67f346e70cc847531d4bcb431e8d5d4062306a27ed5115130b014a15f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado sesiona a las 17:00 para tratar juicio político contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-sesiona-a-las-1700-para-tratar-juicio-politico-contra-pena",
+          "publishedAt": "2026-11-05T18:23:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MkEAT-ZgPkKtkel6PBNQEVPOl3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZLTD47XPJH4LH7B6HESLDAJ4E.jpeg"
         },
         {
           "sourceId": "telefuturo",
@@ -92,6 +180,22 @@
           "url": "https://www.abc.com.py/politica/2026/11/05/diputados-aprueban-juicio-politico-contra-santiago-pena-pese-a-su-renuncia",
           "publishedAt": "2026-11-05T17:23:36.000Z",
           "image": "https://www.abc.com.py/resizer/1_66qf1cEUmm7lxkFnsz6ZWEoxc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EEY5S523JFEMRIMPC2F5NSV474.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Renunció Peña: Congreso debe aceptar su dimisión y definir la sucesión",
+          "url": "https://elnacional.com.py/politica/renuncio-pena-congreso-debe-aceptar-su-dimision-definir-sucesion-n114758",
+          "publishedAt": "2026-11-05T16:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a461bb024224.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados apuntan a responsabilidad de Peña y preparan fiscales acusadores",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/diputados-apuntan-a-responsabilidad-de-pena-y-preparan-fiscales-acusadores",
+          "publishedAt": "2026-11-05T15:50:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iLQaGjaDH4wvDFcl2R3wXrRYjW8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LUHBU6QFIZBVDGK72AJMKVEWOA.jpeg"
         },
         {
           "sourceId": "ultimahora",
@@ -303,25 +407,25 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FKDCSQEHEBDVJKCVGPXR5OZI6I.jpeg?auth=18853d835f9927229076c60eeff2d6da7644e8ff968f042e3f95aa361d121ffd&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/X5GUIUYG35BSLBN4J26PHIBSX4.jpeg?auth=596e6fb48996190a87345985e089b9c88f0f9f674c501be2aab83a94c76f0bb6&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/05/juicio-politico-diputados-inicia-debate-y-pena-dice-que-dara-batalla"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/05/aceptarian-renuncia-de-pena-y-tomarian-juramento-a-alliana-a-las-1800"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-05T19:37:11.341Z",
+      "updatedAt": "2026-11-05T23:07:09.794Z",
       "updatedSlot": "tarde",
-      "score": 32.99
+      "score": 32.98
     },
     {
       "id": "ev-0rdmwbs",
-      "title": "BCP habilita consulta de banco asignado para el anticipo a ahorristas de Ueno",
-      "summary": "El Banco Central del Paraguay (BCP) habilitó una plataforma para que los ahorristas de Ueno Bank verifiquen en qué entidad recibirán el anticipo del Fondo de Garantía de Depósitos. La consulta puede hacerse sin esperar el correo electrónico, según el comunicado del organismo.\n\nEl anticipo será de hasta 40 salarios mínimos, unos G. 121 millones según las notas. Del monto se descontarán las deudas vencidas con Ueno Bank. El pago se iniciará en un plazo de 24 horas y no podrá superar los cinco días hábiles.\n\nLos ahorristas recibirán un correo desde fgdpagos@bcp.gov.py indicando el banco asignado. Pedro Acosta, presidente interino del BCP, explicó en conferencia de prensa que los pagos priorizan lo aprobado por ley. La garantía total de 75 salarios mínimos será un procedimiento posterior.",
+      "title": "BCP inicia pagos de garantía a ahorristas de Ueno Bank",
+      "summary": "Los ahorristas de Ueno Bank comenzaron a recibir desde este jueves el anticipo del Fondo de Garantía de Depósitos, administrado por el Banco Central del Paraguay. El monto llega hasta 40 salarios mínimos, unos G. 121.760.000, y se descuentan las deudas vencidas con el banco.\n\nEl primer grupo de pago son los depositantes con saldos de hasta G. 10 millones, sin deudas con Ueno Bank y con cuenta en otra entidad del país. Según el BCP, ellos recibirán la totalidad de sus ahorros. Los demás grupos se anunciarán de manera progresiva.\n\nEl pago se hará a través de 11 o 12 bancos designados, según la fuente. El proceso puede extenderse hasta cinco días hábiles. Los ahorristas pueden consultar su banco asignado en el portal del BCP, donde hubo intermitencias por alta demanda.",
       "keyPoints": [
-        "El BCP habilitó una plataforma para consultar el banco asignado para el anticipo.",
-        "El anticipo es de hasta 40 salarios mínimos, unos G. 121 millones.",
-        "Las deudas vencidas con Ueno Bank se descontarán del monto.",
-        "El pago se inicia en 24 horas y no puede superar cinco días hábiles."
+        "El anticipo es de hasta 40 salarios mínimos, unos G. 121.760.000.",
+        "El primer grupo son depósitos de hasta G. 10 millones.",
+        "El proceso puede extenderse hasta cinco días hábiles.",
+        "La consulta del banco asignado se hace en el portal del BCP."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -329,6 +433,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Comienza el desembolso de la garantía a los ahorristas de Ueno Bank",
+          "url": "https://www.adndigital.com.py/comienza-el-desembolso-de-la-garantia-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-05T20:47:34.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-174630.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Estos son los bancos y cronograma de pagos para ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/05/estos-son-los-bancos-y-cronograma-de-pagos-para-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-05T19:56:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PDAndTZkHJIgCbd4db3ApMSABqE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ESW7ASFNHBHABOLFYY66KZE5QA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP inicia pago de garantía a ahorristas de ueno bank: clientes con menos G. 10 millones cobran primero",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/05/bcp-inicia-pago-de-garantia-a-ahorristas-de-ueno-bank-clientes-con-menos-g-10-millones-cobran-primero",
+          "publishedAt": "2026-11-05T19:48:18.000Z",
+          "image": "https://www.lanacion.com.py/resizer/frzji9xgymIePJxYz96yyZeTJ_s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VXW3U6Q6RFAWVKKZDBRKKT4FUM.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Iniciará el pago del Fondo de Garantía a ahorristas de Ueno Bank S.A.",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/iniciara-el-pago-del-fondo-de-garantia-a-ahorristas-de-ueno-bank-sa",
+          "publishedAt": "2026-11-05T19:37:08.899Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LRXR2NORMFAXBGDXIUR7SSH6LU.jpg?auth=04fc4b2a25933a4fffcd61fd526080be17c1c91017025ef343ce5ad1234f2427&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Atención clientes de Ueno: BCP ya pagará garantías a primer grupo con depósitos hasta G 10 millones",
+          "url": "https://www.abc.com.py/economia/2026/11/05/atencion-clientes-de-ueno-bcp-ya-pagara-garantias-a-primer-grupo-con-depositos-hasta-g-10-millones",
+          "publishedAt": "2026-11-05T18:47:12.000Z",
+          "image": "https://www.abc.com.py/resizer/HOn7ZUWyVjcRE_q0ORJmKYs03HA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/AIG6JWDYKFBUXAFHU2XXNVUBAY.jpeg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -491,15 +635,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PKAVKZGW6ZBQDNNXX25XZ6UPMM.jpg?auth=3f9b5543991ce3afdfb05188aa48c5852786301ca28550c3e8b457c80823f986&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-bcp-habilitara-plataforma-registro-para-ahorristas-afectados"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-174630.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/comienza-el-desembolso-de-la-garantia-a-los-ahorristas-de-ueno-bank"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-05T16:07:14.914Z",
+      "updatedAt": "2026-11-05T23:07:09.794Z",
       "updatedSlot": "tarde",
-      "score": 32.58
+      "score": 32.81
     },
     {
       "id": "ev-0xwz564",
@@ -614,7 +758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 26.26
+      "score": 25.97
     },
     {
       "id": "ev-1709u1f",
@@ -697,7 +841,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 19.64
+      "score": 19.35
     },
     {
       "id": "ev-0w68lrt",
@@ -756,7 +900,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T19:37:11.341Z",
       "updatedSlot": "tarde",
-      "score": 17.98
+      "score": 17.69
     },
     {
       "id": "ev-1tcn2j2",
@@ -831,7 +975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.62
+      "score": 16.33
     },
     {
       "id": "ev-0maec1p",
@@ -890,7 +1034,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.34
+      "score": 16.05
     },
     {
       "id": "ev-1cluuq8",
@@ -949,7 +1093,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.01
+      "score": 16
     },
     {
       "id": "ev-0vzo71i",
@@ -1025,58 +1169,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 13.72
-    },
-    {
-      "id": "ev-0abyhhq",
-      "title": "Adolescente herida de bala en Eusebio Ayala; el presunto agresor fue hallado sin vida",
-      "summary": "Una adolescente de 15 años resultó herida de bala en la ciudad de Eusebio Ayala. La policía investiga el hecho como un presunto intento de feminicidio.\n\nSegún el informe policial, la joven recibió disparos en el hombro y en la cabeza. Fue trasladada al hospital local y luego derivada al Hospital de Trauma de Asunción, donde quedó internada. El presunto agresor, un hombre de 30 años, fue hallado sin vida en una zona boscosa. Los datos indican que habría tenido una relación sentimental con la menor.",
-      "keyPoints": [
-        "Una adolescente de 15 años fue herida de bala en Eusebio Ayala.",
-        "La joven quedó internada en el Hospital de Trauma de Asunción.",
-        "Según la policía, el presunto agresor fue hallado sin vida."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Eusebio Ayala: adolescente de 15 años fue baleada en un presunto intento de feminicidio",
-          "url": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio",
-          "publishedAt": "2026-11-05T10:34:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/hCIDpn_feH_VcxQrrHs3BID64Ow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Adolescente es víctima de intento de feminicidio en Eusebio Ayala",
-          "url": "https://www.ultimahora.com/adolescente-es-victima-de-intento-de-feminicidio-en-eusebio-ayala",
-          "publishedAt": "2026-11-04T22:46:15.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Hallan muerto al presunto agresor de una colegiala en Eusebio Ayala",
-          "url": "https://www.abc.com.py/policiales/2026/11/04/hallan-muerto-al-presunto-agresor-de-una-colegiala-en-eusebio-ayala",
-          "publishedAt": "2026-11-04T22:11:12.000Z",
-          "image": "https://www.abc.com.py/resizer/wP-1i4icIludCmw0oup9WTHtCA0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSG4SM2ON5BZ5HRLHRICF3RCJA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg?auth=63e836d67f463a3002ad02461843a651623fb93b6f0acb72196907bf00f4b677&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T12:07:10.756Z",
-      "updatedSlot": "manana",
-      "score": 13.25
+      "score": 13.43
     },
     {
       "id": "ev-0qi6hto",
@@ -1138,6 +1231,57 @@
       "score": 13
     },
     {
+      "id": "ev-0abyhhq",
+      "title": "Adolescente herida de bala en Eusebio Ayala; el presunto agresor fue hallado sin vida",
+      "summary": "Una adolescente de 15 años resultó herida de bala en la ciudad de Eusebio Ayala. La policía investiga el hecho como un presunto intento de feminicidio.\n\nSegún el informe policial, la joven recibió disparos en el hombro y en la cabeza. Fue trasladada al hospital local y luego derivada al Hospital de Trauma de Asunción, donde quedó internada. El presunto agresor, un hombre de 30 años, fue hallado sin vida en una zona boscosa. Los datos indican que habría tenido una relación sentimental con la menor.",
+      "keyPoints": [
+        "Una adolescente de 15 años fue herida de bala en Eusebio Ayala.",
+        "La joven quedó internada en el Hospital de Trauma de Asunción.",
+        "Según la policía, el presunto agresor fue hallado sin vida."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Eusebio Ayala: adolescente de 15 años fue baleada en un presunto intento de feminicidio",
+          "url": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio",
+          "publishedAt": "2026-11-05T10:34:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hCIDpn_feH_VcxQrrHs3BID64Ow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Adolescente es víctima de intento de feminicidio en Eusebio Ayala",
+          "url": "https://www.ultimahora.com/adolescente-es-victima-de-intento-de-feminicidio-en-eusebio-ayala",
+          "publishedAt": "2026-11-04T22:46:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hallan muerto al presunto agresor de una colegiala en Eusebio Ayala",
+          "url": "https://www.abc.com.py/policiales/2026/11/04/hallan-muerto-al-presunto-agresor-de-una-colegiala-en-eusebio-ayala",
+          "publishedAt": "2026-11-04T22:11:12.000Z",
+          "image": "https://www.abc.com.py/resizer/wP-1i4icIludCmw0oup9WTHtCA0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSG4SM2ON5BZ5HRLHRICF3RCJA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg?auth=63e836d67f463a3002ad02461843a651623fb93b6f0acb72196907bf00f4b677&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
+      "updatedSlot": "manana",
+      "score": 12.95
+    },
+    {
       "id": "ev-15t4fpy",
       "title": "Peña promulga ley 7745; pagos a ahorristas de Ueno comenzarían el viernes",
       "summary": "El presidente Santiago Peña promulgó la Ley n.º 7745, que habilita la devolución de ahorros a los clientes de Ueno Bank. La entidad fue intervenida y el Banco Central resolvió su liquidación el lunes. Peña instó al BCP a poner la ley en marcha de inmediato.\n\nLa norma permite un anticipo de hasta 40 salarios mínimos por depositante, equivalentes a G. 121.760.000. Según las notas, el pago debe comenzar el viernes y no extenderse más de cinco días hábiles en los procesos en curso. Antes se descuentan las obligaciones vencidas con la entidad.\n\nDe acuerdo con lo informado, el tope cubriría entre el 97 % y el 98 % de los afectados.",
@@ -1187,7 +1331,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 12.73
+      "score": 12.44
+    },
+    {
+      "id": "ev-0qykqns",
+      "title": "Ecuador: detienen a Jacobo Bucaram por presuntos vínculos con narcotráfico",
+      "summary": "En Ecuador fueron detenidos Jacobo Bucaram Pulley, hijo del expresidente Abdalá Bucaram, y otras cuatro personas por presuntos vínculos con el narcotráfico. El ministro de Interior, John Reimberg, informó la operación, en la que colaboró la agencia antidrogas DEA. Bucaram fue arrestado en Guayaquil y otros dos implicados fueron detenidos en Panamá. Según la fiscalía de Estados Unidos, citada por ABC Color, los acusados son parte de una red de envíos de cocaína y que los Estrada, dos políticos ecuatorianos, actuaron como intermediarios. El expresidente calificó de infames los señalamientos y atribuyó la detención al odio político.",
+      "keyPoints": [
+        "Jacobo Bucaram Pulley fue detenido en Guayaquil con otras personas.",
+        "Las autoridades de Ecuador informaron la operación con colaboración de la DEA.",
+        "Según la fiscalía estadounidense, los acusados habrían participado en envíos de cocaína."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "EE.UU. acusa de narcotráfico dos políticos de Ecuador y al hijo del expresidente Bucaram",
+          "url": "https://www.abc.com.py/internacionales/2026/11/05/eeuu-acusa-de-narcotrafico-dos-politicos-de-ecuador-y-al-hijo-del-expresidente-bucaram",
+          "publishedAt": "2026-11-05T21:30:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ecuador: cae hijo del expresidente por supuestos vínculos con el narcotráfico",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/05/ecuador-cae-hijo-del-expresidente-por-supuestos-vinculos-con-el-narcotrafico",
+          "publishedAt": "2026-11-05T10:41:03.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9y4pALj2Z7OEqQNggETGYjhgliY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RUQPXGC5KVBUVK5IYSDTGEAT4Y.jfif"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Detienen en Panamá a dos políticos ecuatorianos en la operación contra el hijo de Bucaram",
+          "url": "https://www.ultimahora.com/detienen-en-panama-a-dos-politicos-ecuatorianos-en-la-operacion-contra-el-hijo-de-bucaram",
+          "publishedAt": "2026-11-05T02:18:56.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Detienen en Panamá a dos políticos ecuatorianos en la operación contra el hijo de Bucaram",
+          "url": "https://www.abc.com.py/internacionales/2026/11/04/detienen-en-panama-a-dos-politicos-ecuatorianos-en-la-operacion-contra-el-hijo-de-bucaram",
+          "publishedAt": "2026-11-05T00:20:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Detienen a hijo de expresidente ecuatoriano Bucaram y será enviado a EE.UU., dice ministro",
+          "url": "https://www.abc.com.py/internacionales/2026/11/04/detienen-a-hijo-de-expresidente-ecuatoriano-bucaram-y-sera-enviado-a-eeuu-dice-ministro",
+          "publishedAt": "2026-11-04T22:20:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RUQPXGC5KVBUVK5IYSDTGEAT4Y.jfif?auth=6c4938c55e29c4f4af5358c7a6eee749ac9772b15f5b5fc200fb48758fc2acb4&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/05/ecuador-cae-hijo-del-expresidente-por-supuestos-vinculos-con-el-narcotrafico"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T23:07:09.794Z",
+      "updatedSlot": "tarde",
+      "score": 12.37
     },
     {
       "id": "ev-0cuunjr",
@@ -1238,7 +1449,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 12.45
+      "score": 12.16
     },
     {
       "id": "ev-1662w43",
@@ -1305,7 +1516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 11.28
+      "score": 10.99
     },
     {
       "id": "ev-1efj9gp",
@@ -1356,7 +1567,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.63
+      "score": 9.34
     },
     {
       "id": "ev-1nulwym",
@@ -1407,7 +1618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-1y9r0js",
@@ -1458,7 +1669,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.55
+      "score": 9.26
     },
     {
       "id": "ev-1j455ws",
@@ -1502,7 +1713,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 8.71
+      "score": 8.42
     },
     {
       "id": "ev-0ojv7rr",
@@ -1546,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.33
     },
     {
       "id": "ev-0qa0awr",
@@ -1589,7 +1800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.25
     },
     {
       "id": "ev-076i4of",
@@ -1633,7 +1844,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.13
     },
     {
       "id": "ev-1dsylq7",
@@ -1672,7 +1883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.42
+      "score": 8.13
     },
     {
       "id": "ev-0ajcwnl",
@@ -1715,7 +1926,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.06
     },
     {
       "id": "ev-0xhsnjb",
@@ -1754,7 +1965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.31
+      "score": 8.02
     },
     {
       "id": "ev-1tsa4p1",
@@ -1797,7 +2008,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.11
+      "score": 8
     },
     {
       "id": "ev-1l50nm8",
@@ -1840,7 +2051,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.05
+      "score": 8
     },
     {
       "id": "ev-0hm2obz",
@@ -1883,7 +2094,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.04
+      "score": 8
     },
     {
       "id": "ev-14k652b",
@@ -2015,54 +2226,6 @@
       "score": 8
     },
     {
-      "id": "ev-0qykqns",
-      "title": "Detienen a Jacobo Bucaram en Ecuador y a dos políticos en Panamá",
-      "summary": "Autoridades de Ecuador y Panamá detuvieron a varias personas en una operación internacional. Entre los detenidos figura Jacobo Bucaram, hijo del expresidente ecuatoriano, arrestado en Guayaquil. Los exfuncionarios Jaime Estrada Bonilla, exintendente de Manta, y su hijo Jaime Estrada Medranda, exasambleísta, fueron detenidos en Panamá.\n\nSegún el ministro ecuatoriano Reimberg, los cinco detenidos son requeridos por la justicia de Estados Unidos por presuntos delitos de narcotráfico. La operación fue coordinada con la DEA y prevé la extradición a ese país. Las notas no detallan los cargos específicos que se les imputan.\n\nLa detención de Jacobo Bucaram se produce casi dos meses después de que un tribunal ecuatoriano lo condenara junto a su padre a nueve años y cuatro meses de prisión por un caso de pruebas de covid-19. Tras la condena, el expresidente la calificó de ridícula y dijo que recurriría.",
-      "keyPoints": [
-        "Cinco personas fueron detenidas en Ecuador y Panamá en una operación conjunta.",
-        "Según el ministro Reimberg, son requeridas por la justicia de Estados Unidos.",
-        "Los delitos investigados, según las notas, son presuntos casos de narcotráfico.",
-        "Se prevé la extradición de los detenidos a Estados Unidos."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Detienen en Panamá a dos políticos ecuatorianos en la operación contra el hijo de Bucaram",
-          "url": "https://www.ultimahora.com/detienen-en-panama-a-dos-politicos-ecuatorianos-en-la-operacion-contra-el-hijo-de-bucaram",
-          "publishedAt": "2026-11-05T02:18:56.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Detienen a hijo de expresidente ecuatoriano Bucaram y será enviado a EE.UU., dice ministro",
-          "url": "https://www.abc.com.py/internacionales/2026/11/04/detienen-a-hijo-de-expresidente-ecuatoriano-bucaram-y-sera-enviado-a-eeuu-dice-ministro",
-          "publishedAt": "2026-11-04T22:20:08.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Detienen en Panamá a dos políticos ecuatorianos en la operación contra el hijo de Bucaram",
-          "url": "https://www.abc.com.py/internacionales/2026/11/04/detienen-en-panama-a-dos-politicos-ecuatorianos-en-la-operacion-contra-el-hijo-de-bucaram",
-          "publishedAt": "2026-11-05T00:20:12.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 7.06
-    },
-    {
       "id": "ev-18askf1",
       "title": "MOPC difunde mensajes contra la violencia hacia la mujer en buses eléctricos",
       "summary": "El Ministerio de Obras Públicas y Comunicaciones (MOPC) inició una campaña de prevención de la violencia contra la mujer en los buses eléctricos de Asunción. Los mensajes se muestran en carteles LED, en coordinación con el Ministerio de la Mujer.\n\nLas líneas E1 y E2 unen Asunción con San Lorenzo, y la E3 llega al Aeropuerto Silvio Pettirossi. La campaña se realiza con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora cada 25 de noviembre. Promociona la Línea 137 Mujer y el WhatsApp 0961 137 137.",
@@ -2103,7 +2266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1vq8a0j",
@@ -2147,7 +2310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1fx3xld",
@@ -2187,7 +2350,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.25
     },
     {
       "id": "ev-0j9v069",
@@ -2230,7 +2393,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.09
     },
     {
       "id": "ev-1biyecj",
@@ -2266,7 +2429,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-083ldda",
@@ -2302,7 +2465,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0yz9vns",
@@ -2334,7 +2497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1co6bey",
@@ -2370,7 +2533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-02pigjq",
@@ -2405,7 +2568,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-067mvbi",
@@ -2440,7 +2603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1p0ugxt",
@@ -2476,7 +2639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.21
     },
     {
       "id": "ev-1p8s9ls",
@@ -2512,7 +2675,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.35
+      "score": 4.06
     },
     {
       "id": "ev-12dsoi8",
@@ -2547,7 +2710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 4.03
     },
     {
       "id": "ev-1rd4mb7",
@@ -2591,7 +2754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.5
     },
     {
       "id": "ev-1v4v5z3",
@@ -2623,7 +2786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.14
+      "score": 1.84
     },
     {
       "id": "ev-0c71fju",
@@ -2655,7 +2818,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.14
+      "score": 1.84
     },
     {
       "id": "ev-0l575zn",
@@ -2687,7 +2850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.14
+      "score": 1.84
     },
     {
       "id": "ev-1nolef7",
@@ -2719,7 +2882,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 1.75
+      "score": 1.5
     },
     {
       "id": "ev-15pviou",
@@ -2754,7 +2917,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 1.67
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2792,6 +2955,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 19
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-05T23:07:09.794Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 21
     }
   ]
 }
