@@ -1,208 +1,19 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-05T16:07:14.914Z",
+  "generatedAt": "2026-11-05T19:37:11.341Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0rdmwbs",
-      "title": "BCP habilita consulta de banco asignado para el anticipo a ahorristas de Ueno",
-      "summary": "El Banco Central del Paraguay (BCP) habilitó una plataforma para que los ahorristas de Ueno Bank verifiquen en qué entidad recibirán el anticipo del Fondo de Garantía de Depósitos. La consulta puede hacerse sin esperar el correo electrónico, según el comunicado del organismo.\n\nEl anticipo será de hasta 40 salarios mínimos, unos G. 121 millones según las notas. Del monto se descontarán las deudas vencidas con Ueno Bank. El pago se iniciará en un plazo de 24 horas y no podrá superar los cinco días hábiles.\n\nLos ahorristas recibirán un correo desde fgdpagos@bcp.gov.py indicando el banco asignado. Pedro Acosta, presidente interino del BCP, explicó en conferencia de prensa que los pagos priorizan lo aprobado por ley. La garantía total de 75 salarios mínimos será un procedimiento posterior.",
-      "keyPoints": [
-        "El BCP habilitó una plataforma para consultar el banco asignado para el anticipo.",
-        "El anticipo es de hasta 40 salarios mínimos, unos G. 121 millones.",
-        "Las deudas vencidas con Ueno Bank se descontarán del monto.",
-        "El pago se inicia en 24 horas y no puede superar cinco días hábiles."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ahorristas de ueno podrán consultar el banco asignado para recibir el anticipo del FGD",
-          "url": "https://www.lanacion.com.py/foco/2026/11/05/ahorristas-de-ueno-podran-consultar-el-banco-asignado-para-recibir-el-anticipo-del-fgd",
-          "publishedAt": "2026-11-05T14:33:24.000Z",
-          "image": "https://www.lanacion.com.py/resizer/e243mSIp9PVyAlOGF1KBXjpoF7Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SNYOLNOKKJALXM44ORTAZSTWBA.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: no habrá correo; el BCP habilitará plataforma de registro y consulta para ahorristas afectados",
-          "url": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-bcp-habilitara-plataforma-registro-para-ahorristas-afectados",
-          "publishedAt": "2026-11-05T13:25:02.000Z",
-          "image": "https://www.abc.com.py/resizer/t5QV60QzKzJ_tVJ8X7wLv7e8vOg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PKAVKZGW6ZBQDNNXX25XZ6UPMM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "BCP notificará por correo a clientes de ueno bank dónde cobrarán sus ahorros desde este jueves",
-          "url": "https://elnacional.com.py/economia/bcp-notificara-correo-clientes-ueno-bank-donde-cobraran-sus-ahorros-jueves-n114733",
-          "publishedAt": "2026-11-05T12:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6ae98f359e4c8.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "BCP establece mecanismos para devolver los ahorros de clientes de Ueno Bank",
-          "url": "https://www.npy.com.py/noticias/nacionales/bcp-establece-mecanismos-para-devolver-los-ahorros-de-clientes-de-ueno-bank",
-          "publishedAt": "2026-11-05T11:26:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "BCP avisará desde hoy a los ahorristas de ueno dónde cobrar su dinero",
-          "url": "https://www.adndigital.com.py/bcp-avisara-desde-hoy-a-los-ahorristas-de-ueno-donde-cobrar-su-dinero",
-          "publishedAt": "2026-11-05T10:22:47.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-072102-1024x681.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "¡Atención clientes de Ueno! Este es el mail oficial para el cobro del anticipo y el correo debe llegar hoy",
-          "url": "https://www.abc.com.py/economia/2026/11/05/atencion-clientes-de-ueno-este-es-el-mail-oficial-para-el-cobro-del-anticipo",
-          "publishedAt": "2026-11-05T10:18:08.000Z",
-          "image": "https://www.abc.com.py/resizer/7nz4IYJa6CW4Ia-V9UCRb6lT8VI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z7JJYMRAVBHNRMJ4XPG2IZIJDI.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "BCP iniciará pago a ahorristas de Ueno Bank",
-          "url": "https://www.telefuturo.com.py/bcp-iniciara-pago-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-05T10:00:36.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Promulgan ley que permite anticipar hasta G. 121 millones a ahorristas de Ueno Bank",
-          "url": "https://elnacional.com.py/politica/promulgan-ley-permite-anticipar-g-121-millones-ahorristas-ueno-bank-n114728",
-          "publishedAt": "2026-11-05T08:45:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeaf9a186e16.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo promulga ley y ahorristas ya podrán cobrar desde el viernes",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/ejecutivo-promulga-ley-y-ahorristas-ya-podran-cobrar-desde-el-viernes",
-          "publishedAt": "2026-11-05T04:21:24.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Rk4xKClafSHjr8Ahqgm5abVGoFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCMMD33PP5AUJL5WAION43NTKI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
-          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T01:18:53.000Z",
-          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T00:19:20.089Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
-          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
-          "publishedAt": "2026-11-04T23:40:27.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:27:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
-          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
-          "publishedAt": "2026-11-04T23:17:11.000Z",
-          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:12:53.429Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Peña promulga ley que habilita anticipos de hasta 40 salarios mínimos a ahorristas",
-          "url": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas",
-          "publishedAt": "2026-11-04T21:43:10.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado sanciona ley para agilizar devolución de ahorros de ueno bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/senado-sanciona-ley-para-agilizar-devolucion-de-ahorros-de-ueno-bank",
-          "publishedAt": "2026-11-04T20:11:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GsGBxW6ZgwZhSrvguk9vXZO50Ws=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CKRTT7WSEBHOFCE7OQUYNNZIY4.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
-          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
-          "publishedAt": "2026-11-04T20:05:05.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Diputados incorporan cambios y proyecto de protección a ahorristas vuelve al Senado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado",
-          "publishedAt": "2026-11-04T19:10:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aSrrw2-TZxqzopovhpBFJlbkI-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
-          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
-          "publishedAt": "2026-11-04T16:39:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PKAVKZGW6ZBQDNNXX25XZ6UPMM.jpg?auth=3f9b5543991ce3afdfb05188aa48c5852786301ca28550c3e8b457c80823f986&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-bcp-habilitara-plataforma-registro-para-ahorristas-afectados"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T16:07:14.914Z",
-      "updatedSlot": "tarde",
-      "score": 32.87
-    },
-    {
       "id": "ev-1ugzwb3",
-      "title": "Latorre convoca para mañana sesión extraordinaria por juicio político a Peña",
-      "summary": "El presidente de la Cámara de Diputados, Raúl Latorre, convocó a una sesión extraordinaria para mañana a las 10:00. Allí se tratará el pedido de juicio político contra el presidente Santiago Peña y el vicepresidente Pedro Alliana. El libelo fue presentado por 35 diputados de la oposición y de la disidencia colorada.\n\nLatorre dijo que cumplirá con su deber constitucional y que la convocatoria se hará conforme a la Constitución y las leyes. Según los documentos de Diputados, las resoluciones 4.699 y 4.700 disponen el tratamiento del proyecto.\n\nLatorre confirmó que hay un posicionamiento mayoritario dentro de la bancada oficialista a favor del juicio político. Según sus palabras, Peña le aseguró que está convencido de su inocencia y que pretende dar batalla.",
+      "title": "Diputados inicia el juicio político contra Peña; la tendencia es aprobarlo",
+      "summary": "La Cámara de Diputados inició el tratamiento del juicio político contra el presidente Santiago Peña en una sesión extraordinaria. Según La Nación, el presidente de la Cámara, Raúl Latorre, dijo que la tendencia es aprobarlo, pero no así para el vicepresidente Pedro Alliana.\n\nLa misma fuente informó que el libelo acusatorio fue aprobado con 78 votos a favor. Para que la acusación avance al Senado se necesita una mayoría de dos tercios de los diputados presentes, según Vanguardia.\n\nLatorre contó que habló con Peña, quien hasta ese momento quería dar batalla en el proceso. Según Latorre, el mandatario está convencido de su inocencia.",
       "keyPoints": [
-        "Latorre convocó a sesión extraordinaria para este jueves a las 10:00.",
-        "El pedido de juicio político fue presentado por 35 diputados.",
-        "Latorre dijo que hay posicionamiento mayoritario oficialista a favor del juicio.",
-        "Peña sostiene que está convencido de su inocencia, según Latorre."
+        "La sesión extraordinaria comenzó con 77 legisladores en sala.",
+        "La Nación informó que el libelo acusatorio fue aprobado con 78 votos.",
+        "La acusación pasaría al Senado con dos tercios de los diputados presentes."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -210,6 +21,78 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Renuncia o juicio político: los dos escenarios que definirán el futuro de Santiago Peña",
+          "url": "https://elnacional.com.py/politica/renuncia-o-juicio-politico-dos-escenarios-definiran-futuro-santiago-pena-n114767",
+          "publishedAt": "2026-11-05T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Renuncia de Peña, juramento de Alliana y elección de vice: así será la tarde en el Congreso",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/renuncia-de-pena-juramento-de-alliana-y-eleccion-de-nuevo-vice-asi-sera-la-tarde-en-el-congreso",
+          "publishedAt": "2026-11-05T18:47:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2PRKX6F2SBATZCQ52HJ6YT5KIQ.jpg?auth=e6888db67f346e70cc847531d4bcb431e8d5d4062306a27ed5115130b014a15f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Diputados aprueban por unanimidad el juicio político a Santiago Peña",
+          "url": "https://www.telefuturo.com.py/diputados-aprueban-por-unanimidad-el-juicio-politico-a-santiago-pena",
+          "publishedAt": "2026-11-05T17:53:05.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Aceptarían renuncia de Peña y tomarían juramento a Alliana a las 18:00",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/aceptarian-renuncia-de-pena-y-tomarian-juramento-a-alliana-a-las-1800",
+          "publishedAt": "2026-11-05T17:49:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/37ZjysFjYm4ub6KVJr_JXRhT5yw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X5GUIUYG35BSLBN4J26PHIBSX4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Dos países en el Congreso: En uno, se convoca a bicameral; en el otro, aprueban juicio a Peña",
+          "url": "https://www.adndigital.com.py/dos-paises-en-el-congreso-en-uno-se-convoca-a-bicameral-en-el-otro-aprueban-juicio-a-pena",
+          "publishedAt": "2026-11-05T17:45:55.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/whatsapp-image-2026-07-23-at-1205341-1024x683.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados aprueban por unanimidad libelo acusatorio para juicio político de Santiago Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/diputados-aprueban-por-unanimidad-libelo-acusatorio-para-juicio-politico-de-santiago-pena",
+          "publishedAt": "2026-11-05T17:43:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dyD95Rgmt3ztJLZ1bRI5uX6qnPg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6Z5RYESSPVG5FGOZ22MFK2OKKM.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Diputados aprueban juicio contra Peña, pero Bicameral aceptaría renuncia",
+          "url": "https://www.hoy.com.py/politica/2026/11/05/diputados-aprueban-juicio-contra-pena-pero-senado-aceptaria-renuncia",
+          "publishedAt": "2026-11-05T17:42:46.353Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SWL63LJHD5CQ7BESK4HJTJBLPQ.jpg?auth=ed44dd42b3465d17b2748a4ebfca962e98a7d576b9012490cd557f75b764bc56&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Diputados aprueban pedido de juicio político contra Peña",
+          "url": "https://elnacional.com.py/politica/diputados-aprueban-pedido-juicio-politico-pena-n114761",
+          "publishedAt": "2026-11-05T17:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a76e191e1c3b.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Diputados aprueban juicio político contra Santiago Peña, pese a su renuncia",
+          "url": "https://www.abc.com.py/politica/2026/11/05/diputados-aprueban-juicio-politico-contra-santiago-pena-pese-a-su-renuncia",
+          "publishedAt": "2026-11-05T17:23:36.000Z",
+          "image": "https://www.abc.com.py/resizer/1_66qf1cEUmm7lxkFnsz6ZWEoxc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EEY5S523JFEMRIMPC2F5NSV474.jpeg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -225,6 +108,14 @@
           "url": "https://www.abc.com.py/politica/2026/11/05/juicio-politico-a-santiago-pena-ya-estan-los-seis-fiscales-acusadores",
           "publishedAt": "2026-11-05T15:05:27.000Z",
           "image": "https://www.abc.com.py/resizer/SZZsez27-aC9Lr1HJ2yOWkAijQY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4MYKMEPGF5EGFBPYW4CSU26DZQ.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Diputados aprueban por unanimidad el juicio político contra Santiago Peña",
+          "url": "https://5dias.com.py/article/diputados-aprueban-por-unanimidad-el-juicio-poltico-contra-santiago-pea",
+          "publishedAt": "2026-11-05T14:39:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/69732e78421e7__990x520_20261105_144552.webp"
         },
         {
           "sourceId": "lanacion",
@@ -412,15 +303,203 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG?auth=612164b07524ae522bed08c05da13ae2ad922642aaad0dba9be60ed2aef6edba&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FKDCSQEHEBDVJKCVGPXR5OZI6I.jpeg?auth=18853d835f9927229076c60eeff2d6da7644e8ff968f042e3f95aa361d121ffd&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/04/latorre-convoca-a-sesion-extra-para-tratar-juicio-politico-a-pena-y-alliana"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/05/juicio-politico-diputados-inicia-debate-y-pena-dice-que-dara-batalla"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T19:37:11.341Z",
+      "updatedSlot": "tarde",
+      "score": 32.99
+    },
+    {
+      "id": "ev-0rdmwbs",
+      "title": "BCP habilita consulta de banco asignado para el anticipo a ahorristas de Ueno",
+      "summary": "El Banco Central del Paraguay (BCP) habilitó una plataforma para que los ahorristas de Ueno Bank verifiquen en qué entidad recibirán el anticipo del Fondo de Garantía de Depósitos. La consulta puede hacerse sin esperar el correo electrónico, según el comunicado del organismo.\n\nEl anticipo será de hasta 40 salarios mínimos, unos G. 121 millones según las notas. Del monto se descontarán las deudas vencidas con Ueno Bank. El pago se iniciará en un plazo de 24 horas y no podrá superar los cinco días hábiles.\n\nLos ahorristas recibirán un correo desde fgdpagos@bcp.gov.py indicando el banco asignado. Pedro Acosta, presidente interino del BCP, explicó en conferencia de prensa que los pagos priorizan lo aprobado por ley. La garantía total de 75 salarios mínimos será un procedimiento posterior.",
+      "keyPoints": [
+        "El BCP habilitó una plataforma para consultar el banco asignado para el anticipo.",
+        "El anticipo es de hasta 40 salarios mínimos, unos G. 121 millones.",
+        "Las deudas vencidas con Ueno Bank se descontarán del monto.",
+        "El pago se inicia en 24 horas y no puede superar cinco días hábiles."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ahorristas de ueno podrán consultar el banco asignado para recibir el anticipo del FGD",
+          "url": "https://www.lanacion.com.py/foco/2026/11/05/ahorristas-de-ueno-podran-consultar-el-banco-asignado-para-recibir-el-anticipo-del-fgd",
+          "publishedAt": "2026-11-05T14:33:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/e243mSIp9PVyAlOGF1KBXjpoF7Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SNYOLNOKKJALXM44ORTAZSTWBA.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: no habrá correo; el BCP habilitará plataforma de registro y consulta para ahorristas afectados",
+          "url": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-bcp-habilitara-plataforma-registro-para-ahorristas-afectados",
+          "publishedAt": "2026-11-05T13:25:02.000Z",
+          "image": "https://www.abc.com.py/resizer/t5QV60QzKzJ_tVJ8X7wLv7e8vOg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PKAVKZGW6ZBQDNNXX25XZ6UPMM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "BCP notificará por correo a clientes de ueno bank dónde cobrarán sus ahorros desde este jueves",
+          "url": "https://elnacional.com.py/economia/bcp-notificara-correo-clientes-ueno-bank-donde-cobraran-sus-ahorros-jueves-n114733",
+          "publishedAt": "2026-11-05T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae98f359e4c8.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "BCP establece mecanismos para devolver los ahorros de clientes de Ueno Bank",
+          "url": "https://www.npy.com.py/noticias/nacionales/bcp-establece-mecanismos-para-devolver-los-ahorros-de-clientes-de-ueno-bank",
+          "publishedAt": "2026-11-05T11:26:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "BCP avisará desde hoy a los ahorristas de ueno dónde cobrar su dinero",
+          "url": "https://www.adndigital.com.py/bcp-avisara-desde-hoy-a-los-ahorristas-de-ueno-donde-cobrar-su-dinero",
+          "publishedAt": "2026-11-05T10:22:47.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-072102-1024x681.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Atención clientes de Ueno! Este es el mail oficial para el cobro del anticipo y el correo debe llegar hoy",
+          "url": "https://www.abc.com.py/economia/2026/11/05/atencion-clientes-de-ueno-este-es-el-mail-oficial-para-el-cobro-del-anticipo",
+          "publishedAt": "2026-11-05T10:18:08.000Z",
+          "image": "https://www.abc.com.py/resizer/7nz4IYJa6CW4Ia-V9UCRb6lT8VI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z7JJYMRAVBHNRMJ4XPG2IZIJDI.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "BCP iniciará pago a ahorristas de Ueno Bank",
+          "url": "https://www.telefuturo.com.py/bcp-iniciara-pago-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-05T10:00:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Promulgan ley que permite anticipar hasta G. 121 millones a ahorristas de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/promulgan-ley-permite-anticipar-g-121-millones-ahorristas-ueno-bank-n114728",
+          "publishedAt": "2026-11-05T08:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeaf9a186e16.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo promulga ley y ahorristas ya podrán cobrar desde el viernes",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/ejecutivo-promulga-ley-y-ahorristas-ya-podran-cobrar-desde-el-viernes",
+          "publishedAt": "2026-11-05T04:21:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Rk4xKClafSHjr8Ahqgm5abVGoFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCMMD33PP5AUJL5WAION43NTKI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
+          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T01:18:53.000Z",
+          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T00:19:20.089Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
+          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
+          "publishedAt": "2026-11-04T23:40:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:27:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
+          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
+          "publishedAt": "2026-11-04T23:17:11.000Z",
+          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:12:53.429Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña promulga ley que habilita anticipos de hasta 40 salarios mínimos a ahorristas",
+          "url": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas",
+          "publishedAt": "2026-11-04T21:43:10.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado sanciona ley para agilizar devolución de ahorros de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/senado-sanciona-ley-para-agilizar-devolucion-de-ahorros-de-ueno-bank",
+          "publishedAt": "2026-11-04T20:11:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GsGBxW6ZgwZhSrvguk9vXZO50Ws=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CKRTT7WSEBHOFCE7OQUYNNZIY4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
+          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
+          "publishedAt": "2026-11-04T20:05:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados incorporan cambios y proyecto de protección a ahorristas vuelve al Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado",
+          "publishedAt": "2026-11-04T19:10:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aSrrw2-TZxqzopovhpBFJlbkI-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
+          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
+          "publishedAt": "2026-11-04T16:39:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PKAVKZGW6ZBQDNNXX25XZ6UPMM.jpg?auth=3f9b5543991ce3afdfb05188aa48c5852786301ca28550c3e8b457c80823f986&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-bcp-habilitara-plataforma-registro-para-ahorristas-afectados"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T16:07:14.914Z",
       "updatedSlot": "tarde",
-      "score": 29.94
+      "score": 32.58
     },
     {
       "id": "ev-0xwz564",
@@ -535,7 +614,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 26.55
+      "score": 26.26
     },
     {
       "id": "ev-1709u1f",
@@ -618,7 +697,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 19.93
+      "score": 19.64
+    },
+    {
+      "id": "ev-0w68lrt",
+      "title": "Investigan presunta trata de personas tras hallar a 64 extranjeros en Ciudad del Este",
+      "summary": "Un operativo fiscal y policial encontró a 64 ciudadanos extranjeros, de origen chino según las notas, en el antiguo hotel Betel, en el Área 4 de Ciudad del Este. Se investiga un presunto caso de trata de personas.\n\nEntre los hallados había 61 hombres y tres mujeres, todos mayores de edad. Según las notas, estaban en condiciones precarias y sin poder salir libremente, lo que motivó la sospecha de explotación laboral y sexual. La fiscal Vivian Andrea Coronel, que encabezó el operativo Dragón Jade, dijo que las mujeres podrían haber sido utilizadas con fines de explotación sexual.\n\nFue detenido Diego Nemecio Espinoza Paredes, señalado como encargado del establecimiento. Vanguardia informó que los investigadores sospechan de apuestas ilegales online y que la barrera idiomática complica la investigación.",
+      "keyPoints": [
+        "Se hallaron 64 extranjeros en un antiguo hotel de Ciudad del Este.",
+        "Un hombre fue detenido y señalado como encargado del lugar.",
+        "La fiscalía investiga un presunto caso de trata de personas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Hallan a 64 ciudadanos chinos encerrados en un antiguo hotel de Ciudad del Este",
+          "url": "https://www.adndigital.com.py/hallan-a-64-ciudadanos-chinos-encerrados-en-un-antiguo-hotel-de-ciudad-del-este",
+          "publishedAt": "2026-11-05T19:23:47.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Rescatan a 64 orientales presuntas víctimas de trata",
+          "url": "https://diariovanguardia.com.py/rescatan-a-64-orientales-presuntas-victimas-de-trata",
+          "publishedAt": "2026-11-05T13:36:06.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/chinos-rojos-952x1024.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rescatan a 64 ciudadanos chinos que habrían sido sometidos a explotación laboral",
+          "url": "https://www.abc.com.py/este/2026/11/04/rescatan-a-64-ciudadanos-chinos-que-habrian-sido-sometidos-a-explotacion-laboral",
+          "publishedAt": "2026-11-05T00:29:55.000Z",
+          "image": "https://www.abc.com.py/resizer/Qq6WQYAN4C0skbxQ22h6UqMp29k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LMWGTFTX3FGU5MB4XGSPVHNXLI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan hotel y encuentran a 64 chinos en condición de aparente explotación laboral",
+          "url": "https://www.lanacion.com.py/pais/2026/11/04/allanan-hotel-y-encuentran-a-64-chinos-en-condicion-de-aparente-explotacion-laboral",
+          "publishedAt": "2026-11-05T00:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FYN7ars9_fcARTzqCrwhY5kosw8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HM6E2YSKTZDFDGYMKZNUGG3ZCM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/chinos-rojos-952x1024.jpeg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/rescatan-a-64-orientales-presuntas-victimas-de-trata"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T19:37:11.341Z",
+      "updatedSlot": "tarde",
+      "score": 17.98
     },
     {
       "id": "ev-1tcn2j2",
@@ -693,7 +831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.91
+      "score": 16.62
     },
     {
       "id": "ev-0maec1p",
@@ -752,7 +890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.63
+      "score": 16.34
     },
     {
       "id": "ev-1cluuq8",
@@ -811,7 +949,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.31
+      "score": 16.01
     },
     {
       "id": "ev-0vzo71i",
@@ -887,7 +1025,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 14.01
+      "score": 13.72
     },
     {
       "id": "ev-0abyhhq",
@@ -938,7 +1076,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 13.54
+      "score": 13.25
     },
     {
       "id": "ev-0qi6hto",
@@ -997,7 +1135,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 13.27
+      "score": 13
     },
     {
       "id": "ev-15t4fpy",
@@ -1049,7 +1187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 13.02
+      "score": 12.73
     },
     {
       "id": "ev-0cuunjr",
@@ -1100,7 +1238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 12.74
+      "score": 12.45
     },
     {
       "id": "ev-1662w43",
@@ -1167,7 +1305,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 11.57
+      "score": 11.28
     },
     {
       "id": "ev-1efj9gp",
@@ -1218,7 +1356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.92
+      "score": 9.63
     },
     {
       "id": "ev-1nulwym",
@@ -1269,7 +1407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1y9r0js",
@@ -1320,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.84
+      "score": 9.55
     },
     {
       "id": "ev-1j455ws",
@@ -1364,7 +1502,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.71
     },
     {
       "id": "ev-0ojv7rr",
@@ -1408,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.62
     },
     {
       "id": "ev-0qa0awr",
@@ -1451,7 +1589,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.54
     },
     {
       "id": "ev-076i4of",
@@ -1495,7 +1633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.42
     },
     {
       "id": "ev-1dsylq7",
@@ -1534,51 +1672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.71
-    },
-    {
-      "id": "ev-0w68lrt",
-      "title": "Rescatan a 64 ciudadanos chinos en un allanamiento en Ciudad del Este",
-      "summary": "La fiscal Vivian Coronel encabezó un operativo en Ciudad del Este donde se encontraron 64 personas de nacionalidad china en situación de hacinamiento. Según la fiscal, la principal hipótesis es trata de personas con fines de explotación laboral, sin descartar explotación sexual.\n\nEl allanamiento se hizo en un edificio de la avenida América, en el Área 4, y fue detenido Diego Nemecio Espinoza Paredes, quien sería el encargado del lugar. Las personas vivían en habitaciones pequeñas y no podían salir por las aberturas selladas. La intervención se originó en una denuncia recibida hace unos días. Se incautaron celulares, computadoras y dispositivos de almacenamiento.",
-      "keyPoints": [
-        "Se verificaron 64 personas, 61 hombres y 3 mujeres.",
-        "Fue detenido Diego Nemecio Espinoza Paredes, según las notas.",
-        "La fiscal investiga una posible trata de personas.",
-        "Se secuestraron celulares, computadoras y dispositivos de datos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Rescatan a 64 ciudadanos chinos que habrían sido sometidos a explotación laboral",
-          "url": "https://www.abc.com.py/este/2026/11/04/rescatan-a-64-ciudadanos-chinos-que-habrian-sido-sometidos-a-explotacion-laboral",
-          "publishedAt": "2026-11-05T00:29:55.000Z",
-          "image": "https://www.abc.com.py/resizer/Qq6WQYAN4C0skbxQ22h6UqMp29k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LMWGTFTX3FGU5MB4XGSPVHNXLI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan hotel y encuentran a 64 chinos en condición de aparente explotación laboral",
-          "url": "https://www.lanacion.com.py/pais/2026/11/04/allanan-hotel-y-encuentran-a-64-chinos-en-condicion-de-aparente-explotacion-laboral",
-          "publishedAt": "2026-11-05T00:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/FYN7ars9_fcARTzqCrwhY5kosw8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HM6E2YSKTZDFDGYMKZNUGG3ZCM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LMWGTFTX3FGU5MB4XGSPVHNXLI.jpg?auth=26bb59d38077a081619f6d559a43a656e3e6448881bfca9691f2f55a642bd8ac&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/este/2026/11/04/rescatan-a-64-ciudadanos-chinos-que-habrian-sido-sometidos-a-explotacion-laboral"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.42
     },
     {
       "id": "ev-0ajcwnl",
@@ -1621,7 +1715,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.35
     },
     {
       "id": "ev-0xhsnjb",
@@ -1660,7 +1754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.31
     },
     {
       "id": "ev-1tsa4p1",
@@ -1703,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.4
+      "score": 8.11
     },
     {
       "id": "ev-1l50nm8",
@@ -1746,7 +1840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.05
     },
     {
       "id": "ev-0hm2obz",
@@ -1789,7 +1883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.04
     },
     {
       "id": "ev-14k652b",
@@ -1832,7 +1926,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.12
+      "score": 8
     },
     {
       "id": "ev-1rwq74f",
@@ -1966,7 +2060,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 7.35
+      "score": 7.06
     },
     {
       "id": "ev-18askf1",
@@ -2009,7 +2103,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1vq8a0j",
@@ -2053,7 +2147,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1fx3xld",
@@ -2093,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.84
+      "score": 5.55
     },
     {
       "id": "ev-0j9v069",
@@ -2136,7 +2230,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.68
+      "score": 5.39
     },
     {
       "id": "ev-1biyecj",
@@ -2172,7 +2266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-083ldda",
@@ -2208,7 +2302,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0yz9vns",
@@ -2240,7 +2334,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1co6bey",
@@ -2276,7 +2370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-02pigjq",
@@ -2311,7 +2405,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-067mvbi",
@@ -2346,7 +2440,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1p0ugxt",
@@ -2382,7 +2476,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.79
+      "score": 4.5
     },
     {
       "id": "ev-1p8s9ls",
@@ -2418,7 +2512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.65
+      "score": 4.35
     },
     {
       "id": "ev-12dsoi8",
@@ -2453,7 +2547,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.32
     },
     {
       "id": "ev-1rd4mb7",
@@ -2497,7 +2591,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.03
+      "score": 2.74
     },
     {
       "id": "ev-1v4v5z3",
@@ -2529,7 +2623,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.14
     },
     {
       "id": "ev-0c71fju",
@@ -2561,7 +2655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.14
     },
     {
       "id": "ev-0l575zn",
@@ -2593,7 +2687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.14
     },
     {
       "id": "ev-1nolef7",
@@ -2625,7 +2719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.04
+      "score": 1.75
     },
     {
       "id": "ev-15pviou",
@@ -2660,7 +2754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 1.96
+      "score": 1.67
     }
   ],
   "runs": [
@@ -2691,6 +2785,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-05T19:37:11.341Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 19
     }
   ]
 }
