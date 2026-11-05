@@ -1,11 +1,351 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-05T03:26:34.885Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-05T08:07:13.039Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1ugzwb3",
+      "title": "Diputados de oposición y disidencia colorada presentan juicio político contra Peña y Alliana",
+      "summary": "Un grupo de 35 diputados de la oposición y de la disidencia colorada formalizó el pedido de juicio político contra el presidente Santiago Peña y el vicepresidente Pedro Alliana. La medida se presentó en medio de la crisis de Ueno Bank.\n\nLos libelos acusan presunto mal desempeño de funciones y conflicto de intereses. Según las notas, también apuntan al uso de fondos del IPS y a irregularidades regulatorias. Son acusaciones de los impulsores, que aún no fueron probadas.\n\nPara avanzar, la oposición necesita más votos. Según ADN Digital, debe sumar al menos seis legisladores para alcanzar el quórum de 41 diputados. La aprobación exige 27 votos, dos tercios de los presentes. Si Diputados aprueba, el caso pasa al Senado, que juzga la acusación.",
+      "keyPoints": [
+        "El pedido lo presentaron 35 diputados de la oposición y de la disidencia colorada.",
+        "La acusación habla de presunto mal desempeño y conflicto de intereses.",
+        "Se necesitan 27 votos, dos tercios de los presentes, para aprobar la acusación.",
+        "Si Diputados aprueba, el Senado juzga el caso."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Benítez y Vaesken: por qué piden juicio político a Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/05/benitez-y-vaesken-por-que-piden-juicio-politico-a-pena-y-alliana",
+          "publishedAt": "2026-11-05T04:00:57.000Z",
+          "image": "https://www.abc.com.py/resizer/JcatXjDddzZov4X-Nz-CjYmKl3k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RV274HL5I5FU3MO3VLQMJYP23A.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno Bank, EN VIVO: Diputados convoca a sesión extraordinaria para tratar juicio político a Peña",
+          "url": "https://www.abc.com.py/politica/2026/11/04/en-vivo-diputados-trata-en-sesion-extraordinaria-el-anticipo-del-fondo-de-garantia-para-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-05T03:11:42.000Z",
+          "image": "https://www.abc.com.py/resizer/aTpMnHMDmbR0_b45nNXTewgUmfk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XE5EA23QOBC47DOZSRESJY2AY4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Diputados convoca a sesión extra este jueves para tratar juicio político a Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/04/juicio-politico-a-pena-latorre-convoca-para-este-jueves-a-sesion-extra",
+          "publishedAt": "2026-11-05T01:53:19.000Z",
+          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Diputados convoca a sesión extra para tratar juicio político a Santiago Peña",
+          "url": "https://www.ultimahora.com/diputados-convoca-a-sesion-extra-para-tratar-juicio-politico-a-santiago-pena",
+          "publishedAt": "2026-11-05T01:06:02.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Diputados oficialistas negocian con Peña sobre juicio político en Mburuvicha Róga",
+          "url": "https://www.ultimahora.com/diputados-oficialistas-negocian-con-pena-sobre-juicio-politico-en-mburuvicha-roga",
+          "publishedAt": "2026-11-05T00:36:38.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Valdés sostiene que Peña debe afrontar un juicio político por su vínculo con Ueno Bank",
+          "url": "https://www.abc.com.py/politica/2026/11/04/valdes-sostiene-que-pena-debe-afrontar-un-juicio-politico-por-su-vinculo-con-ueno-bank",
+          "publishedAt": "2026-11-05T00:21:13.000Z",
+          "image": "https://www.abc.com.py/resizer/D_GcdDL9ZKCFp8jFF6sge8V0ImE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2GFXJWGKNJDSFPTD6QXTQZM73U.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Latorre dilata convocatoria a sesión para tratar libelo acusatorio contra Peña",
+          "url": "https://www.abc.com.py/politica/2026/11/04/latorre-dilata-convocatoria-a-sesion-para-tratar-libelo-acusatorio-contra-pena",
+          "publishedAt": "2026-11-04T22:37:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Latorre convoca a sesión extra para tratar juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/latorre-convoca-a-sesion-extra-para-tratar-juicio-politico-a-pena-y-alliana",
+          "publishedAt": "2026-11-04T22:15:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Formalizan pedido de juicio político contra Peña y Alliana",
+          "url": "https://www.adndigital.com.py/formalizan-pedido-de-juicio-politico-contra-pena-y-alliana",
+          "publishedAt": "2026-11-04T19:47:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164705.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Oposición y disidentes oficializan juicio político al Ejecutivo",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/oposicion-y-disidentes-oficializan-juicio-politico-al-ejecutivo",
+          "publishedAt": "2026-11-04T18:21:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yp7lpDjAPjOFFwVJNRkfCWy3XT8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EFM6G65A5VGMTC3K6NDXB7ZVSU.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juicio político a Peña y Alliana: oposición presenta acusaciones y busca votos del oficialismo",
+          "url": "https://elnacional.com.py/politica/juicio-politico-pena-alliana-oposicion-presenta-acusaciones-busca-votos-oficialismo-n114710",
+          "publishedAt": "2026-11-04T18:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb77c7bf0f5.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Caso Ueno Bank: diputados reúnen 21 firmas en libelo acusatorio contra Peña y Alliana",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/caso-ueno-bank-diputados-reunen-21-firmas-en-libelo-acusatorio-contra-pena-y-alliana",
+          "publishedAt": "2026-11-04T14:03:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Disidencia colorada y oposición firman el libelo para juicio político",
+          "url": "https://www.telefuturo.com.py/disidencia-colorada-y-oposicion-firman-el-libelo-para-juicio-politico",
+          "publishedAt": "2026-11-04T14:01:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición reúne firmas para libelo acusatorio contra Peña y Alliana: \"Las causales hay de sobra\"",
+          "url": "https://elnacional.com.py/politica/oposicion-reune-firmas-libelo-acusatorio-pena-alliana-las-causales-hay-sobra-n114686",
+          "publishedAt": "2026-11-04T12:13:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb2c7843151.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164705.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/formalizan-pedido-de-juicio-politico-contra-pena-y-alliana"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 26.66
+    },
+    {
+      "id": "ev-0rdmwbs",
+      "title": "Diputados modifica proyecto de ahorristas de Ueno y lo devuelve al Senado",
+      "summary": "La Cámara de Diputados aprobó cambios al proyecto de ley que busca acelerar la devolución de depósitos a los ahorristas afectados por la crisis de Ueno Bank. El texto vuelve ahora al Senado para un nuevo análisis.\n\nSe mantiene el plazo de pago en 24 horas, con un máximo de cinco días hábiles. Diputados eliminó el artículo que habilitaba temporalmente la aplicación de Ueno Bank y su acceso al SIPAP, porque la plataforma está fuera de servicio por la resolución.\n\nLa versión también mantiene un tope de 40 salarios mínimos. Limita el cobro de créditos a las cuotas vencidas y a los pagos mínimos de tarjetas.",
+      "keyPoints": [
+        "Diputados aprobó cambios al proyecto en sesión extraordinaria.",
+        "Se mantiene el pago en 24 horas, con máximo de cinco días hábiles.",
+        "Se eliminó el artículo sobre la aplicación de Ueno Bank y el SIPAP.",
+        "El proyecto vuelve al Senado."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
+          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T01:18:53.000Z",
+          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T00:19:20.089Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
+          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
+          "publishedAt": "2026-11-04T23:40:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:27:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
+          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
+          "publishedAt": "2026-11-04T23:17:11.000Z",
+          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:12:53.429Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
+          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
+          "publishedAt": "2026-11-04T20:05:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados incorporan cambios y proyecto de protección a ahorristas vuelve al Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado",
+          "publishedAt": "2026-11-04T19:10:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aSrrw2-TZxqzopovhpBFJlbkI-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
+          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
+          "publishedAt": "2026-11-04T16:39:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 23.43
+    },
+    {
+      "id": "ev-0xwz564",
+      "title": "Fiscalía imputa a 27 personas por caso Ueno Bank y pide prisión para Vázquez",
+      "summary": "El Ministerio Público imputó a 27 personas vinculadas a Ueno Bank, entre ellas directivos de la entidad y de empresas relacionadas. La investigación busca presuntas irregularidades financieras que habrían comprometido los activos del banco.\n\nLa Fiscalía pidió prisión preventiva para Federico Miguel Vázquez Villasanti. Para la mayoría de los demás imputados pidió arresto domiciliario con tobillera electrónica. Los imputados tienen presunción de inocencia.\n\nLos hechos atribuidos son conducta indebida en situaciones de crisis, lesión de confianza, tentativa de estafa y violación de la obligación de llevar libros de comercio. Antes, ocho directivos con orden de detención quedaron a disposición de las autoridades.",
+      "keyPoints": [
+        "La Fiscalía imputó a 27 personas por el caso Ueno Bank.",
+        "Pidió prisión preventiva para Federico Miguel Vázquez Villasanti.",
+        "Para la mayoría de los demás pidió arresto domiciliario con tobillera.",
+        "Los hechos son presuntos y los imputados presumen inocencia."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía imputó a 27 directivos de ueno y empresas vinculadas",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/fiscalia-imputo-a-27-directivos-de-ueno-y-empresas-vinculadas",
+          "publishedAt": "2026-11-05T03:52:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/eGpzZbQCYLxuwbI0wUs9iCTPnNo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BBVDESU235CJZJ67THHRU5HWTA.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Caso Ueno Bank: juez admite imputación y convoca a detenidos para este jueves",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/caso-ueno-bank-juez-admite-imputacion-y-convoca-a-detenidos-para-este-jueves",
+          "publishedAt": "2026-11-04T23:29:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/EC57O4DFJ5FEBEOWLPGWPQBNFQ.jpeg?auth=8cc098c774f46155a68338ca645126605bfc9088687592c385dcc43572edd9b0&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "ueno bank: juez admite imputación y convoca a audiencia de imposición de medidas para este jueves",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/04/ueno-bank-juez-admite-imputacion-y-convoca-a-audiencia-de-imposicion-de-medidas-para-este-jueves",
+          "publishedAt": "2026-11-04T20:45:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0Qff81kmukov5bjVcVERLM0QVYM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OA5U7KE3GVGEDGR5WAHYOOCII4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Imputan a 27 personas por presunto esquema irregular en Ueno Bank",
+          "url": "https://www.adndigital.com.py/imputan-a-27-personas-por-presunto-esquema-irregular-en-ueno-bank",
+          "publishedAt": "2026-11-04T19:41:54.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164104.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "La Fiscalía imputa a 27 por caso Ueno Bank",
+          "url": "https://5dias.com.py/article/la-fiscala-imputa-a-27-por-caso-ueno-bank",
+          "publishedAt": "2026-11-04T19:17:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-04_at_7.23.16_PM_20261104_192330.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno bank: Imputan a 27 personas y piden prisión de Miguel Vázquez",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/04/caso-ueno-bank-imputan-a-27-personas-y-piden-prision-de-miguel-vazquez",
+          "publishedAt": "2026-11-04T18:25:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vC06Qsb6BbT0Y0Wx_BNY0dYULAg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/T2DHH27DBJE5HHMMQO27TZ4LKQ.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía imputa a 27 personas por crisis de Ueno Bank y pide prisión para Miguel Vázquez",
+          "url": "https://elnacional.com.py/politica/fiscalia-imputa-27-personas-crisis-ueno-bank-pide-prision-miguel-vazquez-n114711",
+          "publishedAt": "2026-11-04T18:23:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb787064a58.webp"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía pide prisión preventiva para Miguel Vázquez e imputa a otros 26 directivos de Grupo Vázquez",
+          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-vicepresidente-de-ueno-bank-por-presuntas-irregularidades",
+          "publishedAt": "2026-11-04T16:44:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_yrks5wyrks5wyrks_20261104_165457.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Directivos detenidos de ueno bank declaran hoy ante la Fiscalía",
+          "url": "https://elnacional.com.py/economia/directivos-detenidos-ueno-bank-declaran-hoy-fiscalia-n114685",
+          "publishedAt": "2026-11-04T11:51:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BBVDESU235CJZJ67THHRU5HWTA.jpg?auth=778ac73ceb96c3053a2ab7c57cb3d16cd8ff0e74a3c99f07b1ec5df0f4fff2e0&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/fiscalia-imputo-a-27-directivos-de-ueno-y-empresas-vinculadas"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 20.65
+    },
     {
       "id": "ev-1709u1f",
       "title": "Senado aprueba a Pedro Acosta para el directorio del BCP",
@@ -87,280 +427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 20.99
-    },
-    {
-      "id": "ev-1ugzwb3",
-      "title": "Latorre convoca sesión extraordinaria el jueves para tratar juicio político a Peña",
-      "summary": "El presidente de la Cámara de Diputados, Raúl Latorre, convocó a sesión extraordinaria para este jueves 5 de noviembre a las 10:00. Se tratará el libelo acusatorio contra el presidente Santiago Peña. Según las resoluciones 4699 y 4700, la sesión por el vicepresidente Pedro Alliana se realizará al término de la primera.\n\nLos dos proyectos fueron girados a la Comisión de Asuntos Constitucionales. Antes, Latorre había evitado fijar fecha y hora. El diputado Arnaldo Valdés (PLRA) dijo que aún no tienen certeza de reunir el quórum, que requiere al menos 41 votos. Colorado Añetete es el único sector del oficialismo que manifestó apoyo a la iniciativa.",
-      "keyPoints": [
-        "La sesión para Peña será el jueves a las 10:00.",
-        "La sesión para Alliana se hará al término de la primera.",
-        "Los proyectos fueron girados a la Comisión de Asuntos Constitucionales."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno Bank, EN VIVO: Diputados convoca a sesión extraordinaria para tratar juicio político a Peña",
-          "url": "https://www.abc.com.py/politica/2026/11/04/en-vivo-diputados-trata-en-sesion-extraordinaria-el-anticipo-del-fondo-de-garantia-para-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-05T03:11:42.000Z",
-          "image": "https://www.abc.com.py/resizer/aTpMnHMDmbR0_b45nNXTewgUmfk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XE5EA23QOBC47DOZSRESJY2AY4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Diputados convoca a sesión extra este jueves para tratar juicio político a Peña y Alliana",
-          "url": "https://www.abc.com.py/politica/2026/11/04/juicio-politico-a-pena-latorre-convoca-para-este-jueves-a-sesion-extra",
-          "publishedAt": "2026-11-05T01:53:19.000Z",
-          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Diputados convoca a sesión extra para tratar juicio político a Santiago Peña",
-          "url": "https://www.ultimahora.com/diputados-convoca-a-sesion-extra-para-tratar-juicio-politico-a-santiago-pena",
-          "publishedAt": "2026-11-05T01:06:02.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Diputados oficialistas negocian con Peña sobre juicio político en Mburuvicha Róga",
-          "url": "https://www.ultimahora.com/diputados-oficialistas-negocian-con-pena-sobre-juicio-politico-en-mburuvicha-roga",
-          "publishedAt": "2026-11-05T00:36:38.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Valdés sostiene que Peña debe afrontar un juicio político por su vínculo con Ueno Bank",
-          "url": "https://www.abc.com.py/politica/2026/11/04/valdes-sostiene-que-pena-debe-afrontar-un-juicio-politico-por-su-vinculo-con-ueno-bank",
-          "publishedAt": "2026-11-05T00:21:13.000Z",
-          "image": "https://www.abc.com.py/resizer/D_GcdDL9ZKCFp8jFF6sge8V0ImE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2GFXJWGKNJDSFPTD6QXTQZM73U.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Latorre dilata convocatoria a sesión para tratar libelo acusatorio contra Peña",
-          "url": "https://www.abc.com.py/politica/2026/11/04/latorre-dilata-convocatoria-a-sesion-para-tratar-libelo-acusatorio-contra-pena",
-          "publishedAt": "2026-11-04T22:37:52.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Latorre convoca a sesión extra para tratar juicio político",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/latorre-convoca-a-sesion-extra-para-tratar-juicio-politico-a-pena-y-alliana",
-          "publishedAt": "2026-11-04T22:15:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Caso Ueno Bank: diputados reúnen 21 firmas en libelo acusatorio contra Peña y Alliana",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/caso-ueno-bank-diputados-reunen-21-firmas-en-libelo-acusatorio-contra-pena-y-alliana",
-          "publishedAt": "2026-11-04T14:03:46.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Oposición reúne firmas para libelo acusatorio contra Peña y Alliana: \"Las causales hay de sobra\"",
-          "url": "https://elnacional.com.py/politica/oposicion-reune-firmas-libelo-acusatorio-pena-alliana-las-causales-hay-sobra-n114686",
-          "publishedAt": "2026-11-04T12:13:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeb2c7843151.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/XE5EA23QOBC47DOZSRESJY2AY4.jpg?auth=dab7e1c89b008ca20dbcddfb05722588a9c5128531f3d16aa2cb1a566119d1f1&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/04/en-vivo-diputados-trata-en-sesion-extraordinaria-el-anticipo-del-fondo-de-garantia-para-ahorristas-de-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 20.98
-    },
-    {
-      "id": "ev-0rdmwbs",
-      "title": "El BCP empieza el jueves a pagar el anticipo a ahorristas de Ueno Bank",
-      "summary": "El Banco Central del Paraguay anunció que desde este jueves 5 de noviembre comenzará el pago del anticipo de la garantía de depósitos a los ahorristas de Ueno Bank. El monto es de hasta 40 salarios mínimos, que equivalen a G. 121.760.000 por cliente, según las notas.\n\nLos afectados recibirán un correo desde la dirección fgdpagos@bcp.gov.py con el banco donde se acreditará el pago. El proceso debe completarse en cinco días hábiles. Solo se descontarán las deudas vencidas, no las deudas de tarjetas de crédito, según explicó el presidente interino del BCP, Pedro Acosta.\n\nLa Superintendencia de Bancos entregará la lista de clientes y el BCP trabaja en la verificación de cuentas en otros bancos. El pago se hace en el marco de la Ley 7755/26.",
-      "keyPoints": [
-        "El pago es de hasta 40 salarios mínimos por cliente.",
-        "Los afectados recibirán un correo con el banco de acreditación.",
-        "El proceso debe completarse en cinco días hábiles."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
-          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T01:18:53.000Z",
-          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T00:19:20.089Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
-          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
-          "publishedAt": "2026-11-04T23:40:27.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:27:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
-          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
-          "publishedAt": "2026-11-04T23:17:11.000Z",
-          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:12:53.429Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
-          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
-          "publishedAt": "2026-11-04T16:39:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg?auth=6065b51f5af7c7ac5e056a4154e9964979d9c07eba7beef3dd7af880bfb8fb3a&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 20.82
-    },
-    {
-      "id": "ev-0xwz564",
-      "title": "Fiscalía imputa a 27 personas por caso Ueno Bank y pide prisión para Vázquez",
-      "summary": "El Ministerio Público imputó a 27 personas vinculadas a Ueno Bank por presuntas irregularidades financieras. Entre ellas está el vicepresidente primero de la entidad, Federico Miguel Vázquez Villasanti, para quien la Fiscalía pidió prisión preventiva. Los imputados enfrentan cargos por conducta indebida en situaciones de crisis, lesión de confianza, tentativa de estafa y violación de la obligación de llevar libros de comercio.\n\nPara los demás imputados, la Fiscalía solicitó arresto domiciliario con tobillera electrónica, según las notas. El juez de Garantías Humberto Otazú admitió la imputación y fijó para este jueves, a partir de las 07:30, la audiencia de imposición de medidas.\n\nLos imputados presumen su inocencia. Las calificaciones forman parte de la hipótesis de la Fiscalía.",
-      "keyPoints": [
-        "La Fiscalía imputa a 27 personas por la crisis de Ueno Bank.",
-        "Pide prisión preventiva para Federico Miguel Vázquez Villasanti.",
-        "Para otros imputados pidió arresto domiciliario con tobillera."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Caso Ueno Bank: juez admite imputación y convoca a detenidos para este jueves",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/caso-ueno-bank-juez-admite-imputacion-y-convoca-a-detenidos-para-este-jueves",
-          "publishedAt": "2026-11-04T23:29:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/EC57O4DFJ5FEBEOWLPGWPQBNFQ.jpeg?auth=8cc098c774f46155a68338ca645126605bfc9088687592c385dcc43572edd9b0&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "ueno bank: juez admite imputación y convoca a audiencia de imposición de medidas para este jueves",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/04/ueno-bank-juez-admite-imputacion-y-convoca-a-audiencia-de-imposicion-de-medidas-para-este-jueves",
-          "publishedAt": "2026-11-04T20:45:02.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0Qff81kmukov5bjVcVERLM0QVYM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OA5U7KE3GVGEDGR5WAHYOOCII4.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Imputan a 27 personas por presunto esquema irregular en Ueno Bank",
-          "url": "https://www.adndigital.com.py/imputan-a-27-personas-por-presunto-esquema-irregular-en-ueno-bank",
-          "publishedAt": "2026-11-04T19:41:54.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164104.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "La Fiscalía imputa a 27 por caso Ueno Bank",
-          "url": "https://5dias.com.py/article/la-fiscala-imputa-a-27-por-caso-ueno-bank",
-          "publishedAt": "2026-11-04T19:17:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-04_at_7.23.16_PM_20261104_192330.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno bank: Imputan a 27 personas y piden prisión de Miguel Vázquez",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/04/caso-ueno-bank-imputan-a-27-personas-y-piden-prision-de-miguel-vazquez",
-          "publishedAt": "2026-11-04T18:25:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vC06Qsb6BbT0Y0Wx_BNY0dYULAg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/T2DHH27DBJE5HHMMQO27TZ4LKQ.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía imputa a 27 personas por crisis de Ueno Bank y pide prisión para Miguel Vázquez",
-          "url": "https://elnacional.com.py/politica/fiscalia-imputa-27-personas-crisis-ueno-bank-pide-prision-miguel-vazquez-n114711",
-          "publishedAt": "2026-11-04T18:23:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeb787064a58.webp"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Fiscalía pide prisión preventiva para Miguel Vázquez e imputa a otros 26 directivos de Grupo Vázquez",
-          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-vicepresidente-de-ueno-bank-por-presuntas-irregularidades",
-          "publishedAt": "2026-11-04T16:44:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_yrks5wyrks5wyrks_20261104_165457.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Directivos detenidos de ueno bank declaran hoy ante la Fiscalía",
-          "url": "https://elnacional.com.py/economia/directivos-detenidos-ueno-bank-declaran-hoy-fiscalia-n114685",
-          "publishedAt": "2026-11-04T11:51:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/EC57O4DFJ5FEBEOWLPGWPQBNFQ.jpeg?auth=8cc098c774f46155a68338ca645126605bfc9088687592c385dcc43572edd9b0&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/04/caso-ueno-bank-juez-admite-imputacion-y-convoca-a-detenidos-para-este-jueves"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 20.67
+      "score": 20.6
     },
     {
       "id": "ev-1tcn2j2",
@@ -435,7 +502,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 17.97
+      "score": 17.58
     },
     {
       "id": "ev-0maec1p",
@@ -494,7 +561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 17.69
+      "score": 17.3
     },
     {
       "id": "ev-1cluuq8",
@@ -553,7 +620,194 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 17.36
+      "score": 16.97
+    },
+    {
+      "id": "ev-0vzo71i",
+      "title": "Cartes pide a Peña actuar con urgencia y firmeza por los ahorristas de ueno bank",
+      "summary": "El titular de la ANR, Horacio Cartes, pidió al presidente Santiago Peña una respuesta rápida y firme ante la crisis de ueno bank. Lo hizo en una carta y en un comunicado dirigido al pueblo colorado y a la ciudadanía. Cartes expresó solidaridad con los ahorristas, que enfrentan angustia e incertidumbre sobre sus depósitos.\n\nEn la carta, Cartes pidió que Peña disponga medidas legales e institucionales sin demora para restablecer la confianza y proteger a los afectados. También dijo que se reunió con senadores para impulsar la ampliación de la Ley 2334/03, de garantía de depósitos y resolución de entidades financieras. Según sus palabras, el objetivo es que los ahorristas recuperen sus activos con la mayor celeridad posible.\n\nCartes afirmó que el Partido Colorado acompañará las iniciativas para esclarecer lo ocurrido y encontrar soluciones. Pidió que no haya impunidad para nadie. Sus propias palabras fueron: hacen falta compromiso y acciones concretas, no discursos ni promesas vacías.",
+      "keyPoints": [
+        "Cartes pidió a Peña actuar con urgencia y firmeza.",
+        "Cartes habló de acompañar iniciativas para proteger a los ahorristas.",
+        "Propuso ampliar la Ley 2334/03 de garantía de depósitos.",
+        "Pidió que no haya impunidad para nadie."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cartes pide a Peña actuar con firmeza y a favor de ahorristas",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/cartes-pide-a-pena-actuar-con-firmeza-y-a-favor-de-ahorristas",
+          "publishedAt": "2026-11-05T04:15:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NvGAtEZDvbxSAsGYrGuPH_OQbDk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MGYKXNQAHVHIFFLPY7RLQFNF6Y.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cartes pide acciones concretas para proteger a los ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/cartes-pide-acciones-concretas-para-proteger-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T20:55:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dARpEsf65Mre3DzpazmYL0AQ6FM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ITXDZSB5IBFLNL3WAXILDZ2HMQ.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Cartes expresa solidaridad con ahorristas y promete acompañar búsqueda de soluciones",
+          "url": "https://www.adndigital.com.py/cartes-expresa-solidaridad-con-ahorristas-y-promete-acompanar-busqueda-de-soluciones",
+          "publishedAt": "2026-11-04T20:51:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-29-at-185311.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 4 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/04/ln-pm-edicion-del-4-de-noviembre",
+          "publishedAt": "2026-11-04T15:41:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DljqIn_RGNtWUheuUll5p0dTv_k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/35QVEQYFGVG4NMWIPZILVRESCI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El pedido de Cartes a Peña: “Actúe con urgencia y firmeza”",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/el-pedido-de-cartes-a-pena-actue-con-urgencia-y-firmeza",
+          "publishedAt": "2026-11-04T14:29:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8plp9HRvJ3kmpYNT3jUYtM16dEk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6QJBYNMNQ5FU3FCYJJOICVPTE4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cartes marca posición ante crisis de ueno bank y exige a Peña acciones urgentes",
+          "url": "https://elnacional.com.py/politica/cartes-marca-posicion-crisis-ueno-bank-exige-pena-acciones-urgentes-n114692",
+          "publishedAt": "2026-11-04T14:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a64d134ba304.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MGYKXNQAHVHIFFLPY7RLQFNF6Y.jpg?auth=8ef506b703c98013e61635e3ff230cf0df01a7640e61cccda1051e96b3c24674&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/cartes-pide-a-pena-actuar-con-firmeza-y-a-favor-de-ahorristas"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 14.68
+    },
+    {
+      "id": "ev-0qi6hto",
+      "title": "Directivos de ueno bank declaran ante la Fiscalía bajo fuerte custodia",
+      "summary": "Los directivos de ueno bank llegaron a la Fiscalía de Delitos Económicos para prestar declaración. Fueron trasladados por la Agrupación Especializada con fuerte custodia policial. Según la nota, llegaron esposados y con chalecos antibala.\n\nLa llegada fue en medio de escraches de ahorristas, que reclamaban por sus depósitos. La nota no detalla el contenido de la declaración.",
+      "keyPoints": [
+        "Directivos de ueno bank se presentaron ante la Fiscalía de Delitos Económicos.",
+        "Fueron trasladados con fuerte custodia policial.",
+        "Hubo escraches de ahorristas durante la llegada."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Ahorristas \"escrachan\" a directivos imputados de Ueno",
+          "url": "https://www.telefuturo.com.py/ahorristas-escrachan-a-directivos-imputados-de-ueno",
+          "publishedAt": "2026-11-04T19:18:41.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 4 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/04/ln-pm-edicion-del-4-de-noviembre",
+          "publishedAt": "2026-11-04T15:41:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DljqIn_RGNtWUheuUll5p0dTv_k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/35QVEQYFGVG4NMWIPZILVRESCI.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Directivos del banco Ueno llegaron encapuchados a la Fiscalía y fueron escrachados por los ahorristas",
+          "url": "https://www.npy.com.py/noticias/nacionales/directivos-del-banco-ueno-llegaron-encapuchados-a-la-fiscalia-y-fueron-escrachados-por-los-ahorristas",
+          "publishedAt": "2026-11-04T12:54:24.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Directivos de ueno bank se presentan ante la Fiscalía en medio de escraches",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/directivos-de-ueno-bank-se-presentan-ante-la-fiscalia-en-medio-de-escraches",
+          "publishedAt": "2026-11-04T12:33:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PVfHqV-J-r3s_0fQ80WF4SgZRZ0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NM2ZRZF5QZGLRJ4E5L54HCTHVM.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/35QVEQYFGVG4NMWIPZILVRESCI.jpg?auth=9a666254551fb7ce972cfff139362760c9ec9342a4768d8700e41ef1913a53cf&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/tapa-lnpm/2026/11/04/ln-pm-edicion-del-4-de-noviembre"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 13.93
+    },
+    {
+      "id": "ev-15t4fpy",
+      "title": "Peña promulga ley 7745; pagos a ahorristas de Ueno comenzarían el viernes",
+      "summary": "El presidente Santiago Peña promulgó la Ley n.º 7745, que habilita la devolución de ahorros a los clientes de Ueno Bank. La entidad fue intervenida y el Banco Central resolvió su liquidación el lunes. Peña instó al BCP a poner la ley en marcha de inmediato.\n\nLa norma permite un anticipo de hasta 40 salarios mínimos por depositante, equivalentes a G. 121.760.000. Según las notas, el pago debe comenzar el viernes y no extenderse más de cinco días hábiles en los procesos en curso. Antes se descuentan las obligaciones vencidas con la entidad.\n\nDe acuerdo con lo informado, el tope cubriría entre el 97 % y el 98 % de los afectados.",
+      "keyPoints": [
+        "Peña promulgó la Ley n.º 7745 de anticipo a ahorristas.",
+        "El anticipo es de hasta 40 salarios mínimos por depositante.",
+        "El pago debería comenzar el viernes.",
+        "El Banco Central fue instado a aplicar la ley de inmediato."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo promulga ley y ahorristas ya podrán cobrar desde el viernes",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/ejecutivo-promulga-ley-y-ahorristas-ya-podran-cobrar-desde-el-viernes",
+          "publishedAt": "2026-11-05T04:21:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Rk4xKClafSHjr8Ahqgm5abVGoFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCMMD33PP5AUJL5WAION43NTKI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña promulga ley que habilita anticipos de hasta 40 salarios mínimos a ahorristas",
+          "url": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas",
+          "publishedAt": "2026-11-04T21:43:10.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña promulga ley que habilita anticipos de hasta G. 121 millones a ahorristas de ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/pena-promulga-ley-que-habilita-anticipos-a-ahorristas-dentro-de-las-primeras-24-horas",
+          "publishedAt": "2026-11-04T21:22:49.474Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RFB4PEON4VBARK3AYL46FJRG3Q.jfif?auth=6293a5db1709788f7f6a1a6d2a2deeb1f6ec02eb03630f3e69756bf0c124d618&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CCMMD33PP5AUJL5WAION43NTKI.jpg?auth=0af9889bcb63eab4b2f7e3f724195ea5dd0a58a9bf6d94fb51b09095bda04c20&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/ejecutivo-promulga-ley-y-ahorristas-ya-podran-cobrar-desde-el-viernes"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedSlot": "manana",
+      "score": 13.69
     },
     {
       "id": "ev-0cuunjr",
@@ -604,59 +858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 13.8
-    },
-    {
-      "id": "ev-0qi6hto",
-      "title": "Ocho directivos de Ueno Bank declaran ante la Fiscalía entre escraches de ahorristas",
-      "summary": "Ocho directivos imputados de Ueno Bank llegaron a la Fiscalía de Delitos Económicos para prestar declaración indagatoria. Llegaron detenidos, con custodia policial, encapuchados y esposados, según las notas.\n\nAhorristas afectados por la disolución de la entidad los recibieron con gritos y reclamos. Exigen la devolución de sus fondos bloqueados y justicia por las pérdidas. Denunciaron también un supuesto trato preferencial hacia los acusados.\n\nLos detenidos son Juan Manuel Gustale Cardoni, Federico Miguel Vázquez Villasanti, Diana Leticia Mongelós González, Julio Daniel Rey Fernández, Mariana Torres Rubiani, Alejandro Gómez Abente, Diego Fernando Duarte Schussmuller y Miguel Ángel Almada. La detención se concretó el martes, después de que el Banco Central ordenara iniciar la resolución y disolución de la entidad por problemas graves de insolvencia y créditos irregulares a empresas vinculadas. Los posibles hechos investigados son lesión de confianza, estafa y conducta conducente a la quiebra.",
-      "keyPoints": [
-        "Ocho directivos imputados declararon ante la Fiscalía de Delitos Económicos.",
-        "Llegaron con custodia policial, encapuchados y esposados.",
-        "Los posibles delitos son lesión de confianza, estafa y conducta conducente a la quiebra.",
-        "Los ahorristas exigen la devolución de sus fondos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Ahorristas \"escrachan\" a directivos imputados de Ueno",
-          "url": "https://www.telefuturo.com.py/ahorristas-escrachan-a-directivos-imputados-de-ueno",
-          "publishedAt": "2026-11-04T19:18:41.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Directivos del banco Ueno llegaron encapuchados a la Fiscalía y fueron escrachados por los ahorristas",
-          "url": "https://www.npy.com.py/noticias/nacionales/directivos-del-banco-ueno-llegaron-encapuchados-a-la-fiscalia-y-fueron-escrachados-por-los-ahorristas",
-          "publishedAt": "2026-11-04T12:54:24.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Directivos de ueno bank se presentan ante la Fiscalía en medio de escraches",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/directivos-de-ueno-bank-se-presentan-ante-la-fiscalia-en-medio-de-escraches",
-          "publishedAt": "2026-11-04T12:33:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PVfHqV-J-r3s_0fQ80WF4SgZRZ0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NM2ZRZF5QZGLRJ4E5L54HCTHVM.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/NM2ZRZF5QZGLRJ4E5L54HCTHVM.jpeg?auth=0b52e06cbe61afb88031281aefce6a161df6743f105e6cd1e58649d809f02900&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/04/directivos-de-ueno-bank-se-presentan-ante-la-fiscalia-en-medio-de-escraches"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 13.32
+      "score": 13.41
     },
     {
       "id": "ev-1efj9gp",
@@ -707,7 +909,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.98
+      "score": 10.59
     },
     {
       "id": "ev-1nulwym",
@@ -758,7 +960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.97
+      "score": 10.58
     },
     {
       "id": "ev-1y9r0js",
@@ -809,58 +1011,51 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.9
+      "score": 10.51
     },
     {
-      "id": "ev-0vzo71i",
-      "title": "Horacio Cartes pide a Peña actuar con urgencia y firmeza por ueno bank",
-      "summary": "El presidente de la ANR, Horacio Cartes, envió una carta al presidente Santiago Peña por la crisis de ueno bank. Le pidió disponer, sin demora, las medidas legales e institucionales necesarias para restablecer la confianza y proteger a los afectados.\n\nEn la carta, Cartes sostiene que no debe haber impunidad para nadie. Según la nota, también pidió investigar las responsabilidades.\n\nCartes informó que se reunió con senadores para impulsar la ampliación de la Ley N.º 2334/03, de garantía de depósitos, con el objetivo de que los ahorristas recuperen sus activos lo antes posible.",
+      "id": "ev-1j455ws",
+      "title": "Rubio Ñu y Luqueño se enfrentan por la permanencia en Primera",
+      "summary": "Rubio Ñu recibe a Sportivo Luqueño este jueves en La Arboleda, por la fecha 18 del Clausura. Es un duelo directo por la permanencia en Primera División. El partido se juega a las 19:00.\n\nSan Lorenzo ya descendió de forma matemática. Rubio Ñu y Luqueño pelean por no seguir ese camino. El equipo de Lucas Barrios tiene un promedio de 1,130, mientras que Luqueño, dirigido por Javier Torrente, está en 1,000. Rubio Ñu llega motivado tras ganarle 4-2 a Trinidense en el clásico, mientras Luqueño perdió su segunda derrota seguida.\n\nEl arbitraje será de Juan Gabriel Benítez, por la importancia del encuentro. En la primera rueda del Clausura, Luqueño ganó 2-1.",
       "keyPoints": [
-        "Cartes pidió a Peña medidas urgentes para proteger a los ahorristas.",
-        "Reclama investigar responsabilidades.",
-        "Cartes se reunió con senadores por la ampliación de la Ley 2334/03."
+        "Rubio Ñu recibe a Luqueño en La Arboleda, a las 19:00.",
+        "El partido corresponde a la fecha 18 del Clausura.",
+        "San Lorenzo ya descendió matemáticamente.",
+        "Rubio Ñu tiene promedio de 1,130 y Luqueño de 1,000."
       ],
-      "category": "politica",
+      "category": "deportes",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El pedido de Cartes a Peña: “Actúe con urgencia y firmeza”",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/el-pedido-de-cartes-a-pena-actue-con-urgencia-y-firmeza",
-          "publishedAt": "2026-11-04T14:29:10.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8plp9HRvJ3kmpYNT3jUYtM16dEk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6QJBYNMNQ5FU3FCYJJOICVPTE4.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Cartes marca posición ante crisis de ueno bank y exige a Peña acciones urgentes",
-          "url": "https://elnacional.com.py/politica/cartes-marca-posicion-crisis-ueno-bank-exige-pena-acciones-urgentes-n114692",
-          "publishedAt": "2026-11-04T14:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a64d134ba304.jpg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rubio Ñu vs. Luqueño, duelo directo por la permanencia en Primera",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/05/rubio-nu-vs-luqueno-duelo-directo-por-la-permanencia-en-primera",
+          "publishedAt": "2026-11-05T04:10:52.000Z",
+          "image": "https://www.abc.com.py/resizer/cf7wWY6FP0I0gftFOTUfx8TQcp8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FTKIDSIUNBFSTBCYECF437LAGA.png"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "LN PM: edición del 4 de noviembre",
-          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/04/ln-pm-edicion-del-4-de-noviembre",
-          "publishedAt": "2026-11-04T15:41:27.000Z",
-          "image": "https://www.lanacion.com.py/resizer/DljqIn_RGNtWUheuUll5p0dTv_k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/35QVEQYFGVG4NMWIPZILVRESCI.jpg"
+          "title": "El promedio, en juego en La Arboleda",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/05/el-promedio-en-juego-en-la-arboleda",
+          "publishedAt": "2026-11-05T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XF_zShE3auO3QLdmyb-g0w-cdKA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UCEOPADNHBHZZLNS6FHZXFAIKI.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6QJBYNMNQ5FU3FCYJJOICVPTE4.jpg?auth=cd19b99a16aa70e8beab79c59000cffe99bb832048f13c68a5e7e35a6647bacf&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/04/el-pedido-de-cartes-a-pena-actue-con-urgencia-y-firmeza"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FTKIDSIUNBFSTBCYECF437LAGA.png?auth=94878e34276ab9434c3e4ebf770e066ddb64d6469f12ef74f680b45173d1277e&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/05/rubio-nu-vs-luqueno-duelo-directo-por-la-permanencia-en-primera"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
+      "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 10.02
+      "score": 9.67
     },
     {
       "id": "ev-0ojv7rr",
@@ -904,7 +1099,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.97
+      "score": 9.58
     },
     {
       "id": "ev-0qa0awr",
@@ -947,7 +1142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.89
+      "score": 9.5
     },
     {
       "id": "ev-076i4of",
@@ -991,7 +1186,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.77
+      "score": 9.38
     },
     {
       "id": "ev-1dsylq7",
@@ -1030,7 +1225,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.77
+      "score": 9.38
     },
     {
       "id": "ev-0w68lrt",
@@ -1074,7 +1269,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.75
+      "score": 9.36
     },
     {
       "id": "ev-0ajcwnl",
@@ -1117,7 +1312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.7
+      "score": 9.31
     },
     {
       "id": "ev-0xhsnjb",
@@ -1156,7 +1351,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.27
     },
     {
       "id": "ev-0abyhhq",
@@ -1199,51 +1394,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.61
-    },
-    {
-      "id": "ev-15t4fpy",
-      "title": "Peña promulga la ley que adelanta fondos a ahorristas de ueno bank",
-      "summary": "El presidente Santiago Peña promulgó la Ley N.º 7745, que modifica el régimen de garantía de depósitos y permite un anticipo a los ahorristas de entidades en proceso de resolución, como ueno bank.\n\nSegún ADN Digital, el anticipo podrá llegar hasta 40 salarios mínimos y se calculará después de descontar las obligaciones vencidas que el ahorrista tenga con la entidad. Si no queda saldo favorable, no corresponderá el adelanto. El procedimiento debe iniciarse dentro de las primeras 24 horas.",
-      "keyPoints": [
-        "Peña promulgó la Ley N.º 7745.",
-        "El anticipo puede llegar a 40 salarios mínimos.",
-        "Se descuentan las obligaciones vencidas antes del pago.",
-        "El pago debe iniciarse en 24 horas."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Peña promulga ley que habilita anticipos de hasta 40 salarios mínimos a ahorristas",
-          "url": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas",
-          "publishedAt": "2026-11-04T21:43:10.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña promulga ley que habilita anticipos de hasta G. 121 millones a ahorristas de ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/pena-promulga-ley-que-habilita-anticipos-a-ahorristas-dentro-de-las-primeras-24-horas",
-          "publishedAt": "2026-11-04T21:22:49.474Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RFB4PEON4VBARK3AYL46FJRG3Q.jfif?auth=6293a5db1709788f7f6a1a6d2a2deeb1f6ec02eb03630f3e69756bf0c124d618&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 9.52
+      "score": 9.22
     },
     {
       "id": "ev-1tsa4p1",
@@ -1286,7 +1437,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.46
+      "score": 9.07
     },
     {
       "id": "ev-1l50nm8",
@@ -1329,7 +1480,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.4
+      "score": 9.01
     },
     {
       "id": "ev-0hm2obz",
@@ -1372,7 +1523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9
     },
     {
       "id": "ev-14k652b",
@@ -1415,7 +1566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.18
+      "score": 8.79
     },
     {
       "id": "ev-1rwq74f",
@@ -1458,7 +1609,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.04
+      "score": 8.65
     },
     {
       "id": "ev-0yop4yd",
@@ -1501,7 +1652,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.94
+      "score": 8.55
     },
     {
       "id": "ev-0qykqns",
@@ -1549,7 +1700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.02
     },
     {
       "id": "ev-18askf1",
@@ -1592,7 +1743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-1662w43",
@@ -1636,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-1vq8a0j",
@@ -1680,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-1fx3xld",
@@ -1720,7 +1871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.89
+      "score": 6.5
     },
     {
       "id": "ev-0j9v069",
@@ -1763,7 +1914,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.73
+      "score": 6.34
     },
     {
       "id": "ev-1biyecj",
@@ -1799,7 +1950,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-083ldda",
@@ -1835,7 +1986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0yz9vns",
@@ -1867,7 +2018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-1co6bey",
@@ -1903,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-02pigjq",
@@ -1938,7 +2089,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-067mvbi",
@@ -1973,42 +2124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.97
-    },
-    {
-      "id": "ev-1j455ws",
-      "title": "Rubio Ñu recibe a Luqueño en Trinidad con tres puntos clave por el promedio",
-      "summary": "Rubio Ñu y Sportivo Luqueño se enfrentan en Santísima Trinidad en el cierre de la fecha 18. Ambos equipos luchan por salir de la zona de descenso y por la permanencia en Primera División, tras el repunte de Recoleta. Rubio Ñu llega motivado tras vencer a Trinidense en el clásico de barrio. Luqueño, en cambio, sufrió su segunda derrota seguida. El promedio de Rubio Ñu es de 1,130 y el de Luqueño, de 1,000.",
-      "keyPoints": [
-        "El partido cierra la fecha 18 del torneo en Santísima Trinidad.",
-        "Rubio Ñu llega tras ganar el clásico ante Trinidense.",
-        "Luqueño perdió su segunda fecha consecutiva."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El promedio, en juego en La Arboleda",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/05/el-promedio-en-juego-en-la-arboleda",
-          "publishedAt": "2026-11-05T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/XF_zShE3auO3QLdmyb-g0w-cdKA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UCEOPADNHBHZZLNS6FHZXFAIKI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UCEOPADNHBHZZLNS6FHZXFAIKI.jpg?auth=bc4f88456ae46984c4ebd431e8bc5ca0834701108795033237b2197df8bc2208&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/05/el-promedio-en-juego-en-la-arboleda"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-1p0ugxt",
@@ -2044,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.85
+      "score": 5.46
     },
     {
       "id": "ev-1p8s9ls",
@@ -2080,7 +2196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.31
     },
     {
       "id": "ev-12dsoi8",
@@ -2115,7 +2231,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.28
     },
     {
       "id": "ev-1rd4mb7",
@@ -2159,7 +2275,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 4.09
+      "score": 3.7
     },
     {
       "id": "ev-1v4v5z3",
@@ -2191,7 +2307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.09
     },
     {
       "id": "ev-0c71fju",
@@ -2223,7 +2339,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.09
     },
     {
       "id": "ev-0l575zn",
@@ -2255,7 +2371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.09
     },
     {
       "id": "ev-1nolef7",
@@ -2287,7 +2403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.1
+      "score": 2.71
     },
     {
       "id": "ev-15pviou",
@@ -2322,7 +2438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.02
+      "score": 2.63
     }
   ],
   "runs": [
@@ -2332,6 +2448,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 76
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-05T08:07:13.039Z",
+      "added": 0,
+      "updated": 7,
+      "candidates": 17
     }
   ]
 }
