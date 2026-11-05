@@ -1,20 +1,19 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-05T08:07:13.039Z",
+  "generatedAt": "2026-11-05T12:07:10.756Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1ugzwb3",
-      "title": "Diputados de oposición y disidencia colorada presentan juicio político contra Peña y Alliana",
-      "summary": "Un grupo de 35 diputados de la oposición y de la disidencia colorada formalizó el pedido de juicio político contra el presidente Santiago Peña y el vicepresidente Pedro Alliana. La medida se presentó en medio de la crisis de Ueno Bank.\n\nLos libelos acusan presunto mal desempeño de funciones y conflicto de intereses. Según las notas, también apuntan al uso de fondos del IPS y a irregularidades regulatorias. Son acusaciones de los impulsores, que aún no fueron probadas.\n\nPara avanzar, la oposición necesita más votos. Según ADN Digital, debe sumar al menos seis legisladores para alcanzar el quórum de 41 diputados. La aprobación exige 27 votos, dos tercios de los presentes. Si Diputados aprueba, el caso pasa al Senado, que juzga la acusación.",
+      "title": "Diputados tratan este jueves el juicio político a Peña; la oposición reúne 35 votos",
+      "summary": "La Cámara de Diputados sesionará este jueves 5 de noviembre a las 10:00 para tratar dos libelos acusatorios de juicio político: uno contra el presidente Santiago Peña y otro contra el vicepresidente Pedro Alliana. Los pedidos fueron impulsados por opositores y por la disidencia colorada, y se presentaron el miércoles con 35 firmas.\n\nLa diputada Rocío Vallejo dijo que, para tener quórum, necesitan que seis colorados oficialistas se sumen. Con 41 presentes, según sus cálculos, se necesitarían 27 votos para aprobar la acusación y enviarla al Senado. El diputado Raúl Benítez sostuvo que Peña tiene que irse y ser investigado por la Fiscalía. Son posiciones de quienes impulsan el pedido. Según las notas, el oficialismo no había confirmado su postura hasta el momento.\n\nLa Policía anunció un fuerte dispositivo de seguridad por posibles manifestaciones frente al Congreso.",
       "keyPoints": [
-        "El pedido lo presentaron 35 diputados de la oposición y de la disidencia colorada.",
-        "La acusación habla de presunto mal desempeño y conflicto de intereses.",
-        "Se necesitan 27 votos, dos tercios de los presentes, para aprobar la acusación.",
-        "Si Diputados aprueba, el Senado juzga el caso."
+        "La sesión extraordinaria está convocada para este jueves a las 10:00.",
+        "El libelo contra Peña fue presentado con 35 firmas de opositores y colorados disidentes.",
+        "Los impulsores necesitan seis diputados oficialistas para alcanzar el quórum."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +21,46 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Diputados sesionan hoy para impulsar el juicio político a Peña y Alliana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/diputados-sesionan-hoy-para-impulsar-el-juicio-politico-a-pena-y-alliana",
+          "publishedAt": "2026-11-05T11:11:00.968Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RFB4PEON4VBARK3AYL46FJRG3Q.jfif?auth=6293a5db1709788f7f6a1a6d2a2deeb1f6ec02eb03630f3e69756bf0c124d618&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pedido de enjuiciar a Peña y Alliana marcado por una jornada de movilizaciones y vigilia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/pedido-de-enjuiciar-a-pena-y-alliana-marcado-por-una-jornada-de-movilizaciones-y-vigilia",
+          "publishedAt": "2026-11-05T10:48:02.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f8696Qe3Ocn2kL0cTqKzWWvOOmM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O7LU2K6DUZFXVGCERZYOA4QDEY.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juicio político a Peña y Alliana: “Solo somos 35 y no está nada definido”, dice Rocío Vallejo",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/juicio-politico-a-pena-y-alliana-solo-somos-35-y-no-esta-nada-definido-dice-rocio-vallejo",
+          "publishedAt": "2026-11-05T10:05:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DiDMQXZn2N53nFy3BbhWDi7IVs8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N6E2DAEY3NBB5KMLMLYXALJQVM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Juicio político: Peña “debe irse porque se ha perdido la confianza en él”, dice la oposición",
+          "url": "https://www.abc.com.py/politica/2026/11/05/juicio-politico-pena-debe-irse-porque-se-ha-perdido-la-confianza-en-el-dice-la-oposicion",
+          "publishedAt": "2026-11-05T09:58:55.000Z",
+          "image": "https://www.abc.com.py/resizer/PRsoMMvvAx1Ml5C80Z53EiP1l6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5LF7AI5QTVEEROXDR4GE4G5YMI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Diputados tratará este jueves los pedidos de juicio político contra Peña y Alliana",
+          "url": "https://www.adndigital.com.py/diputados-tratara-este-jueves-los-pedidos-de-juicio-politico-contra-pena-y-alliana",
+          "publishedAt": "2026-11-05T09:57:41.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/whatsapp-image-2025-11-10-at-140148.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -111,6 +150,14 @@
           "image": "https://statics.elnacional.com.py/2026/11/6aeb77c7bf0f5.jpg"
         },
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Juicio político: presentan libelo acusatorio contra Peña y Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/04/juicio-politico-presentan-libelo-acusatorio-contra-santiago-pena-y-pedro-alliana",
+          "publishedAt": "2026-11-04T17:53:18.000Z",
+          "image": "https://www.abc.com.py/resizer/PxeWrF7fVtbcZ_ubQr8NlYvova8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/D7W4I76B5JFO7GEA4FSYK4ZXQA.jpg"
+        },
+        {
           "sourceId": "npy",
           "sourceName": "NPY",
           "title": "Caso Ueno Bank: diputados reúnen 21 firmas en libelo acusatorio contra Peña y Alliana",
@@ -136,25 +183,24 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-164705.jpeg",
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/whatsapp-image-2025-11-10-at-140148.jpeg",
         "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/formalizan-pedido-de-juicio-politico-contra-pena-y-alliana"
+        "articleUrl": "https://www.adndigital.com.py/diputados-tratara-este-jueves-los-pedidos-de-juicio-politico-contra-pena-y-alliana"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 26.66
+      "score": 29.92
     },
     {
-      "id": "ev-0rdmwbs",
-      "title": "Diputados modifica proyecto de ahorristas de Ueno y lo devuelve al Senado",
-      "summary": "La Cámara de Diputados aprobó cambios al proyecto de ley que busca acelerar la devolución de depósitos a los ahorristas afectados por la crisis de Ueno Bank. El texto vuelve ahora al Senado para un nuevo análisis.\n\nSe mantiene el plazo de pago en 24 horas, con un máximo de cinco días hábiles. Diputados eliminó el artículo que habilitaba temporalmente la aplicación de Ueno Bank y su acceso al SIPAP, porque la plataforma está fuera de servicio por la resolución.\n\nLa versión también mantiene un tope de 40 salarios mínimos. Limita el cobro de créditos a las cuotas vencidas y a los pagos mínimos de tarjetas.",
+      "id": "ev-0xwz564",
+      "title": "Fiscalía imputa a 27 personas por crisis de ueno bank y pide prisión para Vázquez",
+      "summary": "El Ministerio Público imputó a 27 personas vinculadas a ueno bank por presuntas irregularidades financieras que habrían comprometido los activos de la entidad. Entre los imputados están el empresario Federico Miguel Vázquez y ocho directivos del banco. La Fiscalía atribuye los hechos punibles de conducta indebida en situaciones de crisis, lesión de confianza, tentativa de estafa y violación de llevar libros de comercio.\n\nLa Fiscalía pidió prisión preventiva para Vázquez y arresto domiciliario con tobilleras electrónicas para otros siete directivos. El juez de Garantías Humberto Otazú admitió la imputación y fijó las audiencias de imposición de medidas para este jueves, a partir de las 7:30, ante el juez Rodrigo Estigarribia.\n\nTodos los imputados presumen su inocencia. Las medidas serán decididas por el juez en las audiencias.",
       "keyPoints": [
-        "Diputados aprobó cambios al proyecto en sesión extraordinaria.",
-        "Se mantiene el pago en 24 horas, con máximo de cinco días hábiles.",
-        "Se eliminó el artículo sobre la aplicación de Ueno Bank y el SIPAP.",
-        "El proyecto vuelve al Senado."
+        "La Fiscalía imputó a 27 personas por cuatro hechos punibles.",
+        "La Fiscalía pidió prisión preventiva para Federico Miguel Vázquez.",
+        "Las audiencias de imposición de medidas están previstas para este jueves."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -165,103 +211,19 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
-          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T01:18:53.000Z",
-          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
-          "publishedAt": "2026-11-05T00:19:20.089Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
+          "title": "Ueno Bank: Impondrán medidas hoy a directivos imputados",
+          "url": "https://www.abc.com.py/policiales/2026/11/05/ueno-bank-impondran-medidas-hoy-a-directivos-imputados",
+          "publishedAt": "2026-11-05T10:44:22.000Z",
+          "image": "https://www.abc.com.py/resizer/ygZIOTrAQXxQ8DqPYzEJbSI--Dk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4LRURXGUGVA2PKEBZVRROXBVN4.jpeg"
         },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
-          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
-          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
-          "publishedAt": "2026-11-04T23:40:27.000Z",
+          "title": "Juez define hoy si Miguel Vázquez y los otros directivos de ueno bank van a prisión o no",
+          "url": "https://www.ultimahora.com/juez-define-hoy-si-miguel-vazquez-y-los-otros-directivos-de-ueno-bank-van-a-prision-o-no",
+          "publishedAt": "2026-11-05T10:43:13.000Z",
           "image": null
         },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:27:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
-          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
-          "publishedAt": "2026-11-04T23:17:11.000Z",
-          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-04T23:12:53.429Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
-          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
-          "publishedAt": "2026-11-04T20:05:05.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Diputados incorporan cambios y proyecto de protección a ahorristas vuelve al Senado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado",
-          "publishedAt": "2026-11-04T19:10:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aSrrw2-TZxqzopovhpBFJlbkI-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
-          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
-          "publishedAt": "2026-11-04T16:39:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T08:07:13.039Z",
-      "updatedSlot": "manana",
-      "score": 23.43
-    },
-    {
-      "id": "ev-0xwz564",
-      "title": "Fiscalía imputa a 27 personas por caso Ueno Bank y pide prisión para Vázquez",
-      "summary": "El Ministerio Público imputó a 27 personas vinculadas a Ueno Bank, entre ellas directivos de la entidad y de empresas relacionadas. La investigación busca presuntas irregularidades financieras que habrían comprometido los activos del banco.\n\nLa Fiscalía pidió prisión preventiva para Federico Miguel Vázquez Villasanti. Para la mayoría de los demás imputados pidió arresto domiciliario con tobillera electrónica. Los imputados tienen presunción de inocencia.\n\nLos hechos atribuidos son conducta indebida en situaciones de crisis, lesión de confianza, tentativa de estafa y violación de la obligación de llevar libros de comercio. Antes, ocho directivos con orden de detención quedaron a disposición de las autoridades.",
-      "keyPoints": [
-        "La Fiscalía imputó a 27 personas por el caso Ueno Bank.",
-        "Pidió prisión preventiva para Federico Miguel Vázquez Villasanti.",
-        "Para la mayoría de los demás pidió arresto domiciliario con tobillera.",
-        "Los hechos son presuntos y los imputados presumen inocencia."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -336,15 +298,162 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BBVDESU235CJZJ67THHRU5HWTA.jpg?auth=778ac73ceb96c3053a2ab7c57cb3d16cd8ff0e74a3c99f07b1ec5df0f4fff2e0&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/T2DHH27DBJE5HHMMQO27TZ4LKQ.jpeg?auth=323711029bbe33b98b00d8f7b0aff8089b80d8d2fb52df0e7fb774ed5980b22f&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/fiscalia-imputo-a-27-directivos-de-ueno-y-empresas-vinculadas"
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/04/caso-ueno-bank-imputan-a-27-personas-y-piden-prision-de-miguel-vazquez"
       },
       "firstSeenAt": "2026-11-05T03:26:34.885Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-05T08:07:13.039Z",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
       "updatedSlot": "manana",
-      "score": 20.65
+      "score": 26.88
+    },
+    {
+      "id": "ev-0rdmwbs",
+      "title": "BCP empieza a notificar a ahorristas de ueno dónde cobrarán el anticipo",
+      "summary": "El Banco Central del Paraguay comenzó a avisar a los ahorristas de ueno bank en qué entidad financiera podrán cobrar el anticipo de la garantía de depósitos. La notificación llega por correo electrónico desde la dirección fgdpagos@bcp.gov.py.\n\nQuienes tienen cuenta en otro banco recibirán el dinero en la que tenga el mayor saldo disponible. A quienes no tienen cuenta en otra entidad se les abrirá una caja de ahorro a su nombre. El monto será de hasta 40 salarios mínimos, unos G. 121 millones, y podría ser menor si se descuentan deudas vencidas con el banco. El BCP explicó que las deudas en tarjetas de crédito no se descuentan en este anticipo.\n\nLa garantía total de hasta 75 salarios mínimos será un procedimiento posterior, según lo dicho por el presidente interino del BCP, Pedro Acosta.",
+      "keyPoints": [
+        "El BCP comunica por correo en qué banco se pagará el anticipo.",
+        "El monto máximo del anticipo es de 40 salarios mínimos.",
+        "La garantía total de 75 salarios mínimos se pagará en un procedimiento posterior."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "BCP avisará desde hoy a los ahorristas de ueno dónde cobrar su dinero",
+          "url": "https://www.adndigital.com.py/bcp-avisara-desde-hoy-a-los-ahorristas-de-ueno-donde-cobrar-su-dinero",
+          "publishedAt": "2026-11-05T10:22:47.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-072102-1024x681.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Atención clientes de Ueno! Este es el mail oficial para el cobro del anticipo y el correo debe llegar hoy",
+          "url": "https://www.abc.com.py/economia/2026/11/05/atencion-clientes-de-ueno-este-es-el-mail-oficial-para-el-cobro-del-anticipo",
+          "publishedAt": "2026-11-05T10:18:08.000Z",
+          "image": "https://www.abc.com.py/resizer/7nz4IYJa6CW4Ia-V9UCRb6lT8VI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z7JJYMRAVBHNRMJ4XPG2IZIJDI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Promulgan ley que permite anticipar hasta G. 121 millones a ahorristas de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/promulgan-ley-permite-anticipar-g-121-millones-ahorristas-ueno-bank-n114728",
+          "publishedAt": "2026-11-05T08:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeaf9a186e16.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo promulga ley y ahorristas ya podrán cobrar desde el viernes",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/05/ejecutivo-promulga-ley-y-ahorristas-ya-podran-cobrar-desde-el-viernes",
+          "publishedAt": "2026-11-05T04:21:24.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Rk4xKClafSHjr8Ahqgm5abVGoFY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCMMD33PP5AUJL5WAION43NTKI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP designa nuevo presidente interino y detalla cómo devolverá la plata a ahorristas de Ueno",
+          "url": "https://www.abc.com.py/economia/2026/11/04/bcp-designa-nuevo-presidente-interino-y-detalla-como-devolvera-la-plata-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T01:18:53.000Z",
+          "image": "https://www.abc.com.py/resizer/rcg8BQkvKe8V8tOSizbEjA70whU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SWHFWMMHAVHIPG3KVGOCTP6ANY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Este jueves empieza el desembolso del BCP para pagar a ahorristas de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/este-jueves-empieza-el-desembolso-del-bcp-para-pagar-a-ahorristas-de-ueno",
+          "publishedAt": "2026-11-05T00:19:20.089Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HJPHOAL27BBOBCRVF2OHG6P544.jfif?auth=2f86f2d5f2d92906337352544a8ab478d67649194ac968533c0d1c8469842f1e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El BCP anuncia el pago del anticipo a ahorristas de ueno bank",
+          "url": "https://www.ultimahora.com/el-bcp-anuncia-el-pago-del-anticipo-a-ahorristas-de-ueno-bank-desde-este-jueves",
+          "publishedAt": "2026-11-04T23:40:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP explica sistema de pago a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/04/el-bcp-explica-sistema-de-pago-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:27:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/6m4TmAs0U-4tVtJNW-6WojvetNU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AWUUPDNITRHKXNSTZ4PCINLXKI.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Atención! Desde este jueves los clientes de Ueno Bank recibirán avisos para cobrar así",
+          "url": "https://www.abc.com.py/economia/2026/11/04/atencion-clientes-de-ueno-a-partir-de-manana-clientes-recibiran-avisos-para-cobrar-hasta-g-121760000",
+          "publishedAt": "2026-11-04T23:17:11.000Z",
+          "image": "https://www.abc.com.py/resizer/TQ31bBYHam9tH35W2Zn_jzUYXWk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IWGFI46BXFHHDFRAZDCEF5OQUI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP anuncia cómo y cuándo pagará a ahorristas de ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/04/bcp-anuncia-como-y-cuando-pagara-a-los-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-04T23:12:53.429Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XKUI2VKCXBF3HHSYELJ5NRH3KU.jpeg?auth=bd40f0bab72f21ec036a68a9bc1007bc1d4b0df46fd0f5ba4583014e011c086e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña promulga ley que habilita anticipos de hasta 40 salarios mínimos a ahorristas",
+          "url": "https://www.adndigital.com.py/pena-promulga-ley-que-habilita-anticipos-de-hasta-40-salarios-minimos-a-ahorristas",
+          "publishedAt": "2026-11-04T21:43:10.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado sanciona ley para agilizar devolución de ahorros de ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/senado-sanciona-ley-para-agilizar-devolucion-de-ahorros-de-ueno-bank",
+          "publishedAt": "2026-11-04T20:11:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GsGBxW6ZgwZhSrvguk9vXZO50Ws=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CKRTT7WSEBHOFCE7OQUYNNZIY4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Modifican proyecto de asistencia a ahorristas de Ueno y lo remiten al Senado",
+          "url": "https://www.adndigital.com.py/modifican-proyecto-de-asistencia-a-ahorristas-de-ueno-y-lo-remiten-al-senado",
+          "publishedAt": "2026-11-04T20:05:05.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-170426.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados incorporan cambios y proyecto de protección a ahorristas vuelve al Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/04/diputados-incorporan-cambios-y-proyecto-de-proteccion-a-ahorristas-vuelve-al-senado",
+          "publishedAt": "2026-11-04T19:10:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aSrrw2-TZxqzopovhpBFJlbkI-g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X2KROMNCMVCJTBIBM6DHPIRBAE.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Diputados aprueba cambios a la ley de garantía de depósitos tras el caso ueno bank",
+          "url": "https://5dias.com.py/article/diputados-aprueba-cambios-a-la-ley-de-garanta-de-depsitos-tras-el-caso-ueno-bank",
+          "publishedAt": "2026-11-04T16:39:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/sesion-diputados.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-072102-1024x681.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/bcp-avisara-desde-hoy-a-los-ahorristas-de-ueno-donde-cobrar-su-dinero"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
+      "updatedSlot": "manana",
+      "score": 26.86
     },
     {
       "id": "ev-1709u1f",
@@ -427,7 +536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 20.6
+      "score": 20.27
     },
     {
       "id": "ev-1tcn2j2",
@@ -502,7 +611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 17.58
+      "score": 17.25
     },
     {
       "id": "ev-0maec1p",
@@ -561,7 +670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 17.3
+      "score": 16.96
     },
     {
       "id": "ev-1cluuq8",
@@ -620,7 +729,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 16.97
+      "score": 16.64
     },
     {
       "id": "ev-0vzo71i",
@@ -696,7 +805,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 14.68
+      "score": 14.35
+    },
+    {
+      "id": "ev-0abyhhq",
+      "title": "Adolescente herida de bala en Eusebio Ayala; el presunto agresor fue hallado sin vida",
+      "summary": "Una adolescente de 15 años resultó herida de bala en la ciudad de Eusebio Ayala. La policía investiga el hecho como un presunto intento de feminicidio.\n\nSegún el informe policial, la joven recibió disparos en el hombro y en la cabeza. Fue trasladada al hospital local y luego derivada al Hospital de Trauma de Asunción, donde quedó internada. El presunto agresor, un hombre de 30 años, fue hallado sin vida en una zona boscosa. Los datos indican que habría tenido una relación sentimental con la menor.",
+      "keyPoints": [
+        "Una adolescente de 15 años fue herida de bala en Eusebio Ayala.",
+        "La joven quedó internada en el Hospital de Trauma de Asunción.",
+        "Según la policía, el presunto agresor fue hallado sin vida."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Eusebio Ayala: adolescente de 15 años fue baleada en un presunto intento de feminicidio",
+          "url": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio",
+          "publishedAt": "2026-11-05T10:34:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hCIDpn_feH_VcxQrrHs3BID64Ow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Adolescente es víctima de intento de feminicidio en Eusebio Ayala",
+          "url": "https://www.ultimahora.com/adolescente-es-victima-de-intento-de-feminicidio-en-eusebio-ayala",
+          "publishedAt": "2026-11-04T22:46:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hallan muerto al presunto agresor de una colegiala en Eusebio Ayala",
+          "url": "https://www.abc.com.py/policiales/2026/11/04/hallan-muerto-al-presunto-agresor-de-una-colegiala-en-eusebio-ayala",
+          "publishedAt": "2026-11-04T22:11:12.000Z",
+          "image": "https://www.abc.com.py/resizer/wP-1i4icIludCmw0oup9WTHtCA0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSG4SM2ON5BZ5HRLHRICF3RCJA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ABHAHJQVVJAAFAPDQQV5JI5ZJY.jpeg?auth=63e836d67f463a3002ad02461843a651623fb93b6f0acb72196907bf00f4b677&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/eusebio-ayala-adolescente-de-15-anos-fue-baleada-en-un-presunto-intento-de-feminicidio"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
+      "updatedSlot": "manana",
+      "score": 13.87
     },
     {
       "id": "ev-0qi6hto",
@@ -755,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 13.93
+      "score": 13.6
     },
     {
       "id": "ev-15t4fpy",
@@ -807,7 +967,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 13.69
+      "score": 13.35
     },
     {
       "id": "ev-0cuunjr",
@@ -858,7 +1018,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 13.41
+      "score": 13.07
+    },
+    {
+      "id": "ev-1662w43",
+      "title": "AFD y MUVH aseguran que créditos de ueno bank mantienen tasas, plazos y cuotas",
+      "summary": "La Agencia Financiera de Desarrollo (AFD) y el Ministerio del Urbanismo, Vivienda y el Hábitat (MUVH) aseguraron que los créditos otorgados a través de ueno bank no cambian en tasas, plazos ni cuotas. Según el MUVH, el programa Che Róga Porã sigue vigente y operando con normalidad.\n\nLa AFD trabaja con el equipo interventor del Banco Central del Paraguay (BCP) para identificar la cartera financiada con recursos de la banca pública. Su presidenta, Stella Guillén, explicó que el primer paso es recuperar esa cartera mediante el privilegio de cartera previsto en la legislación de la entidad. Después, la institución deberá definir cómo seguirá la administración de los préstamos. Calcula que unas 2.500 personas mantienen operaciones con alguna de sus líneas a través del banco.\n\nAmbas instituciones dicen que los desembolsos pendientes tendrán continuidad. También anunciaron que definirán nuevos canales de pago, que se comunicarán a los beneficiarios por canales oficiales. Recomiendan no pagar a cuentas o intermediarios que no estén habilitados.",
+      "keyPoints": [
+        "Las tasas, plazos y cuotas de los créditos no cambian, según MUVH y AFD.",
+        "La AFD estima unas 2.500 personas con operaciones a través de ueno bank.",
+        "Se definirán nuevos canales de pago para los beneficiarios."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "AFD definirá nuevos canales de pago de créditos para Che Róga Porã otorgados a través de ueno",
+          "url": "https://elnacional.com.py/economia/afd-definira-nuevos-canales-pago-creditos-che-roga-por-otorgados-traves-ueno-n114712",
+          "publishedAt": "2026-11-05T11:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69c52ac10e914.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Las tasas de interés, plazos y las cuotas se mantienen",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/05/las-tasas-de-interes-plazos-y-las-cuotas-se-mantienen",
+          "publishedAt": "2026-11-05T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DPuNXWWuXSe2VO6aSLE1_RWmhow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3NUWIHKGNFFYBFNGIPOY4PEIDU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Establecerán nuevos canales de pago para los clientes crediticios",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/05/estableceran-nuevos-canales-de-pago-para-los-clientes-crediticios",
+          "publishedAt": "2026-11-05T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xeYbaRlF8MkS07CXWx3DBVheab0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A6WBYIGLPVFJ5BHDDKTPNNM6PA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tasas de interés, plazos, y cuotas con Che Róga Porã se mantienen, destacan",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/04/tasas-de-interes-plazos-y-cuotas-con-che-roga-pora-se-mantienen-destacan",
+          "publishedAt": "2026-11-04T19:42:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3QaD_Ex8W3OO1oIaIBXdgBXBvBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VYXWLHNHRJCOXEFBDTD7LHM4CQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "AFD garantiza que créditos de clientes de ueno bank no sufrirán cambios en sus condiciones",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/04/afd-garantiza-que-creditos-de-clientes-de-ueno-bank-no-sufriran-cambios-en-sus-condiciones",
+          "publishedAt": "2026-11-04T16:42:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1jhe2HJ0RmJZ_rePTFsz-frVdOo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HYLJ5K4GORC3LNXOSKXRZTDAXI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/03/69c52ac10e914.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/afd-definira-nuevos-canales-pago-creditos-che-roga-por-otorgados-traves-ueno-n114712"
+      },
+      "firstSeenAt": "2026-11-05T03:26:34.885Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-05T12:07:10.756Z",
+      "updatedSlot": "manana",
+      "score": 11.91
     },
     {
       "id": "ev-1efj9gp",
@@ -909,7 +1136,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.59
+      "score": 10.25
     },
     {
       "id": "ev-1nulwym",
@@ -960,7 +1187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1y9r0js",
@@ -1011,7 +1238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 10.51
+      "score": 10.17
     },
     {
       "id": "ev-1j455ws",
@@ -1055,7 +1282,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T08:07:13.039Z",
       "updatedSlot": "manana",
-      "score": 9.67
+      "score": 9.34
     },
     {
       "id": "ev-0ojv7rr",
@@ -1099,7 +1326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-0qa0awr",
@@ -1142,7 +1369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.5
+      "score": 9.16
     },
     {
       "id": "ev-076i4of",
@@ -1186,7 +1413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.38
+      "score": 9.05
     },
     {
       "id": "ev-1dsylq7",
@@ -1225,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.38
+      "score": 9.05
     },
     {
       "id": "ev-0w68lrt",
@@ -1269,7 +1496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.03
     },
     {
       "id": "ev-0ajcwnl",
@@ -1312,7 +1539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.31
+      "score": 8.97
     },
     {
       "id": "ev-0xhsnjb",
@@ -1351,50 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.27
-    },
-    {
-      "id": "ev-0abyhhq",
-      "title": "Hallan sin vida al presunto agresor de una adolescente en Eusebio Ayala",
-      "summary": "Una adolescente de 15 años fue víctima de un presunto intento de feminicidio la tarde del miércoles en Eusebio Ayala, Cordillera. La Policía localizó después al presunto agresor, que fue hallado sin vida en una zona boscosa cercana al lugar del hecho.\n\nLa joven fue atendida en el hospital local y luego trasladada a Asunción para recibir atención médica especializada. Según el informe policial, los agentes recibieron una llamada anónima que alertó sobre una persona herida en el suelo.",
-      "keyPoints": [
-        "La adolescente, de 15 años, fue víctima de un presunto intento de feminicidio.",
-        "El presunto agresor fue hallado sin vida cerca del lugar del ataque.",
-        "La joven fue trasladada a Asunción para recibir atención especializada."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Adolescente es víctima de intento de feminicidio en Eusebio Ayala",
-          "url": "https://www.ultimahora.com/adolescente-es-victima-de-intento-de-feminicidio-en-eusebio-ayala",
-          "publishedAt": "2026-11-04T22:46:15.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Hallan muerto al presunto agresor de una colegiala en Eusebio Ayala",
-          "url": "https://www.abc.com.py/policiales/2026/11/04/hallan-muerto-al-presunto-agresor-de-una-colegiala-en-eusebio-ayala",
-          "publishedAt": "2026-11-04T22:11:12.000Z",
-          "image": "https://www.abc.com.py/resizer/wP-1i4icIludCmw0oup9WTHtCA0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSG4SM2ON5BZ5HRLHRICF3RCJA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FSG4SM2ON5BZ5HRLHRICF3RCJA.jpeg?auth=49522f81c5f0c585dc84bf7bb11492cdd51525ee451101db0d85c764fe0b139f&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/04/hallan-muerto-al-presunto-agresor-de-una-colegiala-en-eusebio-ayala"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 9.22
+      "score": 8.93
     },
     {
       "id": "ev-1tsa4p1",
@@ -1437,7 +1621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.73
     },
     {
       "id": "ev-1l50nm8",
@@ -1480,7 +1664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.67
     },
     {
       "id": "ev-0hm2obz",
@@ -1523,7 +1707,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 9
+      "score": 8.66
     },
     {
       "id": "ev-14k652b",
@@ -1566,7 +1750,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.46
     },
     {
       "id": "ev-1rwq74f",
@@ -1609,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.32
     },
     {
       "id": "ev-0yop4yd",
@@ -1652,7 +1836,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.55
+      "score": 8.22
     },
     {
       "id": "ev-0qykqns",
@@ -1700,7 +1884,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 7.68
     },
     {
       "id": "ev-18askf1",
@@ -1743,51 +1927,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-1662w43",
-      "title": "MUVH asegura que las cuotas de Che Róga Porã no cambian",
-      "summary": "El Ministerio del Urbanismo, Vivienda y el Hábitat informó que el programa Che Róga Porã sigue vigente y funciona con normalidad. Las tasas de interés, los plazos y las cuotas de los créditos canalizados a través de ueno bank se mantienen como fueron pactados.\n\nEl ministerio dijo que el proceso no generará morosidad ni costos adicionales para las familias beneficiarias. Recomendó no pagar a cuentas o intermediarios que no estén oficialmente habilitados y conservar los comprobantes y la documentación del crédito.\n\nSegún el comunicado, la Agencia Financiera de Desarrollo confirmó que los desembolsos pendientes tendrán continuidad, incluidos los de créditos ya en ejecución. Las autoridades competentes definen ahora los mecanismos para habilitar nuevos canales de pago, que se comunicarán a los beneficiarios.",
-      "keyPoints": [
-        "Las tasas, plazos y cuotas del programa se mantienen.",
-        "No habrá morosidad ni costos adicionales, según el MUVH.",
-        "La AFD confirmó la continuidad de los desembolsos pendientes.",
-        "Se habilitarán nuevos canales de pago, que se informarán por canales oficiales."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Las tasas de interés, plazos y las cuotas se mantienen",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/05/las-tasas-de-interes-plazos-y-las-cuotas-se-mantienen",
-          "publishedAt": "2026-11-05T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/DPuNXWWuXSe2VO6aSLE1_RWmhow=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3NUWIHKGNFFYBFNGIPOY4PEIDU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tasas de interés, plazos, y cuotas con Che Róga Porã se mantienen, destacan",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/04/tasas-de-interes-plazos-y-cuotas-con-che-roga-pora-se-mantienen-destacan",
-          "publishedAt": "2026-11-04T19:42:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/3QaD_Ex8W3OO1oIaIBXdgBXBvBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VYXWLHNHRJCOXEFBDTD7LHM4CQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3NUWIHKGNFFYBFNGIPOY4PEIDU.jpg?auth=9c6af4bcb52ca959a8c2bb3821210140a71581e0498301c081e3f43ae3e2d258&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/05/las-tasas-de-interes-plazos-y-las-cuotas-se-mantienen"
-      },
-      "firstSeenAt": "2026-11-05T03:26:34.885Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-05T03:26:34.885Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1vq8a0j",
@@ -1831,7 +1971,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1fx3xld",
@@ -1871,7 +2011,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.5
+      "score": 6.17
     },
     {
       "id": "ev-0j9v069",
@@ -1914,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 6.34
+      "score": 6.01
     },
     {
       "id": "ev-1biyecj",
@@ -1950,7 +2090,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-083ldda",
@@ -1986,7 +2126,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0yz9vns",
@@ -2018,7 +2158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1co6bey",
@@ -2054,7 +2194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-02pigjq",
@@ -2089,7 +2229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-067mvbi",
@@ -2124,7 +2264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1p0ugxt",
@@ -2160,7 +2300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.12
     },
     {
       "id": "ev-1p8s9ls",
@@ -2196,7 +2336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.98
     },
     {
       "id": "ev-12dsoi8",
@@ -2231,7 +2371,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.95
     },
     {
       "id": "ev-1rd4mb7",
@@ -2275,7 +2415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.7
+      "score": 3.37
     },
     {
       "id": "ev-1v4v5z3",
@@ -2307,7 +2447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.76
     },
     {
       "id": "ev-0c71fju",
@@ -2339,7 +2479,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.76
     },
     {
       "id": "ev-0l575zn",
@@ -2371,7 +2511,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 3.09
+      "score": 2.76
     },
     {
       "id": "ev-1nolef7",
@@ -2403,7 +2543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.71
+      "score": 2.37
     },
     {
       "id": "ev-15pviou",
@@ -2438,7 +2578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-05T03:26:34.885Z",
       "updatedSlot": "manana",
-      "score": 2.63
+      "score": 2.29
     }
   ],
   "runs": [
@@ -2455,6 +2595,13 @@
       "added": 0,
       "updated": 7,
       "candidates": 17
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-05T12:07:10.756Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 11
     }
   ]
 }
