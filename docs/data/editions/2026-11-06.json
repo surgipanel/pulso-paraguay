@@ -1,11 +1,218 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T08:07:10.236Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-06T12:07:12.180Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-05jgch8",
+      "title": "Enrique Riera renuncia al Ministerio del Interior y Benítez queda como interino",
+      "summary": "El ministro del Interior, Enrique Riera, presentó su renuncia y volverá a ocupar su banca en el Senado. La Presidencia aceptó la dimisión mediante el Decreto 7199, que designa como ministro interino a Carlos Humberto Benítez González, actual viceministro de Seguridad Interna.\n\nEl decreto agradece a Riera los servicios prestados y aclara que Benítez asumirá el Ministerio sin dejar sus funciones de viceministro. La salida se produce en un contexto de fuerte tensión política por la crisis de Ueno Bank, cuya resolución ordenó el Banco Central del Paraguay.\n\nLa renuncia se conoció horas después del inicio del juicio político contra el presidente Santiago Peña, cuyo tratamiento continuará en el Senado.",
+      "keyPoints": [
+        "Riera presentó su renuncia al Ministerio del Interior.",
+        "El Decreto 7199 acepta la renuncia y designa a Carlos Humberto Benítez González como ministro interino.",
+        "Riera retomará su banca en el Senado.",
+        "El juicio político contra Santiago Peña comenzó el mismo día."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Tras su renuncia al Ministerio del Interior, Enrique Riera volverá al Senado",
+          "url": "https://www.adndigital.com.py/tras-su-renuncia-al-ministerio-del-interior-enrique-riera-volvera-al-senado",
+          "publishedAt": "2026-11-06T10:26:20.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/09/whatsapp-image-2024-09-23-at-171300.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Aceptan renuncia de Riera al Ministerio del Interior",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/aceptan-renuncia-de-riera-al-ministerio-del-interior",
+          "publishedAt": "2026-11-06T03:12:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ydbHHWkMq2wyyJgWIAzFtUmx0Rc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BPDQM3DHDJABDMPYPQW33QFU6Y.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Uno de los peores ministros se baja: Riera renunció",
+          "url": "https://elnacional.com.py/politica/uno-peores-ministros-baja-riera-renuncio-n114786",
+          "publishedAt": "2026-11-06T02:17:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a61f12946477.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Enrique Riera renuncia al Ministerio del Interior y vuelve al Senado",
+          "url": "https://www.abc.com.py/politica/2026/11/05/enrique-riera-renuncia-al-ministerio-del-interior-y-vuelve-al-senado",
+          "publishedAt": "2026-11-06T01:43:04.000Z",
+          "image": "https://www.abc.com.py/resizer/Hyrd2pPj7DzCuHGdmQjnJvyfFzs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IVYVKDRFDBBYZKCGWXQCERSNUY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Enrique Riera deja el Ministerio del Interior y prepara su vuelta al Senado",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/riera-sale-del-ministerio-del-interior-en-plena-crisis-politica",
+          "publishedAt": "2026-11-06T01:30:58.917Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/T3GMQACOPBACFN4B3WQ4EHIUCA.jpeg?auth=d3e68803163722c8a986c4562922834822871b7b47fa9a59b36ee8fffd00b433&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Enrique Riera renuncia a su cargo como ministro del Interior",
+          "url": "https://www.ultimahora.com/enrique-riera-renuncia-a-su-cargo-como-ministro-del-interior",
+          "publishedAt": "2026-11-06T01:30:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Renunció Riera al Ministerio del Interior",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/renuncio-riera-al-ministerio-del-interior",
+          "publishedAt": "2026-11-06T01:28:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4b18WngcvebjLWDMVsLJds-JA-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/G34XQYUFVBEQBJEYLJ2V2N4KPY.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Sacudida en el Gabinete: renuncia Enrique Riera en medio de la tormenta política",
+          "url": "https://5dias.com.py/article/sacudida-en-el-gabinete-renuncia-enrique-riera-en-medio-de-la-tormenta-poltica",
+          "publishedAt": "2026-11-06T00:17:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_-_2026-11-06T061924.459_20261106_061908.png"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/07/6a61f12946477.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/uno-peores-ministros-baja-riera-renuncio-n114786"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T12:07:12.180Z",
+      "updatedSlot": "manana",
+      "score": 26.86
+    },
+    {
+      "id": "ev-0uxwm40",
+      "title": "Peña se defenderá el viernes ante el Senado en el juicio político",
+      "summary": "El presidente Santiago Peña se presentará este viernes a las 10:00 ante el Senado para ejercer su defensa en el juicio político. Después, los senadores analizarán pruebas, escucharán alegatos y votarán si corresponde su destitución.\n\nSegún el presidente del Congreso, Basilio Núñez, el procedimiento contempla cinco sesiones extraordinarias y la votación final podría realizarse este mismo viernes. La primera sesión incluyó el juramento del tribunal, integrado por 45 senadores, y la presentación del libelo acusatorio por parte de los diputados.\n\nPeña fue notificado y tuvo 12 horas para preparar su defensa.",
+      "keyPoints": [
+        "Peña se presentará este viernes a las 10:00 ante el Senado",
+        "El tribunal está integrado por 45 senadores",
+        "La votación final podría realizarse el mismo viernes"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Juicio político: Peña se defenderá este viernes y el Senado votará su destitución",
+          "url": "https://www.adndigital.com.py/juicio-politico-pena-se-defendera-este-viernes-y-el-senado-votara-su-destitucion",
+          "publishedAt": "2026-11-06T09:55:32.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-06-at-065143-1024x682.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza en el Senado el juicio político a Peña pese a renuncia",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/avanza-en-el-senado-el-juicio-politico-a-pena-pese-a-renuncia",
+          "publishedAt": "2026-11-06T03:25:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/m64Hmi20O5512gjlaWWJ7mObwR8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TTA6ZYTDX5EONHMS7N5QYKRMLA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Este viernes a las 10:00 Peña o su defensa acuden al Senado",
+          "url": "https://www.abc.com.py/politica/2026/11/05/este-viernes-a-las-1000-pena-o-su-defensa-acuden-al-senado",
+          "publishedAt": "2026-11-06T02:24:52.000Z",
+          "image": "https://www.abc.com.py/resizer/PISoaGXS-SuZYr0RPZRt_HrWJoM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LHJG5EECGRGWFBRQSTR4DGOQF4.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Senado declara cuarto intermedio y juicio político continuará el viernes con defensa de Santiago Peña",
+          "url": "https://www.ultimahora.com/senado-declara-cuarto-intermedio-y-juicio-politico-continuara-el-viernes-con-defensa-de-santiago-pena",
+          "publishedAt": "2026-11-06T00:29:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado convoca a Peña para ejercer su defensa este viernes a las 10:00",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-convoca-a-pena-para-ejercer-su-defensa-este-viernes-a-las-1000",
+          "publishedAt": "2026-11-06T00:23:38.771Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/WDTDPUXLJRCVRH5SDF254XDUJA.jpeg?auth=a483b64f431be944bf16edef78049cdafd04b9564557ed2c771f39cad16a8a29&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscales presentaron la acusación y Peña tendrá que defenderse mañana",
+          "url": "https://www.adndigital.com.py/fiscales-presentaron-la-acusacion-y-pena-tendra-que-defenderse-manana",
+          "publishedAt": "2026-11-06T00:17:30.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/senado-1024x683.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza el proceso: Senado convoca a Peña para ejercer su defensa en el juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico",
+          "publishedAt": "2026-11-06T00:12:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Hwz1K8aE5WD-tTemgFBplxEYxGo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JSVFAXDTMFBGLK3GXWJ4PJMNXA.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado inicia sesión para tratar el juicio político a Santiago Peña",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-inicia-sesion-para-tratar-el-juicio-politico-a-santiago-pena",
+          "publishedAt": "2026-11-05T23:22:33.395Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UZC2A7QB7BAMZN3YBZFXQAERVY.jfif?auth=ec9244633b69e0e84ed4c3ffa45c6ba07afae171b0798ecc445a5435d5960330&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado convoca a sesión a las 19:30 para tratar libelo acusatorio contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-convoca-a-sesion-a-las-1930-para-tratar-libelo-acusatorio-contra-pena",
+          "publishedAt": "2026-11-05T22:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BZSA7fB1WPkhz42k-eS09_o1owQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COQEFIKY25AORFEAEUJ2NXXZKY.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Renuncia o juicio político: los dos escenarios que definirán el futuro de Santiago Peña",
+          "url": "https://elnacional.com.py/politica/renuncia-o-juicio-politico-dos-escenarios-definiran-futuro-santiago-pena-n114767",
+          "publishedAt": "2026-11-05T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado sesiona a las 17:00 para tratar juicio político contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-sesiona-a-las-1700-para-tratar-juicio-politico-contra-pena",
+          "publishedAt": "2026-11-05T18:23:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MkEAT-ZgPkKtkel6PBNQEVPOl3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZLTD47XPJH4LH7B6HESLDAJ4E.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-06-at-065143-1024x682.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/juicio-politico-pena-se-defendera-este-viernes-y-el-senado-votara-su-destitucion"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T12:07:12.180Z",
+      "updatedSlot": "manana",
+      "score": 23.82
+    },
     {
       "id": "ev-1jbnkgf",
       "title": "Peña dice que ejercerá su derecho a la defensa en el juicio político",
@@ -88,190 +295,191 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 23.58
+      "score": 23.25
     },
     {
-      "id": "ev-05jgch8",
-      "title": "Enrique Riera deja el Ministerio del Interior; Carlos Benítez queda interino",
-      "summary": "El ministro del Interior, Enrique Riera, presentó su renuncia en medio de la crisis política e institucional que atraviesa el Gobierno de Santiago Peña. La Presidencia formalizó la aceptación mediante el Decreto 7199 y le agradeció los servicios prestados.\n\nEl mismo decreto designa como ministro del Interior interino a Carlos Humberto Benítez González, quien seguirá también como viceministro de Seguridad Interna. Según las notas, Riera volverá a su banca en el Senado, donde se integrará para el juicio político contra el mandatario.\n\nHoras antes, Riera había llevado al Congreso la nota de renuncia de Peña. Ese trámite no se concretó por falta de quórum en la sesión.",
+      "id": "ev-0p4b9f7",
+      "title": "Fiscalía allana oficinas de ITTI y Grupo Vázquez en el caso ueno bank",
+      "summary": "La Fiscalía allanó en la noche del jueves 5 de noviembre las oficinas corporativas de ITTI SAECA y del Grupo Vázquez, en Asunción. La investigación se relaciona con presuntas irregularidades financieras en ueno bank.\n\nSegún La Nación, los fiscales Manuel Doldán, Jorge Arce y Francisco Cabrera encabezaron el procedimiento, acompañado por la Policía de Cibercrimen. Las oficinas de ITTI estaban desmanteladas, pero los agentes lograron incautar algunos equipos informáticos. La Fiscalía también volvió a allanar la casa de Miguel Vázquez.\n\nPor otro lado, la agente fiscal Yeimy Adle pidió a la Seprelad información financiera y societaria de 27 personas físicas imputadas y 20 personas jurídicas, en la causa 89/2026 por presuntos hechos punibles de lesión de confianza y otros. Por su parte, el Ministerio de Trabajo inició inspecciones en empresas vinculadas a ueno bank y al Grupo Vázquez para verificar las condiciones laborales de los trabajadores desvinculados.",
       "keyPoints": [
-        "La Presidencia aceptó la renuncia de Enrique Riera mediante el Decreto 7199.",
-        "Carlos Humberto Benítez González fue designado ministro del Interior interino.",
-        "Riera retomará su banca en el Senado, según las notas."
+        "Allanamiento de las oficinas de ITTI SAECA y del Grupo Vázquez",
+        "La causa investiga presuntas irregularidades financieras en ueno bank",
+        "La Seprelad recibió un pedido de información sobre 47 personas imputadas y jurídicas",
+        "El Ministerio de Trabajo inspecciona empresas vinculadas"
       ],
-      "category": "politica",
+      "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Aceptan renuncia de Riera al Ministerio del Interior",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/aceptan-renuncia-de-riera-al-ministerio-del-interior",
-          "publishedAt": "2026-11-06T03:12:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ydbHHWkMq2wyyJgWIAzFtUmx0Rc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BPDQM3DHDJABDMPYPQW33QFU6Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Uno de los peores ministros se baja: Riera renunció",
-          "url": "https://elnacional.com.py/politica/uno-peores-ministros-baja-riera-renuncio-n114786",
-          "publishedAt": "2026-11-06T02:17:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a61f12946477.jpg"
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía allana oficinas de ITTI y Grupo Vázquez en Asunción",
+          "url": "https://5dias.com.py/article/fiscala-allana-oficinas-de-itti-y-grupo-vzquez-en-asuncin",
+          "publishedAt": "2026-11-06T03:16:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/descarga_20261105_182117.jpeg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Enrique Riera renuncia al Ministerio del Interior y vuelve al Senado",
-          "url": "https://www.abc.com.py/politica/2026/11/05/enrique-riera-renuncia-al-ministerio-del-interior-y-vuelve-al-senado",
-          "publishedAt": "2026-11-06T01:43:04.000Z",
-          "image": "https://www.abc.com.py/resizer/Hyrd2pPj7DzCuHGdmQjnJvyfFzs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IVYVKDRFDBBYZKCGWXQCERSNUY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Enrique Riera deja el Ministerio del Interior y prepara su vuelta al Senado",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/riera-sale-del-ministerio-del-interior-en-plena-crisis-politica",
-          "publishedAt": "2026-11-06T01:30:58.917Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/T3GMQACOPBACFN4B3WQ4EHIUCA.jpeg?auth=d3e68803163722c8a986c4562922834822871b7b47fa9a59b36ee8fffd00b433&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Enrique Riera renuncia a su cargo como ministro del Interior",
-          "url": "https://www.ultimahora.com/enrique-riera-renuncia-a-su-cargo-como-ministro-del-interior",
-          "publishedAt": "2026-11-06T01:30:15.000Z",
-          "image": null
+          "title": "Video: Fiscalía intervino las oficinas de ITTI por la trama de Ueno Bank",
+          "url": "https://www.abc.com.py/policiales/2026/11/05/la-fiscalia-intervino-las-oficinas-de-itti-por-la-trama-de-ueno-bank",
+          "publishedAt": "2026-11-06T00:56:31.000Z",
+          "image": "https://www.abc.com.py/resizer/t0rUuco3uuryqEcvahnGp2AFKMI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HSTVDK64E5CZZKKCIE3GBYXPWY.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Renunció Riera al Ministerio del Interior",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/renuncio-riera-al-ministerio-del-interior",
-          "publishedAt": "2026-11-06T01:28:46.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4b18WngcvebjLWDMVsLJds-JA-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/G34XQYUFVBEQBJEYLJ2V2N4KPY.jpeg"
+          "title": "Caso ueno bank: allanan la empresa itti del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/05/caso-ueno-bank-allanan-la-empresa-itti-del-grupo-vazquez",
+          "publishedAt": "2026-11-06T00:52:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yRceXMaMgfdkDfBMnUBkcm09dQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BZYVROYLBJGOHOAGKLXYG7ZYAA.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Allanan oficinas corporativas de Itti y Grupo Vázquez en Asunción",
+          "url": "https://www.ultimahora.com/allanan-oficinas-corporativas-de-itti-y-grupo-vazquez-en-asuncion",
+          "publishedAt": "2026-11-06T00:51:43.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan la sede de ITTI y oficinas del Grupo Vázquez en complejos corporativos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/allanan-la-sede-de-itti-y-oficinas-del-grupo-vazquez-en-complejos-corporativos",
+          "publishedAt": "2026-11-06T00:20:36.470Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RV5SZ3DM4RAL3JJYI4QIEQW56U.jfif?auth=4f454e81eb85aa3653c460d905c9553b6550f229b03fa64debc50b05afbbee5b&width=1200&height=630&smart=true"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BPDQM3DHDJABDMPYPQW33QFU6Y.jpg?auth=6e189ffcce40f29b18e3fd1314d121b685212c7dc89e15e938f117bfc3e61ed0&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/aceptan-renuncia-de-riera-al-ministerio-del-interior"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/descarga_20261105_182117.jpeg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/fiscala-allana-oficinas-de-itti-y-grupo-vzquez-en-asuncin"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
+      "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 20.59
+      "score": 20.26
     },
     {
-      "id": "ev-0uxwm40",
-      "title": "Senado convoca a Peña a defenderse el viernes 6 a las 10:00",
-      "summary": "El Senado inició el juicio político contra el presidente Santiago Peña y convocó a una sesión para el viernes 6 de noviembre a las 10:00. Ese día Peña, o sus abogados, deberán presentar su defensa. Los diputados que actuaron como fiscales acusadores presentaron el libelo en la sesión del jueves.\n\nSegún el titular del Senado, Basilio Núñez, se establecieron cinco sesiones conforme al reglamento interno. Se corre traslado a Peña para que presente sus descargos en un plazo de 12 horas. Núñez dijo que el Congreso debe respetar el reglamento con rigurosidad.\n\nEl Senado deberá analizar la acusación y determinar si corresponde la destitución. Si Peña renunciara y no hubiera declaración de culpabilidad, podría acceder a la senaduría vitalicia, según El Nacional.",
+      "id": "ev-1kno48m",
+      "title": "El BCP comienza a pagar la garantía a ahorristas de Ueno Bank",
+      "summary": "El Banco Central del Paraguay comenzó a devolver el dinero a los ahorristas de Ueno Bank, que está en proceso de resolución. Los pagos se hacen por etapas. La primera incluye depósitos de hasta G. 10.000.000, a quienes no tengan deudas con la entidad y cuenten con cuenta en otro banco o financiera del país.\n\nSegún ADN Digital, en esta primera asignación se pagó a 720.000 cuentas, por 197.000 millones de guaraníes. La meta es llegar a 2.800.000 clientes. Quienes no tengan cuenta en otro banco deberán consultar en los enlaces habilitados, que están saturados.\n\nVarios usuarios reportaron fallas en esos enlaces, mientras el BCP informó que los próximos grupos se anunciarán conforme avance el proceso. Las personas vinculadas a Ueno Bank quedan excluidas de la cobertura del Fondo de Garantía de Depósitos, según la Ley N.º 2334/03.",
       "keyPoints": [
-        "El Senado convocó a Peña para el viernes 6 de noviembre a las 10:00.",
-        "Peña o sus abogados deberán presentar la defensa.",
-        "El reglamento prevé cinco sesiones para el proceso.",
-        "Se corre traslado a Peña con un plazo de 12 horas para sus descargos."
+        "El BCP inició el pago por etapas de la garantía a depositantes de Ueno Bank.",
+        "La primera etapa alcanza depósitos de hasta G. 10.000.000.",
+        "En la primera asignación se pagó a 720.000 cuentas, por 197.000 millones de guaraníes.",
+        "Usuarios reportan fallas en los enlaces de consulta."
       ],
-      "category": "politica",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "El sistema está saturado pero algunas víctimas de ueno ya pudieron cobrar",
+          "url": "https://www.adndigital.com.py/el-sistema-esta-saturado-pero-algunas-victimas-de-ueno-ya-pudieron-cobrar",
+          "publishedAt": "2026-11-06T11:16:31.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/whatsapp-image-2026-02-03-at-165820.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Víctimas de Ueno reportan que ya comenzaron a cobrar",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/victimas-de-ueno-reportan-que-ya-comenzaron-a-cobrar",
+          "publishedAt": "2026-11-06T09:48:34.582Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/A4F3Z7OMJBHEBGHFXES5YUM7AU.jpeg?auth=82aea585914315905cebc81f543b917643aaa9e9848dfb4474dd808500a4e4ee&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inician pago de garantía a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/inician-pago-de-garantia-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-06T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0nqDPkYy-Qx0QKeZO4V7lPmyYbg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UZ2UUA22FBE7NIPQVHJOEQYRMA.jpg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Este viernes a las 10:00 Peña o su defensa acuden al Senado",
-          "url": "https://www.abc.com.py/politica/2026/11/05/este-viernes-a-las-1000-pena-o-su-defensa-acuden-al-senado",
-          "publishedAt": "2026-11-06T02:24:52.000Z",
-          "image": "https://www.abc.com.py/resizer/PISoaGXS-SuZYr0RPZRt_HrWJoM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LHJG5EECGRGWFBRQSTR4DGOQF4.jpeg"
+          "title": "Ueno Bank: qué pasará con los depósitos, préstamos, tarjetas de crédito y clientes sin otra cuenta bancaria",
+          "url": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-que-pasara-con-los-depositos-prestamos-tarjetas-de-credito-y-clientes-sin-otra-cuenta-bancaria",
+          "publishedAt": "2026-11-06T01:06:11.000Z",
+          "image": "https://www.abc.com.py/resizer/o5YAJxjtSPGD30C5VfY1_Ijlf_c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y455QX36YBCT3KQ2SIG55YQSEI.jpg"
         },
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Senado declara cuarto intermedio y juicio político continuará el viernes con defensa de Santiago Peña",
-          "url": "https://www.ultimahora.com/senado-declara-cuarto-intermedio-y-juicio-politico-continuara-el-viernes-con-defensa-de-santiago-pena",
-          "publishedAt": "2026-11-06T00:29:42.000Z",
-          "image": null
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP anuncia inicio de pagos de garantías",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/05/bcp-anuncia-inicio-de-pagos-de-garantias",
+          "publishedAt": "2026-11-06T00:57:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YTgRJEdysNkSIeaGELwnF0lSwwA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/T2K344T34JD6NI2A7RGF7B33SY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP inicia pago a ahorristas de Ueno Bank: quiénes cobran primero y quiénes tendrán que esperar",
+          "url": "https://www.abc.com.py/economia/2026/11/05/bcp-inicia-pago-a-ahorristas-de-ueno-bank-quienes-cobran-primero-y-quienes-no",
+          "publishedAt": "2026-11-05T23:57:35.000Z",
+          "image": "https://www.abc.com.py/resizer/Hd5rZplKfCWuWykZtnq2bdSw9hQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5AUB2TQQJNF2DOAGCQLBKRVUR4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "BCP anuncia el primer pago de la garantía de ueno Bank, pero usuarios reportan fallas",
+          "url": "https://www.adndigital.com.py/bcp-anuncia-el-primer-pago-de-la-garantia-de-ueno-bank-pero-usuarios-reportan-fallas",
+          "publishedAt": "2026-11-05T23:30:46.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-08-at-064511-1.jpeg"
         },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
-          "title": "Senado convoca a Peña para ejercer su defensa este viernes a las 10:00",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-convoca-a-pena-para-ejercer-su-defensa-este-viernes-a-las-1000",
-          "publishedAt": "2026-11-06T00:23:38.771Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/WDTDPUXLJRCVRH5SDF254XDUJA.jpeg?auth=a483b64f431be944bf16edef78049cdafd04b9564557ed2c771f39cad16a8a29&width=1200&height=630&smart=true"
+          "title": "BCP inicia pago de garantías Ueno Bank: proceso será gradual",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/bcp-inicia-pago-de-garantias-ueno-bank-proceso-sera-gradual-y-cubrira-todos-los-tipos-de-deposito",
+          "publishedAt": "2026-11-05T23:23:29.932Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/5WFEC6SBNJGQLPTBABEORYH2OA.jpeg?auth=3ce65888e8136a0fab03101f882bbc232ed2f22e7ae5eb08255571d669af79db&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Avanza el proceso: Senado convoca a Peña para ejercer su defensa en el juicio político",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico",
-          "publishedAt": "2026-11-06T00:12:22.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Hwz1K8aE5WD-tTemgFBplxEYxGo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JSVFAXDTMFBGLK3GXWJ4PJMNXA.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Senado inicia sesión para tratar el juicio político a Santiago Peña",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-inicia-sesion-para-tratar-el-juicio-politico-a-santiago-pena",
-          "publishedAt": "2026-11-05T23:22:33.395Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UZC2A7QB7BAMZN3YBZFXQAERVY.jfif?auth=ec9244633b69e0e84ed4c3ffa45c6ba07afae171b0798ecc445a5435d5960330&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado convoca a sesión a las 19:30 para tratar libelo acusatorio contra Peña",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-convoca-a-sesion-a-las-1930-para-tratar-libelo-acusatorio-contra-pena",
-          "publishedAt": "2026-11-05T22:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BZSA7fB1WPkhz42k-eS09_o1owQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COQEFIKY25AORFEAEUJ2NXXZKY.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Renuncia o juicio político: los dos escenarios que definirán el futuro de Santiago Peña",
-          "url": "https://elnacional.com.py/politica/renuncia-o-juicio-politico-dos-escenarios-definiran-futuro-santiago-pena-n114767",
-          "publishedAt": "2026-11-05T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado sesiona a las 17:00 para tratar juicio político contra Peña",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-sesiona-a-las-1700-para-tratar-juicio-politico-contra-pena",
-          "publishedAt": "2026-11-05T18:23:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/MkEAT-ZgPkKtkel6PBNQEVPOl3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZLTD47XPJH4LH7B6HESLDAJ4E.jpeg"
+          "title": "BCP inicia pago de garantía a ahorristas de ueno bank: clientes con menos G. 10 millones cobran primero",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/05/bcp-inicia-pago-de-garantia-a-ahorristas-de-ueno-bank-clientes-con-menos-g-10-millones-cobran-primero",
+          "publishedAt": "2026-11-05T19:48:18.000Z",
+          "image": "https://www.lanacion.com.py/resizer/frzji9xgymIePJxYz96yyZeTJ_s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VXW3U6Q6RFAWVKKZDBRKKT4FUM.jpeg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/LHJG5EECGRGWFBRQSTR4DGOQF4.jpeg?auth=5f3c23a05186bfdc09167807098d571bac3f13cac6951b792172477339681070&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/05/este-viernes-a-las-1000-pena-o-su-defensa-acuden-al-senado"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/whatsapp-image-2026-02-03-at-165820.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/el-sistema-esta-saturado-pero-algunas-victimas-de-ueno-ya-pudieron-cobrar"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
+      "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 20.52
+      "score": 17.93
     },
     {
       "id": "ev-0opttor",
-      "title": "Horacio Cartes respalda el juicio político contra Santiago Peña",
-      "summary": "El expresidente de la República y actual titular de la ANR, Horacio Cartes, manifestó su postura a favor del juicio político contra el presidente Santiago Peña. El presidente de la ANR, Horacio Cartes, expresó su apoyo al juicio político contra el mandatario y sostuvo que el Partido Colorado no puede estar del lado del \"latrocinio de los fondos públicos, privados y de los jubilados\".",
+      "title": "Sesión conjunta sin quórum deja a Peña en el cargo pese a su renuncia",
+      "summary": "La sesión conjunta del Congreso convocada para tratar la renuncia de Santiago Peña terminó sin quórum. Legisladores del oficialismo colorado abandonaron el recinto y el pleno quedó sin el número necesario para votar.\n\nCon eso, Peña sigue en la Presidencia aunque haya presentado formalmente su renuncia. El presidente del Congreso, Basilio Núñez, defendió el tratamiento de la renuncia y criticó a la oposición, a la que acusó de confundir a la ciudadanía.\n\nNúñez recordó el caso de Raúl Cubas Grau en 1999, cuando el Senado aceptó la dimisión tras el aval de la Cámara de Diputados.",
       "keyPoints": [
-        "El expresidente de la República y actual titular de la ANR, Horacio Cartes, manifestó su postura a favor del juicio político contra el presidente Santiago Peña.",
-        "El presidente de la ANR, Horacio Cartes, expresó su apoyo al juicio político contra el mandatario y sostuvo que el Partido Colorado no puede estar del lado del \"latrocinio de los fondos públicos, privados y de…",
-        "“No estaremos del lado del latrocinio de los fondos públicos, privados y de los jubilados, debemos pensar en la gente”, aseguró el titular de la ANR.",
-        "La Asociación de Productores de Soja, Oleaginosas y Cereales del Paraguay (APS) manifestó su preocupación por la situación de los ahorristas, los recursos del I nstituto de Previsión Social (IPS) y la confianza en el sistema…"
+        "La sesión conjunta quedó sin quórum y se levantó.",
+        "Peña continúa en el ejercicio de la Presidencia.",
+        "Núñez recordó el caso de Raúl Cubas Grau en 1999.",
+        "Núñez acusó a un sector de la oposición de confundir a la ciudadanía."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "abc",
@@ -288,6 +496,14 @@
           "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/fuerte-respaldo-de-horacio-cartes-impulso-el-juicio-politico-a-pena",
           "publishedAt": "2026-11-06T03:02:00.000Z",
           "image": "https://www.lanacion.com.py/resizer/jnKXfWBARbV5zmZSS4Mz2wQXEgw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MMQXLMZI5JDPVBCAWGUYTXI3X4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Colorados dejan sin cuórum la Bicameral y Peña sigue como presidente",
+          "url": "https://elnacional.com.py/politica/colorados-dejan-cuorum-bicameral-pena-sigue-como-presidente-n114777",
+          "publishedAt": "2026-11-05T21:41:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aecf199e6897.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -339,15 +555,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg?auth=a0909668b202dfb68881fe145b6a99522cc957bd98253a4e35e8d9d51ff48708&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/06/ueno-bank-aps-respalda-juicio-politico-a-santiago-pena-y-exige-proteger-los-fondos-del-ips"
+        "url": "https://statics.elnacional.com.py/2026/11/6aecf199e6897.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/colorados-dejan-cuorum-bicameral-pena-sigue-como-presidente-n114777"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T08:07:10.236Z",
+      "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.63
+      "score": 17.29
     },
     {
       "id": "ev-0mqlwqy",
@@ -422,7 +638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.58
+      "score": 17.24
     },
     {
       "id": "ev-0sxufev",
@@ -489,150 +705,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.58
-    },
-    {
-      "id": "ev-1kno48m",
-      "title": "BCP inicia pago de garantía a ahorristas de Ueno Bank con depósitos de hasta G. 10 millones",
-      "summary": "El Banco Central del Paraguay anunció el inicio del pago de la garantía de depósitos a los clientes de Ueno Bank. La primera etapa alcanza a los ahorristas con saldos de hasta G. 10 millones.\n\nPara cobrar en este primer grupo, el depositante debe cumplir tres condiciones: tener ahorros que no superen G. 10 millones, no tener deudas con Ueno Bank y contar con una cuenta habilitada en otra entidad financiera del país. Quienes cumplan recibirán la totalidad de sus ahorros.\n\nLa institución anunciará progresivamente los siguientes grupos de pago, dentro de los plazos previstos en la legislación. La nota recuerda que el Fondo de Garantía de Depósitos cubre hasta 75 salarios mínimos.",
-      "keyPoints": [
-        "El primer grupo de pago cubre depósitos de hasta G. 10 millones.",
-        "Los beneficiarios deben tener una cuenta en otra entidad financiera.",
-        "Los siguientes grupos se anunciarán de forma progresiva."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Inician pago de garantía a ahorristas de ueno bank",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/inician-pago-de-garantia-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-06T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0nqDPkYy-Qx0QKeZO4V7lPmyYbg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UZ2UUA22FBE7NIPQVHJOEQYRMA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: qué pasará con los depósitos, préstamos, tarjetas de crédito y clientes sin otra cuenta bancaria",
-          "url": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-que-pasara-con-los-depositos-prestamos-tarjetas-de-credito-y-clientes-sin-otra-cuenta-bancaria",
-          "publishedAt": "2026-11-06T01:06:11.000Z",
-          "image": "https://www.abc.com.py/resizer/o5YAJxjtSPGD30C5VfY1_Ijlf_c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y455QX36YBCT3KQ2SIG55YQSEI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP anuncia inicio de pagos de garantías",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/05/bcp-anuncia-inicio-de-pagos-de-garantias",
-          "publishedAt": "2026-11-06T00:57:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/YTgRJEdysNkSIeaGELwnF0lSwwA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/T2K344T34JD6NI2A7RGF7B33SY.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "BCP inicia pago a ahorristas de Ueno Bank: quiénes cobran primero y quiénes tendrán que esperar",
-          "url": "https://www.abc.com.py/economia/2026/11/05/bcp-inicia-pago-a-ahorristas-de-ueno-bank-quienes-cobran-primero-y-quienes-no",
-          "publishedAt": "2026-11-05T23:57:35.000Z",
-          "image": "https://www.abc.com.py/resizer/Hd5rZplKfCWuWykZtnq2bdSw9hQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5AUB2TQQJNF2DOAGCQLBKRVUR4.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "BCP anuncia el primer pago de la garantía de ueno Bank, pero usuarios reportan fallas",
-          "url": "https://www.adndigital.com.py/bcp-anuncia-el-primer-pago-de-la-garantia-de-ueno-bank-pero-usuarios-reportan-fallas",
-          "publishedAt": "2026-11-05T23:30:46.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-08-at-064511-1.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP inicia pago de garantías Ueno Bank: proceso será gradual",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/bcp-inicia-pago-de-garantias-ueno-bank-proceso-sera-gradual-y-cubrira-todos-los-tipos-de-deposito",
-          "publishedAt": "2026-11-05T23:23:29.932Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/5WFEC6SBNJGQLPTBABEORYH2OA.jpeg?auth=3ce65888e8136a0fab03101f882bbc232ed2f22e7ae5eb08255571d669af79db&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP inicia pago de garantía a ahorristas de ueno bank: clientes con menos G. 10 millones cobran primero",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/05/bcp-inicia-pago-de-garantia-a-ahorristas-de-ueno-bank-clientes-con-menos-g-10-millones-cobran-primero",
-          "publishedAt": "2026-11-05T19:48:18.000Z",
-          "image": "https://www.lanacion.com.py/resizer/frzji9xgymIePJxYz96yyZeTJ_s=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VXW3U6Q6RFAWVKKZDBRKKT4FUM.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UZ2UUA22FBE7NIPQVHJOEQYRMA.jpg?auth=b118cc123bf25493cb17f30146c2fc8d43877a4772b628c6e6c86e913159ce13&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/inician-pago-de-garantia-a-ahorristas-de-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T08:07:10.236Z",
-      "updatedSlot": "manana",
-      "score": 17.58
-    },
-    {
-      "id": "ev-0p4b9f7",
-      "title": "Fiscalía allana oficinas de ITTI y del Grupo Vázquez por la causa Ueno Bank",
-      "summary": "Fiscales y policías allanaron este jueves las oficinas de la firma ITTI, vinculada a Ueno Bank, en el piso 11 del Paseo La Galería, en Asunción. Según La Nación, también se intervinieron oficinas del Grupo Vázquez y se volvió a allanar la casa de Miguel Vázquez. El procedimiento se hace en la causa 89/2026, por presuntos hechos punibles de lesión de confianza y otros, abierta tras la resolución del Banco Central contra Ueno Bank.\n\nSegún ABC Color, los agentes se llevaron computadoras, discos duros, teléfonos celulares y carpetas. La Nación informó que encontró las oficinas de ITTI desmanteladas, aunque lograron incautar algunos equipos informáticos. Además, la fiscal Yeimy Adle pidió a la Seprelad información financiera de 27 personas físicas imputadas y 20 personas jurídicas.",
-      "keyPoints": [
-        "Fiscales y policías allanaron las oficinas de ITTI en Asunción.",
-        "El caso es la causa 89/2026 por presuntos hechos punibles de lesión de confianza y otros.",
-        "Se incautaron computadoras, discos duros, celulares y carpetas.",
-        "La fiscal Yeimy Adle pidió información a la Seprelad sobre 27 personas físicas y 20 jurídicas."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Video: Fiscalía intervino las oficinas de ITTI por la trama de Ueno Bank",
-          "url": "https://www.abc.com.py/policiales/2026/11/05/la-fiscalia-intervino-las-oficinas-de-itti-por-la-trama-de-ueno-bank",
-          "publishedAt": "2026-11-06T00:56:31.000Z",
-          "image": "https://www.abc.com.py/resizer/t0rUuco3uuryqEcvahnGp2AFKMI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HSTVDK64E5CZZKKCIE3GBYXPWY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno bank: allanan la empresa itti del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/05/caso-ueno-bank-allanan-la-empresa-itti-del-grupo-vazquez",
-          "publishedAt": "2026-11-06T00:52:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/yRceXMaMgfdkDfBMnUBkcm09dQE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BZYVROYLBJGOHOAGKLXYG7ZYAA.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Allanan oficinas corporativas de Itti y Grupo Vázquez en Asunción",
-          "url": "https://www.ultimahora.com/allanan-oficinas-corporativas-de-itti-y-grupo-vazquez-en-asuncion",
-          "publishedAt": "2026-11-06T00:51:43.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan la sede de ITTI y oficinas del Grupo Vázquez en complejos corporativos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/allanan-la-sede-de-itti-y-oficinas-del-grupo-vazquez-en-complejos-corporativos",
-          "publishedAt": "2026-11-06T00:20:36.470Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RV5SZ3DM4RAL3JJYI4QIEQW56U.jfif?auth=4f454e81eb85aa3653c460d905c9553b6550f229b03fa64debc50b05afbbee5b&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/HSTVDK64E5CZZKKCIE3GBYXPWY.jpg?auth=c9282853f80381f7c997a7268dac11b5a96b611fea51bad96fbc8e3e89df7305&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/05/la-fiscalia-intervino-las-oficinas-de-itti-por-la-trama-de-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 17.4
+      "score": 17.24
     },
     {
       "id": "ev-1qtlj7z",
@@ -707,7 +780,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.3
+      "score": 16.96
     },
     {
       "id": "ev-03gydl5",
@@ -767,7 +840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.98
+      "score": 16.65
     },
     {
       "id": "ev-1y4q89n",
@@ -842,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.8
+      "score": 16.46
     },
     {
       "id": "ev-0wxhaj8",
@@ -910,7 +983,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 13.68
+      "score": 13.35
     },
     {
       "id": "ev-1n04tlt",
@@ -962,7 +1035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0xlxd9y",
@@ -1013,7 +1086,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0bfvvy8",
@@ -1052,7 +1125,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.59
+      "score": 9.26
     },
     {
       "id": "ev-1jj5ve0",
@@ -1095,7 +1168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.47
+      "score": 9.13
     },
     {
       "id": "ev-1swgjyu",
@@ -1138,7 +1211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.08
     },
     {
       "id": "ev-1jugtbc",
@@ -1181,7 +1254,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.35
+      "score": 9.02
     },
     {
       "id": "ev-0foox5f",
@@ -1224,7 +1297,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.31
+      "score": 8.98
     },
     {
       "id": "ev-16fdfai",
@@ -1267,7 +1340,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.29
+      "score": 8.96
     },
     {
       "id": "ev-0lsyg22",
@@ -1310,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-0drs9zx",
@@ -1353,7 +1426,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.23
+      "score": 8.89
     },
     {
       "id": "ev-04bip8r",
@@ -1396,7 +1469,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-1gt4skh",
@@ -1439,7 +1512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T08:07:10.236Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.53
     },
     {
       "id": "ev-1mem3wh",
@@ -1482,7 +1555,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-18mhbiw",
@@ -1533,7 +1606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.08
+      "score": 7.74
     },
     {
       "id": "ev-1vs00nn",
@@ -1577,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-08o7dbs",
@@ -1621,7 +1694,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0x64r0z",
@@ -1664,7 +1737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0hnqxph",
@@ -1707,7 +1780,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1yzujpo",
@@ -1751,7 +1824,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.48
+      "score": 6.15
     },
     {
       "id": "ev-0wuei1d",
@@ -1787,7 +1860,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0ecqcel",
@@ -1823,7 +1896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0xfdg9w",
@@ -1858,7 +1931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-15rcyww",
@@ -1893,7 +1966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0vznaj8",
@@ -1928,7 +2001,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0n7jm75",
@@ -1963,7 +2036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1kp1c87",
@@ -1998,7 +2071,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0c9ziby",
@@ -2033,7 +2106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.07
     },
     {
       "id": "ev-099s3nz",
@@ -2068,7 +2141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.96
+      "score": 4.63
     },
     {
       "id": "ev-04utuqo",
@@ -2102,7 +2175,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.92
+      "score": 4.58
     },
     {
       "id": "ev-032t2u3",
@@ -2137,7 +2210,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.54
     },
     {
       "id": "ev-0ammdmp",
@@ -2172,7 +2245,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-1thj3qg",
@@ -2212,7 +2285,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.07
+      "score": 3.73
     },
     {
       "id": "ev-1dohuds",
@@ -2247,7 +2320,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.08
+      "score": 2.74
     },
     {
       "id": "ev-0p6d6c0",
@@ -2278,7 +2351,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.03
+      "score": 2.7
     },
     {
       "id": "ev-0ruidax",
@@ -2310,7 +2383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3
+      "score": 2.66
     },
     {
       "id": "ev-11ti809",
@@ -2342,7 +2415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.56
     },
     {
       "id": "ev-1n4mpol",
@@ -2374,7 +2447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.55
     },
     {
       "id": "ev-0ao5sbk",
@@ -2406,7 +2479,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.55
     }
   ],
   "runs": [
@@ -2423,6 +2496,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 14
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-06T12:07:12.180Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 22
     }
   ]
 }
