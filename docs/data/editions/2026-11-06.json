@@ -1,20 +1,19 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T19:37:10.889Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-06T23:07:13.662Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0uxwm40",
-      "title": "Senado rechaza la prórroga pedida por Peña y continúa el juicio político",
-      "summary": "El Senado rechazó la prórroga de 72 horas que pidió el presidente Santiago Peña para preparar su defensa en el juicio político. Según NPY, la votación fue de 39 votos en contra y tres a favor.\n\nPeña no se presentó ante el pleno. Sus abogados, Adolfo Ferreiro y Ricardo Preda, llegaron al Congreso para ejercer la defensa técnica. Preda lamentó que el Senado haya condicionado el tiempo y el contenido de esa intervención. El diputado y fiscal acusador Adrián “Billy” Vaesken reclamó que la defensa llegaba tarde, porque la etapa ya había pasado.\n\nLa senadora del PLRA Celeste Amarilla dijo que fue una lástima que Peña no se presentara. El presidente del Congreso, Basilio “Bachi” Núñez, afirmó que cree que todos los senadores acompañarán la destitución del mandatario. Núñez también dijo que quiere escuchar a Peña sobre su relación con políticos y medios.",
+      "title": "Abogados de Peña alegan que el juicio político no tiene garantías y podría ser nulo",
+      "summary": "Los abogados Adolfo Ferreiro y Ricardo Preda se presentaron ante el Senado para defender al presidente Santiago Peña, que no acudió a la sesión. Ferreiro sostuvo que el juicio político no respeta el debido proceso y que podría terminar anulado en instancias internacionales.\n\nLa defensa plantea que la renuncia de Peña debía ser aceptada por el Legislativo y que el procedimiento debe detenerse. Según Ferreiro, el acusado tuvo poco tiempo para responder a un libelo acusatorio extenso y a un volumen grande de pruebas. También advirtió que Paraguay ya fue condenado en otros casos por no respetar el debido proceso.\n\nEsta es la posición de la defensa. Las notas no informan la respuesta de los acusadores ni la decisión final del Senado sobre la renuncia y la prórroga.",
       "keyPoints": [
-        "El Senado rechazó la prórroga por 39 votos en contra y tres a favor.",
-        "Peña no se presentó y sus abogados llegaron al Congreso.",
-        "Vaesken dice que la defensa llegó tarde.",
-        "Núñez cree que la destitución tendrá apoyo unánime."
+        "Peña no se presentó ante el Senado; sus abogados sí asistieron.",
+        "La defensa sostiene que la renuncia debe poner fin al juicio político.",
+        "Ferreiro advierte que el proceso podría ser declarado nulo internacionalmente."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -37,6 +36,30 @@
           "url": "https://elnacional.com.py/politica/juicio-politico-pena-bachi-nunez-habla-una-condena-unanime-n114833",
           "publishedAt": "2026-11-06T19:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aedf84fe7b11.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Defensa de Santiago Peña afirma que su renuncia deja sin efecto el juicio político",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/defensa-de-santiago-pena-afirma-que-su-renuncia-deja-sin-efecto-el-juicio-politico",
+          "publishedAt": "2026-11-06T17:28:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Defensa de Peña sostiene que juicio político sería nulo y cuestiona rechazo de su renuncia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/defensa-de-pena-sostiene-que-juicio-politico-seria-nulo-y-cuestiona-rechazo-de-su-renuncia",
+          "publishedAt": "2026-11-06T17:05:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jy9OIFG_KelybX2EGQ7d3vDXiNI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2TQLA3WGDZBHHCWJZOSOYSVO7I.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Defensa de Peña: Ferreiro sostiene que la renuncia a la presidencia debe poner fin al juicio político",
+          "url": "https://elnacional.com.py/politica/defensa-pena-ferreiro-sostiene-renuncia-presidencia-debe-poner-fin-juicio-politico-n114827",
+          "publishedAt": "2026-11-06T16:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg"
         },
         {
           "sourceId": "elnacional",
@@ -149,6 +172,14 @@
           "url": "https://elnacional.com.py/politica/prorroga-solicitada-pena-esta-contemplada-reglamento-advierten-n114803",
           "publishedAt": "2026-11-06T12:33:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aedc9cc1e682.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Adolfo Ferreiro ejercerá defensa de Peña ante el Senado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/adolfo-ferreiro-ejercera-defensa-de-pena-ante-el-senado",
+          "publishedAt": "2026-11-06T12:28:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZQU9eyFNGU1sXjK1y2zVqN9bVX4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YH5JQOFBWJGADGITZLULHLKXKM.JPG"
         },
         {
           "sourceId": "lanacion",
@@ -304,15 +335,15 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/FXTN6YHGYBBZXHYK24EQHVF7OE.jpeg?auth=ae2452d7c01d2dcb2317729658ee944c2614cdf975a5a22f94b15af2cb572d0d&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/politica/2026/11/06/senado-rechaza-prorroga-solicitada-por-pena"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YH5JQOFBWJGADGITZLULHLKXKM.JPG?auth=47af5ca5df0da92cc84a65683fafcdc8f3048c48434b77a17f2f9f8d5612cb2e&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/adolfo-ferreiro-ejercera-defensa-de-pena-ante-el-senado"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T19:37:10.889Z",
+      "updatedAt": "2026-11-06T23:07:13.662Z",
       "updatedSlot": "tarde",
-      "score": 32.95
+      "score": 32.66
     },
     {
       "id": "ev-05jgch8",
@@ -419,7 +450,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T19:37:10.889Z",
       "updatedSlot": "tarde",
-      "score": 29.99
+      "score": 29.7
     },
     {
       "id": "ev-1jbnkgf",
@@ -503,7 +534,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 22.63
+      "score": 22.33
     },
     {
       "id": "ev-0p4b9f7",
@@ -571,7 +602,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 19.64
+      "score": 19.35
     },
     {
       "id": "ev-1y4q89n",
@@ -655,6 +686,97 @@
       "updatedAt": "2026-11-06T15:51:34.529Z",
       "updatedSlot": "tarde",
       "score": 19
+    },
+    {
+      "id": "ev-0wxhaj8",
+      "title": "Miguel Vázquez y exdirectivos de Ueno Bank ingresan a Tacumbú con prisión preventiva",
+      "summary": "Miguel Vázquez, CEO del extinto Ueno Bank y presidente del Grupo Vázquez, ingresó al Centro Nacional de Prevenidos, antiguo Tacumbú, para cumplir prisión preventiva por disposición judicial. Con él fueron trasladados otros exdirectivos, entre ellos Juan Manuel Gustale, Julio Daniel Rey, Diego Fernando Duarte y Alejandro Gómez Abente.\n\nMiguel Ángel Almada Frutos fue recluido en la Penitenciaría Padre Juan de la Vega, de Emboscada. Según La Nación, el juez Rodrigo Estigarribia dispuso celdas individuales y la prohibición de comunicación entre imputados. Otras dos imputadas cumplen arresto domiciliario con tobilleras electrónicas, según NPY.",
+      "keyPoints": [
+        "Miguel Vázquez ingresó al Centro Nacional de Prevenidos para prisión preventiva.",
+        "Miguel Ángel Almada Frutos fue recluido en Emboscada.",
+        "Dos imputadas cumplen arresto domiciliario con tobilleras electrónicas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Primeras imágenes de exdirectivos de Ueno Bank recluidos en Tacumbú",
+          "url": "https://www.telefuturo.com.py/primeras-imagenes-de-exdirectivos-de-ueno-bank-recluidos-en-tacumbu",
+          "publishedAt": "2026-11-06T17:30:09.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Así ingresaron los exdirectivos de Ueno Bank al antiguo penal de Tacumbú",
+          "url": "https://www.npy.com.py/noticias/nacionales/asi-ingresaron-los-exdirectivos-de-ueno-bank-al-antiguo-penal-de-tacumbu",
+          "publishedAt": "2026-11-06T16:10:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Miguel Vázquez y directivos de ueno bank ingresan al expenal de Tacumbú",
+          "url": "https://www.lanacion.com.py/pais/2026/11/06/miguel-vazquez-y-directivos-de-ueno-bank-ingresan-al-expenal-de-tacumbu",
+          "publishedAt": "2026-11-06T14:12:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lNto2Qm--s9RJ3KQonUuO0Z11HE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Prisión preventiva para seis exdirectivos de Ueno Bank y arresto domiciliario para otras dos",
+          "url": "https://www.npy.com.py/noticias/nacionales/prision-preventiva-para-seis-exdirectivos-de-ueno-bank-y-arresto-domiciliario-para-otras-dos",
+          "publishedAt": "2026-11-05T16:16:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juez ordena prisión preventiva para Miguel Vázquez y otros directivos",
+          "url": "https://www.lanacion.com.py/pais/2026/11/05/juez-ordena-prision-preventiva-para-miguel-vazquez-y-otros-directivos",
+          "publishedAt": "2026-11-05T16:03:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lNto2Qm--s9RJ3KQonUuO0Z11HE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Ueno: decretan prisión preventiva para seis directivos y arresto domiciliario para dos mujeres",
+          "url": "https://elnacional.com.py/economia/caso-ueno-decretan-prision-preventiva-seis-directivos-arresto-domiciliario-dos-mujeres-n114753",
+          "publishedAt": "2026-11-05T15:51:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Defensa de Miguel Vázquez ofrece inmuebles por USD 4 millones para evitar la cárcel",
+          "url": "https://elnacional.com.py/economia/defensa-miguel-vazquez-ofrece-inmuebles-usd-4-millones-evitar-carcel-n114740",
+          "publishedAt": "2026-11-05T13:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec81d47036a.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juez define hoy si Miguel Vázquez y otros directivos de ueno bank van a prisión",
+          "url": "https://elnacional.com.py/economia/juez-define-hoy-miguel-vazquez-otros-directivos-ueno-bank-van-prision-n114735",
+          "publishedAt": "2026-11-05T12:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg?auth=5c4268be323ff26ed2cfdde75a297cba02717e1461efc65fe40678347ea124cd&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/06/miguel-vazquez-y-directivos-de-ueno-bank-ingresan-al-expenal-de-tacumbu"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T23:07:13.662Z",
+      "updatedSlot": "tarde",
+      "score": 17.53
     },
     {
       "id": "ev-1kno48m",
@@ -754,7 +876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.3
+      "score": 17.01
     },
     {
       "id": "ev-0opttor",
@@ -854,7 +976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 16.67
+      "score": 16.38
     },
     {
       "id": "ev-0mqlwqy",
@@ -929,7 +1051,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.62
+      "score": 16.33
     },
     {
       "id": "ev-0sxufev",
@@ -996,7 +1118,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.62
+      "score": 16.33
     },
     {
       "id": "ev-1qtlj7z",
@@ -1071,7 +1193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.34
+      "score": 16.05
     },
     {
       "id": "ev-03gydl5",
@@ -1131,7 +1253,91 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.03
+      "score": 16
+    },
+    {
+      "id": "ev-1n04tlt",
+      "title": "MEF denuncia a directivos de ueno bank por G. 250.000 millones de la Caja Fiscal",
+      "summary": "El Ministerio de Economía y Finanzas presentó una denuncia ante la Fiscalía contra directivos y responsables de ueno bank. La cartera sostiene que los fondos jubilatorios se colocaron en julio de 2025 sobre la base de información que luego resultó distinta a la situación real del banco.\n\nSegún el MEF, la Caja Fiscal adjudicó G. 250.000 millones al banco, con una tasa del 12,35 % anual para certificados de depósito a cinco años. La operación partió de ofertas por G. 1 billón, pero el monto se limitó al 25 % por criterio de diversificación. Los recursos representan el 8 % de los fondos excedentes invertidos en el sistema financiero.\n\nLa denuncia está firmada por el ministro Óscar Lovera Chávez y pide investigar por hechos que podrían constituir delitos contra el patrimonio del Estado. La cartera pide que se investigue de forma autónoma o dentro de la causa penal ya abierta. Por ahora, no se conoce una respuesta de los directivos denunciados.",
+      "keyPoints": [
+        "La Caja Fiscal colocó G. 250.000 millones en ueno bank en julio de 2025.",
+        "El MEF denunció ante la Fiscalía a directivos y responsables del banco.",
+        "La denuncia sostiene que la situación patrimonial difiere de la informada al invertir.",
+        "La operación se adjudicó con una tasa de 12,35 % anual a cinco años."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "MEF revela cuánto dinero de la Caja Fiscal colocó en Ueno Bank y confirma denuncia",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/mef-revela-cuanto-dinero-de-la-caja-fiscal-coloco-en-ueno-bank-y-confirma-denuncia",
+          "publishedAt": "2026-11-06T21:58:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg?auth=92bb6f29a8ad30fe0fbae1ea00f74d9e29c1ab8851b1ac3b0fd35598b325ee7e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "MEF detalla cómo colocaron los G. 250.000 millones de la Caja Fiscal a ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/06/mef-detalla-como-colocaron-los-g-250000-millones-de-la-caja-fiscal-a-ueno-bank",
+          "publishedAt": "2026-11-06T21:46:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/kMoOpOsgbhL-XllTdOJ41LL6TGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Senave denuncia a ueno bank por G. 40.000 millones",
+          "url": "https://5dias.com.py/article/senave-denuncia-a-ueno-bank-por-g-40000-millones",
+          "publishedAt": "2026-11-06T16:02:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HWcJ7ADXEAA35rf_20261106_160510.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno bank: Senave denuncia a directivos por presunto perjuicio de G. 40.000 millones",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/06/caso-ueno-bank-senave-denuncia-a-directivos-por-presunto-perjuicio-de-g-40000-millones",
+          "publishedAt": "2026-11-06T12:36:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mKSy0mdCoL55BLPSAyNn04mNUtQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H6AFWDJALNG6XOOKU3Z34D7A44.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno pone en riesgo G. 250 mil millones de la Caja Fiscal",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/caso-ueno-pone-en-riesgo-g-250-mil-millones-de-la-caja-fiscal",
+          "publishedAt": "2026-11-06T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/kMoOpOsgbhL-XllTdOJ41LL6TGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ministerio de Economía denunció ante la Fiscalía a directivos de ueno bank y a otros",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/05/ministerio-de-economia-denuncio-ante-la-fiscalia-a-directivos-de-ueno-bank-y-a-otros",
+          "publishedAt": "2026-11-06T00:38:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tVKZKQQfTwHmKcDGYRwRCPtL2BE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7MYWI4G4WJGS7O57Y5M43EC4BY.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "MEF denuncia a Ueno y alerta sobre G. 250.000 millones de la Caja Fiscal",
+          "url": "https://5dias.com.py/article/mef-denuncia-a-ueno-y-alerta-sobre-g-250000-millones-de-la-caja-fiscal",
+          "publishedAt": "2026-11-05T17:56:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/mef_sede1_20260713_170905.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg?auth=92bb6f29a8ad30fe0fbae1ea00f74d9e29c1ab8851b1ac3b0fd35598b325ee7e&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/06/mef-revela-cuanto-dinero-de-la-caja-fiscal-coloco-en-ueno-bank-y-confirma-denuncia"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T23:07:13.662Z",
+      "updatedSlot": "tarde",
+      "score": 14.9
     },
     {
       "id": "ev-16fdfai",
@@ -1183,143 +1389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T15:51:34.529Z",
       "updatedSlot": "tarde",
-      "score": 13.67
-    },
-    {
-      "id": "ev-0wxhaj8",
-      "title": "Juez decreta prisión preventiva para Miguel Vázquez y otros cinco exdirectivos de Ueno Bank",
-      "summary": "El juez Rodrigo Estigarribia decretó prisión preventiva para seis exdirectivos de Ueno Bank, entre ellos Miguel Vázquez, señalado como principal cabeza de la entidad. Todos están imputados en la investigación por presunto vaciamiento del banco, que hoy está en proceso de resolución.\n\nDos mujeres, Diana Mongelós y Mariana Torres, cumplirán arresto domiciliario con tobillera electrónica. Según el juez, la autoridad penitenciaria deberá asegurar que los procesados no estén juntos en el mismo espacio físico, para evitar que se comuniquen entre sí.\n\nLas medidas se dictaron en la audiencia de imposición de medidas de este jueves, que había sido convocada en el marco de la causa. La Fiscalía había pedido prisión preventiva para Vázquez y arresto domiciliario para los demás imputados.",
-      "keyPoints": [
-        "Seis exdirectivos de Ueno Bank quedan con prisión preventiva.",
-        "Dos mujeres cumplirán arresto domiciliario con tobillera electrónica.",
-        "Los procesados deberán estar alojados en espacios separados.",
-        "La Fiscalía había pedido prisión preventiva para Miguel Vázquez."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Prisión preventiva para seis exdirectivos de Ueno Bank y arresto domiciliario para otras dos",
-          "url": "https://www.npy.com.py/noticias/nacionales/prision-preventiva-para-seis-exdirectivos-de-ueno-bank-y-arresto-domiciliario-para-otras-dos",
-          "publishedAt": "2026-11-05T16:16:46.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Juez ordena prisión preventiva para Miguel Vázquez y otros directivos",
-          "url": "https://www.lanacion.com.py/pais/2026/11/05/juez-ordena-prision-preventiva-para-miguel-vazquez-y-otros-directivos",
-          "publishedAt": "2026-11-05T16:03:38.000Z",
-          "image": "https://www.lanacion.com.py/resizer/lNto2Qm--s9RJ3KQonUuO0Z11HE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Caso Ueno: decretan prisión preventiva para seis directivos y arresto domiciliario para dos mujeres",
-          "url": "https://elnacional.com.py/economia/caso-ueno-decretan-prision-preventiva-seis-directivos-arresto-domiciliario-dos-mujeres-n114753",
-          "publishedAt": "2026-11-05T15:51:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Defensa de Miguel Vázquez ofrece inmuebles por USD 4 millones para evitar la cárcel",
-          "url": "https://elnacional.com.py/economia/defensa-miguel-vazquez-ofrece-inmuebles-usd-4-millones-evitar-carcel-n114740",
-          "publishedAt": "2026-11-05T13:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aec81d47036a.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Juez define hoy si Miguel Vázquez y otros directivos de ueno bank van a prisión",
-          "url": "https://elnacional.com.py/economia/juez-define-hoy-miguel-vazquez-otros-directivos-ueno-bank-van-prision-n114735",
-          "publishedAt": "2026-11-05T12:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeb1b1a0a17e.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg?auth=5c4268be323ff26ed2cfdde75a297cba02717e1461efc65fe40678347ea124cd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/juez-ordena-prision-preventiva-para-miguel-vazquez-y-otros-directivos"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 13
-    },
-    {
-      "id": "ev-1n04tlt",
-      "title": "Senave denuncia a siete directivos de ueno bank por G. 40.000 millones",
-      "summary": "El Senave presentó una denuncia penal ante el Ministerio Público contra siete directivos de ueno bank. Según el documento, la institución tenía G. 40.000 millones depositados en el banco, repartidos en una caja de ahorro a la vista y un depósito a plazo fijo de G. 20.000 millones cada uno. La presentación fue hecha el 5 de noviembre por el director de Asuntos Jurídicos, por instrucción del presidente de la institución.\n\nEntre los denunciados figuran Federico Miguel Vázquez Villasanti, Juan Manuel Gustale Cardoni, Julio Daniel Rey Fernández, Diana Leticia Mongelós González, Mariana Isabel Torres Rubiani, Miguel Ángel Almada Frutos, Diego Fernando Duarte Schussmuller y Alejandro Gómez Abente. La denuncia pide investigar presuntos hechos punibles vinculados a la administración de esos recursos. Son acusaciones del Senave y las notas no traen respuesta de los denunciados.",
-      "keyPoints": [
-        "El Senave denunció a siete directivos ante el Ministerio Público.",
-        "La institución tenía G. 40.000 millones depositados en ueno bank.",
-        "La denuncia es por presuntos hechos punibles vinculados a la administración de los fondos.",
-        "Las notas no incluyen respuesta de los denunciados."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Senave denuncia a ueno bank por G. 40.000 millones",
-          "url": "https://5dias.com.py/article/senave-denuncia-a-ueno-bank-por-g-40000-millones",
-          "publishedAt": "2026-11-06T16:02:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HWcJ7ADXEAA35rf_20261106_160510.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno bank: Senave denuncia a directivos por presunto perjuicio de G. 40.000 millones",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/06/caso-ueno-bank-senave-denuncia-a-directivos-por-presunto-perjuicio-de-g-40000-millones",
-          "publishedAt": "2026-11-06T12:36:50.000Z",
-          "image": "https://www.lanacion.com.py/resizer/mKSy0mdCoL55BLPSAyNn04mNUtQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H6AFWDJALNG6XOOKU3Z34D7A44.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno pone en riesgo G. 250 mil millones de la Caja Fiscal",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/caso-ueno-pone-en-riesgo-g-250-mil-millones-de-la-caja-fiscal",
-          "publishedAt": "2026-11-06T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/kMoOpOsgbhL-XllTdOJ41LL6TGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ministerio de Economía denunció ante la Fiscalía a directivos de ueno bank y a otros",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/05/ministerio-de-economia-denuncio-ante-la-fiscalia-a-directivos-de-ueno-bank-y-a-otros",
-          "publishedAt": "2026-11-06T00:38:41.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tVKZKQQfTwHmKcDGYRwRCPtL2BE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7MYWI4G4WJGS7O57Y5M43EC4BY.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "MEF denuncia a Ueno y alerta sobre G. 250.000 millones de la Caja Fiscal",
-          "url": "https://5dias.com.py/article/mef-denuncia-a-ueno-y-alerta-sobre-g-250000-millones-de-la-caja-fiscal",
-          "publishedAt": "2026-11-05T17:56:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/mef_sede1_20260713_170905.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HWcJ7ADXEAA35rf_20261106_160510.jpg",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/senave-denuncia-a-ueno-bank-por-g-40000-millones"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T19:37:10.889Z",
-      "updatedSlot": "tarde",
-      "score": 11.7
+      "score": 13.38
     },
     {
       "id": "ev-0xlxd9y",
@@ -1370,7 +1440,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-0bfvvy8",
@@ -1409,7 +1479,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.63
+      "score": 8.34
     },
     {
       "id": "ev-1jj5ve0",
@@ -1452,7 +1522,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.22
     },
     {
       "id": "ev-1swgjyu",
@@ -1495,7 +1565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.45
+      "score": 8.16
     },
     {
       "id": "ev-1jugtbc",
@@ -1538,7 +1608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.39
+      "score": 8.1
     },
     {
       "id": "ev-0foox5f",
@@ -1581,7 +1651,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.06
     },
     {
       "id": "ev-0lsyg22",
@@ -1624,7 +1694,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-0drs9zx",
@@ -1667,7 +1737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.27
+      "score": 8
     },
     {
       "id": "ev-04bip8r",
@@ -1710,7 +1780,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.1
+      "score": 8
     },
     {
       "id": "ev-1gt4skh",
@@ -1847,7 +1917,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 7.12
+      "score": 6.83
     },
     {
       "id": "ev-1vs00nn",
@@ -1891,7 +1961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-08o7dbs",
@@ -1935,7 +2005,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0x64r0z",
@@ -1978,7 +2048,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0hnqxph",
@@ -2021,7 +2091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1yzujpo",
@@ -2065,7 +2135,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.52
+      "score": 5.23
     },
     {
       "id": "ev-0wuei1d",
@@ -2101,7 +2171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0ecqcel",
@@ -2137,7 +2207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0xfdg9w",
@@ -2172,7 +2242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-15rcyww",
@@ -2207,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0vznaj8",
@@ -2242,7 +2312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0n7jm75",
@@ -2277,7 +2347,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-1kp1c87",
@@ -2312,7 +2382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0c9ziby",
@@ -2347,7 +2417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.16
     },
     {
       "id": "ev-099s3nz",
@@ -2382,7 +2452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.01
+      "score": 4
     },
     {
       "id": "ev-04utuqo",
@@ -2526,7 +2596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.11
+      "score": 2.82
     },
     {
       "id": "ev-1dohuds",
@@ -2561,7 +2631,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.12
+      "score": 1.83
     },
     {
       "id": "ev-0p6d6c0",
@@ -2592,7 +2662,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.07
+      "score": 1.78
     },
     {
       "id": "ev-0ruidax",
@@ -2624,7 +2694,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.04
+      "score": 1.75
     },
     {
       "id": "ev-11ti809",
@@ -2656,7 +2726,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.93
+      "score": 1.64
     },
     {
       "id": "ev-1n4mpol",
@@ -2688,7 +2758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.93
+      "score": 1.64
     },
     {
       "id": "ev-0ao5sbk",
@@ -2720,7 +2790,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.93
+      "score": 1.64
     }
   ],
   "runs": [
@@ -2758,6 +2828,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 28
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-06T23:07:13.662Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 23
     }
   ]
 }
