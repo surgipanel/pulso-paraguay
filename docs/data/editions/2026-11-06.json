@@ -1,19 +1,20 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T15:51:34.529Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-06T19:37:10.889Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0uxwm40",
-      "title": "Diputados aprueban por unanimidad el juicio político contra Peña",
-      "summary": "La Cámara de Diputados aprobó por unanimidad iniciar un juicio político contra el presidente Santiago Peña. Ocho legisladores de distintas bancadas fueron designados para sostener la acusación ante el Senado.\n\nLa acusación consta de cinco causales, que sus proponentes consideran pruebas de mal desempeño en sus funciones. El eje es la crisis financiera de Ueno Bank, intervenida por el Banco Central.\n\nEl Senado convocó a una sesión extraordinaria para dar continuidad al proceso. Peña fue convocado para el viernes 6 de noviembre a las 10:00 para ejercer su defensa.",
+      "title": "Senado rechaza la prórroga pedida por Peña y continúa el juicio político",
+      "summary": "El Senado rechazó la prórroga de 72 horas que pidió el presidente Santiago Peña para preparar su defensa en el juicio político. Según NPY, la votación fue de 39 votos en contra y tres a favor.\n\nPeña no se presentó ante el pleno. Sus abogados, Adolfo Ferreiro y Ricardo Preda, llegaron al Congreso para ejercer la defensa técnica. Preda lamentó que el Senado haya condicionado el tiempo y el contenido de esa intervención. El diputado y fiscal acusador Adrián “Billy” Vaesken reclamó que la defensa llegaba tarde, porque la etapa ya había pasado.\n\nLa senadora del PLRA Celeste Amarilla dijo que fue una lástima que Peña no se presentara. El presidente del Congreso, Basilio “Bachi” Núñez, afirmó que cree que todos los senadores acompañarán la destitución del mandatario. Núñez también dijo que quiere escuchar a Peña sobre su relación con políticos y medios.",
       "keyPoints": [
-        "La Cámara de Diputados aprobó por unanimidad el inicio del juicio político.",
-        "Ocho diputados sostienen la acusación ante el Senado.",
-        "La acusación tiene cinco causales vinculadas a la crisis de Ueno Bank."
+        "El Senado rechazó la prórroga por 39 votos en contra y tres a favor.",
+        "Peña no se presentó y sus abogados llegaron al Congreso.",
+        "Vaesken dice que la defensa llegó tarde.",
+        "Núñez cree que la destitución tendrá apoyo unánime."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -21,6 +22,70 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Abogados de Santiago Peña no demostraron nada para frenar el juicio político, dice Celeste Amarilla",
+          "url": "https://www.abc.com.py/politica/2026/11/06/abogados-de-santiago-pena-no-demostraron-nada-para-frenar-el-juicio-politico-dice-celeste-amarilla",
+          "publishedAt": "2026-11-06T19:04:05.000Z",
+          "image": "https://www.abc.com.py/resizer/AGllV6Y8anehqjYdt8mhfOfkW9g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F46DRWYJHBBZDHPSWUZORCUCRM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juicio político a Peña: Bachi Núñez habla de una condena \"unánime\"",
+          "url": "https://elnacional.com.py/politica/juicio-politico-pena-bachi-nunez-habla-una-condena-unanime-n114833",
+          "publishedAt": "2026-11-06T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedf84fe7b11.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña no se presentó ante el Senado y sus abogados llegaron al Congreso para ejercer su defensa",
+          "url": "https://elnacional.com.py/politica/pena-presento-senado-sus-abogados-llegaron-congreso-ejercer-su-defensa-n114821",
+          "publishedAt": "2026-11-06T16:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedfe41c02ea.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña no se presentó ante el Senado para ejercer defensa y prosigue juicio",
+          "url": "https://www.abc.com.py/politica/2026/11/06/senado-determina-que-pena-no-se-presento-para-ejercer-defensa-con-sus-abogado-en-camino",
+          "publishedAt": "2026-11-06T16:01:27.000Z",
+          "image": "https://www.abc.com.py/resizer/CIkb5JTUu0s8vkTb4YjqovcV648=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VWZ3GD264FAS7NT6CLHE6HUQQM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña no irá al Congreso: sus abogados lo representarán en el juicio político",
+          "url": "https://www.abc.com.py/politica/2026/11/06/santiago-pena-no-ira-al-congreso-sus-abogados-lo-representaran-en-el-juicio-politico",
+          "publishedAt": "2026-11-06T15:54:49.000Z",
+          "image": "https://www.abc.com.py/resizer/UGv9coQEEX-aOvW0bVlON_xLiqY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IAZL6OOHV5EMFHGYNV5LYTCO4E.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Juicio político: Senado rechaza prórroga solicitada por Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/juicio-politico-senado-rechaza-prorroga-solicitada-por-santiago-pena",
+          "publishedAt": "2026-11-06T15:06:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado rechaza prórroga solicitada por Peña",
+          "url": "https://www.hoy.com.py/politica/2026/11/06/senado-rechaza-prorroga-solicitada-por-pena",
+          "publishedAt": "2026-11-06T14:51:51.638Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/FXTN6YHGYBBZXHYK24EQHVF7OE.jpeg?auth=ae2452d7c01d2dcb2317729658ee944c2614cdf975a5a22f94b15af2cb572d0d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cuarto intermedio: Senado da tiempo a Peña para presentarse y ejercer su defensa",
+          "url": "https://elnacional.com.py/politica/cuarto-intermedio-senado-da-tiempo-pena-presentarse-ejercer-su-defensa-n114813",
+          "publishedAt": "2026-11-06T14:34:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aede2dfe1e37.jpeg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -30,12 +95,28 @@
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/whatsapp-image-2026-03-16-at-171745.jpeg"
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado retoma juicio político y va a cuarto intermedio para convocatoria de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-retoma-juicio-politico-y-va-a-cuarto-intermedio-para-convocatoria-de-pena",
+          "publishedAt": "2026-11-06T14:24:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NbTU-fyNLhQNJkn2O04Swz5hxko=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FXTN6YHGYBBZXHYK24EQHVF7OE.jpeg"
+        },
+        {
           "sourceId": "vanguardia",
           "sourceName": "Vanguardia",
           "title": "Bachi Núñez dice que quiere escuchar a Peña hablar de sus vínculos con políticos y medios",
           "url": "https://diariovanguardia.com.py/bachi-nunez-dice-que-quiere-escuchar-a-pena-hablar-de-sus-vinculos-con-politicos-y-medios",
           "publishedAt": "2026-11-06T14:20:24.000Z",
           "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/basilio-nunez.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña ya tiene abogados, pero Senado debe resolver pedido de prórroga antes de su defensa",
+          "url": "https://elnacional.com.py/politica/pena-ya-tiene-abogados-pero-senado-debe-resolver-pedido-prorroga-antes-su-defensa-n114807",
+          "publishedAt": "2026-11-06T13:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedd4c5e8fc3.jpg"
         },
         {
           "sourceId": "elnacional",
@@ -62,12 +143,36 @@
           "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Prórroga solicitada por Peña no está contemplada en el reglamento, advierten",
+          "url": "https://elnacional.com.py/politica/prorroga-solicitada-pena-esta-contemplada-reglamento-advierten-n114803",
+          "publishedAt": "2026-11-06T12:33:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedc9cc1e682.jpeg"
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Ante prórroga solicitada por Peña: “Lo más sano es tratar y liquidar su renuncia”, dice Núñez",
           "url": "https://www.lanacion.com.py/politica/2026/11/06/ante-prorroga-solicitada-por-pena-lo-mas-sano-es-tratar-y-liquidar-su-renuncia-dice-nunez",
           "publishedAt": "2026-11-06T10:51:22.000Z",
           "image": "https://www.lanacion.com.py/resizer/W7ieSV1PfQTBkHDzmsRLMWHaUmo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2GTBRN33OFBMXHXQFE7OHC6DMU.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Santiago Peña pide 72 horas más para preparar su defensa ante el juicio político",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/santiago-pena-pide-72-horas-mas-para-preparar-su-defensa-ante-el-juicio-politico",
+          "publishedAt": "2026-11-06T10:49:59.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juicio político: Peña solicita 72 horas de prórroga para preparar su defensa",
+          "url": "https://elnacional.com.py/politica/juicio-politico-pena-solicita-72-horas-prorroga-preparar-su-defensa-n114789",
+          "publishedAt": "2026-11-06T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec3129ae679.png"
         },
         {
           "sourceId": "lanacion",
@@ -199,25 +304,24 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aedcd6129460.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/los-ocho-diputados-tendran-su-cargo-sostener-acusacion-santiago-pena-n114806"
+        "url": "https://www.lanacion.com.py/resizer/v2/FXTN6YHGYBBZXHYK24EQHVF7OE.jpeg?auth=ae2452d7c01d2dcb2317729658ee944c2614cdf975a5a22f94b15af2cb572d0d&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/politica/2026/11/06/senado-rechaza-prorroga-solicitada-por-pena"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedAt": "2026-11-06T19:37:10.889Z",
       "updatedSlot": "tarde",
-      "score": 32.89
+      "score": 32.95
     },
     {
       "id": "ev-05jgch8",
-      "title": "Enrique Riera deja el Ministerio del Interior y queda en condiciones de volver al Senado",
-      "summary": "El Gobierno aceptó la renuncia del ministro del Interior, Enrique Riera, mediante el Decreto n.° 7199. Riera presentó su renuncia en medio de la crisis política por el caso ueno bank. El decreto le agradece los servicios prestados durante su gestión.\n\nEl mismo decreto designó como ministro del Interior interino a Carlos Humberto Benítez González, quien seguirá también como viceministro de Seguridad Interna. Riera había pedido licencia de su banca en el Senado en agosto de 2023 para asumir el cargo, y su suplente fue Ramón Catalino Retamozo.\n\nCon la renuncia aceptada, Riera puede reincorporarse a la Cámara Alta, justo cuando el Senado debe decidir sobre el juicio político contra Peña. Riera había llevado al Congreso la nota de renuncia del presidente.",
+      "title": "Riera deja el Ministerio del Interior y Carlos Benítez queda como interino",
+      "summary": "El Gobierno aceptó la renuncia de Enrique Riera al Ministerio del Interior, según un decreto firmado por el presidente Santiago Peña. Riera presentó su renuncia este jueves, en medio de la crisis política que atraviesa el Poder Ejecutivo.\n\nEn su lugar, el decreto designa como ministro interino a Carlos Humberto Benítez González, que hasta ahora era viceministro de Seguridad Interna. Benítez seguirá con sus funciones actuales mientras cumpla el cargo interino. Según Vanguardia, la salida de Riera le permite volver a su banca en el Senado, donde había pedido licencia en agosto de 2023 para asumir en Interior. Ese medio describe su gestión como ampliamente cuestionada en seguridad.\n\nLa salida ocurre mientras el Senado debe decidir sobre el juicio político contra Peña, que ya fue aprobado por Diputados. Las notas no informan si habrá cambios en el resto de la cúpula de seguridad.",
       "keyPoints": [
-        "El Decreto n.° 7199 acepta la renuncia de Enrique Riera.",
-        "Carlos Humberto Benítez González fue designado ministro interino del Interior.",
-        "Riera queda en condiciones de reincorporarse al Senado.",
-        "Riera había llevado al Congreso la nota de renuncia de Peña."
+        "El decreto N.º 7199 acepta la renuncia de Enrique Riera al Ministerio del Interior.",
+        "Carlos Humberto Benítez González queda como ministro del Interior interino.",
+        "Riera recupera su banca en el Senado, según Vanguardia."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -225,6 +329,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El “presidente” Alliana y su cúpula de seguridad",
+          "url": "https://www.abc.com.py/policiales/2026/11/06/el-presidente-alliana-y-su-cupula-de-seguridad",
+          "publishedAt": "2026-11-06T19:33:17.000Z",
+          "image": "https://www.abc.com.py/resizer/7fdAo809u6fNu8ohcGMBH9LyGLY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2XHA4FBLJFCQFIB4R4Q4HRU6OM.jpg"
+        },
         {
           "sourceId": "vanguardia",
           "sourceName": "Vanguardia",
@@ -305,9 +417,9 @@
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedAt": "2026-11-06T19:37:10.889Z",
       "updatedSlot": "tarde",
-      "score": 29.74
+      "score": 29.99
     },
     {
       "id": "ev-1jbnkgf",
@@ -391,7 +503,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 22.94
+      "score": 22.63
     },
     {
       "id": "ev-0p4b9f7",
@@ -459,7 +571,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 19.95
+      "score": 19.64
     },
     {
       "id": "ev-1y4q89n",
@@ -542,7 +654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T15:51:34.529Z",
       "updatedSlot": "tarde",
-      "score": 19.15
+      "score": 19
     },
     {
       "id": "ev-1kno48m",
@@ -642,7 +754,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.62
+      "score": 17.3
     },
     {
       "id": "ev-0opttor",
@@ -742,7 +854,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 16.98
+      "score": 16.67
     },
     {
       "id": "ev-0mqlwqy",
@@ -817,7 +929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.93
+      "score": 16.62
     },
     {
       "id": "ev-0sxufev",
@@ -884,7 +996,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.93
+      "score": 16.62
     },
     {
       "id": "ev-1qtlj7z",
@@ -959,7 +1071,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.65
+      "score": 16.34
     },
     {
       "id": "ev-03gydl5",
@@ -1019,7 +1131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.34
+      "score": 16.03
     },
     {
       "id": "ev-16fdfai",
@@ -1071,7 +1183,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T15:51:34.529Z",
       "updatedSlot": "tarde",
-      "score": 13.99
+      "score": 13.67
     },
     {
       "id": "ev-0wxhaj8",
@@ -1139,24 +1251,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 13.03
+      "score": 13
     },
     {
       "id": "ev-1n04tlt",
-      "title": "Ministerio de Economía denuncia a directivos de Ueno Bank por G. 250.000 millones",
-      "summary": "El Ministerio de Economía y Finanzas (MEF) presentó una denuncia ante la Fiscalía contra directivos de Ueno Bank. Según la cartera, los hechos podrían constituir delitos contra el patrimonio del Estado. En el centro está G. 250.000 millones de recursos de la Caja Fiscal que el ministerio colocó en el banco en julio de 2025.\n\nLa denuncia, firmada por el ministro Óscar Lovera Chávez, sostiene que la situación patrimonial del banco difiere sustancialmente de la que mostraba cuando se hizo la inversión. El MEF también señaló que los intereses pendientes de devengar suman G. 123.838 millones hasta 2030. Además, indicó que el tope de 75 salarios mínimos del Fondo de Garantía de Depósitos cubre solo una fracción de la colocación.\n\nEl Banco Central inició el procedimiento de resolución del banco el 2 de noviembre de 2026, tras constatar un índice de solvencia por debajo del 50 % del mínimo requerido. Según La Nación, la denuncia también alcanza al presidente Santiago Peña, dato que no aparece en las otras notas.",
+      "title": "Senave denuncia a siete directivos de ueno bank por G. 40.000 millones",
+      "summary": "El Senave presentó una denuncia penal ante el Ministerio Público contra siete directivos de ueno bank. Según el documento, la institución tenía G. 40.000 millones depositados en el banco, repartidos en una caja de ahorro a la vista y un depósito a plazo fijo de G. 20.000 millones cada uno. La presentación fue hecha el 5 de noviembre por el director de Asuntos Jurídicos, por instrucción del presidente de la institución.\n\nEntre los denunciados figuran Federico Miguel Vázquez Villasanti, Juan Manuel Gustale Cardoni, Julio Daniel Rey Fernández, Diana Leticia Mongelós González, Mariana Isabel Torres Rubiani, Miguel Ángel Almada Frutos, Diego Fernando Duarte Schussmuller y Alejandro Gómez Abente. La denuncia pide investigar presuntos hechos punibles vinculados a la administración de esos recursos. Son acusaciones del Senave y las notas no traen respuesta de los denunciados.",
       "keyPoints": [
-        "El MEF denunció a directivos de Ueno Bank ante la Fiscalía.",
-        "Los fondos de la Caja Fiscal colocados en el banco suman G. 250.000 millones.",
-        "El Banco Central inició la resolución del banco el 2 de noviembre.",
-        "El ministro Óscar Lovera Chávez firma la denuncia."
+        "El Senave denunció a siete directivos ante el Ministerio Público.",
+        "La institución tenía G. 40.000 millones depositados en ueno bank.",
+        "La denuncia es por presuntos hechos punibles vinculados a la administración de los fondos.",
+        "Las notas no incluyen respuesta de los denunciados."
       ],
-      "category": "economia",
+      "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Senave denuncia a ueno bank por G. 40.000 millones",
+          "url": "https://5dias.com.py/article/senave-denuncia-a-ueno-bank-por-g-40000-millones",
+          "publishedAt": "2026-11-06T16:02:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HWcJ7ADXEAA35rf_20261106_160510.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno bank: Senave denuncia a directivos por presunto perjuicio de G. 40.000 millones",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/06/caso-ueno-bank-senave-denuncia-a-directivos-por-presunto-perjuicio-de-g-40000-millones",
+          "publishedAt": "2026-11-06T12:36:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mKSy0mdCoL55BLPSAyNn04mNUtQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H6AFWDJALNG6XOOKU3Z34D7A44.png"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -1183,15 +1311,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AQ4ABSCU6BFWXGVRBBBTYKIMLU.jpg?auth=92bb6f29a8ad30fe0fbae1ea00f74d9e29c1ab8851b1ac3b0fd35598b325ee7e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/caso-ueno-pone-en-riesgo-g-250-mil-millones-de-la-caja-fiscal"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HWcJ7ADXEAA35rf_20261106_160510.jpg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/senave-denuncia-a-ueno-bank-por-g-40000-millones"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 9.93
+      "updatedAt": "2026-11-06T19:37:10.889Z",
+      "updatedSlot": "tarde",
+      "score": 11.7
     },
     {
       "id": "ev-0xlxd9y",
@@ -1242,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.93
+      "score": 9.62
     },
     {
       "id": "ev-0bfvvy8",
@@ -1281,7 +1409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.63
     },
     {
       "id": "ev-1jj5ve0",
@@ -1324,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.51
     },
     {
       "id": "ev-1swgjyu",
@@ -1367,7 +1495,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.45
     },
     {
       "id": "ev-1jugtbc",
@@ -1410,7 +1538,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.71
+      "score": 8.39
     },
     {
       "id": "ev-0foox5f",
@@ -1453,7 +1581,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.35
     },
     {
       "id": "ev-0lsyg22",
@@ -1496,7 +1624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.28
     },
     {
       "id": "ev-0drs9zx",
@@ -1539,7 +1667,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.58
+      "score": 8.27
     },
     {
       "id": "ev-04bip8r",
@@ -1582,7 +1710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.1
     },
     {
       "id": "ev-1gt4skh",
@@ -1625,7 +1753,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T08:07:10.236Z",
       "updatedSlot": "manana",
-      "score": 8.22
+      "score": 8
     },
     {
       "id": "ev-1mem3wh",
@@ -1719,7 +1847,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 7.43
+      "score": 7.12
     },
     {
       "id": "ev-1vs00nn",
@@ -1763,7 +1891,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.43
+      "score": 6.12
     },
     {
       "id": "ev-08o7dbs",
@@ -1807,7 +1935,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.93
+      "score": 5.62
     },
     {
       "id": "ev-0x64r0z",
@@ -1850,7 +1978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.93
+      "score": 5.62
     },
     {
       "id": "ev-0hnqxph",
@@ -1893,7 +2021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.93
+      "score": 5.62
     },
     {
       "id": "ev-1yzujpo",
@@ -1937,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.83
+      "score": 5.52
     },
     {
       "id": "ev-0wuei1d",
@@ -1973,7 +2101,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-0ecqcel",
@@ -2009,7 +2137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-0xfdg9w",
@@ -2044,7 +2172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-15rcyww",
@@ -2079,7 +2207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-0vznaj8",
@@ -2114,7 +2242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-0n7jm75",
@@ -2149,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-1kp1c87",
@@ -2184,7 +2312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.62
     },
     {
       "id": "ev-0c9ziby",
@@ -2219,7 +2347,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.45
     },
     {
       "id": "ev-099s3nz",
@@ -2254,7 +2382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.32
+      "score": 4.01
     },
     {
       "id": "ev-04utuqo",
@@ -2288,7 +2416,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.27
+      "score": 4
     },
     {
       "id": "ev-032t2u3",
@@ -2323,7 +2451,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.23
+      "score": 4
     },
     {
       "id": "ev-0ammdmp",
@@ -2398,7 +2526,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.42
+      "score": 3.11
     },
     {
       "id": "ev-1dohuds",
@@ -2433,7 +2561,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.43
+      "score": 2.12
     },
     {
       "id": "ev-0p6d6c0",
@@ -2464,7 +2592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.39
+      "score": 2.07
     },
     {
       "id": "ev-0ruidax",
@@ -2496,7 +2624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.35
+      "score": 2.04
     },
     {
       "id": "ev-11ti809",
@@ -2528,7 +2656,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.25
+      "score": 1.93
     },
     {
       "id": "ev-1n4mpol",
@@ -2560,7 +2688,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.24
+      "score": 1.93
     },
     {
       "id": "ev-0ao5sbk",
@@ -2592,7 +2720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.24
+      "score": 1.93
     }
   ],
   "runs": [
@@ -2623,6 +2751,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 17
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-06T19:37:10.889Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 28
     }
   ]
 }
