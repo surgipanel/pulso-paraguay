@@ -1,20 +1,19 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T12:07:12.180Z",
+  "generatedAt": "2026-11-06T15:51:34.529Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-05jgch8",
-      "title": "Enrique Riera renuncia al Ministerio del Interior y Benítez queda como interino",
-      "summary": "El ministro del Interior, Enrique Riera, presentó su renuncia y volverá a ocupar su banca en el Senado. La Presidencia aceptó la dimisión mediante el Decreto 7199, que designa como ministro interino a Carlos Humberto Benítez González, actual viceministro de Seguridad Interna.\n\nEl decreto agradece a Riera los servicios prestados y aclara que Benítez asumirá el Ministerio sin dejar sus funciones de viceministro. La salida se produce en un contexto de fuerte tensión política por la crisis de Ueno Bank, cuya resolución ordenó el Banco Central del Paraguay.\n\nLa renuncia se conoció horas después del inicio del juicio político contra el presidente Santiago Peña, cuyo tratamiento continuará en el Senado.",
+      "id": "ev-0uxwm40",
+      "title": "Diputados aprueban por unanimidad el juicio político contra Peña",
+      "summary": "La Cámara de Diputados aprobó por unanimidad iniciar un juicio político contra el presidente Santiago Peña. Ocho legisladores de distintas bancadas fueron designados para sostener la acusación ante el Senado.\n\nLa acusación consta de cinco causales, que sus proponentes consideran pruebas de mal desempeño en sus funciones. El eje es la crisis financiera de Ueno Bank, intervenida por el Banco Central.\n\nEl Senado convocó a una sesión extraordinaria para dar continuidad al proceso. Peña fue convocado para el viernes 6 de noviembre a las 10:00 para ejercer su defensa.",
       "keyPoints": [
-        "Riera presentó su renuncia al Ministerio del Interior.",
-        "El Decreto 7199 acepta la renuncia y designa a Carlos Humberto Benítez González como ministro interino.",
-        "Riera retomará su banca en el Senado.",
-        "El juicio político contra Santiago Peña comenzó el mismo día."
+        "La Cámara de Diputados aprobó por unanimidad el inicio del juicio político.",
+        "Ocho diputados sostienen la acusación ante el Senado.",
+        "La acusación tiene cinco causales vinculadas a la crisis de Ueno Bank."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +21,218 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ante el rechazo de la prórroga, Peña se presentaría ante el Senado",
+          "url": "https://www.adndigital.com.py/ante-el-rechazo-de-la-prorroga-pena-se-presentaria-ante-el-senado",
+          "publishedAt": "2026-11-06T14:31:39.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/whatsapp-image-2026-03-16-at-171745.jpeg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Bachi Núñez dice que quiere escuchar a Peña hablar de sus vínculos con políticos y medios",
+          "url": "https://diariovanguardia.com.py/bachi-nunez-dice-que-quiere-escuchar-a-pena-hablar-de-sus-vinculos-con-politicos-y-medios",
+          "publishedAt": "2026-11-06T14:20:24.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/basilio-nunez.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Los ocho diputados que tendrán a su cargo sostener la acusación contra Santiago Peña",
+          "url": "https://elnacional.com.py/politica/los-ocho-diputados-tendran-su-cargo-sostener-acusacion-santiago-pena-n114806",
+          "publishedAt": "2026-11-06T13:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedcd6129460.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Celeste Amarilla apoyará prórroga para que Santiago Peña ejerza su derecho a la defensa",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/celeste-amarilla-apoyara-prorroga-para-que-santiago-pena-ejerza-su-derecho-a-la-defensa",
+          "publishedAt": "2026-11-06T13:06:11.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Bachi Núñez ante pedido de prórroga de Peña: \"Lo más sano para mí es tratar y liquidar su renuncia\"",
+          "url": "https://elnacional.com.py/politica/bachi-nunez-pedido-prorroga-pena-lo-mas-sano-mi-tratar-liquidar-su-renuncia-n114801",
+          "publishedAt": "2026-11-06T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ante prórroga solicitada por Peña: “Lo más sano es tratar y liquidar su renuncia”, dice Núñez",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/ante-prorroga-solicitada-por-pena-lo-mas-sano-es-tratar-y-liquidar-su-renuncia-dice-nunez",
+          "publishedAt": "2026-11-06T10:51:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/W7ieSV1PfQTBkHDzmsRLMWHaUmo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2GTBRN33OFBMXHXQFE7OHC6DMU.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña pide prórroga de 72 horas para ejercer su defensa",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/santiago-pena-pide-prorroga-de-72-horas-para-ejercer-su-defensa",
+          "publishedAt": "2026-11-06T10:35:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ikA8iXcDGscF85hlX1jNo0JoMRU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZOCH6BIMTVEIXC3MK4VNJBWK3A.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Juicio político: Peña se defenderá este viernes y el Senado votará su destitución",
+          "url": "https://www.adndigital.com.py/juicio-politico-pena-se-defendera-este-viernes-y-el-senado-votara-su-destitucion",
+          "publishedAt": "2026-11-06T09:55:32.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-06-at-065143-1024x682.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza en el Senado el juicio político a Peña pese a renuncia",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/avanza-en-el-senado-el-juicio-politico-a-pena-pese-a-renuncia",
+          "publishedAt": "2026-11-06T03:25:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/m64Hmi20O5512gjlaWWJ7mObwR8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TTA6ZYTDX5EONHMS7N5QYKRMLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña anunció que va a ejercer su derecho a la defensa",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/santiago-pena-anuncio-que-va-a-ejercer-su-derecho-a-la-defensa",
+          "publishedAt": "2026-11-06T03:07:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gU2upJxckG8KsBgCqMMWdUDc7ng=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R2UZMFLRYFALBP42BYZLB3LHBU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Este viernes a las 10:00 Peña o su defensa acuden al Senado",
+          "url": "https://www.abc.com.py/politica/2026/11/05/este-viernes-a-las-1000-pena-o-su-defensa-acuden-al-senado",
+          "publishedAt": "2026-11-06T02:24:52.000Z",
+          "image": "https://www.abc.com.py/resizer/PISoaGXS-SuZYr0RPZRt_HrWJoM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LHJG5EECGRGWFBRQSTR4DGOQF4.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Senado declara cuarto intermedio y juicio político continuará el viernes con defensa de Santiago Peña",
+          "url": "https://www.ultimahora.com/senado-declara-cuarto-intermedio-y-juicio-politico-continuara-el-viernes-con-defensa-de-santiago-pena",
+          "publishedAt": "2026-11-06T00:29:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado convoca a Peña para ejercer su defensa este viernes a las 10:00",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-convoca-a-pena-para-ejercer-su-defensa-este-viernes-a-las-1000",
+          "publishedAt": "2026-11-06T00:23:38.771Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/WDTDPUXLJRCVRH5SDF254XDUJA.jpeg?auth=a483b64f431be944bf16edef78049cdafd04b9564557ed2c771f39cad16a8a29&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscales presentaron la acusación y Peña tendrá que defenderse mañana",
+          "url": "https://www.adndigital.com.py/fiscales-presentaron-la-acusacion-y-pena-tendra-que-defenderse-manana",
+          "publishedAt": "2026-11-06T00:17:30.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/senado-1024x683.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Avanza el proceso: Senado convoca a Peña para ejercer su defensa en el juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico",
+          "publishedAt": "2026-11-06T00:12:22.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Hwz1K8aE5WD-tTemgFBplxEYxGo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JSVFAXDTMFBGLK3GXWJ4PJMNXA.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senado inicia sesión para tratar el juicio político a Santiago Peña",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-inicia-sesion-para-tratar-el-juicio-politico-a-santiago-pena",
+          "publishedAt": "2026-11-05T23:22:33.395Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UZC2A7QB7BAMZN3YBZFXQAERVY.jfif?auth=ec9244633b69e0e84ed4c3ffa45c6ba07afae171b0798ecc445a5435d5960330&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña anuncia que se someterá al juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/santiago-pena-anuncia-que-se-sometera-al-juicio-politico",
+          "publishedAt": "2026-11-05T22:52:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3V4kf5mBKVYy1cv-BLGOpBTsSa0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPJOCPIKZRHZTBPPYBCTCTAJ6Y.jfif"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña se someterá al juicio político ante el Congreso",
+          "url": "https://www.telefuturo.com.py/santiago-pena-se-sometera-al-juicio-politico-ante-el-congreso",
+          "publishedAt": "2026-11-05T22:32:32.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado convoca a sesión a las 19:30 para tratar libelo acusatorio contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-convoca-a-sesion-a-las-1930-para-tratar-libelo-acusatorio-contra-pena",
+          "publishedAt": "2026-11-05T22:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BZSA7fB1WPkhz42k-eS09_o1owQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COQEFIKY25AORFEAEUJ2NXXZKY.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña anuncia que se presentará ante el Congreso para defenderse en el juicio político",
+          "url": "https://elnacional.com.py/politica/pena-anuncia-presentara-congreso-defenderse-juicio-politico-n114778",
+          "publishedAt": "2026-11-05T22:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab8d000824a3.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Renuncia o juicio político: los dos escenarios que definirán el futuro de Santiago Peña",
+          "url": "https://elnacional.com.py/politica/renuncia-o-juicio-politico-dos-escenarios-definiran-futuro-santiago-pena-n114767",
+          "publishedAt": "2026-11-05T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado sesiona a las 17:00 para tratar juicio político contra Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-sesiona-a-las-1700-para-tratar-juicio-politico-contra-pena",
+          "publishedAt": "2026-11-05T18:23:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MkEAT-ZgPkKtkel6PBNQEVPOl3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZLTD47XPJH4LH7B6HESLDAJ4E.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6aedcd6129460.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/los-ocho-diputados-tendran-su-cargo-sostener-acusacion-santiago-pena-n114806"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedSlot": "tarde",
+      "score": 32.89
+    },
+    {
+      "id": "ev-05jgch8",
+      "title": "Enrique Riera deja el Ministerio del Interior y queda en condiciones de volver al Senado",
+      "summary": "El Gobierno aceptó la renuncia del ministro del Interior, Enrique Riera, mediante el Decreto n.° 7199. Riera presentó su renuncia en medio de la crisis política por el caso ueno bank. El decreto le agradece los servicios prestados durante su gestión.\n\nEl mismo decreto designó como ministro del Interior interino a Carlos Humberto Benítez González, quien seguirá también como viceministro de Seguridad Interna. Riera había pedido licencia de su banca en el Senado en agosto de 2023 para asumir el cargo, y su suplente fue Ramón Catalino Retamozo.\n\nCon la renuncia aceptada, Riera puede reincorporarse a la Cámara Alta, justo cuando el Senado debe decidir sobre el juicio político contra Peña. Riera había llevado al Congreso la nota de renuncia del presidente.",
+      "keyPoints": [
+        "El Decreto n.° 7199 acepta la renuncia de Enrique Riera.",
+        "Carlos Humberto Benítez González fue designado ministro interino del Interior.",
+        "Riera queda en condiciones de reincorporarse al Senado.",
+        "Riera había llevado al Congreso la nota de renuncia de Peña."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "¿Riera vuelve al Senado para intentar salvar a Peña del juicio político?",
+          "url": "https://diariovanguardia.com.py/riera-vuelve-al-senado-para-intentar-salvar-a-pena-del-juicio-politico",
+          "publishedAt": "2026-11-06T12:41:28.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/riera-y-pena.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -94,124 +305,9 @@
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T12:07:12.180Z",
-      "updatedSlot": "manana",
-      "score": 26.86
-    },
-    {
-      "id": "ev-0uxwm40",
-      "title": "Peña se defenderá el viernes ante el Senado en el juicio político",
-      "summary": "El presidente Santiago Peña se presentará este viernes a las 10:00 ante el Senado para ejercer su defensa en el juicio político. Después, los senadores analizarán pruebas, escucharán alegatos y votarán si corresponde su destitución.\n\nSegún el presidente del Congreso, Basilio Núñez, el procedimiento contempla cinco sesiones extraordinarias y la votación final podría realizarse este mismo viernes. La primera sesión incluyó el juramento del tribunal, integrado por 45 senadores, y la presentación del libelo acusatorio por parte de los diputados.\n\nPeña fue notificado y tuvo 12 horas para preparar su defensa.",
-      "keyPoints": [
-        "Peña se presentará este viernes a las 10:00 ante el Senado",
-        "El tribunal está integrado por 45 senadores",
-        "La votación final podría realizarse el mismo viernes"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Juicio político: Peña se defenderá este viernes y el Senado votará su destitución",
-          "url": "https://www.adndigital.com.py/juicio-politico-pena-se-defendera-este-viernes-y-el-senado-votara-su-destitucion",
-          "publishedAt": "2026-11-06T09:55:32.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-06-at-065143-1024x682.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza en el Senado el juicio político a Peña pese a renuncia",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/avanza-en-el-senado-el-juicio-politico-a-pena-pese-a-renuncia",
-          "publishedAt": "2026-11-06T03:25:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/m64Hmi20O5512gjlaWWJ7mObwR8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TTA6ZYTDX5EONHMS7N5QYKRMLA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Este viernes a las 10:00 Peña o su defensa acuden al Senado",
-          "url": "https://www.abc.com.py/politica/2026/11/05/este-viernes-a-las-1000-pena-o-su-defensa-acuden-al-senado",
-          "publishedAt": "2026-11-06T02:24:52.000Z",
-          "image": "https://www.abc.com.py/resizer/PISoaGXS-SuZYr0RPZRt_HrWJoM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LHJG5EECGRGWFBRQSTR4DGOQF4.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Senado declara cuarto intermedio y juicio político continuará el viernes con defensa de Santiago Peña",
-          "url": "https://www.ultimahora.com/senado-declara-cuarto-intermedio-y-juicio-politico-continuara-el-viernes-con-defensa-de-santiago-pena",
-          "publishedAt": "2026-11-06T00:29:42.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Senado convoca a Peña para ejercer su defensa este viernes a las 10:00",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-convoca-a-pena-para-ejercer-su-defensa-este-viernes-a-las-1000",
-          "publishedAt": "2026-11-06T00:23:38.771Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/WDTDPUXLJRCVRH5SDF254XDUJA.jpeg?auth=a483b64f431be944bf16edef78049cdafd04b9564557ed2c771f39cad16a8a29&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Fiscales presentaron la acusación y Peña tendrá que defenderse mañana",
-          "url": "https://www.adndigital.com.py/fiscales-presentaron-la-acusacion-y-pena-tendra-que-defenderse-manana",
-          "publishedAt": "2026-11-06T00:17:30.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/senado-1024x683.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Avanza el proceso: Senado convoca a Peña para ejercer su defensa en el juicio político",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico",
-          "publishedAt": "2026-11-06T00:12:22.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Hwz1K8aE5WD-tTemgFBplxEYxGo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JSVFAXDTMFBGLK3GXWJ4PJMNXA.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Senado inicia sesión para tratar el juicio político a Santiago Peña",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/05/senado-inicia-sesion-para-tratar-el-juicio-politico-a-santiago-pena",
-          "publishedAt": "2026-11-05T23:22:33.395Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UZC2A7QB7BAMZN3YBZFXQAERVY.jfif?auth=ec9244633b69e0e84ed4c3ffa45c6ba07afae171b0798ecc445a5435d5960330&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado convoca a sesión a las 19:30 para tratar libelo acusatorio contra Peña",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-convoca-a-sesion-a-las-1930-para-tratar-libelo-acusatorio-contra-pena",
-          "publishedAt": "2026-11-05T22:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BZSA7fB1WPkhz42k-eS09_o1owQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/COQEFIKY25AORFEAEUJ2NXXZKY.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Renuncia o juicio político: los dos escenarios que definirán el futuro de Santiago Peña",
-          "url": "https://elnacional.com.py/politica/renuncia-o-juicio-politico-dos-escenarios-definiran-futuro-santiago-pena-n114767",
-          "publishedAt": "2026-11-05T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aec98d951e9e.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado sesiona a las 17:00 para tratar juicio político contra Peña",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/senado-sesiona-a-las-1700-para-tratar-juicio-politico-contra-pena",
-          "publishedAt": "2026-11-05T18:23:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/MkEAT-ZgPkKtkel6PBNQEVPOl3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZLTD47XPJH4LH7B6HESLDAJ4E.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-06-at-065143-1024x682.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/juicio-politico-pena-se-defendera-este-viernes-y-el-senado-votara-su-destitucion"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T12:07:12.180Z",
-      "updatedSlot": "manana",
-      "score": 23.82
+      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedSlot": "tarde",
+      "score": 29.74
     },
     {
       "id": "ev-1jbnkgf",
@@ -295,7 +391,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 23.25
+      "score": 22.94
     },
     {
       "id": "ev-0p4b9f7",
@@ -363,7 +459,90 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 20.26
+      "score": 19.95
+    },
+    {
+      "id": "ev-1y4q89n",
+      "title": "Peña anuncia su renuncia a la Presidencia tras la crisis de ueno bank",
+      "summary": "El presidente Santiago Peña anunció su renuncia a la Presidencia de la República. La decisión se produjo tras la fuerte presión por el colapso de ueno bank, entidad intervenida por el Banco Central del Paraguay. Según Telefuturo, la intervención dejó congelados los ahorros de casi 2 millones de paraguayos.\n\nPeña pidió priorizar la estabilidad del país. Según NPY, el Congreso Nacional deberá decidir si acepta o rechaza la dimisión. El anuncio se dio también en medio de los pedidos de renuncia de referentes de su propio partido.",
+      "keyPoints": [
+        "Peña anunció su renuncia a la Presidencia de la República.",
+        "La intervención de ueno bank dejó congelados ahorros de casi 2 millones de paraguayos.",
+        "El Congreso debe decidir si acepta o rechaza la renuncia."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Diputados aprueban pedido de juicio político contra Peña",
+          "url": "https://elnacional.com.py/politica/diputados-aprueban-pedido-juicio-politico-pena-n114761",
+          "publishedAt": "2026-11-05T17:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a76e191e1c3b.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Renunció el presidente Santiago Peña",
+          "url": "https://www.telefuturo.com.py/renuncio-el-presidente-santiago-pena",
+          "publishedAt": "2026-11-05T17:37:19.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Santiago Peña comunica oficialmente su renuncia a la Presidencia de la República",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/santiago-pena-comunica-oficialmente-su-renuncia-a-la-presidencia-de-la-republica",
+          "publishedAt": "2026-11-05T17:00:19.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Santiago Peña presentó su renuncia",
+          "url": "https://www.lanacion.com.py/foco/2026/11/05/santiago-pena-presento-su-renuncia",
+          "publishedAt": "2026-11-05T16:34:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7gct4jVdxXghM54S4t51bea4gBU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3DUEOLBMSBEZNHS2Y2IYNKPHTY.png"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "¿Dónde está el dinero público? La caída de Peña y el agujero negro de Ueno Bank que sacude al Estado",
+          "url": "https://5dias.com.py/article/dnde-est-el-dinero-pblico-la-cada-de-pea-y-el-agujero-negro-de-ueno-bank-que-sacude-al-estado",
+          "publishedAt": "2026-11-05T16:31:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_d1c7s4d1c7s4d1c7_20261105_164711.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Peña renuncia a la Presidencia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/pena-renuncia-a-la-presidencia",
+          "publishedAt": "2026-11-05T16:17:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Gi9P-zRxQMvqGZJAeC10EINcEsQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RTXQZLMEFJCEBL3CUZFWKAH7XM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Video: Santiago Peña renunció a la Presidencia del Paraguay",
+          "url": "https://elnacional.com.py/politica/video-santiago-pena-renuncio-presidencia-paraguay-n114755",
+          "publishedAt": "2026-11-05T16:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aec98d7cf83c.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6aec98d7cf83c.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/video-santiago-pena-renuncio-presidencia-paraguay-n114755"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedSlot": "tarde",
+      "score": 19.15
     },
     {
       "id": "ev-1kno48m",
@@ -463,7 +642,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.93
+      "score": 17.62
     },
     {
       "id": "ev-0opttor",
@@ -563,7 +742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.29
+      "score": 16.98
     },
     {
       "id": "ev-0mqlwqy",
@@ -638,7 +817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.24
+      "score": 16.93
     },
     {
       "id": "ev-0sxufev",
@@ -705,7 +884,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.24
+      "score": 16.93
     },
     {
       "id": "ev-1qtlj7z",
@@ -780,7 +959,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.96
+      "score": 16.65
     },
     {
       "id": "ev-03gydl5",
@@ -840,82 +1019,59 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.65
+      "score": 16.34
     },
     {
-      "id": "ev-1y4q89n",
-      "title": "Peña anuncia su renuncia por la crisis de Ueno Bank",
-      "summary": "El presidente Santiago Peña anunció su renuncia a la Presidencia de la República en medio de la crisis por la resolución de Ueno Bank. La decisión se da en uno de los momentos políticos y financieros más difíciles de su gobierno.\n\nEn un mensaje en video dirigido a la ciudadanía, Peña dijo que su decisión busca preservar la estabilidad del país y proteger a los ahorristas. También pidió disculpas por posibles errores durante su gestión y afirmó que ningún cargo puede estar por encima del bienestar del Paraguay.\n\nLa renuncia se produce mientras la Cámara de Diputados trata el pedido de juicio político en su contra. Según las notas, la dimisión queda sujeta a que el Congreso la acepte o la rechace.",
+      "id": "ev-16fdfai",
+      "title": "Postergan la Noche de los Museos y suspenden la Feria Palmear del sábado",
+      "summary": "La Asociación Noche de los Museos suspendió de forma indefinida su 10.ª edición, prevista para este sábado 7 de noviembre con casi 100 museos y espacios culturales de Asunción y diez departamentos. La organización dijo que la medida busca la solidaridad con las familias que atraviesan dificultades económicas y sociales, y preservar la seguridad del público, los voluntarios y el patrimonio.\n\nLa Secretaría Nacional de Turismo informó sobre la suspensión. La Feria Palmear, que iba a realizarse el sábado en el centro histórico de Asunción, también quedó suspendida por los pronósticos de inestabilidad climática.\n\nOtras actividades culturales también se postergaron, como la feria MIRÁ ASU, un encuentro de bateristas y algunas funciones teatrales. La OSCA trasladó su concierto al 25 de noviembre.",
       "keyPoints": [
-        "Peña anunció su renuncia a la Presidencia en un video dirigido a la ciudadanía.",
-        "Pidió disculpas por posibles errores y habló de proteger a los ahorristas.",
-        "El Congreso debe decidir si acepta o rechaza la renuncia."
+        "La Noche de los Museos fue suspendida hasta nuevo aviso.",
+        "La Feria Palmear del sábado 7 de noviembre fue suspendida.",
+        "La OSCA trasladó su concierto al 25 de noviembre.",
+        "La Senatur informó la suspensión de la Noche de los Museos."
       ],
-      "category": "politica",
+      "category": "cultura",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Santiago Peña presentó su renuncia",
-          "url": "https://www.lanacion.com.py/foco/2026/11/05/santiago-pena-presento-su-renuncia",
-          "publishedAt": "2026-11-05T16:34:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7gct4jVdxXghM54S4t51bea4gBU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3DUEOLBMSBEZNHS2Y2IYNKPHTY.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Peña renuncia a la Presidencia",
-          "url": "https://www.lanacion.com.py/politica/2026/11/05/pena-renuncia-a-la-presidencia",
-          "publishedAt": "2026-11-05T16:17:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Gi9P-zRxQMvqGZJAeC10EINcEsQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RTXQZLMEFJCEBL3CUZFWKAH7XM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Video: Santiago Peña renunció a la Presidencia del Paraguay",
-          "url": "https://elnacional.com.py/politica/video-santiago-pena-renuncio-presidencia-paraguay-n114755",
-          "publishedAt": "2026-11-05T16:10:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aec98d7cf83c.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Santiago Peña comunica oficialmente su renuncia a la Presidencia de la República",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/santiago-pena-comunica-oficialmente-su-renuncia-a-la-presidencia-de-la-republica",
-          "publishedAt": "2026-11-05T17:00:19.000Z",
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Actividades culturales se postergan por crisis en Paraguay",
+          "url": "https://www.ultimahora.com/actividades-culturales-se-postergan-por-crisis-en-paraguay",
+          "publishedAt": "2026-11-06T15:41:03.000Z",
           "image": null
         },
         {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "¿Dónde está el dinero público? La caída de Peña y el agujero negro de Ueno Bank que sacude al Estado",
-          "url": "https://5dias.com.py/article/dnde-est-el-dinero-pblico-la-cada-de-pea-y-el-agujero-negro-de-ueno-bank-que-sacude-al-estado",
-          "publishedAt": "2026-11-05T16:31:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_d1c7s4d1c7s4d1c7_20261105_164711.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Postergan la Noche de los Museos y la Feria Palmear, actividades del fin de semana",
+          "url": "https://www.lanacion.com.py/pais/2026/11/05/postergan-la-noche-de-los-museos-y-la-feria-palmear-actividades-del-fin-de-semana",
+          "publishedAt": "2026-11-05T23:35:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Zs5xpjoH98yN81s4OdxI9SHMvYg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LIYWIUD4TFANBIG3HTYN2BSNF4.jpeg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Diputados aprueban pedido de juicio político contra Peña",
-          "url": "https://elnacional.com.py/politica/diputados-aprueban-pedido-juicio-politico-pena-n114761",
-          "publishedAt": "2026-11-05T17:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/08/6a76e191e1c3b.jpeg"
+          "title": "Se posterga la \"Noche de los Museos\" hasta nuevo aviso",
+          "url": "https://elnacional.com.py/agenda-cultural/se-posterga-noche-museos-nuevo-aviso-n114763",
+          "publishedAt": "2026-11-05T17:35:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad373c51cbff.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RTXQZLMEFJCEBL3CUZFWKAH7XM.jpg?auth=ae047d902dd05d3b05cc7041570439e1203490b147e34306fa0a342333123e63&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LIYWIUD4TFANBIG3HTYN2BSNF4.jpeg?auth=bedae2fc2773e2aeeb905b22257b82b3abc519cb0223447d77863b5657c8bd1f&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/05/pena-renuncia-a-la-presidencia"
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/postergan-la-noche-de-los-museos-y-la-feria-palmear-actividades-del-fin-de-semana"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 16.46
+      "updatedAt": "2026-11-06T15:51:34.529Z",
+      "updatedSlot": "tarde",
+      "score": 13.99
     },
     {
       "id": "ev-0wxhaj8",
@@ -983,7 +1139,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 13.35
+      "score": 13.03
     },
     {
       "id": "ev-1n04tlt",
@@ -1035,7 +1191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.93
     },
     {
       "id": "ev-0xlxd9y",
@@ -1086,7 +1242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.93
     },
     {
       "id": "ev-0bfvvy8",
@@ -1125,7 +1281,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.26
+      "score": 8.95
     },
     {
       "id": "ev-1jj5ve0",
@@ -1168,7 +1324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.13
+      "score": 8.82
     },
     {
       "id": "ev-1swgjyu",
@@ -1211,7 +1367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.08
+      "score": 8.77
     },
     {
       "id": "ev-1jugtbc",
@@ -1254,7 +1410,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.02
+      "score": 8.71
     },
     {
       "id": "ev-0foox5f",
@@ -1297,50 +1453,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.98
-    },
-    {
-      "id": "ev-16fdfai",
-      "title": "Suspenden la Noche de los Museos hasta nuevo aviso por la crisis",
-      "summary": "La Asociación Noche de los Museos suspendió de forma indefinida su 10.ª edición, prevista para el sábado 7 de noviembre. La Secretaría Nacional de Turismo (Senatur) informó de la medida. Participaban casi 100 museos y espacios culturales de Asunción y diez departamentos.\n\nSegún la organización, la decisión busca acompañar a las familias con dificultades económicas y sociales. También quiere preservar la seguridad de los voluntarios, del público y del patrimonio de los museos. La asociación dijo que no son momentos propicios para festejos.",
-      "keyPoints": [
-        "La 10.ª Noche de los Museos fue suspendida de forma indefinida.",
-        "La edición estaba prevista para el sábado 7 de noviembre.",
-        "La organización habla de solidaridad con familias en dificultades."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Postergan la Noche de los Museos y la Feria Palmear, actividades del fin de semana",
-          "url": "https://www.lanacion.com.py/pais/2026/11/05/postergan-la-noche-de-los-museos-y-la-feria-palmear-actividades-del-fin-de-semana",
-          "publishedAt": "2026-11-05T23:35:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Zs5xpjoH98yN81s4OdxI9SHMvYg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LIYWIUD4TFANBIG3HTYN2BSNF4.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Se posterga la \"Noche de los Museos\" hasta nuevo aviso",
-          "url": "https://elnacional.com.py/agenda-cultural/se-posterga-noche-museos-nuevo-aviso-n114763",
-          "publishedAt": "2026-11-05T17:35:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad373c51cbff.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LIYWIUD4TFANBIG3HTYN2BSNF4.jpeg?auth=bedae2fc2773e2aeeb905b22257b82b3abc519cb0223447d77863b5657c8bd1f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/05/postergan-la-noche-de-los-museos-y-la-feria-palmear-actividades-del-fin-de-semana"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.67
     },
     {
       "id": "ev-0lsyg22",
@@ -1383,7 +1496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.6
     },
     {
       "id": "ev-0drs9zx",
@@ -1426,7 +1539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.89
+      "score": 8.58
     },
     {
       "id": "ev-04bip8r",
@@ -1469,7 +1582,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.41
     },
     {
       "id": "ev-1gt4skh",
@@ -1512,7 +1625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T08:07:10.236Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.22
     },
     {
       "id": "ev-1mem3wh",
@@ -1606,7 +1719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 7.74
+      "score": 7.43
     },
     {
       "id": "ev-1vs00nn",
@@ -1650,7 +1763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.43
     },
     {
       "id": "ev-08o7dbs",
@@ -1694,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.93
     },
     {
       "id": "ev-0x64r0z",
@@ -1737,7 +1850,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.93
     },
     {
       "id": "ev-0hnqxph",
@@ -1780,7 +1893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.93
     },
     {
       "id": "ev-1yzujpo",
@@ -1824,7 +1937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.83
     },
     {
       "id": "ev-0wuei1d",
@@ -1860,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-0ecqcel",
@@ -1896,7 +2009,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-0xfdg9w",
@@ -1931,7 +2044,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-15rcyww",
@@ -1966,7 +2079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-0vznaj8",
@@ -2001,7 +2114,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-0n7jm75",
@@ -2036,7 +2149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-1kp1c87",
@@ -2071,7 +2184,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.93
     },
     {
       "id": "ev-0c9ziby",
@@ -2106,7 +2219,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.76
     },
     {
       "id": "ev-099s3nz",
@@ -2141,7 +2254,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.32
     },
     {
       "id": "ev-04utuqo",
@@ -2175,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.27
     },
     {
       "id": "ev-032t2u3",
@@ -2210,7 +2323,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.23
     },
     {
       "id": "ev-0ammdmp",
@@ -2285,7 +2398,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.73
+      "score": 3.42
     },
     {
       "id": "ev-1dohuds",
@@ -2320,7 +2433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.74
+      "score": 2.43
     },
     {
       "id": "ev-0p6d6c0",
@@ -2351,7 +2464,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.7
+      "score": 2.39
     },
     {
       "id": "ev-0ruidax",
@@ -2383,7 +2496,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.66
+      "score": 2.35
     },
     {
       "id": "ev-11ti809",
@@ -2415,7 +2528,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.56
+      "score": 2.25
     },
     {
       "id": "ev-1n4mpol",
@@ -2447,7 +2560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.55
+      "score": 2.24
     },
     {
       "id": "ev-0ao5sbk",
@@ -2479,7 +2592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.55
+      "score": 2.24
     }
   ],
   "runs": [
@@ -2503,6 +2616,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 22
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-06T15:51:34.529Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 17
     }
   ]
 }
