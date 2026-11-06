@@ -1,9 +1,9 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T03:22:15.835Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-06T08:07:10.236Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
@@ -88,7 +88,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 23.98
+      "score": 23.58
     },
     {
       "id": "ev-05jgch8",
@@ -163,7 +163,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 20.99
+      "score": 20.59
     },
     {
       "id": "ev-0uxwm40",
@@ -255,7 +255,99 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 20.92
+      "score": 20.52
+    },
+    {
+      "id": "ev-0opttor",
+      "title": "Horacio Cartes respalda el juicio político contra Santiago Peña",
+      "summary": "El expresidente de la República y actual titular de la ANR, Horacio Cartes, manifestó su postura a favor del juicio político contra el presidente Santiago Peña. El presidente de la ANR, Horacio Cartes, expresó su apoyo al juicio político contra el mandatario y sostuvo que el Partido Colorado no puede estar del lado del \"latrocinio de los fondos públicos, privados y de los jubilados\".",
+      "keyPoints": [
+        "El expresidente de la República y actual titular de la ANR, Horacio Cartes, manifestó su postura a favor del juicio político contra el presidente Santiago Peña.",
+        "El presidente de la ANR, Horacio Cartes, expresó su apoyo al juicio político contra el mandatario y sostuvo que el Partido Colorado no puede estar del lado del \"latrocinio de los fondos públicos, privados y de…",
+        "“No estaremos del lado del latrocinio de los fondos públicos, privados y de los jubilados, debemos pensar en la gente”, aseguró el titular de la ANR.",
+        "La Asociación de Productores de Soja, Oleaginosas y Cereales del Paraguay (APS) manifestó su preocupación por la situación de los ahorristas, los recursos del I nstituto de Previsión Social (IPS) y la confianza en el sistema…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: APS respalda juicio político a Santiago Peña y exige proteger los fondos del IPS",
+          "url": "https://www.abc.com.py/economia/2026/11/06/ueno-bank-aps-respalda-juicio-politico-a-santiago-pena-y-exige-proteger-los-fondos-del-ips",
+          "publishedAt": "2026-11-06T03:37:27.000Z",
+          "image": "https://www.abc.com.py/resizer/hHlgBVdSagKFwDqHPQBSdugbfPI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fuerte respaldo de Horacio Cartes impulsó el juicio político a Peña",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/fuerte-respaldo-de-horacio-cartes-impulso-el-juicio-politico-a-pena",
+          "publishedAt": "2026-11-06T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jnKXfWBARbV5zmZSS4Mz2wQXEgw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MMQXLMZI5JDPVBCAWGUYTXI3X4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bachi Núñez cuestiona la “mentira” de la oposición sobre tratamiento de renuncia de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/bachi-nunez-cuestiona-la-mentira-de-la-oposicion-sobre-tratamiento-de-renuncia-de-pena",
+          "publishedAt": "2026-11-05T20:39:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Qb1Qr37W_fPNTMZqdethjmVH-AY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OEVRLVYW7RBIDPQKRBK6WSCIAY.JPEG"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bachi convocará sesión conjunta tras renuncia de Peña y mañana juraría nuevo presidente",
+          "url": "https://www.lanacion.com.py/politica/2026/11/05/bachi-convocara-sesion-conjunta-tras-renuncia-de-pena-y-manana-juraria-nuevo-presidente",
+          "publishedAt": "2026-11-05T16:44:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZnnlCWjbqjf-yjZkx4O5SvEINM0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZAHBDWAN3RBNVD7KU4XD6PY3BU.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 5 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/05/ln-pm-edicion-del-5-de-noviembre",
+          "publishedAt": "2026-11-05T16:25:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DAP8m5HBgdkw1hmk9qnMcB1l7-c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UFTVMCCF4BHZHMN4IIR2Q4NHFU.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "“Nos ha decepcionado”: Basilio Núñez exige la renuncia de Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/nos-ha-decepcionado-basilio-nunez-exige-la-renuncia-de-santiago-pena",
+          "publishedAt": "2026-11-05T14:09:44.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Horacio Cartes respalda el juicio político contra Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/horacio-cartes-respalda-el-juicio-politico-contra-santiago-pena",
+          "publishedAt": "2026-11-05T13:18:20.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Comunicado de Cartes: \"Acompañamos el juicio político al presidente Santiago Peña\"",
+          "url": "https://elnacional.com.py/politica/comunicado-cartes-acompanamos-juicio-politico-presidente-santiago-pena-n114736",
+          "publishedAt": "2026-11-05T12:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/06/684d3e59b8957.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg?auth=a0909668b202dfb68881fe145b6a99522cc957bd98253a4e35e8d9d51ff48708&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/06/ueno-bank-aps-respalda-juicio-politico-a-santiago-pena-y-exige-proteger-los-fondos-del-ips"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T08:07:10.236Z",
+      "updatedSlot": "manana",
+      "score": 17.63
     },
     {
       "id": "ev-0mqlwqy",
@@ -330,7 +422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.97
+      "score": 17.58
     },
     {
       "id": "ev-0sxufev",
@@ -397,17 +489,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.97
+      "score": 17.58
     },
     {
       "id": "ev-1kno48m",
-      "title": "El BCP inicia el pago de garantías a ahorristas de ueno bank",
-      "summary": "El Banco Central del Paraguay (BCP) comenzó el pago de la garantía del Fondo de Garantía de Depósitos a los ahorristas de ueno bank. La primera etapa alcanza a quienes tienen depósitos de hasta G. 10 millones, no tienen deudas con la entidad y cuentan con una cuenta habilitada en otro banco o financiera del país. Quienes tengan un saldo total menor a ese monto recibirán la totalidad de sus ahorros.\n\nEl desembolso será gradual, por grupos, así que no todos cobrarán en la misma fecha. El BCP anunciará los siguientes grupos según avance el proceso y dentro de los plazos legales. La información se publicará de forma progresiva en canales oficiales.\n\nUsuarios reportaron que varios enlaces del BCP para consultar no funcionaban, según ADN Digital, lo que aumenta la incertidumbre de los ahorristas.",
+      "title": "BCP inicia pago de garantía a ahorristas de Ueno Bank con depósitos de hasta G. 10 millones",
+      "summary": "El Banco Central del Paraguay anunció el inicio del pago de la garantía de depósitos a los clientes de Ueno Bank. La primera etapa alcanza a los ahorristas con saldos de hasta G. 10 millones.\n\nPara cobrar en este primer grupo, el depositante debe cumplir tres condiciones: tener ahorros que no superen G. 10 millones, no tener deudas con Ueno Bank y contar con una cuenta habilitada en otra entidad financiera del país. Quienes cumplan recibirán la totalidad de sus ahorros.\n\nLa institución anunciará progresivamente los siguientes grupos de pago, dentro de los plazos previstos en la legislación. La nota recuerda que el Fondo de Garantía de Depósitos cubre hasta 75 salarios mínimos.",
       "keyPoints": [
-        "La primera etapa es para depósitos de hasta G. 10 millones.",
-        "Los ahorristas deben no tener deudas y tener una cuenta en otro banco o financiera.",
-        "Los siguientes grupos serán anunciados por el BCP más adelante.",
-        "Usuarios reportaron fallas en los enlaces de consulta."
+        "El primer grupo de pago cubre depósitos de hasta G. 10 millones.",
+        "Los beneficiarios deben tener una cuenta en otra entidad financiera.",
+        "Los siguientes grupos se anunciarán de forma progresiva."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -415,6 +506,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Inician pago de garantía a ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/inician-pago-de-garantia-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-06T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0nqDPkYy-Qx0QKeZO4V7lPmyYbg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UZ2UUA22FBE7NIPQVHJOEQYRMA.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -465,15 +564,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Y455QX36YBCT3KQ2SIG55YQSEI.jpg?auth=cd45e5b446356e6d23710e1461ef117d2301c2bd679d18135a1750634db53adf&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/05/ueno-bank-que-pasara-con-los-depositos-prestamos-tarjetas-de-credito-y-clientes-sin-otra-cuenta-bancaria"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UZ2UUA22FBE7NIPQVHJOEQYRMA.jpg?auth=b118cc123bf25493cb17f30146c2fc8d43877a4772b628c6e6c86e913159ce13&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/inician-pago-de-garantia-a-ahorristas-de-ueno-bank"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
+      "updatedAt": "2026-11-06T08:07:10.236Z",
       "updatedSlot": "manana",
-      "score": 17.81
+      "score": 17.58
     },
     {
       "id": "ev-0p4b9f7",
@@ -533,7 +632,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.8
+      "score": 17.4
     },
     {
       "id": "ev-1qtlj7z",
@@ -608,7 +707,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.69
+      "score": 17.3
     },
     {
       "id": "ev-03gydl5",
@@ -668,7 +767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.38
+      "score": 16.98
     },
     {
       "id": "ev-1y4q89n",
@@ -743,66 +842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 17.19
-    },
-    {
-      "id": "ev-0opttor",
-      "title": "Horacio Cartes respalda el juicio político contra Santiago Peña",
-      "summary": "El presidente de la ANR, Horacio Cartes, se pronunció a favor del juicio político contra Santiago Peña, impulsado por diputados de la oposición y disidentes colorados. Lo expresó en un comunicado difundido en sus redes sociales.\n\nCartes dijo que el Partido Colorado no estará del lado del latrocinio de los fondos públicos, privados y de los jubilados. Afirmó que el juicio busca reencauzar la institucionalidad de la República.",
-      "keyPoints": [
-        "Horacio Cartes apoya el juicio político contra Peña.",
-        "El respaldo se expresó en un comunicado de la ANR.",
-        "Cartes dijo que el partido debe pensar en la gente."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fuerte respaldo de Horacio Cartes impulsó el juicio político a Peña",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/fuerte-respaldo-de-horacio-cartes-impulso-el-juicio-politico-a-pena",
-          "publishedAt": "2026-11-06T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jnKXfWBARbV5zmZSS4Mz2wQXEgw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MMQXLMZI5JDPVBCAWGUYTXI3X4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "LN PM: edición del 5 de noviembre",
-          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/05/ln-pm-edicion-del-5-de-noviembre",
-          "publishedAt": "2026-11-05T16:25:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/DAP8m5HBgdkw1hmk9qnMcB1l7-c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UFTVMCCF4BHZHMN4IIR2Q4NHFU.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Horacio Cartes respalda el juicio político contra Santiago Peña",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/horacio-cartes-respalda-el-juicio-politico-contra-santiago-pena",
-          "publishedAt": "2026-11-05T13:18:20.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Comunicado de Cartes: \"Acompañamos el juicio político al presidente Santiago Peña\"",
-          "url": "https://elnacional.com.py/politica/comunicado-cartes-acompanamos-juicio-politico-presidente-santiago-pena-n114736",
-          "publishedAt": "2026-11-05T12:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/06/684d3e59b8957.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MMQXLMZI5JDPVBCAWGUYTXI3X4.jpg?auth=6068c135085550406da6cf5ab146ca512ee2b62df307ebf06e3cf00e9625cb78&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/06/fuerte-respaldo-de-horacio-cartes-impulso-el-juicio-politico-a-pena"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 14.97
+      "score": 16.8
     },
     {
       "id": "ev-0wxhaj8",
@@ -870,7 +910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 14.08
+      "score": 13.68
     },
     {
       "id": "ev-1n04tlt",
@@ -922,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.97
+      "score": 10.58
     },
     {
       "id": "ev-0xlxd9y",
@@ -973,7 +1013,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 10.97
+      "score": 10.58
     },
     {
       "id": "ev-0bfvvy8",
@@ -1012,7 +1052,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.59
     },
     {
       "id": "ev-1jj5ve0",
@@ -1055,7 +1095,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.86
+      "score": 9.47
     },
     {
       "id": "ev-1swgjyu",
@@ -1098,7 +1138,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.81
+      "score": 9.41
     },
     {
       "id": "ev-1jugtbc",
@@ -1141,7 +1181,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.75
+      "score": 9.35
     },
     {
       "id": "ev-0foox5f",
@@ -1184,7 +1224,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.71
+      "score": 9.31
     },
     {
       "id": "ev-16fdfai",
@@ -1227,7 +1267,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.68
+      "score": 9.29
     },
     {
       "id": "ev-0lsyg22",
@@ -1270,7 +1310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.64
+      "score": 9.24
     },
     {
       "id": "ev-0drs9zx",
@@ -1313,7 +1353,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.23
     },
     {
       "id": "ev-04bip8r",
@@ -1356,7 +1396,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.45
+      "score": 9.05
+    },
+    {
+      "id": "ev-1gt4skh",
+      "title": "Ministra Recalde garantiza acompañamiento a trabajadores de ueno bank",
+      "summary": "La ministra de Trabajo, Mónica Recalde, aseguró que los trabajadores de ueno bank tendrán prioridad en el proceso de liquidación. Pidió a los empleados de las empresas vinculadas no renunciar ni aceptar presiones para dejar sus puestos. Anunció resoluciones nominales para que tengan créditos privilegiados en eventuales procesos de disolución y quiebra, según el Código del Trabajo.\n\nEl reclamo viene de exfuncionarios que protestaron frente al Ministerio de Trabajo. Reclaman respuestas sobre salarios, indemnizaciones y otros beneficios laborales. Recalde dijo que convocará a las empresas vinculadas para aclarar la situación.",
+      "keyPoints": [
+        "Recalde anunció resoluciones para dar créditos privilegiados a los trabajadores.",
+        "Pidió a los empleados no renunciar ni aceptar presiones.",
+        "Los exfuncionarios reclaman salarios e indemnizaciones."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Exfuncionarios de ueno queman remeras y tarjetas frente al Ministerio de Trabajo",
+          "url": "https://elnacional.com.py/nacionales/exfuncionarios-ueno-queman-remeras-tarjetas-frente-ministerio-trabajo-n114765",
+          "publishedAt": "2026-11-05T18:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aecc70b499e8.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ministerio de Trabajo pide a empleados de ueno bank no renunciar y garantiza acompañamiento laboral",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/05/ministerio-de-trabajo-pide-a-empleados-de-ueno-bank-no-renunciar-y-garantiza-acompanamiento-laboral",
+          "publishedAt": "2026-11-05T16:42:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Y1jn8hN2LwTBdsWOXlAcmGKprNs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/34BBX4X4FZFUVNBXTTYVVQZFUA.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/34BBX4X4FZFUVNBXTTYVVQZFUA.jpeg?auth=847bf4407f70b213165182176ead9ae3c7d3c46165022448431239a6176e0623&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/05/ministerio-de-trabajo-pide-a-empleados-de-ueno-bank-no-renunciar-y-garantiza-acompanamiento-laboral"
+      },
+      "firstSeenAt": "2026-11-06T03:22:15.835Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-06T08:07:10.236Z",
+      "updatedSlot": "manana",
+      "score": 8.87
     },
     {
       "id": "ev-1mem3wh",
@@ -1399,7 +1482,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.61
+      "score": 8.21
     },
     {
       "id": "ev-18mhbiw",
@@ -1450,7 +1533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.47
+      "score": 8.08
     },
     {
       "id": "ev-1vs00nn",
@@ -1494,7 +1577,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 7.47
+      "score": 7.08
     },
     {
       "id": "ev-08o7dbs",
@@ -1538,7 +1621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-0x64r0z",
@@ -1581,7 +1664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-0hnqxph",
@@ -1624,7 +1707,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.97
+      "score": 6.58
     },
     {
       "id": "ev-1yzujpo",
@@ -1668,7 +1751,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.87
+      "score": 6.48
     },
     {
       "id": "ev-0wuei1d",
@@ -1704,7 +1787,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0ecqcel",
@@ -1740,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0xfdg9w",
@@ -1775,7 +1858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-15rcyww",
@@ -1810,7 +1893,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0vznaj8",
@@ -1845,7 +1928,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0n7jm75",
@@ -1880,7 +1963,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-1kp1c87",
@@ -1915,7 +1998,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.58
     },
     {
       "id": "ev-0c9ziby",
@@ -1950,7 +2033,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.8
+      "score": 5.41
     },
     {
       "id": "ev-099s3nz",
@@ -1985,7 +2068,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 4.96
     },
     {
       "id": "ev-04utuqo",
@@ -2019,7 +2102,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.92
     },
     {
       "id": "ev-032t2u3",
@@ -2054,42 +2137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.27
-    },
-    {
-      "id": "ev-1gt4skh",
-      "title": "Exfuncionarios de ueno bank queman remeras y tarjetas frente al Ministerio de Trabajo",
-      "summary": "Trabajadores afectados por el proceso de resolución de ueno bank protestaron frente al Ministerio de Trabajo. Quemaron remeras y tarjetas como forma de reclamo.\n\nExigen respuestas sobre sus salarios, indemnizaciones y otros beneficios laborales. La ministra Mónica Recalde anunció que convocará a las empresas vinculadas al grupo para esclarecer la situación. Las notas no informan qué resultado tuvo esa convocatoria.",
-      "keyPoints": [
-        "Exfuncionarios de ueno bank protestaron frente al Ministerio de Trabajo.",
-        "Reclaman respuestas sobre salarios e indemnizaciones.",
-        "La ministra Mónica Recalde convocará a las empresas vinculadas."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Exfuncionarios de ueno queman remeras y tarjetas frente al Ministerio de Trabajo",
-          "url": "https://elnacional.com.py/nacionales/exfuncionarios-ueno-queman-remeras-tarjetas-frente-ministerio-trabajo-n114765",
-          "publishedAt": "2026-11-05T18:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aecc70b499e8.png"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aecc70b499e8.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/exfuncionarios-ueno-queman-remeras-tarjetas-frente-ministerio-trabajo-n114765"
-      },
-      "firstSeenAt": "2026-11-06T03:22:15.835Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-06T03:22:15.835Z",
-      "updatedSlot": "manana",
-      "score": 5.26
+      "score": 4.88
     },
     {
       "id": "ev-0ammdmp",
@@ -2124,7 +2172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.56
+      "score": 4.16
     },
     {
       "id": "ev-1thj3qg",
@@ -2164,7 +2212,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.46
+      "score": 4.07
     },
     {
       "id": "ev-1dohuds",
@@ -2199,7 +2247,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.47
+      "score": 3.08
     },
     {
       "id": "ev-0p6d6c0",
@@ -2230,7 +2278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.43
+      "score": 3.03
     },
     {
       "id": "ev-0ruidax",
@@ -2262,7 +2310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.39
+      "score": 3
     },
     {
       "id": "ev-11ti809",
@@ -2294,7 +2342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.29
+      "score": 2.89
     },
     {
       "id": "ev-1n4mpol",
@@ -2326,7 +2374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 2.89
     },
     {
       "id": "ev-0ao5sbk",
@@ -2358,7 +2406,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 2.89
     }
   ],
   "runs": [
@@ -2368,6 +2416,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 76
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-06T08:07:10.236Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 14
     }
   ]
 }
