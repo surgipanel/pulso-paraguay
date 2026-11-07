@@ -1,26 +1,51 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-06T23:07:13.662Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-07T02:42:20.429Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0uxwm40",
-      "title": "Abogados de Peña alegan que el juicio político no tiene garantías y podría ser nulo",
-      "summary": "Los abogados Adolfo Ferreiro y Ricardo Preda se presentaron ante el Senado para defender al presidente Santiago Peña, que no acudió a la sesión. Ferreiro sostuvo que el juicio político no respeta el debido proceso y que podría terminar anulado en instancias internacionales.\n\nLa defensa plantea que la renuncia de Peña debía ser aceptada por el Legislativo y que el procedimiento debe detenerse. Según Ferreiro, el acusado tuvo poco tiempo para responder a un libelo acusatorio extenso y a un volumen grande de pruebas. También advirtió que Paraguay ya fue condenado en otros casos por no respetar el debido proceso.\n\nEsta es la posición de la defensa. Las notas no informan la respuesta de los acusadores ni la decisión final del Senado sobre la renuncia y la prórroga.",
+      "title": "Juicio político: Peña solicita 72 horas de prórroga para preparar su defensa",
+      "summary": "El presidente de la República pidió más tiempo para responder al libelo acusatorio presentado en su contra. Hoy debía presentarse a las 10:00 ante los Senadores para responder a las acusaciones. Santiago Peña pidió 72 horas más al Congreso para preparar su defensa en el juicio político, tras recibir un expediente de 300 fojas con menos de 12 horas para revisar las acusaciones y presentar sus descargos.",
       "keyPoints": [
-        "Peña no se presentó ante el Senado; sus abogados sí asistieron.",
-        "La defensa sostiene que la renuncia debe poner fin al juicio político.",
-        "Ferreiro advierte que el proceso podría ser declarado nulo internacionalmente."
+        "El presidente de la República pidió más tiempo para responder al libelo acusatorio presentado en su contra.",
+        "Santiago Peña pidió 72 horas más al Congreso para preparar su defensa en el juicio político, tras recibir un expediente de 300 fojas con menos de 12 horas para revisar las acusaciones y presentar sus descargos.",
+        "El Senado rechazó por amplia mayoría, con 39 votos en contra y tres a favor, el pedido de prórroga de 72 horas solicitado por Santiago Peña para preparar su defensa en el juicio político.",
+        "A través de un comunicado remitido a la presidencia del Senado, el presidente de la República, Santiago Peña, requiere a la Cámara Alta una prórroga de 72 horas para ejercer su defensa en ."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado inició la última sesión en la que definirá la sentencia de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-inicio-la-ultima-sesion-en-la-que-definira-la-sentencia-de-pena",
+          "publishedAt": "2026-11-06T21:15:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LO3psVmpoXXPq0xDDmLXsT2V09o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CVH5LEIJX5EBHBZQKLTEEI4JYQ.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Abogados de Santiago Peña ejercen la defensa técnica",
+          "url": "https://www.telefuturo.com.py/abogados-de-santiago-pena-ejercen-la-defensa-tecnica",
+          "publishedAt": "2026-11-06T20:04:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juicio político a Peña: fiscales acusadores presentan alegato final",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/juicio-politico-a-pena-fiscales-acusadores-presentan-alegato-final",
+          "publishedAt": "2026-11-06T19:22:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_xvqgnejcrn8vW7b4gVJo9exfJ4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3QLGK6AV5RDORBMUAE247NVZAY.jpeg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -30,12 +55,28 @@
           "image": "https://www.abc.com.py/resizer/AGllV6Y8anehqjYdt8mhfOfkW9g=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F46DRWYJHBBZDHPSWUZORCUCRM.jpg"
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado arrancó nueva sesión extraordinaria",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-arranco-nueva-sesion-extraordinaria",
+          "publishedAt": "2026-11-06T19:01:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OpqlsGSPdCweIx_FL9mqyyDc8n0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TWR6WTP7PNHSRG34JSNZ3WSBS4.jpeg"
+        },
+        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
           "title": "Juicio político a Peña: Bachi Núñez habla de una condena \"unánime\"",
           "url": "https://elnacional.com.py/politica/juicio-politico-pena-bachi-nunez-habla-una-condena-unanime-n114833",
           "publishedAt": "2026-11-06T19:00:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aedf84fe7b11.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado admite por unanimidad pruebas contra Peña y convoca a sesión extraordinaria",
+          "url": "https://elnacional.com.py/politica/senado-admite-unanimidad-pruebas-pena-convoca-sesion-extraordinaria-n114834",
+          "publishedAt": "2026-11-06T17:54:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aede2e0601bf.jpeg"
         },
         {
           "sourceId": "npy",
@@ -148,6 +189,14 @@
           "url": "https://elnacional.com.py/politica/los-ocho-diputados-tendran-su-cargo-sostener-acusacion-santiago-pena-n114806",
           "publishedAt": "2026-11-06T13:40:00.000Z",
           "image": "https://statics.elnacional.com.py/2026/11/6aedcd6129460.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senadores opositores insisten en que hoy prosiga el juicio político a Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senadores-opositores-insisten-en-que-hoy-prosiga-el-juicio-politico-a-pena",
+          "publishedAt": "2026-11-06T13:12:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/sg_WvHyIKbm0Q9q81oNTvUKDhOE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WDTDPUXLJRCVRH5SDF254XDUJA.jpeg"
         },
         {
           "sourceId": "npy",
@@ -335,15 +384,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YH5JQOFBWJGADGITZLULHLKXKM.JPG?auth=47af5ca5df0da92cc84a65683fafcdc8f3048c48434b77a17f2f9f8d5612cb2e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/adolfo-ferreiro-ejercera-defensa-de-pena-ante-el-senado"
+        "url": "https://statics.elnacional.com.py/2026/11/6aec3129ae679.png",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/juicio-politico-pena-solicita-72-horas-prorroga-preparar-su-defensa-n114789"
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T23:07:13.662Z",
+      "updatedAt": "2026-11-07T02:42:20.429Z",
       "updatedSlot": "tarde",
-      "score": 32.66
+      "score": 32.55
     },
     {
       "id": "ev-05jgch8",
@@ -450,7 +499,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T19:37:10.889Z",
       "updatedSlot": "tarde",
-      "score": 29.7
+      "score": 29.4
     },
     {
       "id": "ev-1jbnkgf",
@@ -534,7 +583,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 22.33
+      "score": 22.04
     },
     {
       "id": "ev-0p4b9f7",
@@ -602,7 +651,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 19.35
+      "score": 19.05
     },
     {
       "id": "ev-1y4q89n",
@@ -689,14 +738,14 @@
     },
     {
       "id": "ev-0wxhaj8",
-      "title": "Miguel Vázquez y exdirectivos de Ueno Bank ingresan a Tacumbú con prisión preventiva",
-      "summary": "Miguel Vázquez, CEO del extinto Ueno Bank y presidente del Grupo Vázquez, ingresó al Centro Nacional de Prevenidos, antiguo Tacumbú, para cumplir prisión preventiva por disposición judicial. Con él fueron trasladados otros exdirectivos, entre ellos Juan Manuel Gustale, Julio Daniel Rey, Diego Fernando Duarte y Alejandro Gómez Abente.\n\nMiguel Ángel Almada Frutos fue recluido en la Penitenciaría Padre Juan de la Vega, de Emboscada. Según La Nación, el juez Rodrigo Estigarribia dispuso celdas individuales y la prohibición de comunicación entre imputados. Otras dos imputadas cumplen arresto domiciliario con tobilleras electrónicas, según NPY.",
+      "title": "Miguel Vázquez y otros exdirectivos de ueno bank van a prisión preventiva en Tacumbú",
+      "summary": "Miguel Vázquez, exCEO de ueno bank, ingresó al Centro Nacional de Prevenidos, antigua cárcel de Tacumbú, para cumplir prisión preventiva. La medida fue dispuesta por el juez penal de Garantías Especializado en Delitos Económicos, Rodrigo Estigarribia, en una causa por presuntos hechos punibles vinculados a la entidad.\n\nCon él fueron trasladados Juan Manuel Gustale, Julio Daniel Rey, Diego Fernando Duarte y Alejandro Gómez Abente. Miguel Ángel Almada Frutos quedó recluido en la Penitenciaría Padre Juan de la Vega, de Emboscada. Otras dos imputadas cumplen arresto domiciliario con tobilleras electrónicas.\n\nLos detenidos están en celdas individuales y tienen prohibida la comunicación entre imputados, para proteger la investigación. El Ministerio Público presentó la imputación el 4 de noviembre contra directivos del banco y otras personas vinculadas a distintas empresas.",
       "keyPoints": [
-        "Miguel Vázquez ingresó al Centro Nacional de Prevenidos para prisión preventiva.",
-        "Miguel Ángel Almada Frutos fue recluido en Emboscada.",
+        "Vázquez y cuatro exdirectivos fueron trasladados al Centro Nacional de Prevenidos.",
+        "Almada Frutos fue derivado a la penitenciaría de Emboscada.",
         "Dos imputadas cumplen arresto domiciliario con tobilleras electrónicas."
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
@@ -725,6 +774,14 @@
           "url": "https://www.lanacion.com.py/pais/2026/11/06/miguel-vazquez-y-directivos-de-ueno-bank-ingresan-al-expenal-de-tacumbu",
           "publishedAt": "2026-11-06T14:12:15.000Z",
           "image": "https://www.lanacion.com.py/resizer/lNto2Qm--s9RJ3KQonUuO0Z11HE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Video: Miguel Vázquez y otros cuatro exdirectivos de ueno bank ya están en exTacumbú",
+          "url": "https://elnacional.com.py/economia/video-miguel-vazquez-otros-cuatro-exdirectivos-ueno-bank-ya-estan-extacumbu-n114809",
+          "publishedAt": "2026-11-06T14:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6a9ec670c1a95.webp"
         },
         {
           "sourceId": "npy",
@@ -774,9 +831,9 @@
       },
       "firstSeenAt": "2026-11-06T03:22:15.835Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-06T23:07:13.662Z",
+      "updatedAt": "2026-11-07T02:42:20.429Z",
       "updatedSlot": "tarde",
-      "score": 17.53
+      "score": 17.23
     },
     {
       "id": "ev-1kno48m",
@@ -876,7 +933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 17.01
+      "score": 16.71
     },
     {
       "id": "ev-0opttor",
@@ -976,7 +1033,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T12:07:12.180Z",
       "updatedSlot": "manana",
-      "score": 16.38
+      "score": 16.08
     },
     {
       "id": "ev-0mqlwqy",
@@ -1051,7 +1108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.33
+      "score": 16.03
     },
     {
       "id": "ev-0sxufev",
@@ -1118,7 +1175,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.33
+      "score": 16.03
     },
     {
       "id": "ev-1qtlj7z",
@@ -1193,7 +1250,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 16.05
+      "score": 16
     },
     {
       "id": "ev-03gydl5",
@@ -1337,7 +1394,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T23:07:13.662Z",
       "updatedSlot": "tarde",
-      "score": 14.9
+      "score": 14.61
     },
     {
       "id": "ev-16fdfai",
@@ -1389,7 +1446,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T15:51:34.529Z",
       "updatedSlot": "tarde",
-      "score": 13.38
+      "score": 13.08
     },
     {
       "id": "ev-0xlxd9y",
@@ -1440,7 +1497,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.03
     },
     {
       "id": "ev-0bfvvy8",
@@ -1479,7 +1536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.04
     },
     {
       "id": "ev-1jj5ve0",
@@ -1522,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.22
+      "score": 8
     },
     {
       "id": "ev-1swgjyu",
@@ -1565,7 +1622,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-1jugtbc",
@@ -1608,7 +1665,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.1
+      "score": 8
     },
     {
       "id": "ev-0foox5f",
@@ -1651,7 +1708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 8.06
+      "score": 8
     },
     {
       "id": "ev-0lsyg22",
@@ -1917,7 +1974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 6.83
+      "score": 6.53
     },
     {
       "id": "ev-1vs00nn",
@@ -1961,7 +2018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.83
+      "score": 5.53
     },
     {
       "id": "ev-08o7dbs",
@@ -2005,7 +2062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-0x64r0z",
@@ -2048,7 +2105,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-0hnqxph",
@@ -2091,7 +2148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-1yzujpo",
@@ -2135,7 +2192,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 5.23
+      "score": 5
     },
     {
       "id": "ev-0wuei1d",
@@ -2171,7 +2228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-0ecqcel",
@@ -2207,7 +2264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-0xfdg9w",
@@ -2242,7 +2299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-15rcyww",
@@ -2277,7 +2334,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-0vznaj8",
@@ -2312,7 +2369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-0n7jm75",
@@ -2347,7 +2404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-1kp1c87",
@@ -2382,7 +2439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-0c9ziby",
@@ -2417,7 +2474,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-099s3nz",
@@ -2596,7 +2653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.52
     },
     {
       "id": "ev-1dohuds",
@@ -2631,7 +2688,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.83
+      "score": 1.53
     },
     {
       "id": "ev-0p6d6c0",
@@ -2662,7 +2719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.78
+      "score": 1.5
     },
     {
       "id": "ev-0ruidax",
@@ -2694,7 +2751,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.75
+      "score": 1.5
     },
     {
       "id": "ev-11ti809",
@@ -2726,7 +2783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.64
+      "score": 1.5
     },
     {
       "id": "ev-1n4mpol",
@@ -2758,7 +2815,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.64
+      "score": 1.5
     },
     {
       "id": "ev-0ao5sbk",
@@ -2790,7 +2847,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-06T03:22:15.835Z",
       "updatedSlot": "manana",
-      "score": 1.64
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2835,6 +2892,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 23
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-07T02:42:20.429Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 24
     }
   ]
 }
