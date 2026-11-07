@@ -1,19 +1,20 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-07T12:07:11.031Z",
+  "generatedAt": "2026-11-07T16:07:11.032Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yk0pjd",
-      "title": "Pedro Alliana asume la Presidencia tras la destitución de Santiago Peña",
-      "summary": "Pedro Alliana juró como presidente de la República el viernes 6 de noviembre, después de que el Congreso destituyera a Santiago Peña en juicio político. El presidente del Congreso, Basilio Núñez, le tomó juramento y le entregó la banda y el bastón de mando. En su primer discurso, prometió no dejar solos a los afectados y a los paraguayos. Anunció un proyecto de racionalización del gasto público para eliminar gastos superfluos. Dijo que la prioridad es que los ahorristas de Ueno Bank recuperen su dinero.",
+      "title": "Antonio Barrios juró como vicepresidente tras la destitución de Peña",
+      "summary": "El senador colorado Antonio Barrios juró como vicepresidente de la República ante el Congreso Nacional. Asumió tras la salida de Pedro Alliana, que pasó a la Presidencia luego de que el Senado destituyera a Santiago Peña por 44 votos en un juicio político por el caso Ueno Bank.\n\nBarrios ocupará el cargo hasta agosto de 2028, según el mecanismo previsto en el artículo 234 de la Constitución. Como médico personal y dirigente de Honor Colorado, es considerado un hombre de confianza del expresidente Horacio Cartes.\n\nEn sus primeras declaraciones, Barrios afirmó que el Gobierno buscará \"sacar toda la grasa del presupuesto\" para destinarla a la salud. Dijo que visitará hospitales y mencionó un proyecto del senador Gustavo Leite para recortar unos G. 500.000 millones del gasto.",
       "keyPoints": [
-        "Alliana juró el viernes 6 de noviembre tras la destitución de Peña.",
-        "Anunció un proyecto para racionalizar el gasto público.",
-        "Su prioridad es que los ahorristas de Ueno Bank recuperen su dinero."
+        "Barrios juró como vicepresidente ante el Congreso.",
+        "Asumió en reemplazo de Pedro Alliana, que es ahora presidente.",
+        "El mandato se extiende hasta agosto de 2028.",
+        "Barrios propone destinar recortes del gasto a la salud."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -32,6 +33,14 @@
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
+          "title": "Cartes ubica a Antonio Barrios en la Vicepresidencia",
+          "url": "https://elnacional.com.py/politica/cartes-ubica-antonio-barrios-vicepresidencia-n114852",
+          "publishedAt": "2026-11-07T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea7cfa7a1f.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
           "title": "Alliana sucede al destituido Peña",
           "url": "https://elnacional.com.py/politica/alliana-sucede-destituido-pena-n114850",
           "publishedAt": "2026-11-07T08:05:00.000Z",
@@ -46,12 +55,28 @@
           "image": "https://www.lanacion.com.py/resizer/o317Q1GGhMeXhftKVI0G6Hk831Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2LO4ISTFCZBULKBMWKCLXIN4UQ.jpg"
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Antonio Barrios juró como nuevo vicepresidente de la República",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/antonio-barrios-juro-como-nuevo-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-07T05:06:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/40NabKf9uxuiTtcMSJdeStmaIWM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L2NLXX7FKVBNRBQOPHWCJYJWVU.jpg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Presidente Pedro Alliana inicia mañana su jornada a las 6:30 en Palacio",
           "url": "https://www.abc.com.py/politica/2026/11/06/presidente-pedro-alliana-inicia-manana-su-jornada-a-las-630-en-palacio",
           "publishedAt": "2026-11-07T01:28:28.000Z",
           "image": "https://www.abc.com.py/resizer/bx1zbpoJ9S4ggOm8La0ySUKnfyo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JG7E5NMIPVGQ5L4BNBUGFUMTSY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tony Barrios afirmó que “sacarán toda la grasa del presupuesto” para atender la salud",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/tony-barrios-afirmo-que-sacaran-toda-la-grasa-del-presupuesto-para-atender-la-salud",
+          "publishedAt": "2026-11-07T00:36:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tjMpKpI3ORWXAiaGc1ao8jIt6XU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZJ4O6DWRSJEYDKNPRB2ULLIKBY.jpeg"
         },
         {
           "sourceId": "telefuturo",
@@ -68,6 +93,14 @@
           "url": "https://www.lanacion.com.py/politica/2026/11/06/nuevo-presidente-promete-no-dejar-solos-a-afectados-de-banco-intervenido",
           "publishedAt": "2026-11-07T00:02:56.000Z",
           "image": "https://www.lanacion.com.py/resizer/ECU_En9hGRGvdFbVgu3N2OIdCPU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R57W56OJMVB33JOP7NI46QRQY4.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Antonio Barrios juró como vicepresidente de la República",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/antonio-barrios-juro-como-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-06T23:29:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TXxgtKxX53TyGPQTg_9Sc_hg4hI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55HEFARVSBAWTIOGCB5UWJUJ6Y.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -135,24 +168,24 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/R57W56OJMVB33JOP7NI46QRQY4.jpeg?auth=d3150373cdb7d9eadf057537a80e3cad2191f375273ed9a4a8d6598ac0272490&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/nuevo-presidente-promete-no-dejar-solos-a-afectados-de-banco-intervenido"
+        "url": "https://statics.elnacional.com.py/2026/11/6aeea7cfa7a1f.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/cartes-ubica-antonio-barrios-vicepresidencia-n114852"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T12:07:11.031Z",
-      "updatedSlot": "manana",
-      "score": 29.95
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 29.62
     },
     {
       "id": "ev-0xusz64",
-      "title": "Carlos Carvallo se entregó y quedó detenido por el caso Ueno Bank",
-      "summary": "El exjefe del Banco Central del Paraguay, Carlos Carvallo, se presentó voluntariamente en la noche del viernes ante el Departamento de Investigaciones de la Policía y quedó detenido. La medida fue dispuesta por el Ministerio Público en la investigación por el caso Ueno Bank.\n\nCarvallo llegó acompañado de su abogado y será trasladado a la Agrupación Especializada, donde permanecerá a disposición de las autoridades. La orden de detención corresponde a la causa penal N.º 92/2026, por lesión de confianza y otros delitos, según reportó La Nación.\n\nCarvallo había renunciado a la presidencia del BCP el 3 de noviembre, en medio de cuestionamientos por la actuación de la institución ante las irregularidades de Ueno Bank. Antes, en 2023, había dirigido la Financiera Ueno. Peña designó como reemplazo a Raúl Vera Bogado, cuyo nombramiento deberá ser aprobado por el Senado.",
+      "title": "Peña queda detenido en su domicilio tras la orden de la Fiscalía",
+      "summary": "La Policía Nacional procedió a la detención del expresidente Santiago Peña en su residencia particular de Asunción. El Ministerio Público confirmó la medida, ejecutada el viernes 6 de noviembre.\n\nLa detención se produjo tras su destitución mediante juicio político en la Cámara de Senadores. Según Telefuturo, Peña pasó la noche en su domicilio bajo custodia policial y debía presentarse ante el Ministerio Público el sábado a las 11:00.\n\nLa medida se enmarca en la investigación penal por la crisis financiera de Ueno Bank. Es una medida dispuesta en una causa abierta, sin condena.",
       "keyPoints": [
-        "Carvallo se presentó voluntariamente en el Departamento de Investigaciones.",
-        "La orden de detención fue dispuesta por el Ministerio Público.",
-        "Raúl Vera Bogado fue designado nuevo titular del BCP y espera aprobación del Senado."
+        "La Policía detuvo a Peña en su residencia de Asunción.",
+        "El Ministerio Público confirmó la detención en su domicilio.",
+        "Debía presentarse ante la Fiscalía el sábado a las 11:00."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -199,6 +232,14 @@
           "url": "https://www.lanacion.com.py/politica/2026/11/06/se-entrego-carlos-carvallo-extitular-del-bcp",
           "publishedAt": "2026-11-07T02:52:33.000Z",
           "image": "https://www.lanacion.com.py/resizer/JGh22YW9RYc6TVv5y71R-9wMvAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TC5B6V6TWBFT3OQWO52ZEAZZYU.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña, detenido en su domicilio",
+          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
+          "publishedAt": "2026-11-06T23:39:08.000Z",
+          "image": null
         },
         {
           "sourceId": "elnacional",
@@ -263,18 +304,166 @@
           "url": "https://5dias.com.py/article/fiscala-ordena-la-detencin-de-santiago-pea-y-carlos-carvallo-en-causa-por-lesin-de-confianza",
           "publishedAt": "2026-11-06T19:36:00.000Z",
           "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/NOTICIAS_NUEVAS_20261106_194546.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Detienen al expresidente Santiago Peña",
+          "url": "https://5dias.com.py/article/detienen-a-el-expresidente-santiago-pea",
+          "publishedAt": "2026-11-06T17:07:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-06_at_19.07.2011_20261106_204052.jpeg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aeea93f65ee4.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/de-distinguido-titular-bcp-estar-preso-caso-ueno-n114853"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-06_at_19.07.2011_20261106_204052.jpeg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/detienen-a-el-expresidente-santiago-pea"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T12:07:11.031Z",
-      "updatedSlot": "manana",
-      "score": 26.94
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 26.6
+    },
+    {
+      "id": "ev-0mc3b0m",
+      "title": "Fiscalía pide detención de Santiago Peña y Carlos Carvallo por caso Ueno Bank",
+      "summary": "El expresidente Santiago Peña llegó a la sede de la Fiscalía General del Estado para declarar por el caso Ueno Bank. El lugar cambió horas antes por razones de seguridad. La noche anterior fue trasladado al Regimiento Escolta Presidencial tras incidentes frente a su casa, donde un grupo pedía que cumpla prisión.\n\nSegún el fiscal Christian Benítez, la investigación apunta a administración en provecho propio y lesión de confianza. La orden de detención alcanza también al expresidente del Banco Central del Paraguay, Carlos Carvallo. Benítez dijo que la imputación formal podría presentarse en el transcurso del día.\n\nPeña fue destituido el viernes por juicio político en el Senado. En los incidentes, un comisario resultó herido y la Policía denunció la presencia de infiltrados. Extraoficialmente se dijo que Peña no declararía.",
+      "keyPoints": [
+        "Peña fue destituido por juicio político en el Senado.",
+        "La Fiscalía ordenó la detención de Peña y de Carlos Carvallo.",
+        "Los delitos mencionados por el fiscal son administración en provecho propio y lesión de confianza.",
+        "La declaración estaba fijada para las 11:30 en la Fiscalía General del Estado."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank",
+          "publishedAt": "2026-11-07T15:30:18.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Es el fracaso de otro outsider de la política”, dice senador sobre destitución de Santiago Peña",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena",
+          "publishedAt": "2026-11-07T14:25:56.000Z",
+          "image": "https://www.abc.com.py/resizer/6M_IlNOCjTlrrsgqt5qVS3yZegM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Santiago Peña se tenía que ir por juicio político porque aceptar una renuncia iba a ser un premio”, dice diputada",
+          "url": "https://www.abc.com.py/730am/no-tiene-nombre/2026/11/07/audio-santiago-pena-se-tenia-que-ir-por-juicio-politico-porque-aceptar-una-renuncia-iba-a-ser-un-premio-dice-diputada",
+          "publishedAt": "2026-11-07T14:22:16.000Z",
+          "image": "https://www.abc.com.py/resizer/EfUWfv67kMTUVcISDV6HKUC-sJ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLZSUCMP5VDMRAN73P7J525JSQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña: por razones de seguridad, su declaración se traslada a la Fiscalía General del Estado",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/santiago-pena-por-razones-de-seguridad-su-declaracion-se-traslada-a-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:42:07.000Z",
+          "image": "https://www.abc.com.py/resizer/wIM7z-CCoGmsF2wN4boUR0E7-AE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G4PE6MXZBVFORODHRPO45AJW6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Por seguridad, audiencia de Peña será en la Fiscalía General del Estado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/por-seguridad-audiencia-de-pena-sera-en-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:34:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GtG3tJbG9dYYkpJ-vU8Gk0atL-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWWCF2XAMVDIRNWWFTY5K2AT6M.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña declarará a las 11:30 en la Fiscalía",
+          "url": "https://www.adndigital.com.py/santiago-pena-declarara-a-las-1130-en-la-fiscalia",
+          "publishedAt": "2026-11-07T12:47:52.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-172237.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:37:31.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:18:39.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
+          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
+          "publishedAt": "2026-11-07T11:58:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
+          "publishedAt": "2026-11-07T09:40:40.705Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
+          "publishedAt": "2026-11-07T03:07:31.000Z",
+          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
+          "publishedAt": "2026-11-06T23:58:51.992Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña, detenido en su domicilio",
+          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
+          "publishedAt": "2026-11-06T23:39:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
+          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
+          "publishedAt": "2026-11-06T23:37:45.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg?auth=d7638d4ed682bac0e78a28e3b0bdacb47c59a22dd02395028efb4e9985ced4e0&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 23.95
     },
     {
       "id": "ev-0b8o5ab",
@@ -349,74 +538,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 20.41
+      "score": 20.08
     },
     {
-      "id": "ev-0mc3b0m",
-      "title": "Santiago Peña debe declarar hoy ante la Fiscalía por el caso Ueno Bank",
-      "summary": "El expresidente Santiago Peña fue citado por el Ministerio Público para declarar este sábado a las 11:00, en una investigación por presuntas irregularidades relacionadas con Ueno Bank. Fue destituido por juicio político. Según HOY, pasó la noche en el Regimiento Escolta Presidencial tras la presión social, y esperaba el momento de ir a la Fiscalía. Las notas hablan de un arresto domiciliario o de una detención, pero no lo confirman de forma clara. Peña puede declarar o abstenerse, y rige la presunción de inocencia.",
+      "id": "ev-1icqc6y",
+      "title": "Lula felicita a Alliana y lo invita a visitar Brasilia",
+      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, felicitó a Pedro Alliana por asumir la Presidencia de Paraguay. Le deseó éxitos en el cargo y expresó su intención de trabajar con él de manera abierta y cooperativa.\n\nLula publicó el mensaje en su cuenta de X. Según ADN Digital, también propuso una agenda basada en el diálogo y la cooperación, con foco en las relaciones bilaterales y la integración sudamericana.\n\nLula invitó a Alliana a visitar Brasilia para revisar los temas de interés común. Ese encuentro todavía no tiene fecha informada en las notas.",
       "keyPoints": [
-        "Peña fue citado a declarar este sábado a las 11:00.",
-        "La investigación se relaciona con presuntas irregularidades de Ueno Bank.",
-        "Peña pasó la noche en el Regimiento Escolta Presidencial, según HOY."
+        "Lula felicitó a Alliana por su asunción como presidente.",
+        "Propuso una agenda de diálogo y cooperación bilateral.",
+        "Invitó a Alliana a visitar Brasilia."
       ],
-      "category": "politica",
+      "category": "internacional",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
-          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
-          "publishedAt": "2026-11-07T11:58:49.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
-          "publishedAt": "2026-11-07T09:40:40.705Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
-          "publishedAt": "2026-11-06T23:58:51.992Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Santiago Peña, detenido en su domicilio",
-          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
-          "publishedAt": "2026-11-06T23:39:08.000Z",
-          "image": null
-        },
-        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
-          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
-          "publishedAt": "2026-11-06T23:37:45.000Z",
-          "image": null
+          "title": "EE.UU. y Brasil expresan respaldo a Alliana y buscan fortalecer vínculos con Paraguay",
+          "url": "https://www.adndigital.com.py/ee-uu-y-brasil-expresan-respaldo-a-alliana-y-buscan-fortalecer-vinculos-con-paraguay",
+          "publishedAt": "2026-11-07T13:45:49.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/pedro-alliana.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula le desea éxito a Alliana y se propone a trabajar con el nuevo presidente paraguayo",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/lula-le-desea-exito-a-alliana-y-se-propone-a-trabajar-con-el-nuevo-presidente-paraguayo",
+          "publishedAt": "2026-11-07T03:20:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula saluda a Pedro Alliana y lo invita a Brasilia",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia",
+          "publishedAt": "2026-11-07T01:15:18.437Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula felicita a Pedro Alliana y busca fortalecer la relación con Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/lula-felicita-a-pedro-alliana-y-busca-fortalecer-la-relacion-con-paraguay",
+          "publishedAt": "2026-11-07T01:00:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hrx9bcSJZrK1pKmuttjAgJo4LbI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/24CBSLN6BZBI7BSJGBL2RBMBCA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula felicita a Alliana y le invita a trabajar abierta y francamente",
+          "url": "https://www.abc.com.py/politica/2026/11/06/lula-felicita-a-alliana-y-le-invita-a-trabajar-abierta-y-francamente",
+          "publishedAt": "2026-11-07T00:50:17.000Z",
+          "image": "https://www.abc.com.py/resizer/Lqh2Dv5d3KPaihj92IGECn3s43k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H6KY3UPNXZEEXFCA7XNEGTZYHY.jpg"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true",
+        "url": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true",
         "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia"
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T12:07:11.031Z",
-      "updatedSlot": "manana",
-      "score": 17.99
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 17.8
     },
     {
       "id": "ev-0n1hykn",
@@ -475,7 +664,98 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17.9
+      "score": 17.57
+    },
+    {
+      "id": "ev-0zm6mzw",
+      "title": "La defensa de Peña sostiene que su renuncia debe poner fin al juicio",
+      "summary": "La defensa de Santiago Peña sostuvo ante el Senado que su renuncia debe extinguir el juicio político. El abogado Adolfo Ferreiro argumentó que el juicio político solo puede aplicarse a quienes ejercen los cargos previstos en la Constitución.\n\nFerreiro aclaró que la defensa no buscó probar la inocencia de Peña. Según él, la estrategia fue pedir que el Congreso aceptara la renuncia y que las investigaciones se resolvieran en la Justicia. Advirtió que seguir el procedimiento podría exponer al país a una condena internacional, según NPY.\n\nEl senador Rafael Filizzola criticó esa defensa. Advirtió que una eventual renuncia no bastaría para impedir que Peña acceda a la senaduría vitalicia, según Telefuturo.",
+      "keyPoints": [
+        "La defensa afirma que la renuncia de Peña extingue el juicio político.",
+        "Ferreiro dijo que nunca sostuvieron la inocencia de Peña.",
+        "El senador Rafael Filizzola criticó la defensa."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Adolfo Ferreiro: \"Nunca dijimos que Peña fuera inocente\"",
+          "url": "https://elnacional.com.py/politica/adolfo-ferreiro-nunca-dijimos-pena-fuera-inocente-n114854",
+          "publishedAt": "2026-11-07T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aee0e73b8105.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado inició la última sesión en la que definirá la sentencia de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-inicio-la-ultima-sesion-en-la-que-definira-la-sentencia-de-pena",
+          "publishedAt": "2026-11-06T21:15:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LO3psVmpoXXPq0xDDmLXsT2V09o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CVH5LEIJX5EBHBZQKLTEEI4JYQ.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Repercusiones tras defensa técnica de Santiago Peña",
+          "url": "https://www.telefuturo.com.py/repercusiones-tras-defensa-tecnica-de-santiago-pena",
+          "publishedAt": "2026-11-06T20:28:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Abogados de Santiago Peña ejercen la defensa técnica",
+          "url": "https://www.telefuturo.com.py/abogados-de-santiago-pena-ejercen-la-defensa-tecnica",
+          "publishedAt": "2026-11-06T20:04:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Defensa de Santiago Peña afirma que su renuncia deja sin efecto el juicio político",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/defensa-de-santiago-pena-afirma-que-su-renuncia-deja-sin-efecto-el-juicio-politico",
+          "publishedAt": "2026-11-06T17:28:04.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Defensa de Peña sostiene que juicio político sería nulo y cuestiona rechazo de su renuncia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/defensa-de-pena-sostiene-que-juicio-politico-seria-nulo-y-cuestiona-rechazo-de-su-renuncia",
+          "publishedAt": "2026-11-06T17:05:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jy9OIFG_KelybX2EGQ7d3vDXiNI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2TQLA3WGDZBHHCWJZOSOYSVO7I.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Defensa de Peña: Ferreiro sostiene que la renuncia a la presidencia debe poner fin al juicio político",
+          "url": "https://elnacional.com.py/politica/defensa-pena-ferreiro-sostiene-renuncia-presidencia-debe-poner-fin-juicio-politico-n114827",
+          "publishedAt": "2026-11-06T16:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña no se presentó ante el Senado y sus abogados llegaron al Congreso para ejercer su defensa",
+          "url": "https://elnacional.com.py/politica/pena-presento-senado-sus-abogados-llegaron-congreso-ejercer-su-defensa-n114821",
+          "publishedAt": "2026-11-06T16:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedfe41c02ea.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6aee0e73b8105.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/adolfo-ferreiro-nunca-dijimos-pena-fuera-inocente-n114854"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 17.55
     },
     {
       "id": "ev-0j1puov",
@@ -542,7 +822,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17.8
+      "score": 17.47
     },
     {
       "id": "ev-1jscmhy",
@@ -610,90 +890,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 17.26
+      "score": 16.92
     },
     {
-      "id": "ev-0zm6mzw",
-      "title": "Defensa de Peña sostiene que la renuncia debe poner fin al juicio",
-      "summary": "Los abogados de Santiago Peña, Adolfo Ferreiro y Ricardo Preda, sostuvieron ante el Senado que la renuncia del mandatario debe extinguir el juicio político. Ferreiro argumentó que ese procedimiento solo se aplica a quienes ejercen los cargos previstos en la Constitución.\n\nLos defensores también cuestionaron la validez del proceso y denunciaron vulneraciones al derecho a la defensa. Según su posición, la acusación no tiene pruebas suficientes. Advirtieron que seguir con el juicio pese a la renuncia podría derivar en demandas ante organismos internacionales.\n\nPeña no se presentó en el Congreso y sus abogados asumieron su defensa. El senador Rafael Filizzola criticó esa defensa técnica y advirtió que una eventual renuncia no sería suficiente para impedir que Peña acceda a la senaduría vitalicia.",
+      "id": "ev-1yka128",
+      "title": "El papa León XIV inicia en Uruguay su gira por Sudamérica",
+      "summary": "El papa León XIV comenzó en Uruguay una gira por Sudamérica que incluye Argentina y Perú durante 12 días. Llegó a Montevideo y luego celebró una misa en Paysandú, la primera de su visita a Latinoamérica. Tiene 71 años y viaja apenas tres semanas después de una operación de cáncer de pulmón.\n\nEn su homilía, el papa habló del mate como símbolo de fraternidad, encuentro y fe. Dijo que la costumbre expresa acogida, integración y valores comunes. Según dijo a los periodistas en el avión, se siente bastante en forma y afirmó que los médicos le dieron luz verde para viajar.\n\nEl Vaticano señaló que no se necesitaban medidas médicas especiales más allá de la atención estándar. En Argentina, el papa tendrá intervenciones artísticas urbanas y una actuación musical, según anunció la prensa local.",
       "keyPoints": [
-        "La defensa sostiene que la renuncia extingue el juicio político.",
-        "Los abogados alegan falta de pruebas y vulneración del derecho a la defensa.",
-        "Peña no asistió al Senado y fue representado por sus abogados."
+        "El papa inició una gira de 12 días por Uruguay, Argentina y Perú.",
+        "La visita llega tres semanas después de una operación de cáncer de pulmón.",
+        "El papa dijo estar bastante en forma tras la operación.",
+        "El Vaticano dice que no hacen falta medidas médicas especiales."
       ],
-      "category": "politica",
-      "scope": "paraguay",
+      "category": "internacional",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado inició la última sesión en la que definirá la sentencia de Peña",
-          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-inicio-la-ultima-sesion-en-la-que-definira-la-sentencia-de-pena",
-          "publishedAt": "2026-11-06T21:15:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LO3psVmpoXXPq0xDDmLXsT2V09o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CVH5LEIJX5EBHBZQKLTEEI4JYQ.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Repercusiones tras defensa técnica de Santiago Peña",
-          "url": "https://www.telefuturo.com.py/repercusiones-tras-defensa-tecnica-de-santiago-pena",
-          "publishedAt": "2026-11-06T20:28:17.000Z",
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Argentina prepara homenajes artísticos para recibir al papa León XIV",
+          "url": "https://www.ultimahora.com/argentina-prepara-homenajes-artisticos-para-recibir-al-papa-leon-xiv",
+          "publishedAt": "2026-11-07T15:49:38.000Z",
           "image": null
         },
         {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Abogados de Santiago Peña ejercen la defensa técnica",
-          "url": "https://www.telefuturo.com.py/abogados-de-santiago-pena-ejercen-la-defensa-tecnica",
-          "publishedAt": "2026-11-06T20:04:45.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Defensa de Santiago Peña afirma que su renuncia deja sin efecto el juicio político",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/defensa-de-santiago-pena-afirma-que-su-renuncia-deja-sin-efecto-el-juicio-politico",
-          "publishedAt": "2026-11-06T17:28:04.000Z",
-          "image": null
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Uruguay: el papa León XIV pone el ejemplo del mate para “compartir y estrechar lazos”",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/el-papa-pone-el-ejemplo-del-mate-para-compartir-y-estrechar-lazos-en-misa-en-uruguay",
+          "publishedAt": "2026-11-07T14:00:07.000Z",
+          "image": "https://www.abc.com.py/resizer/ZVnbVtf2fuQ6vTpovtQtbeP6wws=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLIBKPLT3BHYZBJB4II7ZNJFYY.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Defensa de Peña sostiene que juicio político sería nulo y cuestiona rechazo de su renuncia",
-          "url": "https://www.lanacion.com.py/politica/2026/11/06/defensa-de-pena-sostiene-que-juicio-politico-seria-nulo-y-cuestiona-rechazo-de-su-renuncia",
-          "publishedAt": "2026-11-06T17:05:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jy9OIFG_KelybX2EGQ7d3vDXiNI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2TQLA3WGDZBHHCWJZOSOYSVO7I.jpeg"
+          "title": "El papa inicia en Uruguay su gira por Sudamérica",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/07/el-papa-inicia-en-uruguay-su-gira-por-sudamerica",
+          "publishedAt": "2026-11-07T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/14Ky3KZp9G-UKiCSt6h9Sy1IXMQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKXZB3IHORBJVGKUKQFGWFZNKA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa inicia en Uruguay una emotiva gira por Sudamérica tras su cirugía",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/06/el-papa-inicia-en-uruguay-una-emotiva-gira-por-sudamerica-tras-su-cirugia",
+          "publishedAt": "2026-11-06T20:27:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7rzfK2aD8a1am1Eo5A2wWpJpVh0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H5N7SSLMABBELPHHSHLJCZDU2Y.jpg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Defensa de Peña: Ferreiro sostiene que la renuncia a la presidencia debe poner fin al juicio político",
-          "url": "https://elnacional.com.py/politica/defensa-pena-ferreiro-sostiene-renuncia-presidencia-debe-poner-fin-juicio-politico-n114827",
-          "publishedAt": "2026-11-06T16:50:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Peña no se presentó ante el Senado y sus abogados llegaron al Congreso para ejercer su defensa",
-          "url": "https://elnacional.com.py/politica/pena-presento-senado-sus-abogados-llegaron-congreso-ejercer-su-defensa-n114821",
-          "publishedAt": "2026-11-06T16:14:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aedfe41c02ea.jpeg"
+          "title": "El papa León XIV inicia su gira en Suramérica para un emotivo reencuentro",
+          "url": "https://elnacional.com.py/mundo/el-papa-leon-xiv-inicia-su-gira-suramerica-emotivo-reencuentro-n114815",
+          "publishedAt": "2026-11-06T18:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aede8822eed7.jpg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/defensa-pena-ferreiro-sostiene-renuncia-presidencia-debe-poner-fin-juicio-politico-n114827"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VLIBKPLT3BHYZBJB4II7ZNJFYY.jpg?auth=ceb7eed00c05747af159662f439e841beea5ec7051b7816f9071971459c82503&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/07/el-papa-pone-el-ejemplo-del-mate-para-compartir-y-estrechar-lazos-en-misa-en-uruguay"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T12:07:11.031Z",
-      "updatedSlot": "manana",
-      "score": 16.76
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 15.48
     },
     {
       "id": "ev-0l69abg",
@@ -761,7 +1026,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 14.98
+      "score": 14.65
     },
     {
       "id": "ev-0dk7f43",
@@ -820,19 +1085,18 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 14.35
+      "score": 14.01
     },
     {
-      "id": "ev-1icqc6y",
-      "title": "Lula felicita a Pedro Alliana y lo invita a visitar Brasilia",
-      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, felicitó a Pedro Alliana por asumir la Presidencia de Paraguay. Lo hizo a través de un mensaje en la red social X, en el que le deseó éxito en sus nuevas funciones.\n\nLula dijo que quiere trabajar con Alliana de manera abierta, franca y cooperativa, para fortalecer la relación bilateral y avanzar en la integración sudamericana. También espera recibirlo pronto en Brasilia para revisar la agenda común entre los dos países.\n\nAlliana respondió en el mismo mensaje. Dijo que las dos naciones siempre estarán unidas por lazos de fraternidad y que iniciarán una relación fructífera. Alliana asumió tras el proceso de destitución de Santiago Peña, según informaron los medios.",
+      "id": "ev-116ceqg",
+      "title": "Ahorristas de Ueno Bank no necesitan trámites para cobrar del FGD",
+      "summary": "Los clientes de Ueno Bank recibirán los pagos del Fondo de Garantía de Depósitos de forma gradual y por grupos. Así lo informaron la Asoban y el Banco Central del Paraguay en un comunicado. Los beneficiarios no necesitan registrarse ni hacer trámites para recibir su dinero.\n\nPara saber en qué banco o financiera se hará el depósito, los ahorristas pueden consultar la plataforma habilitada por el BCP. Si todavía no aparece una entidad asignada, deben volver a consultar más adelante, porque la asignación avanza por grupos.\n\nEl BCP fija los montos y las instrucciones de acreditación. Los bancos y financieras no pueden cambiar los importes ni revertir los pagos sin autorización del Banco Central.",
       "keyPoints": [
-        "Lula felicitó a Alliana por su asunción en un mensaje en X.",
-        "Lula propuso trabajar de forma abierta, franca y cooperativa.",
-        "Lula espera recibir a Alliana en Brasilia.",
-        "Alliana respondió que iniciarán una relación fructífera."
+        "Los pagos se hacen de forma gradual, por grupos de beneficiarios.",
+        "No hace falta registrarse ni hacer trámites.",
+        "La web del BCP muestra qué banco o financiera pagará."
       ],
-      "category": "internacional",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
@@ -841,46 +1105,38 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Lula le desea éxito a Alliana y se propone a trabajar con el nuevo presidente paraguayo",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/lula-le-desea-exito-a-alliana-y-se-propone-a-trabajar-con-el-nuevo-presidente-paraguayo",
-          "publishedAt": "2026-11-07T03:20:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Lula saluda a Pedro Alliana y lo invita a Brasilia",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia",
-          "publishedAt": "2026-11-07T01:15:18.437Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true"
+          "title": "Ueno Bank: ahorristas no necesitan registro ni trámites para cobrar fondos, aclara Asoban",
+          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-ahorristas-no-necesitan-registro-ni-tramites-para-cobrar-fondos-aclara-asoban",
+          "publishedAt": "2026-11-07T15:50:09.000Z",
+          "image": "https://www.abc.com.py/resizer/hHlgBVdSagKFwDqHPQBSdugbfPI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Lula felicita a Pedro Alliana y busca fortalecer la relación con Paraguay",
-          "url": "https://www.lanacion.com.py/politica/2026/11/06/lula-felicita-a-pedro-alliana-y-busca-fortalecer-la-relacion-con-paraguay",
-          "publishedAt": "2026-11-07T01:00:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/hrx9bcSJZrK1pKmuttjAgJo4LbI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/24CBSLN6BZBI7BSJGBL2RBMBCA.jpg"
+          "title": "Ahorristas de ueno bank pueden consultar en qué entidad recibirán sus depósitos",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/06/ahorristas-de-ueno-bank-pueden-consultar-en-que-entidad-recibiran-sus-depositos",
+          "publishedAt": "2026-11-07T00:20:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
         },
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Lula felicita a Alliana y le invita a trabajar abierta y francamente",
-          "url": "https://www.abc.com.py/politica/2026/11/06/lula-felicita-a-alliana-y-le-invita-a-trabajar-abierta-y-francamente",
-          "publishedAt": "2026-11-07T00:50:17.000Z",
-          "image": "https://www.abc.com.py/resizer/Lqh2Dv5d3KPaihj92IGECn3s43k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H6KY3UPNXZEEXFCA7XNEGTZYHY.jpg"
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Pago a clientes de Ueno: web del BCP sirve solo para saber dónde depositarán el dinero",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pago-a-clientes-de-ueno-web-del-bcp-sirve-solo-para-saber-donde-depositaran-el-dinero",
+          "publishedAt": "2026-11-06T18:41:51.110Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IWTIXVE3DZC53P3KN3WEOGI6NA.jpg?auth=07920ba3115d0df429430d0502890108f804a1900396082d0ef7a4abbe7623bc&width=1200&height=630&smart=true"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg?auth=a0909668b202dfb68881fe145b6a99522cc957bd98253a4e35e8d9d51ff48708&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-ahorristas-no-necesitan-registro-ni-tramites-para-cobrar-fondos-aclara-asoban"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 14.27
+      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedSlot": "tarde",
+      "score": 13.98
     },
     {
       "id": "ev-09l09ng",
@@ -964,7 +1220,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.57
+      "score": 13.24
     },
     {
       "id": "ev-0offbp4",
@@ -1016,7 +1272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.34
+      "score": 13.01
     },
     {
       "id": "ev-0pfv14c",
@@ -1075,7 +1331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 11.32
+      "score": 10.99
     },
     {
       "id": "ev-057tbwt",
@@ -1126,7 +1382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 10.95
+      "score": 10.62
     },
     {
       "id": "ev-0ey1qtg",
@@ -1177,7 +1433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 10.31
+      "score": 9.98
     },
     {
       "id": "ev-16i1a64",
@@ -1220,50 +1476,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.06
-    },
-    {
-      "id": "ev-116ceqg",
-      "title": "Web del BCP mostrará a ahorristas de Ueno el banco que recibirá sus depósitos",
-      "summary": "El Banco Central del Paraguay aclaró que la plataforma web para ahorristas de Ueno Bank sirve solo para saber en qué banco o financiera se depositará el dinero. No es necesario registrarse ni hacer trámites, porque los pagos se harán de forma automática.\n\nCuando el sistema tenga asignada la entidad, aparecerá su nombre en la plataforma. Si todavía no figura, el proceso de asignación sigue en curso y deberán volver a consultar más tarde.\n\nEl BCP también habilitó un canal de comunicación para consultas sobre los montos recibidos.",
-      "keyPoints": [
-        "La web solo informa el banco donde se depositará el dinero.",
-        "No hace falta registrarse ni realizar trámites.",
-        "Los pagos se harán de manera automática."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ahorristas de ueno bank pueden consultar en qué entidad recibirán sus depósitos",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/06/ahorristas-de-ueno-bank-pueden-consultar-en-que-entidad-recibiran-sus-depositos",
-          "publishedAt": "2026-11-07T00:20:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Pago a clientes de Ueno: web del BCP sirve solo para saber dónde depositarán el dinero",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pago-a-clientes-de-ueno-web-del-bcp-sirve-solo-para-saber-donde-depositaran-el-dinero",
-          "publishedAt": "2026-11-06T18:41:51.110Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IWTIXVE3DZC53P3KN3WEOGI6NA.jpg?auth=07920ba3115d0df429430d0502890108f804a1900396082d0ef7a4abbe7623bc&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG?auth=44c95503fde27244ce07c6cbf6aaeb6aa2f26e18bfae7e36412b7d941117356b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/06/ahorristas-de-ueno-bank-pueden-consultar-en-que-entidad-recibiran-sus-depositos"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 9.02
+      "score": 8.73
     },
     {
       "id": "ev-1ilfbhi",
@@ -1306,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.99
+      "score": 8.66
     },
     {
       "id": "ev-03qwqe9",
@@ -1349,7 +1562,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.93
+      "score": 8.59
     },
     {
       "id": "ev-17zpe5y",
@@ -1393,7 +1606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.46
     },
     {
       "id": "ev-0utpy12",
@@ -1436,7 +1649,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.44
     },
     {
       "id": "ev-1076vcj",
@@ -1480,7 +1693,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.56
+      "score": 8.23
     },
     {
       "id": "ev-17rkr16",
@@ -1523,58 +1736,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.45
-    },
-    {
-      "id": "ev-1yka128",
-      "title": "León XIV inicia en Uruguay una gira por Sudamérica tras su operación",
-      "summary": "El papa León XIV inició en Uruguay una gira por Sudamérica que también lo llevará a Argentina y Perú. El viaje dura 12 días y es uno de los más intensos de las últimas décadas para un pontífice.\n\nEl líder de la Iglesia católica, de 71 años, viaja apenas tres semanas después de someterse a una operación de cáncer de pulmón. Según dijo a periodistas a bordo de su avión, se siente “bastante en forma”. Los médicos le dieron luz verde y el Vaticano señaló que no se necesitan medidas médicas especiales además de la atención habitual.\n\nAl ser consultado por cómo logró recuperarse a tiempo, respondió: “Fe en Dios, buenos médicos y una vida sana”.",
-      "keyPoints": [
-        "El papa llegó a Uruguay y luego visitará Argentina y Perú.",
-        "La gira dura 12 días y comenzó el viernes 6 de noviembre.",
-        "León XIV se operó de cáncer de pulmón hace tres semanas."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa inicia en Uruguay su gira por Sudamérica",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/07/el-papa-inicia-en-uruguay-su-gira-por-sudamerica",
-          "publishedAt": "2026-11-07T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/14Ky3KZp9G-UKiCSt6h9Sy1IXMQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FKXZB3IHORBJVGKUKQFGWFZNKA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa inicia en Uruguay una emotiva gira por Sudamérica tras su cirugía",
-          "url": "https://www.lanacion.com.py/mundo/2026/11/06/el-papa-inicia-en-uruguay-una-emotiva-gira-por-sudamerica-tras-su-cirugia",
-          "publishedAt": "2026-11-06T20:27:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7rzfK2aD8a1am1Eo5A2wWpJpVh0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H5N7SSLMABBELPHHSHLJCZDU2Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "El papa León XIV inicia su gira en Suramérica para un emotivo reencuentro",
-          "url": "https://elnacional.com.py/mundo/el-papa-leon-xiv-inicia-su-gira-suramerica-emotivo-reencuentro-n114815",
-          "publishedAt": "2026-11-06T18:10:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aede8822eed7.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FKXZB3IHORBJVGKUKQFGWFZNKA.jpg?auth=1e146d4ecb15a2ced14bdadd30cb741481a81b10bf1b775125a946cb6ecbe6e3&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/07/el-papa-inicia-en-uruguay-su-gira-por-sudamerica"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 7.74
+      "score": 8.12
     },
     {
       "id": "ev-12nrzzu",
@@ -1611,7 +1773,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.57
+      "score": 6.24
     },
     {
       "id": "ev-0je6n0j",
@@ -1654,7 +1816,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.34
+      "score": 6
     },
     {
       "id": "ev-1s9bwjv",
@@ -1697,7 +1859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.31
+      "score": 5.97
     },
     {
       "id": "ev-0kdnp2u",
@@ -1740,7 +1902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1t7huoe",
@@ -1783,7 +1945,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0iomorw",
@@ -1826,7 +1988,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.28
     },
     {
       "id": "ev-0qnwj1a",
@@ -1855,7 +2017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0zgmwzq",
@@ -1884,7 +2046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1fk8bre",
@@ -1913,7 +2075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0s4flq8",
@@ -1942,7 +2104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0uv34ba",
@@ -1971,7 +2133,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1mohjha",
@@ -2000,7 +2162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0xc1cqy",
@@ -2033,7 +2195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.1
     },
     {
       "id": "ev-0ev2pql",
@@ -2065,7 +2227,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.38
+      "score": 5.05
     },
     {
       "id": "ev-0ed98jy",
@@ -2100,7 +2262,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-11wce0r",
@@ -2136,7 +2298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1krxtgc",
@@ -2169,7 +2331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0c5l9wi",
@@ -2205,7 +2367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1alysyj",
@@ -2241,7 +2403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-07r5749",
@@ -2272,7 +2434,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.55
+      "score": 4.22
     },
     {
       "id": "ev-0jqaiil",
@@ -2308,7 +2470,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.21
     },
     {
       "id": "ev-07jyx26",
@@ -2344,7 +2506,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.12
     },
     {
       "id": "ev-0kavdtc",
@@ -2384,7 +2546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.01
+      "score": 3.68
     },
     {
       "id": "ev-0ibcwvb",
@@ -2416,7 +2578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.13
+      "score": 2.8
     },
     {
       "id": "ev-08svwy2",
@@ -2447,7 +2609,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.12
+      "score": 2.78
     }
   ],
   "runs": [
@@ -2464,6 +2626,13 @@
       "added": 0,
       "updated": 10,
       "candidates": 23
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-07T16:07:11.032Z",
+      "added": 0,
+      "updated": 7,
+      "candidates": 20
     }
   ]
 }
