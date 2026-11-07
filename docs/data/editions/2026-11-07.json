@@ -1,20 +1,20 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-07T16:07:11.032Z",
+  "generatedAt": "2026-11-07T19:37:12.911Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yk0pjd",
-      "title": "Antonio Barrios juró como vicepresidente tras la destitución de Peña",
-      "summary": "El senador colorado Antonio Barrios juró como vicepresidente de la República ante el Congreso Nacional. Asumió tras la salida de Pedro Alliana, que pasó a la Presidencia luego de que el Senado destituyera a Santiago Peña por 44 votos en un juicio político por el caso Ueno Bank.\n\nBarrios ocupará el cargo hasta agosto de 2028, según el mecanismo previsto en el artículo 234 de la Constitución. Como médico personal y dirigente de Honor Colorado, es considerado un hombre de confianza del expresidente Horacio Cartes.\n\nEn sus primeras declaraciones, Barrios afirmó que el Gobierno buscará \"sacar toda la grasa del presupuesto\" para destinarla a la salud. Dijo que visitará hospitales y mencionó un proyecto del senador Gustavo Leite para recortar unos G. 500.000 millones del gasto.",
+      "title": "Pedro Alliana jura como presidente tras la destitución de Peña",
+      "summary": "Pedro Alliana juró como presidente de la República ante ambas cámaras del Congreso. Completará el periodo de Gobierno hasta el 15 de agosto de 2028. Su llegada al poder se produce tras la destitución de Santiago Peña en juicio político, en medio de la crisis financiera por el caso ueno bank.\n\nEl presidente del Congreso, Basilio Núñez, había convocado la sesión solemne. Según la Constitución, cuando el presidente es destituido, el vicepresidente asume y completa el periodo. El senador Antonio Barrios asumirá la Vicepresidencia en una sesión posterior.\n\nEl gobierno de Israel felicitó a Alliana. Las notas recuerdan que, en octubre de 2026, cuando Alliana era vicepresidente, visitó Israel junto al canciller Rubén Ramírez Lezcano.",
       "keyPoints": [
-        "Barrios juró como vicepresidente ante el Congreso.",
-        "Asumió en reemplazo de Pedro Alliana, que es ahora presidente.",
-        "El mandato se extiende hasta agosto de 2028.",
-        "Barrios propone destinar recortes del gasto a la salud."
+        "Alliana completará el mandato hasta el 15 de agosto de 2028.",
+        "Juró ante ambas cámaras del Congreso Nacional.",
+        "Antonio Barrios asumirá la Vicepresidencia en una sesión posterior.",
+        "Israel felicitó a Alliana por su asunción."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Israel felicita a Pedro Alliana tras asumir como presidente de la República del Paraguay",
+          "url": "https://elnacional.com.py/politica/israel-felicita-pedro-alliana-tras-asumir-como-presidente-republica-paraguay-n114875",
+          "publishedAt": "2026-11-07T18:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef559c26586.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -168,15 +176,194 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aeea7cfa7a1f.jpg",
+        "url": "https://statics.elnacional.com.py/2026/11/6aee5b4e70348.jpg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/cartes-ubica-antonio-barrios-vicepresidencia-n114852"
+        "articleUrl": "https://elnacional.com.py/politica/pedro-alliana-jura-como-presidente-republica-tras-destitucion-santiago-pena-n114844"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T16:07:11.032Z",
+      "updatedAt": "2026-11-07T19:37:12.911Z",
       "updatedSlot": "tarde",
-      "score": 29.62
+      "score": 29.86
+    },
+    {
+      "id": "ev-0mc3b0m",
+      "title": "Peña llegó a la Fiscalía escoltado y sin esposas para declarar",
+      "summary": "El expresidente Santiago Peña llegó este sábado a la sede de la Fiscalía General del Estado para declarar en la causa por el caso Ueno bank. Llegó cerca de las 11:00, después de salir del Regimiento Escolta Presidencial, y estaba convocado para las 11:30.\n\nIngresó escoltado por el teniente coronel Óscar Sostoa, jefe de seguridad del Regimiento, y sin esposas. Entró por uno de los accesos que usan el fiscal general y otros agentes, algo que generó cuestionamientos sobre el trato recibido. Frente a la sede se reunieron ciudadanos que exigían justicia.\n\nLa Fiscalía había descartado que la declaración se hiciera por videoconferencia. Peña está investigado por lesión de confianza, administración en provecho propio y tráfico de influencias, según las notas publicadas.",
+      "keyPoints": [
+        "Peña llegó a la Fiscalía cerca de las 11:00 desde el Regimiento Escolta Presidencial.",
+        "Ingresó escoltado por el jefe de seguridad del Regimiento y sin esposas.",
+        "Es investigado por lesión de confianza, administración en provecho propio y tráfico de influencias."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sin esposas y escoltado: manifestantes critican privilegios para Peña en Fiscalía",
+          "url": "https://www.abc.com.py/politica/2026/11/07/sin-esposas-y-escoltado-manifestantes-critican-privilegios-para-pena-en-fiscalia",
+          "publishedAt": "2026-11-07T17:14:06.000Z",
+          "image": "https://www.abc.com.py/resizer/UStcr08XVjU02eDNdlOkFox6TyI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5GS25UDJ45CRXGKLW6HCDQ7AUY.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Peña llegó escoltado y sin esposas al Ministerio Público",
+          "url": "https://www.telefuturo.com.py/pena-llego-escoltado-y-sin-esposas-al-ministerio-publico",
+          "publishedAt": "2026-11-07T15:43:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank",
+          "publishedAt": "2026-11-07T15:30:18.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Sin esposas y bajo fuerte custodia, Peña llegó a Fiscalía para declarar",
+          "url": "https://elnacional.com.py/politica/sin-esposas-fuerte-custodia-pena-llego-fiscalia-declarar-n114868",
+          "publishedAt": "2026-11-07T15:04:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef3dc752b5c.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Bajo custodia policial, Peña comparece ante fiscales",
+          "url": "https://www.adndigital.com.py/bajo-custodia-policial-pena-comparece-ante-fiscales",
+          "publishedAt": "2026-11-07T14:36:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-112846.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Es el fracaso de otro outsider de la política”, dice senador sobre destitución de Santiago Peña",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena",
+          "publishedAt": "2026-11-07T14:25:56.000Z",
+          "image": "https://www.abc.com.py/resizer/6M_IlNOCjTlrrsgqt5qVS3yZegM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Santiago Peña se tenía que ir por juicio político porque aceptar una renuncia iba a ser un premio”, dice diputada",
+          "url": "https://www.abc.com.py/730am/no-tiene-nombre/2026/11/07/audio-santiago-pena-se-tenia-que-ir-por-juicio-politico-porque-aceptar-una-renuncia-iba-a-ser-un-premio-dice-diputada",
+          "publishedAt": "2026-11-07T14:22:16.000Z",
+          "image": "https://www.abc.com.py/resizer/EfUWfv67kMTUVcISDV6HKUC-sJ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLZSUCMP5VDMRAN73P7J525JSQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña: por razones de seguridad, su declaración se traslada a la Fiscalía General del Estado",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/santiago-pena-por-razones-de-seguridad-su-declaracion-se-traslada-a-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:42:07.000Z",
+          "image": "https://www.abc.com.py/resizer/wIM7z-CCoGmsF2wN4boUR0E7-AE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G4PE6MXZBVFORODHRPO45AJW6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Por seguridad, audiencia de Peña será en la Fiscalía General del Estado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/por-seguridad-audiencia-de-pena-sera-en-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:34:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GtG3tJbG9dYYkpJ-vU8Gk0atL-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWWCF2XAMVDIRNWWFTY5K2AT6M.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña declarará a las 11:30 en la Fiscalía",
+          "url": "https://www.adndigital.com.py/santiago-pena-declarara-a-las-1130-en-la-fiscalia",
+          "publishedAt": "2026-11-07T12:47:52.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-172237.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:37:31.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Santiago Peña debe declarar ante Fiscalía tras ser detenido",
+          "url": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859",
+          "publishedAt": "2026-11-07T12:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:18:39.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
+          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
+          "publishedAt": "2026-11-07T11:58:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
+          "publishedAt": "2026-11-07T09:40:40.705Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
+          "publishedAt": "2026-11-07T03:07:31.000Z",
+          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
+          "publishedAt": "2026-11-06T23:58:51.992Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña, detenido en su domicilio",
+          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
+          "publishedAt": "2026-11-06T23:39:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
+          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
+          "publishedAt": "2026-11-06T23:37:45.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5GS25UDJ45CRXGKLW6HCDQ7AUY.jpg?auth=a5753e738e40df2c58462e9cb8263d2e2272388c461c3f8ea223d8d5a8b1773e&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/07/sin-esposas-y-escoltado-manifestantes-critican-privilegios-para-pena-en-fiscalia"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T19:37:12.911Z",
+      "updatedSlot": "tarde",
+      "score": 26.8
     },
     {
       "id": "ev-0xusz64",
@@ -323,147 +510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 26.6
-    },
-    {
-      "id": "ev-0mc3b0m",
-      "title": "Fiscalía pide detención de Santiago Peña y Carlos Carvallo por caso Ueno Bank",
-      "summary": "El expresidente Santiago Peña llegó a la sede de la Fiscalía General del Estado para declarar por el caso Ueno Bank. El lugar cambió horas antes por razones de seguridad. La noche anterior fue trasladado al Regimiento Escolta Presidencial tras incidentes frente a su casa, donde un grupo pedía que cumpla prisión.\n\nSegún el fiscal Christian Benítez, la investigación apunta a administración en provecho propio y lesión de confianza. La orden de detención alcanza también al expresidente del Banco Central del Paraguay, Carlos Carvallo. Benítez dijo que la imputación formal podría presentarse en el transcurso del día.\n\nPeña fue destituido el viernes por juicio político en el Senado. En los incidentes, un comisario resultó herido y la Policía denunció la presencia de infiltrados. Extraoficialmente se dijo que Peña no declararía.",
-      "keyPoints": [
-        "Peña fue destituido por juicio político en el Senado.",
-        "La Fiscalía ordenó la detención de Peña y de Carlos Carvallo.",
-        "Los delitos mencionados por el fiscal son administración en provecho propio y lesión de confianza.",
-        "La declaración estaba fijada para las 11:30 en la Fiscalía General del Estado."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank",
-          "publishedAt": "2026-11-07T15:30:18.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: “Es el fracaso de otro outsider de la política”, dice senador sobre destitución de Santiago Peña",
-          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena",
-          "publishedAt": "2026-11-07T14:25:56.000Z",
-          "image": "https://www.abc.com.py/resizer/6M_IlNOCjTlrrsgqt5qVS3yZegM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: “Santiago Peña se tenía que ir por juicio político porque aceptar una renuncia iba a ser un premio”, dice diputada",
-          "url": "https://www.abc.com.py/730am/no-tiene-nombre/2026/11/07/audio-santiago-pena-se-tenia-que-ir-por-juicio-politico-porque-aceptar-una-renuncia-iba-a-ser-un-premio-dice-diputada",
-          "publishedAt": "2026-11-07T14:22:16.000Z",
-          "image": "https://www.abc.com.py/resizer/EfUWfv67kMTUVcISDV6HKUC-sJ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLZSUCMP5VDMRAN73P7J525JSQ.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Santiago Peña: por razones de seguridad, su declaración se traslada a la Fiscalía General del Estado",
-          "url": "https://www.abc.com.py/policiales/2026/11/07/santiago-pena-por-razones-de-seguridad-su-declaracion-se-traslada-a-la-fiscalia-general-del-estado",
-          "publishedAt": "2026-11-07T13:42:07.000Z",
-          "image": "https://www.abc.com.py/resizer/wIM7z-CCoGmsF2wN4boUR0E7-AE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G4PE6MXZBVFORODHRPO45AJW6E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Por seguridad, audiencia de Peña será en la Fiscalía General del Estado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/por-seguridad-audiencia-de-pena-sera-en-la-fiscalia-general-del-estado",
-          "publishedAt": "2026-11-07T13:34:40.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GtG3tJbG9dYYkpJ-vU8Gk0atL-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWWCF2XAMVDIRNWWFTY5K2AT6M.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Santiago Peña declarará a las 11:30 en la Fiscalía",
-          "url": "https://www.adndigital.com.py/santiago-pena-declarara-a-las-1130-en-la-fiscalia",
-          "publishedAt": "2026-11-07T12:47:52.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-172237.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
-          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
-          "publishedAt": "2026-11-07T12:37:31.000Z",
-          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
-          "url": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
-          "publishedAt": "2026-11-07T12:18:39.000Z",
-          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
-          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
-          "publishedAt": "2026-11-07T11:58:49.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
-          "publishedAt": "2026-11-07T09:40:40.705Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
-          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
-          "publishedAt": "2026-11-07T03:07:31.000Z",
-          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
-          "publishedAt": "2026-11-06T23:58:51.992Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Santiago Peña, detenido en su domicilio",
-          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
-          "publishedAt": "2026-11-06T23:39:08.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
-          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
-          "publishedAt": "2026-11-06T23:37:45.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg?auth=d7638d4ed682bac0e78a28e3b0bdacb47c59a22dd02395028efb4e9985ced4e0&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T16:07:11.032Z",
-      "updatedSlot": "tarde",
-      "score": 23.95
+      "score": 26.31
     },
     {
       "id": "ev-0b8o5ab",
@@ -538,7 +585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 20.08
+      "score": 19.79
     },
     {
       "id": "ev-1icqc6y",
@@ -605,7 +652,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 17.8
+      "score": 17.51
     },
     {
       "id": "ev-0n1hykn",
@@ -664,7 +711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17.57
+      "score": 17.28
     },
     {
       "id": "ev-0zm6mzw",
@@ -755,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 17.55
+      "score": 17.26
     },
     {
       "id": "ev-0j1puov",
@@ -822,7 +869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17.47
+      "score": 17.18
     },
     {
       "id": "ev-1jscmhy",
@@ -890,7 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 16.92
+      "score": 16.63
     },
     {
       "id": "ev-1yka128",
@@ -958,7 +1005,143 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 15.48
+      "score": 15.18
+    },
+    {
+      "id": "ev-0pfv14c",
+      "title": "Guaraní recibe a Olimpia en el clásico añejo con las entradas casi agotadas",
+      "summary": "Guaraní y Olimpia se enfrentan este sábado en el estadio Villa Alegre de Encarnación, por la fecha 19 del torneo Clausura. El partido comienza a las 17:00. Olimpia llega como líder, con cuatro victorias seguidas, y busca acercarse al título. Guaraní, tercero y a ocho unidades de la cima, necesita ganar para pelear por un lugar en la Copa Libertadores vía acumulativa.\n\nSegún la organización, las entradas están agotadas en Preferencia, Plateas y Gradería Sur, y solo quedan algunas en el sector norte. El público espera más de 12.500 espectadores. La directiva de Guaraní había mudado el partido al interior del país tras retirar la publicidad de Ueno Bank del estadio.\n\nEn Olimpia, el zaguero central dejó atrás una molestia muscular que lo había marginado de los últimos partidos.",
+      "keyPoints": [
+        "Olimpia es líder y llega con cuatro triunfos seguidos.",
+        "Guaraní es tercero, a ocho puntos del líder.",
+        "Las entradas están agotadas en varios sectores del estadio.",
+        "El partido se juega este sábado a las 17:00 en Encarnación."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Guaraní vs. Olimpia: el “clásico más añejo” en vivo desde Encarnación",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-el-clasico-mas-anejo-en-vivo-desde-encarnacion",
+          "publishedAt": "2026-11-07T18:56:16.000Z",
+          "image": "https://www.abc.com.py/resizer/G__4fAjl_542T4cpgigtEC-6pAE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PSNQM5H5CVCJ7OHQCR5WWLEGSA.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El clásico añejo es clave",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave",
+          "publishedAt": "2026-11-07T03:06:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7tX6e_UcOXnNGZu_CAIHVYoV2aw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
+          "publishedAt": "2026-11-06T23:56:10.000Z",
+          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "La gran novedad que asoma en Olimpia para el Clásico Más Añejo",
+          "url": "https://elnacional.com.py/deportes/la-gran-novedad-asoma-olimpia-clasico-mas-anejo-n114838",
+          "publishedAt": "2026-11-06T20:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aee364ce451e.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PSNQM5H5CVCJ7OHQCR5WWLEGSA.jpeg?auth=66d466a8121f790bf3842fa3159f79d39bd2c4d1a63498e80220929d2bb60582&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-el-clasico-mas-anejo-en-vivo-desde-encarnacion"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T19:37:12.911Z",
+      "updatedSlot": "tarde",
+      "score": 14.94
+    },
+    {
+      "id": "ev-116ceqg",
+      "title": "Ahorristas de ueno bank no necesitan trámites para cobrar, según Asoban",
+      "summary": "La Asociación de Bancos del Paraguay (Asoban) explicó cómo se pagan las garantías del Fondo de Garantía de Depósitos a los ahorristas de ueno bank. Los pagos los dispone el Banco Central del Paraguay (BCP) y se hacen de forma gradual, por grupos de beneficiarios.\n\nLos ahorristas pueden consultar en la plataforma del BCP qué banco o financiera les acreditará el dinero. Si todavía no aparece una entidad asignada, deben volver a consultar más adelante. Las entidades no pueden cambiar los montos ni revertir pagos sin autorización del Banco Central.\n\nDesde el jueves 12 de noviembre, las consultas y reclamos sobre las acreditaciones serán atendidos directamente por el BCP, por correo electrónico.",
+      "keyPoints": [
+        "Los pagos se hacen de forma gradual, por grupos de beneficiarios.",
+        "Los ahorristas no necesitan registrarse ni hacer trámites.",
+        "La plataforma del BCP muestra qué entidad realizará el pago.",
+        "Desde el 12 de noviembre, el BCP atiende consultas y reclamos."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Asoban explica cómo consultar los pagos de garantías a depositantes",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/07/asoban-explica-como-consultar-los-pagos-de-garantias-a-depositantes",
+          "publishedAt": "2026-11-07T16:33:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MlrdP0rWL7m_-VBcHvba5FzM_VU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LF4AVABQYZBINHL5ZLHGJBBRII.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: ahorristas no necesitan registro ni trámites para cobrar fondos, aclara Asoban",
+          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-ahorristas-no-necesitan-registro-ni-tramites-para-cobrar-fondos-aclara-asoban",
+          "publishedAt": "2026-11-07T15:50:09.000Z",
+          "image": "https://www.abc.com.py/resizer/hHlgBVdSagKFwDqHPQBSdugbfPI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ahorristas de ueno bank pueden consultar en qué entidad recibirán sus depósitos",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/06/ahorristas-de-ueno-bank-pueden-consultar-en-que-entidad-recibiran-sus-depositos",
+          "publishedAt": "2026-11-07T00:20:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Pago a clientes de Ueno: web del BCP sirve solo para saber dónde depositarán el dinero",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pago-a-clientes-de-ueno-web-del-bcp-sirve-solo-para-saber-donde-depositaran-el-dinero",
+          "publishedAt": "2026-11-06T18:41:51.110Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IWTIXVE3DZC53P3KN3WEOGI6NA.jpg?auth=07920ba3115d0df429430d0502890108f804a1900396082d0ef7a4abbe7623bc&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LF4AVABQYZBINHL5ZLHGJBBRII.png?auth=a7f088e8b0bc421b8edbe1ae182258a60c35d09e5c664c729e9f0b6075e53b85&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/07/asoban-explica-como-consultar-los-pagos-de-garantias-a-depositantes"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T19:37:12.911Z",
+      "updatedSlot": "tarde",
+      "score": 14.75
     },
     {
       "id": "ev-0l69abg",
@@ -1026,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 14.65
+      "score": 14.36
     },
     {
       "id": "ev-0dk7f43",
@@ -1085,58 +1268,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 14.01
-    },
-    {
-      "id": "ev-116ceqg",
-      "title": "Ahorristas de Ueno Bank no necesitan trámites para cobrar del FGD",
-      "summary": "Los clientes de Ueno Bank recibirán los pagos del Fondo de Garantía de Depósitos de forma gradual y por grupos. Así lo informaron la Asoban y el Banco Central del Paraguay en un comunicado. Los beneficiarios no necesitan registrarse ni hacer trámites para recibir su dinero.\n\nPara saber en qué banco o financiera se hará el depósito, los ahorristas pueden consultar la plataforma habilitada por el BCP. Si todavía no aparece una entidad asignada, deben volver a consultar más adelante, porque la asignación avanza por grupos.\n\nEl BCP fija los montos y las instrucciones de acreditación. Los bancos y financieras no pueden cambiar los importes ni revertir los pagos sin autorización del Banco Central.",
-      "keyPoints": [
-        "Los pagos se hacen de forma gradual, por grupos de beneficiarios.",
-        "No hace falta registrarse ni hacer trámites.",
-        "La web del BCP muestra qué banco o financiera pagará."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: ahorristas no necesitan registro ni trámites para cobrar fondos, aclara Asoban",
-          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-ahorristas-no-necesitan-registro-ni-tramites-para-cobrar-fondos-aclara-asoban",
-          "publishedAt": "2026-11-07T15:50:09.000Z",
-          "image": "https://www.abc.com.py/resizer/hHlgBVdSagKFwDqHPQBSdugbfPI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ahorristas de ueno bank pueden consultar en qué entidad recibirán sus depósitos",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/06/ahorristas-de-ueno-bank-pueden-consultar-en-que-entidad-recibiran-sus-depositos",
-          "publishedAt": "2026-11-07T00:20:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/gbVGbHJVihxx7ZQ0FpxZgal9ql8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z3DDFA7QZJC7LOKLXAEW7EVYMI.JPG"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Pago a clientes de Ueno: web del BCP sirve solo para saber dónde depositarán el dinero",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pago-a-clientes-de-ueno-web-del-bcp-sirve-solo-para-saber-donde-depositaran-el-dinero",
-          "publishedAt": "2026-11-06T18:41:51.110Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IWTIXVE3DZC53P3KN3WEOGI6NA.jpg?auth=07920ba3115d0df429430d0502890108f804a1900396082d0ef7a4abbe7623bc&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FPLB6DDJPBGKVLAJJDBNEMKL3U.jpg?auth=a0909668b202dfb68881fe145b6a99522cc957bd98253a4e35e8d9d51ff48708&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-ahorristas-no-necesitan-registro-ni-tramites-para-cobrar-fondos-aclara-asoban"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T16:07:11.032Z",
-      "updatedSlot": "tarde",
-      "score": 13.98
+      "score": 13.72
     },
     {
       "id": "ev-09l09ng",
@@ -1220,7 +1352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.24
+      "score": 13
     },
     {
       "id": "ev-0offbp4",
@@ -1272,66 +1404,67 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.01
+      "score": 12.72
     },
     {
-      "id": "ev-0pfv14c",
-      "title": "Olimpia visita a Guaraní en Encarnación por la fecha 19 del Clausura",
-      "summary": "Guaraní recibe hoy a Olimpia en el estadio Villa Alegre de Encarnación, por la fecha 19 del torneo Clausura 2026. El partido, conocido como el clásico añejo, empieza a las 17:00 y las entradas están agotadas. Olimpia llega como líder, a siete puntos del segundo, con cuatro victorias seguidas, y busca acercarse al bicampeonato. Guaraní viene de ganar 1-0 a Ameliano y necesita sumar para pelear por la Copa Sudamericana 2027.",
+      "id": "ev-0kdnp2u",
+      "title": "Frente frío traerá tormentas a gran parte de la región Oriental este sábado",
+      "summary": "La Dirección de Meteorología e Hidrología (DMH) emitió un boletín especial por un frente frío que ingresa al país entre el viernes y la madrugada del sábado. Se esperan lluvias y tormentas eléctricas sobre gran parte de la región Oriental, con ráfagas de viento y posibilidad de granizo.\n\nSegún la DMH, las tormentas podrían ser moderadas a fuertes, con probabilidad alta de fenómenos severos de forma muy puntual. Las alertas incluyen departamentos del sur y centro de la región Oriental, como Asunción, Central, Cordillera y Guairá, además de zonas del norte y este de la Oriental y del sur de la Occidental.\n\nEl sistema de tormentas se extendería hasta la tarde e incluso la noche del sábado 7 de noviembre. También se esperan vientos moderados del sector sur que se mantendrían tras el ingreso del frente.",
       "keyPoints": [
-        "Guaraní recibe a Olimpia hoy a las 17:00 en Encarnación.",
-        "Olimpia es líder y suma cuatro triunfos seguidos.",
-        "Guaraní busca clasificar a la Copa Sudamericana 2027."
+        "El frente frío ingresa al país entre el viernes y la madrugada del sábado.",
+        "Se esperan tormentas eléctricas moderadas a fuertes y posible granizo.",
+        "El sistema de tormentas podría extenderse hasta la noche del sábado.",
+        "Habrá vientos moderados del sector sur tras el ingreso del frente."
       ],
-      "category": "deportes",
+      "category": "pais",
       "scope": "paraguay",
-      "expiresAt": null,
+      "expiresAt": "2026-11-08T02:59:00.000Z",
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
+          "title": "Meteorología anuncia tormentas y granizos en siete departamentos: ¿cuáles?",
+          "url": "https://www.abc.com.py/clima/2026/11/07/meteorologia-anuncia-tormentas-y-granizos-en-siete-departamentos-cuales",
+          "publishedAt": "2026-11-07T19:30:19.000Z",
+          "image": null
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
+          "title": "Alerta de tormentas en siete departamentos para esta tarde",
+          "url": "https://www.abc.com.py/clima/2026/11/07/alerta-de-tormentas-en-siete-departamentos-para-esta-tarde",
+          "publishedAt": "2026-11-07T15:34:53.000Z",
+          "image": "https://www.abc.com.py/resizer/zUwUbrbE6YX-Rs-IbidQFsf7AYw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5HCH6UMWANF55EAWC2HKUAR36E.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "El clásico añejo es clave",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave",
-          "publishedAt": "2026-11-07T03:06:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7tX6e_UcOXnNGZu_CAIHVYoV2aw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg"
+          "title": "Llega un frente frío y nuevas tormentas",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/07/llega-un-frente-frio-y-nuevas-tormentas",
+          "publishedAt": "2026-11-07T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AzoiYD31m01jvEGmJlzLGFk1dIo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AKJNFYMT6NCQHH3HIK4FZPDAZU.jpg"
         },
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
-          "publishedAt": "2026-11-06T23:56:10.000Z",
-          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Frente frío y sistema de tormentas llegarán al país desde este sábado",
+          "url": "https://www.lanacion.com.py/pais/2026/11/06/frente-frio-y-sistema-de-tormentas-llegaran-al-pais-desde-este-sabado",
+          "publishedAt": "2026-11-06T23:23:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-7ScJwhlUeSnhLJ5AcxR4vXM0yU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GF3DXWC6E5EBBLJKZZG5R4OEUA.jpeg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg?auth=08b7b06444262cee56660dda7ce19ecc25eb804b5e0e26df1beec1b25799d222&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5HCH6UMWANF55EAWC2HKUAR36E.jpg?auth=548daca6917fd5bce2760b8acd5c659dafda4385dcd02591f4c53ea70bfced9d&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay"
+        "articleUrl": "https://www.abc.com.py/clima/2026/11/07/alerta-de-tormentas-en-siete-departamentos-para-esta-tarde"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T12:07:11.031Z",
-      "updatedSlot": "manana",
-      "score": 10.99
+      "updatedAt": "2026-11-07T19:37:12.911Z",
+      "updatedSlot": "tarde",
+      "score": 11.99
     },
     {
       "id": "ev-057tbwt",
@@ -1382,7 +1515,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 10.62
+      "score": 10.33
     },
     {
       "id": "ev-0ey1qtg",
@@ -1433,7 +1566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.98
+      "score": 9.69
     },
     {
       "id": "ev-16i1a64",
@@ -1476,7 +1609,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.73
+      "score": 8.44
     },
     {
       "id": "ev-1ilfbhi",
@@ -1519,7 +1652,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.66
+      "score": 8.37
     },
     {
       "id": "ev-03qwqe9",
@@ -1562,7 +1695,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.3
     },
     {
       "id": "ev-17zpe5y",
@@ -1606,7 +1739,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-0utpy12",
@@ -1649,7 +1782,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.44
+      "score": 8.15
     },
     {
       "id": "ev-1076vcj",
@@ -1693,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.23
+      "score": 8
     },
     {
       "id": "ev-17rkr16",
@@ -1736,7 +1869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.12
+      "score": 8
     },
     {
       "id": "ev-12nrzzu",
@@ -1773,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.95
     },
     {
       "id": "ev-0je6n0j",
@@ -1816,7 +1949,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6
+      "score": 5.71
     },
     {
       "id": "ev-1s9bwjv",
@@ -1859,50 +1992,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.97
-    },
-    {
-      "id": "ev-0kdnp2u",
-      "title": "Frente frío traerá lluvias y tormentas a gran parte del país el sábado",
-      "summary": "La Dirección de Meteorología e Hidrología (DMH) emitió un informe especial por un frente frío que ingresará al país entre las últimas horas del viernes y la madrugada del sábado. Se esperan lluvias y tormentas eléctricas que afectarán sobre todo a la Región Oriental.\n\nSegún el informe, desde la madrugada del sábado el sistema afectará a Ñeembucú, Misiones, Itapúa, Paraguarí, Caazapá, Cordillera, Guairá, Asunción y Central. Durante el día llegará a Alto Paraná, Caaguazú, Presidente Hayes, San Pedro, Boquerón, Canindeyú, Concepción, Amambay y Alto Paraguay. Las tormentas se extenderían hasta la tarde e incluso la noche del sábado 7 de noviembre.\n\nAdemás, se esperan vientos moderados del sector sur, que se mantendrían de manera sostenida tras el ingreso del fenómeno climático.",
-      "keyPoints": [
-        "El frente frío ingresará entre el viernes y la madrugada del sábado.",
-        "Se prevén lluvias y tormentas eléctricas en la Región Oriental.",
-        "Las tormentas se extenderían hasta la noche del sábado."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-11-08T02:59:00.000Z",
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Llega un frente frío y nuevas tormentas",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/07/llega-un-frente-frio-y-nuevas-tormentas",
-          "publishedAt": "2026-11-07T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AzoiYD31m01jvEGmJlzLGFk1dIo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AKJNFYMT6NCQHH3HIK4FZPDAZU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Frente frío y sistema de tormentas llegarán al país desde este sábado",
-          "url": "https://www.lanacion.com.py/pais/2026/11/06/frente-frio-y-sistema-de-tormentas-llegaran-al-pais-desde-este-sabado",
-          "publishedAt": "2026-11-06T23:23:35.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-7ScJwhlUeSnhLJ5AcxR4vXM0yU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GF3DXWC6E5EBBLJKZZG5R4OEUA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AKJNFYMT6NCQHH3HIK4FZPDAZU.jpg?auth=393554c39669da00d651edc5cc90e40b1941506233474f61616152aaa22401d5&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/07/llega-un-frente-frio-y-nuevas-tormentas"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.68
     },
     {
       "id": "ev-1t7huoe",
@@ -1945,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0iomorw",
@@ -1988,7 +2078,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 5
     },
     {
       "id": "ev-0qnwj1a",
@@ -2017,7 +2107,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0zgmwzq",
@@ -2046,7 +2136,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1fk8bre",
@@ -2075,7 +2165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0s4flq8",
@@ -2104,7 +2194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0uv34ba",
@@ -2133,7 +2223,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1mohjha",
@@ -2162,7 +2252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0xc1cqy",
@@ -2195,7 +2285,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.81
     },
     {
       "id": "ev-0ev2pql",
@@ -2227,7 +2317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.05
+      "score": 4.75
     },
     {
       "id": "ev-0ed98jy",
@@ -2262,7 +2352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-11wce0r",
@@ -2298,7 +2388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1krxtgc",
@@ -2331,7 +2421,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0c5l9wi",
@@ -2367,7 +2457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1alysyj",
@@ -2403,7 +2493,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-07r5749",
@@ -2434,7 +2524,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-0jqaiil",
@@ -2470,7 +2560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.21
+      "score": 4
     },
     {
       "id": "ev-07jyx26",
@@ -2506,7 +2596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 4
     },
     {
       "id": "ev-0kavdtc",
@@ -2546,7 +2636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.68
+      "score": 3.39
     },
     {
       "id": "ev-0ibcwvb",
@@ -2578,7 +2668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.5
     },
     {
       "id": "ev-08svwy2",
@@ -2609,7 +2699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 2.78
+      "score": 2.49
     }
   ],
   "runs": [
@@ -2633,6 +2723,13 @@
       "added": 0,
       "updated": 7,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-07T19:37:12.911Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 19
     }
   ]
 }
