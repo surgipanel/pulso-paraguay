@@ -1,19 +1,19 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-07T08:07:19.640Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-07T12:07:11.031Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1yk0pjd",
       "title": "Pedro Alliana asume la Presidencia tras la destitución de Santiago Peña",
-      "summary": "Pedro Alliana juró como presidente de la República este viernes 6 de noviembre, tras la destitución de Santiago Peña por juicio político. Completará el mandato hasta el 15 de agosto de 2028.\n\nEn su primer discurso prometió no dejar solos a los paraguayos y transparencia en su gestión. Anunció recortes de gastos superfluos como primera medida y dijo que enviará al Congreso un proyecto integral de racionalización del gasto público. Según La Nación, es el presidente número 53 de la historia; ABC Color lo cuenta como el número 52.\n\nLa crisis que llevó al cambio de mando se originó en la intervención de Ueno Bank por parte del Banco Central del Paraguay. Con la asunción, la Vicepresidencia queda vacante y el Congreso deberá definir quién la ocupará.",
+      "summary": "Pedro Alliana juró como presidente de la República el viernes 6 de noviembre, después de que el Congreso destituyera a Santiago Peña en juicio político. El presidente del Congreso, Basilio Núñez, le tomó juramento y le entregó la banda y el bastón de mando. En su primer discurso, prometió no dejar solos a los afectados y a los paraguayos. Anunció un proyecto de racionalización del gasto público para eliminar gastos superfluos. Dijo que la prioridad es que los ahorristas de Ueno Bank recuperen su dinero.",
       "keyPoints": [
-        "Alliana juró este viernes 6 de noviembre ante el Congreso Nacional.",
-        "Completará el mandato constitucional hasta el 15 de agosto de 2028.",
-        "Anunció que enviará al Congreso un proyecto de racionalización del gasto público."
+        "Alliana juró el viernes 6 de noviembre tras la destitución de Peña.",
+        "Anunció un proyecto para racionalizar el gasto público.",
+        "Su prioridad es que los ahorristas de Ueno Bank recuperen su dinero."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -21,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Pedro Alliana: “Nuestra prioridad es que los ahorristas recuperen su dinero”",
+          "url": "https://www.ultimahora.com/pedro-alliana-nuestra-prioridad-es-que-los-ahorristas-recuperen-su-dinero",
+          "publishedAt": "2026-11-07T11:33:37.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana sucede al destituido Peña",
+          "url": "https://elnacional.com.py/politica/alliana-sucede-destituido-pena-n114850",
+          "publishedAt": "2026-11-07T08:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea5c704eb2.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -44,6 +60,14 @@
           "url": "https://www.telefuturo.com.py/pedro-alliana-asume-la-presidencia-del-paraguay-tras-la-destitucion-de-santiago-pena",
           "publishedAt": "2026-11-07T00:23:19.000Z",
           "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Nuevo presidente promete “no dejar solos” a afectados de banco intervenido",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/nuevo-presidente-promete-no-dejar-solos-a-afectados-de-banco-intervenido",
+          "publishedAt": "2026-11-07T00:02:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ECU_En9hGRGvdFbVgu3N2OIdCPU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R57W56OJMVB33JOP7NI46QRQY4.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -111,24 +135,24 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2LO4ISTFCZBULKBMWKCLXIN4UQ.jpg?auth=0b595e24c2db4afe82c8a47ef01a5acb000bbc9f6229b7f31d881aac5d800443&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/R57W56OJMVB33JOP7NI46QRQY4.jpeg?auth=d3150373cdb7d9eadf057537a80e3cad2191f375273ed9a4a8d6598ac0272490&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/pedro-alliana-asumio-como-el-presidente-n-53-del-paraguay"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/nuevo-presidente-promete-no-dejar-solos-a-afectados-de-banco-intervenido"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 26.75
+      "score": 29.95
     },
     {
       "id": "ev-0xusz64",
-      "title": "Fiscalía ordena detener a Peña y Carvallo por caso Ueno Bank",
-      "summary": "El Ministerio Público ordenó la detención del expresidente Santiago Peña y del extitular del BCP Carlos Carvallo Spalding. La orden se enmarca en la causa penal N.º 92/2026, por presunta lesión de confianza y otros hechos punibles, y fue remitida a la Comandancia de la Policía Nacional.\n\nSegún la disposición fiscal, Peña debe permanecer detenido en su domicilio hasta ser puesto a disposición de la Unidad Especializada de Delitos Económicos y Anticorrupción. Carvallo debe cumplir la medida en la dependencia que determine la Policía. Las notas no coinciden en todos los detalles sobre el lugar de reclusión de Peña.\n\nLa Fiscalía también imputó a ambos. Los denunciantes sostienen que las autoridades del regulador conocían desde abril de 2026 las dificultades financieras de Ueno Bank y no actuaron a tiempo. Es la versión de los denunciantes y todavía no está probada.",
+      "title": "Carlos Carvallo se entregó y quedó detenido por el caso Ueno Bank",
+      "summary": "El exjefe del Banco Central del Paraguay, Carlos Carvallo, se presentó voluntariamente en la noche del viernes ante el Departamento de Investigaciones de la Policía y quedó detenido. La medida fue dispuesta por el Ministerio Público en la investigación por el caso Ueno Bank.\n\nCarvallo llegó acompañado de su abogado y será trasladado a la Agrupación Especializada, donde permanecerá a disposición de las autoridades. La orden de detención corresponde a la causa penal N.º 92/2026, por lesión de confianza y otros delitos, según reportó La Nación.\n\nCarvallo había renunciado a la presidencia del BCP el 3 de noviembre, en medio de cuestionamientos por la actuación de la institución ante las irregularidades de Ueno Bank. Antes, en 2023, había dirigido la Financiera Ueno. Peña designó como reemplazo a Raúl Vera Bogado, cuyo nombramiento deberá ser aprobado por el Senado.",
       "keyPoints": [
-        "La orden de detención fue dictada en la causa penal N.º 92/2026.",
-        "Peña y Carvallo fueron imputados por presunta lesión de confianza.",
-        "Los denunciantes sostienen que el regulador conocía los problemas desde abril de 2026."
+        "Carvallo se presentó voluntariamente en el Departamento de Investigaciones.",
+        "La orden de detención fue dispuesta por el Ministerio Público.",
+        "Raúl Vera Bogado fue designado nuevo titular del BCP y espera aprobación del Senado."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -136,6 +160,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Carlos Carvallo se entrega tras orden de detención por el caso Ueno",
+          "url": "https://www.adndigital.com.py/carlos-carvallo-se-entrega-tras-orden-de-detencion-por-el-caso-ueno",
+          "publishedAt": "2026-11-07T11:21:19.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente del Banco Central de Paraguay se entrega a autoridades por caso Ueno bank",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-del-banco-central-de-paraguay-se-entrega-a-autoridades-por-caso-ueno-bank",
+          "publishedAt": "2026-11-07T04:40:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "De distinguido titular del BCP a estar preso por caso ueno",
+          "url": "https://elnacional.com.py/politica/de-distinguido-titular-bcp-estar-preso-caso-ueno-n114853",
+          "publishedAt": "2026-11-07T04:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea93f65ee4.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -218,15 +266,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aee61d0db62a.jpg",
+        "url": "https://statics.elnacional.com.py/2026/11/6aeea93f65ee4.jpg",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fiscalia-confirma-detencion-santiago-pena-su-domicilio-n114845"
+        "articleUrl": "https://elnacional.com.py/politica/de-distinguido-titular-bcp-estar-preso-caso-ueno-n114853"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 26.61
+      "score": 26.94
     },
     {
       "id": "ev-0b8o5ab",
@@ -301,7 +349,200 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 20.74
+      "score": 20.41
+    },
+    {
+      "id": "ev-0mc3b0m",
+      "title": "Santiago Peña debe declarar hoy ante la Fiscalía por el caso Ueno Bank",
+      "summary": "El expresidente Santiago Peña fue citado por el Ministerio Público para declarar este sábado a las 11:00, en una investigación por presuntas irregularidades relacionadas con Ueno Bank. Fue destituido por juicio político. Según HOY, pasó la noche en el Regimiento Escolta Presidencial tras la presión social, y esperaba el momento de ir a la Fiscalía. Las notas hablan de un arresto domiciliario o de una detención, pero no lo confirman de forma clara. Peña puede declarar o abstenerse, y rige la presunción de inocencia.",
+      "keyPoints": [
+        "Peña fue citado a declarar este sábado a las 11:00.",
+        "La investigación se relaciona con presuntas irregularidades de Ueno Bank.",
+        "Peña pasó la noche en el Regimiento Escolta Presidencial, según HOY."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
+          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
+          "publishedAt": "2026-11-07T11:58:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
+          "publishedAt": "2026-11-07T09:40:40.705Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
+          "publishedAt": "2026-11-06T23:58:51.992Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña, detenido en su domicilio",
+          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
+          "publishedAt": "2026-11-06T23:39:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
+          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
+          "publishedAt": "2026-11-06T23:37:45.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
+      "updatedSlot": "manana",
+      "score": 17.99
+    },
+    {
+      "id": "ev-0n1hykn",
+      "title": "Santiago Peña es trasladado al Regimiento Escolta tras escraches frente a su casa",
+      "summary": "El expresidente Santiago Peña pasó la noche en el Regimiento Escolta Presidencial. Según ABC Color, fue trasladado desde su casa en el barrio Mbocayaty, minutos antes de la medianoche. El motivo oficial son medidas de seguridad. La decisión se tomó después de incidentes entre manifestantes y policías frente a la vivienda.\n\nEl Senado lo destituyó tras un juicio político por la crisis de Ueno Bank, y la Fiscalía ordenó su detención domiciliaria. Un grupo de manifestantes pedía que cumpla prisión y no arresto domiciliario. Al salir, vecinos le arrojaron huevos e insultos, según la nota.\n\nLas notas no dicen si el cambio de lugar fue autorizado por el Ministerio Público o por un juzgado, ni bajo qué condiciones permanecerá en el regimiento.",
+      "keyPoints": [
+        "Peña fue trasladado al Regimiento Escolta por motivos de seguridad, según el comunicado oficial.",
+        "La Fiscalía había ordenado su detención domiciliaria en la causa por Ueno Bank.",
+        "No se informó quién autorizó el cambio de lugar."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Peña pasó la noche en el Regimiento Escolta tras escraches",
+          "url": "https://www.adndigital.com.py/pena-paso-la-noche-en-el-regimiento-escolta-tras-escraches",
+          "publishedAt": "2026-11-07T10:55:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/regimiento-escolta-presidencial.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trasladan al expresidente Santiago Peña al Regimiento Escolta tras ser escrachado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/trasladan-al-expresidente-santiago-pena-al-regimiento-escolta-tras-ser-escrachado",
+          "publishedAt": "2026-11-07T03:32:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aWqKXsPDtjM6RU253jdf4hKA6vQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BYIM2EHQDBGY5NQ3N6FWMDSED4.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
+          "publishedAt": "2026-11-07T03:07:31.000Z",
+          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santiago Peña fue trasladado al Regimiento Escolta Presidencial por motivos de seguridad",
+          "url": "https://www.ultimahora.com/santiago-pena-fue-trasladado-al-regimiento-escolta-presidencial-por-motivos-de-seguridad",
+          "publishedAt": "2026-11-07T03:02:21.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/regimiento-escolta-presidencial.png",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/pena-paso-la-noche-en-el-regimiento-escolta-tras-escraches"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
+      "updatedSlot": "manana",
+      "score": 17.9
+    },
+    {
+      "id": "ev-0j1puov",
+      "title": "Antonio Barrios jura como vicepresidente de la República en sesión del Congreso",
+      "summary": "El senador colorado Antonio “Tony” Barrios juró como vicepresidente de la República ante el Congreso Nacional. Ocupa el cargo que quedó vacante cuando Pedro Alliana asumió la Presidencia tras la destitución de Santiago Peña. Según La Nación, Barrios cubrirá el periodo restante del mandato, que se extiende hasta agosto de 2028.\n\nAntes del juramento se aceptó la renuncia de Barrios como senador y volvió al Senado la suplente Guadalupe Aveiro. En su discurso agradeció a Dios, a su familia y al Partido Colorado, y destacó a Horacio Cartes como su líder. Al retirarse dijo que Cartes le pidió “trabajar, trabajar y trabajar”.\n\nLa designación se hizo según el Artículo 234 de la Constitución, que prevé el procedimiento ante la vacancia definitiva de cargos del Ejecutivo.",
+      "keyPoints": [
+        "Barrios ocupará la Vicepresidencia hasta agosto de 2028.",
+        "Guadalupe Aveiro volvió al Senado como suplente.",
+        "Barrios llamó a Horacio Cartes su líder en el discurso."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cartes ubica a Antonio Barrios en la Vicepresidencia",
+          "url": "https://elnacional.com.py/politica/cartes-ubica-antonio-barrios-vicepresidencia-n114852",
+          "publishedAt": "2026-11-07T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea7cfa7a1f.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Antonio Barrios juró como nuevo vicepresidente de la República",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/antonio-barrios-juro-como-nuevo-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-07T05:06:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/40NabKf9uxuiTtcMSJdeStmaIWM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L2NLXX7FKVBNRBQOPHWCJYJWVU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Antonio Barrios jura como vicepresidente: Pedirán ayuda exterior para recuperar dinero",
+          "url": "https://www.abc.com.py/politica/2026/11/06/antonio-barrios-jura-como-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-06T23:41:26.000Z",
+          "image": "https://www.abc.com.py/resizer/uu_lAKUhmegN6UKhoLlXWj44Xbg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MADCGXFI3JEOZPVSZ73HHYJZRM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Antonio Barrios juró como vicepresidente de la República",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/antonio-barrios-juro-como-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-06T23:29:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TXxgtKxX53TyGPQTg_9Sc_hg4hI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55HEFARVSBAWTIOGCB5UWJUJ6Y.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Antonio Barrios es elegido nuevo vicepresidente de la República",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/antonio-barrios-es-elegido-nuevo-vicepresidente-de-la-republica",
+          "publishedAt": "2026-11-06T23:22:45.189Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/H2U3ITN65ZHBNIJYNM7VVOR35U.jfif?auth=97e5d8924311f951c50fe6b4fe2f5b0047165d06bfc3ac275a5b7687221456e3&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/L2NLXX7FKVBNRBQOPHWCJYJWVU.jpg?auth=c060e986e43fb2e2a280b464db85fac950d20cc4f6bff8eb29e1b2726128744f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/antonio-barrios-juro-como-nuevo-vicepresidente-de-la-republica"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
+      "updatedSlot": "manana",
+      "score": 17.8
     },
     {
       "id": "ev-1jscmhy",
@@ -369,17 +610,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 17.59
+      "score": 17.26
     },
     {
       "id": "ev-0zm6mzw",
-      "title": "Abogados de Peña dicen que el juicio político sería nulo y cuestionan la renuncia",
-      "summary": "Los abogados Adolfo Ferreiro y Ricardo Preda defendieron a Santiago Peña ante el Senado en el juicio político. Sostienen que el proceso podría ser declarado nulo en instancias internacionales por no respetar el debido proceso.\n\nLa defensa afirma que la renuncia de Peña debió aceptarse y que su renuncia extinguiría el juicio. Ferreiro citó casos anteriores en el país en los que no se respetó el debido proceso y advirtió que continuar podría llevar a una condena internacional al Estado.\n\nLos abogados también rechazaron las acusaciones por falta de pruebas y cuestionaron la prórroga de 72 horas que fue negada. Estas son posiciones de la defensa, según los medios que las recogieron.",
+      "title": "Defensa de Peña sostiene que la renuncia debe poner fin al juicio",
+      "summary": "Los abogados de Santiago Peña, Adolfo Ferreiro y Ricardo Preda, sostuvieron ante el Senado que la renuncia del mandatario debe extinguir el juicio político. Ferreiro argumentó que ese procedimiento solo se aplica a quienes ejercen los cargos previstos en la Constitución.\n\nLos defensores también cuestionaron la validez del proceso y denunciaron vulneraciones al derecho a la defensa. Según su posición, la acusación no tiene pruebas suficientes. Advirtieron que seguir con el juicio pese a la renuncia podría derivar en demandas ante organismos internacionales.\n\nPeña no se presentó en el Congreso y sus abogados asumieron su defensa. El senador Rafael Filizzola criticó esa defensa técnica y advirtió que una eventual renuncia no sería suficiente para impedir que Peña acceda a la senaduría vitalicia.",
       "keyPoints": [
-        "La defensa de Peña sostiene que el juicio político sería nulo.",
-        "Los abogados afirman que la renuncia debió aceptarse.",
-        "La defensa dice que la prórroga de 72 horas fue negada.",
-        "Ferreiro advirtió sobre una posible condena internacional."
+        "La defensa sostiene que la renuncia extingue el juicio político.",
+        "Los abogados alegan falta de pruebas y vulneración del derecho a la defensa.",
+        "Peña no asistió al Senado y fue representado por sus abogados."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -387,6 +627,38 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado inició la última sesión en la que definirá la sentencia de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/senado-inicio-la-ultima-sesion-en-la-que-definira-la-sentencia-de-pena",
+          "publishedAt": "2026-11-06T21:15:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LO3psVmpoXXPq0xDDmLXsT2V09o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CVH5LEIJX5EBHBZQKLTEEI4JYQ.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Repercusiones tras defensa técnica de Santiago Peña",
+          "url": "https://www.telefuturo.com.py/repercusiones-tras-defensa-tecnica-de-santiago-pena",
+          "publishedAt": "2026-11-06T20:28:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Abogados de Santiago Peña ejercen la defensa técnica",
+          "url": "https://www.telefuturo.com.py/abogados-de-santiago-pena-ejercen-la-defensa-tecnica",
+          "publishedAt": "2026-11-06T20:04:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Defensa de Santiago Peña afirma que su renuncia deja sin efecto el juicio político",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/defensa-de-santiago-pena-afirma-que-su-renuncia-deja-sin-efecto-el-juicio-politico",
+          "publishedAt": "2026-11-06T17:28:04.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -404,91 +676,92 @@
           "image": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg"
         },
         {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Defensa de Santiago Peña afirma que su renuncia deja sin efecto el juicio político",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/defensa-de-santiago-pena-afirma-que-su-renuncia-deja-sin-efecto-el-juicio-politico",
-          "publishedAt": "2026-11-06T17:28:04.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Abogados de Santiago Peña ejercen la defensa técnica",
-          "url": "https://www.telefuturo.com.py/abogados-de-santiago-pena-ejercen-la-defensa-tecnica",
-          "publishedAt": "2026-11-06T20:04:45.000Z",
-          "image": null
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Peña no se presentó ante el Senado y sus abogados llegaron al Congreso para ejercer su defensa",
+          "url": "https://elnacional.com.py/politica/pena-presento-senado-sus-abogados-llegaron-congreso-ejercer-su-defensa-n114821",
+          "publishedAt": "2026-11-06T16:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedfe41c02ea.jpeg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2TQLA3WGDZBHHCWJZOSOYSVO7I.jpeg?auth=cee61a19066be9be294f37973775c2c97a771ea0be7ab1aa837bc7b3e9f16ae6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/defensa-de-pena-sostiene-que-juicio-politico-seria-nulo-y-cuestiona-rechazo-de-su-renuncia"
+        "url": "https://statics.elnacional.com.py/2026/11/6aedff32b4787.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/defensa-pena-ferreiro-sostiene-renuncia-presidencia-debe-poner-fin-juicio-politico-n114827"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17
+      "score": 16.76
     },
     {
-      "id": "ev-0j1puov",
-      "title": "Antonio Barrios juró como vicepresidente de la República tras la destitución de Peña",
-      "summary": "El senador colorado Antonio Barrios prestó juramento como vicepresidente de la República ante la sesión plenaria del Congreso Nacional. Con este acto se completa la reconfiguración del Poder Ejecutivo que comenzó con la destitución de Santiago Peña por juicio político, en el marco del caso Ueno Bank. Pedro Alliana asumió la Presidencia para cubrir la vacancia, y el cargo de vicepresidente había quedado sin titular.\n\nSegún las notas, Barrios juró con la mano sobre la Constitución, en aplicación del artículo 234 de la Carta Magna. Su mandato se extiende hasta agosto de 2028. Antes de retirarse, agradeció a Dios, a su familia y al Partido Colorado, y mencionó a Horacio Cartes, quien le pidió, según relató, únicamente trabajar.",
+      "id": "ev-0l69abg",
+      "title": "Casi 1.200.000 ahorristas de Ueno ya recibieron su dinero del Fondo de Garantía",
+      "summary": "El Banco Central del Paraguay (BCP) informó que unos 1.196.000 ahorristas de Ueno Bank ya recibieron el pago de sus depósitos. El dinero sale del Fondo de Garantía de Depósitos, una reserva que sirve para que los ahorristas cobren si un banco cierra. Según el ministro de Economía, Óscar Lovera, el monto total llega a USD 160 millones.\n\nLos pagos empezaron el jueves por la noche y siguieron el viernes. Primero cobraron quienes tenían entre 1 y 10 millones de guaraníes. El viernes se hicieron las transferencias a quienes tenían entre 10 millones y 228.300.000 guaraníes, el tope que cubre el fondo. Para cobrar, los ahorristas debían registrarse en una plataforma del regulador y tener cuenta en otro banco o financiera del país.\n\nLa conferencia se hizo en el Palacio de López, después de una reunión con el presidente Pedro Alliana. Las autoridades dijeron que seguirán informando sobre el avance de los pagos.",
       "keyPoints": [
-        "Antonio Barrios juró como vicepresidente ante el Congreso Nacional.",
-        "Asumió tras la destitución de Santiago Peña y la asunción de Pedro Alliana.",
-        "El mandato se extiende hasta agosto de 2028."
+        "El BCP informó que 1.196.000 personas ya recibieron su dinero.",
+        "Los pagos salen del Fondo de Garantía de Depósitos.",
+        "Según el MEF, el monto total llega a USD 160 millones.",
+        "Los pagos se hicieron por tramos según el saldo de cada cuenta."
       ],
-      "category": "politica",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Antonio Barrios juró como vicepresidente de la República",
-          "url": "https://www.lanacion.com.py/politica/2026/11/06/antonio-barrios-juro-como-vicepresidente-de-la-republica",
-          "publishedAt": "2026-11-06T23:29:40.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TXxgtKxX53TyGPQTg_9Sc_hg4hI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/55HEFARVSBAWTIOGCB5UWJUJ6Y.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Ueno Bank: casi 1.200.000 ahorristas ya recibieron su dinero, dice el BCP",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-ueno-bank-casi-1200000-ahorristas-ya-recibieron-su-dinero-dice-el-bcp",
+          "publishedAt": "2026-11-07T11:56:11.000Z",
+          "image": "https://www.abc.com.py/resizer/5aB2xendKSpPvY69RW5hta-C7x8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MTMLZCG5OFC7HJ2V7VWZ4WAY4E.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Más de un millón de ahorristas de ueno ya recibieron su dinero y monto totaliza USD 160 millones",
+          "url": "https://www.ultimahora.com/mas-de-un-millon-de-ahorristas-de-ueno-ya-recibieron-su-dinero-y-monto-totaliza-usd-160-millones",
+          "publishedAt": "2026-11-07T11:56:02.000Z",
+          "image": null
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Antonio Barrios juró como nuevo vicepresidente de la República",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/antonio-barrios-juro-como-nuevo-vicepresidente-de-la-republica",
-          "publishedAt": "2026-11-07T05:06:45.000Z",
-          "image": "https://www.lanacion.com.py/resizer/40NabKf9uxuiTtcMSJdeStmaIWM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L2NLXX7FKVBNRBQOPHWCJYJWVU.jpg"
+          "title": "Caso ueno bank: pago de garantías ya llegó a 1.200.000 afectados",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/caso-ueno-bank-pago-de-garantias-ya-llego-a-1200000-afectados",
+          "publishedAt": "2026-11-07T11:23:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dTksvVm6sMWzPl2pEYsxLQGUxPM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DZQSHA42FRB2XKNPWBKM4FMJBA.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Antonio Barrios jura como vicepresidente: Pedirán ayuda exterior para recuperar dinero",
-          "url": "https://www.abc.com.py/politica/2026/11/06/antonio-barrios-jura-como-vicepresidente-de-la-republica",
-          "publishedAt": "2026-11-06T23:41:26.000Z",
-          "image": "https://www.abc.com.py/resizer/uu_lAKUhmegN6UKhoLlXWj44Xbg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MADCGXFI3JEOZPVSZ73HHYJZRM.jpeg"
+          "title": "Ueno Bank: casi 1.200.000 ahorristas ya recibieron su dinero, dice el BCP",
+          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-casi-1200000-ahorristas-ya-recibieron-su-dinero-dice-el-bcp",
+          "publishedAt": "2026-11-07T11:10:23.000Z",
+          "image": "https://www.abc.com.py/resizer/OD4MEBWXEJFrzx5_p7c11iyOLVY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JVYS536EMBEQHOQ7GOSBJCNPHE.jpg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Antonio Barrios es elegido nuevo vicepresidente de la República",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/antonio-barrios-es-elegido-nuevo-vicepresidente-de-la-republica",
-          "publishedAt": "2026-11-06T23:22:45.189Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/H2U3ITN65ZHBNIJYNM7VVOR35U.jfif?auth=97e5d8924311f951c50fe6b4fe2f5b0047165d06bfc3ac275a5b7687221456e3&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Comenzó la devolución gradual de los depósitos",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/comenzo-la-devolucion-gradual-de-los-depositos",
+          "publishedAt": "2026-11-07T04:26:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5QSbHHfNxqLPlS-yBqq0r3-Xefg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AK6QB4W2AFEMZL22XKTKWZB7SE.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/55HEFARVSBAWTIOGCB5UWJUJ6Y.jpeg?auth=f6fb0996ad1987b23f46061ad99a92eb7c43ffeebc388de3a90e654bb8580b31&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/06/antonio-barrios-juro-como-vicepresidente-de-la-republica"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MTMLZCG5OFC7HJ2V7VWZ4WAY4E.jpg?auth=a27ced3da77e212921d94f06e4befc5116488d5a7b75bd7e5eb9cd484b3dcbbc&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-ueno-bank-casi-1200000-ahorristas-ya-recibieron-su-dinero-dice-el-bcp"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 14.75
+      "score": 14.98
     },
     {
       "id": "ev-0dk7f43",
@@ -547,7 +820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 14.68
+      "score": 14.35
     },
     {
       "id": "ev-1icqc6y",
@@ -607,7 +880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 14.6
+      "score": 14.27
     },
     {
       "id": "ev-09l09ng",
@@ -691,7 +964,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.57
     },
     {
       "id": "ev-0offbp4",
@@ -743,18 +1016,77 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.68
+      "score": 13.34
     },
     {
-      "id": "ev-0n1hykn",
-      "title": "Trasladan a Santiago Peña al Regimiento Escolta Presidencial por motivos de seguridad",
-      "summary": "El expresidente Santiago Peña fue trasladado desde su vivienda en Asunción hasta el Regimiento Escolta Presidencial. El motivo oficial son medidas de seguridad, en medio de protestas frente a su casa. Peña había sido destituido por el Congreso y, según la Fiscalía, cumplía detención domiciliaria dentro de la causa por presunta lesión de confianza vinculada al caso Ueno Bank.\n\nSegún ABC Color, al menos cuatro camionetas salieron de la vivienda y vecinos le arrojaron huevos mientras el convoy se retiraba. Hasta el cierre de las notas no se informó si el cambio de lugar fue autorizado por el Ministerio Público o por un juzgado, ni bajo qué condiciones permanecerá en el regimiento.",
+      "id": "ev-0pfv14c",
+      "title": "Olimpia visita a Guaraní en Encarnación por la fecha 19 del Clausura",
+      "summary": "Guaraní recibe hoy a Olimpia en el estadio Villa Alegre de Encarnación, por la fecha 19 del torneo Clausura 2026. El partido, conocido como el clásico añejo, empieza a las 17:00 y las entradas están agotadas. Olimpia llega como líder, a siete puntos del segundo, con cuatro victorias seguidas, y busca acercarse al bicampeonato. Guaraní viene de ganar 1-0 a Ameliano y necesita sumar para pelear por la Copa Sudamericana 2027.",
       "keyPoints": [
-        "Peña fue trasladado al Regimiento Escolta Presidencial en la madrugada.",
-        "El motivo oficial son medidas de seguridad.",
-        "No se informó quién autorizó el traslado."
+        "Guaraní recibe a Olimpia hoy a las 17:00 en Encarnación.",
+        "Olimpia es líder y suma cuatro triunfos seguidos.",
+        "Guaraní busca clasificar a la Copa Sudamericana 2027."
       ],
-      "category": "politica",
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El clásico añejo es clave",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave",
+          "publishedAt": "2026-11-07T03:06:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7tX6e_UcOXnNGZu_CAIHVYoV2aw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
+          "publishedAt": "2026-11-06T23:56:10.000Z",
+          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg?auth=08b7b06444262cee56660dda7ce19ecc25eb804b5e0e26df1beec1b25799d222&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
+      "updatedSlot": "manana",
+      "score": 11.32
+    },
+    {
+      "id": "ev-057tbwt",
+      "title": "Comenzó el pago al segundo grupo de ahorristas de Ueno Bank",
+      "summary": "El Banco Central del Paraguay informó que comenzó el pago al segundo grupo de ahorristas de Ueno Bank, con fondos del Fondo de Garantía de Depósitos. Alcanza a depósitos a la vista de más de G. 10 millones y de hasta G. 121.760.000. Para cobrar, el ahorrista debe no tener deudas con el banco, como préstamos o tarjetas, y tener una cuenta habilitada en otro banco o financiera del país. El dinero se acredita directamente en esa cuenta, sin retiro en efectivo. La forma de pago de los próximos grupos se publicará más adelante por los canales oficiales del BCP.",
+      "keyPoints": [
+        "El pago alcanza a depósitos de más de G. 10 millones y hasta G. 121.760.000.",
+        "Hay que no tener deudas con Ueno Bank y tener otra cuenta bancaria.",
+        "Los fondos se acreditan en cuentas bancarias, no en efectivo."
+      ],
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
@@ -763,89 +1095,38 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Trasladan al expresidente Santiago Peña al Regimiento Escolta tras ser escrachado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/trasladan-al-expresidente-santiago-pena-al-regimiento-escolta-tras-ser-escrachado",
-          "publishedAt": "2026-11-07T03:32:46.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aWqKXsPDtjM6RU253jdf4hKA6vQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BYIM2EHQDBGY5NQ3N6FWMDSED4.jpeg"
+          "title": "Arranca el pago al segundo grupo de ahorristas de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/07/arranca-el-pago-al-segundo-grupo-de-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-07T11:33:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jFh3BTY50abwRmuwdcQ5HF1rHhI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JKWRUT74MBGQTAL7AVXGFU5I2Q.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
-          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
-          "publishedAt": "2026-11-07T03:07:31.000Z",
-          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
+          "title": "Ueno bank: segundo grupo de ahorristas empieza a cobrar del Fondo de Garantía de Depósitos",
+          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-segundo-grupo-de-ahorristas-empieza-a-cobrar-del-fondo-de-garantia-de-depositos",
+          "publishedAt": "2026-11-07T04:57:17.000Z",
+          "image": "https://www.abc.com.py/resizer/UqIQfxGQsEjkw9XfYw5-p2O1egw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/663T2LTZZVGTZENQED3X3Y634Q.jpg"
         },
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Santiago Peña fue trasladado al Regimiento Escolta Presidencial por motivos de seguridad",
-          "url": "https://www.ultimahora.com/santiago-pena-fue-trasladado-al-regimiento-escolta-presidencial-por-motivos-de-seguridad",
-          "publishedAt": "2026-11-07T03:02:21.000Z",
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Celeridad en los desembolsos con los fondos de garantía",
+          "url": "https://www.lanacion.com.py/editorial/2026/11/07/celeridad-en-los-desembolsos-con-los-fondos-de-garantia",
+          "publishedAt": "2026-11-07T03:27:48.000Z",
           "image": null
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BYIM2EHQDBGY5NQ3N6FWMDSED4.jpeg?auth=ac0406bb2e8fdc9e520ef0118ea2b99ab7f48b8a92be41e5d30d6fa7a6c4ec16&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/07/trasladan-al-expresidente-santiago-pena-al-regimiento-escolta-tras-ser-escrachado"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/663T2LTZZVGTZENQED3X3Y634Q.jpg?auth=f3447ab5dbcf036f706f4c83267c52ae9d4cd78ac835e203b43d883aa0e3b646&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-segundo-grupo-de-ahorristas-empieza-a-cobrar-del-fondo-de-garantia-de-depositos"
       },
       "firstSeenAt": "2026-11-07T08:07:19.640Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
+      "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 13.62
-    },
-    {
-      "id": "ev-0mc3b0m",
-      "title": "Peña queda bajo arresto domiciliario y debe declarar el sábado a las 11:00",
-      "summary": "El expresidente Santiago Peña permanece en su domicilio bajo custodia policial tras la orden de detención. Según Telefuturo, el requerimiento ingresó a la Comandancia de la Policía Nacional a las 19:20 y, alrededor de las 20:00, agentes llegaron a su residencia.\n\nPeña deberá presentarse en la sede del Ministerio Público este sábado a las 11:00 para prestar declaración indagatoria, según las notas. La medida se enmarca en la causa penal N.º 92/2026, por presunta lesión de confianza y otros hechos punibles vinculados al caso Ueno Bank.\n\nPeña es acusado en esta causa y no fue condenado. Las notas no informan todavía el contenido de su declaración.",
-      "keyPoints": [
-        "Peña permanece en su residencia bajo custodia policial.",
-        "Debe presentarse ante el Ministerio Público este sábado a las 11:00.",
-        "La causa se refiere a presunta lesión de confianza en el caso Ueno Bank."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
-          "publishedAt": "2026-11-06T23:58:51.992Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Santiago Peña, detenido en su domicilio",
-          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
-          "publishedAt": "2026-11-06T23:39:08.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
-          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
-          "publishedAt": "2026-11-06T23:37:45.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 13.32
+      "score": 10.95
     },
     {
       "id": "ev-0ey1qtg",
@@ -896,51 +1177,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 10.64
-    },
-    {
-      "id": "ev-057tbwt",
-      "title": "BCP inicia el pago a un segundo grupo de ahorristas de Ueno Bank",
-      "summary": "El Banco Central del Paraguay (BCP) comenzó a pagar al segundo grupo de ahorristas de Ueno Bank. El dinero sale del Fondo de Garantía de Depósitos (FGD). Para cobrar, el ahorrista debe cumplir todas las condiciones, no solo algunas.\n\nSegún el comunicado del BCP, cobran quienes tengan depósitos a la vista de más de G. 10.000.000 y hasta G. 121.760.000. También deben no tener deudas con Ueno, sean préstamos, tarjetas u otros productos, y contar con una cuenta habilitada en otro banco o financiera del país. Los pagos no se hacen en ventanilla: se acreditan directamente en esas cuentas.\n\nEl requisito de no tener deudas es el que más puede generar reclamos. Un ahorrista con saldo dentro del rango, pero con un préstamo o tarjeta pendiente, queda fuera de este grupo. El BCP todavía no fijó fecha para los próximos grupos; dijo que la forma de pago se publicará “próximamente” por sus canales oficiales.",
-      "keyPoints": [
-        "El segundo grupo cobra depósitos a la vista de G. 10.000.000 a G. 121.760.000.",
-        "No deben tener deudas con Ueno Bank y necesitan una cuenta en otra entidad del país.",
-        "Los pagos se acreditan en cuentas bancarias, no en ventanilla.",
-        "El BCP no informó todavía la fecha de los próximos grupos."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno bank: segundo grupo de ahorristas empieza a cobrar del Fondo de Garantía de Depósitos",
-          "url": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-segundo-grupo-de-ahorristas-empieza-a-cobrar-del-fondo-de-garantia-de-depositos",
-          "publishedAt": "2026-11-07T04:57:17.000Z",
-          "image": "https://www.abc.com.py/resizer/UqIQfxGQsEjkw9XfYw5-p2O1egw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/663T2LTZZVGTZENQED3X3Y634Q.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Celeridad en los desembolsos con los fondos de garantía",
-          "url": "https://www.lanacion.com.py/editorial/2026/11/07/celeridad-en-los-desembolsos-con-los-fondos-de-garantia",
-          "publishedAt": "2026-11-07T03:27:48.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/663T2LTZZVGTZENQED3X3Y634Q.jpg?auth=f3447ab5dbcf036f706f4c83267c52ae9d4cd78ac835e203b43d883aa0e3b646&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-segundo-grupo-de-ahorristas-empieza-a-cobrar-del-fondo-de-garantia-de-depositos"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 9.74
+      "score": 10.31
     },
     {
       "id": "ev-16i1a64",
@@ -983,7 +1220,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.06
     },
     {
       "id": "ev-116ceqg",
@@ -1026,7 +1263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.35
+      "score": 9.02
     },
     {
       "id": "ev-1ilfbhi",
@@ -1069,7 +1306,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 8.99
     },
     {
       "id": "ev-03qwqe9",
@@ -1112,7 +1349,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.26
+      "score": 8.93
     },
     {
       "id": "ev-17zpe5y",
@@ -1156,7 +1393,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.12
+      "score": 8.79
     },
     {
       "id": "ev-0utpy12",
@@ -1199,7 +1436,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.11
+      "score": 8.78
     },
     {
       "id": "ev-1076vcj",
@@ -1243,7 +1480,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.89
+      "score": 8.56
     },
     {
       "id": "ev-17rkr16",
@@ -1286,7 +1523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.45
     },
     {
       "id": "ev-1yka128",
@@ -1337,58 +1574,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.08
-    },
-    {
-      "id": "ev-0pfv14c",
-      "title": "Olimpia visita a Guaraní en Encarnación con la mira en el bicampeonato",
-      "summary": "El líder Olimpia visita a Guaraní este sábado a las 17:00 en el estadio Villa Alegre de Encarnación, por la fecha 19 del Clausura 2026. Es el “clásico más añejo” y se espera un estadio colmado, con más de 12.500 espectadores. Las entradas están agotadas en la mayoría de los sectores.\n\nOlimpia llega con cuatro victorias seguidas y con el objetivo de dar un paso hacia el bicampeonato. En la primera rueda, Guaraní le empató 1-1. Es la primera vez que el Decano juega por el torneo oficial en Encarnación esta temporada.\n\nEl partido se transmite por Tigo Sports y por ABC Cardinal 730 AM, ABC del Este 107.1 FM y ABC Paraguay en YouTube.",
-      "keyPoints": [
-        "Olimpia visita a Guaraní este sábado a las 17:00 en Encarnación.",
-        "Olimpia llega con cuatro victorias seguidas.",
-        "Se espera más de 12.500 espectadores en el Villa Alegre."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
-          "publishedAt": "2026-11-06T23:56:10.000Z",
-          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg?auth=7ed5555b84ae3a9232a298c410851fe8743b32b93d67380d3a26084f1d0a5102&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 7.66
+      "score": 7.74
     },
     {
       "id": "ev-12nrzzu",
@@ -1425,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.57
     },
     {
       "id": "ev-0je6n0j",
@@ -1468,7 +1654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.67
+      "score": 6.34
     },
     {
       "id": "ev-1s9bwjv",
@@ -1511,7 +1697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.64
+      "score": 6.31
     },
     {
       "id": "ev-0kdnp2u",
@@ -1554,7 +1740,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1t7huoe",
@@ -1597,7 +1783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0iomorw",
@@ -1640,7 +1826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.61
     },
     {
       "id": "ev-0qnwj1a",
@@ -1669,7 +1855,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0zgmwzq",
@@ -1698,7 +1884,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1fk8bre",
@@ -1727,7 +1913,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0s4flq8",
@@ -1756,7 +1942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0uv34ba",
@@ -1785,7 +1971,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1mohjha",
@@ -1814,7 +2000,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0xc1cqy",
@@ -1847,7 +2033,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.77
+      "score": 5.43
     },
     {
       "id": "ev-0ev2pql",
@@ -1879,43 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.71
-    },
-    {
-      "id": "ev-0l69abg",
-      "title": "Ahorristas de ueno bank reciben la devolución gradual de sus depósitos",
-      "summary": "Los ahorristas de ueno bank empezaron a recuperar los depósitos congelados por el Banco Central del Paraguay (BCP). La devolución comenzó la noche del jueves con fondos del Fondo de Garantía de Depósitos (FGD), que administra la banca matriz, y continuó al día siguiente.\n\nPara cobrar en las primeras reposiciones, los clientes debían tener depósitos de hasta G. 10 millones, no tener deudas con la entidad y contar con una cuenta habilitada en otro banco o financiera del país. Si el total no supera los G. 10 millones, se recibe la totalidad. La banca matriz habilitó tres direcciones web para cargar los datos y elegir el banco de destino.",
-      "keyPoints": [
-        "La devolución de depósitos comenzó la noche del jueves y siguió al día siguiente.",
-        "Los fondos corresponden al Fondo de Garantía de Depósitos (FGD).",
-        "Podían acceder clientes con depósitos de hasta G. 10 millones, sin deudas con la entidad.",
-        "La banca matriz habilitó tres direcciones web para el trámite."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Comenzó la devolución gradual de los depósitos",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/comenzo-la-devolucion-gradual-de-los-depositos",
-          "publishedAt": "2026-11-07T04:26:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/5QSbHHfNxqLPlS-yBqq0r3-Xefg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AK6QB4W2AFEMZL22XKTKWZB7SE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AK6QB4W2AFEMZL22XKTKWZB7SE.jpg?auth=d590c409ee619267588fc7d1f2c4f0802b0a8b569bd1e1bd2fc590c53a947b76&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/comenzo-la-devolucion-gradual-de-los-depositos"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T08:07:19.640Z",
-      "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.38
     },
     {
       "id": "ev-0ed98jy",
@@ -1950,7 +2100,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-11wce0r",
@@ -1986,7 +2136,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1krxtgc",
@@ -2019,7 +2169,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0c5l9wi",
@@ -2055,7 +2205,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1alysyj",
@@ -2091,7 +2241,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-07r5749",
@@ -2122,7 +2272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.55
     },
     {
       "id": "ev-0jqaiil",
@@ -2158,7 +2308,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.54
     },
     {
       "id": "ev-07jyx26",
@@ -2194,7 +2344,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.45
     },
     {
       "id": "ev-0kavdtc",
@@ -2234,7 +2384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.01
     },
     {
       "id": "ev-0ibcwvb",
@@ -2266,7 +2416,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.46
+      "score": 3.13
     },
     {
       "id": "ev-08svwy2",
@@ -2297,7 +2447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.45
+      "score": 3.12
     }
   ],
   "runs": [
@@ -2307,6 +2457,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 80
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-07T12:07:11.031Z",
+      "added": 0,
+      "updated": 10,
+      "candidates": 23
     }
   ]
 }
