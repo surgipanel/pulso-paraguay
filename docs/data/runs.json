@@ -1,5 +1,34 @@
 [
   {
+    "startedAt": "2026-11-08T12:07:10.881Z",
+    "finishedAt": "2026-11-08T12:11:19.245Z",
+    "edition": "2026-11-08",
+    "slot": "manana",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 267,
+    "clusters": 208,
+    "candidates": 12,
+    "added": 0,
+    "updated": 11,
+    "eventsTotal": 50,
+    "sourcesOk": 8,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 2,
+      "aiErrors": [],
+      "inputTokens": 56830,
+      "outputTokens": 30339,
+      "cacheReadTokens": 13860,
+      "cacheWriteTokens": 0,
+      "fallbacks": 0
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-08T08:07:13.644Z",
     "finishedAt": "2026-11-08T08:12:56.187Z",
     "edition": "2026-11-08",
@@ -2200,33 +2229,6 @@
       "aiErrors": [],
       "inputTokens": 12658,
       "outputTokens": 10388,
-      "fallbacks": 0
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-10-25T19:37:14.401Z",
-    "finishedAt": "2026-10-25T19:39:43.715Z",
-    "edition": "2026-10-25",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 267,
-    "clusters": 216,
-    "candidates": 12,
-    "added": 0,
-    "updated": 2,
-    "eventsTotal": 50,
-    "sourcesOk": 7,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 2,
-      "aiErrors": [],
-      "inputTokens": 9875,
-      "outputTokens": 12980,
       "fallbacks": 0
     },
     "forced": false

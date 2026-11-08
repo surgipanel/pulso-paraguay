@@ -1,19 +1,19 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-08T08:07:13.644Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-08T12:07:10.881Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0mmxdfa",
-      "title": "Fiscalía imputa a Santiago Peña y Carlos Carvallo y pide prisión preventiva",
-      "summary": "La Fiscalía imputó al expresidente Santiago Peña y al extitular del Banco Central del Paraguay, Carlos Carvallo, en la causa por el caso Ueno Bank, y pidió la prisión preventiva para ambos. Es un paso clave en una investigación que ya tiene a Peña fuera de la Presidencia tras su destitución por juicio político.\n\nA Peña se le atribuyen lesión de confianza, como instigador, y administración en provecho propio, como autor. Según la hipótesis fiscal, habría influido en la colocación de recursos públicos en el banco, con el que mantenía vínculos económicos a través de ueno Holding SAECA. A Carvallo se le atribuyen lesión de confianza, administración en provecho propio y producción inmediata de documentos públicos de contenido falso.\n\nLos fiscales dicen tener informes técnicos, actas y testimonios que sustentan las sospechas. Según la hipótesis fiscal, entre 2023 y 2026 el banco habría recibido depósitos de entidades públicas y previsionales. Por ahora son imputaciones, no condenas.",
+      "title": "Fiscalía imputa a Carlos Carvallo, expresidente del BCP, en caso ueno bank",
+      "summary": "El Ministerio Público imputó al expresidente del Banco Central del Paraguay, Carlos Carvallo, por lesión de confianza, producción inmediata de documentos públicos de contenido falso y administración en provecho propio, todos en calidad de autor. Se trata de una imputación; el caso sigue en investigación.\n\nLa Fiscalía investiga su actuación en los procesos de autorización, regulación y supervisión de ueno bank. También examina una comunicación enviada a la Cámara de Senadores el 7 de octubre de 2026. Según la hipótesis fiscal, ese documento presentaría diferencias con informes técnicos existentes en el BCP.\n\nLos fiscales pidieron la prisión preventiva de Carvallo, quien se expone a una pena de hasta 20 años de cárcel. También se ordenó la inhibición de enajenar y gravar sus bienes, y la identificación e inmovilización de sus cuentas bancarias.",
       "keyPoints": [
-        "Peña es imputado por lesión de confianza y administración en provecho propio.",
-        "Carvallo es imputado por lesión de confianza, administración en provecho propio y documentos falsos.",
-        "La Fiscalía pidió prisión preventiva para ambos."
+        "Carlos Carvallo fue imputado por tres hechos punibles en calidad de autor.",
+        "La Fiscalía pidió su prisión preventiva.",
+        "Se investiga una comunicación enviada al Senado el 7 de octubre de 2026."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -21,6 +21,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La Fiscalía imputa a Peña y requiere su prisión preventiva",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/la-fiscalia-imputa-a-pena-y-requiere-su-prision-preventiva",
+          "publishedAt": "2026-11-08T10:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -44,6 +52,14 @@
           "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva",
           "publishedAt": "2026-11-08T03:02:00.000Z",
           "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Carlos Carvallo, expresidente del BCP, también fue imputado ayer",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/carlos-carvallo-expresidente-del-bcp-tambien-fue-imputado-ayer",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EFCKfbtiumi3F74dQHBUVpu0Gnk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TD7FHQIXZJAOXFQITH3UJ452FA.jpg"
         },
         {
           "sourceId": "adn",
@@ -111,24 +127,24 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg?auth=6ecec7682eeb00e2d650f4027a1de78db03e8f6b4d82612e2719338a77b7d184&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TD7FHQIXZJAOXFQITH3UJ452FA.jpg?auth=a46779c50233013ebafd0eb222c0865586254b72ec5718bd1d1d146b78a718ae&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva"
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/carlos-carvallo-expresidente-del-bcp-tambien-fue-imputado-ayer"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 23.66
+      "score": 23.87
     },
     {
       "id": "ev-0zd1cih",
-      "title": "Juez dicta prisión preventiva para Santiago Peña en el Regimiento Escolta Presidencial",
-      "summary": "El juez de Garantías en Delitos Económicos Humberto Otazú decretó la prisión preventiva del expresidente Santiago Peña, en la causa por el caso Ueno Bank. Peña seguirá detenido en el Regimiento Escolta Presidencial, bajo custodia.\n\nEl juez fundamentó la medida en la expectativa de pena elevada, por tratarse de un concurso de hechos punibles, y en riesgos procesales advertidos. Según la Fiscalía, Peña podría fugarse. Otazú también tuvo en cuenta la información sensible que Peña manejó durante su gobierno, según sus palabras.\n\nLa defensa de Peña había pedido una medida menos gravosa. Peña se abstuvo de declarar en la audiencia. La decisión fue tomada tras la audiencia de imposición de medidas cautelares realizada el sábado en el Palacio de Justicia.",
+      "title": "Fiscalía convoca a Santiago Peña a declarar por caso Ueno Bank",
+      "summary": "La Fiscalía convocó al expresidente Santiago Peña para las 11:30 del sábado 7 de noviembre en la Unidad Especializada de Delitos Económicos y Anticorrupción. Es investigado por presunta lesión de confianza, administración en provecho propio y tráfico de influencias, en una causa vinculada al caso Ueno Bank. Las notas no detallan lo ocurrido en esa citación.",
       "keyPoints": [
-        "Juez Humberto Otazú decretó prisión preventiva para Peña.",
-        "Peña cumplirá la medida en el Regimiento Escolta Presidencial.",
-        "La Fiscalía señaló riesgo de fuga; el juez citó información sensible."
+        "La citación fue para las 11:30 del sábado 7 de noviembre.",
+        "Peña es investigado por presunta lesión de confianza y tráfico de influencias.",
+        "La causa está vinculada al caso Ueno Bank."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -136,6 +152,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Por manejar información sensible sobre el crimen organizado, Peña evita la cárcel común",
+          "url": "https://elnacional.com.py/politica/por-manejar-informacion-sensible-sobre-crimen-organizado-pena-evita-carcel-comun-n114908",
+          "publishedAt": "2026-11-08T09:33:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef9850b94a0.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -161,6 +185,14 @@
           "image": "https://statics.elnacional.com.py/2026/11/6aef9850b94a0.jpg"
         },
         {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña cumplirá prisión preventiva en el Regimiento Escolta Presidencial",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-cumplira-prision-preventiva-en-el-regimiento-escolta-presidencial",
+          "publishedAt": "2026-11-07T21:43:13.152Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MD6V4WYMSRFVPDRCZRWQOOVLEA.jfif?auth=6de0bcf7380493a30ac49a80f2691b7d63fcc6190ba77b8ef1950f9d12eca5f5&width=1200&height=630&smart=true"
+        },
+        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
           "title": "Santiago Peña guardará prisión preventiva en el Regimiento Escolta Presidencial",
@@ -177,6 +209,22 @@
           "image": "https://www.lanacion.com.py/resizer/c76SyNnbqqF3W18-5r5TlI8XlPI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MD6V4WYMSRFVPDRCZRWQOOVLEA.jfif"
         },
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña queda preso en el Regimiento Escolta Presidencial",
+          "url": "https://www.abc.com.py/nacionales/2026/11/07/santiago-pena-queda-preso-en-el-regimiento-escolta-presidencial",
+          "publishedAt": "2026-11-07T21:23:41.000Z",
+          "image": "https://www.abc.com.py/resizer/2jql6sFvN-KnSJUVQTu_ksDoJVY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IXASNYKI2ZBY3HTMSWZYLFIYVA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Abogado de Peña pide que cumpla arresto en un recinto militar",
+          "url": "https://elnacional.com.py/politica/abogado-pena-pide-cumpla-arresto-recinto-militar-n114890",
+          "publishedAt": "2026-11-07T20:43:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef970ac7295.jpeg"
+        },
+        {
           "sourceId": "5dias",
           "sourceName": "5Días",
           "title": "Santiago Peña cumplirá prisión preventiva en el Regimiento Escolta Presidencial por caso ueno bank",
@@ -185,24 +233,190 @@
           "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_gb5gmtgb5gmtgb5g_20261107_183334.jpg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña cumplirá prisión preventiva en el Regimiento Escolta Presidencial",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-cumplira-prision-preventiva-en-el-regimiento-escolta-presidencial",
-          "publishedAt": "2026-11-07T21:43:13.152Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MD6V4WYMSRFVPDRCZRWQOOVLEA.jfif?auth=6de0bcf7380493a30ac49a80f2691b7d63fcc6190ba77b8ef1950f9d12eca5f5&width=1200&height=630&smart=true"
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Santiago Peña debe declarar ante Fiscalía tras ser detenido",
+          "url": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859",
+          "publishedAt": "2026-11-07T12:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/RLOAH6OBPRGP7IK6A62RPMG3UM.jpg?auth=b98db2a17a2c466edd9db8413a795f7df1981f62afe08b1b9413eb872e3dd153&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/07/dictan-prision-para-pena-por-lesion-de-confianza-y-presunto-direccionamiento-de-fondos-publicos"
+        "url": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 23.52
+      "score": 23.79
+    },
+    {
+      "id": "ev-0bq0jq5",
+      "title": "Carlos Carvallo cumplirá 15 días de prisión preventiva en la Agrupación Especializada",
+      "summary": "El extitular del Banco Central del Paraguay Carlos Carvallo cumplirá inicialmente 15 días de prisión preventiva en la Agrupación Especializada de la Policía Nacional. La medida se decretó tras la audiencia de imposición de medidas, a la que Carvallo se presentó y en la que se abstuvo de declarar.\n\nEl juez explicó que la decisión responde a razones de seguridad. Recordó que Carvallo denunció a exdirectivos de Ueno Bank, varios de los cuales están recluidos en el Centro Nacional de Prevenidos, ex Tacumbú, y dijo que debe prevalecer la prudencia.\n\nEl juzgado pidió al Ministerio de Justicia información sobre un establecimiento donde Carvallo pueda ser trasladado una vez cumplido el plazo.",
+      "keyPoints": [
+        "Carvallo cumplirá 15 días en la Agrupación Especializada.",
+        "Carvallo se abstuvo de declarar en la audiencia.",
+        "El juez citó razones de seguridad por la denuncia contra exdirectivos de Ueno Bank."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Juez ordena prisión preventiva para el extitular del BCP, Carlos Carvallo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo",
+          "publishedAt": "2026-11-08T11:53:51.075Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ex titular del BCP irá a la Agrupación Especializada por 15 días",
+          "url": "https://www.adndigital.com.py/ex-titular-del-bcp-ira-a-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T11:25:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/carlos-carvallo.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
+          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T01:28:45.000Z",
+          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-07T23:33:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
+          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
+          "publishedAt": "2026-11-07T23:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
+      "updatedSlot": "manana",
+      "score": 20.98
+    },
+    {
+      "id": "ev-01byhbv",
+      "title": "Itaipú presenta denuncia penal por fondos depositados en ueno bank",
+      "summary": "Itaipú Binacional presentó una denuncia penal como víctima ante la Unidad Especializada en Delitos Económicos y Anticorrupción del Ministerio Público. El reclamo se debe a la afectación de los fondos que la entidad tenía depositados en ueno bank S.A., y también a la exposición de los recursos transferidos a la Fundación Parque Tecnológico Itaipú - Paraguay (FPTI-PY).\n\nSegún El Nacional, Itaipú mantiene G. 115.200 millones y USD 163,8 millones en el banco intervenido. La denuncia se basa en la presunta comisión de estafa, lesión de confianza, conducta indebida en situaciones de crisis y violación del deber de llevar libros de comercio. Son tipificaciones planteadas por la binacional; no están probadas.\n\nItaipú también pidió que su reclamo se incorpore a la causa conexa N.º 89/2026, para evitar duplicar actuaciones. La representación legal está a cargo del abogado Óscar Adolfo Bogado Rolón, con el patrocinio de la directora jurídica ejecutiva, Abg. Iris Magnolia Mendoza Balmaceda.",
+      "keyPoints": [
+        "Itaipú denunció penalmente el caso como víctima ante la Fiscalía económica.",
+        "La binacional tiene G. 115.200 millones y USD 163,8 millones en ueno bank, según El Nacional.",
+        "El pedido se incorpora a la causa conexa N.º 89/2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Conatel presenta denuncia penal contra ueno bank ante la Fiscalía",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/conatel-presenta-denuncia-penal-contra-ueno-bank-ante-la-fiscalia",
+          "publishedAt": "2026-11-08T12:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/C4eJEY0ZO8EqNIpPl2GTqpWCAek=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AU6UHALQKJDUZMQEO7OAF6GZQE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Itaipú Binacional realiza denuncia penal por afectación de fondos en ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/itaipu-binacional-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank",
+          "publishedAt": "2026-11-08T11:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LiYm3yWygvclDnsUh-hzJvJZO2E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Itaipú realiza denuncia penal por afectación de fondos en ueno bank",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/itaipu-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PbLeiee-DEB__Ds7Dpl2vUEB6Sk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KF2YFVM75FFW3ENAI6GJMO2PF4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Conatel impulsa denuncia penal contra exdirectivos de Ueno",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/conatel-impulsa-denuncia-penal-contra-exdirectivos-de-ueno",
+          "publishedAt": "2026-11-07T23:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/N7LZMKGCT5F7DO2OYJF345X4PQ.jpg?auth=6a0e3c4a462abf97a0b460c3fcb713c45b50c6dd33716d2f4d5f28e322cb9a36&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Itaipú tiene G. 115.200 millones y USD 163,8 millones atrapados en Ueno Bank",
+          "url": "https://elnacional.com.py/politica/itaipu-tiene-g-115200-millones-usd-1638-millones-atrapados-ueno-bank-n114889",
+          "publishedAt": "2026-11-07T19:52:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6addc31184ede.png"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Itaipú eleva denuncia y busca recuperar US$ 183 millones depositados en ueno bank",
+          "url": "https://5dias.com.py/article/itaip-eleva-denuncia-y-busca-recuperar-us-183-millones-depositados-en-ueno-bank",
+          "publishedAt": "2026-11-07T19:51:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/itaipu-binacional-hidroelectrica_20261107_165351.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Itaipú denuncia a Ueno por afectación de sus fondos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/itaipu-denuncia-a-ueno-por-afectacion-de-sus-fondos",
+          "publishedAt": "2026-11-07T18:35:46.408Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/WGSW2PMC5NFI5OMUZK6MGFFSPM.jfif?auth=f4de1514c5ca97325c5cde9e3f2f2e30e02bed934f9af440f17f9733cc7411c3&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Itaipú formula denuncia penal por afectación de sus fondos y de FPTI-PY en ueno bank",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/itaipu-formula-denuncia-penal-por-afectacion-de-sus-fondos-y-de-fpti-py-en-ueno-bank",
+          "publishedAt": "2026-11-07T18:28:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/orCmQFrQHbumKf4bQAscFZnzl2w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/75NRZF2L6BAW5FZ6TYFMTIWGBU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ande presenta denuncia penal contra directivos y funcionarios de ueno bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/07/ande-presenta-denuncia-penal-contra-directivos-y-funcionarios-de-ueno-bank",
+          "publishedAt": "2026-11-07T12:49:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cBn5N2NB9FNLSo5zzS9ysLuCuaM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/72MGESANGJDX7PUPSU4JKSCHXY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg?auth=05153d2b93689bb35e69f55837e1d8ee17c6d525a0110ff7215845810788c0d6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/08/itaipu-binacional-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
+      "updatedSlot": "manana",
+      "score": 17.99
     },
     {
       "id": "ev-0ltikc3",
@@ -269,7 +483,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 17.46
+      "score": 17.13
     },
     {
       "id": "ev-0tens84",
@@ -328,16 +542,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 17.24
+      "score": 16.91
     },
     {
       "id": "ev-1ieslsu",
-      "title": "Juan Carlos Baruja asume el MOPC en reemplazo de Claudia Centurión",
-      "summary": "El presidente Pedro Alliana designó a Juan Carlos Baruja como nuevo ministro de Obras Públicas y Comunicaciones (MOPC), en reemplazo de Claudia Centurión. La designación se hizo por el Decreto N.º 7204.\n\nBaruja deja el Ministerio de Urbanismo, Vivienda y Hábitat (MUVH), que queda vacante. Antes de asumir, Baruja mantuvo una reunión de trabajo con Centurión para iniciar la transición. Dijo que las obras no pueden esperar y que trabajará en proyectos estratégicos de infraestructura.\n\nBaruja fue ministro de Agricultura durante el gobierno de Horacio Cartes y gobernador de Paraguarí. Alliana lo elogió en sus redes sociales por su gestión en el MUVH.",
+      "title": "Ariel Martínez es el nuevo ministro del Interior en el gobierno de Alliana",
+      "summary": "El presidente Pedro Alliana designó a Ariel Martínez como ministro del Interior, en reemplazo de Enrique Riera. Riera dimitió en medio de la crisis de ueno bank. La designación se oficializó con el Decreto 7203, el primero firmado por Alliana.\n\nMartínez ya fue ministro del Interior durante el gobierno de Horacio Cartes y antes fue viceministro de Asuntos Políticos de esa cartera. Alliana asumió el Poder Ejecutivo tras la destitución de Santiago Peña por juicio político.\n\nAlliana dijo que le encargó a Martínez garantizar la seguridad y la tranquilidad de las familias paraguayas.",
       "keyPoints": [
-        "Decreto N.º 7204 designa a Baruja en el MOPC.",
-        "Baruja reemplaza a Claudia Centurión.",
-        "El MUVH queda vacante y el Gobierno debe designar un nuevo titular."
+        "Martínez reemplaza a Enrique Riera en el Ministerio del Interior.",
+        "La designación es por el Decreto 7203.",
+        "Martínez fue ministro del Interior durante el gobierno de Horacio Cartes."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -345,6 +559,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Baruja inicia de inmediato la transición en el MOPC",
+          "url": "https://www.adndigital.com.py/baruja-inicia-de-inmediato-la-transicion-en-el-mopc",
+          "publishedAt": "2026-11-08T11:36:13.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-083449.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pedro Alliana inicia reconfiguración del Gobierno con designaciones",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/pedro-alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
+          "publishedAt": "2026-11-08T09:50:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana inicia reconfiguración del Gobierno con designaciones",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -380,22 +618,22 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Alliana inicia reconfiguración del Gobierno con designaciones",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
-          "publishedAt": "2026-11-08T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+          "title": "Ariel Martínez, nuevo ministro del Interior",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/ariel-martinez-nuevo-ministro-del-interior",
+          "publishedAt": "2026-11-07T12:09:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dnMNrViVgZcXoMiGp5rMA-VIMjg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RGPKZZBSY5DH3JNMSMKDZDJH3U.jpg"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/TFZMCWFXG5D4JJVTFWCZVNNT64.jpg?auth=226bd4d34c825976522be81d28533295583ac530523c904b7ad1796cfa85a1e5&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/07/baruja-toma-las-riendas-del-mopc-priorizara-proyectos-estrategicos-de-infraestructura"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RGPKZZBSY5DH3JNMSMKDZDJH3U.jpg?auth=644f9f5d1da04293b0b46aac241d88ea5899e7cbaa5ca34e86adf8ae4e2b61bf&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/07/ariel-martinez-nuevo-ministro-del-interior"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.96
     },
     {
       "id": "ev-1wxrfm0",
@@ -446,133 +684,31 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 13.66
-    },
-    {
-      "id": "ev-0bq0jq5",
-      "title": "Juez dispone prisión preventiva para Carlos Carvallo en la Agrupación Especializada",
-      "summary": "El juez Humberto Otazú dispuso la prisión preventiva de Carlos Carvallo, expresidente del Banco Central del Paraguay (BCP), en el marco de una causa por lesión de confianza. Deberá permanecer 15 días en la Agrupación Especializada de la Policía Nacional. Carvallo es imputado y se presume su inocencia.\n\nLa medida se oficializó mediante el Oficio N° 317, dirigido al jefe de la Agrupación Especializada. Según el juez, el lugar busca resguardar la integridad física del procesado, que tendrá libre comunicación y quedará a disposición del juzgado.\n\nOtazú recordó que Carvallo había presentado una denuncia contra exdirectivos de Ueno Bank, que están en Tacumbú. El plazo de 15 días podría extenderse hasta que el juzgado reciba un informe del Ministerio de Justicia sobre un establecimiento adecuado.",
-      "keyPoints": [
-        "El juez Humberto Otazú ordenó la prisión preventiva en la causa N° 92/2026.",
-        "Carvallo permanecerá 15 días en la Agrupación Especializada.",
-        "El juzgado espera un informe del Ministerio de Justicia para un traslado."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
-          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-08T01:28:45.000Z",
-          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-07T23:33:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
-          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
-          "publishedAt": "2026-11-07T23:26:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg?auth=09efdb37e7dd613589b9c7a57c93d41df9b4ed8a92ec82832c5e85320145471b&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 13.45
-    },
-    {
-      "id": "ev-01byhbv",
-      "title": "Itaipú presenta denuncia penal por fondos depositados en Ueno Bank",
-      "summary": "Itaipú Binacional presentó una denuncia penal como víctima ante la Unidad Especializada en Delitos Económicos y Anticorrupción. La binacional sostiene que la afectación de sus fondos en Ueno Bank impacta directamente en su patrimonio.\n\nEl abogado Óscar Adolfo Bogado Rolón representa a Itaipú en el caso. La denuncia también alcanza los recursos transferidos a la Fundación Parque Tecnológico Itaipú - Paraguay (FPTI-PY) para proyectos específicos, y Itaipú pidió incorporar su reclamo a la causa conexa 89/2026.\n\nLa acción penal se basa en presuntos hechos de estafa, lesión de confianza, conducta indebida en situaciones de crisis y violación del deber de llevar libros de comercio. Son presuntos hechos, según la denuncia; no hay condenas.",
-      "keyPoints": [
-        "Itaipú se presenta como víctima ante la Fiscalía.",
-        "La denuncia menciona estafa, lesión de confianza y otros hechos punibles.",
-        "El reclamo se pidió incorporar a la causa 89/2026."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Itaipú realiza denuncia penal por afectación de fondos en ueno bank",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/itaipu-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank",
-          "publishedAt": "2026-11-08T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PbLeiee-DEB__Ds7Dpl2vUEB6Sk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KF2YFVM75FFW3ENAI6GJMO2PF4.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Conatel impulsa denuncia penal contra exdirectivos de Ueno",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/conatel-impulsa-denuncia-penal-contra-exdirectivos-de-ueno",
-          "publishedAt": "2026-11-07T23:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/N7LZMKGCT5F7DO2OYJF345X4PQ.jpg?auth=6a0e3c4a462abf97a0b460c3fcb713c45b50c6dd33716d2f4d5f28e322cb9a36&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Itaipú denuncia a Ueno por afectación de sus fondos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/itaipu-denuncia-a-ueno-por-afectacion-de-sus-fondos",
-          "publishedAt": "2026-11-07T18:35:46.408Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/WGSW2PMC5NFI5OMUZK6MGFFSPM.jfif?auth=f4de1514c5ca97325c5cde9e3f2f2e30e02bed934f9af440f17f9733cc7411c3&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Itaipú formula denuncia penal por afectación de sus fondos y de FPTI-PY en ueno bank",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/itaipu-formula-denuncia-penal-por-afectacion-de-sus-fondos-y-de-fpti-py-en-ueno-bank",
-          "publishedAt": "2026-11-07T18:28:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/orCmQFrQHbumKf4bQAscFZnzl2w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/75NRZF2L6BAW5FZ6TYFMTIWGBU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/KF2YFVM75FFW3ENAI6GJMO2PF4.jpg?auth=520f22e7064b0f399fadc25ed581fb4669c70ae280d986cf6933e6d4a83cfefb&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/itaipu-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 11.58
+      "score": 13.32
     },
     {
       "id": "ev-0u46q63",
-      "title": "Estados Unidos respalda al nuevo gobierno de Pedro Alliana",
-      "summary": "La Embajada de Estados Unidos en Paraguay expresó su disposición a trabajar con el gobierno del presidente Pedro Alliana. Lo hizo mediante un comunicado y destacó a Paraguay como socio estratégico. Alliana respondió en X y prometió seguir fortaleciendo la alianza.\n\nAlliana juró el viernes ante el Congreso tras la destitución de Santiago Peña en un juicio político en el Senado, en medio de la crisis de Ueno Bank. Completará el mandato que vence el 15 de agosto de 2028. Antonio Barrios juró como vicepresidente.",
+      "title": "EE. UU. ratifica alianza con Paraguay y respalda al gobierno de Alliana",
+      "summary": "La Embajada de Estados Unidos en Paraguay expresó su disposición a trabajar con el nuevo gobierno de Pedro Alliana. Lo hizo en un comunicado publicado en sus redes sociales, tras la salida de Santiago Peña del Poder Ejecutivo en medio de la crisis de ueno bank.\n\nLa representación diplomática destacó a Paraguay como socio regional estratégico y dijo que espera avanzar en los intereses de ambas naciones. La nota señala que el mensaje busca dar continuidad a la relación bilateral pese al cambio abrupto en la conducción del Ejecutivo.\n\nAlliana juró el viernes ante el Congreso tras la destitución de Peña por vía del juicio político. Completará el mandato, que vence en agosto de 2028.",
       "keyPoints": [
-        "La Embajada de Estados Unidos ratificó la relación bilateral.",
-        "Alliana juró el viernes tras el juicio político a Santiago Peña.",
-        "Alliana completará el mandato hasta el 15 de agosto de 2028."
+        "La Embajada de Estados Unidos respalda al nuevo gobierno de Pedro Alliana.",
+        "Paraguay es descrito como socio regional estratégico.",
+        "Alliana completará el mandato que vence en agosto de 2028."
       ],
-      "category": "politica",
+      "category": "internacional",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Estados Unidos ratifica alianza y expresa respaldo al flamante presidente",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/estados-unidos-ratifica-alianza-y-expresa-respaldo-al-flamante-presidente",
+          "publishedAt": "2026-11-08T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9RaaO2VR1pmYpf3pFuK7mOID9Rg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/U5BYD4AYENCHRP5MKFBJGP54EQ.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -609,13 +745,52 @@
       "image": {
         "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/U5BYD4AYENCHRP5MKFBJGP54EQ.jpg?auth=b6f92fd09b81eabc6a41c6d92ef2d77a09d235fbfc66cbb748ee48197009191d&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/ee-uu-ratifica-alianza-y-expresa-respaldo-al-flamante-presidente"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/08/estados-unidos-ratifica-alianza-y-expresa-respaldo-al-flamante-presidente"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 11.58
+      "score": 11.82
+    },
+    {
+      "id": "ev-1u88z2u",
+      "title": "Gustavo Cabaña recorre su camino del aula al humor televisivo",
+      "summary": "El actor y docente Gustavo Cabaña repasa su vida artística y personal en una entrevista. Cuenta cómo pasó de sus primeras imitaciones de sus maestros del colegio a convertirse en referente del humor televisivo. Su mensaje para quienes empiezan es directo: “uno nunca debe limitarse”.",
+      "keyPoints": [
+        "Gustavo Cabaña es actor y docente.",
+        "Empezó con imitaciones de sus maestros de colegio.",
+        "Es un referente del humor televisivo paraguayo."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Gustavo Cabaña, entre el aula y el humor: \"Uno nunca debe limitarse\"",
+          "url": "https://www.ultimahora.com/gustavo-cabana-entre-el-aula-y-el-humor-uno-nunca-debe-limitarse",
+          "publishedAt": "2026-11-08T11:32:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "HUMOR",
+          "url": "https://www.abc.com.py/edicion-impresa/suplementos/humor/2026/11/08/humor",
+          "publishedAt": "2026-11-08T04:00:01.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T12:07:10.881Z",
+      "updatedSlot": "manana",
+      "score": 9.95
     },
     {
       "id": "ev-1hq8cf6",
@@ -658,7 +833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 9.23
+      "score": 8.9
     },
     {
       "id": "ev-10g95ga",
@@ -701,7 +876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-08qosm0",
@@ -744,7 +919,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.86
+      "score": 8.53
     },
     {
       "id": "ev-1dhce1h",
@@ -788,7 +963,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.69
+      "score": 8.35
     },
     {
       "id": "ev-1w2hbsa",
@@ -832,7 +1007,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.43
+      "score": 8.1
     },
     {
       "id": "ev-0leh2pw",
@@ -879,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 7.91
+      "score": 7.57
     },
     {
       "id": "ev-1aakcjq",
@@ -923,7 +1098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1j3o3o1",
@@ -967,7 +1142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1wr4l1r",
@@ -1004,7 +1179,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1pnxez2",
@@ -1048,7 +1223,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1u25o47",
@@ -1091,7 +1266,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.56
+      "score": 6.23
     },
     {
       "id": "ev-1o5x62u",
@@ -1120,7 +1295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-05pjlpl",
@@ -1151,7 +1326,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1txbsaa",
@@ -1182,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0ktgkcf",
@@ -1213,7 +1388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1hdloqx",
@@ -1242,7 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1xyscm0",
@@ -1271,7 +1446,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0wh52gr",
@@ -1300,7 +1475,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1fvkyfa",
@@ -1332,7 +1507,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.78
+      "score": 5.45
     },
     {
       "id": "ev-0hkbyoe",
@@ -1365,7 +1540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.74
+      "score": 5.41
     },
     {
       "id": "ev-13i2bwp",
@@ -1398,7 +1573,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.37
+    },
+    {
+      "id": "ev-15au31d",
+      "title": "La carne del Otro: obesidad, anorexia e inconsciente",
+      "summary": "El cuerpo humano es el territorio primario donde se disputa la existencia y se inscribe el lazo con el Otro . La medicina empieza a entender que las patologías desbordan el laboratorio para arraigar en la biografía. Es preciso dar un paso más: el organismo biológico es inseparable de ese espacio fenomenológico donde el contorno de nuestra identidad se define en una tensión constante con la alteridad .",
+      "keyPoints": [
+        "El cuerpo humano es el territorio primario donde se disputa la existencia y se inscribe el lazo con el Otro ."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La carne del Otro: obesidad, anorexia e inconsciente",
+          "url": "https://www.abc.com.py/edicion-impresa/suplementos/cultural/2026/11/08/la-carne-del-otro-obesidad-anorexia-e-inconsciente",
+          "publishedAt": "2026-11-08T04:02:40.000Z",
+          "image": "https://www.abc.com.py/resizer/ybmt3vQGuYi9O3WXBEoCm7wil9I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3JZRPRFFCFBDPJTY44JAZBOWSI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3JZRPRFFCFBDPJTY44JAZBOWSI.jpg?auth=4c8163f3b86a013b5733b4a9d75f47f341f7470503964d45bc4137f4cabc0081&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/edicion-impresa/suplementos/cultural/2026/11/08/la-carne-del-otro-obesidad-anorexia-e-inconsciente"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T08:07:13.644Z",
+      "updatedSlot": "manana",
+      "score": 5.33
     },
     {
       "id": "ev-1tj5wt3",
@@ -1434,40 +1642,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-15au31d",
-      "title": "La carne del Otro: obesidad, anorexia e inconsciente",
-      "summary": "El cuerpo humano es el territorio primario donde se disputa la existencia y se inscribe el lazo con el Otro . La medicina empieza a entender que las patologías desbordan el laboratorio para arraigar en la biografía. Es preciso dar un paso más: el organismo biológico es inseparable de ese espacio fenomenológico donde el contorno de nuestra identidad se define en una tensión constante con la alteridad .",
-      "keyPoints": [
-        "El cuerpo humano es el territorio primario donde se disputa la existencia y se inscribe el lazo con el Otro ."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La carne del Otro: obesidad, anorexia e inconsciente",
-          "url": "https://www.abc.com.py/edicion-impresa/suplementos/cultural/2026/11/08/la-carne-del-otro-obesidad-anorexia-e-inconsciente",
-          "publishedAt": "2026-11-08T04:02:40.000Z",
-          "image": "https://www.abc.com.py/resizer/ybmt3vQGuYi9O3WXBEoCm7wil9I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3JZRPRFFCFBDPJTY44JAZBOWSI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3JZRPRFFCFBDPJTY44JAZBOWSI.jpg?auth=4c8163f3b86a013b5733b4a9d75f47f341f7470503964d45bc4137f4cabc0081&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/edicion-impresa/suplementos/cultural/2026/11/08/la-carne-del-otro-obesidad-anorexia-e-inconsciente"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1wmvgtu",
@@ -1502,7 +1677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1t55gn8",
@@ -1533,7 +1708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-04m2o1s",
@@ -1568,7 +1743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-09duvj8",
@@ -1603,7 +1778,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0nompr2",
@@ -1632,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1lrck8j",
@@ -1668,36 +1843,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-1u88z2u",
-      "title": "HUMOR",
-      "summary": "Sin extracto disponible del medio. Consultá la nota original: HUMOR",
-      "keyPoints": [
-        "HUMOR"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "HUMOR",
-          "url": "https://www.abc.com.py/edicion-impresa/suplementos/humor/2026/11/08/humor",
-          "publishedAt": "2026-11-08T04:00:01.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-183fe2t",
@@ -1726,7 +1872,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0oom86x",
@@ -1759,7 +1905,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-16r5tl2",
@@ -1794,7 +1940,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.6
+      "score": 5.26
     },
     {
       "id": "ev-164t4d7",
@@ -1829,7 +1975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1ya2fc1",
@@ -1864,7 +2010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.98
     },
     {
       "id": "ev-087i6vb",
@@ -1903,7 +2049,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.11
+      "score": 3.77
     },
     {
       "id": "ev-086s6ts",
@@ -1934,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.15
     },
     {
       "id": "ev-0muns0n",
@@ -1965,7 +2111,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.47
+      "score": 3.14
     },
     {
       "id": "ev-1ia2vv7",
@@ -1996,7 +2142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.16
+      "score": 2.82
     },
     {
       "id": "ev-1bv8vse",
@@ -2027,7 +2173,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.86
+      "score": 2.53
     },
     {
       "id": "ev-0py07ff",
@@ -2058,7 +2204,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.46
     }
   ],
   "runs": [
@@ -2068,6 +2214,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 71
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-08T12:07:10.881Z",
+      "added": 0,
+      "updated": 11,
+      "candidates": 20
     }
   ]
 }
