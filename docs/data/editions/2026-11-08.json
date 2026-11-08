@@ -1,150 +1,19 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-08T12:07:10.881Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-08T16:07:12.467Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0mmxdfa",
-      "title": "Fiscalía imputa a Carlos Carvallo, expresidente del BCP, en caso ueno bank",
-      "summary": "El Ministerio Público imputó al expresidente del Banco Central del Paraguay, Carlos Carvallo, por lesión de confianza, producción inmediata de documentos públicos de contenido falso y administración en provecho propio, todos en calidad de autor. Se trata de una imputación; el caso sigue en investigación.\n\nLa Fiscalía investiga su actuación en los procesos de autorización, regulación y supervisión de ueno bank. También examina una comunicación enviada a la Cámara de Senadores el 7 de octubre de 2026. Según la hipótesis fiscal, ese documento presentaría diferencias con informes técnicos existentes en el BCP.\n\nLos fiscales pidieron la prisión preventiva de Carvallo, quien se expone a una pena de hasta 20 años de cárcel. También se ordenó la inhibición de enajenar y gravar sus bienes, y la identificación e inmovilización de sus cuentas bancarias.",
-      "keyPoints": [
-        "Carlos Carvallo fue imputado por tres hechos punibles en calidad de autor.",
-        "La Fiscalía pidió su prisión preventiva.",
-        "Se investiga una comunicación enviada al Senado el 7 de octubre de 2026."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La Fiscalía imputa a Peña y requiere su prisión preventiva",
-          "url": "https://www.lanacion.com.py/politica/2026/11/08/la-fiscalia-imputa-a-pena-y-requiere-su-prision-preventiva",
-          "publishedAt": "2026-11-08T10:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno: perjuicio causado por Santiago Peña superaría US$ 809 millones",
-          "url": "https://www.abc.com.py/nacionales/2026/11/08/caso-ueno-perjuicio-causado-por-santiago-pena-seria-de-mas-de-us-809-millones",
-          "publishedAt": "2026-11-08T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/SNzn3lwhfYc1Rl-VHU_Sxok3XfQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HPRCYV6QORFLRO4T6M3RU53EZU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Santiago Peña fue el principal defensor del Grupo Vázquez",
-          "url": "https://www.abc.com.py/politica/2026/11/08/santiago-pena-fue-el-principal-defensor-del-grupo-vazquez",
-          "publishedAt": "2026-11-08T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/InBXaubFePAMvTgBIFkMV5Sj-bo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QQ3H3Q6WFRDHBJBUGVCBKOV77Y.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía imputa a Santiago Peña y requiere su prisión preventiva",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva",
-          "publishedAt": "2026-11-08T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Carlos Carvallo, expresidente del BCP, también fue imputado ayer",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/carlos-carvallo-expresidente-del-bcp-tambien-fue-imputado-ayer",
-          "publishedAt": "2026-11-08T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/EFCKfbtiumi3F74dQHBUVpu0Gnk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TD7FHQIXZJAOXFQITH3UJ452FA.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Carvallo declara ante el Ministerio Público por la investigación sobre Ueno Bank",
-          "url": "https://www.adndigital.com.py/carvallo-declara-ante-el-ministerio-publico-por-la-investigacion-sobre-ueno-bank",
-          "publishedAt": "2026-11-07T20:15:42.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-171509.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Expresidente del BCP imputado por tres hechos punibles en el caso ueno bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/expresidente-del-bcp-imputado-por-tres-hechos-punibles-en-el-caso-ueno-bank",
-          "publishedAt": "2026-11-07T20:11:53.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fUpm1yzfQDhumt-3bmg3XpKHZcA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QETAKWU6QZGL5OI55OD3WOL2KA.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Fiscalía imputa a Peña y Carvallo con pedido de prisión preventiva",
-          "url": "https://www.adndigital.com.py/fiscalia-imputa-a-pena-y-carvallo-con-pedido-de-prision-preventiva",
-          "publishedAt": "2026-11-07T18:41:06.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-154031.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Fiscalía afirma tener documentos del BCP que sustentan las sospechas contra Peña y Carvallo",
-          "url": "https://5dias.com.py/article/fiscala-afirma-tener-documentos-del-bcp-que-sustentan-las-sospechas-contra-pea-y-carvallo",
-          "publishedAt": "2026-11-07T18:38:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_ep5xu9ep5xu9ep5x_20261107_154056.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía imputa a Santiago Peña y requiere su prisión preventiva",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva",
-          "publishedAt": "2026-11-07T18:20:56.000Z",
-          "image": "https://www.lanacion.com.py/resizer/P83sNkAdCinazkvhqBK4PF7UFpg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/E4A6AJWSRVCC5OSXO4F442AOS4.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Fiscalía pide prisión preventiva para Peña y Carvallo y apunta a sus bienes",
-          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-pea-y-carvallo-y-apunta-a-sus-bienes",
-          "publishedAt": "2026-11-07T18:10:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_21_20261107_151114.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Imputan a Santiago Peña por lesión de confianza y administración en provecho propio",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/imputan-a-santiago-pena-por-lesion-de-confianza-y-administracion-en-provecho-propio",
-          "publishedAt": "2026-11-07T18:05:29.933Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/E4A6AJWSRVCC5OSXO4F442AOS4.jpg?auth=adc36be937bb88b4ef15939dc0add58b86d5e8ec113f0d2f9d0e5db5887b3660&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía pide prisión para Peña y Carvallo",
-          "url": "https://elnacional.com.py/politica/fiscalia-pide-prision-pena-carvallo-n114880",
-          "publishedAt": "2026-11-07T18:04:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aef68bddb4a1.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TD7FHQIXZJAOXFQITH3UJ452FA.jpg?auth=a46779c50233013ebafd0eb222c0865586254b72ec5718bd1d1d146b78a718ae&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/carlos-carvallo-expresidente-del-bcp-tambien-fue-imputado-ayer"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T12:07:10.881Z",
-      "updatedSlot": "manana",
-      "score": 23.87
-    },
-    {
       "id": "ev-0zd1cih",
-      "title": "Fiscalía convoca a Santiago Peña a declarar por caso Ueno Bank",
-      "summary": "La Fiscalía convocó al expresidente Santiago Peña para las 11:30 del sábado 7 de noviembre en la Unidad Especializada de Delitos Económicos y Anticorrupción. Es investigado por presunta lesión de confianza, administración en provecho propio y tráfico de influencias, en una causa vinculada al caso Ueno Bank. Las notas no detallan lo ocurrido en esa citación.",
+      "title": "Juez mantiene a Santiago Peña con prisión preventiva en el Regimiento Escolta Presidencial",
+      "summary": "El juez Humberto Otazú decretó la prisión preventiva del expresidente Santiago Peña y dispuso que cumpla la medida en el Regimiento Escolta Presidencial, y no en una penitenciaría común. El magistrado señaló que Peña maneja información sensible sobre crimen organizado y asuntos financieros, y que hay que garantizar su permanencia en el país.\n\nLa defensa, a cargo del abogado Ricardo Preda, había pedido que cumpliera el arresto en un recinto militar. Según el comandante de la unidad, coronel José Dayub, Peña ocupa un dormitorio común con llave, puede recibir visitas y usar su celular, en línea con la condición de libre comunicación fijada por la Justicia.\n\nEl Ministerio de Justicia informó que se le puede recibir dentro del sistema penitenciario. Peña está imputado y tiene presunción de inocencia.",
       "keyPoints": [
-        "La citación fue para las 11:30 del sábado 7 de noviembre.",
-        "Peña es investigado por presunta lesión de confianza y tráfico de influencias.",
-        "La causa está vinculada al caso Ueno Bank."
+        "Peña cumple prisión preventiva en el Regimiento Escolta Presidencial.",
+        "La medida fue dispuesta por el juez Humberto Otazú.",
+        "Peña puede recibir visitas y usar su celular, según el comandante de la unidad."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -152,6 +21,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santiago Peña está recluido en una habitación común, con acceso a celular y libre comunicación",
+          "url": "https://www.ultimahora.com/santiago-pena-esta-recluido-en-una-habitacion-comun-con-acceso-a-celular-y-libre-comunicacion",
+          "publishedAt": "2026-11-08T15:40:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña cumple reclusión en habitación común, con libre visita y uso de celular",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/pena-libre-para-recibir-visitas-y-usar-un-telefono-celular-durante-su-reclusion",
+          "publishedAt": "2026-11-08T13:08:07.000Z",
+          "image": "https://www.abc.com.py/resizer/YvDgnX0TQTlanh6-T_XRDwC9CoY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RX54AVORLZFUPKUZLA7ZG64VPE.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -242,24 +127,24 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_gb5gmtgb5gmtgb5g_20261107_183334.jpg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/santiago-pea-cumple-prisin-preventiva-en-el-regimiento-escolta-presidencial-por-caso-ueno-bank"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T12:07:10.881Z",
-      "updatedSlot": "manana",
-      "score": 23.79
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 26.96
     },
     {
-      "id": "ev-0bq0jq5",
-      "title": "Carlos Carvallo cumplirá 15 días de prisión preventiva en la Agrupación Especializada",
-      "summary": "El extitular del Banco Central del Paraguay Carlos Carvallo cumplirá inicialmente 15 días de prisión preventiva en la Agrupación Especializada de la Policía Nacional. La medida se decretó tras la audiencia de imposición de medidas, a la que Carvallo se presentó y en la que se abstuvo de declarar.\n\nEl juez explicó que la decisión responde a razones de seguridad. Recordó que Carvallo denunció a exdirectivos de Ueno Bank, varios de los cuales están recluidos en el Centro Nacional de Prevenidos, ex Tacumbú, y dijo que debe prevalecer la prudencia.\n\nEl juzgado pidió al Ministerio de Justicia información sobre un establecimiento donde Carvallo pueda ser trasladado una vez cumplido el plazo.",
+      "id": "ev-0mmxdfa",
+      "title": "Fiscalía imputa a Santiago Peña y Carlos Carvallo y pide prisión preventiva",
+      "summary": "El Ministerio Público imputó al expresidente Santiago Peña y al extitular del Banco Central del Paraguay, Carlos Carvallo, en la causa por la quiebra de Ueno Bank. A Peña se le atribuye administración en provecho propio y lesión de confianza. La Fiscalía sostiene que influyó en la colocación de recursos públicos en el banco.\n\nLos fiscales pidieron prisión preventiva para ambos. Según la acusación, Peña podría fugarse por sus vínculos internacionales, y Carvallo podría ocultar pruebas. Estos argumentos son de la Fiscalía.\n\nLa Fiscalía también afirma tener documentos y testimonios que sustentan las sospechas. Peña y Carvallo tienen presunción de inocencia y se defienden en el proceso.",
       "keyPoints": [
-        "Carvallo cumplirá 15 días en la Agrupación Especializada.",
-        "Carvallo se abstuvo de declarar en la audiencia.",
-        "El juez citó razones de seguridad por la denuncia contra exdirectivos de Ueno Bank."
+        "La Fiscalía imputó a Peña y Carvallo en la Causa Penal N.º 92/2026.",
+        "La Fiscalía pidió prisión preventiva y restricciones sobre bienes de ambos.",
+        "La Fiscalía sostiene que Peña podría fugarse y Carvallo ocultar pruebas."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -268,65 +153,137 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Juez ordena prisión preventiva para el extitular del BCP, Carlos Carvallo",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo",
-          "publishedAt": "2026-11-08T11:53:51.075Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ex titular del BCP irá a la Agrupación Especializada por 15 días",
-          "url": "https://www.adndigital.com.py/ex-titular-del-bcp-ira-a-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-08T11:25:00.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/carlos-carvallo.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La Fiscalía imputa a Peña y requiere su prisión preventiva",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/la-fiscalia-imputa-a-pena-y-requiere-su-prision-preventiva",
+          "publishedAt": "2026-11-08T10:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
-          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-08T01:28:45.000Z",
-          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
+          "title": "Caso Ueno: perjuicio causado por Santiago Peña superaría US$ 809 millones",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/caso-ueno-perjuicio-causado-por-santiago-pena-seria-de-mas-de-us-809-millones",
+          "publishedAt": "2026-11-08T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/SNzn3lwhfYc1Rl-VHU_Sxok3XfQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HPRCYV6QORFLRO4T6M3RU53EZU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña fue el principal defensor del Grupo Vázquez",
+          "url": "https://www.abc.com.py/politica/2026/11/08/santiago-pena-fue-el-principal-defensor-del-grupo-vazquez",
+          "publishedAt": "2026-11-08T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/InBXaubFePAMvTgBIFkMV5Sj-bo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QQ3H3Q6WFRDHBJBUGVCBKOV77Y.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-07T23:33:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
+          "title": "Fiscalía imputa a Santiago Peña y requiere su prisión preventiva",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/z7MFq4CwruuESOt3c1F4E8EhJ0c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3Q57MBD2WJC2DGUUBE6IYFQCK4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Carlos Carvallo, expresidente del BCP, también fue imputado ayer",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/08/carlos-carvallo-expresidente-del-bcp-tambien-fue-imputado-ayer",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EFCKfbtiumi3F74dQHBUVpu0Gnk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TD7FHQIXZJAOXFQITH3UJ452FA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: Para la Fiscalía, Peña se puede fugar y Carvallo, ocultar pruebas",
+          "url": "https://www.abc.com.py/nacionales/2026/11/07/ueno-bank-para-la-fiscalia-pena-se-puede-fugar-y-carvallo-ocultar-pruebas",
+          "publishedAt": "2026-11-07T20:59:51.000Z",
+          "image": "https://www.abc.com.py/resizer/kgZTElJOTqSNPALh9uI_n5ih4Hk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LFODQETRERD3DAGYE37KXVVUHE.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Carvallo declara ante el Ministerio Público por la investigación sobre Ueno Bank",
+          "url": "https://www.adndigital.com.py/carvallo-declara-ante-el-ministerio-publico-por-la-investigacion-sobre-ueno-bank",
+          "publishedAt": "2026-11-07T20:15:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-171509.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP imputado por tres hechos punibles en el caso ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/expresidente-del-bcp-imputado-por-tres-hechos-punibles-en-el-caso-ueno-bank",
+          "publishedAt": "2026-11-07T20:11:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fUpm1yzfQDhumt-3bmg3XpKHZcA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QETAKWU6QZGL5OI55OD3WOL2KA.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía imputa a Peña y Carvallo con pedido de prisión preventiva",
+          "url": "https://www.adndigital.com.py/fiscalia-imputa-a-pena-y-carvallo-con-pedido-de-prision-preventiva",
+          "publishedAt": "2026-11-07T18:41:06.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-154031.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía afirma tener documentos del BCP que sustentan las sospechas contra Peña y Carvallo",
+          "url": "https://5dias.com.py/article/fiscala-afirma-tener-documentos-del-bcp-que-sustentan-las-sospechas-contra-pea-y-carvallo",
+          "publishedAt": "2026-11-07T18:38:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_ep5xu9ep5xu9ep5x_20261107_154056.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía imputa a Santiago Peña y requiere su prisión preventiva",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/fiscalia-imputa-a-santiago-pena-y-requiere-su-prision-preventiva",
+          "publishedAt": "2026-11-07T18:20:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/P83sNkAdCinazkvhqBK4PF7UFpg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/E4A6AJWSRVCC5OSXO4F442AOS4.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía pide prisión preventiva para Peña y Carvallo y apunta a sus bienes",
+          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-pea-y-carvallo-y-apunta-a-sus-bienes",
+          "publishedAt": "2026-11-07T18:10:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_21_20261107_151114.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Imputan a Santiago Peña por lesión de confianza y administración en provecho propio",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/imputan-a-santiago-pena-por-lesion-de-confianza-y-administracion-en-provecho-propio",
+          "publishedAt": "2026-11-07T18:05:29.933Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/E4A6AJWSRVCC5OSXO4F442AOS4.jpg?auth=adc36be937bb88b4ef15939dc0add58b86d5e8ec113f0d2f9d0e5db5887b3660&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
-          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
-          "publishedAt": "2026-11-07T23:26:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
+          "title": "Fiscalía pide prisión para Peña y Carvallo",
+          "url": "https://elnacional.com.py/politica/fiscalia-pide-prision-pena-carvallo-n114880",
+          "publishedAt": "2026-11-07T18:04:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef68bddb4a1.jpg"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_ep5xu9ep5xu9ep5x_20261107_154056.jpg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/fiscala-afirma-tener-documentos-del-bcp-que-sustentan-las-sospechas-contra-pea-y-carvallo"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T12:07:10.881Z",
-      "updatedSlot": "manana",
-      "score": 20.98
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 23.53
     },
     {
       "id": "ev-01byhbv",
-      "title": "Itaipú presenta denuncia penal por fondos depositados en ueno bank",
-      "summary": "Itaipú Binacional presentó una denuncia penal como víctima ante la Unidad Especializada en Delitos Económicos y Anticorrupción del Ministerio Público. El reclamo se debe a la afectación de los fondos que la entidad tenía depositados en ueno bank S.A., y también a la exposición de los recursos transferidos a la Fundación Parque Tecnológico Itaipú - Paraguay (FPTI-PY).\n\nSegún El Nacional, Itaipú mantiene G. 115.200 millones y USD 163,8 millones en el banco intervenido. La denuncia se basa en la presunta comisión de estafa, lesión de confianza, conducta indebida en situaciones de crisis y violación del deber de llevar libros de comercio. Son tipificaciones planteadas por la binacional; no están probadas.\n\nItaipú también pidió que su reclamo se incorpore a la causa conexa N.º 89/2026, para evitar duplicar actuaciones. La representación legal está a cargo del abogado Óscar Adolfo Bogado Rolón, con el patrocinio de la directora jurídica ejecutiva, Abg. Iris Magnolia Mendoza Balmaceda.",
+      "title": "Itaipú e IPS presentan denuncias penales por fondos depositados en Ueno Bank",
+      "summary": "Itaipú Binacional presentó una denuncia penal como víctima contra ex directivos de Ueno Bank y de la entidad. La binacional informó que tiene depositados G. 115.200 millones y USD 163,8 millones en el banco intervenido, y que también están afectados los recursos transferidos a la Fundación Parque Tecnológico Itaipú - Paraguay (FPTI-PY).\n\nLa denuncia se basa en presuntos hechos punibles de estafa, lesión de confianza, conducta indebida en situaciones de crisis y violación del deber de llevar libros de comercio. Itaipú pidió incorporarla a la causa conexa N.º 89/2026.\n\nPor su parte, el Instituto de Previsión Social (IPS) alista una denuncia penal similar. Según datos preliminares, su exposición financiera alcanza cerca de USD 516 millones. Estas acusaciones son de quienes denuncian y deberán ser probadas en la investigación.",
       "keyPoints": [
-        "Itaipú denunció penalmente el caso como víctima ante la Fiscalía económica.",
-        "La binacional tiene G. 115.200 millones y USD 163,8 millones en ueno bank, según El Nacional.",
-        "El pedido se incorpora a la causa conexa N.º 89/2026."
+        "Itaipú presentó denuncia penal como víctima ante la Unidad Especializada en Delitos Económicos.",
+        "Itaipú informó depósitos de G. 115.200 millones y USD 163,8 millones en Ueno Bank.",
+        "El IPS alista una denuncia con una exposición de cerca de USD 516 millones."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -334,6 +291,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPS e Itaipú se suman a las denuncias penales en contra de ex directivos de ueno bank",
+          "url": "https://www.adndigital.com.py/ips-e-itaipu-se-suman-a-las-denuncias-penales-en-contra-de-ex-directivos-de-ueno-bank",
+          "publishedAt": "2026-11-08T15:02:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/whatsapp-image-2026-04-22-at-125243.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "En juego USD 516 millones: IPS denunciará a directivos de Ueno Bank y autoridades del BCP",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/en-juego-usd-516-millones-ips-denunciara-a-directivos-de-ueno-bank-y-autoridades-del-bcp",
+          "publishedAt": "2026-11-08T12:32:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IE2LYW24ANDHJOONAC7CGE6T7Q.jpg?auth=548d3e9abf44d4aa01e4f2a6a291697344c4a31a8163721368c9b77a0f455d3d&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -408,15 +381,173 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg?auth=05153d2b93689bb35e69f55837e1d8ee17c6d525a0110ff7215845810788c0d6&width=1200",
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/whatsapp-image-2026-04-22-at-125243.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/ips-e-itaipu-se-suman-a-las-denuncias-penales-en-contra-de-ex-directivos-de-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 20.91
+    },
+    {
+      "id": "ev-0tens84",
+      "title": "Pedro Alliana reconfigura su Gobierno con nuevos ministros y jefe de gabinete",
+      "summary": "El presidente Pedro Alliana, que asumió tras la destitución de Santiago Peña por juicio político, empezó a cambiar el gabinete. Mediante decreto designó a Juan Carlos Baruja como ministro de Obras Públicas y Comunicaciones, en reemplazo de Claudia Centurión. También nombró a Ariel Martínez como ministro del Interior, en lugar de Enrique Riera.\n\nRolando de Barros Barreto Acha fue designado jefe de gabinete civil, en reemplazo de Javier Giménez. Según la Presidencia, De Barros deberá coordinar el trabajo de los ministros. El domingo, Alliana tiene previstas reuniones con De Barros, con el ministro de Economía, Óscar Lovera, y con el de Industria y Comercio, Marco Riquelme.\n\nEl Ministerio de Urbanismo, Vivienda y Hábitat quedó vacante tras la salida de Baruja.",
+      "keyPoints": [
+        "Juan Carlos Baruja fue designado ministro de Obras Públicas y Comunicaciones.",
+        "Ariel Martínez asumirá el Ministerio del Interior.",
+        "Rolando de Barros Barreto Acha fue designado jefe de gabinete civil."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana inicia su jornada con reuniones clave en el Palacio de Gobierno",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/alliana-inicia-su-jornada-con-reuniones-clave-en-el-palacio-de-gobierno",
+          "publishedAt": "2026-11-08T13:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DnTl4eO75eGgbRtQ_tzxKVMy-DA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYMHTFSMFVF5LFHME6C4234NLQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Esto detalla la agenda de Gobierno de Pedro Alliana de este domingo",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/esto-detalla-la-agenda-de-gobierno-de-pedro-alliana-de-este-domingo",
+          "publishedAt": "2026-11-08T12:14:23.000Z",
+          "image": "https://www.abc.com.py/resizer/njrcAb_9Vur6Lp4e7gSdjFctgPU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MSBZX2XDAFD2LFRCQ2DDDY3MLM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pedro Alliana inicia reconfiguración del Gobierno con designaciones",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/pedro-alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
+          "publishedAt": "2026-11-08T09:50:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana inicia reconfiguración del Gobierno con designaciones",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/07/alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana designa a Rolando de Barros como jefe de Gabinete y deja vacante el Ministerio del Ambiente",
+          "url": "https://elnacional.com.py/politica/alliana-designa-rolando-barros-como-jefe-gabinete-deja-vacante-ministerio-ambiente-n114895",
+          "publishedAt": "2026-11-07T23:03:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/10/68fa0a1c660c7.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Pedro Alliana designa a Rolando de Barros como jefe del Gabinete Civil",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pedro-alliana-designa-a-rolando-de-barros-como-jefe-del-gabinete-civil",
+          "publishedAt": "2026-11-07T20:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/VOI63CSNQNGA7OLIXUGV33OVO4.jpeg?auth=f7016ea948a1edfb24725c68837b79a7f5b743850699d562a4dc0f1cdb4a1099&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rolando de Barros Barreto Acha es designado como jefe de gabinete de la presidencia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/rolando-de-barros-barreto-acha-es-designado-como-jefe-de-gabinete-de-la-presidencia",
+          "publishedAt": "2026-11-07T19:51:18.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JqZ_rtffpHDX7ZliYmTxZkb2CHw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VOI63CSNQNGA7OLIXUGV33OVO4.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana designa a Rolando de Barros Barreto como jefe del Gabinete Civil",
+          "url": "https://www.adndigital.com.py/alliana-designa-a-rolando-de-barros-barreto-como-jefe-del-gabinete-civil",
+          "publishedAt": "2026-11-07T19:48:10.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-22-at-185326.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/NYMHTFSMFVF5LFHME6C4234NLQ.jpg?auth=388ae0778e53789712dd383ad1f965aea581daa6666748d7d4f41294fbd2d38f&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/08/itaipu-binacional-realiza-denuncia-penal-por-afectacion-de-fondos-en-ueno-bank"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/08/alliana-inicia-su-jornada-con-reuniones-clave-en-el-palacio-de-gobierno"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 20.78
+    },
+    {
+      "id": "ev-0bq0jq5",
+      "title": "Carlos Carvallo cumplirá 15 días de prisión preventiva en la Agrupación Especializada",
+      "summary": "El extitular del Banco Central del Paraguay Carlos Carvallo cumplirá inicialmente 15 días de prisión preventiva en la Agrupación Especializada de la Policía Nacional. La medida se decretó tras la audiencia de imposición de medidas, a la que Carvallo se presentó y en la que se abstuvo de declarar.\n\nEl juez explicó que la decisión responde a razones de seguridad. Recordó que Carvallo denunció a exdirectivos de Ueno Bank, varios de los cuales están recluidos en el Centro Nacional de Prevenidos, ex Tacumbú, y dijo que debe prevalecer la prudencia.\n\nEl juzgado pidió al Ministerio de Justicia información sobre un establecimiento donde Carvallo pueda ser trasladado una vez cumplido el plazo.",
+      "keyPoints": [
+        "Carvallo cumplirá 15 días en la Agrupación Especializada.",
+        "Carvallo se abstuvo de declarar en la audiencia.",
+        "El juez citó razones de seguridad por la denuncia contra exdirectivos de Ueno Bank."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Juez ordena prisión preventiva para el extitular del BCP, Carlos Carvallo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo",
+          "publishedAt": "2026-11-08T11:53:51.075Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ex titular del BCP irá a la Agrupación Especializada por 15 días",
+          "url": "https://www.adndigital.com.py/ex-titular-del-bcp-ira-a-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T11:25:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/carlos-carvallo.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
+          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T01:28:45.000Z",
+          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-07T23:33:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
+          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
+          "publishedAt": "2026-11-07T23:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 17.99
+      "score": 20.65
     },
     {
       "id": "ev-0ltikc3",
@@ -483,66 +614,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 17.13
-    },
-    {
-      "id": "ev-0tens84",
-      "title": "Pedro Alliana designa a Rolando de Barros como jefe del Gabinete Civil",
-      "summary": "El presidente Pedro Alliana designó a Rolando de Barros Barreto Acha como jefe del Gabinete Civil de la Presidencia, con rango de ministro. Lo hizo mediante el Decreto N.º 7205, firmado el 7 de noviembre de 2026.\n\nDe Barros Barreto Acha era ministro del Ambiente y Desarrollo Sostenible (Mades) en el gobierno de Santiago Peña. Reemplaza en la jefatura a Javier Giménez, que presentó su renuncia el viernes, horas antes de la destitución de Peña. Con este cambio, queda vacante el Mades, para el que todavía no hay reemplazante anunciado.\n\nSegún la Presidencia, Alliana le encomendó coordinar el trabajo de los ministros para dar respuestas rápidas a las necesidades de la población.",
-      "keyPoints": [
-        "Decreto N.º 7205 designa a De Barros como jefe del Gabinete Civil.",
-        "Reemplaza a Javier Giménez, que presentó renuncia.",
-        "El Ministerio del Ambiente queda sin titular."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana designa a Rolando de Barros como jefe de Gabinete y deja vacante el Ministerio del Ambiente",
-          "url": "https://elnacional.com.py/politica/alliana-designa-rolando-barros-como-jefe-gabinete-deja-vacante-ministerio-ambiente-n114895",
-          "publishedAt": "2026-11-07T23:03:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/10/68fa0a1c660c7.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Pedro Alliana designa a Rolando de Barros como jefe del Gabinete Civil",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pedro-alliana-designa-a-rolando-de-barros-como-jefe-del-gabinete-civil",
-          "publishedAt": "2026-11-07T20:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/VOI63CSNQNGA7OLIXUGV33OVO4.jpeg?auth=f7016ea948a1edfb24725c68837b79a7f5b743850699d562a4dc0f1cdb4a1099&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Rolando de Barros Barreto Acha es designado como jefe de gabinete de la presidencia",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/rolando-de-barros-barreto-acha-es-designado-como-jefe-de-gabinete-de-la-presidencia",
-          "publishedAt": "2026-11-07T19:51:18.000Z",
-          "image": "https://www.lanacion.com.py/resizer/JqZ_rtffpHDX7ZliYmTxZkb2CHw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VOI63CSNQNGA7OLIXUGV33OVO4.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Alliana designa a Rolando de Barros Barreto como jefe del Gabinete Civil",
-          "url": "https://www.adndigital.com.py/alliana-designa-a-rolando-de-barros-barreto-como-jefe-del-gabinete-civil",
-          "publishedAt": "2026-11-07T19:48:10.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-22-at-185326.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/VOI63CSNQNGA7OLIXUGV33OVO4.jpeg?auth=f7016ea948a1edfb24725c68837b79a7f5b743850699d562a4dc0f1cdb4a1099&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/07/pedro-alliana-designa-a-rolando-de-barros-como-jefe-del-gabinete-civil"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 16.91
+      "score": 16.8
     },
     {
       "id": "ev-1ieslsu",
@@ -633,7 +705,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 14.96
+      "score": 14.62
+    },
+    {
+      "id": "ev-10g95ga",
+      "title": "Alliana pone como prioridad el abastecimiento de medicamentos en hospitales públicos",
+      "summary": "El presidente Pedro Alliana reunió al ministro de Salud, Isaías Fretes, y le planteó su preocupación por cubrir las principales necesidades del sistema sanitario. Según la Presidencia, la prioridad es que todos los hospitales públicos tengan medicamentos e insumos.\n\nLa Presidencia informó que se impulsarán acciones coordinadas para fortalecer la atención sanitaria. El mismo domingo, Alliana también se reunió con el jefe del Gabinete Civil, Rolando de Barros; el ministro de Economía y Finanzas, Óscar Lovera; y el ministro de Industria y Comercio, Marco Riquelme.",
+      "keyPoints": [
+        "El presidente Pedro Alliana conversó con el ministro de Salud, Isaías Fretes.",
+        "La prioridad declarada es el abastecimiento de medicamentos en hospitales públicos.",
+        "Alliana también se reunió con otros tres integrantes de su gabinete."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Medicamentos en hospitales públicos, prioridad del presidente Alliana",
+          "url": "https://www.adndigital.com.py/medicamentos-en-hospitales-publicos-prioridad-del-presidente-alliana",
+          "publishedAt": "2026-11-08T14:54:41.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-115319.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Abastecimiento de medicamentos en todos los hospitales, prioridad de Alliana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/abastecimiento-de-medicamentos-en-todos-los-hospitales-prioridad-de-alliana",
+          "publishedAt": "2026-11-07T21:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/B3U7Y32MM5EK3EU36Y4GLDCWNM.jpg?auth=c07105e8ad728acd0428962ace70c042127a8eba6c40e5e7ae7178e25561e895&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "“Salud será una de las grandes prioridades”: Alliana realiza primeras reuniones en el Palacio",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/salud-sera-una-de-las-grandes-prioridades-alliana-realiza-primeras-reuniones-en-el-palacio",
+          "publishedAt": "2026-11-07T10:36:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JVWg8FkwJWBKhY7JHapIp5bg8YY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PA7VLJ7NFFFTTKIS2SPIOWCANQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-115319.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/medicamentos-en-hospitales-publicos-prioridad-del-presidente-alliana"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 13.9
     },
     {
       "id": "ev-1wxrfm0",
@@ -684,7 +807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 13.32
+      "score": 12.99
     },
     {
       "id": "ev-0u46q63",
@@ -751,7 +874,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 11.82
+      "score": 11.49
     },
     {
       "id": "ev-1u88z2u",
@@ -790,7 +913,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.62
     },
     {
       "id": "ev-1hq8cf6",
@@ -833,50 +956,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.9
-    },
-    {
-      "id": "ev-10g95ga",
-      "title": "Alliana fija como prioridad el abastecimiento de medicamentos en hospitales",
-      "summary": "El presidente Pedro Alliana fijó como máxima prioridad el abastecimiento de medicamentos en todos los hospitales públicos. Lo anunció tras reunirse en el Palacio de Gobierno con el ministro de Salud Pública, Isaías Fretes.\n\nEn su primer día de trabajo, Alliana recibió a ministros en el Palacio de López desde temprano. Les pidió que le rindan cuentas cada día sobre los cambios logrados. Según la Presidencia, podrían darse los primeros cambios en el Gabinete.",
-      "keyPoints": [
-        "Alliana fijó la salud como una de las grandes prioridades.",
-        "La máxima prioridad es el abastecimiento de medicamentos en hospitales públicos.",
-        "Pidió a los ministros rendir cuentas al final de cada jornada."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Abastecimiento de medicamentos en todos los hospitales, prioridad de Alliana",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/abastecimiento-de-medicamentos-en-todos-los-hospitales-prioridad-de-alliana",
-          "publishedAt": "2026-11-07T21:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/B3U7Y32MM5EK3EU36Y4GLDCWNM.jpg?auth=c07105e8ad728acd0428962ace70c042127a8eba6c40e5e7ae7178e25561e895&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "“Salud será una de las grandes prioridades”: Alliana realiza primeras reuniones en el Palacio",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/salud-sera-una-de-las-grandes-prioridades-alliana-realiza-primeras-reuniones-en-el-palacio",
-          "publishedAt": "2026-11-07T10:36:59.000Z",
-          "image": "https://www.lanacion.com.py/resizer/JVWg8FkwJWBKhY7JHapIp5bg8YY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PA7VLJ7NFFFTTKIS2SPIOWCANQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/B3U7Y32MM5EK3EU36Y4GLDCWNM.jpg?auth=c07105e8ad728acd0428962ace70c042127a8eba6c40e5e7ae7178e25561e895&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/07/abastecimiento-de-medicamentos-en-todos-los-hospitales-prioridad-de-alliana"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.56
     },
     {
       "id": "ev-08qosm0",
@@ -919,7 +999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.2
     },
     {
       "id": "ev-1dhce1h",
@@ -963,7 +1043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.02
     },
     {
       "id": "ev-1w2hbsa",
@@ -1007,7 +1087,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.1
+      "score": 8
+    },
+    {
+      "id": "ev-1ya2fc1",
+      "title": "Mandatarios de Perú, Chile y Panamá respaldan a Pedro Alliana",
+      "summary": "Varios gobiernos de la región expresaron su respaldo al presidente Pedro Alliana tras su llegada al cargo, luego de la salida de Santiago Peña por juicio político. La presidenta de Perú, Keiko Fujimori, le deseó éxitos y reafirmó la voluntad de fortalecer los lazos de amistad y cooperación.\n\nEl presidente de Chile, José Antonio Kast, felicitó a Alliana y mencionó desafíos comunes en seguridad, combate al crimen organizado y crecimiento económico. Espera reunirse pronto con él. Desde Panamá, José Raúl Mulino anunció que conversará con Alliana el próximo lunes.\n\nLos mensajes destacaron la institucionalidad y la democracia como base de las relaciones bilaterales.",
+      "keyPoints": [
+        "Keiko Fujimori deseó éxitos a Alliana y reafirmó lazos con Paraguay.",
+        "José Antonio Kast felicitó a Alliana y espera reunirse con él.",
+        "José Raúl Mulino conversará con Alliana el próximo lunes."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Mandatarios respaldan a Alliana y ratifican cooperación con Paraguay",
+          "url": "https://www.adndigital.com.py/mandatarios-respaldan-a-alliana-y-ratifican-cooperacion-con-paraguay",
+          "publishedAt": "2026-11-08T14:46:48.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-114435.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mandatarios respaldan la llegada de Alliana a la presidencia y ratifican lazos con Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/mandatarios-respaldan-la-llegada-de-alliana-a-la-presidencia-y-ratifican-lazos-con-paraguay",
+          "publishedAt": "2026-11-07T23:52:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-TD68KMmu70YG18AtzLrMBljYuY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/37SSV7PGCFA4TOQZUKI22XWBDY.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-114435.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/mandatarios-respaldan-a-alliana-y-ratifican-cooperacion-con-paraguay"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 7.39
     },
     {
       "id": "ev-0leh2pw",
@@ -1054,7 +1177,46 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 7.57
+      "score": 7.24
+    },
+    {
+      "id": "ev-1bv8vse",
+      "title": "La NASA enviará un explorador con energía nuclear a la Luna",
+      "summary": "La NASA anunció que enviará a la Luna un nuevo vehículo explorador impulsado con energía nuclear. El objetivo es preparar el terreno para la primera base lunar.\n\nSegún la agencia, el vehículo está hecho con partes que sirvieron para artefactos similares enviados a Marte.",
+      "keyPoints": [
+        "La NASA enviará un explorador impulsado con energía nuclear a la Luna.",
+        "El vehículo prepara los cimientos para la primera base lunar.",
+        "Partes del vehículo ya se usaron en artefactos enviados a Marte."
+      ],
+      "category": "tecnologia",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base",
+          "url": "https://www.ultimahora.com/la-nasa-enviara-un-explorador-con-energia-nuclear-a-la-luna-para-alistar-la-primera-base",
+          "publishedAt": "2026-11-08T12:25:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base",
+          "url": "https://www.abc.com.py/ciencia/2026/11/07/la-nasa-enviara-un-explorador-con-energia-nuclear-a-la-luna-para-alistar-la-primera-base",
+          "publishedAt": "2026-11-08T00:25:12.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 7.19
     },
     {
       "id": "ev-1aakcjq",
@@ -1098,7 +1260,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1j3o3o1",
@@ -1142,7 +1304,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1wr4l1r",
@@ -1179,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1pnxez2",
@@ -1223,7 +1385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1u25o47",
@@ -1266,7 +1428,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.23
+      "score": 5.9
     },
     {
       "id": "ev-1o5x62u",
@@ -1295,7 +1457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-05pjlpl",
@@ -1326,7 +1488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1txbsaa",
@@ -1357,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0ktgkcf",
@@ -1388,7 +1550,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1hdloqx",
@@ -1417,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1xyscm0",
@@ -1446,7 +1608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0wh52gr",
@@ -1475,39 +1637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.57
-    },
-    {
-      "id": "ev-1fvkyfa",
-      "title": "Robert Morales anota de penal y Pumas empata ante el América",
-      "summary": "Pumas UNAM empató con el América en un partido de la liga mexicana. El paraguayo Robert Morales convirtió un penal en el minuto 77, tras una falta del argentino Santiago Ramos Mingo sobre Nathan Silva.\n\nEl partido empezó con intensidad. Alejandro Zendejas marcó para el América en el tercer minuto y César Huerta igualó para Pumas poco después. En la segunda parte, Henry Martín convirtió un penal en el 72 para el América.\n\nCon el resultado, América bajó al segundo lugar y perdió el liderato. Pumas quedó undécimo y comprometió su pase a cuartos de final, con un partido por jugar.",
-      "keyPoints": [
-        "Robert Morales, paraguayo, anotó de penal en el minuto 77.",
-        "Zendejas y Henry Martín marcaron para el América.",
-        "América perdió el liderato y bajó al segundo lugar.",
-        "Pumas quedó undécimo y comprometió su pase a cuartos de final."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El paraguayo Robert Morales le da empate a los Pumas UNAM ante el América",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/el-paraguayo-robert-morales-le-da-empate-a-los-pumas-unam-ante-el-america",
-          "publishedAt": "2026-11-08T05:30:14.000Z",
-          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.24
     },
     {
       "id": "ev-0hkbyoe",
@@ -1540,7 +1670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.07
     },
     {
       "id": "ev-13i2bwp",
@@ -1573,7 +1703,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.04
     },
     {
       "id": "ev-15au31d",
@@ -1606,7 +1736,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 4.99
     },
     {
       "id": "ev-1tj5wt3",
@@ -1642,7 +1772,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1wmvgtu",
@@ -1677,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1t55gn8",
@@ -1708,7 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-04m2o1s",
@@ -1743,7 +1873,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-09duvj8",
@@ -1778,7 +1908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0nompr2",
@@ -1807,7 +1937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1lrck8j",
@@ -1843,7 +1973,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-183fe2t",
@@ -1872,7 +2002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0oom86x",
@@ -1905,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-16r5tl2",
@@ -1940,7 +2070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.26
+      "score": 4.93
     },
     {
       "id": "ev-164t4d7",
@@ -1975,42 +2105,50 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
-      "id": "ev-1ya2fc1",
-      "title": "Mandatarios de Perú, Chile y Panamá respaldan a Alliana y ratifican vínculos",
-      "summary": "Los presidentes de Perú, Chile y Panamá expresaron su respaldo a Pedro Alliana tras asumir la Presidencia de Paraguay. Lo hicieron en sus redes sociales.\n\nLa presidenta de Perú, Keiko Fujimori, le deseó éxito y reafirmó la amistad y la cooperación entre ambos países. El presidente de Chile, José Antonio Kast, destacó valores comunes como la seguridad, el combate al crimen organizado y el crecimiento económico, y pidió trabajar juntos.\n\nEl presidente de Panamá, José Raúl Mulino, anunció que el lunes conversará con Alliana y le reiterará la importancia de la relación bilateral.",
+      "id": "ev-1fvkyfa",
+      "title": "Robert Morales marca un gol y Pumas empata 2-2 con América",
+      "summary": "El paraguayo Robert Morales fue clave en el empate 2-2 de Pumas UNAM frente a América, en el clásico capitalino disputado en el Estadio Olímpico Universitario. Morales convirtió un penal a los 77 minutos, después de que Pumas recibiera otra pena máxima.\n\nEl partido empezó con goles de Alejandro Zendejas para América y de César Huerta para Pumas. Morales había anotado en la primera mitad, pero el VAR anuló su gol por una infracción previa. En el segundo tiempo, Henry Martín puso en ventaja a América desde el punto penal, a los 72 minutos.\n\nMorales también recibió una tarjeta amarilla a los 23 minutos tras un incidente con Kevin Álvarez.",
       "keyPoints": [
-        "Keiko Fujimori deseó éxito a Alliana y reafirmó la cooperación con Paraguay.",
-        "José Antonio Kast mencionó la seguridad y el combate al crimen organizado como desafíos comunes.",
-        "José Raúl Mulino conversará con Alliana el lunes."
+        "Pumas UNAM empató 2-2 con América en el Estadio Olímpico Universitario.",
+        "Robert Morales anotó el segundo gol de Pumas desde el punto penal a los 77 minutos.",
+        "El VAR anuló un gol previo de Morales en la primera mitad."
       ],
-      "category": "internacional",
-      "scope": "paraguay",
+      "category": "deportes",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mandatarios respaldan la llegada de Alliana a la presidencia y ratifican lazos con Paraguay",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/mandatarios-respaldan-la-llegada-de-alliana-a-la-presidencia-y-ratifican-lazos-con-paraguay",
-          "publishedAt": "2026-11-07T23:52:58.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-TD68KMmu70YG18AtzLrMBljYuY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/37SSV7PGCFA4TOQZUKI22XWBDY.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: La Pantera Morales rescata a Pumas ante América",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/video-la-pantera-morales-rescata-a-pumas-ante-america",
+          "publishedAt": "2026-11-08T14:47:25.000Z",
+          "image": "https://www.abc.com.py/resizer/jRJIAsmv485kDcOtgjM0GsjFdqA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2XZORCN4SZFYNP3SA5JRVP3LOE.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El paraguayo Robert Morales le da empate a los Pumas UNAM ante el América",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/el-paraguayo-robert-morales-le-da-empate-a-los-pumas-unam-ante-el-america",
+          "publishedAt": "2026-11-08T05:30:14.000Z",
+          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/37SSV7PGCFA4TOQZUKI22XWBDY.jpeg?auth=0dcdd792ef706abfc2aa467896e510f106b1bf84d0a9c0676c36686057e2bf45&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/07/mandatarios-respaldan-la-llegada-de-alliana-a-la-presidencia-y-ratifican-lazos-con-paraguay"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2XZORCN4SZFYNP3SA5JRVP3LOE.jpg?auth=52b4d55101b7c0e1139845461920b78a13ae0d2a43c85b40264d3c77f6a33db1&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/video-la-pantera-morales-rescata-a-pumas-ante-america"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 4.98
+      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedSlot": "tarde",
+      "score": 4.39
     },
     {
       "id": "ev-087i6vb",
@@ -2049,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.77
+      "score": 3.44
     },
     {
       "id": "ev-086s6ts",
@@ -2080,7 +2218,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-0muns0n",
@@ -2111,7 +2249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.8
     },
     {
       "id": "ev-1ia2vv7",
@@ -2142,38 +2280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.82
-    },
-    {
-      "id": "ev-1bv8vse",
-      "title": "La NASA enviará a la Luna un explorador con energía nuclear en 2028",
-      "summary": "La NASA otorgó a Blue Origin un contrato base de 94 millones de dólares para llevar al polo sur lunar un explorador llamado PROMISE en 2028. Es la primera fase para instalar una base en la Luna, según explicó el administrador Jared Isaacman en una rueda de prensa durante la exposición MAX POWER, en Florida.\n\nEl vehículo de seis ruedas recorrerá la superficie durante una misión de 18 meses. Su tarea será analizar el suelo, el subsuelo y los recursos, y ayudar a elegir sitios para futuras misiones tripuladas. Por su propulsión nuclear, podrá trabajar durante las noches lunares, más largas que las terrestres, y en zonas de sombra permanente, donde se presume que hay hielo. El Laboratorio de Propulsión a Chorro de California lo construirá con piezas de reserva y modelos de prueba de Curiosity y Perseverance.",
-      "keyPoints": [
-        "La NASA dio a Blue Origin un contrato base de 94 millones de dólares.",
-        "El explorador llegará al polo sur de la Luna en 2028.",
-        "La misión durará 18 meses y buscará hielo y recursos."
-      ],
-      "category": "tecnologia",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base",
-          "url": "https://www.abc.com.py/ciencia/2026/11/07/la-nasa-enviara-un-explorador-con-energia-nuclear-a-la-luna-para-alistar-la-primera-base",
-          "publishedAt": "2026-11-08T00:25:12.000Z",
-          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.49
     },
     {
       "id": "ev-0py07ff",
@@ -2204,7 +2311,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.46
+      "score": 2.13
     }
   ],
   "runs": [
@@ -2221,6 +2328,13 @@
       "added": 0,
       "updated": 11,
       "candidates": 20
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-08T16:07:12.467Z",
+      "added": 0,
+      "updated": 8,
+      "candidates": 12
     }
   ]
 }
