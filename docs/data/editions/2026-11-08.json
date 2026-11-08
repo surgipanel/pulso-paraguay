@@ -1,19 +1,19 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-08T16:07:12.467Z",
+  "generatedAt": "2026-11-08T19:37:09.275Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0zd1cih",
-      "title": "Juez mantiene a Santiago Peña con prisión preventiva en el Regimiento Escolta Presidencial",
-      "summary": "El juez Humberto Otazú decretó la prisión preventiva del expresidente Santiago Peña y dispuso que cumpla la medida en el Regimiento Escolta Presidencial, y no en una penitenciaría común. El magistrado señaló que Peña maneja información sensible sobre crimen organizado y asuntos financieros, y que hay que garantizar su permanencia en el país.\n\nLa defensa, a cargo del abogado Ricardo Preda, había pedido que cumpliera el arresto en un recinto militar. Según el comandante de la unidad, coronel José Dayub, Peña ocupa un dormitorio común con llave, puede recibir visitas y usar su celular, en línea con la condición de libre comunicación fijada por la Justicia.\n\nEl Ministerio de Justicia informó que se le puede recibir dentro del sistema penitenciario. Peña está imputado y tiene presunción de inocencia.",
+      "title": "Juez decreta prisión preventiva para Peña, que seguirá en el Regimiento Escolta",
+      "summary": "El juez penal de Garantías Humberto Otazú decretó la prisión preventiva del expresidente Santiago Peña, que seguirá recluido en el Regimiento Escolta Presidencial. Peña está imputado por lesión de confianza y administración en provecho propio, en la causa relacionada con Ueno Bank. Según el juez, la medida busca garantizar que Peña permanezca en el país y se someta al proceso, y evitar el riesgo de fuga. Otazú también mencionó el manejo de información sensible durante su gobierno. Según La Nación, Peña se abstuvo de declarar.\n\nEl abogado Ricardo Preda confirmó que pedirá que su defendido cumpla el arresto en un recinto militar. Según el comandante del regimiento, el coronel José Dayub, Peña fue alojado en una habitación común, donde puede usar un teléfono celular y recibir visitas. El lugar no tiene celdas y Peña es el único recluido allí. Su esposa lo visitó hasta las 20:30 y su familia se encargará de llevarle la comida.",
       "keyPoints": [
-        "Peña cumple prisión preventiva en el Regimiento Escolta Presidencial.",
-        "La medida fue dispuesta por el juez Humberto Otazú.",
-        "Peña puede recibir visitas y usar su celular, según el comandante de la unidad."
+        "El juez Humberto Otazú decretó la prisión preventiva de Santiago Peña.",
+        "Peña está imputado por lesión de confianza y administración en provecho propio.",
+        "El abogado Ricardo Preda pidió que su defendido cumpla el arresto en un recinto militar."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,12 +22,28 @@
       "model": "claude-haiku-5-5",
       "sources": [
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Qué dijo Santiago Peña al jefe del Regimiento Escolta al llegar para ser recluido?",
+          "url": "https://www.abc.com.py/politica/2026/11/08/que-dijo-santiago-pena-al-jefe-del-regimiento-escolta-al-llegar-para-ser-recluido",
+          "publishedAt": "2026-11-08T19:00:02.000Z",
+          "image": "https://www.abc.com.py/resizer/0Bkr_-s5yi1d0kHumhaYYbMsDc0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6SC7EVFUD5CH3DEFSACATAKSHI.jpg"
+        },
+        {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
           "title": "Santiago Peña está recluido en una habitación común, con acceso a celular y libre comunicación",
           "url": "https://www.ultimahora.com/santiago-pena-esta-recluido-en-una-habitacion-comun-con-acceso-a-celular-y-libre-comunicacion",
           "publishedAt": "2026-11-08T15:40:42.000Z",
           "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Primera noche de Peña en el Regimiento Escolta: informó que su familia le llevará la comida",
+          "url": "https://elnacional.com.py/politica/primera-noche-pena-regimiento-escolta-informo-su-familia-le-llevara-comida-n114911",
+          "publishedAt": "2026-11-08T13:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef3dc752b5c.jfif"
         },
         {
           "sourceId": "abc",
@@ -127,15 +143,15 @@
         }
       ],
       "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_gb5gmtgb5gmtgb5g_20261107_183334.jpg",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/santiago-pea-cumple-prisin-preventiva-en-el-regimiento-escolta-presidencial-por-caso-ueno-bank"
+        "url": "https://statics.elnacional.com.py/2026/11/6aef9850b94a0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/privilegios-poder-juez-salva-pena-carcel-n114891"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedAt": "2026-11-08T19:37:09.275Z",
       "updatedSlot": "tarde",
-      "score": 26.96
+      "score": 26.95
     },
     {
       "id": "ev-0mmxdfa",
@@ -274,16 +290,16 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 23.53
+      "score": 23.24
     },
     {
       "id": "ev-01byhbv",
-      "title": "Itaipú e IPS presentan denuncias penales por fondos depositados en Ueno Bank",
-      "summary": "Itaipú Binacional presentó una denuncia penal como víctima contra ex directivos de Ueno Bank y de la entidad. La binacional informó que tiene depositados G. 115.200 millones y USD 163,8 millones en el banco intervenido, y que también están afectados los recursos transferidos a la Fundación Parque Tecnológico Itaipú - Paraguay (FPTI-PY).\n\nLa denuncia se basa en presuntos hechos punibles de estafa, lesión de confianza, conducta indebida en situaciones de crisis y violación del deber de llevar libros de comercio. Itaipú pidió incorporarla a la causa conexa N.º 89/2026.\n\nPor su parte, el Instituto de Previsión Social (IPS) alista una denuncia penal similar. Según datos preliminares, su exposición financiera alcanza cerca de USD 516 millones. Estas acusaciones son de quienes denuncian y deberán ser probadas en la investigación.",
+      "title": "Conatel presenta denuncia penal ante la Fiscalía por fondos en Ueno Bank",
+      "summary": "La Comisión Nacional de Telecomunicaciones (Conatel) presentó una denuncia penal ante la Fiscalía por presuntas irregularidades relacionadas con Ueno Bank. El objetivo, según el organismo, es esclarecer posibles hechos punibles y proteger los recursos públicos que tiene comprometidos en la entidad financiera.\n\nLa presentación se basa en el deber de denunciar presuntas actuaciones delictivas, previsto en el decreto 14.135/1996 que reglamenta la Ley 642/95 de Telecomunicaciones. Conatel pide que se determinen los hechos punibles y sus autores, y que se la reconozca como víctima para ser informada del resultado del caso. También solicita al Juzgado Penal de Garantías medidas para resguardar su patrimonio institucional.",
       "keyPoints": [
-        "Itaipú presentó denuncia penal como víctima ante la Unidad Especializada en Delitos Económicos.",
-        "Itaipú informó depósitos de G. 115.200 millones y USD 163,8 millones en Ueno Bank.",
-        "El IPS alista una denuncia con una exposición de cerca de USD 516 millones."
+        "Conatel denunció ante la Fiscalía presuntas irregularidades en Ueno Bank.",
+        "El organismo busca proteger recursos públicos comprometidos en la entidad.",
+        "Conatel pide ser reconocida como víctima y ser informada del resultado."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -291,6 +307,14 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Conatel denuncia a Ueno Bank ante Fiscalía y busca proteger sus fondos",
+          "url": "https://elnacional.com.py/politica/conatel-denuncia-ueno-bank-fiscalia-busca-proteger-sus-fondos-n114923",
+          "publishedAt": "2026-11-08T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2022/05/4f35964d97c66ac066ecbfdb03b7f6c6.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -381,15 +405,90 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/04/whatsapp-image-2026-04-22-at-125243.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/ips-e-itaipu-se-suman-a-las-denuncias-penales-en-contra-de-ex-directivos-de-ueno-bank"
+        "url": "https://statics.elnacional.com.py/2022/05/4f35964d97c66ac066ecbfdb03b7f6c6.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/conatel-denuncia-ueno-bank-fiscalia-busca-proteger-sus-fondos-n114923"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T16:07:12.467Z",
+      "updatedAt": "2026-11-08T19:37:09.275Z",
       "updatedSlot": "tarde",
-      "score": 20.91
+      "score": 20.95
+    },
+    {
+      "id": "ev-0bq0jq5",
+      "title": "Carvallo queda recluido 15 días en la Agrupación Especializada y dice temer por su vida",
+      "summary": "El juez Humberto Otazú dispuso que el expresidente del Banco Central del Paraguay, Carlos Carvallo, guarde reclusión por 15 días en la sede de la Agrupación Especializada. Carvallo está procesado por lesión de confianza, administración en provecho propio y producción de documentos públicos de contenido falso. Según ABC Color, pidió a los investigadores que se considere su seguridad porque teme por su vida, aunque no dio detalles sobre amenazas.\n\nOtazú explicó que Carvallo había denunciado a exdirectivos de Ueno Bank, que están detenidos, y que por eso debe prevalecer la prudencia. El juzgado esperaba la respuesta del Ministerio de Justicia para trasladarlo luego a una institución dependiente de ese ministerio. Carvallo se abstuvo de prestar declaración indagatoria en la Fiscalía.",
+      "keyPoints": [
+        "Carlos Carvallo guardará reclusión por 15 días en la Agrupación Especializada.",
+        "Carvallo está procesado por lesión de confianza y otros delitos.",
+        "Carvallo afirma que teme por su vida, sin dar detalles de amenazas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno Bank: expresidente del BCP afirma que teme por su vida",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/caso-ueno-bank-expresidente-del-bcp-afirma-que-teme-por-su-vida",
+          "publishedAt": "2026-11-08T15:42:44.000Z",
+          "image": "https://www.abc.com.py/resizer/D0Atsh-6xbNVcEf79g01TTCg6QM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QCTI7H3HHNDEJITD3RQJJN3OEI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Juez ordena prisión preventiva para el extitular del BCP, Carlos Carvallo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo",
+          "publishedAt": "2026-11-08T11:53:51.075Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ex titular del BCP irá a la Agrupación Especializada por 15 días",
+          "url": "https://www.adndigital.com.py/ex-titular-del-bcp-ira-a-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T11:25:00.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/carlos-carvallo.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
+          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T01:28:45.000Z",
+          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-07T23:33:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
+          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
+          "publishedAt": "2026-11-07T23:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif?auth=692f5dca22b8fcefaa6a7e46a642e4e7821f22bf0fc8a0e06831844056687363&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T19:37:09.275Z",
+      "updatedSlot": "tarde",
+      "score": 20.67
     },
     {
       "id": "ev-0tens84",
@@ -480,74 +579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 20.78
-    },
-    {
-      "id": "ev-0bq0jq5",
-      "title": "Carlos Carvallo cumplirá 15 días de prisión preventiva en la Agrupación Especializada",
-      "summary": "El extitular del Banco Central del Paraguay Carlos Carvallo cumplirá inicialmente 15 días de prisión preventiva en la Agrupación Especializada de la Policía Nacional. La medida se decretó tras la audiencia de imposición de medidas, a la que Carvallo se presentó y en la que se abstuvo de declarar.\n\nEl juez explicó que la decisión responde a razones de seguridad. Recordó que Carvallo denunció a exdirectivos de Ueno Bank, varios de los cuales están recluidos en el Centro Nacional de Prevenidos, ex Tacumbú, y dijo que debe prevalecer la prudencia.\n\nEl juzgado pidió al Ministerio de Justicia información sobre un establecimiento donde Carvallo pueda ser trasladado una vez cumplido el plazo.",
-      "keyPoints": [
-        "Carvallo cumplirá 15 días en la Agrupación Especializada.",
-        "Carvallo se abstuvo de declarar en la audiencia.",
-        "El juez citó razones de seguridad por la denuncia contra exdirectivos de Ueno Bank."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Juez ordena prisión preventiva para el extitular del BCP, Carlos Carvallo",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo",
-          "publishedAt": "2026-11-08T11:53:51.075Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ex titular del BCP irá a la Agrupación Especializada por 15 días",
-          "url": "https://www.adndigital.com.py/ex-titular-del-bcp-ira-a-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-08T11:25:00.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/carlos-carvallo.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
-          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-08T01:28:45.000Z",
-          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
-          "publishedAt": "2026-11-07T23:33:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
-          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
-          "publishedAt": "2026-11-07T23:26:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/IUJIUK6TSVB7NGF2PLW7XNM5QU.jpg?auth=6134af485e1e9a4391f9429027cc82158f4f912da74ffa792802b78dec93e83a&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/08/juez-ordena-prision-preventiva-para-el-extitular-del-bcp-carlos-carvallo"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T12:07:10.881Z",
-      "updatedSlot": "manana",
-      "score": 20.65
+      "score": 20.49
     },
     {
       "id": "ev-0ltikc3",
@@ -614,7 +646,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 16.8
+      "score": 16.51
     },
     {
       "id": "ev-1ieslsu",
@@ -705,7 +737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 14.62
+      "score": 14.33
     },
     {
       "id": "ev-10g95ga",
@@ -756,7 +788,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 13.9
+      "score": 13.61
     },
     {
       "id": "ev-1wxrfm0",
@@ -807,7 +839,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 12.99
+      "score": 12.7
     },
     {
       "id": "ev-0u46q63",
@@ -874,7 +906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 11.49
+      "score": 11.2
     },
     {
       "id": "ev-1u88z2u",
@@ -913,7 +945,56 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
+    },
+    {
+      "id": "ev-087i6vb",
+      "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
+      "summary": "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados.",
+      "keyPoints": [
+        "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
+          "url": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921",
+          "publishedAt": "2026-11-08T17:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
+          "url": "https://www.abc.com.py/internacionales/2026/11/08/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
+          "publishedAt": "2026-11-08T03:25:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
+          "publishedAt": "2026-11-08T02:50:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T19:37:09.275Z",
+      "updatedSlot": "tarde",
+      "score": 8.32
     },
     {
       "id": "ev-1hq8cf6",
@@ -956,7 +1037,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.56
+      "score": 8.27
     },
     {
       "id": "ev-08qosm0",
@@ -999,7 +1080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 8
     },
     {
       "id": "ev-1dhce1h",
@@ -1043,7 +1124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-1w2hbsa",
@@ -1130,7 +1211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 7.39
+      "score": 7.1
     },
     {
       "id": "ev-0leh2pw",
@@ -1177,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 7.24
+      "score": 6.95
     },
     {
       "id": "ev-1bv8vse",
@@ -1216,7 +1297,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 7.19
+      "score": 6.9
     },
     {
       "id": "ev-1aakcjq",
@@ -1260,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1j3o3o1",
@@ -1304,7 +1385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1wr4l1r",
@@ -1341,7 +1422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1pnxez2",
@@ -1385,7 +1466,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1u25o47",
@@ -1428,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.9
+      "score": 5.6
     },
     {
       "id": "ev-1o5x62u",
@@ -1457,7 +1538,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-05pjlpl",
@@ -1488,7 +1569,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1txbsaa",
@@ -1519,7 +1600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0ktgkcf",
@@ -1550,7 +1631,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1hdloqx",
@@ -1579,7 +1660,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1xyscm0",
@@ -1608,7 +1689,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0wh52gr",
@@ -1637,7 +1718,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-0hkbyoe",
@@ -1670,7 +1751,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.78
     },
     {
       "id": "ev-13i2bwp",
@@ -1703,7 +1784,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.75
     },
     {
       "id": "ev-15au31d",
@@ -1736,7 +1817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1tj5wt3",
@@ -1772,7 +1853,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1wmvgtu",
@@ -1807,7 +1888,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1t55gn8",
@@ -1838,7 +1919,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-04m2o1s",
@@ -1873,7 +1954,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-09duvj8",
@@ -1908,7 +1989,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0nompr2",
@@ -1937,7 +2018,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1lrck8j",
@@ -1973,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-183fe2t",
@@ -2002,7 +2083,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0oom86x",
@@ -2035,7 +2116,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-16r5tl2",
@@ -2070,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.64
     },
     {
       "id": "ev-164t4d7",
@@ -2105,7 +2186,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1fvkyfa",
@@ -2148,46 +2229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 4.39
-    },
-    {
-      "id": "ev-087i6vb",
-      "title": "Evacuan sede de Caracol Televisión en Bogotá por aviso de posible atentado",
-      "summary": "Según el canal, las autoridades le informaron sobre la intención de grupos ilegales de atentar contra la emisora. Caracol Televisión evacuó su sede, donde también funcionan el diario El Espectador y Blu Radio, y dijo que tomó medidas para proteger a su personal e instalaciones.\n\nEl diario El Espectador informó que la Policía de Bogotá afirmó que no hay amenaza de bomba en el lugar y que, por ahora, no hay evidencia de explosivos. La policía no dio más detalles sobre un eventual despliegue en el edificio.\n\nCaracol Radio dijo también que recibió un aviso de riesgo de atentado contra la empresa y otros medios. La defensora del pueblo, Iris Marín, expresó preocupación y pidió a las autoridades esclarecer lo ocurrido y establecer si la información es veraz.",
-      "keyPoints": [
-        "Caracol Televisión evacuó su sede en Bogotá tras un aviso de posible atentado.",
-        "La Policía de Bogotá afirmó que no hay evidencia de explosivos.",
-        "La defensora del pueblo, Iris Marín, pidió esclarecer la información."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
-          "url": "https://www.abc.com.py/internacionales/2026/11/08/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
-          "publishedAt": "2026-11-08T03:25:09.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
-          "publishedAt": "2026-11-08T02:50:10.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T08:07:13.644Z",
-      "updatedSlot": "manana",
-      "score": 3.44
+      "score": 4.1
     },
     {
       "id": "ev-086s6ts",
@@ -2218,7 +2260,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.52
     },
     {
       "id": "ev-0muns0n",
@@ -2249,7 +2291,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.51
     },
     {
       "id": "ev-1ia2vv7",
@@ -2280,7 +2322,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.49
+      "score": 2.2
     },
     {
       "id": "ev-0py07ff",
@@ -2311,7 +2353,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.13
+      "score": 1.84
     }
   ],
   "runs": [
@@ -2335,6 +2377,13 @@
       "added": 0,
       "updated": 8,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-08T19:37:09.275Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 14
     }
   ]
 }
