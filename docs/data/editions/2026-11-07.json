@@ -1,11 +1,318 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-07T22:55:27.560Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-08T02:20:18.428Z",
+  "aiMode": "mixto",
+  "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0mc3b0m",
+      "title": "Carvallo guardará prisión preventiva 15 días en la Agrupación Especializada",
+      "summary": "El juzgado determinó que el extitular del Banco Central, Carlos Carvallo, cumplirá prisión preventiva en la Agrupación Especializada de la Policía Nacional por un plazo inicial de 15 días. La medida se oficializó mediante el Oficio N.º 317.\n\nEl período se extenderá hasta que el juzgado reciba un informe del Ministerio de Justicia o de una institución penitenciaria. Según el juez Humberto Otazú, la medida busca resguardar la integridad física del procesado.\n\nCarvallo se entregó el viernes ante las autoridades tras una orden de detención dictada por la Fiscalía. Había renunciado a la presidencia del BCP el 3 de noviembre.",
+      "keyPoints": [
+        "Carvallo cumplirá 15 días de prisión preventiva en la Agrupación Especializada.",
+        "El plazo puede extenderse según informe de Ministerio de Justicia.",
+        "Carvallo se presentó ante Investigaciones tras la orden de detención."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Disponen reclusión de Carlos Carvallo en la Agrupación Especializada por 15 días",
+          "url": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-08T01:28:45.000Z",
+          "image": "https://www.abc.com.py/resizer/G6_r4jEH69IrXfiMtgQTMcI45n0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ex titular del BCP cumplirá reclusión por 15 días en la Agrupación Especializada",
+          "url": "https://www.ultimahora.com/ex-titular-del-bcp-cumplira-reclusion-por-15-dias-en-la-agrupacion-especializada",
+          "publishedAt": "2026-11-07T23:43:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP estará recluido en la Agrupación Especializada por 15 días",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/07/expresidente-del-bcp-estara-recluido-en-la-agrupacion-especializada-por-15-dias",
+          "publishedAt": "2026-11-07T23:33:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RP4FZ6roxmrKchdLynOmSUPqjzI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LBQLBDEMQNBYXB46JPJ7H6CK6Q.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Dictan prisión preventiva para Carlos Carvallo y ordenan su reclusión en la Agrupación Especializada",
+          "url": "https://elnacional.com.py/politica/dictan-prision-preventiva-carlos-carvallo-ordenan-su-reclusion-agrupacion-especializada-n114897",
+          "publishedAt": "2026-11-07T23:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea8d088e45.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: Para la Fiscalía, Peña se puede fugar y Carvallo, ocultar pruebas",
+          "url": "https://www.abc.com.py/nacionales/2026/11/07/ueno-bank-para-la-fiscalia-pena-se-puede-fugar-y-carvallo-ocultar-pruebas",
+          "publishedAt": "2026-11-07T20:59:51.000Z",
+          "image": "https://www.abc.com.py/resizer/kgZTElJOTqSNPALh9uI_n5ih4Hk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LFODQETRERD3DAGYE37KXVVUHE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Expresidente del BCP imputado por tres hechos punibles en el caso ueno bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/expresidente-del-bcp-imputado-por-tres-hechos-punibles-en-el-caso-ueno-bank",
+          "publishedAt": "2026-11-07T20:11:53.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fUpm1yzfQDhumt-3bmg3XpKHZcA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QETAKWU6QZGL5OI55OD3WOL2KA.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña se expone a 15 años de cárcel, según hechos imputados por Fiscalía",
+          "url": "https://www.abc.com.py/nacionales/2026/11/07/santiago-pena-se-expone-a-15-anos-de-carcel-segun-hechos-imputados-por-fiscalia",
+          "publishedAt": "2026-11-07T19:34:45.000Z",
+          "image": "https://www.abc.com.py/resizer/2jql6sFvN-KnSJUVQTu_ksDoJVY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IXASNYKI2ZBY3HTMSWZYLFIYVA.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía imputa a Peña y Carvallo con pedido de prisión preventiva",
+          "url": "https://www.adndigital.com.py/fiscalia-imputa-a-pena-y-carvallo-con-pedido-de-prision-preventiva",
+          "publishedAt": "2026-11-07T18:41:06.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-154031.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía afirma tener documentos del BCP que sustentan las sospechas contra Peña y Carvallo",
+          "url": "https://5dias.com.py/article/fiscala-afirma-tener-documentos-del-bcp-que-sustentan-las-sospechas-contra-pea-y-carvallo",
+          "publishedAt": "2026-11-07T18:38:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Gemini_Generated_Image_ep5xu9ep5xu9ep5x_20261107_154056.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía pide prisión preventiva para Peña y Carvallo y apunta a sus bienes",
+          "url": "https://5dias.com.py/article/fiscala-pide-prisin-preventiva-para-pea-y-carvallo-y-apunta-a-sus-bienes",
+          "publishedAt": "2026-11-07T18:10:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/image_21_20261107_151114.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Imputan a Santiago Peña por lesión de confianza y administración en provecho propio",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/imputan-a-santiago-pena-por-lesion-de-confianza-y-administracion-en-provecho-propio",
+          "publishedAt": "2026-11-07T18:05:29.933Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/E4A6AJWSRVCC5OSXO4F442AOS4.jpg?auth=adc36be937bb88b4ef15939dc0add58b86d5e8ec113f0d2f9d0e5db5887b3660&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía pide prisión para Peña y Carvallo",
+          "url": "https://elnacional.com.py/politica/fiscalia-pide-prision-pena-carvallo-n114880",
+          "publishedAt": "2026-11-07T18:04:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef68bddb4a1.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sin esposas y escoltado: manifestantes critican privilegios para Peña en Fiscalía",
+          "url": "https://www.abc.com.py/politica/2026/11/07/sin-esposas-y-escoltado-manifestantes-critican-privilegios-para-pena-en-fiscalia",
+          "publishedAt": "2026-11-07T17:14:06.000Z",
+          "image": "https://www.abc.com.py/resizer/UStcr08XVjU02eDNdlOkFox6TyI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5GS25UDJ45CRXGKLW6HCDQ7AUY.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Peña llegó escoltado y sin esposas al Ministerio Público",
+          "url": "https://www.telefuturo.com.py/pena-llego-escoltado-y-sin-esposas-al-ministerio-publico",
+          "publishedAt": "2026-11-07T15:43:15.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank",
+          "publishedAt": "2026-11-07T15:30:18.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Sin esposas y bajo fuerte custodia, Peña llegó a Fiscalía para declarar",
+          "url": "https://elnacional.com.py/politica/sin-esposas-fuerte-custodia-pena-llego-fiscalia-declarar-n114868",
+          "publishedAt": "2026-11-07T15:04:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef3dc752b5c.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Bajo custodia policial, Peña comparece ante fiscales",
+          "url": "https://www.adndigital.com.py/bajo-custodia-policial-pena-comparece-ante-fiscales",
+          "publishedAt": "2026-11-07T14:36:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-112846.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Es el fracaso de otro outsider de la política”, dice senador sobre destitución de Santiago Peña",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena",
+          "publishedAt": "2026-11-07T14:25:56.000Z",
+          "image": "https://www.abc.com.py/resizer/6M_IlNOCjTlrrsgqt5qVS3yZegM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: “Santiago Peña se tenía que ir por juicio político porque aceptar una renuncia iba a ser un premio”, dice diputada",
+          "url": "https://www.abc.com.py/730am/no-tiene-nombre/2026/11/07/audio-santiago-pena-se-tenia-que-ir-por-juicio-politico-porque-aceptar-una-renuncia-iba-a-ser-un-premio-dice-diputada",
+          "publishedAt": "2026-11-07T14:22:16.000Z",
+          "image": "https://www.abc.com.py/resizer/EfUWfv67kMTUVcISDV6HKUC-sJ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLZSUCMP5VDMRAN73P7J525JSQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña: por razones de seguridad, su declaración se traslada a la Fiscalía General del Estado",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/santiago-pena-por-razones-de-seguridad-su-declaracion-se-traslada-a-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:42:07.000Z",
+          "image": "https://www.abc.com.py/resizer/wIM7z-CCoGmsF2wN4boUR0E7-AE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G4PE6MXZBVFORODHRPO45AJW6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Por seguridad, audiencia de Peña será en la Fiscalía General del Estado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/por-seguridad-audiencia-de-pena-sera-en-la-fiscalia-general-del-estado",
+          "publishedAt": "2026-11-07T13:34:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GtG3tJbG9dYYkpJ-vU8Gk0atL-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWWCF2XAMVDIRNWWFTY5K2AT6M.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña declarará a las 11:30 en la Fiscalía",
+          "url": "https://www.adndigital.com.py/santiago-pena-declarara-a-las-1130-en-la-fiscalia",
+          "publishedAt": "2026-11-07T12:47:52.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-172237.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:37:31.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Santiago Peña debe declarar ante Fiscalía tras ser detenido",
+          "url": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859",
+          "publishedAt": "2026-11-07T12:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
+          "url": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
+          "publishedAt": "2026-11-07T12:18:39.000Z",
+          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
+          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
+          "publishedAt": "2026-11-07T11:58:49.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
+          "publishedAt": "2026-11-07T09:40:40.705Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "De distinguido titular del BCP a estar preso por caso ueno",
+          "url": "https://elnacional.com.py/politica/de-distinguido-titular-bcp-estar-preso-caso-ueno-n114853",
+          "publishedAt": "2026-11-07T04:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeea93f65ee4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
+          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
+          "publishedAt": "2026-11-07T03:07:31.000Z",
+          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Se entregó Carlos Carvallo, extitular del BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/se-entrego-carlos-carvallo-extitular-del-bcp",
+          "publishedAt": "2026-11-07T02:52:33.000Z",
+          "image": "https://www.lanacion.com.py/resizer/JGh22YW9RYc6TVv5y71R-9wMvAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TC5B6V6TWBFT3OQWO52ZEAZZYU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
+          "publishedAt": "2026-11-06T23:58:51.992Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Santiago Peña, detenido en su domicilio",
+          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
+          "publishedAt": "2026-11-06T23:39:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
+          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
+          "publishedAt": "2026-11-06T23:37:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía confirma detención de Santiago Peña en su domicilio",
+          "url": "https://elnacional.com.py/politica/fiscalia-confirma-detencion-santiago-pena-su-domicilio-n114845",
+          "publishedAt": "2026-11-06T23:23:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aee61d0db62a.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Imputan y ordenan detención del ex presidente Santiago Peña",
+          "url": "https://www.telefuturo.com.py/imputan-y-ordenan-detencion-del-ex-presidente-santiago-pena",
+          "publishedAt": "2026-11-06T22:59:07.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MFLFO6LDC5EYPNVQSEUCBES7JE.jpeg?auth=09efdb37e7dd613589b9c7a57c93d41df9b4ed8a92ec82832c5e85320145471b&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/07/disponen-reclusion-de-carlos-carvallo-en-la-agrupacion-especializada-por-15-dias"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T02:20:18.428Z",
+      "updatedSlot": "tarde",
+      "score": 29.93
+    },
     {
       "id": "ev-1yk0pjd",
       "title": "Israel felicita a Pedro Alliana por asumir la presidencia de la República",
@@ -191,226 +498,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T22:55:27.560Z",
       "updatedSlot": "tarde",
-      "score": 29.59
-    },
-    {
-      "id": "ev-0mc3b0m",
-      "title": "Fiscalía imputa a Santiago Peña y a Carlos Carvallo y ordena sus detenciones",
-      "summary": "El Ministerio Público imputó al expresidente Santiago Peña y al expresidente del Banco Central del Paraguay (BCP), Carlos Carvallo, en la causa por la crisis de Ueno Bank. Según la Fiscalía, a Peña se le atribuyen lesión de confianza, como instigador, y administración en provecho propio, como autor. Carvallo también está imputado.\n\nLa Fiscalía ordenó la detención de ambos. Peña fue detenido en su domicilio el viernes 6 de noviembre, tras su destitución mediante juicio político. Carvallo se presentó durante la noche ante el Departamento de Investigaciones de la Policía Nacional. Según ABC Color, la expectativa de pena es de hasta 15 años para Peña y de hasta 20 años para Carvallo, en caso de condena.",
-      "keyPoints": [
-        "La Fiscalía imputó a Peña y a Carvallo en la causa por Ueno Bank.",
-        "Peña fue detenido en su domicilio el viernes 6 de noviembre.",
-        "Carvallo se presentó ante la Policía en cumplimiento de la orden de detención."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Santiago Peña se expone a 15 años de cárcel, según hechos imputados por Fiscalía",
-          "url": "https://www.abc.com.py/nacionales/2026/11/07/santiago-pena-se-expone-a-15-anos-de-carcel-segun-hechos-imputados-por-fiscalia",
-          "publishedAt": "2026-11-07T19:34:45.000Z",
-          "image": "https://www.abc.com.py/resizer/2jql6sFvN-KnSJUVQTu_ksDoJVY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IXASNYKI2ZBY3HTMSWZYLFIYVA.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Imputan a Santiago Peña por lesión de confianza y administración en provecho propio",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/imputan-a-santiago-pena-por-lesion-de-confianza-y-administracion-en-provecho-propio",
-          "publishedAt": "2026-11-07T18:05:29.933Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/E4A6AJWSRVCC5OSXO4F442AOS4.jpg?auth=adc36be937bb88b4ef15939dc0add58b86d5e8ec113f0d2f9d0e5db5887b3660&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Sin esposas y escoltado: manifestantes critican privilegios para Peña en Fiscalía",
-          "url": "https://www.abc.com.py/politica/2026/11/07/sin-esposas-y-escoltado-manifestantes-critican-privilegios-para-pena-en-fiscalia",
-          "publishedAt": "2026-11-07T17:14:06.000Z",
-          "image": "https://www.abc.com.py/resizer/UStcr08XVjU02eDNdlOkFox6TyI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5GS25UDJ45CRXGKLW6HCDQ7AUY.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Peña llegó escoltado y sin esposas al Ministerio Público",
-          "url": "https://www.telefuturo.com.py/pena-llego-escoltado-y-sin-esposas-al-ministerio-publico",
-          "publishedAt": "2026-11-07T15:43:15.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno bank",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/expresidente-santiago-pena-comparece-ante-la-fiscalia-de-paraguay-por-el-caso-ueno-bank",
-          "publishedAt": "2026-11-07T15:30:18.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Sin esposas y bajo fuerte custodia, Peña llegó a Fiscalía para declarar",
-          "url": "https://elnacional.com.py/politica/sin-esposas-fuerte-custodia-pena-llego-fiscalia-declarar-n114868",
-          "publishedAt": "2026-11-07T15:04:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aef3dc752b5c.jfif"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Bajo custodia policial, Peña comparece ante fiscales",
-          "url": "https://www.adndigital.com.py/bajo-custodia-policial-pena-comparece-ante-fiscales",
-          "publishedAt": "2026-11-07T14:36:16.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-07-at-112846.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: “Es el fracaso de otro outsider de la política”, dice senador sobre destitución de Santiago Peña",
-          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-es-el-fracaso-de-otro-outsider-de-la-politica-dice-senador-sobre-destitucion-de-santiago-pena",
-          "publishedAt": "2026-11-07T14:25:56.000Z",
-          "image": "https://www.abc.com.py/resizer/6M_IlNOCjTlrrsgqt5qVS3yZegM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VBNQ2VP4FFC7DLV6HMMW6MWLUU.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: “Santiago Peña se tenía que ir por juicio político porque aceptar una renuncia iba a ser un premio”, dice diputada",
-          "url": "https://www.abc.com.py/730am/no-tiene-nombre/2026/11/07/audio-santiago-pena-se-tenia-que-ir-por-juicio-politico-porque-aceptar-una-renuncia-iba-a-ser-un-premio-dice-diputada",
-          "publishedAt": "2026-11-07T14:22:16.000Z",
-          "image": "https://www.abc.com.py/resizer/EfUWfv67kMTUVcISDV6HKUC-sJ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLZSUCMP5VDMRAN73P7J525JSQ.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Santiago Peña: por razones de seguridad, su declaración se traslada a la Fiscalía General del Estado",
-          "url": "https://www.abc.com.py/policiales/2026/11/07/santiago-pena-por-razones-de-seguridad-su-declaracion-se-traslada-a-la-fiscalia-general-del-estado",
-          "publishedAt": "2026-11-07T13:42:07.000Z",
-          "image": "https://www.abc.com.py/resizer/wIM7z-CCoGmsF2wN4boUR0E7-AE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G4PE6MXZBVFORODHRPO45AJW6E.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Por seguridad, audiencia de Peña será en la Fiscalía General del Estado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/07/por-seguridad-audiencia-de-pena-sera-en-la-fiscalia-general-del-estado",
-          "publishedAt": "2026-11-07T13:34:40.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GtG3tJbG9dYYkpJ-vU8Gk0atL-E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWWCF2XAMVDIRNWWFTY5K2AT6M.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Santiago Peña declarará a las 11:30 en la Fiscalía",
-          "url": "https://www.adndigital.com.py/santiago-pena-declarara-a-las-1130-en-la-fiscalia",
-          "publishedAt": "2026-11-07T12:47:52.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-172237.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
-          "url": "https://www.abc.com.py/730am/contacto-ciudadano/2026/11/07/audio-pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
-          "publishedAt": "2026-11-07T12:37:31.000Z",
-          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Santiago Peña debe declarar ante Fiscalía tras ser detenido",
-          "url": "https://elnacional.com.py/politica/santiago-pena-debe-declarar-fiscalia-tras-ser-detenido-n114859",
-          "publishedAt": "2026-11-07T12:22:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ad62245a775a.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Peña y Carvallo declaran hoy ante el Ministerio Público: esto dice el fiscal de la causa",
-          "url": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa",
-          "publishedAt": "2026-11-07T12:18:39.000Z",
-          "image": "https://www.abc.com.py/resizer/sPvmcD2pupXdvZ69jxHDG9XBmX8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z662GS2LRFGDBOQLV65MIOQFEU.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Tras ser detenido, Santiago Peña debe prestar declaración antes del mediodía en la Fiscalía",
-          "url": "https://www.ultimahora.com/tras-ser-detenido-santiago-pena-debe-prestar-declaracion-antes-del-mediodia-en-la-fiscalia",
-          "publishedAt": "2026-11-07T11:58:49.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña no pudo quedarse en su casa y espera en el Regimiento la hora de ir a la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/07/pena-no-pudo-quedarse-en-su-casa-y-espera-en-el-regimiento-la-hora-de-ir-a-la-fiscalia",
-          "publishedAt": "2026-11-07T09:40:40.705Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/BIBY2KPMUZEFZOWQZWH3UH66OQ.jpeg?auth=f4cbb213d7cf80000e2520de81120011d5ae3973aeaa80873d89b2240289f90f&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "De distinguido titular del BCP a estar preso por caso ueno",
-          "url": "https://elnacional.com.py/politica/de-distinguido-titular-bcp-estar-preso-caso-ueno-n114853",
-          "publishedAt": "2026-11-07T04:26:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aeea93f65ee4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Video: así trasladaron a Santiago Peña a la Escolta Presidencial",
-          "url": "https://www.abc.com.py/policiales/2026/11/07/video-asi-trasladaron-a-santiago-pena-a-la-escolta-presidencial",
-          "publishedAt": "2026-11-07T03:07:31.000Z",
-          "image": "https://www.abc.com.py/resizer/WCzOurMV8jewZUAZnji0rcJXNc8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VLDE2UMMCFEBHHWSRT44JHRLEQ.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Peña queda bajo arresto domiciliario y debe declarar este sábado ante la Fiscalía",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/pena-queda-bajo-arresto-domiciliario-y-debe-declarar-este-sabado-ante-la-fiscalia",
-          "publishedAt": "2026-11-06T23:58:51.992Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ATUATMWADBA5TEFWRFJ4HGMIVI.jpg?auth=9682ff2c13630c6895fcde937ea87ed7d34e5cc719370db14a47893510cf281e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Santiago Peña, detenido en su domicilio",
-          "url": "https://www.telefuturo.com.py/santiago-pena-detenido-en-su-domicilio",
-          "publishedAt": "2026-11-06T23:39:08.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Santiago Peña queda detenido en su domicilio tras ser destituido de la Presidencia",
-          "url": "https://www.adndigital.com.py/santiago-pena-queda-detenido-en-su-domicilio-tras-ser-destituido-de-la-presidencia",
-          "publishedAt": "2026-11-06T23:37:45.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía confirma detención de Santiago Peña en su domicilio",
-          "url": "https://elnacional.com.py/politica/fiscalia-confirma-detencion-santiago-pena-su-domicilio-n114845",
-          "publishedAt": "2026-11-06T23:23:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aee61d0db62a.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Imputan y ordenan detención del ex presidente Santiago Peña",
-          "url": "https://www.telefuturo.com.py/imputan-y-ordenan-detencion-del-ex-presidente-santiago-pena",
-          "publishedAt": "2026-11-06T22:59:07.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aee61d0db62a.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fiscalia-confirma-detencion-santiago-pena-su-domicilio-n114845"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T22:55:27.560Z",
-      "updatedSlot": "tarde",
-      "score": 26.72
+      "score": 29.31
     },
     {
       "id": "ev-0xusz64",
@@ -557,7 +645,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 26.04
+      "score": 25.75
     },
     {
       "id": "ev-0b8o5ab",
@@ -632,7 +720,90 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 19.51
+      "score": 19.23
+    },
+    {
+      "id": "ev-1icqc6y",
+      "title": "EE.UU. y Brasil respaldan a Alliana y ofrecen fortalecer la relación con Paraguay",
+      "summary": "La Embajada de Estados Unidos en Asunción calificó a Paraguay como socio regional estratégico y aliado. Expresó su disposición a trabajar con el gobierno del presidente Pedro Alliana.\n\nEl presidente de Brasil, Luiz Inácio Lula da Silva, felicitó a Alliana y le deseó éxitos. Lula propuso una agenda de diálogo y cooperación y lo invitó a visitar Brasilia.\n\nAlliana agradeció el respaldo de Estados Unidos en la red X y reafirmó su compromiso de seguir fortaleciendo la alianza estratégica.",
+      "keyPoints": [
+        "EE.UU. calificó a Paraguay como socio regional estratégico.",
+        "Lula da Silva felicitó a Alliana e invitó a visitarlo en Brasilia.",
+        "Alliana asumió tras la destitución de Santiago Peña."
+      ],
+      "category": "internacional",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pedro Alliana promete seguir fortaleciendo alianza estratégica entre Paraguay y EEUU",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/pedro-alliana-promete-seguir-fortaleciendo-alianza-estrategica-entre-paraguay-y-eeuu",
+          "publishedAt": "2026-11-07T23:30:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "EE.UU. y Brasil expresan respaldo a Alliana y buscan fortalecer vínculos con Paraguay",
+          "url": "https://www.adndigital.com.py/ee-uu-y-brasil-expresan-respaldo-a-alliana-y-buscan-fortalecer-vinculos-con-paraguay",
+          "publishedAt": "2026-11-07T13:45:49.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/pedro-alliana.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "EE. UU. ratifica alianza con Paraguay y expresa respaldo al gobierno de Alliana",
+          "url": "https://www.lanacion.com.py/politica/2026/11/07/ee-uu-ratifica-alianza-con-paraguay-y-expresa-respaldo-al-gobierno-de-alliana",
+          "publishedAt": "2026-11-07T12:22:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cvM2SYFkKTB5Wba__Ml6Z9VNe1I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RFTOID2QANFCJMNEVUA7BLEK4M.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula le desea éxito a Alliana y se propone a trabajar con el nuevo presidente paraguayo",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/lula-le-desea-exito-a-alliana-y-se-propone-a-trabajar-con-el-nuevo-presidente-paraguayo",
+          "publishedAt": "2026-11-07T03:20:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lula saluda a Pedro Alliana y lo invita a Brasilia",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia",
+          "publishedAt": "2026-11-07T01:15:18.437Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Lula felicita a Pedro Alliana y busca fortalecer la relación con Paraguay",
+          "url": "https://www.lanacion.com.py/politica/2026/11/06/lula-felicita-a-pedro-alliana-y-busca-fortalecer-la-relacion-con-paraguay",
+          "publishedAt": "2026-11-07T01:00:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/hrx9bcSJZrK1pKmuttjAgJo4LbI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/24CBSLN6BZBI7BSJGBL2RBMBCA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Lula felicita a Alliana y le invita a trabajar abierta y francamente",
+          "url": "https://www.abc.com.py/politica/2026/11/06/lula-felicita-a-alliana-y-le-invita-a-trabajar-abierta-y-francamente",
+          "publishedAt": "2026-11-07T00:50:17.000Z",
+          "image": "https://www.abc.com.py/resizer/Lqh2Dv5d3KPaihj92IGECn3s43k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H6KY3UPNXZEEXFCA7XNEGTZYHY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/pedro-alliana.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/ee-uu-y-brasil-expresan-respaldo-a-alliana-y-buscan-fortalecer-vinculos-con-paraguay"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T02:20:18.428Z",
+      "updatedSlot": "tarde",
+      "score": 17.76
     },
     {
       "id": "ev-0l69abg",
@@ -707,74 +878,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T22:55:27.560Z",
       "updatedSlot": "tarde",
-      "score": 17.71
-    },
-    {
-      "id": "ev-1icqc6y",
-      "title": "Lula felicita a Alliana y lo invita a visitar Brasilia",
-      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, felicitó a Pedro Alliana por asumir la Presidencia de Paraguay. Le deseó éxitos en el cargo y expresó su intención de trabajar con él de manera abierta y cooperativa.\n\nLula publicó el mensaje en su cuenta de X. Según ADN Digital, también propuso una agenda basada en el diálogo y la cooperación, con foco en las relaciones bilaterales y la integración sudamericana.\n\nLula invitó a Alliana a visitar Brasilia para revisar los temas de interés común. Ese encuentro todavía no tiene fecha informada en las notas.",
-      "keyPoints": [
-        "Lula felicitó a Alliana por su asunción como presidente.",
-        "Propuso una agenda de diálogo y cooperación bilateral.",
-        "Invitó a Alliana a visitar Brasilia."
-      ],
-      "category": "internacional",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "EE.UU. y Brasil expresan respaldo a Alliana y buscan fortalecer vínculos con Paraguay",
-          "url": "https://www.adndigital.com.py/ee-uu-y-brasil-expresan-respaldo-a-alliana-y-buscan-fortalecer-vinculos-con-paraguay",
-          "publishedAt": "2026-11-07T13:45:49.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/pedro-alliana.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Lula le desea éxito a Alliana y se propone a trabajar con el nuevo presidente paraguayo",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/lula-le-desea-exito-a-alliana-y-se-propone-a-trabajar-con-el-nuevo-presidente-paraguayo",
-          "publishedAt": "2026-11-07T03:20:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Lula saluda a Pedro Alliana y lo invita a Brasilia",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia",
-          "publishedAt": "2026-11-07T01:15:18.437Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Lula felicita a Pedro Alliana y busca fortalecer la relación con Paraguay",
-          "url": "https://www.lanacion.com.py/politica/2026/11/06/lula-felicita-a-pedro-alliana-y-busca-fortalecer-la-relacion-con-paraguay",
-          "publishedAt": "2026-11-07T01:00:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/hrx9bcSJZrK1pKmuttjAgJo4LbI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/24CBSLN6BZBI7BSJGBL2RBMBCA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Lula felicita a Alliana y le invita a trabajar abierta y francamente",
-          "url": "https://www.abc.com.py/politica/2026/11/06/lula-felicita-a-alliana-y-le-invita-a-trabajar-abierta-y-francamente",
-          "publishedAt": "2026-11-07T00:50:17.000Z",
-          "image": "https://www.abc.com.py/resizer/Lqh2Dv5d3KPaihj92IGECn3s43k=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/H6KY3UPNXZEEXFCA7XNEGTZYHY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/UYAHJ657RNHF3GL3KYPU5SH3FQ.jfif?auth=f07ff3b88905944c2de9373b5ee7b36a2efec45df31c3aab31069452ea792f28&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/06/lula-saluda-a-pedro-alliana-y-lo-invita-a-brasilia"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T16:07:11.032Z",
-      "updatedSlot": "tarde",
-      "score": 17.24
+      "score": 17.42
     },
     {
       "id": "ev-0n1hykn",
@@ -833,7 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 17
+      "score": 16.72
     },
     {
       "id": "ev-0zm6mzw",
@@ -924,7 +1028,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 16.99
+      "score": 16.7
     },
     {
       "id": "ev-0j1puov",
@@ -991,7 +1095,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 16.9
+      "score": 16.62
     },
     {
       "id": "ev-1jscmhy",
@@ -1059,7 +1163,99 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 16.36
+      "score": 16.07
+    },
+    {
+      "id": "ev-0pfv14c",
+      "title": "Olimpia vence 3-1 a Guaraní y se acerca al bicampeonato",
+      "summary": "Olimpia ganó 3-1 a Guaraní en el clásico añejo disputado en el estadio Villa Alegre de Encarnación y dio otro paso rumbo al bicampeonato. El Decano es líder absoluto y, según el DT Pablo Sánchez, tiene un porcentaje alto de posibilidades de coronarse, aunque todavía no es campeón.\n\nGuaraní se adelantó a los 8 minutos con gol de Giovanni Gómez. Olimpia reaccionó antes del cuarto de hora, cuando Gabriel Ávalos ganó en el aire un tiro de esquina de Franco Alfonso y empató. Después remontó el marcador. Sánchez destacó la reacción del equipo y dijo que el partido fue incómodo por el viento y la cancha.",
+      "keyPoints": [
+        "Olimpia ganó 3-1 a Guaraní en Encarnación.",
+        "Giovanni Gómez abrió el marcador para Guaraní a los 8 minutos.",
+        "Olimpia es líder y está a siete puntos del segundo.",
+        "Sánchez dijo que el equipo tiene un porcentaje alto de posibilidades de ser campeón."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pablo Sánchez palpita el bicampeonato: “Tenemos un porcentaje alto de posibilidades de lograrlo”",
+          "url": "https://www.abc.com.py/deportes/futbol/olimpia/2026/11/07/pablo-sanchez-palpita-el-bicampeonato-tenemos-un-porcentaje-alto-de-posibilidades-de-lograrlo",
+          "publishedAt": "2026-11-08T01:39:24.000Z",
+          "image": "https://www.abc.com.py/resizer/dS5UXO1bCfAI_NpYtwXqXZtMx90=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PN6WER7Y2FF5LP4GBSPLBTNZF4.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Expreso imprime velocidad rumbo al bicampeonato: Olimpia 3-Guaraní 1",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/el-expreso-imprime-velocidad-rumbo-al-bicampeonato-olimpia-3-guarani-1",
+          "publishedAt": "2026-11-07T21:57:39.000Z",
+          "image": "https://www.abc.com.py/resizer/uEmhfrrHW-yJsOkuhvNey448Jwk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/25CWZKPXKBCYHFBSOLDKWEYVJE.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Guaraní vs. Olimpia: el “clásico más añejo” en vivo desde Encarnación",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-el-clasico-mas-anejo-en-vivo-desde-encarnacion",
+          "publishedAt": "2026-11-07T18:56:16.000Z",
+          "image": "https://www.abc.com.py/resizer/G__4fAjl_542T4cpgigtEC-6pAE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PSNQM5H5CVCJ7OHQCR5WWLEGSA.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-11-07T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El clásico añejo es clave",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave",
+          "publishedAt": "2026-11-07T03:06:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7tX6e_UcOXnNGZu_CAIHVYoV2aw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
+          "publishedAt": "2026-11-06T23:56:10.000Z",
+          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "La gran novedad que asoma en Olimpia para el Clásico Más Añejo",
+          "url": "https://elnacional.com.py/deportes/la-gran-novedad-asoma-olimpia-clasico-mas-anejo-n114838",
+          "publishedAt": "2026-11-06T20:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aee364ce451e.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg?auth=013a52c2896746ba2664e6ecc98c2540d9cc2fa31fa6ac3871778abcea087677&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave"
+      },
+      "firstSeenAt": "2026-11-07T08:07:19.640Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T02:20:18.428Z",
+      "updatedSlot": "tarde",
+      "score": 14.94
     },
     {
       "id": "ev-1yka128",
@@ -1127,83 +1323,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T16:07:11.032Z",
       "updatedSlot": "tarde",
-      "score": 14.91
-    },
-    {
-      "id": "ev-0pfv14c",
-      "title": "Guaraní recibe a Olimpia en el clásico añejo con las entradas casi agotadas",
-      "summary": "Guaraní y Olimpia se enfrentan este sábado en el estadio Villa Alegre de Encarnación, por la fecha 19 del torneo Clausura. El partido comienza a las 17:00. Olimpia llega como líder, con cuatro victorias seguidas, y busca acercarse al título. Guaraní, tercero y a ocho unidades de la cima, necesita ganar para pelear por un lugar en la Copa Libertadores vía acumulativa.\n\nSegún la organización, las entradas están agotadas en Preferencia, Plateas y Gradería Sur, y solo quedan algunas en el sector norte. El público espera más de 12.500 espectadores. La directiva de Guaraní había mudado el partido al interior del país tras retirar la publicidad de Ueno Bank del estadio.\n\nEn Olimpia, el zaguero central dejó atrás una molestia muscular que lo había marginado de los últimos partidos.",
-      "keyPoints": [
-        "Olimpia es líder y llega con cuatro triunfos seguidos.",
-        "Guaraní es tercero, a ocho puntos del líder.",
-        "Las entradas están agotadas en varios sectores del estadio.",
-        "El partido se juega este sábado a las 17:00 en Encarnación."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Guaraní vs. Olimpia: el “clásico más añejo” en vivo desde Encarnación",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-el-clasico-mas-anejo-en-vivo-desde-encarnacion",
-          "publishedAt": "2026-11-07T18:56:16.000Z",
-          "image": "https://www.abc.com.py/resizer/G__4fAjl_542T4cpgigtEC-6pAE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PSNQM5H5CVCJ7OHQCR5WWLEGSA.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Olimpia enfrenta a Guaraní con la misión de dar otro paso hacia el bicampeonato",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/olimpia-enfrenta-a-guarani-con-la-mision-de-dar-otro-paso-hacia-el-bicampeonato",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/mjvBAJBBtxBv8cAkv2NYoghGlx8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VALJQI3DJRGRFDXWHZX3MRTR2I.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Guaraní vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
-          "publishedAt": "2026-11-07T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/HoHedbsKnCR3NnMsubwui0CYSts=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NQ6NCCMX6BCETDMS6R5CGLYJFA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El clásico añejo es clave",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/07/el-clasico-anejo-es-clave",
-          "publishedAt": "2026-11-07T03:06:57.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7tX6e_UcOXnNGZu_CAIHVYoV2aw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/R6QSM5TMIRHEVNL7QCOXAEAGEI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Entradas agotadas para el “Clásico más añejo” que se jugará en Encarnación",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/06/entradas-agotadas-para-el-clasico-mas-anejo-que-se-jugara-en-encarnacion",
-          "publishedAt": "2026-11-06T23:56:10.000Z",
-          "image": "https://www.abc.com.py/resizer/XI4A9aTeE4PkiKhsZfhExCCQEHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MR76TL74FZGAHBT7NONMNEYODE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "La gran novedad que asoma en Olimpia para el Clásico Más Añejo",
-          "url": "https://elnacional.com.py/deportes/la-gran-novedad-asoma-olimpia-clasico-mas-anejo-n114838",
-          "publishedAt": "2026-11-06T20:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aee364ce451e.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/PSNQM5H5CVCJ7OHQCR5WWLEGSA.jpeg?auth=66d466a8121f790bf3842fa3159f79d39bd2c4d1a63498e80220929d2bb60582&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/07/guarani-vs-olimpia-el-clasico-mas-anejo-en-vivo-desde-encarnacion"
-      },
-      "firstSeenAt": "2026-11-07T08:07:19.640Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-07T19:37:12.911Z",
-      "updatedSlot": "tarde",
-      "score": 14.67
+      "score": 14.62
     },
     {
       "id": "ev-116ceqg",
@@ -1263,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T19:37:12.911Z",
       "updatedSlot": "tarde",
-      "score": 14.47
+      "score": 14.19
     },
     {
       "id": "ev-0dk7f43",
@@ -1322,7 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 13.45
+      "score": 13.16
     },
     {
       "id": "ev-09l09ng",
@@ -1458,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 12.44
+      "score": 12.16
     },
     {
       "id": "ev-0kdnp2u",
@@ -1525,7 +1645,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T22:55:27.560Z",
       "updatedSlot": "tarde",
-      "score": 11.9
+      "score": 11.62
     },
     {
       "id": "ev-057tbwt",
@@ -1576,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T12:07:11.031Z",
       "updatedSlot": "manana",
-      "score": 10.05
+      "score": 9.77
     },
     {
       "id": "ev-0ey1qtg",
@@ -1627,7 +1747,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.13
     },
     {
       "id": "ev-16i1a64",
@@ -1670,7 +1790,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-1ilfbhi",
@@ -1713,7 +1833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.09
+      "score": 8
     },
     {
       "id": "ev-03qwqe9",
@@ -1756,7 +1876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 8.03
+      "score": 8
     },
     {
       "id": "ev-17zpe5y",
@@ -1967,7 +2087,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.39
     },
     {
       "id": "ev-0je6n0j",
@@ -2010,7 +2130,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.44
+      "score": 5.15
     },
     {
       "id": "ev-1s9bwjv",
@@ -2053,7 +2173,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.4
+      "score": 5.12
     },
     {
       "id": "ev-1t7huoe",
@@ -2096,7 +2216,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.06
     },
     {
       "id": "ev-0iomorw",
@@ -2168,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-0zgmwzq",
@@ -2197,7 +2317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-1fk8bre",
@@ -2226,7 +2346,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-0s4flq8",
@@ -2255,7 +2375,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-0uv34ba",
@@ -2284,7 +2404,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-1mohjha",
@@ -2313,7 +2433,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.39
     },
     {
       "id": "ev-0xc1cqy",
@@ -2346,7 +2466,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.25
     },
     {
       "id": "ev-0ev2pql",
@@ -2378,7 +2498,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.19
     },
     {
       "id": "ev-0ed98jy",
@@ -2413,7 +2533,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-11wce0r",
@@ -2449,7 +2569,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-1krxtgc",
@@ -2482,7 +2602,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.14
     },
     {
       "id": "ev-0c5l9wi",
@@ -2518,7 +2638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.06
     },
     {
       "id": "ev-1alysyj",
@@ -2554,7 +2674,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.06
     },
     {
       "id": "ev-07r5749",
@@ -2697,7 +2817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 3.11
+      "score": 2.83
     },
     {
       "id": "ev-0ibcwvb",
@@ -2729,7 +2849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.94
     },
     {
       "id": "ev-08svwy2",
@@ -2760,7 +2880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-07T08:07:19.640Z",
       "updatedSlot": "manana",
-      "score": 2.21
+      "score": 1.93
     }
   ],
   "runs": [
@@ -2798,6 +2918,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 22
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-08T02:20:18.428Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 17
     }
   ]
 }
