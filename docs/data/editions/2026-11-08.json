@@ -1,20 +1,20 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-08T23:02:44.081Z",
+  "generatedAt": "2026-11-09T02:35:03.617Z",
   "aiMode": "mixto",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0zd1cih",
-      "title": "Peña pasa su primera noche en el Regimiento Escolta Presidencial",
-      "summary": "El expresidente Santiago Peña pasó su primera noche en el Regimiento Escolta Presidencial sin inconvenientes, según informó El Nacional. Guarda prisión preventiva en ese cuartel, luego de ser imputado en la causa relacionada con ueno bank.\n\nSu esposa lo visitó hasta las 20:30. Sus familiares se encargarán de llevarle la comida, aunque el establecimiento también prevé proveerle alimentos.\n\nEl comandante del regimiento, coronel José Dayub, contó a Radio Ñandutí que Peña le dijo al llegar que sería su huésped por mucho tiempo. El cuartel no tiene celdas, por lo que el expresidente está en una habitación común, con permiso para usar teléfono celular y recibir visitas.",
+      "title": "Incautan el celular que usaba Santiago Peña en el Regimiento Escolta",
+      "summary": "El Ministerio Público incautó el teléfono celular al que tenía acceso Santiago Peña mientras está recluido en el Regimiento Escolta Presidencial. El procedimiento se hizo la noche de este domingo.\n\nEl coronel José Dayub, comandante de la unidad, explicó que el cuartel no tiene celdas. Según sus palabras, Peña ocupa una de las habitaciones, con puerta y llave.\n\nAntes, un medio señaló que tener acceso al celular es un privilegio, y figuras de la Justicia y la política pidieron medidas a las autoridades.",
       "keyPoints": [
-        "Peña pasó la primera noche sin inconvenientes en el Regimiento Escolta Presidencial.",
-        "Su esposa lo visitó hasta las 20:30 y su familia le llevará la comida.",
-        "El comandante Dayub relató la llegada del expresidente al cuartel.",
-        "El cuartel no tiene celdas y Peña está en una habitación común."
+        "El celular de Peña fue incautado el domingo por la noche.",
+        "El comandante del regimiento dice que el cuartel no tiene celdas.",
+        "Peña ocupa una habitación del Regimiento Escolta Presidencial.",
+        "Figuras de la Justicia y la política pidieron medidas por el celular."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Incautan celular al que tenía acceso Santiago Peña en el Regimiento Escolta Presidencial",
+          "url": "https://www.ultimahora.com/incautan-celular-al-que-tenia-acceso-santiago-pena-en-el-regimiento-escolta-presidencial",
+          "publishedAt": "2026-11-09T01:11:18.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Requisan celular a Santiago Peña en su lugar de reclusión",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/requisan-celular-a-santiago-pena-en-su-lugar-de-reclusion",
+          "publishedAt": "2026-11-08T23:08:04.000Z",
+          "image": "https://www.abc.com.py/resizer/YvDgnX0TQTlanh6-T_XRDwC9CoY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RX54AVORLZFUPKUZLA7ZG64VPE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El uso del celular Santiago Peña en reclusión enciende alarmas en la política y la justicia",
+          "url": "https://www.ultimahora.com/el-uso-del-celular-santiago-pena-en-reclusion-enciende-las-alarmas-en-la-politica-y-la-justicia",
+          "publishedAt": "2026-11-08T23:06:49.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -152,15 +176,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/6SC7EVFUD5CH3DEFSACATAKSHI.jpg?auth=11f0f2bae6c16704dd9349746578ed5f5c6fb2bb8bf796c708903fc3972c5b1a&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/RX54AVORLZFUPKUZLA7ZG64VPE.jpg?auth=22f1f15dd97101a9c0acb318c85fb2297a8b8fab88432aa0113e9f8c93e57920&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/08/que-dijo-santiago-pena-al-jefe-del-regimiento-escolta-al-llegar-para-ser-recluido"
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/11/08/requisan-celular-a-santiago-pena-en-su-lugar-de-reclusion"
       },
       "firstSeenAt": "2026-11-08T08:07:13.644Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-08T23:02:44.081Z",
+      "updatedAt": "2026-11-09T02:35:03.617Z",
       "updatedSlot": "tarde",
-      "score": 26.66
+      "score": 26.88
     },
     {
       "id": "ev-0tens84",
@@ -276,7 +300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T23:02:44.081Z",
       "updatedSlot": "tarde",
-      "score": 23.94
+      "score": 23.64
     },
     {
       "id": "ev-0mmxdfa",
@@ -415,7 +439,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 22.95
+      "score": 22.66
     },
     {
       "id": "ev-01byhbv",
@@ -538,7 +562,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T19:37:09.275Z",
       "updatedSlot": "tarde",
-      "score": 20.66
+      "score": 20.37
     },
     {
       "id": "ev-0bq0jq5",
@@ -613,7 +637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T19:37:09.275Z",
       "updatedSlot": "tarde",
-      "score": 20.39
+      "score": 20.09
     },
     {
       "id": "ev-0ltikc3",
@@ -680,7 +704,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 16.22
+      "score": 16
     },
     {
       "id": "ev-1ieslsu",
@@ -771,7 +795,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 14.05
+      "score": 13.75
     },
     {
       "id": "ev-08qosm0",
@@ -822,7 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T23:02:44.081Z",
       "updatedSlot": "tarde",
-      "score": 13.99
+      "score": 13.7
     },
     {
       "id": "ev-10g95ga",
@@ -873,7 +897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 13.32
+      "score": 13.03
     },
     {
       "id": "ev-1wxrfm0",
@@ -924,7 +948,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 12.41
+      "score": 12.12
+    },
+    {
+      "id": "ev-1u25o47",
+      "title": "Palmeiras vence al Vasco en penales y jugará final de la Copa de Brasil",
+      "summary": "El Palmeiras venció al Vasco da Gama en la tanda de penales, tras el partido de vuelta de la semifinal en el estadio São Januário, en Río de Janeiro. Con ese resultado, el equipo paulista se clasificó a la final de la Copa de Brasil, donde enfrentará a Grêmio, que ya había superado al Atlético Mineiro.\n\nPalmeiras llegaba con la ventaja de 1-0 de la ida. En la vuelta, Facundo Colidio marcó para el Vasco a los 16 minutos, y Joaquín Piquerez empató para el Palmeiras al inicio del segundo tiempo con un disparo al ángulo. Según las notas, José Luis Puma Rodríguez volvió a poner adelante al Vasco más adelante en el partido, y el global quedó igualado.\n\nEn el plantel del Palmeiras hubo jugadores paraguayos con protagonismo, como el capitán Gustavo Gómez, Ramón Sosa y Maurício Magalhães Prado. Gómez jugó los 90 minutos en la zaga central.",
+      "keyPoints": [
+        "Palmeiras venció al Vasco da Gama en la tanda de penales.",
+        "La final será contra Grêmio, que ya había superado al Atlético Mineiro.",
+        "Piquerez anotó el empate del Palmeiras al inicio del segundo tiempo.",
+        "Gustavo Gómez, Ramón Sosa y Maurício Magalhães Prado son paraguayos del plantel."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Palmeiras vence en penales a Vasco y jugará la final de la Copa de Brasil",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/palmeiras-de-gustavo-gomez-vence-en-penales-a-vasco-y-jugara-la-final-de-la-copa-de-brasil",
+          "publishedAt": "2026-11-09T01:14:06.000Z",
+          "image": "https://www.abc.com.py/resizer/vsEIXDnh9onfjnLiIln3c5-SUDo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SGVJHXP6P5AHLPVL52PG34JBVM.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Palmeiras avanza a la final de la Copa de Brasil y enfrentará a Grêmio",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/palmeiras-avanza-a-la-final-de-la-copa-de-brasil-y-enfrentara-a-gremio",
+          "publishedAt": "2026-11-08T22:50:11.000Z",
+          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Palmeiras vs. Vasco",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/08/palmeiras-vs-vasco",
+          "publishedAt": "2026-11-08T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9yJ-MZTpGGU30HeuAb99cYya8ho=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZIUCABDY5DSXH4WJ25B5ZNDTM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gremio resiste al temporal y a Atlético Mineiro y pasa a la final de la Copa de Brasil con toque guaraní",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/07/gremio-resiste-al-temporal-y-a-atletico-mineiro-y-pasa-a-la-final-de-la-copa-de-brasil-con-toque-guarani",
+          "publishedAt": "2026-11-08T02:52:37.000Z",
+          "image": "https://www.abc.com.py/resizer/om2xil4NAFcS5JO5lxsOm0YBYSU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZDKRZ3QEXFHINLQF4S3FEF5RWU.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Grêmio se clasifica a la final de la Copa de Brasil y espera a Vasco da Gama o Palmeiras",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/07/gremio-se-clasifica-a-la-final-de-la-copa-de-brasil-y-espera-a-vasco-da-gama-o-palmeiras",
+          "publishedAt": "2026-11-07T23:25:15.000Z",
+          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SGVJHXP6P5AHLPVL52PG34JBVM.jpeg?auth=3c372d6c12684fa6f121aecb811e5b002cf5105a2a5ee80c30c9df8fcf62cb88&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/palmeiras-de-gustavo-gomez-vence-en-penales-a-vasco-y-jugara-la-final-de-la-copa-de-brasil"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T02:35:03.617Z",
+      "updatedSlot": "tarde",
+      "score": 11.89
     },
     {
       "id": "ev-0u46q63",
@@ -991,67 +1083,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 10.91
-    },
-    {
-      "id": "ev-1u25o47",
-      "title": "Palmeiras cae 2-1 ante Vasco pero avanza a la final de la Copa de Brasil",
-      "summary": "Palmeiras avanzó a la final de la Copa de Brasil tras vencer por penales a Vasco da Gama, según la crónica de ABC Color. El equipo de Abel Ferreira perdió 2-1 como visitante en São Januário, pero había ganado 1-0 en la ida y el global quedó 4-5 tras la definición desde el punto penal.\n\nEn el partido, Facundo Colidio abrió el marcador para Vasco a los 16 minutos y Joaquín Piquerez empató para Palmeiras poco después del inicio del segundo tiempo. José Luis \"Puma\" Rodríguez volvió a poner en ventaja al local. En la tanda, Palmeiras convirtió cinco penales, mientras que Carlos Miguel atajó los de Alan Lescano y Andrés Gómez.\n\nEl rival en la final será Grêmio, que superó a Atlético Mineiro por 3-1 en el global de la otra semifinal. Gustavo Gómez, capitán paraguayo, fue titular y jugó los 90 minutos.",
-      "keyPoints": [
-        "Palmeiras perdió 2-1 en Río de Janeiro, pero ganó la tanda de penales 5-4 según el global.",
-        "Vasco marcó con Colidio y Puma Rodríguez; Palmeiras con Piquerez.",
-        "Carlos Miguel atajó dos penales de Vasco en la tanda.",
-        "Grêmio será el rival de Palmeiras en la final."
-      ],
-      "category": "deportes",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Palmeiras avanza a la final de la Copa de Brasil y enfrentará a Grêmio",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/08/palmeiras-avanza-a-la-final-de-la-copa-de-brasil-y-enfrentara-a-gremio",
-          "publishedAt": "2026-11-08T22:50:11.000Z",
-          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Palmeiras vs. Vasco",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/08/palmeiras-vs-vasco",
-          "publishedAt": "2026-11-08T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/9yJ-MZTpGGU30HeuAb99cYya8ho=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CZIUCABDY5DSXH4WJ25B5ZNDTM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gremio resiste al temporal y a Atlético Mineiro y pasa a la final de la Copa de Brasil con toque guaraní",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/07/gremio-resiste-al-temporal-y-a-atletico-mineiro-y-pasa-a-la-final-de-la-copa-de-brasil-con-toque-guarani",
-          "publishedAt": "2026-11-08T02:52:37.000Z",
-          "image": "https://www.abc.com.py/resizer/om2xil4NAFcS5JO5lxsOm0YBYSU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZDKRZ3QEXFHINLQF4S3FEF5RWU.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Grêmio se clasifica a la final de la Copa de Brasil y espera a Vasco da Gama o Palmeiras",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/07/gremio-se-clasifica-a-la-final-de-la-copa-de-brasil-y-espera-a-vasco-da-gama-o-palmeiras",
-          "publishedAt": "2026-11-07T23:25:15.000Z",
-          "image": "https://www.abc.com.py/resizer/tgmz7gnN-fCjb2eM7P42SsYW1Rc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMLZMUL7NBG2HLRTAYYC5WVAQA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CZIUCABDY5DSXH4WJ25B5ZNDTM.jpg?auth=a80cbb0a10b093e3b8ea009093b99cb0968b73cd5e461cfebee732892312592a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/08/palmeiras-vs-vasco"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T23:02:44.081Z",
-      "updatedSlot": "tarde",
-      "score": 9.48
+      "score": 10.62
     },
     {
       "id": "ev-1u88z2u",
@@ -1090,56 +1122,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T12:07:10.881Z",
       "updatedSlot": "manana",
-      "score": 9.04
-    },
-    {
-      "id": "ev-087i6vb",
-      "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
-      "summary": "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados.",
-      "keyPoints": [
-        "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
-          "url": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921",
-          "publishedAt": "2026-11-08T17:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
-          "url": "https://www.abc.com.py/internacionales/2026/11/08/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
-          "publishedAt": "2026-11-08T03:25:09.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
-          "url": "https://www.abc.com.py/internacionales/2026/11/07/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
-          "publishedAt": "2026-11-08T02:50:10.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921"
-      },
-      "firstSeenAt": "2026-11-08T08:07:13.644Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-08T19:37:09.275Z",
-      "updatedSlot": "tarde",
-      "score": 8.04
+      "score": 8.75
     },
     {
       "id": "ev-1hq8cf6",
@@ -1273,6 +1256,55 @@
       "score": 8
     },
     {
+      "id": "ev-087i6vb",
+      "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
+      "summary": "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados.",
+      "keyPoints": [
+        "Una de las principales televisoras de Colombia fue alertada por las autoridades de un posible ataque de grupos armados."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caracol Televisión evacúa sede en Bogotá por amenaza de atentado",
+          "url": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921",
+          "publishedAt": "2026-11-08T17:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
+          "url": "https://www.abc.com.py/internacionales/2026/11/08/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
+          "publishedAt": "2026-11-08T03:25:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Evacuan sede de uno de los principales canales de TV de Colombia por amenaza de atentado",
+          "url": "https://www.abc.com.py/internacionales/2026/11/07/evacuan-sede-de-uno-de-los-principales-canales-de-tv-de-colombia-por-amenaza-de-atentado",
+          "publishedAt": "2026-11-08T02:50:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af08098bd908.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/mundo/caracol-television-evacua-sede-bogota-amenaza-atentado-n114921"
+      },
+      "firstSeenAt": "2026-11-08T08:07:13.644Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-08T19:37:09.275Z",
+      "updatedSlot": "tarde",
+      "score": 7.74
+    },
+    {
       "id": "ev-1ya2fc1",
       "title": "Mandatarios de Perú, Chile y Panamá respaldan a Pedro Alliana",
       "summary": "Varios gobiernos de la región expresaron su respaldo al presidente Pedro Alliana tras su llegada al cargo, luego de la salida de Santiago Peña por juicio político. La presidenta de Perú, Keiko Fujimori, le deseó éxitos y reafirmó la voluntad de fortalecer los lazos de amistad y cooperación.\n\nEl presidente de Chile, José Antonio Kast, felicitó a Alliana y mencionó desafíos comunes en seguridad, combate al crimen organizado y crecimiento económico. Espera reunirse pronto con él. Desde Panamá, José Raúl Mulino anunció que conversará con Alliana el próximo lunes.\n\nLos mensajes destacaron la institucionalidad y la democracia como base de las relaciones bilaterales.",
@@ -1313,7 +1345,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 6.81
+      "score": 6.52
     },
     {
       "id": "ev-0leh2pw",
@@ -1360,7 +1392,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.37
     },
     {
       "id": "ev-1bv8vse",
@@ -1399,7 +1431,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 6.61
+      "score": 6.32
     },
     {
       "id": "ev-1aakcjq",
@@ -1443,7 +1475,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1j3o3o1",
@@ -1487,7 +1519,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1wr4l1r",
@@ -1524,7 +1556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1pnxez2",
@@ -1568,7 +1600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-1o5x62u",
@@ -1597,7 +1629,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-05pjlpl",
@@ -1628,7 +1660,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1txbsaa",
@@ -1659,7 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-0ktgkcf",
@@ -1690,7 +1722,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1hdloqx",
@@ -1719,7 +1751,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1xyscm0",
@@ -1748,7 +1780,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-0wh52gr",
@@ -1777,7 +1809,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-0hkbyoe",
@@ -1810,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.2
     },
     {
       "id": "ev-13i2bwp",
@@ -1843,7 +1875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.46
+      "score": 4.17
     },
     {
       "id": "ev-15au31d",
@@ -1876,7 +1908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.12
     },
     {
       "id": "ev-1tj5wt3",
@@ -1912,7 +1944,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1wmvgtu",
@@ -1947,7 +1979,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1t55gn8",
@@ -1978,7 +2010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-04m2o1s",
@@ -2013,7 +2045,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-09duvj8",
@@ -2048,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-0nompr2",
@@ -2077,7 +2109,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1lrck8j",
@@ -2113,7 +2145,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-183fe2t",
@@ -2142,7 +2174,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-0oom86x",
@@ -2175,7 +2207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-16r5tl2",
@@ -2210,7 +2242,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.35
+      "score": 4.06
     },
     {
       "id": "ev-164t4d7",
@@ -2245,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.04
     },
     {
       "id": "ev-1fvkyfa",
@@ -2288,7 +2320,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T16:07:12.467Z",
       "updatedSlot": "tarde",
-      "score": 3.81
+      "score": 3.52
     },
     {
       "id": "ev-086s6ts",
@@ -2319,7 +2351,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.24
+      "score": 1.94
     },
     {
       "id": "ev-0muns0n",
@@ -2350,7 +2382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.93
     },
     {
       "id": "ev-1ia2vv7",
@@ -2381,7 +2413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 1.91
+      "score": 1.62
     },
     {
       "id": "ev-0py07ff",
@@ -2412,7 +2444,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-08T08:07:13.644Z",
       "updatedSlot": "manana",
-      "score": 1.55
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2449,6 +2481,13 @@
       "at": "2026-11-08T23:02:44.081Z",
       "added": 0,
       "updated": 4,
+      "candidates": 16
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-09T02:35:03.617Z",
+      "added": 0,
+      "updated": 2,
       "candidates": 16
     }
   ]
