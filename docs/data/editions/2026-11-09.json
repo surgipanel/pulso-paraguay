@@ -1,19 +1,19 @@
 {
   "date": "2026-11-09",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-09T08:07:10.880Z",
-  "aiMode": "mixto",
-  "model": null,
+  "generatedAt": "2026-11-09T12:07:13.598Z",
+  "aiMode": "ia",
+  "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0oqypym",
-      "title": "Alliana ordena que afectados por Ueno Bank no paguen multas ni recargos",
-      "summary": "El presidente Pedro Alliana anunció que los contribuyentes afectados por la situación de Ueno Bank no deberán pagar multas, recargos por mora ni intereses derivados de ese problema. El anuncio lo hizo a través de sus redes sociales.\n\nSegún el mandatario, instruyó al director nacional de Ingresos Tributarios, Óscar Orué, a facilitar el cumplimiento de las obligaciones fiscales de quienes operaban exclusivamente con el banco. La medida busca evitar sanciones a personas que no pueden cumplir por la imposibilidad de acceder a sus fondos.\n\nLa decisión llega después de reclamos de organizaciones contables, que advirtieron sobre las dificultades de miles de contribuyentes. Alliana también ratificó a Óscar Lovera al frente del Ministerio de Economía y Finanzas y a Orué en la DNIT.",
+      "title": "DNIT exonera multas y recargos a contribuyentes afectados por Ueno Bank",
+      "summary": "El presidente Pedro Alliana instruyó a la Dirección Nacional de Ingresos Tributarios (DNIT) a no cobrar multas, recargos por mora ni intereses a los contribuyentes afectados por la crisis de Ueno Bank. La medida alcanza a quienes operaban exclusivamente con esa entidad y ahora tienen dificultades para cumplir sus obligaciones fiscales.\n\nEl titular de la DNIT, Óscar Orué, anunció prórrogas de vencimientos, exoneración de recargos y una atención diferenciada para gestionar los documentos necesarios para seguir con sus actividades. Según HOY, el paquete también alcanza a operadores aduaneros.\n\nAlliana comunicó la decisión en sus redes sociales con una frase clara: ningún paraguayo debe pagar por un problema que no provocó. Las notas no detallan todavía cómo se hará el trámite.",
       "keyPoints": [
-        "Los afectados por Ueno Bank no pagarán multas, recargos por mora ni intereses.",
-        "Orué deberá facilitar las obligaciones fiscales de quienes operaban solo con el banco.",
-        "La decisión sigue reclamos de contadores por la falta de acceso a fondos."
+        "La DNIT no cobrará multas, recargos por mora ni intereses a los afectados.",
+        "La medida alcanza a quienes operaban solo con Ueno Bank.",
+        "Incluye prórrogas de vencimientos y atención diferenciada para documentos."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -21,6 +21,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Pedro Alliana instruye a Orué que afectados por ueno bank no paguen recargos ni multas",
+          "url": "https://www.ultimahora.com/pedro-alliana-instruye-a-orue-que-afectados-por-ueno-bank-no-paguen-recargos-ni-multas",
+          "publishedAt": "2026-11-09T12:01:07.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "DNIT flexibiliza cobros de impuestos clientes de Ueno Bank tras pedido de Alliana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/dnit-flexibiliza-cobros-de-impuestos-clientes-de-ueno-bank-tras-pedido-de-alliana",
+          "publishedAt": "2026-11-09T11:46:59.319Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/GWHL2JQ6KNGTJN6UPMNJWMOWHY.jpg?auth=6910d012b5f1fee0d9dc1bd70c9c6bf9f5a13b9eb7befc576d299ef3b77071f6&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "DNIT anuncia prórrogas y exoneración de recargos para contribuyentes afectados por Ueno Bank",
+          "url": "https://5dias.com.py/article/dnit-anuncia-prrrogas-y-exoneracin-de-recargos-para-contribuyentes-afectados-por-ueno-bank",
+          "publishedAt": "2026-11-09T07:59:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/DNIT_FACHADA_2024-01_20260924_154534.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -71,24 +95,24 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ULPIM3EN3NDS3JKXCW6JRGUMXE.jpg?auth=f66461354c7427ded858dc8b0922399fb164d9ba6c741d606f5f2159719d2842&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/gobierno-libera-de-multas-tributarias-a-afectados"
+        "url": "https://www.lanacion.com.py/resizer/v2/GWHL2JQ6KNGTJN6UPMNJWMOWHY.jpg?auth=6910d012b5f1fee0d9dc1bd70c9c6bf9f5a13b9eb7befc576d299ef3b77071f6&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/09/dnit-flexibiliza-cobros-de-impuestos-clientes-de-ueno-bank-tras-pedido-de-alliana"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedAt": "2026-11-09T12:07:13.598Z",
       "updatedSlot": "manana",
-      "score": 20.6
+      "score": 26.99
     },
     {
       "id": "ev-0mgvby7",
-      "title": "Fiscalía allana casa de verano de Santiago Peña en San Bernardino",
-      "summary": "La Fiscalía allanó una propiedad del expresidente Santiago Peña en San Bernardino, Cordillera. El procedimiento forma parte de la causa por lesión de confianza y administración en beneficio propio, vinculada al caso Ueno Bank.\n\nLos fiscales Silvia González, Cristhian Benítez y Elena Fiore encabezaron el operativo con apoyo policial. Según las notas, revisaron muebles y cajones en busca de elementos para la investigación. Peña fue imputado y permanece en prisión preventiva en el Regimiento Escolta Presidencial.\n\nSegún la acusación fiscal, Ueno Bank habría otorgado a Peña en mayo de 2024 dos préstamos por G. 3.548 millones para construir la vivienda. La propiedad figura en su declaración jurada con un valor de G. 7.750 millones. Peña no se pronunció en las notas consultadas.",
+      "title": "Fiscalía allana la residencia de Santiago Peña en San Bernardino",
+      "summary": "Fiscales y agentes de la Policía Nacional allanaron el domingo a las 19:00 la residencia del expresidente Santiago Peña en San Bernardino, Cordillera. El procedimiento forma parte de la investigación por supuesta lesión de confianza y administración en beneficio propio, vinculada al caso Ueno Bank.\n\nLos fiscales Silvia González, Cristhian Benítez y Elena Fiore encabezaron el operativo, que revisó muebles, cajones y dependencias. Según la Fiscalía, la diligencia busca elementos que ayuden a la investigación. Según las notas, en el lugar habría una bóveda oculta tras una pared falsa, con un sistema de acceso biométrico de supuesto origen israelí, que todavía no pudo abrirse.\n\nSegún la declaración jurada de Peña, la propiedad está valuada en G. 7.750 millones. La imputación menciona además dos préstamos de Ueno Bank por G. 3.548 millones.",
       "keyPoints": [
-        "La Fiscalía allanó una propiedad de Peña en San Bernardino.",
-        "Peña está imputado por lesión de confianza y administración en beneficio propio.",
-        "Según la acusación, Ueno Bank habría dado a Peña dos préstamos por G. 3.548 millones."
+        "El allanamiento se hizo el domingo en la residencia de San Bernardino.",
+        "Los fiscales encabezaron el operativo bajo resguardo policial.",
+        "Según las notas, la bóveda aún no pudo ser abierta."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -96,6 +120,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: buscan abrir bóveda de la mansión de Santi Peña en San Bernardino",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/video-hoy-continua-el-allanamiento-a-la-mansion-de-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-09T11:27:49.000Z",
+          "image": "https://www.abc.com.py/resizer/ubbUZ2wPqJAeTWadmGBZeMSlgo4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MG2RBGOE7VHA7JE2QE7CXMOYZE.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fiscalía encuentra una bóveda blindada con acceso biométrico en residencia vinculada a Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/fiscalia-encuentra-una-boveda-blindada-con-acceso-biometrico-en-residencia-vinculada-a-santiago-pena",
+          "publishedAt": "2026-11-09T10:41:47.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -137,6 +177,14 @@
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-08-at-191338.jpeg"
         },
         {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan mansión de Peña en Samber y vivienda de Carvallo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/allanan-mansion-de-pena-en-samber-y-vivienda-de-carvallo",
+          "publishedAt": "2026-11-08T22:25:10.363Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IGZWKKPUEZCZDOPTHNHCPRXLRE.jpg?auth=a8a4c1a8dc62471f81f06a4b71bbcd7719d97445205e18e0df88feecd3a9b7f7&width=1200&height=630&smart=true"
+        },
+        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
           "title": "Fiscalía allana mansión de Santiago Peña en San Bernardino",
@@ -151,26 +199,18 @@
           "url": "https://www.abc.com.py/policiales/2026/11/08/allanan-mansion-de-santiago-pena-en-san-bernardino",
           "publishedAt": "2026-11-08T22:07:57.000Z",
           "image": "https://www.abc.com.py/resizer/wYGeLKMTtLoRVaMYmqHM3poMvZ4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z7ZVSB2O5ZFSJJ3UMKSKXAIVSA.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan mansión de Peña en Samber y vivienda de Carvallo",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/08/allanan-mansion-de-pena-en-samber-y-vivienda-de-carvallo",
-          "publishedAt": "2026-11-08T22:25:10.363Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IGZWKKPUEZCZDOPTHNHCPRXLRE.jpg?auth=a8a4c1a8dc62471f81f06a4b71bbcd7719d97445205e18e0df88feecd3a9b7f7&width=1200&height=630&smart=true"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ZHE733N3VZHM3NZY3MPGWNP5OI.jpg?auth=16c2a5dfe437b334fceae98e3c2e74481fd7cd929fb98d4beb1f327225f839d6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/fiscalia-allano-ayer-inmueble-de-santiago-pena-en-san-bernardino"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MG2RBGOE7VHA7JE2QE7CXMOYZE.jpg?auth=73c960e099c067b085f449176aacd7b4f816e87edd4f6af1a2c1bbfb6ef8dd1b&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/policiales/2026/11/09/video-hoy-continua-el-allanamiento-a-la-mansion-de-santiago-pena-en-san-bernardino"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedAt": "2026-11-09T12:07:13.598Z",
       "updatedSlot": "manana",
-      "score": 20.58
+      "score": 23.95
     },
     {
       "id": "ev-00w4rsj",
@@ -237,7 +277,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 20.58
+      "score": 20.24
+    },
+    {
+      "id": "ev-0mrn9bw",
+      "title": "No habrá almuerzo escolar el lunes 9 en Asunción, Central y Presidente Hayes",
+      "summary": "El Ministerio de Desarrollo Social (MDS) informó que este lunes 9 de noviembre no habrá servicio de alimentación escolar en Asunción, Central y Presidente Hayes. La medida se debe a la movilización y paralización de actividades convocada por gremios docentes.\n\nEl MDS alertó a las instituciones educativas y a los proveedores adjudicados. Según el ministerio, las comunicaciones recibidas de escuelas indican que una amplia mayoría se adherirá al paro.\n\nLos docentes reclaman garantías para los fondos públicos y jubilatorios, y la devolución de dinero de la Caja Fiscal y del IPS.",
+      "keyPoints": [
+        "No habrá alimentación escolar el lunes 9 de noviembre en esas zonas.",
+        "La medida responde a la movilización de gremios docentes.",
+        "El MDS avisó a escuelas y proveedores."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": "2026-11-10T02:59:00.000Z",
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Suspenden el almuerzo escolar en Asunción, Central y Presidente Hayes por paro docente",
+          "url": "https://elnacional.com.py/nacionales/suspenden-almuerzo-escolar-asuncion-central-presidente-hayes-paro-docente-n114933",
+          "publishedAt": "2026-11-09T09:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/03/cf5806f736573b3c79cc835954f0e5c3.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Movilización docente de mañana dejará sin almuerzo a niños de Asunción, Central y Presidente Hayes",
+          "url": "https://www.adndigital.com.py/movilizacion-docente-de-manana-dejara-sin-almuerzo-a-ninos-de-asuncion-central-y-presidente-hayes",
+          "publishedAt": "2026-11-08T22:31:03.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-29-at-145334.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Por paro docente, no habrá servicio de alimentación escolar este lunes",
+          "url": "https://www.lanacion.com.py/pais/2026/11/08/por-paro-docente-no-habra-servicio-de-alimentacion-escolar-este-lunes",
+          "publishedAt": "2026-11-08T20:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OMtbo6egyyPKFpBBK_yPOui6AW0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZXSZRCNEUFH6LEKLPJVMVEW3E4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "No habrá almuerzo escolar en Asunción, Central y Pdte. Hayes debido a movilización docente",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/no-habra-almuerzo-escolar-en-asuncion-central-y-pdte-hayes-debido-a-movilizacion-docente",
+          "publishedAt": "2026-11-08T19:28:22.770Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IFZJWRDJCRH6NIAP3TNKE2GCKQ.jpg?auth=c0a5d10dd3826813f4085a690d47f441675e3637ab792a4ab8eed0699c38404b&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/03/cf5806f736573b3c79cc835954f0e5c3.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/suspenden-almuerzo-escolar-asuncion-central-presidente-hayes-paro-docente-n114933"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T12:07:13.598Z",
+      "updatedSlot": "manana",
+      "score": 17.74
     },
     {
       "id": "ev-1mj44xb",
@@ -320,7 +419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 17.61
+      "score": 17.28
     },
     {
       "id": "ev-1oscv2b",
@@ -379,7 +478,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 14.02
+      "score": 13.69
     },
     {
       "id": "ev-0jcbzx4",
@@ -430,58 +529,110 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 13.42
+      "score": 13.09
     },
     {
-      "id": "ev-0mrn9bw",
-      "title": "Paro docente deja sin almuerzo escolar a Asunción, Central y Presidente Hayes este lunes",
-      "summary": "El Ministerio de Desarrollo Social (MDS) informó que este lunes 9 de noviembre no habrá servicio de alimentación escolar en Asunción y en los departamentos de Central y Presidente Hayes. La razón es la movilización nacional de docentes, con cese de actividades académicas, convocada por los gremios FEP, UNE-SN, OTEP-A y FECI.\n\nSegún las notas, estos gremios reúnen cerca del 50% de los educadores del sector público del país. Los docentes exigen garantías para proteger los fondos públicos y jubilatorios, la devolución de 60 millones de dólares de la Caja Fiscal y de 350 millones de dólares del IPS, y el cumplimiento del Presupuesto General de Gastos 2027.\n\nEl MDS alertó a las instituciones educativas y a los proveedores adjudicados. El reclamo se da en medio de la crisis por la caída de ueno bank, donde el Ministerio de Economía había depositado recursos de la Caja Fiscal.",
+      "id": "ev-0j16n6d",
+      "title": "Miles de fieles esperan en Buenos Aires la primera misa de León XIV",
+      "summary": "León XIV inició una visita histórica a Argentina, la primera de un papa en casi cuatro décadas. Desde la madrugada, miles de fieles se concentraron en Buenos Aires para ver la misa que el pontífice celebrará a las 11.30, hora local, cerca del Monumento de los Españoles, en Palermo.\n\nEl papa visitó el Cottolengo, obra de la congregación de Don Orione que el papa Francisco visitaba cuando era arzobispo de Buenos Aires. En su primer discurso pidió justicia social, apoyo a la educación y la investigación, y protección para jubilados y personas con discapacidad. Dijo que la economía debe estar al servicio de la persona.\n\nDespués se reunió durante 40 minutos con el presidente Javier Milei en la Casa Rosada. El martes viajará a Córdoba y el miércoles visitará Luján, donde está la basílica de la patrona del país.",
       "keyPoints": [
-        "No habrá alimentación escolar este lunes 9 de noviembre en Asunción, Central y Presidente Hayes.",
-        "La movilización docente la convocan FEP, UNE-SN, OTEP-A y FECI.",
-        "Los gremios reclaman garantías para los fondos jubilatorios y la devolución de recursos."
+        "La misa en Buenos Aires se celebrará a las 11.30, hora local.",
+        "León XIV pidió justicia social y apoyo a la educación y la investigación.",
+        "Se reunió 40 minutos con el presidente Javier Milei en la Casa Rosada.",
+        "El martes viajará a Córdoba y el miércoles visitará Luján."
       ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": "2026-11-10T02:59:00.000Z",
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Movilización docente de mañana dejará sin almuerzo a niños de Asunción, Central y Presidente Hayes",
-          "url": "https://www.adndigital.com.py/movilizacion-docente-de-manana-dejara-sin-almuerzo-a-ninos-de-asuncion-central-y-presidente-hayes",
-          "publishedAt": "2026-11-08T22:31:03.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-29-at-145334.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Miles de personas esperan en las calles de Buenos Aires la primera misa del papa León XIV",
+          "url": "https://www.abc.com.py/internacionales/2026/11/09/miles-de-personas-esperan-en-las-calles-de-buenos-aires-la-primera-misa-del-papa-leon-xiv",
+          "publishedAt": "2026-11-09T11:10:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Por paro docente, no habrá servicio de alimentación escolar este lunes",
-          "url": "https://www.lanacion.com.py/pais/2026/11/08/por-paro-docente-no-habra-servicio-de-alimentacion-escolar-este-lunes",
-          "publishedAt": "2026-11-08T20:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/OMtbo6egyyPKFpBBK_yPOui6AW0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZXSZRCNEUFH6LEKLPJVMVEW3E4.jpg"
+          "title": "León XIV llega a Argentina y es recibido por emocionados fieles",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles",
+          "publishedAt": "2026-11-09T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GaG_ATVYKcNlh_7KQOo5biW6mTw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "No habrá almuerzo escolar en Asunción, Central y Pdte. Hayes debido a movilización docente",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/08/no-habra-almuerzo-escolar-en-asuncion-central-y-pdte-hayes-debido-a-movilizacion-docente",
-          "publishedAt": "2026-11-08T19:28:22.770Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/IFZJWRDJCRH6NIAP3TNKE2GCKQ.jpg?auth=c0a5d10dd3826813f4085a690d47f441675e3637ab792a4ab8eed0699c38404b&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV inicia su visita a Argentina y se reúne con Milei",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/08/leon-xiv-inicia-su-visita-a-argentina-y-se-reune-con-milei",
+          "publishedAt": "2026-11-09T00:10:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BnyHb2_GbpwYtiul6BNe7uJXjLM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QZXNA6QH5FEQ5KDNOYGPMNTRTE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "León XIV llega a Argentina y lo recibe Milei, cuyo ajuste cuestiona la Iglesia",
+          "url": "https://elnacional.com.py/mundo/leon-xiv-llega-argentina-lo-recibe-milei-cuyo-ajuste-cuestiona-iglesia-n114929",
+          "publishedAt": "2026-11-08T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af0db0055a1c.jpg"
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-29-at-145334.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/movilizacion-docente-de-manana-dejara-sin-almuerzo-a-ninos-de-asuncion-central-y-presidente-hayes"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg?auth=dbcd32e1af75b36be2807c6eda1ce8525ec8de3ac5569a1536d2c327c89b0ded&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedAt": "2026-11-09T12:07:13.598Z",
       "updatedSlot": "manana",
-      "score": 13.2
+      "score": 12.42
+    },
+    {
+      "id": "ev-0chb58b",
+      "title": "ANDE tiene US$ 21 millones y G. 115.887 millones atrapados en Ueno Bank",
+      "summary": "La ANDE tiene atrapados en Ueno Bank US$ 21.030.796 y G. 115.887.018.345, según su presidente, Miguel Báez. Son recursos de préstamos internacionales del BID y de Taiwán destinados a obras. Báez precisó que del total, US$ 19.325.958 corresponden al BID.\n\nBáez afirmó que además hay G. 37.285.076.292 de fondos propios, que son pagos de clientes por consumo de energía a través de la plataforma del banco. La ANDE presentó una denuncia penal contra sus directivos y funcionarios para proteger su patrimonio.\n\nLas cifras difieren de las que Báez dio días antes, y la nota de ABC Color no aclara la diferencia.",
+      "keyPoints": [
+        "La ANDE tiene US$ 21.030.796 atrapados en Ueno Bank, según Báez.",
+        "Los fondos provienen de préstamos del BID y de Taiwán.",
+        "La ANDE presentó una denuncia penal contra directivos."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: ANDE tiene US$ 21 millones y G. 115.887 millones atrapados, y la devolución no tiene plazo",
+          "url": "https://www.abc.com.py/economia/2026/11/09/ueno-bank-ande-tiene-us-21-millones-y-g-115887-millones-atrapados-y-la-devolucion-no-tiene-plazo",
+          "publishedAt": "2026-11-09T09:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/q4pu-gmjNuTJnbVqNkHjJGxxO6Q=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C2T6HUDTHNH5DDZ7FR23I5MH2A.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "ANDE tiene más de USD 21 millones comprometidos en Ueno Bank",
+          "url": "https://elnacional.com.py/economia/ande-tiene-mas-usd-21-millones-comprometidos-ueno-bank-n114917",
+          "publishedAt": "2026-11-08T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a6f6ea0b0f36.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C2T6HUDTHNH5DDZ7FR23I5MH2A.jpg?auth=80d40118b102fe577705c80ee02c155dd70056ca876e80771f7e1c4896433300&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/09/ueno-bank-ande-tiene-us-21-millones-y-g-115887-millones-atrapados-y-la-devolucion-no-tiene-plazo"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T12:07:13.598Z",
+      "updatedSlot": "manana",
+      "score": 9.74
     },
     {
       "id": "ev-1oqqk9c",
@@ -524,7 +675,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 9.42
+      "score": 9.09
     },
     {
       "id": "ev-0u0wj5f",
@@ -567,7 +718,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 9.15
+      "score": 8.81
     },
     {
       "id": "ev-04ku946",
@@ -610,7 +761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.57
     },
     {
       "id": "ev-0vzbfng",
@@ -654,58 +805,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 8.18
-    },
-    {
-      "id": "ev-0j16n6d",
-      "title": "León XIV llega a Argentina y es recibido por Milei en Buenos Aires",
-      "summary": "El papa León XIV llegó el domingo 8 de noviembre a Argentina, en la primera visita de un pontífice al país en 39 años. Lo recibieron en el aeropuerto el presidente Javier Milei y su hermana Karina, secretaria general de la Presidencia. El papa aterrizó a las 16:35 hora local en Buenos Aires, donde lo esperaban representantes de la Iglesia católica argentina.\n\nLlegó desde Uruguay, donde había condenado la violencia del narcotráfico y pedido poner fin a la pobreza que afecta a los niños. Hasta el miércoles celebrará tres misas multitudinarias y visitará un hogar para personas con discapacidad, una cárcel y el santuario de Luján. Después partirá hacia Perú, última escala de la gira.\n\nLa visita se da en medio de tensiones por el costo social del ajuste de Milei y los recortes en servicios públicos esenciales. Se espera que el papa se pronuncie en defensa de los más vulnerables.",
-      "keyPoints": [
-        "León XIV llegó a Buenos Aires el domingo 8 de noviembre.",
-        "Lo recibieron Javier Milei y Karina Milei en el aeropuerto.",
-        "Hasta el miércoles hará tres misas, y después viajará a Perú."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "León XIV llega a Argentina y es recibido por emocionados fieles",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles",
-          "publishedAt": "2026-11-09T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GaG_ATVYKcNlh_7KQOo5biW6mTw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "León XIV inicia su visita a Argentina y se reúne con Milei",
-          "url": "https://www.lanacion.com.py/mundo/2026/11/08/leon-xiv-inicia-su-visita-a-argentina-y-se-reune-con-milei",
-          "publishedAt": "2026-11-09T00:10:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BnyHb2_GbpwYtiul6BNe7uJXjLM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QZXNA6QH5FEQ5KDNOYGPMNTRTE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "León XIV llega a Argentina y lo recibe Milei, cuyo ajuste cuestiona la Iglesia",
-          "url": "https://elnacional.com.py/mundo/leon-xiv-llega-argentina-lo-recibe-milei-cuyo-ajuste-cuestiona-iglesia-n114929",
-          "publishedAt": "2026-11-08T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af0db0055a1c.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg?auth=dbcd32e1af75b36be2807c6eda1ce8525ec8de3ac5569a1536d2c327c89b0ded&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 8.08
+      "score": 8
     },
     {
       "id": "ev-17zuo01",
@@ -757,7 +857,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 7.53
+      "score": 7.2
     },
     {
       "id": "ev-0ojs08n",
@@ -801,139 +901,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 7.08
-    },
-    {
-      "id": "ev-03lyuv3",
-      "title": "Mariano Roque Alonso recupera un antiguo acceso al río Paraguay",
-      "summary": "La Municipalidad de Mariano Roque Alonso trabaja para recuperar la calle Río Paraguay, un acceso de unos 500 metros que llega a la ribera en el barrio Remanso Castillo. Durante años estuvo abandonado y cubierto de barro y malezas.\n\nCuadrillas municipales hacen trabajos de limpieza, despeje de vegetación y colocación de relleno para mejorar la circulación de vehículos. El proyecto también prevé un mirador, según el medio.\n\nEl intendente Julián Vega Insfrán dijo que la idea es que los vecinos puedan volver a mirar y disfrutar del río. Integrantes de la Comisión Vecinal Stella Mary valoraron la presencia del intendente y la importancia de un espacio de esparcimiento.",
-      "keyPoints": [
-        "La calle Río Paraguay tiene unos 500 metros de extensión.",
-        "Cuadrillas municipales trabajan en limpieza y relleno.",
-        "El intendente Julián Vega Insfrán recorrió el lugar con vecinos.",
-        "La Comisión Vecinal Stella Mary celebró la iniciativa."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Roque Alonso recupera una salida al río Paraguay y proyecta mirador",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/09/roque-alonso-recupera-una-salida-al-rio-paraguay-y-proyecta-mirador",
-          "publishedAt": "2026-11-09T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/WO-DW3mfDHtjASA5yxlaD0gy2_w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PHUQFYZYRRCUHDX5VPVO4V4Q7M.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mariano Roque Alonso recupera un antiguo acceso al río Paraguay y proyecta un mirador",
-          "url": "https://www.lanacion.com.py/pais/2026/11/08/mariano-roque-alonso-recupera-un-antiguo-acceso-al-rio-paraguay-y-proyecta-un-mirador",
-          "publishedAt": "2026-11-08T15:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/eCZqiq0s4-t5lapmaSA2_HDXM3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PZNJFT5PFND35JXLHIUKNFIBS4.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PHUQFYZYRRCUHDX5VPVO4V4Q7M.jpg?auth=1eabf7d3cd383556be9bbc4184ba80f58e1b856fe075c192d2d25f7d5be2252a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/09/roque-alonso-recupera-una-salida-al-rio-paraguay-y-proyecta-mirador"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-14vw9tj",
-      "title": "Iglesia pide al nuevo gobierno sanear la Nación y devolver el dinero",
-      "summary": "La Iglesia Católica expresó solidaridad con los ahorristas afectados por la resolución de Ueno Bank y pidió al nuevo gobierno, instalado tras la destitución de Santiago Peña, sanear la Nación. Lo hizo en la homilía de monseñor Ricardo Valenzuela en la misa de Caacupé.\n\nValenzuela pidió la devolución urgente del dinero a las personas estafadas y que los responsables sean juzgados. Señaló que las instituciones del Estado también fueron perjudicadas por depósitos en ese banco.\n\nLa homilía también destacó el impacto en familias humildes, que vieron afectada su alimentación, salud y el pago de servicios básicos.",
-      "keyPoints": [
-        "La Iglesia pidió devolver el dinero a los ahorristas afectados.",
-        "Monseñor Ricardo Valenzuela habló en la misa de Caacupé.",
-        "Según la homilía, instituciones del Estado también depositaron fondos en Ueno Bank.",
-        "La Iglesia pidió que los responsables sean juzgados."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Iglesia urge sanear país y devolver plata",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/iglesia-urge-sanear-pais-y-devolver-plata",
-          "publishedAt": "2026-11-09T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/c24OrcRXaWh3YdeOyQDXotV4jUw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QDEBMXPWIRAQ3H6CLOQIUYHN4U.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Iglesia pide al nuevo gobierno sanear la Nación y urge devolución de dinero a ahorristas",
-          "url": "https://www.lanacion.com.py/pais/2026/11/08/iglesia-pide-al-nuevo-gobierno-sanear-la-nacion-y-urge-devolucion-de-dinero-a-ahorristas",
-          "publishedAt": "2026-11-08T14:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/W3em-qGN9hG6yD2_B8MwUXChssg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7QPMRHB73FACTGFGGM6ASB7SQU.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QDEBMXPWIRAQ3H6CLOQIUYHN4U.jpg?auth=d2a6717d66be1aea534964a2c17937aed65d989441ae850b3ac508d274ed843c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/iglesia-urge-sanear-pais-y-devolver-plata"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-1t54tba",
-      "title": "BCP aclara que los CDA no están en las dos primeras etapas de pago",
-      "summary": "El Banco Central del Paraguay (BCP) respondió consultas sobre el pago de la garantía a los depositantes de Ueno Bank. Recordó que los Certificados de Depósito de Ahorro (CDA) no están incluidos en los dos primeros grupos de pago.\n\nEn la primera etapa, los pagos alcanzan a clientes con depósitos de hasta G. 10 millones, siempre que no tengan préstamos ni deudas de tarjetas pendientes con la entidad y cuenten con otra cuenta en un banco o financiera. El segundo grupo son depositantes con saldos de hasta G. 121 millones, con las mismas condiciones.\n\nEl BCP transfiere los recursos a los bancos y financieras, que son las encargadas de pagar a los ahorristas. Los pagos pueden demorarse por un tiempo en clientes con débitos automáticos vinculados a tarjetas de crédito, por las verificaciones necesarias. Las siguientes etapas se anunciarán por los canales oficiales.",
-      "keyPoints": [
-        "Los CDA no están en los dos primeros grupos de pago.",
-        "Primer grupo: depósitos de hasta G. 10 millones con condiciones.",
-        "Segundo grupo: saldos de hasta G. 121 millones con las mismas condiciones.",
-        "Puede haber demoras en clientes con débitos automáticos vinculados a tarjetas."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP: los CDA no están incluidos en las dos primeras etapas de pago",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/09/bcp-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago",
-          "publishedAt": "2026-11-09T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP aclara que los CDA no están incluidos en las dos primeras etapas de pago",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/08/bcp-aclara-que-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago",
-          "publishedAt": "2026-11-08T16:59:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LHq7XwdkIOnNZW7K57Jorlvono8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCSVDZ7JDNATVHPDYVD2WV6GJ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/09/bcp-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.74
     },
     {
       "id": "ev-1aihhew",
@@ -977,7 +945,139 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.25
+    },
+    {
+      "id": "ev-03lyuv3",
+      "title": "Mariano Roque Alonso recupera un antiguo acceso al río Paraguay",
+      "summary": "La Municipalidad de Mariano Roque Alonso trabaja para recuperar la calle Río Paraguay, un acceso de unos 500 metros que llega a la ribera en el barrio Remanso Castillo. Durante años estuvo abandonado y cubierto de barro y malezas.\n\nCuadrillas municipales hacen trabajos de limpieza, despeje de vegetación y colocación de relleno para mejorar la circulación de vehículos. El proyecto también prevé un mirador, según el medio.\n\nEl intendente Julián Vega Insfrán dijo que la idea es que los vecinos puedan volver a mirar y disfrutar del río. Integrantes de la Comisión Vecinal Stella Mary valoraron la presencia del intendente y la importancia de un espacio de esparcimiento.",
+      "keyPoints": [
+        "La calle Río Paraguay tiene unos 500 metros de extensión.",
+        "Cuadrillas municipales trabajan en limpieza y relleno.",
+        "El intendente Julián Vega Insfrán recorrió el lugar con vecinos.",
+        "La Comisión Vecinal Stella Mary celebró la iniciativa."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Roque Alonso recupera una salida al río Paraguay y proyecta mirador",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/09/roque-alonso-recupera-una-salida-al-rio-paraguay-y-proyecta-mirador",
+          "publishedAt": "2026-11-09T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/WO-DW3mfDHtjASA5yxlaD0gy2_w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PHUQFYZYRRCUHDX5VPVO4V4Q7M.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mariano Roque Alonso recupera un antiguo acceso al río Paraguay y proyecta un mirador",
+          "url": "https://www.lanacion.com.py/pais/2026/11/08/mariano-roque-alonso-recupera-un-antiguo-acceso-al-rio-paraguay-y-proyecta-un-mirador",
+          "publishedAt": "2026-11-08T15:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/eCZqiq0s4-t5lapmaSA2_HDXM3k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PZNJFT5PFND35JXLHIUKNFIBS4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PHUQFYZYRRCUHDX5VPVO4V4Q7M.jpg?auth=1eabf7d3cd383556be9bbc4184ba80f58e1b856fe075c192d2d25f7d5be2252a&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/09/roque-alonso-recupera-una-salida-al-rio-paraguay-y-proyecta-mirador"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedSlot": "manana",
+      "score": 6.24
+    },
+    {
+      "id": "ev-14vw9tj",
+      "title": "Iglesia pide al nuevo gobierno sanear la Nación y devolver el dinero",
+      "summary": "La Iglesia Católica expresó solidaridad con los ahorristas afectados por la resolución de Ueno Bank y pidió al nuevo gobierno, instalado tras la destitución de Santiago Peña, sanear la Nación. Lo hizo en la homilía de monseñor Ricardo Valenzuela en la misa de Caacupé.\n\nValenzuela pidió la devolución urgente del dinero a las personas estafadas y que los responsables sean juzgados. Señaló que las instituciones del Estado también fueron perjudicadas por depósitos en ese banco.\n\nLa homilía también destacó el impacto en familias humildes, que vieron afectada su alimentación, salud y el pago de servicios básicos.",
+      "keyPoints": [
+        "La Iglesia pidió devolver el dinero a los ahorristas afectados.",
+        "Monseñor Ricardo Valenzuela habló en la misa de Caacupé.",
+        "Según la homilía, instituciones del Estado también depositaron fondos en Ueno Bank.",
+        "La Iglesia pidió que los responsables sean juzgados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Iglesia urge sanear país y devolver plata",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/iglesia-urge-sanear-pais-y-devolver-plata",
+          "publishedAt": "2026-11-09T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/c24OrcRXaWh3YdeOyQDXotV4jUw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QDEBMXPWIRAQ3H6CLOQIUYHN4U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Iglesia pide al nuevo gobierno sanear la Nación y urge devolución de dinero a ahorristas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/08/iglesia-pide-al-nuevo-gobierno-sanear-la-nacion-y-urge-devolucion-de-dinero-a-ahorristas",
+          "publishedAt": "2026-11-08T14:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/W3em-qGN9hG6yD2_B8MwUXChssg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7QPMRHB73FACTGFGGM6ASB7SQU.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QDEBMXPWIRAQ3H6CLOQIUYHN4U.jpg?auth=d2a6717d66be1aea534964a2c17937aed65d989441ae850b3ac508d274ed843c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/iglesia-urge-sanear-pais-y-devolver-plata"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedSlot": "manana",
+      "score": 6.24
+    },
+    {
+      "id": "ev-1t54tba",
+      "title": "BCP aclara que los CDA no están en las dos primeras etapas de pago",
+      "summary": "El Banco Central del Paraguay (BCP) respondió consultas sobre el pago de la garantía a los depositantes de Ueno Bank. Recordó que los Certificados de Depósito de Ahorro (CDA) no están incluidos en los dos primeros grupos de pago.\n\nEn la primera etapa, los pagos alcanzan a clientes con depósitos de hasta G. 10 millones, siempre que no tengan préstamos ni deudas de tarjetas pendientes con la entidad y cuenten con otra cuenta en un banco o financiera. El segundo grupo son depositantes con saldos de hasta G. 121 millones, con las mismas condiciones.\n\nEl BCP transfiere los recursos a los bancos y financieras, que son las encargadas de pagar a los ahorristas. Los pagos pueden demorarse por un tiempo en clientes con débitos automáticos vinculados a tarjetas de crédito, por las verificaciones necesarias. Las siguientes etapas se anunciarán por los canales oficiales.",
+      "keyPoints": [
+        "Los CDA no están en los dos primeros grupos de pago.",
+        "Primer grupo: depósitos de hasta G. 10 millones con condiciones.",
+        "Segundo grupo: saldos de hasta G. 121 millones con las mismas condiciones.",
+        "Puede haber demoras en clientes con débitos automáticos vinculados a tarjetas."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP: los CDA no están incluidos en las dos primeras etapas de pago",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/09/bcp-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago",
+          "publishedAt": "2026-11-09T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP aclara que los CDA no están incluidos en las dos primeras etapas de pago",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/08/bcp-aclara-que-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago",
+          "publishedAt": "2026-11-08T16:59:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LHq7XwdkIOnNZW7K57Jorlvono8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCSVDZ7JDNATVHPDYVD2WV6GJ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/09/bcp-los-cda-no-estan-incluidos-en-las-dos-primeras-etapas-de-pago"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T08:07:10.880Z",
+      "updatedSlot": "manana",
+      "score": 6.24
     },
     {
       "id": "ev-1o601m3",
@@ -1021,7 +1121,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ut8a8q",
@@ -1065,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0o1e0fy",
@@ -1109,7 +1209,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0wqvvov",
@@ -1153,7 +1253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1ixdst0",
@@ -1189,7 +1289,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0cnps2k",
@@ -1224,7 +1324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-15xwl58",
@@ -1253,7 +1353,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.98
+      "score": 5.64
     },
     {
       "id": "ev-03vgqdm",
@@ -1282,7 +1382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.59
     },
     {
       "id": "ev-19977v9",
@@ -1313,7 +1413,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-079rfhb",
@@ -1342,7 +1442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-10xk08d",
@@ -1371,7 +1471,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0z8btw8",
@@ -1400,7 +1500,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-00qj0qu",
@@ -1431,7 +1531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1qslryn",
@@ -1462,7 +1562,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-0kj2puz",
@@ -1493,7 +1593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1ohd22o",
@@ -1524,7 +1624,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.57
     },
     {
       "id": "ev-1x0kjyt",
@@ -1560,7 +1660,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.38
     },
     {
       "id": "ev-07y2lli",
@@ -1596,7 +1696,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.37
     },
     {
       "id": "ev-0hiavwf",
@@ -1632,7 +1732,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.36
     },
     {
       "id": "ev-0ouyr06",
@@ -1668,7 +1768,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-00dkv0b",
@@ -1700,7 +1800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0iskjlm",
@@ -1731,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1lsouhb",
@@ -1764,7 +1864,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0dmingi",
@@ -1800,7 +1900,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.3
     },
     {
       "id": "ev-0eqkdfb",
@@ -1831,7 +1931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.09
     },
     {
       "id": "ev-1j3vdl0",
@@ -1865,42 +1965,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 4.99
     },
     {
-      "id": "ev-0chb58b",
-      "title": "ANDE tiene más de USD 21 millones comprometidos en ueno bank",
-      "summary": "La Administración Nacional de Electricidad (ANDE) tiene más de USD 21 millones comprometidos en ueno bank. Según la nota, se trata de recursos de préstamos internacionales destinados a obras de infraestructura eléctrica.\n\nAnte la crisis financiera de la entidad, la ANDE presentó una denuncia penal contra sus directivos y funcionarios. El objetivo, según la nota, es proteger su patrimonio y procurar la recuperación del dinero.",
+      "id": "ev-0ae2ir0",
+      "title": "Satanás en Paraguay: Una mirada al pasado y al futuro cercano",
+      "summary": "Incluso en las evocaciones más modernas de la realidad paraguaya, aún percibimos la advertencia del Diablo sobre la extinción humana, o al menos sobre su aniquilación del libre albedrío tal como lo entendemos.",
       "keyPoints": [
-        "ANDE tiene más de USD 21 millones comprometidos en ueno bank.",
-        "Los fondos provienen de préstamos internacionales para obras eléctricas.",
-        "La ANDE presentó una denuncia penal contra directivos y funcionarios."
+        "Incluso en las evocaciones más modernas de la realidad paraguaya, aún percibimos la advertencia del Diablo sobre la extinción humana, o al menos sobre su aniquilación del libre albedrío tal como lo entendemos."
       ],
-      "category": "economia",
+      "category": "cultura",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "ANDE tiene más de USD 21 millones comprometidos en Ueno Bank",
-          "url": "https://elnacional.com.py/economia/ande-tiene-mas-usd-21-millones-comprometidos-ueno-bank-n114917",
-          "publishedAt": "2026-11-08T14:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/08/6a6f6ea0b0f36.jpg"
+          "title": "Satanás en Paraguay: Una mirada al pasado y al futuro cercano",
+          "url": "https://elnacional.com.py/cultura/satanas-paraguay-una-mirada-pasado-futuro-cercano-n114905",
+          "publishedAt": "2026-11-08T10:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aefefc0c0acc.webp"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/08/6a6f6ea0b0f36.jpg",
+        "url": "https://statics.elnacional.com.py/2026/11/6aefefc0c0acc.webp",
         "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/ande-tiene-mas-usd-21-millones-comprometidos-ueno-bank-n114917"
+        "articleUrl": "https://elnacional.com.py/cultura/satanas-paraguay-una-mirada-pasado-futuro-cercano-n114905"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4
     },
     {
       "id": "ev-0fsp0gi",
@@ -1939,40 +2037,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 4.18
-    },
-    {
-      "id": "ev-0ae2ir0",
-      "title": "Satanás en Paraguay: Una mirada al pasado y al futuro cercano",
-      "summary": "Incluso en las evocaciones más modernas de la realidad paraguaya, aún percibimos la advertencia del Diablo sobre la extinción humana, o al menos sobre su aniquilación del libre albedrío tal como lo entendemos.",
-      "keyPoints": [
-        "Incluso en las evocaciones más modernas de la realidad paraguaya, aún percibimos la advertencia del Diablo sobre la extinción humana, o al menos sobre su aniquilación del libre albedrío tal como lo entendemos."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Satanás en Paraguay: Una mirada al pasado y al futuro cercano",
-          "url": "https://elnacional.com.py/cultura/satanas-paraguay-una-mirada-pasado-futuro-cercano-n114905",
-          "publishedAt": "2026-11-08T10:05:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aefefc0c0acc.webp"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aefefc0c0acc.webp",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/cultura/satanas-paraguay-una-mirada-pasado-futuro-cercano-n114905"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 4.16
+      "score": 3.85
     },
     {
       "id": "ev-1u02qi2",
@@ -2015,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 3.88
+      "score": 3.55
     },
     {
       "id": "ev-1i5z8cp",
@@ -2046,7 +2111,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 2.98
+      "score": 2.64
     },
     {
       "id": "ev-1nmsdsi",
@@ -2081,7 +2146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 2.05
+      "score": 1.72
     }
   ],
   "runs": [
@@ -2091,6 +2156,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 64
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-09T12:07:13.598Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 15
     }
   ]
 }
