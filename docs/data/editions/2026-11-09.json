@@ -1,19 +1,20 @@
 {
   "date": "2026-11-09",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-09T12:07:13.598Z",
+  "generatedAt": "2026-11-09T16:07:15.539Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0oqypym",
-      "title": "DNIT exonera multas y recargos a contribuyentes afectados por Ueno Bank",
-      "summary": "El presidente Pedro Alliana instruyó a la Dirección Nacional de Ingresos Tributarios (DNIT) a no cobrar multas, recargos por mora ni intereses a los contribuyentes afectados por la crisis de Ueno Bank. La medida alcanza a quienes operaban exclusivamente con esa entidad y ahora tienen dificultades para cumplir sus obligaciones fiscales.\n\nEl titular de la DNIT, Óscar Orué, anunció prórrogas de vencimientos, exoneración de recargos y una atención diferenciada para gestionar los documentos necesarios para seguir con sus actividades. Según HOY, el paquete también alcanza a operadores aduaneros.\n\nAlliana comunicó la decisión en sus redes sociales con una frase clara: ningún paraguayo debe pagar por un problema que no provocó. Las notas no detallan todavía cómo se hará el trámite.",
+      "title": "Alliana ordena no cobrar multas a contribuyentes afectados por Ueno Bank",
+      "summary": "El presidente Pedro Alliana ordenó que los contribuyentes afectados por la situación de Ueno Bank no paguen multas, recargos por mora ni intereses. La medida fue anunciada en sus redes sociales y dirigida al director de la DNIT, Óscar Orué.\n\nLa DNIT habilitará una solicitud para exonerar multas e intereses durante todo noviembre, según Orué. Se estima que unos 45.000 contribuyentes podrían beneficiarse. La medida apunta a quienes usaban el banco para pagar impuestos en los últimos tres meses y no pudieron cumplir por falta de acceso a sus fondos.\n\nEl director de la DNIT descartó que se analice un aumento de impuestos. También se prevé postergar vencimientos y facilitar certificados tributarios y timbrados.",
       "keyPoints": [
-        "La DNIT no cobrará multas, recargos por mora ni intereses a los afectados.",
-        "La medida alcanza a quienes operaban solo con Ueno Bank.",
-        "Incluye prórrogas de vencimientos y atención diferenciada para documentos."
+        "Alliana ordenó no cobrar multas, recargos ni intereses a los afectados.",
+        "La DNIT habilitará la solicitud durante noviembre.",
+        "Unos 45.000 contribuyentes podrían beneficiarse, según la DNIT.",
+        "La DNIT descartó aumentos de impuestos."
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -21,6 +22,22 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "DNIT descarta aumento de impuestos y alivia multas por crisis de ueno bank",
+          "url": "https://www.ultimahora.com/dnit-descarta-aumento-de-impuestos-y-alivia-multas-por-crisis-de-ueno-bank",
+          "publishedAt": "2026-11-09T15:20:01.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "DNIT pretende exonerar multas e intereses a 45.000 contribuyentes afectados por caso Ueno",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/dnit-pretende-exonerar-multas-e-intereses-a-45000-contribuyentes-afectados-por-caso-ueno",
+          "publishedAt": "2026-11-09T14:43:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/50ws1D_Sj3l-NgtA4ne7zIPu-zY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CC4BVXRW5ZD4LBUZDGBEJGNOOE.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -95,24 +112,25 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/GWHL2JQ6KNGTJN6UPMNJWMOWHY.jpg?auth=6910d012b5f1fee0d9dc1bd70c9c6bf9f5a13b9eb7befc576d299ef3b77071f6&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/09/dnit-flexibiliza-cobros-de-impuestos-clientes-de-ueno-bank-tras-pedido-de-alliana"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CC4BVXRW5ZD4LBUZDGBEJGNOOE.jpg?auth=61348781bb84dc36cfa2ef5bed5d0e5cd1749cf2601eafcc12bd784a6dcf4f93&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/09/dnit-pretende-exonerar-multas-e-intereses-a-45000-contribuyentes-afectados-por-caso-ueno"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T12:07:13.598Z",
-      "updatedSlot": "manana",
-      "score": 26.99
+      "updatedAt": "2026-11-09T16:07:15.539Z",
+      "updatedSlot": "tarde",
+      "score": 26.93
     },
     {
       "id": "ev-0mgvby7",
-      "title": "Fiscalía allana la residencia de Santiago Peña en San Bernardino",
-      "summary": "Fiscales y agentes de la Policía Nacional allanaron el domingo a las 19:00 la residencia del expresidente Santiago Peña en San Bernardino, Cordillera. El procedimiento forma parte de la investigación por supuesta lesión de confianza y administración en beneficio propio, vinculada al caso Ueno Bank.\n\nLos fiscales Silvia González, Cristhian Benítez y Elena Fiore encabezaron el operativo, que revisó muebles, cajones y dependencias. Según la Fiscalía, la diligencia busca elementos que ayuden a la investigación. Según las notas, en el lugar habría una bóveda oculta tras una pared falsa, con un sistema de acceso biométrico de supuesto origen israelí, que todavía no pudo abrirse.\n\nSegún la declaración jurada de Peña, la propiedad está valuada en G. 7.750 millones. La imputación menciona además dos préstamos de Ueno Bank por G. 3.548 millones.",
+      "title": "Fiscalía allanó la residencia de Santiago Peña en San Bernardino",
+      "summary": "La Fiscalía allanó el domingo la residencia del expresidente Santiago Peña, en San Bernardino, Cordillera. El procedimiento se hizo en el marco de la causa por el desfalco en Ueno Bank. Peña fue imputado por lesión de confianza y administración en beneficio propio, según el Ministerio Público.\n\nLos fiscales Silvia González, Cristhian Benítez y Elena Fiore encabezaron el operativo, con resguardo policial. Revisaron muebles, cajones y dependencias en busca de elementos para la investigación. La declaración jurada de Peña valúa la propiedad en G. 7.750 millones, y la imputación menciona dos préstamos de Ueno Bank por G. 3.548 millones.\n\nDurante el allanamiento se encontró una bóveda oculta con puertas blindadas y un sistema de acceso biométrico, según la Fiscalía y medios locales. Los investigadores no lograron abrirla y analizan alternativas, aunque el fiscal Christian Benítez descartó por ahora trasladar a Peña para que la abra.",
       "keyPoints": [
-        "El allanamiento se hizo el domingo en la residencia de San Bernardino.",
-        "Los fiscales encabezaron el operativo bajo resguardo policial.",
-        "Según las notas, la bóveda aún no pudo ser abierta."
+        "Fiscales Silvia González, Cristhian Benítez y Elena Fiore encabezaron el allanamiento.",
+        "Peña fue imputado por lesión de confianza y administración en beneficio propio.",
+        "Se halló una bóveda con acceso biométrico que aún no pudo abrirse.",
+        "La propiedad está valuada en G. 7.750 millones según la declaración jurada."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -120,6 +138,30 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "¿Qué hay dentro de la bóveda en Samber?",
+          "url": "https://www.telefuturo.com.py/que-hay-dentro-de-la-boveda-en-samber",
+          "publishedAt": "2026-11-09T14:30:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Bóveda oculta en la mansión de Peña: Fiscalía busca acceder a estructura blindada",
+          "url": "https://elnacional.com.py/politica/boveda-oculta-mansion-pena-fiscalia-busca-acceder-estructura-blindada-n114950",
+          "publishedAt": "2026-11-09T13:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1b1b359ffb.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Detonarán la bóveda o llevarán a Santi Peña para abrirla? Las opciones de la Fiscalía",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/detonaran-la-boveda-de-santi-pena-las-opciones-de-la-fiscalia",
+          "publishedAt": "2026-11-09T13:12:50.000Z",
+          "image": "https://www.abc.com.py/resizer/d-HqppMiGxk__Ojnxgb4mA80qkM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6QON6XXIX5FTBBU6NWOHDBNQFI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -151,6 +193,14 @@
           "url": "https://www.abc.com.py/internacionales/2026/11/08/fiscalia-de-paraguay-registra-casa-de-verano-de-pena-en-investigacion-por-caso-ueno-bank",
           "publishedAt": "2026-11-09T01:00:10.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Tras el caso de la mansión de Peña, pedirán informes a la Municipalidad de San Bernardino",
+          "url": "https://www.abc.com.py/nacionales/2026/11/08/tras-el-caso-de-la-mansion-de-pena-pediran-informes-a-la-municipalidad-de-san-bernardino",
+          "publishedAt": "2026-11-09T00:45:54.000Z",
+          "image": "https://www.abc.com.py/resizer/_FQrw3_Kdw8_PYvJwWoWqzTB3QA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/L56RPYX2KBC7NKX3ZRLTJLYQCE.jpg"
         },
         {
           "sourceId": "abc",
@@ -202,15 +252,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MG2RBGOE7VHA7JE2QE7CXMOYZE.jpg?auth=73c960e099c067b085f449176aacd7b4f816e87edd4f6af1a2c1bbfb6ef8dd1b&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/09/video-hoy-continua-el-allanamiento-a-la-mansion-de-santiago-pena-en-san-bernardino"
+        "url": "https://statics.elnacional.com.py/2026/11/6af1b1b359ffb.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/boveda-oculta-mansion-pena-fiscalia-busca-acceder-estructura-blindada-n114950"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T12:07:13.598Z",
-      "updatedSlot": "manana",
-      "score": 23.95
+      "updatedAt": "2026-11-09T16:07:15.539Z",
+      "updatedSlot": "tarde",
+      "score": 26.87
     },
     {
       "id": "ev-00w4rsj",
@@ -277,7 +327,98 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 20.24
+      "score": 19.91
+    },
+    {
+      "id": "ev-1mj44xb",
+      "title": "Alliana toma juramento a Ariel Martínez y Juan Carlos Baruja como ministros",
+      "summary": "El presidente Pedro Alliana tomó juramento a dos nuevos ministros de su Gabinete. Ariel Martínez asume en el Ministerio del Interior, en reemplazo del senador Enrique Riera. Juan Carlos Baruja pasa del Ministerio de Urbanismo, Vivienda y Hábitat al Ministerio de Obras Públicas y Comunicaciones, en lugar de Claudia Centurión.\n\nEl acto se realizó en el Palacio de López con autoridades nacionales y los demás ministros.",
+      "keyPoints": [
+        "Ariel Martínez asume como ministro del Interior.",
+        "Juan Carlos Baruja pasa al Ministerio de Obras Públicas y Comunicaciones.",
+        "El acto se realizó en el Palacio de López."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Baruja y Martínez juran como nuevos ministros",
+          "url": "https://www.lanacion.com.py/politica/2026/11/09/baruja-y-martinez-juran-como-nuevos-ministros",
+          "publishedAt": "2026-11-09T14:08:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/729ZTpGmrlE1R5s-P_PfZTMkyqs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PUASFSJHPNGKRH5MRFRK2YWJKY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pedro Alliana: su agenda oficial para el día 9 de noviembre",
+          "url": "https://www.abc.com.py/politica/2026/11/09/pedro-alliana-su-agenda-oficial-para-el-dia-9-de-noviembre",
+          "publishedAt": "2026-11-09T03:27:12.000Z",
+          "image": "https://www.abc.com.py/resizer/njrcAb_9Vur6Lp4e7gSdjFctgPU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MSBZX2XDAFD2LFRCQ2DDDY3MLM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Baruja supervisa obras viales y exige resultados a su equipo",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/baruja-supervisa-obras-viales-y-exige-resultados-a-su-equipo",
+          "publishedAt": "2026-11-09T03:16:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wrm7mJTye1US-Rc-zFfF1Y2QBxo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UYCPQZM3GZCK7IZLTVBLCLQK3Y.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Inicia la era Baruja al frente del MOPC con verificación de obras en Areguá",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/08/inicia-la-era-baruja-al-frente-del-mopc-con-verificacion-de-obras-en-aregua",
+          "publishedAt": "2026-11-08T22:18:40.964Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/FUGSSGQKVVEGRFRKRYQIE2MUEI.jfif?auth=b75423361d8ea1b1b28474b8ed8804cf6411cec3492683304469c23ac75b33de&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Baruja recorre trabajos en Central y plantea una nueva dinámica en las obras públicas",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/08/baruja-recorre-trabajos-en-central-y-plantea-una-nueva-dinamica-en-las-obras-publicas",
+          "publishedAt": "2026-11-08T19:35:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AkRqKbo9MVCgCv4votFFrnggY3I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FUGSSGQKVVEGRFRKRYQIE2MUEI.jfif"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Primer recorrido como ministro de obras: Baruja verifica trabajos en Central",
+          "url": "https://5dias.com.py/article/primer-recorrido-como-ministro-de-obras-baruja-verifica-trabajos-en-central",
+          "publishedAt": "2026-11-08T18:02:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-08_at_11.43.29_20261108_180341.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana inicia su jornada con reuniones clave en el Palacio de Gobierno",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/alliana-inicia-su-jornada-con-reuniones-clave-en-el-palacio-de-gobierno",
+          "publishedAt": "2026-11-08T13:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DnTl4eO75eGgbRtQ_tzxKVMy-DA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYMHTFSMFVF5LFHME6C4234NLQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pedro Alliana inicia reconfiguración del Gobierno con designaciones",
+          "url": "https://www.lanacion.com.py/politica/2026/11/08/pedro-alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
+          "publishedAt": "2026-11-08T09:50:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PUASFSJHPNGKRH5MRFRK2YWJKY.jpeg?auth=82486d52f914a9b4c17f3f34ef3ed3f1cfd4da8b6c76d144bbd5d0a904730455&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/09/baruja-y-martinez-juran-como-nuevos-ministros"
+      },
+      "firstSeenAt": "2026-11-09T08:07:10.880Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-09T16:07:15.539Z",
+      "updatedSlot": "tarde",
+      "score": 17.84
     },
     {
       "id": "ev-0mrn9bw",
@@ -336,90 +477,74 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T12:07:13.598Z",
       "updatedSlot": "manana",
-      "score": 17.74
+      "score": 17.41
     },
     {
-      "id": "ev-1mj44xb",
-      "title": "Juan Carlos Baruja asume en el MOPC y recorre obras en Central",
-      "summary": "Juan Carlos Baruja asumió como nuevo ministro de Obras Públicas y Comunicaciones por decreto del presidente Pedro Alliana. Reemplaza a Claudia Centurión y deja el Ministerio de Urbanismo, Vivienda y Hábitat, que queda vacante.\n\nEl primer día en el cargo, Baruja recorrió obras en Areguá y visitó la planta asfáltica de Itauguá, dentro del Plan Central 2. Recorrió los tramos R8, calle Yukyty–Caacupemí, y R1, calle Bicentenario, donde ya hay señalización horizontal. Pidió a su equipo una nueva dinámica de trabajo en sus primeros 30 días.\n\nEn el mismo proceso de cambios, Ariel Martínez fue designado ministro del Interior en reemplazo de Enrique Riera, y Rolando de Barros asumió como jefe del Gabinete Civil.",
+      "id": "ev-0j16n6d",
+      "title": "León XIV llega a Argentina en su primera visita en 39 años",
+      "summary": "El papa León XIV llegó este domingo a Buenos Aires, en su primera visita a Argentina en 39 años. Fue recibido en el aeropuerto por el presidente Javier Milei y por su hermana Karina, secretaria general de la Presidencia. Aterrizó a las 16:35 hora local, procedente de Uruguay.\n\nLa visita es parte de una gira que terminará en Perú. Hasta el miércoles 11 de noviembre, el papa celebrará tres misas multitudinarias. También visitará un hogar para personas con discapacidad, una cárcel y el santuario de Luján, principal destino de peregrinación católica del país.\n\nEn Uruguay, el pontífice condenó la violencia del narcotráfico y pidió poner fin a la pobreza que afecta a los niños. Se espera que en Argentina se pronuncie en defensa de los más vulnerables, en medio de críticas de la Iglesia al costo social de los recortes del gobierno.",
       "keyPoints": [
-        "Baruja asumió como ministro de Obras Públicas y Comunicaciones en reemplazo de Claudia Centurión.",
-        "Recorrió obras de los tramos R8 y R1 en Areguá y visitó la planta de Itauguá.",
-        "Pidió al equipo una nueva dinámica en los próximos 30 días."
+        "León XIV llegó a Buenos Aires desde Uruguay.",
+        "Milei y Karina Milei lo recibieron en el aeropuerto.",
+        "La gira termina en Perú, después de la visita a Luján."
       ],
-      "category": "politica",
-      "scope": "paraguay",
+      "category": "internacional",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Baruja recorre trabajos en Central y plantea una nueva dinámica en las obras públicas",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/08/baruja-recorre-trabajos-en-central-y-plantea-una-nueva-dinamica-en-las-obras-publicas",
-          "publishedAt": "2026-11-08T19:35:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AkRqKbo9MVCgCv4votFFrnggY3I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FUGSSGQKVVEGRFRKRYQIE2MUEI.jfif"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Baruja supervisa obras viales y exige resultados a su equipo",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/09/baruja-supervisa-obras-viales-y-exige-resultados-a-su-equipo",
-          "publishedAt": "2026-11-09T03:16:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wrm7mJTye1US-Rc-zFfF1Y2QBxo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UYCPQZM3GZCK7IZLTVBLCLQK3Y.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Inicia la era Baruja al frente del MOPC con verificación de obras en Areguá",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/08/inicia-la-era-baruja-al-frente-del-mopc-con-verificacion-de-obras-en-aregua",
-          "publishedAt": "2026-11-08T22:18:40.964Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/FUGSSGQKVVEGRFRKRYQIE2MUEI.jfif?auth=b75423361d8ea1b1b28474b8ed8804cf6411cec3492683304469c23ac75b33de&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Primer recorrido como ministro de obras: Baruja verifica trabajos en Central",
-          "url": "https://5dias.com.py/article/primer-recorrido-como-ministro-de-obras-baruja-verifica-trabajos-en-central",
-          "publishedAt": "2026-11-08T18:02:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-08_at_11.43.29_20261108_180341.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pedro Alliana inicia reconfiguración del Gobierno con designaciones",
-          "url": "https://www.lanacion.com.py/politica/2026/11/08/pedro-alliana-inicia-reconfiguracion-del-gobierno-con-designaciones",
-          "publishedAt": "2026-11-08T09:50:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RjzsOgbw90xzhSmmcbXO7P9qsvY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H2OV6A2ECNAOFK3ZBK3UPU3VSU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana inicia su jornada con reuniones clave en el Palacio de Gobierno",
-          "url": "https://www.lanacion.com.py/politica/2026/11/08/alliana-inicia-su-jornada-con-reuniones-clave-en-el-palacio-de-gobierno",
-          "publishedAt": "2026-11-08T13:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/DnTl4eO75eGgbRtQ_tzxKVMy-DA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NYMHTFSMFVF5LFHME6C4234NLQ.jpg"
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "El papa León XIV llegó a la Argentina en una histórica visita apostólica",
+          "url": "https://www.telefuturo.com.py/el-papa-leon-xiv-llego-a-la-argentina-en-una-historica-visita-apostolica",
+          "publishedAt": "2026-11-09T14:40:52.000Z",
+          "image": null
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Pedro Alliana: su agenda oficial para el día 9 de noviembre",
-          "url": "https://www.abc.com.py/politica/2026/11/09/pedro-alliana-su-agenda-oficial-para-el-dia-9-de-noviembre",
-          "publishedAt": "2026-11-09T03:27:12.000Z",
-          "image": "https://www.abc.com.py/resizer/njrcAb_9Vur6Lp4e7gSdjFctgPU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MSBZX2XDAFD2LFRCQ2DDDY3MLM.jpg"
+          "title": "Miles de personas esperan en las calles de Buenos Aires la primera misa del papa León XIV",
+          "url": "https://www.abc.com.py/internacionales/2026/11/09/miles-de-personas-esperan-en-las-calles-de-buenos-aires-la-primera-misa-del-papa-leon-xiv",
+          "publishedAt": "2026-11-09T11:10:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV llega a Argentina y es recibido por emocionados fieles",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles",
+          "publishedAt": "2026-11-09T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GaG_ATVYKcNlh_7KQOo5biW6mTw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV inicia su visita a Argentina y se reúne con Milei",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/08/leon-xiv-inicia-su-visita-a-argentina-y-se-reune-con-milei",
+          "publishedAt": "2026-11-09T00:10:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BnyHb2_GbpwYtiul6BNe7uJXjLM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QZXNA6QH5FEQ5KDNOYGPMNTRTE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "León XIV llega a Argentina y lo recibe Milei, cuyo ajuste cuestiona la Iglesia",
+          "url": "https://elnacional.com.py/mundo/leon-xiv-llega-argentina-lo-recibe-milei-cuyo-ajuste-cuestiona-iglesia-n114929",
+          "publishedAt": "2026-11-08T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af0db0055a1c.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FUGSSGQKVVEGRFRKRYQIE2MUEI.jfif?auth=b75423361d8ea1b1b28474b8ed8804cf6411cec3492683304469c23ac75b33de&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg?auth=dbcd32e1af75b36be2807c6eda1ce8525ec8de3ac5569a1536d2c327c89b0ded&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/08/baruja-recorre-trabajos-en-central-y-plantea-una-nueva-dinamica-en-las-obras-publicas"
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles"
       },
       "firstSeenAt": "2026-11-09T08:07:10.880Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-09T08:07:10.880Z",
-      "updatedSlot": "manana",
-      "score": 17.28
+      "updatedAt": "2026-11-09T16:07:15.539Z",
+      "updatedSlot": "tarde",
+      "score": 15.38
     },
     {
       "id": "ev-1oscv2b",
@@ -478,7 +603,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 13.69
+      "score": 13.36
     },
     {
       "id": "ev-0jcbzx4",
@@ -529,67 +654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 13.09
-    },
-    {
-      "id": "ev-0j16n6d",
-      "title": "Miles de fieles esperan en Buenos Aires la primera misa de León XIV",
-      "summary": "León XIV inició una visita histórica a Argentina, la primera de un papa en casi cuatro décadas. Desde la madrugada, miles de fieles se concentraron en Buenos Aires para ver la misa que el pontífice celebrará a las 11.30, hora local, cerca del Monumento de los Españoles, en Palermo.\n\nEl papa visitó el Cottolengo, obra de la congregación de Don Orione que el papa Francisco visitaba cuando era arzobispo de Buenos Aires. En su primer discurso pidió justicia social, apoyo a la educación y la investigación, y protección para jubilados y personas con discapacidad. Dijo que la economía debe estar al servicio de la persona.\n\nDespués se reunió durante 40 minutos con el presidente Javier Milei en la Casa Rosada. El martes viajará a Córdoba y el miércoles visitará Luján, donde está la basílica de la patrona del país.",
-      "keyPoints": [
-        "La misa en Buenos Aires se celebrará a las 11.30, hora local.",
-        "León XIV pidió justicia social y apoyo a la educación y la investigación.",
-        "Se reunió 40 minutos con el presidente Javier Milei en la Casa Rosada.",
-        "El martes viajará a Córdoba y el miércoles visitará Luján."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Miles de personas esperan en las calles de Buenos Aires la primera misa del papa León XIV",
-          "url": "https://www.abc.com.py/internacionales/2026/11/09/miles-de-personas-esperan-en-las-calles-de-buenos-aires-la-primera-misa-del-papa-leon-xiv",
-          "publishedAt": "2026-11-09T11:10:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "León XIV llega a Argentina y es recibido por emocionados fieles",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles",
-          "publishedAt": "2026-11-09T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GaG_ATVYKcNlh_7KQOo5biW6mTw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "León XIV inicia su visita a Argentina y se reúne con Milei",
-          "url": "https://www.lanacion.com.py/mundo/2026/11/08/leon-xiv-inicia-su-visita-a-argentina-y-se-reune-con-milei",
-          "publishedAt": "2026-11-09T00:10:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BnyHb2_GbpwYtiul6BNe7uJXjLM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QZXNA6QH5FEQ5KDNOYGPMNTRTE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "León XIV llega a Argentina y lo recibe Milei, cuyo ajuste cuestiona la Iglesia",
-          "url": "https://elnacional.com.py/mundo/leon-xiv-llega-argentina-lo-recibe-milei-cuyo-ajuste-cuestiona-iglesia-n114929",
-          "publishedAt": "2026-11-08T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af0db0055a1c.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BFM56IUAGBFH3D7Y5DSLPEAER4.jpg?auth=dbcd32e1af75b36be2807c6eda1ce8525ec8de3ac5569a1536d2c327c89b0ded&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/09/leon-xiv-llega-a-argentina-y-es-recibido-por-emocionados-fieles"
-      },
-      "firstSeenAt": "2026-11-09T08:07:10.880Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-09T12:07:13.598Z",
-      "updatedSlot": "manana",
-      "score": 12.42
+      "score": 12.76
     },
     {
       "id": "ev-0chb58b",
@@ -632,7 +697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T12:07:13.598Z",
       "updatedSlot": "manana",
-      "score": 9.74
+      "score": 9.41
     },
     {
       "id": "ev-1oqqk9c",
@@ -675,7 +740,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 9.09
+      "score": 8.75
     },
     {
       "id": "ev-0u0wj5f",
@@ -718,7 +783,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 8.81
+      "score": 8.48
     },
     {
       "id": "ev-04ku946",
@@ -761,7 +826,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.24
     },
     {
       "id": "ev-0vzbfng",
@@ -857,7 +922,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 7.2
+      "score": 6.86
     },
     {
       "id": "ev-0ojs08n",
@@ -901,7 +966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-1aihhew",
@@ -945,7 +1010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.25
+      "score": 5.92
     },
     {
       "id": "ev-03lyuv3",
@@ -989,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-14vw9tj",
@@ -1033,7 +1098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1t54tba",
@@ -1077,7 +1142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1o601m3",
@@ -1121,7 +1186,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0ut8a8q",
@@ -1165,7 +1230,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0o1e0fy",
@@ -1209,7 +1274,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0wqvvov",
@@ -1253,7 +1318,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1ixdst0",
@@ -1289,7 +1354,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0cnps2k",
@@ -1324,7 +1389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-15xwl58",
@@ -1353,7 +1418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.31
     },
     {
       "id": "ev-03vgqdm",
@@ -1382,7 +1447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.25
     },
     {
       "id": "ev-19977v9",
@@ -1413,7 +1478,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-079rfhb",
@@ -1442,7 +1507,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-10xk08d",
@@ -1471,7 +1536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0z8btw8",
@@ -1500,7 +1565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-00qj0qu",
@@ -1531,7 +1596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1qslryn",
@@ -1562,7 +1627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-0kj2puz",
@@ -1593,7 +1658,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1ohd22o",
@@ -1624,7 +1689,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1x0kjyt",
@@ -1660,7 +1725,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.38
+      "score": 5.05
     },
     {
       "id": "ev-07y2lli",
@@ -1696,7 +1761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.03
     },
     {
       "id": "ev-0hiavwf",
@@ -1732,7 +1797,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.03
     },
     {
       "id": "ev-0ouyr06",
@@ -1768,7 +1833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-00dkv0b",
@@ -1800,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0iskjlm",
@@ -1831,7 +1896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1lsouhb",
@@ -1864,7 +1929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0dmingi",
@@ -1900,7 +1965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.96
     },
     {
       "id": "ev-0eqkdfb",
@@ -1931,7 +1996,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.76
     },
     {
       "id": "ev-1j3vdl0",
@@ -1965,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-0ae2ir0",
@@ -2037,7 +2102,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 3.85
+      "score": 3.52
     },
     {
       "id": "ev-1u02qi2",
@@ -2080,7 +2145,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 3.55
+      "score": 3.21
     },
     {
       "id": "ev-1i5z8cp",
@@ -2111,7 +2176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 2.64
+      "score": 2.31
     },
     {
       "id": "ev-1nmsdsi",
@@ -2146,7 +2211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-09T08:07:10.880Z",
       "updatedSlot": "manana",
-      "score": 1.72
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2163,6 +2228,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 15
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-09T16:07:15.539Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 16
     }
   ]
 }
