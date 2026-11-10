@@ -1,27 +1,51 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-10T19:37:13.296Z",
+  "generatedAt": "2026-11-10T23:07:12.206Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1slmlec",
-      "title": "Fiscalía detiene a funcionaria de Ueno Casa de Bolsa por presunta destrucción de documentos",
-      "summary": "La Fiscalía detuvo a Andrea Benítez, exjefa de Operaciones de Ueno Casa de Bolsa, tras un allanamiento en la sede de la firma en Asunción. Según los medios, cámaras de seguridad la captaron rompiendo documentos antes de la llegada de la comitiva fiscal. La Fiscalía le atribuye el hecho punible de frustración de la ejecución y persecución penal.\n\nSegún el fiscal Federico Leguizamón, algunos de los papeles mencionan al expresidente Santiago Peña. Benítez guardó silencio al ser consultada sobre el motivo y decidió no declarar. Su abogado, Andrés Álvarez, dijo que los documentos eran solamente proyectos de resoluciones y contratos sin firma ni sello. Según el fiscal, la detenida volvió a imprimir los papeles que había roto.\n\nEl fiscal anunció que se investigará también a las personas que estaban en el local durante el episodio. El allanamiento alcanzó además a Technoma SAECA e ITTI SAECA, según informó El Nacional. La mujer sería imputada en las próximas horas.",
+      "title": "¿Qué documentos rompió la funcionaria de Ueno Casa de Bolsa?",
+      "summary": "Correos electrónicos, comunicaciones internas, informes de la jefa de Operaciones, resoluciones y contratos integran el conjunto de documentos que Andrea Benítez, funcionaria de Ueno… El encuentro tuvo lugar en Buenos Aires y fue uno de los eventos públicos previstos dentro de la agenda del papa, que culmina mañana.",
       "keyPoints": [
-        "Andrea Benítez fue detenida tras un allanamiento en Ueno Casa de Bolsa.",
-        "Las cámaras la muestran rompiendo documentos antes de la llegada de los fiscales.",
-        "Benítez decidió no declarar ante la Fiscalía.",
-        "Su abogado afirma que los documentos eran proyectos sin firma ni sello."
+        "Correos electrónicos, comunicaciones internas, informes de la jefa de Operaciones, resoluciones y contratos integran el conjunto de documentos que Andrea Benítez, funcionaria de Ueno…",
+        "El encuentro tuvo lugar en Buenos Aires y fue uno de los eventos públicos previstos dentro de la agenda del papa, que culmina mañana.",
+        "Dos millones de personas asisten este lunes en Buenos Aires a la misa del papa León XIV en su segundo día en Argentina, según la policía de la ciudad, lo que la convierte en la más…",
+        "La Fiscalía detuvo a la exjefa de Operaciones de Ueno Casa de Bolsa tras la difusión de imágenes en las que se observa cómo destruye documentos vinculados a operaciones financieras investigadas."
       ],
-      "category": "pais",
+      "category": "internacional",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cientos de miles de jóvenes esperan el encuentro con León XIV en Buenos Aires",
+          "url": "https://www.abc.com.py/internacionales/2026/11/10/cientos-de-miles-de-jovenes-esperan-el-encuentro-con-leon-xiv-en-buenos-aires",
+          "publishedAt": "2026-11-10T20:00:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Dos millones de personas asisten a misa del papa León en Buenos Aires",
+          "url": "https://www.adndigital.com.py/dos-millones-de-personas-asisten-a-misa-del-papa-leon-en-buenos-aires",
+          "publishedAt": "2026-11-10T19:39:55.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-163756.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "LN PM: edición del 10 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/10/ln-pm-edicion-del-10-de-noviembre",
+          "publishedAt": "2026-11-10T15:31:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Nzu976sSYBWw_evQ9Dv_ma0JEFM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/C7BAX7G3GZCRJFBKE5JWUCMNPY.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -71,6 +95,14 @@
           "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno-casa-de-bolsa.jpg"
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anexo C: urge definición para dar previsibilidad al país, dice Sosa",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/anexo-c-urge-definicion-para-dar-previsibilidad-al-pais-dice-sosa",
+          "publishedAt": "2026-11-10T11:30:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fUpbc0KMdr-C16rpKCmnR-RLkL0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CDC5I7CZC5D3DFPQKX22DOVMYU.jpeg"
+        },
+        {
           "sourceId": "npy",
           "sourceName": "NPY",
           "title": "Captan a exjefa de Operaciones de Ueno Casa de Bolsa destruyendo documentos",
@@ -79,12 +111,28 @@
           "image": null
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV defendió la vigencia de la fe cristiana en multitudinaria misa en Argentina",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/10/leon-xiv-defendio-la-vigencia-de-la-fe-cristiana-en-multitudinaria-misa-en-argentina",
+          "publishedAt": "2026-11-10T10:50:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Cs_FnVKrpA8NmLjzPP_CiBql8Zg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YD572Z3EVJGGNH3KJAMXDKTPTM.jpg"
+        },
+        {
           "sourceId": "5dias",
           "sourceName": "5Días",
           "title": "Jefa de Operaciones de Ueno Casa de Bolsa debe declarar hoy ante la Fiscalía",
           "url": "https://5dias.com.py/article/jefa-de-operaciones-de-ueno-casa-de-bolsa-debe-declarar-hoy-ante-la-fiscala",
           "publishedAt": "2026-11-10T06:29:00.000Z",
           "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/andrea_benitez_20261110_063232.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Más de dos millones de personas asisten a misa del papa León XIV",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv",
+          "publishedAt": "2026-11-10T03:09:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/umsumhrr74wQO6-6DvK8fbFAl9U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -168,15 +216,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af32e7d992a1.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/caso-ueno-empleada-destruyo-documentos-abstuvo-declarar-fiscalia-n115015"
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/andrea-benitez.jpg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/que-documentos-rompio-la-funcionaria-de-ueno-casa-de-bolsa"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T16:07:11.667Z",
+      "updatedAt": "2026-11-10T23:07:12.206Z",
       "updatedSlot": "tarde",
-      "score": 32.61
+      "score": 32.74
     },
     {
       "id": "ev-0e9u8th",
@@ -186,7 +234,7 @@
         "Agentes del Ministerio Público se trasladaron hasta la residencia del exministro de Economía y actual consejero de la Itaipú Binacional, Carlos Fernández Valdovinos.",
         "Agentes del Ministerio Público intervienen en este momento el domicilio de la exautoridad del Ministerio de Economía y Finanzas.",
         "La investigación sobre el desplome financiero de Ueno Bank alcanzó este martes al exministro de Economía y Finanzas Carlos Fernández Valdovinos, cuya residencia en Asunción fue objeto de un allanamiento encabezado por el Ministerio Público y…",
-        "Alrededor de las 15:00, una comitiva fiscal encabezada por los fiscales Christian Benítez y Laura Giacummo, acompañados por agentes policiales procedieron a allanar la casa de Carlos Gustavo Fernández Valdovinos , ex ministro de Economía y…"
+        "Una comitiva del Ministerio Público y de la Policía Nacional allanó este martes la vivienda del exministro de Economía y Finanzas, Carlos Fernández Valdovinos, en el marco de las investigaciones por el colapso de Ueno Bank."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -194,6 +242,38 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo remueve a dos consejeros y acepta la renuncia de otros dos de Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/ejecutivo-remueve-a-dos-consejeros-y-acepta-la-renuncia-de-otros-dos-de-itaipu",
+          "publishedAt": "2026-11-10T21:19:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0eBMBOs91LWWLsJONra648JQokY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7YCEHSPJJBBBVMOZSBBVOGMHTY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Itaipú: Ejecutivo echa a dos consejeros y acepta la renuncia de otros dos, en plena crisis de Ueno",
+          "url": "https://www.abc.com.py/economia/2026/11/10/itaipu-ejecutivo-echa-a-dos-consejeros-y-acepta-la-renuncia-de-otros-dos-en-plena-crisis-de-ueno",
+          "publishedAt": "2026-11-10T20:43:13.000Z",
+          "image": "https://www.abc.com.py/resizer/3EGIrd3NO8ydWla1Q2gyARqoDoQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UVAQGNBIJFAZLPGH4SPCU2AUZY.jfif"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana remueve a cuatro figuras del gobierno de Peña del Consejo de Itaipú",
+          "url": "https://www.adndigital.com.py/alliana-remueve-a-cuatro-figuras-del-gobierno-de-pena-del-consejo-de-itaipu",
+          "publishedAt": "2026-11-10T20:27:52.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-172626.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana remueve a Fernández Valdovinos y a Centurión del Consejo de Itaipú",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/alliana-remueve-a-fernandez-valdovinos-y-a-centurion-del-consejo-de-itaipu",
+          "publishedAt": "2026-11-10T20:21:02.008Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/55R3SO4E7ZA4XDPPGKVS67AEMQ.jfif?auth=3f8a23fb0c479cb65d83593220aedc07faee687afe4f850f3e0031688bcd50e7&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -241,6 +321,14 @@
           "url": "https://www.hoy.com.py/nacionales/2026/11/10/allanan-la-vivienda-del-exministro-carlos-fernandez-valdovinos",
           "publishedAt": "2026-11-10T18:47:23.285Z",
           "image": "https://www.lanacion.com.py/resizer/v2/MBMJCO2GQ5AM3N3BHSTKGTIH3I.jpg?auth=f3d8ef2bdfa51699db2beec63cd7e353b3b9c4ea67bc8e1f83086d65e90e36df&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Allanaron la vivienda de Fernández Valdovinos y fue desvinculado del Consejo de Itaipú",
+          "url": "https://5dias.com.py/article/allanaron-la-vivienda-de-fernndez-valdovinos-y-fue-desvinculado-del-consejo-de-itaip",
+          "publishedAt": "2026-11-10T17:32:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/518087522_1157469609742268_1063715640956342606_n_20261110_163410.jpg"
         },
         {
           "sourceId": "ultimahora",
@@ -330,240 +418,9 @@
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedAt": "2026-11-10T23:07:12.206Z",
       "updatedSlot": "tarde",
-      "score": 26.99
-    },
-    {
-      "id": "ev-1g85alo",
-      "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
-      "summary": "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales. Los fondos mutuos, en cambio, no están cubiertos por la garantía bancaria y sus inversores deberán esperar el proceso de recuperación de activos y las disposiciones de la Superintendencia de Valores.",
-      "keyPoints": [
-        "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales.",
-        "Un grupo organizado de ahorristas e inversores afectados por la suspensión de los fondos mutuos de Ueno Casa de Bolsa emitió un comunicado dirigido a la Superintendencia de Valores del Banco Central del Paraguay (BCP), en…",
-        "El Banco Central del Paraguay informó que ya desembolsó G. 2,1 billones, equivalentes a unos USD 337 millones, a 1.738.804 beneficiarios del proceso de devolución de depósitos.",
-        "El sistema financiero desembolsó G. 2,126 billones a 1.738.804 ahorristas de Ueno Bank."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
-          "url": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016",
-          "publishedAt": "2026-11-10T19:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Inversionistas afectados por fondos mutuos de Ueno exigen plan para liberar sus fondos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/inversionistas-afectados-por-fondos-mutuos-de-ueno-exigen-plan-para-liberar-sus-fondos",
-          "publishedAt": "2026-11-10T18:44:52.397Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Según el BCP, el 93% de los afectados por Ueno recibieron su dinero, pero quedan 128.000 cuentas pendientes",
-          "url": "https://elnacional.com.py/economia/segun-bcp-93-afectados-ueno-recibieron-su-dinero-pero-quedan-128000-cuentas-pendientes-n115010",
-          "publishedAt": "2026-11-10T14:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ueno Bank: ya se pagó al 93% de los ahorristas con depósitos garantizados",
-          "url": "https://www.adndigital.com.py/ueno-bank-ya-se-pago-al-93-de-los-ahorristas-con-depositos-garantizados",
-          "publishedAt": "2026-11-10T13:51:15.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ahorristas de Ueno: BCP aclara dudas sobre devolución de fondos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/ahorristas-de-ueno-bcp-aclara-las-dudas-mas-frecuentes-sobre-la-devolucion-de-fondos",
-          "publishedAt": "2026-11-10T12:59:27.299Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UC5QIHEFCFEAHG2LNFJAHLWKKY.jpeg?auth=e3c488ce0b7f800dab55ad02b1a18650e9e80faae77da5781099ac191ccd94ba&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Ueno Bank: el BCP debe completar pagos de garantía este miércoles",
-          "url": "https://5dias.com.py/article/ueno-bank-el-bcp-debe-completar-pagos-de-garanta-este-mircoles",
-          "publishedAt": "2026-11-10T11:23:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/bcp_20261007_134800.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Un 93,1 % de los clientes de Ueno bank han recibido devoluciones de ahorros en Paraguay",
-          "url": "https://www.abc.com.py/internacionales/2026/11/09/un-931-de-los-clientes-de-ueno-bank-han-recibido-devoluciones-de-ahorros-en-paraguay",
-          "publishedAt": "2026-11-10T00:30:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pago del anticipo de garantía llegó al 93 % de los acreedores de Ueno Bank, según el BCP",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/pago-del-anticipo-de-garantia-llego-al-93-de-los-acreedores-de-ueno-bank-segun-el-bcp",
-          "publishedAt": "2026-11-09T22:43:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pIEoLxGH3cpzm1_pH-Mn38hhfK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HROZQ55HZRFOTAEGM75SY2JCRE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP amplía el pago de garantías a ahorristas de Ueno Bank",
-          "url": "https://www.lanacion.com.py/foco/2026/11/09/bcp-amplia-el-pago-de-garantias-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-09T16:21:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1i75HTWuMmrYvVvwJfhU9aJ8UWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5CAEUIK5FE6LB27DISIYWT23Y.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP amplía este lunes los grupos habilitados para cobrar la garantía de Ueno Bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/bcp-amplia-este-lunes-los-grupos-habilitados-para-cobrar-la-garantia-de-ueno-bank",
-          "publishedAt": "2026-11-09T16:02:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T19:37:13.296Z",
-      "updatedSlot": "tarde",
-      "score": 23.95
-    },
-    {
-      "id": "ev-1u129so",
-      "title": "Diputado colorado anticipa apoyo a juicio político contra el fiscal general Rolón",
-      "summary": "Legisladores de la oposición presentaron denuncias contra Santiago Peña hace 13 meses, según ABC Color. Ese medio indica que no se abrió investigación hasta la caída de Ueno Bank.\n\nLos legisladores preparan un libelo acusatorio contra el fiscal general Emiliano Rolón por la omisión de la Fiscalía ante esas denuncias. El diputado colorado Roberto González dijo que acompañará el juicio político.\n\nGonzález lo propuso para el cargo cuando integró el Consejo de la Magistratura. Dijo tener grandes cuestionamientos hacia Rolón y afirmó que la formación académica no es suficiente.",
-      "keyPoints": [
-        "Legisladores opositores presentaron denuncias contra Peña hace 13 meses.",
-        "Preparan un libelo acusatorio contra el fiscal general Rolón.",
-        "El diputado Roberto González acompañará el juicio político."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Oficialistas evitan fijar postura sobre eventual juicio político al fiscal general Emiliano Rolón",
-          "url": "https://www.ultimahora.com/oficialistas-evitan-fijar-postura-sobre-eventual-juicio-politico-al-fiscal-general-emiliano-rolon",
-          "publishedAt": "2026-11-10T15:59:34.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Titular de Diputados garantiza proceso de eventual juicio político a FGE",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/titular-de-diputados-garantiza-proceso-de-eventual-juicio-politico-a-fge",
-          "publishedAt": "2026-11-10T15:10:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ffuBOQyE5GwAateifwu_u-hyn50=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3FE5QKI47ZGTZG3EIJED6Q2GPQ.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno Bank: diputado arremete contra el fiscal general y adelanta apoyo a juicio político",
-          "url": "https://www.abc.com.py/politica/2026/11/10/ueno-bank-diputado-arremete-contra-fge-por-no-abrir-investigacion-a-autoridades-de-gobierno-de-pena",
-          "publishedAt": "2026-11-10T14:38:17.000Z",
-          "image": "https://www.abc.com.py/resizer/1omGx4M2ikd66FYO3EsooS8zLsc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5CRSDZ2RFNEWJCNWFDB4PSORRY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "¿Qué dice Latorre sobre un juicio político al fiscal general?",
-          "url": "https://www.hoy.com.py/politica/2026/11/10/que-dice-latorre-sobre-un-juicio-politico-al-fiscal-general",
-          "publishedAt": "2026-11-10T14:05:42.686Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/YMZBXWFVDBBKJCYVSBB5RTFH5A.jpg?auth=2af531f9e7994b8bd264f632e6845adcef853c99ce870560bfe172922b565b47&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno Bank: Fiscalía avanza con las investigaciones",
-          "url": "https://www.lanacion.com.py/pais/2026/11/10/caso-ueno-bank-fiscalia-avanza-con-las-investigaciones",
-          "publishedAt": "2026-11-10T10:27:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "“Todo apunta a Santi Peña”: Leite culpa al expresidente por orden de dejar fondos públicos en Ueno",
-          "url": "https://www.abc.com.py/politica/2026/11/09/todo-apunta-a-santi-pena-leite-culpa-al-expresidente-por-orden-de-dejar-fondos-publicos-en-ueno",
-          "publishedAt": "2026-11-10T01:21:58.000Z",
-          "image": "https://www.abc.com.py/resizer/v-f2wK4tdetWmSVvAwqxyUmBcrA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RAL5MZG3H5GKTNF545HC4X4YIQ.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Parlamentarios del PLRA avanzan hacia juicio político contra Fiscal General del Estado y Contraloría",
-          "url": "https://www.abc.com.py/politica/2026/11/09/parlamentarios-del-plra-avanzan-hacia-juicio-politico-contra-fiscal-general-del-estado-y-contraloria",
-          "publishedAt": "2026-11-09T23:30:32.000Z",
-          "image": "https://www.abc.com.py/resizer/GKFgrvLuQ32dKrwrANQbTNm3HEs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EEJ4AV6FYNDP3IVHGV75YWEAJQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Contraloría impulsa dos leyes clave para fortalecer la fiscalización del dinero público",
-          "url": "https://www.lanacion.com.py/politica/2026/11/09/contraloria-impulsa-dos-leyes-clave-para-fortalecer-la-fiscalizacion-del-dinero-publico",
-          "publishedAt": "2026-11-09T19:30:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AD-PgMqjADnlRnJJU_VJj0tslVE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RBOV5RMMTZAY7OHW2LWO46AV5A.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Oposición prepara juicio político contra Emiliano Rolón por actuación en el caso ueno",
-          "url": "https://elnacional.com.py/politica/oposicion-prepara-juicio-politico-emiliano-rolon-actuacion-caso-ueno-n114972",
-          "publishedAt": "2026-11-09T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/02/18b36ddfeabab6b3af95b84bbf8edd67.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Senadores presentarán denuncia contra Emiliano Rolón",
-          "url": "https://www.telefuturo.com.py/senadores-presentaran-denuncia-contra-emiliano-rolon",
-          "publishedAt": "2026-11-09T19:27:08.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Caso Ueno Bank: Vergonzosas declaraciones de Emiliano Rolón",
-          "url": "https://www.telefuturo.com.py/caso-ueno-bank-vergonzosas-declaraciones-de-emiliano-rolon",
-          "publishedAt": "2026-11-09T18:38:37.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Diputada afirma que buscan someter a juicio político al Fiscal General del Estado",
-          "url": "https://www.telefuturo.com.py/diputada-afirma-que-buscan-someter-a-juicio-politico-al-fiscal-general-del-estado",
-          "publishedAt": "2026-11-09T17:04:54.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5CRSDZ2RFNEWJCNWFDB4PSORRY.jpg?auth=2a86addd9fa5937482b6f82fc94c43cbcba47791582ffc970a0203eede1ab214&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/10/ueno-bank-diputado-arremete-contra-fge-por-no-abrir-investigacion-a-autoridades-de-gobierno-de-pena"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T16:07:11.667Z",
-      "updatedSlot": "tarde",
-      "score": 23.7
+      "score": 26.85
     },
     {
       "id": "ev-0o5i6nn",
@@ -571,8 +428,8 @@
       "summary": "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las diligencias realizadas en el inmueble.",
       "keyPoints": [
         "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las…",
-        "La Fiscalía confirmó que la bóveda de Santiago Peña ha sido abierta, pero aún no compartió imágenes ni información oficial acerca del contenido, una cuestión que tiene pendiente a todo Paraguay .",
         "La comitiva fiscal y policial retomó el procedimiento en la vivienda de verano del expresidente, ubicada en San Bernardino.",
+        "\"La bóveda resulta (ser) una sala de pánico, según los términos técnicos que me explicaron, que no tenía nada en el interior\", dijo a periodistas la fiscal Silvia González, luego de que las autoridades lograran abrir…",
         "La Fiscalía consiguió acceder este martes a la habitación blindada de la residencia de Santiago Peña, ubicada en San Bernardino, luego de superar el sistema de seguridad que había impedido completar el procedimiento durante el primer…"
       ],
       "category": "politica",
@@ -581,6 +438,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fiscalía paraguaya aclara que supuesta bóveda en lujosa casa de Peña es cuarto de pánico",
+          "url": "https://www.abc.com.py/internacionales/2026/11/10/fiscalia-paraguaya-aclara-que-supuesta-boveda-en-lujosa-casa-de-pena-es-cuarto-de-panico",
+          "publishedAt": "2026-11-10T21:45:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan una “sala de pánico” perteneciente a Peña en San Bernardino",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/10/allanan-una-sala-de-panico-perteneciente-a-pena-en-san-bernardino",
+          "publishedAt": "2026-11-10T19:38:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VwlrwKeG6qksger0Pkea5uLq68Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLQ7VZQB7VG5VFF4WZNXOGFRW4.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -669,9 +542,272 @@
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedAt": "2026-11-10T23:07:12.206Z",
       "updatedSlot": "tarde",
-      "score": 20.99
+      "score": 23.89
+    },
+    {
+      "id": "ev-1g85alo",
+      "title": "Inversionistas afectados por fondos mutuos de Ueno exigen plan para liberar sus fondos",
+      "summary": "Un grupo organizado de ahorristas e inversores afectados por la suspensión de los fondos mutuos de Ueno Casa de Bolsa emitió un comunicado dirigido a la Superintendencia de Valores del Banco Central del Paraguay (BCP), en el que exigen respuestas oficiales, cronogramas concretos para la devolución o transferencia de sus recursos.",
+      "keyPoints": [
+        "Un grupo organizado de ahorristas e inversores afectados por la suspensión de los fondos mutuos de Ueno Casa de Bolsa emitió un comunicado dirigido a la Superintendencia de Valores del Banco Central del Paraguay (BCP), en…",
+        "Un grupo de afectados por la suspensión de los fondos mutuos presentó un reclamo público para la Superintendencia de Valores.",
+        "Inversionistas afectados por la suspensión que alcanza a los fondos mutuos de Ueno Casa de Bolsa reclamaron a la Superintendencia de Valores (SIV) información sobre su dinero y fechas para transferirlo a otra entidad.",
+        "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Inversionistas de ueno Casa de Bolsa exigen respuestas al BCP y un cronograma para recuperar sus fondos",
+          "url": "https://elnacional.com.py/economia/inversionistas-ueno-casa-bolsa-exigen-respuestas-bcp-cronograma-recuperar-sus-fondos-n115030",
+          "publishedAt": "2026-11-10T21:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af3494e6dbd2.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: inversionistas afectados reclaman información al BCP sobre sus fondos y plazos de solución",
+          "url": "https://www.abc.com.py/economia/2026/11/10/ueno-bank-inversionistas-afectados-reclaman-informacion-al-bcp-sobre-sus-fondos-y-plazos-de-solucion",
+          "publishedAt": "2026-11-10T20:10:16.000Z",
+          "image": "https://www.abc.com.py/resizer/0LRA5mWHL6UcsclTDnjDzWHitWA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z5KSZQYB6VDHRP6HTGCZEJU6VQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
+          "url": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016",
+          "publishedAt": "2026-11-10T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Inversionistas afectados por fondos mutuos de Ueno exigen plan para liberar sus fondos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/inversionistas-afectados-por-fondos-mutuos-de-ueno-exigen-plan-para-liberar-sus-fondos",
+          "publishedAt": "2026-11-10T18:44:52.397Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Según el BCP, el 93% de los afectados por Ueno recibieron su dinero, pero quedan 128.000 cuentas pendientes",
+          "url": "https://elnacional.com.py/economia/segun-bcp-93-afectados-ueno-recibieron-su-dinero-pero-quedan-128000-cuentas-pendientes-n115010",
+          "publishedAt": "2026-11-10T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ueno Bank: ya se pagó al 93% de los ahorristas con depósitos garantizados",
+          "url": "https://www.adndigital.com.py/ueno-bank-ya-se-pago-al-93-de-los-ahorristas-con-depositos-garantizados",
+          "publishedAt": "2026-11-10T13:51:15.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ahorristas de Ueno: BCP aclara dudas sobre devolución de fondos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/ahorristas-de-ueno-bcp-aclara-las-dudas-mas-frecuentes-sobre-la-devolucion-de-fondos",
+          "publishedAt": "2026-11-10T12:59:27.299Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UC5QIHEFCFEAHG2LNFJAHLWKKY.jpeg?auth=e3c488ce0b7f800dab55ad02b1a18650e9e80faae77da5781099ac191ccd94ba&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Ueno Bank: el BCP debe completar pagos de garantía este miércoles",
+          "url": "https://5dias.com.py/article/ueno-bank-el-bcp-debe-completar-pagos-de-garanta-este-mircoles",
+          "publishedAt": "2026-11-10T11:23:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/bcp_20261007_134800.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un 93,1 % de los clientes de Ueno bank han recibido devoluciones de ahorros en Paraguay",
+          "url": "https://www.abc.com.py/internacionales/2026/11/09/un-931-de-los-clientes-de-ueno-bank-han-recibido-devoluciones-de-ahorros-en-paraguay",
+          "publishedAt": "2026-11-10T00:30:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pago del anticipo de garantía llegó al 93 % de los acreedores de Ueno Bank, según el BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/pago-del-anticipo-de-garantia-llego-al-93-de-los-acreedores-de-ueno-bank-segun-el-bcp",
+          "publishedAt": "2026-11-09T22:43:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pIEoLxGH3cpzm1_pH-Mn38hhfK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HROZQ55HZRFOTAEGM75SY2JCRE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP amplía el pago de garantías a ahorristas de Ueno Bank",
+          "url": "https://www.lanacion.com.py/foco/2026/11/09/bcp-amplia-el-pago-de-garantias-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-09T16:21:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1i75HTWuMmrYvVvwJfhU9aJ8UWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5CAEUIK5FE6LB27DISIYWT23Y.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP amplía este lunes los grupos habilitados para cobrar la garantía de Ueno Bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/bcp-amplia-este-lunes-los-grupos-habilitados-para-cobrar-la-garantia-de-ueno-bank",
+          "publishedAt": "2026-11-09T16:02:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/10/inversionistas-afectados-por-fondos-mutuos-de-ueno-exigen-plan-para-liberar-sus-fondos"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T23:07:12.206Z",
+      "updatedSlot": "tarde",
+      "score": 23.82
+    },
+    {
+      "id": "ev-1u129so",
+      "title": "Emiliano Rolón convirtió la Fiscalía en “agencia de empleos”, denuncia diputada",
+      "summary": "En abril de 2023 , apenas un mes después de haber asumido como fiscal general del Estado, el 9 de marzo, el Dr. Emiliano Rolón Fernández nombró a Rodrigo Alcides Villamayor Rolón , hijo de su hermana Rigoberta Rolón Fernández , como director de Denuncias Penales del Ministerio Público.",
+      "keyPoints": [
+        "En abril de 2023 , apenas un mes después de haber asumido como fiscal general del Estado, el 9 de marzo, el Dr.",
+        "El diputado Raúl Benítez (Independiente), uno de los fiscales acusadores en el juicio político contra el expresidente de la República, Santiago Peña, ahora expuso los elementos objetivos que ameritan el enjuiciamiento y la destitución del fiscal…",
+        "La oposición impulsaría un juicio político contra el fiscal general del Estado, Emiliano Rolón, por el caso Ueno Bank."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Raúl Benítez pide destituir al fiscal general Emiliano Rolón por presunto encubrimiento a Peña",
+          "url": "https://www.abc.com.py/politica/2026/11/10/raul-benitez-pide-destituir-al-fiscal-general-emiliano-rolon-por-presunto-encubrimiento-a-pena",
+          "publishedAt": "2026-11-10T20:05:21.000Z",
+          "image": "https://www.abc.com.py/resizer/JH5f92If1bHEmZLeKjg2FSRg154=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QSVEGSY7GBBSVEZMHCTHP5E74E.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Oficialistas evitan fijar postura sobre eventual juicio político al fiscal general Emiliano Rolón",
+          "url": "https://www.ultimahora.com/oficialistas-evitan-fijar-postura-sobre-eventual-juicio-politico-al-fiscal-general-emiliano-rolon",
+          "publishedAt": "2026-11-10T15:59:34.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Titular de Diputados garantiza proceso de eventual juicio político a FGE",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/titular-de-diputados-garantiza-proceso-de-eventual-juicio-politico-a-fge",
+          "publishedAt": "2026-11-10T15:10:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ffuBOQyE5GwAateifwu_u-hyn50=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3FE5QKI47ZGTZG3EIJED6Q2GPQ.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: diputado arremete contra el fiscal general y adelanta apoyo a juicio político",
+          "url": "https://www.abc.com.py/politica/2026/11/10/ueno-bank-diputado-arremete-contra-fge-por-no-abrir-investigacion-a-autoridades-de-gobierno-de-pena",
+          "publishedAt": "2026-11-10T14:38:17.000Z",
+          "image": "https://www.abc.com.py/resizer/1omGx4M2ikd66FYO3EsooS8zLsc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5CRSDZ2RFNEWJCNWFDB4PSORRY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Emiliano Rolón convirtió la Fiscalía en “agencia de empleos”, denuncia diputada",
+          "url": "https://www.abc.com.py/nacionales/2026/11/10/emiliano-rolon-convirtio-la-fiscalia-en-agencia-de-empleos-denuncia-diputada",
+          "publishedAt": "2026-11-10T14:34:57.000Z",
+          "image": "https://www.abc.com.py/resizer/06Hz0MWCBPuS5eBTOxElZe58-E8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CYB7M4GLN5EI7NMVCRRCD6T6W4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "¿Qué dice Latorre sobre un juicio político al fiscal general?",
+          "url": "https://www.hoy.com.py/politica/2026/11/10/que-dice-latorre-sobre-un-juicio-politico-al-fiscal-general",
+          "publishedAt": "2026-11-10T14:05:42.686Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/YMZBXWFVDBBKJCYVSBB5RTFH5A.jpg?auth=2af531f9e7994b8bd264f632e6845adcef853c99ce870560bfe172922b565b47&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: Fiscalía avanza con las investigaciones",
+          "url": "https://www.lanacion.com.py/pais/2026/11/10/caso-ueno-bank-fiscalia-avanza-con-las-investigaciones",
+          "publishedAt": "2026-11-10T10:27:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“Todo apunta a Santi Peña”: Leite culpa al expresidente por orden de dejar fondos públicos en Ueno",
+          "url": "https://www.abc.com.py/politica/2026/11/09/todo-apunta-a-santi-pena-leite-culpa-al-expresidente-por-orden-de-dejar-fondos-publicos-en-ueno",
+          "publishedAt": "2026-11-10T01:21:58.000Z",
+          "image": "https://www.abc.com.py/resizer/v-f2wK4tdetWmSVvAwqxyUmBcrA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RAL5MZG3H5GKTNF545HC4X4YIQ.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Parlamentarios del PLRA avanzan hacia juicio político contra Fiscal General del Estado y Contraloría",
+          "url": "https://www.abc.com.py/politica/2026/11/09/parlamentarios-del-plra-avanzan-hacia-juicio-politico-contra-fiscal-general-del-estado-y-contraloria",
+          "publishedAt": "2026-11-09T23:30:32.000Z",
+          "image": "https://www.abc.com.py/resizer/GKFgrvLuQ32dKrwrANQbTNm3HEs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EEJ4AV6FYNDP3IVHGV75YWEAJQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Contraloría impulsa dos leyes clave para fortalecer la fiscalización del dinero público",
+          "url": "https://www.lanacion.com.py/politica/2026/11/09/contraloria-impulsa-dos-leyes-clave-para-fortalecer-la-fiscalizacion-del-dinero-publico",
+          "publishedAt": "2026-11-09T19:30:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AD-PgMqjADnlRnJJU_VJj0tslVE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RBOV5RMMTZAY7OHW2LWO46AV5A.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Oposición prepara juicio político contra Emiliano Rolón por actuación en el caso ueno",
+          "url": "https://elnacional.com.py/politica/oposicion-prepara-juicio-politico-emiliano-rolon-actuacion-caso-ueno-n114972",
+          "publishedAt": "2026-11-09T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/02/18b36ddfeabab6b3af95b84bbf8edd67.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Senadores presentarán denuncia contra Emiliano Rolón",
+          "url": "https://www.telefuturo.com.py/senadores-presentaran-denuncia-contra-emiliano-rolon",
+          "publishedAt": "2026-11-09T19:27:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Caso Ueno Bank: Vergonzosas declaraciones de Emiliano Rolón",
+          "url": "https://www.telefuturo.com.py/caso-ueno-bank-vergonzosas-declaraciones-de-emiliano-rolon",
+          "publishedAt": "2026-11-09T18:38:37.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Diputada afirma que buscan someter a juicio político al Fiscal General del Estado",
+          "url": "https://www.telefuturo.com.py/diputada-afirma-que-buscan-someter-a-juicio-politico-al-fiscal-general-del-estado",
+          "publishedAt": "2026-11-09T17:04:54.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CYB7M4GLN5EI7NMVCRRCD6T6W4.jpg?auth=eea11fde2526263740ac060bfe682d72bf549e78c3c8569c947c84967756b37b&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/nacionales/2026/11/10/emiliano-rolon-convirtio-la-fiscalia-en-agencia-de-empleos-denuncia-diputada"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T23:07:12.206Z",
+      "updatedSlot": "tarde",
+      "score": 23.75
     },
     {
       "id": "ev-0jb6n9y",
@@ -843,7 +979,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T19:37:13.296Z",
       "updatedSlot": "tarde",
-      "score": 20.81
+      "score": 20.52
     },
     {
       "id": "ev-1tvkt35",
@@ -927,7 +1063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 20.57
+      "score": 20.27
     },
     {
       "id": "ev-1fs5rw9",
@@ -1051,7 +1187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 18.04
+      "score": 17.75
     },
     {
       "id": "ev-01syvyg",
@@ -1109,7 +1245,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T19:37:13.296Z",
       "updatedSlot": "tarde",
-      "score": 17.28
+      "score": 16.99
     },
     {
       "id": "ev-09ymey2",
@@ -1192,7 +1328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 16.72
+      "score": 16.43
     },
     {
       "id": "ev-01r537q",
@@ -1252,7 +1388,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 14.51
+      "score": 14.22
     },
     {
       "id": "ev-1teuhfc",
@@ -1312,7 +1448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 14.31
+      "score": 14.02
     },
     {
       "id": "ev-1lj5yaq",
@@ -1379,7 +1515,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 14.23
+      "score": 13.94
     },
     {
       "id": "ev-1ii6g3a",
@@ -1430,7 +1566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 13.6
+      "score": 13.3
     },
     {
       "id": "ev-0l0j48q",
@@ -1489,7 +1625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 11.2
+      "score": 10.91
     },
     {
       "id": "ev-03ledbh",
@@ -1540,7 +1676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 10.61
+      "score": 10.32
     },
     {
       "id": "ev-03hzu7x",
@@ -1592,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-1yee52d",
@@ -1644,7 +1780,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.62
+      "score": 9.33
     },
     {
       "id": "ev-1w053tx",
@@ -1687,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.39
+      "score": 8.1
     },
     {
       "id": "ev-1ada2z5",
@@ -1730,7 +1866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.3
+      "score": 8.01
     },
     {
       "id": "ev-0zz8kat",
@@ -1789,7 +1925,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T19:37:13.296Z",
       "updatedSlot": "tarde",
-      "score": 8.29
+      "score": 8
     },
     {
       "id": "ev-0quohse",
@@ -1832,7 +1968,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-1a94ua3",
@@ -1978,7 +2114,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.86
     },
     {
       "id": "ev-140o1kp",
@@ -2022,7 +2158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.44
     },
     {
       "id": "ev-1ii2935",
@@ -2065,7 +2201,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0ofsz8g",
@@ -2108,7 +2244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0mu6c5d",
@@ -2152,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-11mhims",
@@ -2187,7 +2323,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.44
     },
     {
       "id": "ev-0750a95",
@@ -2220,7 +2356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0di8g4n",
@@ -2253,7 +2389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-09vdnn8",
@@ -2286,7 +2422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-187vux9",
@@ -2319,7 +2455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0bazx6t",
@@ -2355,7 +2491,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-00b5pcl",
@@ -2386,7 +2522,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-12h8ll5",
@@ -2422,7 +2558,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-164zm4u",
@@ -2457,7 +2593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0uv7lbo",
@@ -2490,7 +2626,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1r49hmg",
@@ -2523,7 +2659,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1u4t15z",
@@ -2556,7 +2692,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0w9xbwl",
@@ -2592,7 +2728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.4
     },
     {
       "id": "ev-146fzwm",
@@ -2627,7 +2763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.05
+      "score": 4
     },
     {
       "id": "ev-1r3atmh",
@@ -2729,7 +2865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.03
+      "score": 1.74
     },
     {
       "id": "ev-0zcbemk",
@@ -2761,7 +2897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 1.98
+      "score": 1.69
     },
     {
       "id": "ev-17ac670",
@@ -2793,7 +2929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 1.84
+      "score": 1.55
     },
     {
       "id": "ev-05zvvar",
@@ -2825,7 +2961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 1.82
+      "score": 1.53
     },
     {
       "id": "ev-0dx9es0",
@@ -2861,7 +2997,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 1.61
+      "score": 1.5
     }
   ],
   "runs": [
@@ -2899,6 +3035,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 11
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-10T23:07:12.206Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 12
     }
   ]
 }
