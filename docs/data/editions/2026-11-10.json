@@ -1,9 +1,9 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-10T16:07:11.667Z",
-  "aiMode": "ia",
-  "model": "claude-haiku-5-5",
+  "generatedAt": "2026-11-10T19:37:13.296Z",
+  "aiMode": "extractivo",
+  "model": null,
   "maxEvents": 50,
   "events": [
     {
@@ -176,7 +176,271 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 32.91
+      "score": 32.61
+    },
+    {
+      "id": "ev-0e9u8th",
+      "title": "Allanan la vivienda de Carlos Fernández Valdovinos",
+      "summary": "Agentes del Ministerio Público se trasladaron hasta la residencia del exministro de Economía y actual consejero de la Itaipú Binacional, Carlos Fernández Valdovinos. Los intervinientes estarían buscando documentos y otras evidencias, en el marco de las investigaciones sobre ueno bank.",
+      "keyPoints": [
+        "Agentes del Ministerio Público se trasladaron hasta la residencia del exministro de Economía y actual consejero de la Itaipú Binacional, Carlos Fernández Valdovinos.",
+        "Agentes del Ministerio Público intervienen en este momento el domicilio de la exautoridad del Ministerio de Economía y Finanzas.",
+        "La investigación sobre el desplome financiero de Ueno Bank alcanzó este martes al exministro de Economía y Finanzas Carlos Fernández Valdovinos, cuya residencia en Asunción fue objeto de un allanamiento encabezado por el Ministerio Público y…",
+        "Alrededor de las 15:00, una comitiva fiscal encabezada por los fiscales Christian Benítez y Laura Giacummo, acompañados por agentes policiales procedieron a allanar la casa de Carlos Gustavo Fernández Valdovinos , ex ministro de Economía y…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ueno Bank: Fiscalía busca evidencias en la vivienda de Carlos Fernández Valdovinos",
+          "url": "https://www.adndigital.com.py/ueno-bank-fiscalia-busca-evidencias-en-la-vivienda-de-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T19:32:30.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan la vivienda de Carlos Fernández Valdovinos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/allanan-la-vivienda-de-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T19:32:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PiWMIo3RzIzhy-kwOs36PuZVnx4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CRAGUNQDVJAOVLKO3OXBCCT5QY.JPG"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno: allanan casa de exministro Carlos Fernández Valdovinos",
+          "url": "https://www.abc.com.py/nacionales/2026/11/10/caso-ueno-allanan-casa-de-exministro-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T18:54:04.000Z",
+          "image": "https://www.abc.com.py/resizer/3SWTLE1Yp5uIO0_l92MxFhFlHaY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MTAUJS2SI5FKZPDAAFLHDXCA64.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Caso ueno bank: Allanan residencia del ex ministro Carlos Fernández Valdovinos",
+          "url": "https://www.ultimahora.com/caso-ueno-bank-allanan-residencia-del-ex-ministro-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T18:52:57.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía allana vivienda de Fernández Valdovinos por escándalo de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-fernandez-valdovinos-escandalo-ueno-bank-n115036",
+          "publishedAt": "2026-11-10T18:52:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69cbf3a98b44b.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan la vivienda del exministro Carlos Fernández Valdovinos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/allanan-la-vivienda-del-exministro-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T18:47:23.285Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MBMJCO2GQ5AM3N3BHSTKGTIH3I.jpg?auth=f3d8ef2bdfa51699db2beec63cd7e353b3b9c4ea67bc8e1f83086d65e90e36df&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Rompen documentos en ueno, allanan casa de Peña y BCP con nuevo titular",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-rompen-documentos-en-ueno-allanan-casa-de-pena-y-bcp-con-nuevo-titular",
+          "publishedAt": "2026-11-10T09:28:22.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía analizará documentos incautados en la vivienda de Carvallo",
+          "url": "https://5dias.com.py/article/fiscala-analizar-documentos-incautados-en-la-vivienda-de-carvallo",
+          "publishedAt": "2026-11-10T07:13:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-10_at_7.11.20_AM_20261110_071531.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía allana sede central de ueno bank en Asunción",
+          "url": "https://www.ultimahora.com/fiscalia-allana-sede-central-de-ueno-bank-en-asuncion",
+          "publishedAt": "2026-11-10T02:26:57.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sepa todo lo incautado en las viviendas de Santiago Peña y Carlos Carvallo",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/sepa-todo-lo-incautado-en-las-viviendas-de-santiago-pena-y-carlos-carvallo",
+          "publishedAt": "2026-11-10T01:58:35.000Z",
+          "image": "https://www.abc.com.py/resizer/uyVmBEFoi2a3TakaBTTu6OSqLZg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y467HPKI4VBBZCBWKL7PK7PRXQ.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía incauta documentos y dispositivos electrónicos de la casa del ex presidente del BCP",
+          "url": "https://www.ultimahora.com/fiscalia-incauta-documentos-y-dispositivos-electronicos-de-la-casa-del-ex-presidente-del-bcp",
+          "publishedAt": "2026-11-10T01:14:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Exasesor jurídico de Santiago Peña deja el Consejo de Itaipú Binacional",
+          "url": "https://www.abc.com.py/politica/2026/11/09/exasesor-juridico-de-santiago-pena-deja-el-consejo-de-itaipu-binacional",
+          "publishedAt": "2026-11-10T00:58:21.000Z",
+          "image": "https://www.abc.com.py/resizer/v3tQLFfJsPf3aj5AjHFl8qTOGUQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HNODS4I76ZF6RDZ4KE6MW7WDF4.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan casa de Carlos Carvallo e incautan documentos y equipos informáticos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/allanan-casa-de-carlos-carvallo-e-incautan-documentos-y-equipos-informaticos",
+          "publishedAt": "2026-11-10T00:32:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/KBJB7EVSCZCI3NK5BUVZXLEOCU.jfif?auth=4d2fb2b54767da6e18ce50c7d379159fb759383390101ef0f971c79498f4cf8e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: allanan la casa del expresidente y del extitular del BCP",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp",
+          "publishedAt": "2026-11-09T22:59:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Allanan las viviendas de Santiago Peña y Carlos Carvallo por el caso Ueno Bank",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/fiscalia-allana-la-vivienda-de-santiago-pena-en-asuncion",
+          "publishedAt": "2026-11-09T20:52:30.000Z",
+          "image": "https://www.abc.com.py/resizer/kTCgVDDOM-jYJA5TCd-6Pq8Kl2A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N4VCCAFS6VGUNNGJ55SQAIGZL4.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía allana vivienda de Peña en Asunción a tres días de su imputación",
+          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-pena-asuncion-tres-dias-su-imputacion-n114978",
+          "publishedAt": "2026-11-09T20:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af22bef25159.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CRAGUNQDVJAOVLKO3OXBCCT5QY.JPG?auth=321db64c89bb60ae1ca525c9fb1bed67384cc42d53c4e873c6738ee07ffe2180&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/allanan-la-vivienda-de-carlos-fernandez-valdovinos"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedSlot": "tarde",
+      "score": 26.99
+    },
+    {
+      "id": "ev-1g85alo",
+      "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
+      "summary": "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales. Los fondos mutuos, en cambio, no están cubiertos por la garantía bancaria y sus inversores deberán esperar el proceso de recuperación de activos y las disposiciones de la Superintendencia de Valores.",
+      "keyPoints": [
+        "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales.",
+        "Un grupo organizado de ahorristas e inversores afectados por la suspensión de los fondos mutuos de Ueno Casa de Bolsa emitió un comunicado dirigido a la Superintendencia de Valores del Banco Central del Paraguay (BCP), en…",
+        "El Banco Central del Paraguay informó que ya desembolsó G. 2,1 billones, equivalentes a unos USD 337 millones, a 1.738.804 beneficiarios del proceso de devolución de depósitos.",
+        "El sistema financiero desembolsó G. 2,126 billones a 1.738.804 ahorristas de Ueno Bank."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
+          "url": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016",
+          "publishedAt": "2026-11-10T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Inversionistas afectados por fondos mutuos de Ueno exigen plan para liberar sus fondos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/inversionistas-afectados-por-fondos-mutuos-de-ueno-exigen-plan-para-liberar-sus-fondos",
+          "publishedAt": "2026-11-10T18:44:52.397Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Según el BCP, el 93% de los afectados por Ueno recibieron su dinero, pero quedan 128.000 cuentas pendientes",
+          "url": "https://elnacional.com.py/economia/segun-bcp-93-afectados-ueno-recibieron-su-dinero-pero-quedan-128000-cuentas-pendientes-n115010",
+          "publishedAt": "2026-11-10T14:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ueno Bank: ya se pagó al 93% de los ahorristas con depósitos garantizados",
+          "url": "https://www.adndigital.com.py/ueno-bank-ya-se-pago-al-93-de-los-ahorristas-con-depositos-garantizados",
+          "publishedAt": "2026-11-10T13:51:15.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ahorristas de Ueno: BCP aclara dudas sobre devolución de fondos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/ahorristas-de-ueno-bcp-aclara-las-dudas-mas-frecuentes-sobre-la-devolucion-de-fondos",
+          "publishedAt": "2026-11-10T12:59:27.299Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/UC5QIHEFCFEAHG2LNFJAHLWKKY.jpeg?auth=e3c488ce0b7f800dab55ad02b1a18650e9e80faae77da5781099ac191ccd94ba&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Ueno Bank: el BCP debe completar pagos de garantía este miércoles",
+          "url": "https://5dias.com.py/article/ueno-bank-el-bcp-debe-completar-pagos-de-garanta-este-mircoles",
+          "publishedAt": "2026-11-10T11:23:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/bcp_20261007_134800.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un 93,1 % de los clientes de Ueno bank han recibido devoluciones de ahorros en Paraguay",
+          "url": "https://www.abc.com.py/internacionales/2026/11/09/un-931-de-los-clientes-de-ueno-bank-han-recibido-devoluciones-de-ahorros-en-paraguay",
+          "publishedAt": "2026-11-10T00:30:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pago del anticipo de garantía llegó al 93 % de los acreedores de Ueno Bank, según el BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/pago-del-anticipo-de-garantia-llego-al-93-de-los-acreedores-de-ueno-bank-segun-el-bcp",
+          "publishedAt": "2026-11-09T22:43:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pIEoLxGH3cpzm1_pH-Mn38hhfK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HROZQ55HZRFOTAEGM75SY2JCRE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP amplía el pago de garantías a ahorristas de Ueno Bank",
+          "url": "https://www.lanacion.com.py/foco/2026/11/09/bcp-amplia-el-pago-de-garantias-a-ahorristas-de-ueno-bank",
+          "publishedAt": "2026-11-09T16:21:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1i75HTWuMmrYvVvwJfhU9aJ8UWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5CAEUIK5FE6LB27DISIYWT23Y.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP amplía este lunes los grupos habilitados para cobrar la garantía de Ueno Bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/bcp-amplia-este-lunes-los-grupos-habilitados-para-cobrar-la-garantia-de-ueno-bank",
+          "publishedAt": "2026-11-09T16:02:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedSlot": "tarde",
+      "score": 23.95
     },
     {
       "id": "ev-1u129so",
@@ -299,224 +563,140 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 23.99
+      "score": 23.7
     },
     {
-      "id": "ev-1g85alo",
-      "title": "El BCP pagó al 93% de los ahorristas de Ueno Bank",
-      "summary": "El Banco Central del Paraguay informó que ya pagó al 93% de los depositantes de Ueno Bank con cobertura. Según el BCP, se desembolsaron G. 2,126 billones a 1.738.804 personas, unos USD 341 millones.\n\nQuedan unas 128.000 cuentas pendientes, principalmente por bloqueos, certificados de depósito de ahorro y operaciones vinculadas a la Agencia Financiera de Desarrollo. José Maciel, director del Fondo de Garantía, dijo que los pagos continuarán este martes y miércoles.\n\nMaciel explicó que se descuentan las cuotas vencidas de préstamos y el monto mínimo adeudado en tarjetas. La ley establece 15 días para verificar las cuentas, con posibilidad de prórroga por otros 15 días.",
+      "id": "ev-0o5i6nn",
+      "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
+      "summary": "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las diligencias realizadas en el inmueble.",
       "keyPoints": [
-        "Se pagó al 93% de los depositantes de Ueno Bank con cobertura.",
-        "Quedan unas 128.000 cuentas pendientes de verificación.",
-        "Los pagos continuarán el martes y miércoles, según el BCP.",
-        "La ley fija 15 días para verificar cuentas, con prórroga de 15 más."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Según el BCP, el 93% de los afectados por Ueno recibieron su dinero, pero quedan 128.000 cuentas pendientes",
-          "url": "https://elnacional.com.py/economia/segun-bcp-93-afectados-ueno-recibieron-su-dinero-pero-quedan-128000-cuentas-pendientes-n115010",
-          "publishedAt": "2026-11-10T14:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ueno Bank: ya se pagó al 93% de los ahorristas con depósitos garantizados",
-          "url": "https://www.adndigital.com.py/ueno-bank-ya-se-pago-al-93-de-los-ahorristas-con-depositos-garantizados",
-          "publishedAt": "2026-11-10T13:51:15.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ahorristas de Ueno: BCP aclara dudas sobre devolución de fondos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/ahorristas-de-ueno-bcp-aclara-las-dudas-mas-frecuentes-sobre-la-devolucion-de-fondos",
-          "publishedAt": "2026-11-10T12:59:27.299Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/UC5QIHEFCFEAHG2LNFJAHLWKKY.jpeg?auth=e3c488ce0b7f800dab55ad02b1a18650e9e80faae77da5781099ac191ccd94ba&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Ueno Bank: el BCP debe completar pagos de garantía este miércoles",
-          "url": "https://5dias.com.py/article/ueno-bank-el-bcp-debe-completar-pagos-de-garanta-este-mircoles",
-          "publishedAt": "2026-11-10T11:23:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/bcp_20261007_134800.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Un 93,1 % de los clientes de Ueno bank han recibido devoluciones de ahorros en Paraguay",
-          "url": "https://www.abc.com.py/internacionales/2026/11/09/un-931-de-los-clientes-de-ueno-bank-han-recibido-devoluciones-de-ahorros-en-paraguay",
-          "publishedAt": "2026-11-10T00:30:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pago del anticipo de garantía llegó al 93 % de los acreedores de Ueno Bank, según el BCP",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/pago-del-anticipo-de-garantia-llego-al-93-de-los-acreedores-de-ueno-bank-segun-el-bcp",
-          "publishedAt": "2026-11-09T22:43:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pIEoLxGH3cpzm1_pH-Mn38hhfK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HROZQ55HZRFOTAEGM75SY2JCRE.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP amplía el pago de garantías a ahorristas de Ueno Bank",
-          "url": "https://www.lanacion.com.py/foco/2026/11/09/bcp-amplia-el-pago-de-garantias-a-ahorristas-de-ueno-bank",
-          "publishedAt": "2026-11-09T16:21:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1i75HTWuMmrYvVvwJfhU9aJ8UWU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5CAEUIK5FE6LB27DISIYWT23Y.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP amplía este lunes los grupos habilitados para cobrar la garantía de Ueno Bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/bcp-amplia-este-lunes-los-grupos-habilitados-para-cobrar-la-garantia-de-ueno-bank",
-          "publishedAt": "2026-11-09T16:02:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1JAjxUPfjPVFgZcvFJx-lTVUVF0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HIFDNG6QHNEZHLIX35246YA5DQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/segun-bcp-93-afectados-ueno-recibieron-su-dinero-pero-quedan-128000-cuentas-pendientes-n115010"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T16:07:11.667Z",
-      "updatedSlot": "tarde",
-      "score": 23.88
-    },
-    {
-      "id": "ev-0e9u8th",
-      "title": "Fiscalía allana casas de Carlos Carvallo y de Santiago Peña en causa Ueno Bank",
-      "summary": "Fiscales allanaron la vivienda particular del expresidente del Banco Central del Paraguay, Carlos Carvallo, y la residencia del expresidente Santiago Peña. El procedimiento se hizo en el marco de una causa penal por lesión de confianza y otros delitos vinculados a Ueno Bank.\n\nLa comitiva, encabezada por los fiscales Christian Benítez Cáceres y Verónica Valdez Rivas, de la Unidad Especializada de Delitos Económicos y Anticorrupción, incautó documentos, equipos informáticos y dispositivos electrónicos. Según las notas, los elementos fueron inventariados y trasladados bajo cadena de custodia.\n\nEl material será analizado técnicamente para determinar su contenido y su relevancia en la causa. La investigación busca esclarecer la colocación de fondos públicos y previsionales, así como las decisiones de supervisión de la entidad bancaria.",
-      "keyPoints": [
-        "Fiscales allanaron las casas de Carlos Carvallo y Santiago Peña.",
-        "La causa investiga lesión de confianza y otros delitos.",
-        "Se incautaron documentos y equipos informáticos.",
-        "Los elementos serán sometidos a pericias técnicas."
+        "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las…",
+        "La Fiscalía confirmó que la bóveda de Santiago Peña ha sido abierta, pero aún no compartió imágenes ni información oficial acerca del contenido, una cuestión que tiene pendiente a todo Paraguay .",
+        "La comitiva fiscal y policial retomó el procedimiento en la vivienda de verano del expresidente, ubicada en San Bernardino.",
+        "La Fiscalía consiguió acceder este martes a la habitación blindada de la residencia de Santiago Peña, ubicada en San Bernardino, luego de superar el sistema de seguridad que había impedido completar el procedimiento durante el primer…"
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Lo que tenés que saber: Rompen documentos en ueno, allanan casa de Peña y BCP con nuevo titular",
-          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-rompen-documentos-en-ueno-allanan-casa-de-pena-y-bcp-con-nuevo-titular",
-          "publishedAt": "2026-11-10T09:28:22.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Fiscalía analizará documentos incautados en la vivienda de Carvallo",
-          "url": "https://5dias.com.py/article/fiscala-analizar-documentos-incautados-en-la-vivienda-de-carvallo",
-          "publishedAt": "2026-11-10T07:13:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-10_at_7.11.20_AM_20261110_071531.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fiscalía allana sede central de ueno bank en Asunción",
-          "url": "https://www.ultimahora.com/fiscalia-allana-sede-central-de-ueno-bank-en-asuncion",
-          "publishedAt": "2026-11-10T02:26:57.000Z",
-          "image": null
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Abren bóveda de mansión de Peña, pero no encuentran dinero ni objetos de valor",
+          "url": "https://www.adndigital.com.py/abren-boveda-de-mansion-de-pena-pero-no-encuentran-dinero-ni-objetos-de-valor",
+          "publishedAt": "2026-11-10T19:27:18.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-162640.jpeg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Sepa todo lo incautado en las viviendas de Santiago Peña y Carlos Carvallo",
-          "url": "https://www.abc.com.py/policiales/2026/11/09/sepa-todo-lo-incautado-en-las-viviendas-de-santiago-pena-y-carlos-carvallo",
-          "publishedAt": "2026-11-10T01:58:35.000Z",
-          "image": "https://www.abc.com.py/resizer/uyVmBEFoi2a3TakaBTTu6OSqLZg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y467HPKI4VBBZCBWKL7PK7PRXQ.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fiscalía incauta documentos y dispositivos electrónicos de la casa del ex presidente del BCP",
-          "url": "https://www.ultimahora.com/fiscalia-incauta-documentos-y-dispositivos-electronicos-de-la-casa-del-ex-presidente-del-bcp",
-          "publishedAt": "2026-11-10T01:14:17.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Exasesor jurídico de Santiago Peña deja el Consejo de Itaipú Binacional",
-          "url": "https://www.abc.com.py/politica/2026/11/09/exasesor-juridico-de-santiago-pena-deja-el-consejo-de-itaipu-binacional",
-          "publishedAt": "2026-11-10T00:58:21.000Z",
-          "image": "https://www.abc.com.py/resizer/v3tQLFfJsPf3aj5AjHFl8qTOGUQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HNODS4I76ZF6RDZ4KE6MW7WDF4.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan casa de Carlos Carvallo e incautan documentos y equipos informáticos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/09/allanan-casa-de-carlos-carvallo-e-incautan-documentos-y-equipos-informaticos",
-          "publishedAt": "2026-11-10T00:32:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/KBJB7EVSCZCI3NK5BUVZXLEOCU.jfif?auth=4d2fb2b54767da6e18ce50c7d379159fb759383390101ef0f971c79498f4cf8e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno Bank: allanan la casa del expresidente y del extitular del BCP",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp",
-          "publishedAt": "2026-11-09T22:59:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Allanan las viviendas de Santiago Peña y Carlos Carvallo por el caso Ueno Bank",
-          "url": "https://www.abc.com.py/policiales/2026/11/09/fiscalia-allana-la-vivienda-de-santiago-pena-en-asuncion",
-          "publishedAt": "2026-11-09T20:52:30.000Z",
-          "image": "https://www.abc.com.py/resizer/kTCgVDDOM-jYJA5TCd-6Pq8Kl2A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N4VCCAFS6VGUNNGJ55SQAIGZL4.jfif"
+          "title": "¿Obligar a Santiago Peña a abrir la bóveda?: esto dice la ley sobre el uso de datos biométricos",
+          "url": "https://www.abc.com.py/nacionales/2026/11/10/obligar-a-santiago-pena-a-abrir-la-boveda-esto-dice-la-ley-sobre-el-uso-de-datos-biometricos",
+          "publishedAt": "2026-11-10T18:51:37.000Z",
+          "image": "https://www.abc.com.py/resizer/GM-yePMjhZ_aBj_eNHfxIRCipkg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MMAWM67MDZGDFGTV3NICJ5XBEI.jpg"
         },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Fiscalía allana vivienda de Peña en Asunción a tres días de su imputación",
-          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-pena-asuncion-tres-dias-su-imputacion-n114978",
-          "publishedAt": "2026-11-09T20:22:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af22bef25159.jpeg"
+          "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
+          "url": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035",
+          "publishedAt": "2026-11-10T18:27:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: abrieron la bóveda de la mansión de Santiago Peña y esto fue lo encontrado",
+          "url": "https://www.abc.com.py/nacionales/2026/11/10/caso-ueno-abrieron-la-boveda-de-la-mansion-de-santiago-pena",
+          "publishedAt": "2026-11-10T18:17:31.000Z",
+          "image": "https://www.abc.com.py/resizer/Bt1LjWzfS6iigOxsqlvAvdUYlAE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XNQJUGX7ORGJ5OIZJZTZ3YOOWQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Sin explosivos ni demolición: Fiscalía busca abrir la bóveda secreta de la mansión de Peña",
+          "url": "https://elnacional.com.py/politica/sin-explosivos-ni-demolicion-fiscalia-busca-abrir-boveda-secreta-mansion-pena-n115019",
+          "publishedAt": "2026-11-10T15:07:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af33109183c7.webp"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía vuelve este martes a la residencia de Peña para intentar abrir la bóveda",
+          "url": "https://www.adndigital.com.py/fiscalia-vuelve-este-martes-a-la-residencia-de-pena-para-intentar-abrir-la-boveda",
+          "publishedAt": "2026-11-10T11:45:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno: Fiscalía sigue este martes intentando abrir la bóveda de Santiago Peña",
+          "url": "https://www.abc.com.py/policiales/2026/11/10/ueno-fiscalia-sigue-este-martes-intentando-abrir-la-boveda-de-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-10T10:38:33.000Z",
+          "image": "https://www.abc.com.py/resizer/hfMg2O02YrFJz_Lvg4z5o5v5r3I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VN2TX2SB4BHORBLVJXANWGJFRE.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "La mansión y la bóveda de Santiago Peña en San Bernardino",
+          "url": "https://www.telefuturo.com.py/la-mansion-y-la-boveda-de-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-09T17:55:06.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "¿Qué hay dentro de la bóveda en Samber?",
+          "url": "https://www.telefuturo.com.py/que-hay-dentro-de-la-boveda-en-samber",
+          "publishedAt": "2026-11-09T14:30:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fiscalía encuentra una bóveda blindada con acceso biométrico en residencia vinculada a Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/fiscalia-encuentra-una-boveda-blindada-con-acceso-biometrico-en-residencia-vinculada-a-santiago-pena",
+          "publishedAt": "2026-11-09T10:41:47.000Z",
+          "image": null
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg?auth=e1d3dd9ef2249a3643af88f7d9d1a92df306b3d883d52136751d6d9c4427fa09&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp"
+        "url": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T12:07:11.423Z",
-      "updatedSlot": "manana",
-      "score": 23.45
+      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedSlot": "tarde",
+      "score": 20.99
     },
     {
       "id": "ev-0jb6n9y",
-      "title": "Félix Sosa pide definir el Anexo C de Itaipú antes de fin de año",
-      "summary": "El presidente de la ANDE, Félix Sosa, dijo que es urgente avanzar con la renegociación del Anexo C de Itaipú con Brasil. Según explicó, el contrato de potencia entre la ANDE e Itaipú vence el 31 de diciembre de este año, y la tarifa vigente, de 19,28, también vence en este año.\n\nSosa dijo que la revisión del Anexo C es una de las prioridades del Gobierno nacional, según habló con el presidente Pedro Alliana. También mencionó el acuerdo técnico firmado en mayo de 2024, que vence a finales de este año.\n\nEntre las prioridades de la ANDE, Sosa citó la generación de energía renovable, el fortalecimiento institucional y el mantenimiento de la tarifa.",
+      "title": "Más de dos millones de personas asisten a misa del papa León XIV",
+      "summary": "El encuentro tuvo lugar en Buenos Aires y fue uno de los eventos públicos previstos dentro de la agenda del papa, que culmina mañana. Más de dos millones y medio de personas asistieron ayer lunes en Buenos Aires a la misa más multitudinaria del pontificado de León XIV, en una jornada en la que el papa también se reunió con víctimas de abusos por parte del clero.",
       "keyPoints": [
-        "El contrato de potencia entre ANDE e Itaipú vence el 31 de diciembre.",
-        "La tarifa vigente de 19,28 también vence este año.",
-        "La renegociación del Anexo C es prioridad del Gobierno.",
-        "Sosa mencionó la necesidad de una nueva fuente de generación."
+        "El encuentro tuvo lugar en Buenos Aires y fue uno de los eventos públicos previstos dentro de la agenda del papa, que culmina mañana.",
+        "Más de dos millones y medio de personas asistieron ayer lunes en Buenos Aires a la misa más multitudinaria del pontificado de León XIV, en una jornada en la que el papa también se reunió con…",
+        "El papa de 71 años afronta una gira de 12 días por Uruguay, Argentina y Perú menos de un mes después de ser sometido a una cirugía por cáncer de pulmón.",
+        "El lunes, unos 2,5 millones de personas se congregaron en el barrio de Palermo de la capital argentina, en la misa más multitudinaria de su pontificado hasta ahora."
       ],
-      "category": "economia",
+      "category": "internacional",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
+      "summaryKind": "extractivo",
+      "model": null,
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"¡Vayan y sean santos!\", dice el papa en segunda misa multitudinaria en Argentina",
+          "url": "https://elnacional.com.py/mundo/vayan-sean-santos-dice-papa-segunda-misa-multitudinaria-argentina-n115022",
+          "publishedAt": "2026-11-10T17:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af339e74f86e.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -526,12 +706,36 @@
           "image": "https://www.lanacion.com.py/resizer/Nzu976sSYBWw_evQ9Dv_ma0JEFM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/C7BAX7G3GZCRJFBKE5JWUCMNPY.jpg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El papa León XIV se prepara para congregar a miles de fieles en Córdoba",
+          "url": "https://elnacional.com.py/mundo/el-papa-leon-xiv-prepara-congregar-miles-fieles-cordoba-n115008",
+          "publishedAt": "2026-11-10T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af31d72de993.jpg"
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Anexo C: urge definición para dar previsibilidad al país, dice Sosa",
           "url": "https://www.lanacion.com.py/politica/2026/11/10/anexo-c-urge-definicion-para-dar-previsibilidad-al-pais-dice-sosa",
           "publishedAt": "2026-11-10T11:30:36.000Z",
           "image": "https://www.lanacion.com.py/resizer/fUpbc0KMdr-C16rpKCmnR-RLkL0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CDC5I7CZC5D3DFPQKX22DOVMYU.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV defendió la vigencia de la fe cristiana en multitudinaria misa en Argentina",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/10/leon-xiv-defendio-la-vigencia-de-la-fe-cristiana-en-multitudinaria-misa-en-argentina",
+          "publishedAt": "2026-11-10T10:50:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Cs_FnVKrpA8NmLjzPP_CiBql8Zg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YD572Z3EVJGGNH3KJAMXDKTPTM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Más de dos millones de personas asisten a misa del papa León XIV",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv",
+          "publishedAt": "2026-11-10T03:09:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/umsumhrr74wQO6-6DvK8fbFAl9U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -550,12 +754,28 @@
           "image": null
         },
         {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trata de personas: 62 chinos rescatados de un hotel de CDE declararon ante juez",
+          "url": "https://www.lanacion.com.py/pais/2026/11/09/trata-de-personas-62-chinos-rescatados-de-un-hotel-de-cde-declararon-ante-juez",
+          "publishedAt": "2026-11-10T00:51:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Khs_45KUwWAOsLeDy1e9xmc9O4o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/E2T3OKJFWJC7RDWIVEUXIWVMNQ.jpg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Video: incautan dos lujosos autos del Grupo Vázquez que estaban siendo modificados",
           "url": "https://www.abc.com.py/policiales/2026/11/09/caso-ueno-bank-fiscalia-incauta-dos-lujosos-autos-del-grupo-vazquez-en-caaguazu",
           "publishedAt": "2026-11-10T00:01:32.000Z",
           "image": "https://www.abc.com.py/resizer/IaosSrVGUZmI5Br0ixsRPyuti-U=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TJDNFH7SBJEZBGXU6EPNQ5ZZGQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ñemyatyrõ vuelve a Alto Paraná con cirugías gratuitas para 67 pacientes",
+          "url": "https://www.lanacion.com.py/pais/2026/11/09/nemyatyro-vuelve-a-alto-parana-con-cirugias-gratuitas-para-67-pacientes",
+          "publishedAt": "2026-11-09T23:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tQqDvXcS83aMK8TSExXbN_5Bl5c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KHP6OTKGBZHI7GH6SB6KFN35QM.jpg"
         },
         {
           "sourceId": "hoy",
@@ -615,91 +835,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CDC5I7CZC5D3DFPQKX22DOVMYU.jpeg?auth=3d294352c8acb1d86dfe7ed2c169d6fc35bdf800fa4dd3343b10f84deda20369&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg?auth=9a703114453a1016a3e2feda263af4725b201d293f5367d4b411abab256cbc18&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/anexo-c-urge-definicion-para-dar-previsibilidad-al-pais-dice-sosa"
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T16:07:11.667Z",
+      "updatedAt": "2026-11-10T19:37:13.296Z",
       "updatedSlot": "tarde",
-      "score": 20.95
-    },
-    {
-      "id": "ev-0o5i6nn",
-      "title": "Fiscalía busca abrir una bóveda en la mansión de Peña en San Bernardino",
-      "summary": "La comitiva fiscal y policial retomó el procedimiento en la vivienda de verano del expresidente Santiago Peña, en San Bernardino. Los investigadores buscan acceder a una cámara de seguridad oculta.\n\nSegún El Nacional, la cámara está detrás de una segunda puerta blindada que tiene tres mecanismos de identificación. Abrirla representa un desafío técnico.\n\nTelefuturo informó que la bóveda está debajo de la piscina y protegida por un sofisticado sistema de seguridad de origen israelí.",
-      "keyPoints": [
-        "La comitiva fiscal y policial retomó el procedimiento en San Bernardino.",
-        "La bóveda está detrás de una segunda puerta blindada.",
-        "La puerta tiene tres mecanismos de identificación.",
-        "Telefuturo dice que está debajo de la piscina."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Sin explosivos ni demolición: Fiscalía busca abrir la bóveda secreta de la mansión de Peña",
-          "url": "https://elnacional.com.py/politica/sin-explosivos-ni-demolicion-fiscalia-busca-abrir-boveda-secreta-mansion-pena-n115019",
-          "publishedAt": "2026-11-10T15:07:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af33109183c7.webp"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Fiscalía vuelve este martes a la residencia de Peña para intentar abrir la bóveda",
-          "url": "https://www.adndigital.com.py/fiscalia-vuelve-este-martes-a-la-residencia-de-pena-para-intentar-abrir-la-boveda",
-          "publishedAt": "2026-11-10T11:45:27.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ueno: Fiscalía sigue este martes intentando abrir la bóveda de Santiago Peña",
-          "url": "https://www.abc.com.py/policiales/2026/11/10/ueno-fiscalia-sigue-este-martes-intentando-abrir-la-boveda-de-santiago-pena-en-san-bernardino",
-          "publishedAt": "2026-11-10T10:38:33.000Z",
-          "image": "https://www.abc.com.py/resizer/hfMg2O02YrFJz_Lvg4z5o5v5r3I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VN2TX2SB4BHORBLVJXANWGJFRE.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "La mansión y la bóveda de Santiago Peña en San Bernardino",
-          "url": "https://www.telefuturo.com.py/la-mansion-y-la-boveda-de-santiago-pena-en-san-bernardino",
-          "publishedAt": "2026-11-09T17:55:06.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "¿Qué hay dentro de la bóveda en Samber?",
-          "url": "https://www.telefuturo.com.py/que-hay-dentro-de-la-boveda-en-samber",
-          "publishedAt": "2026-11-09T14:30:36.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fiscalía encuentra una bóveda blindada con acceso biométrico en residencia vinculada a Santiago Peña",
-          "url": "https://www.npy.com.py/noticias/nacionales/fiscalia-encuentra-una-boveda-blindada-con-acceso-biometrico-en-residencia-vinculada-a-santiago-pena",
-          "publishedAt": "2026-11-09T10:41:47.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af33109183c7.webp",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/sin-explosivos-ni-demolicion-fiscalia-busca-abrir-boveda-secreta-mansion-pena-n115019"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T16:07:11.667Z",
-      "updatedSlot": "tarde",
-      "score": 20.92
+      "score": 20.81
     },
     {
       "id": "ev-1tvkt35",
@@ -783,7 +927,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 20.86
+      "score": 20.57
     },
     {
       "id": "ev-1fs5rw9",
@@ -907,7 +1051,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 18.33
+      "score": 18.04
+    },
+    {
+      "id": "ev-01syvyg",
+      "title": "\"Cartes boys\": hijo de Tadeo Rojas es nuevo procurador general",
+      "summary": "El presidente de la República, Pedro Alliana, designó a Samuel Tadeo Rojas Caballero, hijo del ministro de Desarrollo Social, Miguel Tadeo Rojas, como nuevo procurador general de la República. El nombramiento fue oficializado mediante el Decreto N.º 7211, firmado el lunes 9 de noviembre, en medio de los cambios impulsados en el Ejecutivo tras la destitución de Santiago Peña.",
+      "keyPoints": [
+        "El presidente de la República, Pedro Alliana, designó a Samuel Tadeo Rojas Caballero, hijo del ministro de Desarrollo Social, Miguel Tadeo Rojas, como nuevo procurador general de la República.",
+        "Por decreto número 7211, el presidente de la República, Pedro Alliana designó a Samuel Tadeo Rojas Caballero como Procurador General de la República, en reemplazo del interino Rubén Edilio Gaona."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Cartes boys\": hijo de Tadeo Rojas es nuevo procurador general",
+          "url": "https://elnacional.com.py/politica/cartes-boys-hijo-tadeo-rojas-nuevo-procurador-general-n114996",
+          "publishedAt": "2026-11-10T11:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af2dd3a5ec88.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana designa a Samuel Rojas Caballero como nuevo procurador general",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/alliana-designa-a-samuel-rojas-caballero-como-nuevo-procurador-general",
+          "publishedAt": "2026-11-09T22:49:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/FLJCLWCT6NEZJASQI4NPQWO3AA.jfif?auth=ed8dd75caecae47429b288ec49295b5692e5378c8d83fcb41bf28301d96cee35&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tadeo Rojas Caballero es el nuevo procurador general de la República",
+          "url": "https://www.lanacion.com.py/politica/2026/11/09/tadeo-rojas-caballero-es-el-nuevo-procurador-general-de-la-republica",
+          "publishedAt": "2026-11-09T22:20:03.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-jOrvsbn7vpS5xP3kE2QOrYUyyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2PDLV2QXYBAZVKQDU3UA2SWEMI.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hijo de Tadeo Rojas es el nuevo procurador General de la República",
+          "url": "https://www.abc.com.py/politica/2026/11/09/hijo-de-tadeo-rojas-es-el-nuevo-procurador-general-de-la-republica",
+          "publishedAt": "2026-11-09T22:09:19.000Z",
+          "image": "https://www.abc.com.py/resizer/peECatbw9jFvuZ5v0N_s0gZE9lg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/73GYXMXYCVEFNNWY2KYZWCOV44.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af2dd3a5ec88.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/cartes-boys-hijo-tadeo-rojas-nuevo-procurador-general-n114996"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedSlot": "tarde",
+      "score": 17.28
     },
     {
       "id": "ev-09ymey2",
@@ -990,7 +1192,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 17.01
+      "score": 16.72
     },
     {
       "id": "ev-01r537q",
@@ -1050,7 +1252,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 14.8
+      "score": 14.51
     },
     {
       "id": "ev-1teuhfc",
@@ -1110,7 +1312,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 14.6
+      "score": 14.31
     },
     {
       "id": "ev-1lj5yaq",
@@ -1177,7 +1379,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 14.52
+      "score": 14.23
     },
     {
       "id": "ev-1ii6g3a",
@@ -1228,59 +1430,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 13.89
-    },
-    {
-      "id": "ev-01syvyg",
-      "title": "Samuel Tadeo Rojas Caballero asume como nuevo procurador general de la República",
-      "summary": "El presidente Pedro Alliana designó a Samuel Tadeo Rojas Caballero como procurador general de la República, mediante el Decreto N° 7211. Reemplaza en el cargo al interino Rubén Elidio Gaona.\n\nLa función principal del procurador es representar y defender judicialmente los intereses patrimoniales del Estado, según la Constitución. Alliana le pidió defender los intereses del Estado con transparencia y cumplimiento de la ley.\n\nRojas Caballero era director de Decretos del Gabinete Civil. Es abogado de la Universidad Católica y es hijo del ministro de Desarrollo Social, Miguel Tadeo Rojas. Según ABC Color, el cargo lo interinaba Gaona con respaldo del expresidente Santiago Peña.",
-      "keyPoints": [
-        "El decreto N° 7211 oficializa la designación.",
-        "Rojas Caballero reemplaza a Rubén Elidio Gaona en forma interina.",
-        "Era director de Decretos del Gabinete Civil.",
-        "Es hijo del ministro de Desarrollo Social."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alliana designa a Samuel Rojas Caballero como nuevo procurador general",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/09/alliana-designa-a-samuel-rojas-caballero-como-nuevo-procurador-general",
-          "publishedAt": "2026-11-09T22:49:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/FLJCLWCT6NEZJASQI4NPQWO3AA.jfif?auth=ed8dd75caecae47429b288ec49295b5692e5378c8d83fcb41bf28301d96cee35&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tadeo Rojas Caballero es el nuevo procurador general de la República",
-          "url": "https://www.lanacion.com.py/politica/2026/11/09/tadeo-rojas-caballero-es-el-nuevo-procurador-general-de-la-republica",
-          "publishedAt": "2026-11-09T22:20:03.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-jOrvsbn7vpS5xP3kE2QOrYUyyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2PDLV2QXYBAZVKQDU3UA2SWEMI.png"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Hijo de Tadeo Rojas es el nuevo procurador General de la República",
-          "url": "https://www.abc.com.py/politica/2026/11/09/hijo-de-tadeo-rojas-es-el-nuevo-procurador-general-de-la-republica",
-          "publishedAt": "2026-11-09T22:09:19.000Z",
-          "image": "https://www.abc.com.py/resizer/peECatbw9jFvuZ5v0N_s0gZE9lg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/73GYXMXYCVEFNNWY2KYZWCOV44.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/FLJCLWCT6NEZJASQI4NPQWO3AA.jfif?auth=ed8dd75caecae47429b288ec49295b5692e5378c8d83fcb41bf28301d96cee35&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/09/alliana-designa-a-samuel-rojas-caballero-como-nuevo-procurador-general"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 12.56
+      "score": 13.6
     },
     {
       "id": "ev-0l0j48q",
@@ -1339,7 +1489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 11.49
+      "score": 11.2
     },
     {
       "id": "ev-03ledbh",
@@ -1390,7 +1540,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T16:07:11.667Z",
       "updatedSlot": "tarde",
-      "score": 10.9
+      "score": 10.61
     },
     {
       "id": "ev-03hzu7x",
@@ -1442,7 +1592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1yee52d",
@@ -1494,7 +1644,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1w053tx",
@@ -1537,7 +1687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.69
+      "score": 8.39
     },
     {
       "id": "ev-1ada2z5",
@@ -1580,7 +1730,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.6
+      "score": 8.3
+    },
+    {
+      "id": "ev-0zz8kat",
+      "title": "Petróleo baja ante señales en Oriente Medio",
+      "summary": "Nuevas iniciativas diplomáticas convergen hacia generar un acuerdo, según los analistas. Ayer el barril de Brent llegó a cotizar a USD 92,90, con una baja del 5,5 %, según las agencias. El precio del barril de crudo Brent del mar del Norte, referencia internacional, bajó este martes por debajo de los 90 dólares por primera vez desde agosto, ante la esperanza de un acuerdo para poner fin a la guerra de Medio Oriente.",
+      "keyPoints": [
+        "Nuevas iniciativas diplomáticas convergen hacia generar un acuerdo, según los analistas.",
+        "Ayer el barril de Brent llegó a cotizar a USD 92,90, con una baja del 5,5 %, según las agencias.",
+        "El precio del barril de crudo Brent del mar del Norte, referencia internacional, bajó este martes por debajo de los 90 dólares por primera vez desde agosto, ante la esperanza de un acuerdo para poner fin…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El barril de Brent baja de USD 90 por primera vez desde agosto",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/10/el-barril-de-brent-baja-de-usd-90-por-primera-vez-desde-agosto",
+          "publishedAt": "2026-11-10T11:05:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Xcu6bIQXQelAZ8wi3W02s6rKfBE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q3TT4DAN3BHZ7O2HCCUS4EJ5M4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Petróleo baja ante señales en Oriente Medio",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/petroleo-baja-ante-senales-en-oriente-medio",
+          "publishedAt": "2026-11-10T03:02:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/mH2YA05NE6wXRQd4SduKg5Bu-Hk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7A6BMWY3VNAGVE4HTSE7KA5N24.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caída del petróleo abre expectativa de baja en costos",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caida-del-petroleo-abre-expectativa-de-baja-en-costos",
+          "publishedAt": "2026-11-10T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/frpCwNsiq_cHejZ_VcHRaYbuoGk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OLGBSEJANRAA5JOP6RNU3KCVOU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caída global del petróleo abre la expectativa de una baja en los costos de importación",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/caida-global-del-petroleo-abre-la-expectativa-de-una-baja-en-los-costos-de-importacion",
+          "publishedAt": "2026-11-09T19:25:23.000Z",
+          "image": "https://www.lanacion.com.py/resizer/N198DS5tppd5zUC5kDLf0OlPO6g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OHZ4DUDEGZFCXMIZEV5GDZFFRM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7A6BMWY3VNAGVE4HTSE7KA5N24.jpg?auth=63c21e264b5b70ae00bb728887d19408ef0dc0f874c3c749a3f694961c7a04d9&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/petroleo-baja-ante-senales-en-oriente-medio"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T19:37:13.296Z",
+      "updatedSlot": "tarde",
+      "score": 8.29
     },
     {
       "id": "ev-0quohse",
@@ -1623,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.21
     },
     {
       "id": "ev-1a94ua3",
@@ -1667,7 +1876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-17wp36p",
@@ -1769,7 +1978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.44
+      "score": 6.15
     },
     {
       "id": "ev-140o1kp",
@@ -1813,7 +2022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.02
+      "score": 5.73
     },
     {
       "id": "ev-1ii2935",
@@ -1856,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0ofsz8g",
@@ -1899,50 +2108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.91
-    },
-    {
-      "id": "ev-0zz8kat",
-      "title": "Caída del petróleo abre expectativa de baja en costos de combustibles",
-      "summary": "El precio internacional del petróleo volvió a caer y reabre la expectativa de costos más bajos de combustibles en Paraguay. El lunes 9 de noviembre, el barril de Brent llegó a cotizar a USD 92,90, con una baja del 5,5 %. El West Texas Intermediate retrocedió 4,9 %, hasta USD 86,34. Los valores corresponden al corte de las 11:30 de Argentina.\n\nLas notas explican que para un país importador como Paraguay, una baja de la materia prima puede aliviar los costos de adquisición. Sin embargo, el traslado al mercado interno no es automático, porque también influyen los precios de los refinados, el transporte, los inventarios y el tipo de cambio.\n\nEl efecto local dependerá de cuánto dure la tendencia.",
-      "keyPoints": [
-        "El Brent llegó a USD 92,90, con una baja de 5,5 % el lunes 9 de noviembre.",
-        "El WTI retrocedió 4,9 %, hasta USD 86,34.",
-        "El traslado de la baja al precio local no es automático."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caída del petróleo abre expectativa de baja en costos",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caida-del-petroleo-abre-expectativa-de-baja-en-costos",
-          "publishedAt": "2026-11-10T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/frpCwNsiq_cHejZ_VcHRaYbuoGk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OLGBSEJANRAA5JOP6RNU3KCVOU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caída global del petróleo abre la expectativa de una baja en los costos de importación",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/caida-global-del-petroleo-abre-la-expectativa-de-una-baja-en-los-costos-de-importacion",
-          "publishedAt": "2026-11-09T19:25:23.000Z",
-          "image": "https://www.lanacion.com.py/resizer/N198DS5tppd5zUC5kDLf0OlPO6g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OHZ4DUDEGZFCXMIZEV5GDZFFRM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OLGBSEJANRAA5JOP6RNU3KCVOU.jpg?auth=49ab852170cce0851657de0ed419b29667fdefcf5575e5a3e856ed51e452012f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caida-del-petroleo-abre-expectativa-de-baja-en-costos"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0mu6c5d",
@@ -1986,7 +2152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-11mhims",
@@ -2021,7 +2187,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 4.73
     },
     {
       "id": "ev-0750a95",
@@ -2054,7 +2220,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0di8g4n",
@@ -2087,7 +2253,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-09vdnn8",
@@ -2120,7 +2286,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-187vux9",
@@ -2153,7 +2319,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0bazx6t",
@@ -2189,7 +2355,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-00b5pcl",
@@ -2220,7 +2386,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-12h8ll5",
@@ -2256,7 +2422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-164zm4u",
@@ -2291,7 +2457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0uv7lbo",
@@ -2324,7 +2490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1r49hmg",
@@ -2357,7 +2523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1u4t15z",
@@ -2390,7 +2556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0w9xbwl",
@@ -2426,7 +2592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.98
+      "score": 4.69
     },
     {
       "id": "ev-146fzwm",
@@ -2461,7 +2627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.05
     },
     {
       "id": "ev-1r3atmh",
@@ -2563,7 +2729,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.32
+      "score": 2.03
     },
     {
       "id": "ev-0zcbemk",
@@ -2595,7 +2761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.27
+      "score": 1.98
     },
     {
       "id": "ev-17ac670",
@@ -2627,7 +2793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.13
+      "score": 1.84
     },
     {
       "id": "ev-05zvvar",
@@ -2659,7 +2825,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.12
+      "score": 1.82
     },
     {
       "id": "ev-0dx9es0",
@@ -2695,7 +2861,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 1.9
+      "score": 1.61
     }
   ],
   "runs": [
@@ -2726,6 +2892,13 @@
       "added": 0,
       "updated": 11,
       "candidates": 21
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-10T19:37:13.296Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 11
     }
   ]
 }
