@@ -1,27 +1,51 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-10T08:07:11.174Z",
+  "generatedAt": "2026-11-10T12:07:11.423Z",
   "aiMode": "ia",
   "model": "claude-haiku-5-5",
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1slmlec",
-      "title": "Detienen a jefa de operaciones de Ueno Casa de Bolsa por destruir documentos",
-      "summary": "La Fiscalía detuvo a Andrea Benítez, jefa de operaciones de Ueno Casa de Bolsa, durante un allanamiento en la firma el lunes 9 de noviembre. Según los datos preliminares, la funcionaria habría estado destruyendo documentos relacionados con inversiones bursátiles del expresidente Santiago Peña cuando llegó la comitiva fiscal. La agente fiscal Ruth Benítez dispuso la detención en el marco del caso Ueno Bank, por presunta vinculación con el hecho punible de frustración de la ejecución penal.\n\nSegún Última Hora, una cámara de circuito cerrado registró el momento en que la jefa supuestamente rompía documentos. Los fiscales recogieron fragmentos del basurero, y entre ellos, según ADN Digital, figuraba el nombre de Santiago Peña. Los fiscales Silvio Corbeta, Yeimy Adle y Jorge Arce analizan las circunstancias y las eventuales responsabilidades.\n\nLa mujer podría ser imputada en las próximas horas y se solicitaría su prisión preventiva. En la audiencia de medidas cautelares, un juez definirá si queda en la cárcel de mujeres de Emboscada o en libertad ambulatoria mientras dure el proceso.",
+      "title": "Fiscalía detiene a jefa de Operaciones de Ueno Casa de Bolsa por presunta destrucción de documentos",
+      "summary": "La Fiscalía detuvo a Andrea Benítez, jefa de Operaciones de Ueno Casa de Bolsa, durante un allanamiento en la sede de la entidad. Según los datos preliminares, la funcionaria habría estado destruyendo documentos relacionados con inversiones bursátiles del expresidente Santiago Peña. La detención fue ordenada por la fiscala Ruth Benítez, en el marco del caso Ueno Bank.\n\nLa investigación busca determinar si hubo frustración de la ejecución penal. Los fiscales Ruth Benítez y Silvio Corbeta dirigieron el procedimiento, que contó con apoyo de la Policía Nacional. Los agentes buscaban documentos físicos y digitales, registros contables y respaldos informáticos. Según ADN Digital, una comitiva encontró fragmentos de documentos con el nombre de Peña en un basurero del lugar.\n\nLa mujer podría ser imputada en las próximas horas, y la Fiscalía pediría prisión preventiva. Un juez definirá luego si queda privada de libertad o si se le concede libertad ambulatoria mientras dure el proceso.",
       "keyPoints": [
-        "Andrea Benítez, jefa de operaciones de Ueno Casa de Bolsa, fue detenida durante un allanamiento.",
-        "La Fiscalía la vincula presuntamente con la destrucción de documentos.",
-        "Los documentos rotos tenían fecha del día y, según los fiscales, incluían el nombre de Santiago Peña.",
-        "Podría ser imputada y se pediría prisión preventiva."
+        "Andrea Benítez fue detenida durante un allanamiento en Ueno Casa de Bolsa.",
+        "La detención fue ordenada por la fiscala Ruth Benítez.",
+        "Según datos preliminares, la funcionaria habría destruido documentos vinculados a Santiago Peña.",
+        "Podría ser imputada en las próximas horas y se pediría prisión preventiva."
       ],
-      "category": "politica",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Jefa de operaciones de la Casa de Bolsa de ueno fue detenida",
+          "url": "https://www.adndigital.com.py/jefa-de-operaciones-de-la-casa-de-bolsa-de-ueno-fue-detenida",
+          "publishedAt": "2026-11-10T11:41:29.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno-casa-de-bolsa.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Captan a exjefa de Operaciones de Ueno Casa de Bolsa destruyendo documentos",
+          "url": "https://www.npy.com.py/noticias/nacionales/captan-a-exjefa-de-operaciones-de-ueno-casa-de-bolsa-destruyendo-documentos",
+          "publishedAt": "2026-11-10T10:54:29.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Jefa de Operaciones de Ueno Casa de Bolsa debe declarar hoy ante la Fiscalía",
+          "url": "https://5dias.com.py/article/jefa-de-operaciones-de-ueno-casa-de-bolsa-debe-declarar-hoy-ante-la-fiscala",
+          "publishedAt": "2026-11-10T06:29:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/andrea_benitez_20261110_063232.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -71,12 +95,28 @@
           "image": "https://statics.elnacional.com.py/2026/11/6af24e8303af7.jpeg"
         },
         {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno: Joshua Abreu pide permiso al “Consejo de Ancianos” de su iglesia",
+          "url": "https://www.abc.com.py/politica/2026/11/09/caso-ueno-abreu-pide-permiso-al-consejo-de-ancianos-de-su-iglesia",
+          "publishedAt": "2026-11-09T22:06:25.000Z",
+          "image": "https://www.abc.com.py/resizer/yyDNKw1vYtkTrEcMM6WSnKsYY0c=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZNTH5BOKNVBY7HGSKF65JPKQ5U.jpeg"
+        },
+        {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
           "title": "Ueno Casa de Bolsa: Fiscalía encuentra documentos destruidos con nombre de Peña",
           "url": "https://www.adndigital.com.py/ueno-casa-de-bolsa-fiscalia-encuentra-documentos-destruidos-con-nombre-de-pena",
           "publishedAt": "2026-11-09T21:35:54.000Z",
           "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía allana ueno Casa de Bolsa y detecta presunta destrucción de pruebas",
+          "url": "https://elnacional.com.py/economia/fiscalia-allana-ueno-casa-bolsa-detecta-presunta-destruccion-pruebas-n114981",
+          "publishedAt": "2026-11-09T20:56:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af23213b568b.jfif"
         },
         {
           "sourceId": "lanacion",
@@ -88,15 +128,199 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/37IOHJ7O7NG33BCG3DU5VZZ4VQ.jpg?auth=9230a33f77f54797fa3989d9cdb5c7974935306bf376f161e7c58b515ce37e6a&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/10/detienen-a-jefa-de-operaciones-de-ueno-casa-de-bolsa"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno-casa-de-bolsa.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/jefa-de-operaciones-de-la-casa-de-bolsa-de-ueno-fue-detenida"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 23.58
+      "score": 29.96
+    },
+    {
+      "id": "ev-0e9u8th",
+      "title": "Fiscalía allana casas de Carlos Carvallo y de Santiago Peña en causa Ueno Bank",
+      "summary": "Fiscales allanaron la vivienda particular del expresidente del Banco Central del Paraguay, Carlos Carvallo, y la residencia del expresidente Santiago Peña. El procedimiento se hizo en el marco de una causa penal por lesión de confianza y otros delitos vinculados a Ueno Bank.\n\nLa comitiva, encabezada por los fiscales Christian Benítez Cáceres y Verónica Valdez Rivas, de la Unidad Especializada de Delitos Económicos y Anticorrupción, incautó documentos, equipos informáticos y dispositivos electrónicos. Según las notas, los elementos fueron inventariados y trasladados bajo cadena de custodia.\n\nEl material será analizado técnicamente para determinar su contenido y su relevancia en la causa. La investigación busca esclarecer la colocación de fondos públicos y previsionales, así como las decisiones de supervisión de la entidad bancaria.",
+      "keyPoints": [
+        "Fiscales allanaron las casas de Carlos Carvallo y Santiago Peña.",
+        "La causa investiga lesión de confianza y otros delitos.",
+        "Se incautaron documentos y equipos informáticos.",
+        "Los elementos serán sometidos a pericias técnicas."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Rompen documentos en ueno, allanan casa de Peña y BCP con nuevo titular",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-rompen-documentos-en-ueno-allanan-casa-de-pena-y-bcp-con-nuevo-titular",
+          "publishedAt": "2026-11-10T09:28:22.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Fiscalía analizará documentos incautados en la vivienda de Carvallo",
+          "url": "https://5dias.com.py/article/fiscala-analizar-documentos-incautados-en-la-vivienda-de-carvallo",
+          "publishedAt": "2026-11-10T07:13:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-10_at_7.11.20_AM_20261110_071531.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía allana sede central de ueno bank en Asunción",
+          "url": "https://www.ultimahora.com/fiscalia-allana-sede-central-de-ueno-bank-en-asuncion",
+          "publishedAt": "2026-11-10T02:26:57.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sepa todo lo incautado en las viviendas de Santiago Peña y Carlos Carvallo",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/sepa-todo-lo-incautado-en-las-viviendas-de-santiago-pena-y-carlos-carvallo",
+          "publishedAt": "2026-11-10T01:58:35.000Z",
+          "image": "https://www.abc.com.py/resizer/uyVmBEFoi2a3TakaBTTu6OSqLZg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y467HPKI4VBBZCBWKL7PK7PRXQ.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía incauta documentos y dispositivos electrónicos de la casa del ex presidente del BCP",
+          "url": "https://www.ultimahora.com/fiscalia-incauta-documentos-y-dispositivos-electronicos-de-la-casa-del-ex-presidente-del-bcp",
+          "publishedAt": "2026-11-10T01:14:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Exasesor jurídico de Santiago Peña deja el Consejo de Itaipú Binacional",
+          "url": "https://www.abc.com.py/politica/2026/11/09/exasesor-juridico-de-santiago-pena-deja-el-consejo-de-itaipu-binacional",
+          "publishedAt": "2026-11-10T00:58:21.000Z",
+          "image": "https://www.abc.com.py/resizer/v3tQLFfJsPf3aj5AjHFl8qTOGUQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HNODS4I76ZF6RDZ4KE6MW7WDF4.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan casa de Carlos Carvallo e incautan documentos y equipos informáticos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/allanan-casa-de-carlos-carvallo-e-incautan-documentos-y-equipos-informaticos",
+          "publishedAt": "2026-11-10T00:32:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/KBJB7EVSCZCI3NK5BUVZXLEOCU.jfif?auth=4d2fb2b54767da6e18ce50c7d379159fb759383390101ef0f971c79498f4cf8e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: allanan la casa del expresidente y del extitular del BCP",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp",
+          "publishedAt": "2026-11-09T22:59:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Allanan las viviendas de Santiago Peña y Carlos Carvallo por el caso Ueno Bank",
+          "url": "https://www.abc.com.py/policiales/2026/11/09/fiscalia-allana-la-vivienda-de-santiago-pena-en-asuncion",
+          "publishedAt": "2026-11-09T20:52:30.000Z",
+          "image": "https://www.abc.com.py/resizer/kTCgVDDOM-jYJA5TCd-6Pq8Kl2A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N4VCCAFS6VGUNNGJ55SQAIGZL4.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía allana vivienda de Peña en Asunción a tres días de su imputación",
+          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-pena-asuncion-tres-dias-su-imputacion-n114978",
+          "publishedAt": "2026-11-09T20:22:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af22bef25159.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg?auth=e1d3dd9ef2249a3643af88f7d9d1a92df306b3d883d52136751d6d9c4427fa09&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
+      "updatedSlot": "manana",
+      "score": 23.78
+    },
+    {
+      "id": "ev-1tvkt35",
+      "title": "Renuncian los tres abogados defensores de Miguel Vázquez en caso Ueno Bank",
+      "summary": "Los abogados Álvaro Cáceres, Dante Gulino y Cristóbal Cáceres presentaron su renuncia a la defensa de Miguel Vázquez, exvicepresidente y CEO de Ueno Bank. Las renuncias llegaron al juzgado penal de Garantías Especializado en Delitos Económicos. No se dieron a conocer los motivos de la decisión.\n\nVázquez está imputado por lesión de confianza, tentativa de estafa, conducta indebida en situaciones de crisis y violación de la obligación de llevar libros de comercio. Está con prisión preventiva, decretada por el juez Rodrigo Estigarribia, y se encuentra recluido en el Centro Nacional de Prevenidos. La defensa apeló la medida, y la Fiscalía pidió ratificarla.\n\nAhora Vázquez deberá designar nuevos defensores. Un tribunal de Apelación definirá si debe seguir privado de libertad.",
+      "keyPoints": [
+        "Tres abogados renunciaron a la defensa de Miguel Vázquez.",
+        "Vázquez está imputado y con prisión preventiva.",
+        "No se conocieron los motivos de las renuncias.",
+        "La apelación de la medida cautelar está en manos de un tribunal de Apelación."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Renuncian abogados defensores de Miguel Vázquez",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/renuncian-abogados-defensores-de-miguel-vazquez",
+          "publishedAt": "2026-11-10T04:01:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qYZbJ2vDxSEMYVv1BQTjdDCHLUk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DGWBFU5ADBAXLOCVZ7V7B3XGKU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: abogados de Miguel Vázquez renuncian a su defensa",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-abogados-de-miguel-vazquez-renuncian-a-su-defensa",
+          "publishedAt": "2026-11-09T22:22:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/erCHfxlpoCiVlR1Szd-F0ff-UKk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MUQSRP4XFGMPAXBLLZXXTQCBU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Abogados renuncian a la defensa de Miguel Vázquez y directivos procesados de Ueno",
+          "url": "https://www.abc.com.py/nacionales/2026/11/09/caso-ueno-bank-oleada-de-renuncias-deja-sin-defensa-a-principales-procesados",
+          "publishedAt": "2026-11-09T21:26:35.000Z",
+          "image": "https://www.abc.com.py/resizer/bME51mm6-xQ-oQ3f3ls4zfuav3E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/7W4J543XOZDGLDKFDF7XD37GIM.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Miguel Vázquez queda sin representación legal tras renuncia de sus tres abogados",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/miguel-vazquez-queda-sin-representacion-legal-tras-renuncia-de-sus-tres-abogados",
+          "publishedAt": "2026-11-09T20:57:57.299Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg?auth=5c4268be323ff26ed2cfdde75a297cba02717e1461efc65fe40678347ea124cd&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Renuncian los tres abogados de Miguel Vázquez",
+          "url": "https://www.adndigital.com.py/renuncian-los-tres-abogados-de-miguel-vazquez",
+          "publishedAt": "2026-11-09T20:36:55.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-09-at-173524.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Renuncian los tres abogados de \"Unicornio\" Vázquez en pleno escándalo de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/renuncian-tres-abogados-unicornio-vazquez-pleno-escandalo-ueno-bank-n114977",
+          "publishedAt": "2026-11-09T19:31:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/12/2a62171f7ea9fc818944e0e6b5f8bd8a.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DGWBFU5ADBAXLOCVZ7V7B3XGKU.jpg?auth=1680e5ca2ca220912e460af0616724143b21d8ee4efacb02615bc3e1bd84df24&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/renuncian-abogados-defensores-de-miguel-vazquez"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
+      "updatedSlot": "manana",
+      "score": 20.32
     },
     {
       "id": "ev-0jb6n9y",
@@ -204,260 +428,207 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 20.58
+      "score": 20.24
     },
     {
-      "id": "ev-0e9u8th",
-      "title": "Allanan las viviendas de Santiago Peña y Carlos Carvallo por el caso Ueno Bank",
-      "summary": "Un equipo fiscal-policial llegó durante la tarde de hoy a la residencia del expresidente Santiago Peña , en el barrio Mbocayaty de Asunción, para un allanamiento. El exmandatario actualmente se encuentra recluido en el cuartel del Regimiento Escolta Presidencial (REP) ya que está imputado en el marco de la investigación del caso Ueno Bank.",
+      "id": "ev-1fs5rw9",
+      "title": "Más de dos millones de personas asisten a la misa del papa León XIV en Buenos Aires",
+      "summary": "Más de dos millones de personas asistieron en Buenos Aires a la misa del papa León XIV, según el Vaticano que informó más de dos millones y medio. Fue la misa más multitudinaria de su pontificado, en el Monumento a los Españoles, en el barrio de Palermo.\n\nEn su homilía, el pontífice defendió la vigencia de la fe cristiana y dijo que la familia cristiana es \"un pilar\" entre las precariedades de la época. También recordó a su predecesor, el papa Francisco. La misa terminó con una comunión multitudinaria.\n\nLa visita apostólica sigue en Córdoba, donde se esperan cientos de miles de personas en la celebración de la Escuela de Aviación Militar. Según la agenda oficial, el papa regresará luego a Buenos Aires.",
       "keyPoints": [
-        "Un equipo fiscal-policial llegó durante la tarde de hoy a la residencia del expresidente Santiago Peña , en el barrio Mbocayaty de Asunción, para un allanamiento.",
-        "El Ministerio Público brindó detalles precisos de lo encontrado tras más de cinco horas de allanamiento en la residencia del exmandatario Santiago Peña , en Asunción.",
-        "Los agentes fiscales Christian Benítez Cáceres y Verónica Valdez Rivas, de la Unidad Especializada de Delitos Económicos y Anticorrupción, encabezaron un allanamiento en la vivienda particular del expresidente del Banco Central del Paraguay (BCP), Carlos Carvallo…",
-        "El equipo fiscal integrado por Christian Benítez y Verónica Valdez se constituyó en la vivienda del expresidente del Banco Central del Paraguay (BCP), Carlos Carvallo, para realizar un allanamiento y recopilar elementos vinculados a la investigación…"
+        "La misa se realizó en el Monumento a los Españoles, en Palermo.",
+        "El Vaticano informó más de dos millones y medio de asistentes.",
+        "El papa defendió la fe cristiana como \"un pilar\".",
+        "La visita continúa en Córdoba, con misa prevista a las 10.00 hora local."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cientos de miles de personas esperan al papa León XIV en la provincia argentina de Córdoba",
+          "url": "https://www.abc.com.py/internacionales/2026/11/10/cientos-de-miles-de-personas-esperan-al-papa-leon-xiv-en-la-provincia-argentina-de-cordoba",
+          "publishedAt": "2026-11-10T11:30:17.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV parte hacia Córdoba para celebrar su segunda misa multitudinaria en Argentina",
+          "url": "https://www.abc.com.py/internacionales/2026/11/10/leon-xiv-parte-hacia-cordoba-para-celebrar-su-segunda-misa-multitudinaria-en-argentina",
+          "publishedAt": "2026-11-10T11:00:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "León XIV defendió la vigencia de la fe cristiana en multitudinaria misa en Argentina",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/10/leon-xiv-defendio-la-vigencia-de-la-fe-cristiana-en-multitudinaria-misa-en-argentina",
+          "publishedAt": "2026-11-10T10:50:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Cs_FnVKrpA8NmLjzPP_CiBql8Zg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YD572Z3EVJGGNH3KJAMXDKTPTM.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Papa León XIV pide que el crecimiento económico beneficie a los más pobres durante visita a Milei",
+          "url": "https://5dias.com.py/article/papa-len-xiv-pide-que-el-crecimiento-econmico-beneficie-a-los-ms-pobres-durante-visita-a-milei",
+          "publishedAt": "2026-11-10T06:41:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/papa_leon_y_milei_20261110_064325.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Más de dos millones de personas asisten a misa del papa León XIV",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv",
+          "publishedAt": "2026-11-10T03:09:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/umsumhrr74wQO6-6DvK8fbFAl9U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV da su misa más masiva en Argentina y un firme mensaje al mundo del trabajo",
+          "url": "https://www.abc.com.py/internacionales/2026/11/09/leon-xiv-da-su-misa-mas-masiva-en-argentina-y-un-firme-mensaje-al-mundo-del-trabajo",
+          "publishedAt": "2026-11-10T01:25:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Soledad Pastorutti rompió el protocolo en la previa de la misa del papa León XIV",
+          "url": "https://elnacional.com.py/mundo/soledad-pastorutti-rompio-protocolo-previa-misa-papa-leon-xiv-n114984",
+          "publishedAt": "2026-11-09T22:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af23b524c05d.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "León XIV oficia misa ante 2,5 millones de personas y recibe a víctimas de abusos en Buenos Aires",
+          "url": "https://elnacional.com.py/mundo/leon-xiv-oficia-misa-25-millones-personas-recibe-victimas-abusos-buenos-aires-n114983",
+          "publishedAt": "2026-11-09T21:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af2371f5cb31.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La cantante argentina Soledad versionó “Alma misionera” y fue viral",
+          "url": "https://www.lanacion.com.py/lnpop/2026/11/09/la-cantante-argentina-soledad-versiono-alma-misionera-y-fue-viral",
+          "publishedAt": "2026-11-09T20:42:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_134J3LJ7-l1QabeMZEbDI1M1D8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DDT66IDKBFDR3JCOCW7RERKPHI.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "El papa León XIV llegó a la Argentina en una histórica visita apostólica",
+          "url": "https://www.telefuturo.com.py/el-papa-leon-xiv-llego-a-la-argentina-en-una-historica-visita-apostolica",
+          "publishedAt": "2026-11-09T14:40:52.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YD572Z3EVJGGNH3KJAMXDKTPTM.jpg?auth=707e011ec0a1da5510ebd9cd986c8838f028a9ba827a71b9a38b50fd3d30ec54&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/10/leon-xiv-defendio-la-vigencia-de-la-fe-cristiana-en-multitudinaria-misa-en-argentina"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
+      "updatedSlot": "manana",
+      "score": 18.45
+    },
+    {
+      "id": "ev-0o5i6nn",
+      "title": "Fiscalía retoma este martes intentos para abrir bóveda en casa de Santiago Peña",
+      "summary": "La Fiscalía y la Policía Nacional retoman este martes los trabajos para abrir una bóveda hallada en la residencia de verano del expresidente Santiago Peña, en San Bernardino. El compartimento estaba detrás de una pared falsa y fue encontrado durante el allanamiento del domingo. Hasta ahora no se sabe qué contiene.\n\nLos investigadores lograron abrir la primera puerta, pero una segunda compuerta tiene un mecanismo de seguridad que todavía no pudieron superar. Según los investigadores, el sistema sería de origen israelí y tendría varios niveles de verificación, como reconocimiento del iris y códigos de acceso.\n\nEl fiscal Christian Benítez dijo que el Ministerio Público analiza alternativas y consultará a especialistas. Entre las opciones figura consultar a Leticia Ocampos, esposa del exmandatario, para saber si tiene autorización de acceso por iris. También se analiza una detonación controlada, si los especialistas consideran que hay condiciones de seguridad.",
+      "keyPoints": [
+        "La Fiscalía y la Policía retoman los trabajos este martes en San Bernardino.",
+        "La segunda barrera de seguridad de la bóveda aún no fue superada.",
+        "El sistema tendría reconocimiento del iris y códigos de acceso.",
+        "Se analiza consultar a Leticia Ocampos o una detonación controlada."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fiscalía allana sede central de ueno bank en Asunción",
-          "url": "https://www.ultimahora.com/fiscalia-allana-sede-central-de-ueno-bank-en-asuncion",
-          "publishedAt": "2026-11-10T02:26:57.000Z",
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía vuelve este martes a la residencia de Peña para intentar abrir la bóveda",
+          "url": "https://www.adndigital.com.py/fiscalia-vuelve-este-martes-a-la-residencia-de-pena-para-intentar-abrir-la-boveda",
+          "publishedAt": "2026-11-10T11:45:27.000Z",
           "image": null
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Sepa todo lo incautado en las viviendas de Santiago Peña y Carlos Carvallo",
-          "url": "https://www.abc.com.py/policiales/2026/11/09/sepa-todo-lo-incautado-en-las-viviendas-de-santiago-pena-y-carlos-carvallo",
-          "publishedAt": "2026-11-10T01:58:35.000Z",
-          "image": "https://www.abc.com.py/resizer/uyVmBEFoi2a3TakaBTTu6OSqLZg=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Y467HPKI4VBBZCBWKL7PK7PRXQ.jpg"
+          "title": "Ueno: Fiscalía sigue este martes intentando abrir la bóveda de Santiago Peña",
+          "url": "https://www.abc.com.py/policiales/2026/11/10/ueno-fiscalia-sigue-este-martes-intentando-abrir-la-boveda-de-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-10T10:38:33.000Z",
+          "image": "https://www.abc.com.py/resizer/hfMg2O02YrFJz_Lvg4z5o5v5r3I=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VN2TX2SB4BHORBLVJXANWGJFRE.jpg"
         },
         {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Fiscalía incauta documentos y dispositivos electrónicos de la casa del ex presidente del BCP",
-          "url": "https://www.ultimahora.com/fiscalia-incauta-documentos-y-dispositivos-electronicos-de-la-casa-del-ex-presidente-del-bcp",
-          "publishedAt": "2026-11-10T01:14:17.000Z",
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "La mansión y la bóveda de Santiago Peña en San Bernardino",
+          "url": "https://www.telefuturo.com.py/la-mansion-y-la-boveda-de-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-09T17:55:06.000Z",
           "image": null
         },
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Exasesor jurídico de Santiago Peña deja el Consejo de Itaipú Binacional",
-          "url": "https://www.abc.com.py/politica/2026/11/09/exasesor-juridico-de-santiago-pena-deja-el-consejo-de-itaipu-binacional",
-          "publishedAt": "2026-11-10T00:58:21.000Z",
-          "image": "https://www.abc.com.py/resizer/v3tQLFfJsPf3aj5AjHFl8qTOGUQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HNODS4I76ZF6RDZ4KE6MW7WDF4.jpeg"
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "¿Qué hay dentro de la bóveda en Samber?",
+          "url": "https://www.telefuturo.com.py/que-hay-dentro-de-la-boveda-en-samber",
+          "publishedAt": "2026-11-09T14:30:36.000Z",
+          "image": null
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan casa de Carlos Carvallo e incautan documentos y equipos informáticos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/09/allanan-casa-de-carlos-carvallo-e-incautan-documentos-y-equipos-informaticos",
-          "publishedAt": "2026-11-10T00:32:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/KBJB7EVSCZCI3NK5BUVZXLEOCU.jfif?auth=4d2fb2b54767da6e18ce50c7d379159fb759383390101ef0f971c79498f4cf8e&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno Bank: allanan la casa del expresidente y del extitular del BCP",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-allanan-la-casa-del-expresidente-y-del-extitular-del-bcp",
-          "publishedAt": "2026-11-09T22:59:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Allanan las viviendas de Santiago Peña y Carlos Carvallo por el caso Ueno Bank",
-          "url": "https://www.abc.com.py/policiales/2026/11/09/fiscalia-allana-la-vivienda-de-santiago-pena-en-asuncion",
-          "publishedAt": "2026-11-09T20:52:30.000Z",
-          "image": "https://www.abc.com.py/resizer/kTCgVDDOM-jYJA5TCd-6Pq8Kl2A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/N4VCCAFS6VGUNNGJ55SQAIGZL4.jfif"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía allana vivienda de Peña en Asunción a tres días de su imputación",
-          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-pena-asuncion-tres-dias-su-imputacion-n114978",
-          "publishedAt": "2026-11-09T20:22:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af22bef25159.jpeg"
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fiscalía encuentra una bóveda blindada con acceso biométrico en residencia vinculada a Santiago Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/fiscalia-encuentra-una-boveda-blindada-con-acceso-biometrico-en-residencia-vinculada-a-santiago-pena",
+          "publishedAt": "2026-11-09T10:41:47.000Z",
+          "image": null
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/N4VCCAFS6VGUNNGJ55SQAIGZL4.jfif?auth=547e54d12a6407ca0b244f0f1def356c3b02b53e4e6d06f71711757c8fcbaf29&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VN2TX2SB4BHORBLVJXANWGJFRE.jpg?auth=3913d9ef34148e683ddd5b8570d07d7af7bc80cd09d832b1207d9b7428d80d9a&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/09/fiscalia-allana-la-vivienda-de-santiago-pena-en-asuncion"
+        "articleUrl": "https://www.abc.com.py/policiales/2026/11/10/ueno-fiscalia-sigue-este-martes-intentando-abrir-la-boveda-de-santiago-pena-en-san-bernardino"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 20.53
-    },
-    {
-      "id": "ev-09ymey2",
-      "title": "Alliana quiere a Jorge Schreiner al frente del BCP",
-      "summary": "Convocan a sesión extra del Senado para tratar acuerdo de Schreiner como presidente del BCP y Fernando Rivarola como miembro del directorio. El presidente de la República, Pedro Alliana, oficializó la designación de Jorge Luis Schreiner Marengo como nuevo titular del Banco Central del Paraguay (BCP) y de Fernando Javier Rivarola Angulo como nuevo director titular de la banca matriz.",
-      "keyPoints": [
-        "Convocan a sesión extra del Senado para tratar acuerdo de Schreiner como presidente del BCP y Fernando Rivarola como miembro del directorio.",
-        "El presidente de la República, Pedro Alliana, oficializó la designación de Jorge Luis Schreiner Marengo como nuevo titular del Banco Central del Paraguay (BCP) y de Fernando Javier Rivarola Angulo como nuevo director titular de la…",
-        "La Cámara de Senadores otorgó el acuerdo constitucional para la designación de Jorge Luis Schreiner Marengo como presidente del Banco Central del Paraguay (BCP) y de Fernando Javier Rivarola Angulo como miembro titular del Directorio de…",
-        "La Cámara de Senadores otorgó el acuerdo constitucional solicitado por el Poder Ejecutivo para designar a Jorge Luis Schreiner Marengo como presidente del Banco Central del Paraguay (BCP) y a Fernando Javier Rivarola Angulo como miembro…"
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Jorge Schreiner será el nuevo presidente del Banco Central",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/jorge-schreiner-sera-el-nuevo-presidente-del-banco-central",
-          "publishedAt": "2026-11-10T04:16:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/VuL-tdqC01aK6yTIxVt_m9z-fbU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TA3TRTVQ2ZBORG3SZ6OK3BEOKY.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alliana oficializa a Schreiner como nuevo presidente del BCP",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/09/alliana-oficializa-a-jorge-schreiner-como-nuevo-presidente-del-bcp",
-          "publishedAt": "2026-11-10T00:07:45.435Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/NHZNENBVDVHMHODEU35S3RTYYY.jfif?auth=5e8c7973fe99b9ac3567d53634971dfc510886df4c566e0e800b223e5252ad35&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Senado aprueba designaciones de Schreiner y Rivarola en el BCP",
-          "url": "https://www.adndigital.com.py/senado-aprueba-designaciones-de-schreiner-y-rivarola-en-el-bcp",
-          "publishedAt": "2026-11-09T19:06:33.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-09-at-160601.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado presta acuerdo para Schreiner al frente del BCP y a Rivarola en el Directorio",
-          "url": "https://www.lanacion.com.py/politica/2026/11/09/senado-presta-acuerdo-para-schreiner-al-frente-del-bcp-y-a-rivarola-en-el-directorio",
-          "publishedAt": "2026-11-09T18:21:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/5ka-XSyICSck4vonDGgKcnZjeoY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MPWETF5JWNCTND3G3MBAGHAI3M.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana quiere a Jorge Schreiner al frente del BCP",
-          "url": "https://elnacional.com.py/economia/alliana-quiere-jorge-schreiner-frente-bcp-n114960",
-          "publishedAt": "2026-11-09T14:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af1cf0ca8cf6.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana plantea retorno de Fernando Rivarola al BCP como miembro del Directorio",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/alliana-plantea-retorno-de-fernando-rivarola-al-bcp-como-miembro-del-directorio",
-          "publishedAt": "2026-11-09T13:27:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cz08_jXNIkM77wY4S-mHfLyuC6k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VBGMG7773BCXPFMUS3ZONATKJE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af1cf0ca8cf6.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/alliana-quiere-jorge-schreiner-frente-bcp-n114960"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 17.68
-    },
-    {
-      "id": "ev-1tvkt35",
-      "title": "Renuncian los tres abogados de Miguel Vázquez",
-      "summary": "La defensa de Miguel Vázquez, uno de los altos funcionarios de Ueno Bank investigados por el presunto vaciamiento de la entidad financiera, quedó sin sus representantes legales luego de que los tres abogados que lo asistían presentaran sus respectivas renuncias.",
-      "keyPoints": [
-        "La defensa de Miguel Vázquez, uno de los altos funcionarios de Ueno Bank investigados por el presunto vaciamiento de la entidad financiera, quedó sin sus representantes legales luego de que los tres abogados que lo asistían…",
-        "El empresario Miguel Vázquez se quedó sin equipo de defensa tras la renuncia masiva de los abogados Álvaro Cáceres, Dante Gulino y Cristóbal Cáceres.",
-        "Los abogados Víctor Dante Gulino, Cristóbal Cáceres y Álvaro Cáceres presentaron su renuncia a la defensa de Miguel Vázquez, vicepresidente de ueno bank, quien se encuentra imputado por lesión de confianza, tentativa de estafa y violación…",
-        "Los tres abogados que ejercían la defensa de Miguel Vázquez, uno de los principales investigados en el escándalo financiero de Ueno Bank, habrían renunciado a su representación legal en medio del proceso penal que enfrenta el…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Renuncian abogados defensores de Miguel Vázquez",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/renuncian-abogados-defensores-de-miguel-vazquez",
-          "publishedAt": "2026-11-10T04:01:09.000Z",
-          "image": "https://www.lanacion.com.py/resizer/qYZbJ2vDxSEMYVv1BQTjdDCHLUk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DGWBFU5ADBAXLOCVZ7V7B3XGKU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno Bank: abogados de Miguel Vázquez renuncian a su defensa",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/09/caso-ueno-bank-abogados-de-miguel-vazquez-renuncian-a-su-defensa",
-          "publishedAt": "2026-11-09T22:22:01.000Z",
-          "image": "https://www.lanacion.com.py/resizer/erCHfxlpoCiVlR1Szd-F0ff-UKk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5MUQSRP4XFGMPAXBLLZXXTQCBU.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Miguel Vázquez queda sin representación legal tras renuncia de sus tres abogados",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/09/miguel-vazquez-queda-sin-representacion-legal-tras-renuncia-de-sus-tres-abogados",
-          "publishedAt": "2026-11-09T20:57:57.299Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg?auth=5c4268be323ff26ed2cfdde75a297cba02717e1461efc65fe40678347ea124cd&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Renuncian los tres abogados de Miguel Vázquez",
-          "url": "https://www.adndigital.com.py/renuncian-los-tres-abogados-de-miguel-vazquez",
-          "publishedAt": "2026-11-09T20:36:55.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-09-at-173524.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Renuncian los tres abogados de \"Unicornio\" Vázquez en pleno escándalo de Ueno Bank",
-          "url": "https://elnacional.com.py/politica/renuncian-tres-abogados-unicornio-vazquez-pleno-escandalo-ueno-bank-n114977",
-          "publishedAt": "2026-11-09T19:31:00.000Z",
-          "image": "https://statics.elnacional.com.py/2024/12/2a62171f7ea9fc818944e0e6b5f8bd8a.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-09-at-173524.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/renuncian-los-tres-abogados-de-miguel-vazquez"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 17.66
+      "score": 17.97
     },
     {
       "id": "ev-1u129so",
-      "title": "Oposición prepara juicio político contra Emiliano Rolón por actuación en el caso ueno",
-      "summary": "La diputada Rocío Vallejo confirmó que están elaborando el libelo acusatorio contra el fiscal general del Estado. Los legisladores cuestionan su gestión y lo acusan de obstaculizar las investigaciones relacionadas con Santiago Peña y el escándalo financiero de ueno bank.",
+      "title": "Diputados preparan juicio político contra el fiscal general Emiliano Rolón",
+      "summary": "Diputados y senadores preparan un juicio político contra el fiscal general del Estado, Emiliano Rolón. Legisladores cuestionan las demoras en la investigación del caso Ueno Bank, que involucra al expresidente Santiago Peña.\n\nLa diputada Rocío Vallejo confirmó que junto a otros diputados se prepara el juicio político. Según los medios, también se anuncia una denuncia de senadores contra Rolón.\n\nEn una entrevista, Rolón descartó lentitud en el trabajo de los investigadores. Dijo que se formaron equipos de trabajo porque la denuncia era voluminosa y que los fiscales son independientes en la investigación.",
       "keyPoints": [
-        "La diputada Rocío Vallejo confirmó que están elaborando el libelo acusatorio contra el fiscal general del Estado.",
-        "El Consejo Parlamentario, integrado por la mayoría de los diputados y senadores del Partido Liberal Radical Auténtico (PLRA) se reunió esta tarde con el presidente del partido, Alcides Riveros , y acordó empezar a trabajar en…",
-        "El fiscal general del Estado quedó en el centro de las críticas por las demoras y actuaciones del Ministerio Público en la investigación que involucra al expresidente Santiago Peña.",
-        "La diputada Rocío Vallejo, durante su visita al programa Vive la Vida, confirmó que junto a otros diputados estan preparando el juicio político contra el fiscal general del Estado, Dr."
+        "La diputada Rocío Vallejo confirmó que preparan un juicio político contra Rolón.",
+        "Legisladores critican las demoras en la investigación del caso Ueno Bank.",
+        "Rolón descartó lentitud y dijo que se formaron equipos de trabajo."
       ],
       "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: Fiscalía avanza con las investigaciones",
+          "url": "https://www.lanacion.com.py/pais/2026/11/10/caso-ueno-bank-fiscalia-avanza-con-las-investigaciones",
+          "publishedAt": "2026-11-10T10:27:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wXDvY9SSzdgv0wjv6ILCpLC1T5g=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -516,25 +687,24 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2025/02/18b36ddfeabab6b3af95b84bbf8edd67.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/oposicion-prepara-juicio-politico-emiliano-rolon-actuacion-caso-ueno-n114972"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YLUYW34G2BDNLP5DBLXZWYXHRY.jpg?auth=e1d3dd9ef2249a3643af88f7d9d1a92df306b3d883d52136751d6d9c4427fa09&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/10/caso-ueno-bank-fiscalia-avanza-con-las-investigaciones"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 17.44
+      "score": 17.86
     },
     {
-      "id": "ev-1lj5yaq",
-      "title": "Alliana cambia la cúpula militar y nombra a Manuel Rodríguez Sosa al mando",
-      "summary": "El presidente Pedro Alliana realizó cambios en la cúpula de las Fuerzas Armadas. El general Manuel Rodríguez Sosa fue nombrado comandante de las Fuerzas Militares, en reemplazo del general César Augusto Moreno Landaira, que pasará a retiro.\n\nLos cambios se hicieron por las Órdenes Generales 228, 229 y 230. El general Alcides Lovera Ortiz pasó a ser comandante interino del Ejército, y el general Roberto José Idoyaga Benítez quedó como comandante interino de la Fuerza Aérea, en reemplazo de Julio Rubén Fullaondo Céspedes. Además, el general Fredy Roberto Oviedo Cáceres fue designado jefe interino del Gabinete Militar de la Presidencia.\n\nAlliana asumió la Presidencia el viernes pasado, tras la destitución de Santiago Peña en un juicio político del Congreso. Las notas no traen respuesta de los militares desplazados.",
+      "id": "ev-09ymey2",
+      "title": "Senado da acuerdo a Jorge Schreiner para presidir el Banco Central",
+      "summary": "El Senado otorgó el acuerdo constitucional para que Jorge Luis Schreiner presida el Banco Central del Paraguay (BCP). Fernando Rivarola fue designado miembro titular del Directorio.\n\nSchreiner obtuvo 31 votos a favor, una abstención y un rechazo. Rivarola fue aprobado por unanimidad con 33 votos. Rivarola fue gerente de supervisión de la Superintendencia de Bancos, que había advertido sobre irregularidades en Ueno Bank.\n\nEn su declaración ante el Senado, Schreiner calificó la crisis de Ueno Bank como controlada y aislable. Dijo que no tendrá efectos sobre los demás bancos.",
       "keyPoints": [
-        "Manuel Rodríguez Sosa es el nuevo comandante de las Fuerzas Militares.",
-        "César Augusto Moreno Landaira pasará a retiro.",
-        "Alcides Lovera Ortiz es comandante interino del Ejército.",
-        "Fredy Roberto Oviedo Cáceres es jefe interino del Gabinete Militar."
+        "El Senado aprobó a Jorge Luis Schreiner como presidente del BCP con 31 votos.",
+        "Fernando Rivarola fue aprobado por unanimidad como miembro del Directorio.",
+        "Schreiner calificó la crisis de Ueno Bank como controlada y aislable."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -542,6 +712,165 @@
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Jorge Schreiner será el nuevo presidente del Banco Central",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/jorge-schreiner-sera-el-nuevo-presidente-del-banco-central",
+          "publishedAt": "2026-11-10T04:16:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VuL-tdqC01aK6yTIxVt_m9z-fbU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TA3TRTVQ2ZBORG3SZ6OK3BEOKY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana oficializa a Schreiner como nuevo presidente del BCP",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/09/alliana-oficializa-a-jorge-schreiner-como-nuevo-presidente-del-bcp",
+          "publishedAt": "2026-11-10T00:07:45.435Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NHZNENBVDVHMHODEU35S3RTYYY.jfif?auth=5e8c7973fe99b9ac3567d53634971dfc510886df4c566e0e800b223e5252ad35&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Schreiner calificó de controlada y aislable la resolución de Ueno Bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/schreiner-califico-de-controlada-y-aislable-la-resolucion-de-ueno-bank",
+          "publishedAt": "2026-11-09T20:37:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0WorVIRjZb8_HDBwdtD5pBGjUlo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZP33NFYAGBAFRPZ3RFLMA5JNXE.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senado aprueba designaciones de Schreiner y Rivarola en el BCP",
+          "url": "https://www.adndigital.com.py/senado-aprueba-designaciones-de-schreiner-y-rivarola-en-el-bcp",
+          "publishedAt": "2026-11-09T19:06:33.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-09-at-160601.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado presta acuerdo para Schreiner al frente del BCP y a Rivarola en el Directorio",
+          "url": "https://www.lanacion.com.py/politica/2026/11/09/senado-presta-acuerdo-para-schreiner-al-frente-del-bcp-y-a-rivarola-en-el-directorio",
+          "publishedAt": "2026-11-09T18:21:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5ka-XSyICSck4vonDGgKcnZjeoY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MPWETF5JWNCTND3G3MBAGHAI3M.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana quiere a Jorge Schreiner al frente del BCP",
+          "url": "https://elnacional.com.py/economia/alliana-quiere-jorge-schreiner-frente-bcp-n114960",
+          "publishedAt": "2026-11-09T14:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1cf0ca8cf6.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana plantea retorno de Fernando Rivarola al BCP como miembro del Directorio",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/alliana-plantea-retorno-de-fernando-rivarola-al-bcp-como-miembro-del-directorio",
+          "publishedAt": "2026-11-09T13:27:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cz08_jXNIkM77wY4S-mHfLyuC6k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VBGMG7773BCXPFMUS3ZONATKJE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TA3TRTVQ2ZBORG3SZ6OK3BEOKY.jpg?auth=fba90727bf3b82b8809cb8deb5a3a0b25f344d14abb1ff63738db1c16a562014&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/10/jorge-schreiner-sera-el-nuevo-presidente-del-banco-central"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
+      "updatedSlot": "manana",
+      "score": 17.35
+    },
+    {
+      "id": "ev-1teuhfc",
+      "title": "Dos sicarios balean al hijo de una comisario en Presidente Franco",
+      "summary": "Dos hombres en una motocicleta atacaron a balazos a Brígido Isaac Torres Gamarra, de 25 años, hijo de la comisario principal Esmelda Gamarra. El hecho ocurrió el domingo alrededor de las 17:00 en el barrio San Blas, de Presidente Franco, Alto Paraná, frente a una vivienda.\n\nSegún las notas, la víctima intentó refugiarse dentro de la casa, pero uno de los atacantes la siguió y disparó. Según los datos, recibió impactos de bala, uno de ellos en el pecho. Un joven que estaba con ella resultó herido leve en un brazo. Torres Gamarra fue trasladado a un sanatorio de San Pedro, donde quedó en observación y en estado estable.\n\nLa Policía investiga el trasfondo del atentado. Según la información publicada, uno de los atacantes sería conocido con un alias, pero no hay detenidos informados hasta el momento.",
+      "keyPoints": [
+        "El ataque ocurrió el domingo a las 17:00 en el barrio San Blas.",
+        "La víctima recibió disparos y está internada en estado estable.",
+        "Dos hombres llegaron en moto y actuaron a cara descubierta, según las notas.",
+        "La Policía investiga el trasfondo del atentado."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Sicarios irrumpen en vivienda y balean a hijo de una comisario",
+          "url": "https://diariovanguardia.com.py/sicarios-irrumpen-en-vivienda-y-balean-a-hijo-de-una-comisario",
+          "publishedAt": "2026-11-10T11:21:51.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/brigido-torres-814x1024.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Sicarios balean a hijo de un comisario en su casa",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/10/sicarios-balean-a-hijo-de-un-comisario-en-su-casa",
+          "publishedAt": "2026-11-10T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KLMopSdftQK5RK6hnhLVkUFySng=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RGX52AAZWJEUBHEGTVLHQV5KGI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pdte. Franco: motociclistas balearon al hijo de una policía",
+          "url": "https://www.lanacion.com.py/pais/2026/11/09/pdte-franco-motociclistas-balearon-al-hijo-de-una-policia",
+          "publishedAt": "2026-11-09T19:07:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GAeBmjnt0A0OZANj7vQHqtcKrg8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZW3VILJQBBFQFGMPEYJDKQZBWU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Balean en el pecho a hijo de una comisaria en confuso ataque en Presidente Franco",
+          "url": "https://elnacional.com.py/nacionales/balean-pecho-hijo-una-comisaria-confuso-ataque-presidente-franco-n114961",
+          "publishedAt": "2026-11-09T18:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/09/081fd6bf5a77eb98b49c23d1bc9aff7f.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/brigido-torres-814x1024.jpg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/sicarios-irrumpen-en-vivienda-y-balean-a-hijo-de-una-comisario"
+      },
+      "firstSeenAt": "2026-11-10T04:35:03.675Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
+      "updatedSlot": "manana",
+      "score": 14.94
+    },
+    {
+      "id": "ev-1lj5yaq",
+      "title": "Alliana renueva la cúpula militar y el ministro descarta motivos políticos",
+      "summary": "El presidente Pedro Alliana renovó la cúpula de las Fuerzas Armadas pocos días después de asumir. Designó nuevos comandantes del Ejército, de la Fuerza Aérea y del Gabinete Militar.\n\nEl ministro de Defensa, Óscar González, dijo que los oficiales reemplazados llevaban varios años en sus cargos. Explicó que los cambios buscan que otras promociones accedan a los puestos de mando.\n\nAnte consultas sobre una posible relación con el expresidente Santiago Peña, González afirmó que son cambios normales y negó cualquier conflicto con los oficiales relevados.",
+      "keyPoints": [
+        "Alliana designó nuevos comandantes del Ejército y de la Fuerza Aérea.",
+        "El ministro Óscar González dijo que los cambios son normales.",
+        "González descartó que los relevos tengan relación con Santiago Peña."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "ia",
+      "model": "claude-haiku-5-5",
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Por qué Alliana barrió la cúpula militar? Esto explica el ministro de Defensa",
+          "url": "https://www.abc.com.py/politica/2026/11/10/por-que-alliana-barrio-la-cupula-militar-esto-explica-el-ministro-de-defensa",
+          "publishedAt": "2026-11-10T10:24:15.000Z",
+          "image": "https://www.abc.com.py/resizer/uePd0HvLziR77KU9GrGtLMYRCqk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HBLOVV72JBDW7CK6M46SKY2ZUU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Ministro de Defensa afirma que cambios en cúpula militar son “normales” y descartan “enojos”",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/11/10/audio-ministro-de-defensa-afirma-que-cambios-en-cupula-militar-son-normales-y-descartan-enojos",
+          "publishedAt": "2026-11-10T09:59:25.000Z",
+          "image": "https://www.abc.com.py/resizer/pcry9Ze2upxaHfBiBLBlu9qLtUA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LUWJO66I45DIDHSJUDLECU2TYA.jfif"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -568,15 +897,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/JG7E5NMIPVGQ5L4BNBUGFUMTSY.jpg?auth=ff867839659d45dc319ebe802d3a1df58e198430516e538c46c5a59608a90483&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/HBLOVV72JBDW7CK6M46SKY2ZUU.jpg?auth=e2f879440f617d2cfb9179b67c82b84b96d1b80938b10f5e61931b90745ba5f5&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/09/en-cuatro-dias-alliana-barre-la-cupula-de-la-ffaa"
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/10/por-que-alliana-barrio-la-cupula-militar-esto-explica-el-ministro-de-defensa"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 13.4
+      "score": 14.86
     },
     {
       "id": "ev-01syvyg",
@@ -628,20 +957,19 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 13.22
+      "score": 12.89
     },
     {
-      "id": "ev-1fs5rw9",
-      "title": "Más de dos millones de personas asisten a la misa del papa León XIV en Buenos Aires",
-      "summary": "El papa León XIV celebró en Buenos Aires la misa más multitudinaria de su pontificado. Según el Vaticano, asistieron más de dos millones y medio de personas, y según AFP, más de dos millones. La misa se hizo en el Monumento a los Españoles, en el barrio de Palermo.\n\nEn su homilía, el papa defendió a la familia cristiana como \"un pilar\" frente a las precariedades de la época. Pidió a los padres transmitir la fe a sus hijos con gestos simples. Antes, se reunió con representantes del mundo del trabajo en la Universidad Católica Argentina y habló de pleno empleo e inclusión social.\n\nLa misa fue el primer encuentro masivo de la escala argentina de su viaje latinoamericano. El papa tiene 71 años y se sometió a una cirugía por cáncer de pulmón hace tres semanas, según La Nación.",
+      "id": "ev-0l0j48q",
+      "title": "DNIT eximirá multas e intereses a contribuyentes afectados por Ueno Bank",
+      "summary": "La DNIT habilitará un mecanismo para eximir de multas, recargos e intereses a contribuyentes afectados por la resolución de Ueno Bank. El presidente Pedro Alliana anunció la medida y dio instrucciones al titular de la DNIT, Óscar Orué.\n\nSegún La Nación, unos 45.000 contribuyentes podrían beneficiarse. El mecanismo se aplicará durante todo noviembre y los beneficiarios deberán solicitarlo. También se prevé reprogramar vencimientos.\n\nEl beneficio alcanzaría a quienes pagaron impuestos con la entidad en los últimos tres meses. Podría extenderse a otros contribuyentes que demuestren haber sido perjudicados. Aún falta definir los procedimientos.",
       "keyPoints": [
-        "Más de dos millones de personas asistieron, según AFP.",
-        "El Vaticano informó más de dos millones y medio de asistentes.",
-        "El papa habló de la familia cristiana como pilar.",
-        "La misa se hizo en el Monumento a los Españoles, en Palermo."
+        "Contribuyentes afectados por Ueno Bank no pagarán multas ni intereses, según Alliana.",
+        "Unos 45.000 contribuyentes podrían acceder al beneficio, según La Nación.",
+        "El mecanismo se habilitará durante noviembre y debe solicitarse."
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "politica",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "ia",
       "model": "claude-haiku-5-5",
@@ -649,54 +977,46 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Más de dos millones de personas asisten a misa del papa León XIV",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv",
-          "publishedAt": "2026-11-10T03:09:16.000Z",
-          "image": "https://www.lanacion.com.py/resizer/umsumhrr74wQO6-6DvK8fbFAl9U=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "León XIV da su misa más masiva en Argentina y un firme mensaje al mundo del trabajo",
-          "url": "https://www.abc.com.py/internacionales/2026/11/09/leon-xiv-da-su-misa-mas-masiva-en-argentina-y-un-firme-mensaje-al-mundo-del-trabajo",
-          "publishedAt": "2026-11-10T01:25:13.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Soledad Pastorutti rompió el protocolo en la previa de la misa del papa León XIV",
-          "url": "https://elnacional.com.py/mundo/soledad-pastorutti-rompio-protocolo-previa-misa-papa-leon-xiv-n114984",
-          "publishedAt": "2026-11-09T22:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af23b524c05d.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "León XIV oficia misa ante 2,5 millones de personas y recibe a víctimas de abusos en Buenos Aires",
-          "url": "https://elnacional.com.py/mundo/leon-xiv-oficia-misa-25-millones-personas-recibe-victimas-abusos-buenos-aires-n114983",
-          "publishedAt": "2026-11-09T21:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af2371f5cb31.jpg"
+          "title": "DNIT facilitará el cumplimiento tributario de contribuyentes afectados por la situación de Ueno Bank",
+          "url": "https://www.lanacion.com.py/foco/2026/11/10/dnit-facilitara-el-cumplimiento-tributario-de-contribuyentes-afectados-por-la-situacion-de-ueno-bank",
+          "publishedAt": "2026-11-10T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/sKYmikwNUL-CCeemAJg_ttvsZJ4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4NYE5JIXRRBHTA6YNN7QNBRUOE.jpeg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "La cantante argentina Soledad versionó “Alma misionera” y fue viral",
-          "url": "https://www.lanacion.com.py/lnpop/2026/11/09/la-cantante-argentina-soledad-versiono-alma-misionera-y-fue-viral",
-          "publishedAt": "2026-11-09T20:42:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_134J3LJ7-l1QabeMZEbDI1M1D8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DDT66IDKBFDR3JCOCW7RERKPHI.jpeg"
+          "title": "Caso Ueno: DNIT pretende exonerar multas e intereses a 45.000 aportantes afectados",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caso-ueno-dnit-pretende-exonerar-multas-e-intereses-a-45000-aportantes-afectados",
+          "publishedAt": "2026-11-10T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PX_2a_-MCRmqBn0J2oTw1S4s6DE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRVNUL2FDZBOLEHMU2X74FXVF4.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "DNIT flexibilizará pagos y eliminará multas a afectados por la crisis de Ueno Bank",
+          "url": "https://elnacional.com.py/economia/dnit-flexibilizara-pagos-eliminara-multas-afectados-crisis-ueno-bank-n114966",
+          "publishedAt": "2026-11-09T17:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/02/69879a32cd4ff.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "DNIT pretende exonerar multas e intereses a 45.000 contribuyentes afectados por caso Ueno",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/09/dnit-pretende-exonerar-multas-e-intereses-a-45000-contribuyentes-afectados-por-caso-ueno",
+          "publishedAt": "2026-11-09T14:43:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/50ws1D_Sj3l-NgtA4ne7zIPu-zY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CC4BVXRW5ZD4LBUZDGBEJGNOOE.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YGE5HUMXIZHXZOTYINJDA7IQKM.jpg?auth=9a703114453a1016a3e2feda263af4725b201d293f5367d4b411abab256cbc18&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4NYE5JIXRRBHTA6YNN7QNBRUOE.jpeg?auth=e59d7175327001a4bb87446187ebeeaf6cd4bd08c331db108614935fe1d3cb68&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/10/mas-de-dos-millones-de-personas-asisten-a-misa-del-papa-leon-xiv"
+        "articleUrl": "https://www.lanacion.com.py/foco/2026/11/10/dnit-facilitara-el-cumplimiento-tributario-de-contribuyentes-afectados-por-la-situacion-de-ueno-bank"
       },
       "firstSeenAt": "2026-11-10T04:35:03.675Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
+      "updatedAt": "2026-11-10T12:07:11.423Z",
       "updatedSlot": "manana",
-      "score": 12.09
+      "score": 11.82
     },
     {
       "id": "ev-1g85alo",
@@ -752,7 +1072,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 11.37
+      "score": 11.03
     },
     {
       "id": "ev-01r537q",
@@ -804,59 +1124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 10.67
-    },
-    {
-      "id": "ev-1teuhfc",
-      "title": "Balean a hijo de una comisario en su casa de Presidente Franco",
-      "summary": "Un joven de 25 años fue baleado en su casa del barrio San Blas, en Presidente Franco. Se trata de Brígido Isaac Torres Gamarra, hijo de la comisario principal Esmelda Gamarra. El ataque fue el domingo a las 17:00.\n\nSegún la información policial, el joven estaba sentado en la vereda con su hermana cuando llegaron dos hombres en una moto roja. Uno lo siguió hasta la vivienda y le disparó varias veces. Los autores huyeron. Los datos iniciales indican que actuaron a cara descubierta y que uno de ellos es apodado \"Rapai\".\n\nLa víctima recibió un disparo en el pecho y permanece internada. La Policía investiga el trasfondo del hecho, según El Nacional. No se informó de detenidos.",
-      "keyPoints": [
-        "El joven recibió un disparo en el pecho.",
-        "Los atacantes llegaron en una motocicleta roja.",
-        "La Policía investiga el trasfondo del ataque.",
-        "El hecho ocurrió el domingo a las 17:00."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Sicarios balean a hijo de un comisario en su casa",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/10/sicarios-balean-a-hijo-de-un-comisario-en-su-casa",
-          "publishedAt": "2026-11-10T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/KLMopSdftQK5RK6hnhLVkUFySng=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RGX52AAZWJEUBHEGTVLHQV5KGI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pdte. Franco: motociclistas balearon al hijo de una policía",
-          "url": "https://www.lanacion.com.py/pais/2026/11/09/pdte-franco-motociclistas-balearon-al-hijo-de-una-policia",
-          "publishedAt": "2026-11-09T19:07:50.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GAeBmjnt0A0OZANj7vQHqtcKrg8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ZW3VILJQBBFQFGMPEYJDKQZBWU.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Balean en el pecho a hijo de una comisaria en confuso ataque en Presidente Franco",
-          "url": "https://elnacional.com.py/nacionales/balean-pecho-hijo-una-comisaria-confuso-ataque-presidente-franco-n114961",
-          "publishedAt": "2026-11-09T18:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2024/09/081fd6bf5a77eb98b49c23d1bc9aff7f.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RGX52AAZWJEUBHEGTVLHQV5KGI.jpg?auth=f0a966e85f1b9aa949de53f3d6b2cd5bc50493eb0d8596f98fcfc1f434b1c03c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/10/sicarios-balean-a-hijo-de-un-comisario-en-su-casa"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.33
     },
     {
       "id": "ev-03hzu7x",
@@ -908,7 +1176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1yee52d",
@@ -960,107 +1228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-0l0j48q",
-      "title": "DNIT habilitará exoneración de multas a 45.000 afectados por Ueno",
-      "summary": "La Dirección Nacional de Ingresos Tributarios habilitará una solicitud para dejar sin efecto multas e intereses a contribuyentes afectados por la resolución de Ueno Bank. El mecanismo permitiría pedir la exclusión de responsabilidad durante todo noviembre. Unos 45.000 contribuyentes podrían beneficiarse.\n\nSegún el titular de la DNIT, Óscar Orué, la medida apunta primero a quienes usaron el banco para pagar impuestos en los últimos tres meses y no pudieron cumplir por no tener acceso a sus fondos. El beneficio alcanzaría distintos impuestos, entre ellos el IVA.\n\nTambién se prevé reprogramar vencimientos y facilitar certificados tributarios y timbrados. Las notas aclaran que el alcance podría extenderse a otros contribuyentes que demuestren haber sido perjudicados, y que el mecanismo estará disponible en los próximos días.",
-      "keyPoints": [
-        "La DNIT habilitará una solicitud para exonerar multas e intereses.",
-        "Unos 45.000 contribuyentes afectados por Ueno podrían beneficiarse.",
-        "El beneficio se aplicaría durante todo noviembre e incluiría el IVA.",
-        "También se prevé reprogramar vencimientos."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno: DNIT pretende exonerar multas e intereses a 45.000 aportantes afectados",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caso-ueno-dnit-pretende-exonerar-multas-e-intereses-a-45000-aportantes-afectados",
-          "publishedAt": "2026-11-10T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PX_2a_-MCRmqBn0J2oTw1S4s6DE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TRVNUL2FDZBOLEHMU2X74FXVF4.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "DNIT flexibilizará pagos y eliminará multas a afectados por la crisis de Ueno Bank",
-          "url": "https://elnacional.com.py/economia/dnit-flexibilizara-pagos-eliminara-multas-afectados-crisis-ueno-bank-n114966",
-          "publishedAt": "2026-11-09T17:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/02/69879a32cd4ff.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "DNIT pretende exonerar multas e intereses a 45.000 contribuyentes afectados por caso Ueno",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/09/dnit-pretende-exonerar-multas-e-intereses-a-45000-contribuyentes-afectados-por-caso-ueno",
-          "publishedAt": "2026-11-09T14:43:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/50ws1D_Sj3l-NgtA4ne7zIPu-zY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CC4BVXRW5ZD4LBUZDGBEJGNOOE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TRVNUL2FDZBOLEHMU2X74FXVF4.jpg?auth=df6842a6d2727d44668f9802129590348d56bd61de12b40100b57fee8bbef2e7&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/10/caso-ueno-dnit-pretende-exonerar-multas-e-intereses-a-45000-aportantes-afectados"
-      },
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 10.58
-    },
-    {
-      "id": "ev-0o5i6nn",
-      "title": "Fiscalía encontró una bóveda blindada en residencia vinculada a Santiago Peña",
-      "summary": "La Fiscalía encontró una bóveda subterránea en la residencia del expresidente Santiago Peña, en San Bernardino. Los allanamientos se realizaron el domingo en el marco de la causa que investiga un millonario desfalco en Ueno Bank.\n\nSegún las notas, la bóveda estaba debajo de la piscina y tiene puertas blindadas, paredes de hormigón reforzado y un sistema de acceso biométrico. Una nota la describe como de tecnología supuestamente israelí, dato que no está confirmado.\n\nLos medios no informan todavía qué se encontró dentro de la bóveda en los extractos disponibles.",
-      "keyPoints": [
-        "La Fiscalía halló una bóveda en la residencia de Santiago Peña en San Bernardino.",
-        "Los allanamientos se hicieron el domingo en la causa por Ueno Bank.",
-        "La bóveda tiene puertas blindadas y acceso biométrico.",
-        "El origen israelí del sistema de seguridad no está confirmado."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "ia",
-      "model": "claude-haiku-5-5",
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "La mansión y la bóveda de Santiago Peña en San Bernardino",
-          "url": "https://www.telefuturo.com.py/la-mansion-y-la-boveda-de-santiago-pena-en-san-bernardino",
-          "publishedAt": "2026-11-09T17:55:06.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "¿Qué hay dentro de la bóveda en Samber?",
-          "url": "https://www.telefuturo.com.py/que-hay-dentro-de-la-boveda-en-samber",
-          "publishedAt": "2026-11-09T14:30:36.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fiscalía encuentra una bóveda blindada con acceso biométrico en residencia vinculada a Santiago Peña",
-          "url": "https://www.npy.com.py/noticias/nacionales/fiscalia-encuentra-una-boveda-blindada-con-acceso-biometrico-en-residencia-vinculada-a-santiago-pena",
-          "publishedAt": "2026-11-09T10:41:47.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-10T04:35:03.675Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-10T04:35:03.675Z",
-      "updatedSlot": "manana",
-      "score": 9.82
+      "score": 10.24
     },
     {
       "id": "ev-1ii6g3a",
@@ -1103,7 +1271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.37
+      "score": 9.03
     },
     {
       "id": "ev-1w053tx",
@@ -1146,7 +1314,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.35
+      "score": 9.02
     },
     {
       "id": "ev-1ada2z5",
@@ -1189,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.26
+      "score": 8.93
     },
     {
       "id": "ev-0quohse",
@@ -1232,7 +1400,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.83
     },
     {
       "id": "ev-03ledbh",
@@ -1276,7 +1444,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 9.1
+      "score": 8.76
     },
     {
       "id": "ev-1a94ua3",
@@ -1320,7 +1488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.51
     },
     {
       "id": "ev-17wp36p",
@@ -1378,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 7.5
+      "score": 7.17
     },
     {
       "id": "ev-0yrjl6d",
@@ -1422,7 +1590,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 7.11
+      "score": 6.77
     },
     {
       "id": "ev-140o1kp",
@@ -1466,7 +1634,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.69
+      "score": 6.35
     },
     {
       "id": "ev-1ii2935",
@@ -1509,7 +1677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ofsz8g",
@@ -1552,7 +1720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0zz8kat",
@@ -1595,7 +1763,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0mu6c5d",
@@ -1639,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-11mhims",
@@ -1674,7 +1842,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.69
+      "score": 5.35
     },
     {
       "id": "ev-0750a95",
@@ -1707,7 +1875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0di8g4n",
@@ -1740,7 +1908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-09vdnn8",
@@ -1773,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-187vux9",
@@ -1806,7 +1974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0bazx6t",
@@ -1842,7 +2010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-00b5pcl",
@@ -1873,7 +2041,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-12h8ll5",
@@ -1909,7 +2077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-164zm4u",
@@ -1944,7 +2112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0uv7lbo",
@@ -1977,7 +2145,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1r49hmg",
@@ -2010,7 +2178,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1u4t15z",
@@ -2043,7 +2211,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0w9xbwl",
@@ -2079,7 +2247,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.32
     },
     {
       "id": "ev-146fzwm",
@@ -2114,7 +2282,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.67
     },
     {
       "id": "ev-1r3atmh",
@@ -2149,7 +2317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.28
     },
     {
       "id": "ev-0i0o1e2",
@@ -2184,7 +2352,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-1fof1s4",
@@ -2216,7 +2384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.99
+      "score": 2.66
     },
     {
       "id": "ev-0zcbemk",
@@ -2248,7 +2416,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.94
+      "score": 2.61
     },
     {
       "id": "ev-17ac670",
@@ -2280,7 +2448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.46
     },
     {
       "id": "ev-05zvvar",
@@ -2312,7 +2480,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.78
+      "score": 2.45
     },
     {
       "id": "ev-0dx9es0",
@@ -2348,7 +2516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-10T04:35:03.675Z",
       "updatedSlot": "manana",
-      "score": 2.56
+      "score": 2.23
     }
   ],
   "runs": [
@@ -2365,6 +2533,13 @@
       "added": 0,
       "updated": 0,
       "candidates": 16
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-10T12:07:11.423Z",
+      "added": 0,
+      "updated": 10,
+      "candidates": 15
     }
   ]
 }
