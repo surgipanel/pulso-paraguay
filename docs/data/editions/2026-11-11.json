@@ -1,11 +1,435 @@
 {
   "date": "2026-11-11",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-11T08:07:11.518Z",
+  "generatedAt": "2026-11-11T12:07:11.041Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-11wjsjh",
+      "title": "Meteorología anuncia un miércoles con lluvias y tormentas en Paraguay",
+      "summary": "La Dirección de Meteorología pronostica un miércoles cálido a caluroso, con lluvias y ocasionales tormentas eléctricas en gran parte de Paraguay. Actualmente, está bajo alerta el sur del Chaco. En su pronóstico de este miércoles, la Dirección de Meteorología e Hidrología anuncia una jornada cálida a calurosa con cielos mayormente nublados, vientos variables, lluvias dispersas y ocasionales tormentas eléctricas en la mayor parte del territorio paraguayo, incluyendo a Asunción .",
+      "keyPoints": [
+        "La Dirección de Meteorología pronostica un miércoles cálido a caluroso, con lluvias y ocasionales tormentas eléctricas en gran parte de Paraguay.",
+        "En su pronóstico de este miércoles, la Dirección de Meteorología e Hidrología anuncia una jornada cálida a calurosa con cielos mayormente nublados, vientos variables, lluvias dispersas y ocasionales tormentas eléctricas en la mayor parte del territorio…",
+        "De acuerdo con el pronóstico, la temperatura mínima será de 18 °C, mientras que la máxima alcanzará los 27 °C .",
+        "Se prevé fuertes ráfagas de viento y una alta probabilidad de caída de granizo."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Anuncian tormentas fuertes y posible caída de granizos en varias zonas del país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-anuncian-tormentas-fuertes-posible-caida-granizos-varias-zonas-pais-n115058",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2023/12/5482c99226d46189aba7f573e64b3ac2.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ambiente cálido a caluroso y probabilidad de lluvias y tormentas eléctricas",
+          "url": "https://www.adndigital.com.py/ambiente-calido-a-caluroso-y-probabilidad-de-lluvias-y-tormentas-electricas",
+          "publishedAt": "2026-11-11T09:44:51.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/06/lluvia.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pronostican lluvias y tormentas para este miércoles en Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/11/11/pronostican-lluvias-y-tormentas-para-este-miercoles-en-ciudad-del-este",
+          "publishedAt": "2026-11-11T09:43:57.000Z",
+          "image": "https://www.abc.com.py/resizer/t4ccggRN-O5FeqcQJyur6LovSsk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RDJHQTQT6BDTPHKZGZHN2APL7I.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Alerta por tormentas: anuncian lluvias intensas y ráfagas de hasta 90 km/h",
+          "url": "https://www.npy.com.py/noticias/nacionales/alerta-por-tormentas-anuncian-lluvias-intensas-y-rafagas-de-hasta-90-km-h",
+          "publishedAt": "2026-11-11T09:39:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Persistirá el calor en la jornada, pero con tiempo inestable",
+          "url": "https://www.lanacion.com.py/pais/2026/11/11/persistira-el-calor-en-la-jornada-pero-con-tiempo-inestable",
+          "publishedAt": "2026-11-11T09:36:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/i6ViCdyD84iL0nL7KFrp5A1q80I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CEQHNSLPMNDULJQK3EORLAGKJE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Meteorología anuncia un miércoles con lluvias y tormentas en Paraguay",
+          "url": "https://www.ultimahora.com/meteorologia-anuncia-un-miercoles-con-lluvias-y-tormentas-en-paraguay",
+          "publishedAt": "2026-11-11T09:34:40.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Clima en Paraguay: miércoles con lluvias, alerta de tormentas y granizo",
+          "url": "https://www.abc.com.py/clima/2026/11/11/clima-en-paraguay-miercoles-con-lluvias-alerta-de-tormentas-y-granizo",
+          "publishedAt": "2026-11-11T08:25:36.000Z",
+          "image": "https://www.abc.com.py/resizer/B0fDR_Thk3Ta1FYcpyQSVHxfEo4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SASQ4OWNNZGBRHVJSX7MKUXY54.jfif"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lluvias dispersas y tormentas para hoy",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/lluvias-dispersas-y-tormentas-para-hoy",
+          "publishedAt": "2026-11-11T08:20:04.900Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg?auth=0458f616e836adcef70f48520e49df8688f70fa9a943943d9cd3689251d16638&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Miércoles inestable: advierten sobre lluvias intensas y tormentas eléctricas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/10/miercoles-inestable-advierten-sobre-lluvias-intensas-y-tormentas-electricas",
+          "publishedAt": "2026-11-10T23:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vZ5Mpklo_ry81TR7H8CYhiwnizI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alertan sobre fuertes tormentas con vientos de hasta 90 km/h y caída de granizos",
+          "url": "https://elnacional.com.py/nacionales/alertan-sobre-fuertes-tormentas-vientos-90-kmh-caida-granizos-n115043",
+          "publishedAt": "2026-11-10T20:41:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2023/12/5482c99226d46189aba7f573e64b3ac2.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/nacionales/clima-paraguay-anuncian-tormentas-fuertes-posible-caida-granizos-varias-zonas-pais-n115058"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 26.85
+    },
+    {
+      "id": "ev-0h5jyn9",
+      "title": "Tribunal de Conducta expulsa a Peña de la ANR",
+      "summary": "El Tribunal de Conducta de la Asociación Nacional Republicana (ANR) resolvió este 10 de noviembre la expulsión de Santiago Peña de las filas del coloradismo. La decisión quedó asentada en la Resolución T.C. N.º 10/2026 y se fundamenta en el juicio político del pasado 6 de noviembre, que lo declaró culpable por mal desempeño de funciones.",
+      "keyPoints": [
+        "El Tribunal de Conducta de la Asociación Nacional Republicana (ANR) resolvió este 10 de noviembre la expulsión de Santiago Peña de las filas del coloradismo.",
+        "La medida responde de manera directa al juicio político llevado a cabo el pasado 6 de noviembre por el Congreso Nacional.",
+        "El presidente de la República, Pedro Alliana, dio por terminadas las funciones de Carlos Fernández Valdovinos y Claudia María de la Paz Centurión Rodríguez como miembros del Consejo de Administración de Itaipú Binacional, mediante el Decreto…",
+        "El Tribunal de Conducta de la ANR expulsó de sus filas al ex presidente Santiago Peña; el Tribunal de Apelación agrega tres cargos más a Miguel Vázquez y ratifica su prisión en caso ueno bank y…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Expulsado de ANR, más delitos de Vázquez y Fernández Valdovinos en la mira",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-expulsado-de-anr-mas-delitos-de-vazquez-y-fernandez-valdovinos-en-la-mira",
+          "publishedAt": "2026-11-11T09:19:53.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Remueven a Fernández Valdovinos y a Claudia Centurión",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/remueven-a-fernandez-valdovinos-y-a-claudia-centurion",
+          "publishedAt": "2026-11-11T03:54:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_PUb5irNVC-fO8TPktT6mmv18tQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KO62NIBGBVBS3GUXJZ7V7REVE4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tribunal de Conducta de la ANR oficializa la expulsión de Peña",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/tribunal-de-conducta-de-la-anr-oficializa-la-expulsion-de-pena",
+          "publishedAt": "2026-11-11T03:50:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/lLnBzTW55dlTLZvleR_WecTmL0A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2FY45EGLAJGAFLLEJNXUBZR6KM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Tribunal de Conducta de la ANR expulsa a Santiago Peña del Partido Colorado",
+          "url": "https://www.adndigital.com.py/tribunal-de-conducta-de-la-anr-expulsa-a-santiago-pena-del-partido-colorado",
+          "publishedAt": "2026-11-10T21:28:19.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-175836.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Incautan documentos, computadoras y grabaciones de la casa de Fernández Valdovinos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/incautan-documentos-computadoras-y-grabaciones-de-la-casa-de-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T21:28:03.325Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ETA6HOQ3ZNBEHNW7C75ESNSM7U.jpeg?auth=51310d98d20c56b66242ccc9a7f1c3ed0a0ad2c44569b02cf26f9dbe70cc2efb&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tribunal de Conducta expulsa a Peña de la ANR",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/tribunal-de-conducta-expulsa-a-pena-de-la-anr",
+          "publishedAt": "2026-11-10T21:24:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/D_Q0C8XEWutK6YqykyebjJrhhDM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/V2FPYIHOORHNFAE7DE6AKALT3Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo remueve a dos consejeros y acepta la renuncia de otros dos de Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/ejecutivo-remueve-a-dos-consejeros-y-acepta-la-renuncia-de-otros-dos-de-itaipu",
+          "publishedAt": "2026-11-10T21:19:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0eBMBOs91LWWLsJONra648JQokY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7YCEHSPJJBBBVMOZSBBVOGMHTY.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Expulsado: Peña deja de ser colorado después de 10 años",
+          "url": "https://elnacional.com.py/politica/expulsado-pena-deja-ser-colorado-despues-10-anos-n115045",
+          "publishedAt": "2026-11-10T20:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af385111351e.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana remueve a cuatro figuras del gobierno de Peña del Consejo de Itaipú",
+          "url": "https://www.adndigital.com.py/alliana-remueve-a-cuatro-figuras-del-gobierno-de-pena-del-consejo-de-itaipu",
+          "publishedAt": "2026-11-10T20:27:52.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-172626.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana remueve a Fernández Valdovinos y a Centurión del Consejo de Itaipú",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/alliana-remueve-a-fernandez-valdovinos-y-a-centurion-del-consejo-de-itaipu",
+          "publishedAt": "2026-11-10T20:21:02.008Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/55R3SO4E7ZA4XDPPGKVS67AEMQ.jfif?auth=3f8a23fb0c479cb65d83593220aedc07faee687afe4f850f3e0031688bcd50e7&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ueno Bank: Fiscalía busca evidencias en la vivienda de Carlos Fernández Valdovinos",
+          "url": "https://www.adndigital.com.py/ueno-bank-fiscalia-busca-evidencias-en-la-vivienda-de-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T19:32:30.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-11-at-101309.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan la vivienda de Carlos Fernández Valdovinos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/allanan-la-vivienda-de-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T19:32:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/PiWMIo3RzIzhy-kwOs36PuZVnx4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CRAGUNQDVJAOVLKO3OXBCCT5QY.JPG"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía allana vivienda de Fernández Valdovinos por escándalo de Ueno Bank",
+          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-fernandez-valdovinos-escandalo-ueno-bank-n115036",
+          "publishedAt": "2026-11-10T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69cbf3a98b44b.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanan la vivienda del exministro Carlos Fernández Valdovinos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/allanan-la-vivienda-del-exministro-carlos-fernandez-valdovinos",
+          "publishedAt": "2026-11-10T18:47:23.285Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MBMJCO2GQ5AM3N3BHSTKGTIH3I.jpg?auth=f3d8ef2bdfa51699db2beec63cd7e353b3b9c4ea67bc8e1f83086d65e90e36df&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Allanaron la vivienda de Fernández Valdovinos y fue desvinculado del Consejo de Itaipú",
+          "url": "https://5dias.com.py/article/allanaron-la-vivienda-de-fernndez-valdovinos-y-fue-desvinculado-del-consejo-de-itaip",
+          "publishedAt": "2026-11-10T17:32:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/518087522_1157469609742268_1063715640956342606_n_20261110_163410.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/V2FPYIHOORHNFAE7DE6AKALT3Q.jpg?auth=72d7a6244ac2eee51a46419f78c730bfe826d95046c52a56eeb08244ec22be30&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/tribunal-de-conducta-expulsa-a-pena-de-la-anr"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 23.77
+    },
+    {
+      "id": "ev-09i7jr4",
+      "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
+      "summary": "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las diligencias realizadas en el inmueble.",
+      "keyPoints": [
+        "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las…",
+        "La comitiva fiscal y policial retomó el procedimiento en la vivienda de verano del expresidente, ubicada en San Bernardino.",
+        "La titular de la Secretaría Nacional de Administración de Bienes Incautados y Comisados (Senabico), Teresa Rojas, confirmó que ya se encuentra realizando el inventario de la propiedad ubicada en Samber de Santiago Peña para ofertarla en…",
+        "Luego del allanamiento realizado ayer en el domicilio de Santiago Peña en San Bernardino, se descubrió que la bóveda era una habitación de pánico (espacio de seguridad para casos de peligro)."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Senabico alista alquiler de la mansión en San Bernardino y la venta de autos de lujo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/senabico-alista-alquiler-de-la-mansion-en-san-bernardino-y-la-venta-de-autos-de-lujo",
+          "publishedAt": "2026-11-11T11:56:55.673Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/LAHSUQIR3BBOJCNWHQNSVFVH4I.jpg?auth=6f1f74af46d3494d8bb63adbe7362d5a1897f97bc3368ec6bbc4fe14f652bc02&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Mansión de San Ber pasa a la Senabico que buscará alquilarla",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/mansion-de-san-ber-pasa-a-la-senabico-que-buscara-alquilarla",
+          "publishedAt": "2026-11-11T10:37:11.822Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PMB6K2LZZJDRNEQG6QUNCISTZU.jpg?auth=ddd6f01f8deae91cfc16e7625323f4e63b0260ad30554e408215accc71ec7dc9&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ordenan embargo y bloqueo de ocho propiedades ligadas a Peña en San Bernardino",
+          "url": "https://www.abc.com.py/policiales/2026/11/10/ordenan-embargo-y-bloqueo-de-ocho-propiedades-ligadas-a-santiago-pena-en-san-bernardino",
+          "publishedAt": "2026-11-10T23:50:52.000Z",
+          "image": "https://www.abc.com.py/resizer/NMxJZuicxZWxZMSYKsUUS18yiHI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FV67PXHMIFEVHAXXFAL4ZP2LDI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan una “sala de pánico” perteneciente a Peña en San Bernardino",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/10/allanan-una-sala-de-panico-perteneciente-a-pena-en-san-bernardino",
+          "publishedAt": "2026-11-10T19:38:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VwlrwKeG6qksger0Pkea5uLq68Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLQ7VZQB7VG5VFF4WZNXOGFRW4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Abren bóveda de mansión de Peña, pero no encuentran dinero ni objetos de valor",
+          "url": "https://www.adndigital.com.py/abren-boveda-de-mansion-de-pena-pero-no-encuentran-dinero-ni-objetos-de-valor",
+          "publishedAt": "2026-11-10T19:27:18.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
+          "url": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035",
+          "publishedAt": "2026-11-10T18:27:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Sin explosivos ni demolición: Fiscalía busca abrir la bóveda secreta de la mansión de Peña",
+          "url": "https://elnacional.com.py/politica/sin-explosivos-ni-demolicion-fiscalia-busca-abrir-boveda-secreta-mansion-pena-n115019",
+          "publishedAt": "2026-11-10T15:07:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af33109183c7.webp"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 20.99
+    },
+    {
+      "id": "ev-14if6cw",
+      "title": "Alliana ordena a ministros tolerancia cero a la corrupción y trabajo en equipo y austeridad",
+      "summary": "Alliana ordena a ministros tolerancia cero a la corrupción y gestión basada en equipo y austeridad Alliana pidió a su gabinete una buena gestión en sus funciones poniendo énfasis en una política austera y cero corrupción. Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana.",
+      "keyPoints": [
+        "Alliana ordena a ministros tolerancia cero a la corrupción y gestión basada en equipo y austeridad",
+        "Alliana pidió a su gabinete una buena gestión en sus funciones poniendo énfasis en una política austera y cero corrupción.",
+        "Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana.",
+        "El ministro de Salud, Isaías Fretes, ordenó auditorías a la licitación y los pagos a la empresa del hermano de Peña, además de cambios financieros y medidas para garantizar medicamentos."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fretes anuncia auditorías y cambios en Salud para revisar gestiones anteriores",
+          "url": "https://elnacional.com.py/nacionales/fretes-anuncia-auditorias-cambios-salud-revisar-gestiones-anteriores-n115055",
+          "publishedAt": "2026-11-11T09:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/09/6ab26e1d91ce9.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Mandatario ordena a ministros tolerancia cero a corrupción",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/mandatario-ordena-a-ministros-tolerancia-cero-a-corrupcion",
+          "publishedAt": "2026-11-11T04:34:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/wBNnQ7wXRfMc1nccBq2gJfEEBdE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4A7ABE6ZMNFQHON3CIJR4RU3PM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "“Cero tolerancia a la corrupción”: advierte Alliana en reunión con ministros",
+          "url": "https://www.abc.com.py/politica/2026/11/10/cero-tolerancia-a-la-corrupcion-advierte-alliana-en-reunion-con-ministros",
+          "publishedAt": "2026-11-10T23:48:38.000Z",
+          "image": "https://www.abc.com.py/resizer/orWX0DJ_7BqqKSbrMEmcmKel2ck=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SM6O6WC4ZVBSDIKVWY6FY36ZC4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana ordena austeridad y advierte que habrá “cero tolerancia” a la corrupción",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/alliana-ordena-austeridad-y-advierte-que-habra-cero-tolerancia-a-la-corrupcion",
+          "publishedAt": "2026-11-10T18:46:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif?auth=0a335ae1d353ef38848088ca654631c5cfb11a0767e3ad9eb4a520245356aa38&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana ordena a ministros tolerancia cero a la corrupción y trabajo en equipo y austeridad",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-a-ministros-tolerancia-cero-a-corrupcion-y-trabajo-basado-en-equipo-y-austeridad",
+          "publishedAt": "2026-11-10T18:43:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-2M0LXMs7sBxr7hgSiDPRSMm2m0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana ordena dotar de medicamentos a los hospitales y cero corrupción, narran ministros",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-dotar-de-medicamentos-a-los-hospitales-y-cero-corrupcion-narran-ministros",
+          "publishedAt": "2026-11-10T16:09:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GiU8owlx6K2lGZ0UoHEopO4WlXU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3SQUPZ6MTBEV7A4KW3J55KKLS4.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fretes ordena auditorías y cambios en Salud tras pago de Gs. 2.453 millones a empresa del hermano de Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/fretes-ordena-auditorias-y-cambios-en-salud-tras-pago-de-gs-2-453-millones-a-empresa-del-hermano-de-pena",
+          "publishedAt": "2026-11-10T15:33:07.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif?auth=0a335ae1d353ef38848088ca654631c5cfb11a0767e3ad9eb4a520245356aa38&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-a-ministros-tolerancia-cero-a-corrupcion-y-trabajo-basado-en-equipo-y-austeridad"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 20.75
+    },
     {
       "id": "ev-1224s83",
       "title": "Caso Ueno: agravan cargos contra Miguel Vázquez y ratifican su prisión",
@@ -80,115 +504,134 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 20.72
+      "score": 20.39
     },
     {
-      "id": "ev-0h5jyn9",
-      "title": "Allanan la vivienda de Carlos Fernández Valdovinos",
-      "summary": "Agentes del Ministerio Público se trasladaron hasta la residencia del exministro de Economía y actual consejero de la Itaipú Binacional, Carlos Fernández Valdovinos. Los intervinientes estarían buscando documentos y otras evidencias, en el marco de las investigaciones sobre ueno bank.",
+      "id": "ev-16w0mxm",
+      "title": "Tomate paraguayo llega al mercado argentino con un envío de 28.000 kilos",
+      "summary": "La producción hortícola nacional comienza a ganar espacio en nuevos destinos comerciales. Un cargamento de 28.000 kilos de tomate paraguayo, procedente de la colonia Blas Garay, fue enviado al mercado de Córdoba, Argentina, en una operación que representa una nueva oportunidad para los productores locales.",
       "keyPoints": [
-        "Agentes del Ministerio Público se trasladaron hasta la residencia del exministro de Economía y actual consejero de la Itaipú Binacional, Carlos Fernández Valdovinos.",
-        "Agentes del Ministerio Público intervienen en este momento el domicilio de la exautoridad del Ministerio de Economía y Finanzas.",
-        "El presidente de la República, Pedro Alliana, dio por terminadas las funciones de Carlos Fernández Valdovinos y Claudia María de la Paz Centurión Rodríguez como miembros del Consejo de Administración de Itaipú Binacional, mediante el Decreto…",
-        "Una comitiva del Ministerio Público y de la Policía Nacional allanó este martes la vivienda del exministro de Economía y Finanzas, Carlos Fernández Valdovinos, en el marco de las investigaciones por el colapso de Ueno Bank."
+        "La producción hortícola nacional comienza a ganar espacio en nuevos destinos comerciales.",
+        "La producción tomatera de la colonia Blas Garay concretó su primer envío a Córdoba, Argentina, con 28.000 kilos comercializados por G. 140 millones, abriendo nuevas oportunidades para los productores nacionales en el mercado regional.",
+        "En el mes octubre de este año, el MAG dio un paso histórico para el sector productivo nacional con el envío del primer cargamento de 28.000 kilogramos de tomate paraguayo con destino al mercado de Brasil."
       ],
-      "category": "politica",
+      "category": "economia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Remueven a Fernández Valdovinos y a Claudia Centurión",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/remueven-a-fernandez-valdovinos-y-a-claudia-centurion",
-          "publishedAt": "2026-11-11T03:54:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_PUb5irNVC-fO8TPktT6mmv18tQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KO62NIBGBVBS3GUXJZ7V7REVE4.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Incautan documentos, computadoras y grabaciones de la casa de Fernández Valdovinos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/incautan-documentos-computadoras-y-grabaciones-de-la-casa-de-fernandez-valdovinos",
-          "publishedAt": "2026-11-10T21:28:03.325Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ETA6HOQ3ZNBEHNW7C75ESNSM7U.jpeg?auth=51310d98d20c56b66242ccc9a7f1c3ed0a0ad2c44569b02cf26f9dbe70cc2efb&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo remueve a dos consejeros y acepta la renuncia de otros dos de Itaipú",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/ejecutivo-remueve-a-dos-consejeros-y-acepta-la-renuncia-de-otros-dos-de-itaipu",
-          "publishedAt": "2026-11-10T21:19:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0eBMBOs91LWWLsJONra648JQokY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7YCEHSPJJBBBVMOZSBBVOGMHTY.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Alliana remueve a cuatro figuras del gobierno de Peña del Consejo de Itaipú",
-          "url": "https://www.adndigital.com.py/alliana-remueve-a-cuatro-figuras-del-gobierno-de-pena-del-consejo-de-itaipu",
-          "publishedAt": "2026-11-10T20:27:52.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-172626.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alliana remueve a Fernández Valdovinos y a Centurión del Consejo de Itaipú",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/alliana-remueve-a-fernandez-valdovinos-y-a-centurion-del-consejo-de-itaipu",
-          "publishedAt": "2026-11-10T20:21:02.008Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/55R3SO4E7ZA4XDPPGKVS67AEMQ.jfif?auth=3f8a23fb0c479cb65d83593220aedc07faee687afe4f850f3e0031688bcd50e7&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ueno Bank: Fiscalía busca evidencias en la vivienda de Carlos Fernández Valdovinos",
-          "url": "https://www.adndigital.com.py/ueno-bank-fiscalia-busca-evidencias-en-la-vivienda-de-carlos-fernandez-valdovinos",
-          "publishedAt": "2026-11-10T19:32:30.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/whatsapp-image-2025-05-11-at-101309.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan la vivienda de Carlos Fernández Valdovinos",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/allanan-la-vivienda-de-carlos-fernandez-valdovinos",
-          "publishedAt": "2026-11-10T19:32:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/PiWMIo3RzIzhy-kwOs36PuZVnx4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CRAGUNQDVJAOVLKO3OXBCCT5QY.JPG"
-        },
-        {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
-          "title": "Fiscalía allana vivienda de Fernández Valdovinos por escándalo de Ueno Bank",
-          "url": "https://elnacional.com.py/politica/fiscalia-allana-vivienda-fernandez-valdovinos-escandalo-ueno-bank-n115036",
-          "publishedAt": "2026-11-10T19:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/03/69cbf3a98b44b.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Allanan la vivienda del exministro Carlos Fernández Valdovinos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/allanan-la-vivienda-del-exministro-carlos-fernandez-valdovinos",
-          "publishedAt": "2026-11-10T18:47:23.285Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MBMJCO2GQ5AM3N3BHSTKGTIH3I.jpg?auth=f3d8ef2bdfa51699db2beec63cd7e353b3b9c4ea67bc8e1f83086d65e90e36df&width=1200&height=630&smart=true"
+          "title": "Envío de 28.000 kilos de tomate nacional a al Argentina genera G. 140 millones",
+          "url": "https://elnacional.com.py/economia/envio-28000-kilos-tomate-nacional-argentina-genera-g-140-millones-n115047",
+          "publishedAt": "2026-11-11T10:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a623f2524b50.jpeg"
         },
         {
           "sourceId": "5dias",
           "sourceName": "5Días",
-          "title": "Allanaron la vivienda de Fernández Valdovinos y fue desvinculado del Consejo de Itaipú",
-          "url": "https://5dias.com.py/article/allanaron-la-vivienda-de-fernndez-valdovinos-y-fue-desvinculado-del-consejo-de-itaip",
-          "publishedAt": "2026-11-10T17:32:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/518087522_1157469609742268_1063715640956342606_n_20261110_163410.jpg"
+          "title": "Tomate paraguayo llega al mercado argentino con un envío de 28.000 kilos",
+          "url": "https://5dias.com.py/article/tomate-paraguayo-llega-al-mercado-argentino-con-un-envo-de-28000-kilos",
+          "publishedAt": "2026-11-11T08:21:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/descarga_4_20261111_082641.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Tomate nacional llega al mercado de Córdoba con un primer envío de 28.000 kilos",
+          "url": "https://www.adndigital.com.py/tomate-nacional-llega-al-mercado-de-cordoba-con-un-primer-envio-de-28-000-kilos",
+          "publishedAt": "2026-11-10T19:05:14.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-160343.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tomate paraguayo llega por primera vez al mercado de Córdoba con un envío de 28.000 kilos",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/10/tomate-paraguayo-llega-por-primera-vez-al-mercado-de-cordoba-con-un-envio-de-28000-kilos",
+          "publishedAt": "2026-11-10T18:18:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/sle-zF_3BV0CQFGpEbZ_UG8BMs0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HUFXVEUR6NE7LLMFJIBW7UGZTM.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CRAGUNQDVJAOVLKO3OXBCCT5QY.JPG?auth=321db64c89bb60ae1ca525c9fb1bed67384cc42d53c4e873c6738ee07ffe2180&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/allanan-la-vivienda-de-carlos-fernandez-valdovinos"
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/descarga_4_20261111_082641.jpg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/tomate-paraguayo-llega-al-mercado-argentino-con-un-envo-de-28000-kilos"
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 20.65
+      "score": 17.88
+    },
+    {
+      "id": "ev-07mx4lq",
+      "title": "Qué pasó con el dinero de Ueno Bank y cuánto falta recuperar",
+      "summary": "El Banco Central de Paraguay (BCP) devolvió parcialmente ahorros a más de 1,78 millones de clientes de Ueno Bank, cuyo colapso precipitó la caída del presidente Santiago Peña, pero la mayor parte del dinero depositado sigue sin aparecer. El presidente, Pedro Alliana, informó que 1.740.000 ahorristas de Ueno Bank, casi el 95% de los afectados, ya recuperaron sus depósitos y anunció que el pago restante concluirá este miércoles, mientras que la recuperación de los fondos previsionales será prioridad del Gobierno.",
+      "keyPoints": [
+        "El Banco Central de Paraguay (BCP) devolvió parcialmente ahorros a más de 1,78 millones de clientes de Ueno Bank, cuyo colapso precipitó la caída del presidente Santiago Peña, pero la mayor parte del dinero depositado sigue…",
+        "El presidente, Pedro Alliana, informó que 1.740.000 ahorristas de Ueno Bank, casi el 95% de los afectados, ya recuperaron sus depósitos y anunció que el pago restante concluirá este miércoles, mientras que la recuperación de los…",
+        "El Fondo de Garantía de Depósitos ya desembolsó cerca de USD 350 millones para cubrir a más de 1,7 millones de depositantes, pero los certificados de depósito de ahorro (CDA) todavía requieren verificaciones adicionales.",
+        "El presidente Pedro Alliana aseguró que las instituciones siguen trabajando para responder a los afectados."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Qué pasó con el dinero de Ueno Bank y cuánto falta recuperar",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/que-paso-con-el-dinero-de-ueno-bank-y-cuanto-falta-recuperar",
+          "publishedAt": "2026-11-11T08:46:06.133Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/K7XJ4UZDLFD4FDMOTELAUVU3EM.jpg?auth=fbdbbfb268bd19dd85c5d9a73c30a5b232c212ce985b8d464cff6600a45ebd91&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "CDA y fondos mutuos: ¿cómo podrán recuperar su dinero los clientes de Ueno?",
+          "url": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016",
+          "publishedAt": "2026-11-10T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tranquilidad para ahorristas: Alliana anuncia que el 95% ya recibió sus fondos de ueno bank",
+          "url": "https://elnacional.com.py/politica/tranquilidad-ahorristas-alliana-anuncia-95-ya-recibio-sus-fondos-ueno-bank-n115031",
+          "publishedAt": "2026-11-10T18:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af349ed3a72d.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Devolución de ahorros de Ueno Bank: casi el 95% de los ahorristas ya recibió su dinero, anuncia el Gobierno",
+          "url": "https://www.npy.com.py/noticias/nacionales/devolucion-de-ahorros-de-ueno-bank-casi-el-95-de-los-ahorristas-ya-recibio-su-dinero-anuncia-el-gobierno",
+          "publishedAt": "2026-11-10T17:17:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana anuncia que se llegó al 95 % de ahorristas con el pago",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-anuncia-que-se-llego-al-95-de-ahorristas-con-el-pago",
+          "publishedAt": "2026-11-10T16:58:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XiFbzaEvrmGTaU8qhrX5H2LQVxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2025/12/693ac4002fd3f.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/cda-fondos-mutuos-como-podran-recuperar-su-dinero-clientes-ueno-n115016"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 17.72
     },
     {
       "id": "ev-16h1hc4",
@@ -254,135 +697,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 17.64
-    },
-    {
-      "id": "ev-09i7jr4",
-      "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
-      "summary": "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las diligencias realizadas en el inmueble.",
-      "keyPoints": [
-        "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las…",
-        "La comitiva fiscal y policial retomó el procedimiento en la vivienda de verano del expresidente, ubicada en San Bernardino.",
-        "La Fiscalía consiguió acceder este martes a la habitación blindada de la residencia de Santiago Peña, ubicada en San Bernardino, luego de superar el sistema de seguridad que había impedido completar el procedimiento durante el primer…",
-        "La comitiva fiscal -encabeza por Silvia González- confirmó durante el allanamiento realizado en la quinta de San Bernardino que la habitación de Santiago Peña, a la que señalaron como una bóveda fue abierta y estaba vacía."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ordenan embargo y bloqueo de ocho propiedades ligadas a Peña en San Bernardino",
-          "url": "https://www.abc.com.py/policiales/2026/11/10/ordenan-embargo-y-bloqueo-de-ocho-propiedades-ligadas-a-santiago-pena-en-san-bernardino",
-          "publishedAt": "2026-11-10T23:50:52.000Z",
-          "image": "https://www.abc.com.py/resizer/NMxJZuicxZWxZMSYKsUUS18yiHI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FV67PXHMIFEVHAXXFAL4ZP2LDI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan una “sala de pánico” perteneciente a Peña en San Bernardino",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/10/allanan-una-sala-de-panico-perteneciente-a-pena-en-san-bernardino",
-          "publishedAt": "2026-11-10T19:38:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/VwlrwKeG6qksger0Pkea5uLq68Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLQ7VZQB7VG5VFF4WZNXOGFRW4.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Abren bóveda de mansión de Peña, pero no encuentran dinero ni objetos de valor",
-          "url": "https://www.adndigital.com.py/abren-boveda-de-mansion-de-pena-pero-no-encuentran-dinero-ni-objetos-de-valor",
-          "publishedAt": "2026-11-10T19:27:18.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía abre la bóveda de la mansión de Santiago Peña: estaba vacía",
-          "url": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035",
-          "publishedAt": "2026-11-10T18:27:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Sin explosivos ni demolición: Fiscalía busca abrir la bóveda secreta de la mansión de Peña",
-          "url": "https://elnacional.com.py/politica/sin-explosivos-ni-demolicion-fiscalia-busca-abrir-boveda-secreta-mansion-pena-n115019",
-          "publishedAt": "2026-11-10T15:07:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af33109183c7.webp"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af1c9471751d.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fiscalia-abre-boveda-mansion-santiago-pena-estaba-vacia-n115035"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
       "score": 17.31
-    },
-    {
-      "id": "ev-14if6cw",
-      "title": "Alliana ordena a ministros tolerancia cero a la corrupción y trabajo en equipo y austeridad",
-      "summary": "Alliana ordena a ministros tolerancia cero a la corrupción y gestión basada en equipo y austeridad El presidente de la República, Pedro Alliana, ordenó a los ministros del Poder Ejecutivo trabajar en equipo, con austeridad y bajo una política de cero tolerancia a la corrupción.",
-      "keyPoints": [
-        "Alliana ordena a ministros tolerancia cero a la corrupción y gestión basada en equipo y austeridad",
-        "El presidente de la República, Pedro Alliana, ordenó a los ministros del Poder Ejecutivo trabajar en equipo, con austeridad y bajo una política de cero tolerancia a la corrupción.",
-        "En la tarde de este martes, el presidente de la República, Pedro Alliana, se reunió junto con sus ministros en una mesa de trabajo, en la que también estuvo presente el vicepresidente de la República, Antonio…",
-        "Alliana pidió a su gabinete una buena gestión en sus funciones poniendo énfasis en una política austera y cero corrupción."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mandatario ordena a ministros tolerancia cero a corrupción",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/mandatario-ordena-a-ministros-tolerancia-cero-a-corrupcion",
-          "publishedAt": "2026-11-11T04:34:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/wBNnQ7wXRfMc1nccBq2gJfEEBdE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4A7ABE6ZMNFQHON3CIJR4RU3PM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "“Cero tolerancia a la corrupción”: advierte Alliana en reunión con ministros",
-          "url": "https://www.abc.com.py/politica/2026/11/10/cero-tolerancia-a-la-corrupcion-advierte-alliana-en-reunion-con-ministros",
-          "publishedAt": "2026-11-10T23:48:38.000Z",
-          "image": "https://www.abc.com.py/resizer/orWX0DJ_7BqqKSbrMEmcmKel2ck=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SM6O6WC4ZVBSDIKVWY6FY36ZC4.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alliana ordena austeridad y advierte que habrá “cero tolerancia” a la corrupción",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/alliana-ordena-austeridad-y-advierte-que-habra-cero-tolerancia-a-la-corrupcion",
-          "publishedAt": "2026-11-10T18:46:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif?auth=0a335ae1d353ef38848088ca654631c5cfb11a0767e3ad9eb4a520245356aa38&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana ordena a ministros tolerancia cero a la corrupción y trabajo en equipo y austeridad",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-a-ministros-tolerancia-cero-a-corrupcion-y-trabajo-basado-en-equipo-y-austeridad",
-          "publishedAt": "2026-11-10T18:43:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/-2M0LXMs7sBxr7hgSiDPRSMm2m0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/XNXY4FFOYJBIPM5VOKEWNDW3MY.jfif?auth=0a335ae1d353ef38848088ca654631c5cfb11a0767e3ad9eb4a520245356aa38&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-a-ministros-tolerancia-cero-a-corrupcion-y-trabajo-basado-en-equipo-y-austeridad"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 14.7
     },
     {
       "id": "ev-06cio8x",
@@ -450,7 +765,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 14.7
+      "score": 14.36
+    },
+    {
+      "id": "ev-11pk5b8",
+      "title": "140 cuarteles de bomberos quedan al límite tras la caída de Ueno Bank",
+      "summary": "El Cuerpo de Bomberos Voluntarios del Paraguay recurrió a la Cámara de Diputados para solicitar la aprobación de un proyecto de ley de salvataje financiero que priorice la devolución de G. 2.356 millones procedentes de colectas que permanecen retenidos tras la caída de Ueno Bank.",
+      "keyPoints": [
+        "El Cuerpo de Bomberos Voluntarios del Paraguay recurrió a la Cámara de Diputados para solicitar la aprobación de un proyecto de ley de salvataje financiero que priorice la devolución de G. 2.356 millones procedentes de colectas…",
+        "Miembros del Cuerpo de Bomberos Voluntarios del Paraguay harán una manifestación pacífica este miércoles en reclamo a los fondos institucionales depositados en Ueno Bank."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bomberos se manifestarán frente al Congreso para reclamar sus fondos depositados en Ueno Bank",
+          "url": "https://www.lanacion.com.py/pais/2026/11/11/bomberos-se-manifestaran-frente-al-congreso-para-reclamar-sus-fondos-depositados-en-ueno-bank",
+          "publishedAt": "2026-11-11T09:52:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Q7hO9NugCxLtEEkKSvIoBT8e99M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YKLUG53HLVBLXCGKJVYRNRUI3Y.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Bomberos tienen G. 2.000 millones atrapados en Ueno y piden devolución urgente",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/10/bomberos-voluntarios-tienen-g-2000-millones-atrapados-en-ueno-y-piden-devolucion-urgente",
+          "publishedAt": "2026-11-10T23:59:02.588Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RBY5QWD4SJGGHJFQOXH563X3KE.jpg?auth=7ae6fe95415df077fc92e0dcf3dcea13e1d01c79a8a91380a79cc6fb98a0c391&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "140 cuarteles de bomberos quedan al límite tras la caída de Ueno Bank",
+          "url": "https://www.telefuturo.com.py/140-cuarteles-de-bomberos-quedan-al-limite-tras-la-caida-de-ueno-bank",
+          "publishedAt": "2026-11-10T13:39:25.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YKLUG53HLVBLXCGKJVYRNRUI3Y.jpg?auth=11be485325d34fb61fdbc4f43a0af8795188403ddb2882be358e55d65537860d&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/11/bomberos-se-manifestaran-frente-al-congreso-para-reclamar-sus-fondos-depositados-en-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
+      "updatedSlot": "manana",
+      "score": 13.81
     },
     {
       "id": "ev-1qhnf0g",
@@ -510,7 +875,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.28
     },
     {
       "id": "ev-19azxot",
@@ -561,58 +926,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 13.4
+      "score": 13.07
     },
     {
-      "id": "ev-07mx4lq",
-      "title": "Tranquilidad para ahorristas: Alliana anuncia que el 95% ya recibió sus fondos de ueno bank",
-      "summary": "El presidente informó que se desembolsaron US$ 330 millones del Fondo de Garantía de Depósitos para cubrir a 1.740.000 ahorristas. El pago del porcentaje restante se completará en las próximas horas, mientras que la recuperación de los recursos previsionales será prioritaria.",
+      "id": "ev-0v290q3",
+      "title": "IPS presenta denuncia penal por los fondos colocados en Ueno Bank",
+      "summary": "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales. La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos.",
       "keyPoints": [
-        "El presidente informó que se desembolsaron US$ 330 millones del Fondo de Garantía de Depósitos para cubrir a 1.740.000 ahorristas.",
-        "El presidente, Pedro Alliana, informó que 1.740.000 ahorristas de Ueno Bank, casi el 95% de los afectados, ya recuperaron sus depósitos y anunció que el pago restante concluirá este miércoles, mientras que la recuperación de los…",
-        "El presidente Pedro Alliana aseguró que las instituciones siguen trabajando para responder a los afectados."
+        "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales.",
+        "La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos.",
+        "El Instituto de Previsión Social (IPS) se encuentra inmerso en el proceso de resolución de Ueno Bank, teniendo en cuenta que debe recuperar más de USD 500 millones de la extinta entidad bancaria.",
+        "ASUNCIÓN- La recuperación de los US$ 516 millones que el Instituto de Previsión Social (IPS) tenía depositados en Ueno Bank será difícil, según advirtió Julio López, presidente de la Asociación de Asegurados."
       ],
-      "category": "politica",
+      "category": "tecnologia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Tranquilidad para ahorristas: Alliana anuncia que el 95% ya recibió sus fondos de ueno bank",
-          "url": "https://elnacional.com.py/politica/tranquilidad-ahorristas-alliana-anuncia-95-ya-recibio-sus-fondos-ueno-bank-n115031",
-          "publishedAt": "2026-11-10T18:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af349ed3a72d.jpg"
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Advierten que será difícil recuperar el dinero del IPS en Ueno y piden que el Estado responda",
+          "url": "https://www.adndigital.com.py/advierten-que-sera-dificil-recuperar-el-dinero-del-ips-en-ueno-y-piden-que-el-estado-responda",
+          "publishedAt": "2026-11-11T11:19:33.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
         },
         {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Devolución de ahorros de Ueno Bank: casi el 95% de los ahorristas ya recibió su dinero, anuncia el Gobierno",
-          "url": "https://www.npy.com.py/noticias/nacionales/devolucion-de-ahorros-de-ueno-bank-casi-el-95-de-los-ahorristas-ya-recibio-su-dinero-anuncia-el-gobierno",
-          "publishedAt": "2026-11-10T17:17:42.000Z",
-          "image": null
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "IPS tenía US$ 516 millones en Ueno y busca que responsables respondan con sus bienes",
+          "url": "https://www.adndigital.com.py/ips-tenia-us-516-millones-en-ueno-y-busca-que-responsables-respondan-con-sus-bienes",
+          "publishedAt": "2026-11-11T10:31:34.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Alliana anuncia que se llegó al 95 % de ahorristas con el pago",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-anuncia-que-se-llego-al-95-de-ahorristas-con-el-pago",
-          "publishedAt": "2026-11-10T16:58:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/XiFbzaEvrmGTaU8qhrX5H2LQVxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg"
+          "title": "IPS participa de la resolución de Ueno Bank para recuperar fondos y acciona a nivel penal",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/ips-participa-de-la-resolucion-de-ueno-bank-para-recuperar-fondos-y-acciona-a-nivel-penal",
+          "publishedAt": "2026-11-11T10:23:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xl2Im1qFpOttZjraVFZ8qxzFyl0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5JDAANFNZ5G5PK6677KIT4EW3Q.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "IPS denuncia a directivos de Ueno Bank por los fondos previsionales",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/ips-denuncia-a-directivos-de-ueno-bank-por-los-fondos-previsionales",
+          "publishedAt": "2026-11-11T04:20:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GMyZpxnyEESZ1WWXymZdddjJpbQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DMLQ6BBR2JCLBKGYVU4OCFI6ZA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "IPS presenta denuncia penal por los fondos colocados en Ueno Bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/10/ips-presenta-denuncia-penal-por-los-fondos-colocados-en-ueno-bank",
+          "publishedAt": "2026-11-10T20:30:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tpCbj7cPXADcIDgUH2GMvuu_F10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IE2LYW24ANDHJOONAC7CGE6T7Q.jpg"
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af349ed3a72d.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/tranquilidad-ahorristas-alliana-anuncia-95-ya-recibio-sus-fondos-ueno-bank-n115031"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5JDAANFNZ5G5PK6677KIT4EW3Q.jpeg?auth=4f5dedb535592ad9fe45880bec07352bc46106f7153277a203a8e9c3cf5e3059&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/11/ips-participa-de-la-resolucion-de-ueno-bank-para-recuperar-fondos-y-acciona-a-nivel-penal"
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 12.82
+      "score": 11.93
     },
     {
       "id": "ev-0gpw28w",
@@ -663,7 +1045,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 10.48
+      "score": 10.14
     },
     {
       "id": "ev-1g0ja2o",
@@ -714,7 +1096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 10.15
+      "score": 9.82
     },
     {
       "id": "ev-1sa08a4",
@@ -765,7 +1147,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.66
     },
     {
       "id": "ev-17sren9",
@@ -807,7 +1189,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.63
+      "score": 9.3
     },
     {
       "id": "ev-0zdwlk9",
@@ -849,7 +1231,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.37
+      "score": 9.03
     },
     {
       "id": "ev-1mzt14s",
@@ -891,91 +1273,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.35
-    },
-    {
-      "id": "ev-11pk5b8",
-      "title": "Bomberos tienen G. 2.000 millones atrapados en Ueno y piden devolución urgente",
-      "summary": "Un proyecto de resolución presentado en la Cámara de Diputados insta al Banco Central del Paraguay (BCP) a gestionar la devolución prioritaria de unos G. 2.000 millones pertenecientes al Cuerpo de Bomberos Voluntarios del Paraguay (CBVP), que permanecen inmovilizados en Ueno Bank.",
-      "keyPoints": [
-        "Un proyecto de resolución presentado en la Cámara de Diputados insta al Banco Central del Paraguay (BCP) a gestionar la devolución prioritaria de unos G. 2.000 millones pertenecientes al Cuerpo de Bomberos Voluntarios del Paraguay (CBVP)…",
-        "El Cuerpo de Bomberos Voluntarios del Paraguay recurrió a la Cámara de Diputados para solicitar la aprobación de un proyecto de ley de salvataje financiero que priorice la devolución de G. 2.356 millones procedentes de colectas…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Bomberos tienen G. 2.000 millones atrapados en Ueno y piden devolución urgente",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/10/bomberos-voluntarios-tienen-g-2000-millones-atrapados-en-ueno-y-piden-devolucion-urgente",
-          "publishedAt": "2026-11-10T23:59:02.588Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RBY5QWD4SJGGHJFQOXH563X3KE.jpg?auth=7ae6fe95415df077fc92e0dcf3dcea13e1d01c79a8a91380a79cc6fb98a0c391&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "140 cuarteles de bomberos quedan al límite tras la caída de Ueno Bank",
-          "url": "https://www.telefuturo.com.py/140-cuarteles-de-bomberos-quedan-al-limite-tras-la-caida-de-ueno-bank",
-          "publishedAt": "2026-11-10T13:39:25.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/RBY5QWD4SJGGHJFQOXH563X3KE.jpg?auth=7ae6fe95415df077fc92e0dcf3dcea13e1d01c79a8a91380a79cc6fb98a0c391&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/10/bomberos-voluntarios-tienen-g-2000-millones-atrapados-en-ueno-y-piden-devolucion-urgente"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 9.32
-    },
-    {
-      "id": "ev-11wjsjh",
-      "title": "Alertan sobre fuertes tormentas con vientos de hasta 90 km/h y caída de granizos",
-      "summary": "La Dirección de Meteorología e Hidrología emitió un boletín especial ante la llegada de un sistema de tormentas que afectará a gran parte del territorio nacional este miércoles 11 de noviembre. Se prevén lluvias intensas, fuertes ráfagas de viento, caída de granizos y frecuentes descargas eléctricas, con condiciones especialmente severas en varios departamentos.",
-      "keyPoints": [
-        "La Dirección de Meteorología e Hidrología emitió un boletín especial ante la llegada de un sistema de tormentas que afectará a gran parte del territorio nacional este miércoles 11 de noviembre.",
-        "Se prevé fuertes ráfagas de viento y una alta probabilidad de caída de granizo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Miércoles inestable: advierten sobre lluvias intensas y tormentas eléctricas",
-          "url": "https://www.lanacion.com.py/pais/2026/11/10/miercoles-inestable-advierten-sobre-lluvias-intensas-y-tormentas-electricas",
-          "publishedAt": "2026-11-10T23:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vZ5Mpklo_ry81TR7H8CYhiwnizI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alertan sobre fuertes tormentas con vientos de hasta 90 km/h y caída de granizos",
-          "url": "https://elnacional.com.py/nacionales/alertan-sobre-fuertes-tormentas-vientos-90-kmh-caida-granizos-n115043",
-          "publishedAt": "2026-11-10T20:41:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/alertan-sobre-fuertes-tormentas-vientos-90-kmh-caida-granizos-n115043"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 9.3
+      "score": 9.01
     },
     {
       "id": "ev-1hz0kvu",
@@ -1017,7 +1315,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.12
+      "score": 8.78
     },
     {
       "id": "ev-04n1wov",
@@ -1059,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9
+      "score": 8.67
     },
     {
       "id": "ev-0f82n5c",
@@ -1119,49 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.92
-    },
-    {
-      "id": "ev-16w0mxm",
-      "title": "Tomate nacional llega al mercado de Córdoba con un primer envío de 28.000 kilos",
-      "summary": "Una primera carga de 28.000 kilogramos de tomate nacional, proveniente de la colonia Blas Garay, llegó el jueves 5 de noviembre al mercado de Córdoba, Argentina. La operación representa una oportunidad para ampliar la presencia de la producción paraguaya en mercados de la región.",
-      "keyPoints": [
-        "Una primera carga de 28.000 kilogramos de tomate nacional, proveniente de la colonia Blas Garay, llegó el jueves 5 de noviembre al mercado de Córdoba, Argentina.",
-        "La producción tomatera de la colonia Blas Garay concretó su primer envío a Córdoba, Argentina, con 28.000 kilos comercializados por G. 140 millones, abriendo nuevas oportunidades para los productores nacionales en el mercado regional."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Tomate nacional llega al mercado de Córdoba con un primer envío de 28.000 kilos",
-          "url": "https://www.adndigital.com.py/tomate-nacional-llega-al-mercado-de-cordoba-con-un-primer-envio-de-28-000-kilos",
-          "publishedAt": "2026-11-10T19:05:14.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-160343.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tomate paraguayo llega por primera vez al mercado de Córdoba con un envío de 28.000 kilos",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/10/tomate-paraguayo-llega-por-primera-vez-al-mercado-de-cordoba-con-un-envio-de-28000-kilos",
-          "publishedAt": "2026-11-10T18:18:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/sle-zF_3BV0CQFGpEbZ_UG8BMs0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HUFXVEUR6NE7LLMFJIBW7UGZTM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-160343.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/tomate-nacional-llega-al-mercado-de-cordoba-con-un-primer-envio-de-28-000-kilos"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.59
     },
     {
       "id": "ev-1ph6vub",
@@ -1203,7 +1459,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.34
     },
     {
       "id": "ev-1yuz8i8",
@@ -1245,7 +1501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.31
     },
     {
       "id": "ev-1k3ish9",
@@ -1287,49 +1543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.78
-    },
-    {
-      "id": "ev-0v290q3",
-      "title": "IPS presenta denuncia penal por los fondos colocados en Ueno Bank",
-      "summary": "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales. La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos.",
-      "keyPoints": [
-        "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales.",
-        "La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "IPS denuncia a directivos de Ueno Bank por los fondos previsionales",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/ips-denuncia-a-directivos-de-ueno-bank-por-los-fondos-previsionales",
-          "publishedAt": "2026-11-11T04:20:17.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GMyZpxnyEESZ1WWXymZdddjJpbQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DMLQ6BBR2JCLBKGYVU4OCFI6ZA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "IPS presenta denuncia penal por los fondos colocados en Ueno Bank",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/10/ips-presenta-denuncia-penal-por-los-fondos-colocados-en-ueno-bank",
-          "publishedAt": "2026-11-10T20:30:59.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tpCbj7cPXADcIDgUH2GMvuu_F10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IE2LYW24ANDHJOONAC7CGE6T7Q.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DMLQ6BBR2JCLBKGYVU4OCFI6ZA.jpg?auth=bed2a18c341767ebb32d4a1ec1a8f0aa4494b5e34356e77af2d9b50b5ca5296e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/11/ips-denuncia-a-directivos-de-ueno-bank-por-los-fondos-previsionales"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 6.68
+      "score": 6.45
     },
     {
       "id": "ev-0pjz95i",
@@ -1371,7 +1585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.67
+      "score": 6.34
     },
     {
       "id": "ev-0fka9ab",
@@ -1413,7 +1627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.25
     },
     {
       "id": "ev-1wf6ydr",
@@ -1455,7 +1669,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1agf3ut",
@@ -1497,7 +1711,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0ew60z4",
@@ -1539,7 +1753,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-0z2woww",
@@ -1581,7 +1795,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1uf6n3b",
@@ -1614,7 +1828,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-08qktzh",
@@ -1647,7 +1861,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.64
     },
     {
       "id": "ev-1ik2rl1",
@@ -1676,7 +1890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.49
     },
     {
       "id": "ev-0zhdn7i",
@@ -1705,7 +1919,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.75
+      "score": 5.42
     },
     {
       "id": "ev-1a6f8sc",
@@ -1734,7 +1948,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.75
+      "score": 5.41
     },
     {
       "id": "ev-0mt3a55",
@@ -1763,7 +1977,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.37
     },
     {
       "id": "ev-1x07ezp",
@@ -1792,7 +2006,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.52
+      "score": 5.19
     },
     {
       "id": "ev-1ea0lpl",
@@ -1821,7 +2035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.48
+      "score": 5.15
     },
     {
       "id": "ev-10ubs49",
@@ -1854,7 +2068,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.71
     },
     {
       "id": "ev-1vqcxap",
@@ -1887,7 +2101,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.55
     },
     {
       "id": "ev-11q2lss",
@@ -1920,7 +2134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.37
     },
     {
       "id": "ev-0jvfbbo",
@@ -1953,7 +2167,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.32
     },
     {
       "id": "ev-1c5fchn",
@@ -1990,7 +2204,73 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.09
+    },
+    {
+      "id": "ev-1v9u0kt",
+      "title": "\"Cartografías líquidas\" reúne en Asunción experiencias artísticas y científicas en los humedales",
+      "summary": "Con curaduría de Damián Cabrera, la exposición abrirá el jueves 12 de noviembre en Espacio E. Reunirá obras surgidas de residencias en humedales de Ñeembucú, el Pantanal paraguayo y la cuenca del lago Ypacaraí, e incluirá un concierto y una visita guiada como actividades complementarias.",
+      "keyPoints": [
+        "Con curaduría de Damián Cabrera, la exposición abrirá el jueves 12 de noviembre en Espacio E."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "\"Cartografías líquidas\" reúne en Asunción experiencias artísticas y científicas en los humedales",
+          "url": "https://elnacional.com.py/agenda-cultural/cartografias-liquidas-reune-asuncion-experiencias-artisticas-cientificas-humedales-n114989",
+          "publishedAt": "2026-11-10T10:15:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af24851ce2f5.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af24851ce2f5.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/agenda-cultural/cartografias-liquidas-reune-asuncion-experiencias-artisticas-cientificas-humedales-n114989"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedSlot": "manana",
+      "score": 4
+    },
+    {
+      "id": "ev-15eo6cz",
+      "title": "Veinte ensayos fotográficos reúnen miradas y preocupaciones contemporáneas en la Manzana de la Rivera",
+      "summary": "El Taller de Ensayo Fotográfico, dirigido por Jorge Sáenz, inaugurará su exposición colectiva anual el sábado 14 de noviembre, a las 19:30. La muestra presenta trabajos desarrollados durante 2026 y pone en común una diversidad de temas, experiencias y búsquedas visuales.",
+      "keyPoints": [
+        "El Taller de Ensayo Fotográfico, dirigido por Jorge Sáenz, inaugurará su exposición colectiva anual el sábado 14 de noviembre, a las 19:30."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Veinte ensayos fotográficos reúnen miradas y preocupaciones contemporáneas en la Manzana de la Rivera",
+          "url": "https://elnacional.com.py/agenda-cultural/veinte-ensayos-fotograficos-reunen-miradas-preocupaciones-contemporaneas-manzana-rivera-n114992",
+          "publishedAt": "2026-11-10T10:10:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af26a28db348.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af26a28db348.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/agenda-cultural/veinte-ensayos-fotograficos-reunen-miradas-preocupaciones-contemporaneas-manzana-rivera-n114992"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-1a9n4a4",
@@ -2027,73 +2307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.32
-    },
-    {
-      "id": "ev-1v9u0kt",
-      "title": "\"Cartografías líquidas\" reúne en Asunción experiencias artísticas y científicas en los humedales",
-      "summary": "Con curaduría de Damián Cabrera, la exposición abrirá el jueves 12 de noviembre en Espacio E. Reunirá obras surgidas de residencias en humedales de Ñeembucú, el Pantanal paraguayo y la cuenca del lago Ypacaraí, e incluirá un concierto y una visita guiada como actividades complementarias.",
-      "keyPoints": [
-        "Con curaduría de Damián Cabrera, la exposición abrirá el jueves 12 de noviembre en Espacio E."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "\"Cartografías líquidas\" reúne en Asunción experiencias artísticas y científicas en los humedales",
-          "url": "https://elnacional.com.py/agenda-cultural/cartografias-liquidas-reune-asuncion-experiencias-artisticas-cientificas-humedales-n114989",
-          "publishedAt": "2026-11-10T10:15:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af24851ce2f5.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af24851ce2f5.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/agenda-cultural/cartografias-liquidas-reune-asuncion-experiencias-artisticas-cientificas-humedales-n114989"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 4.18
-    },
-    {
-      "id": "ev-15eo6cz",
-      "title": "Veinte ensayos fotográficos reúnen miradas y preocupaciones contemporáneas en la Manzana de la Rivera",
-      "summary": "El Taller de Ensayo Fotográfico, dirigido por Jorge Sáenz, inaugurará su exposición colectiva anual el sábado 14 de noviembre, a las 19:30. La muestra presenta trabajos desarrollados durante 2026 y pone en común una diversidad de temas, experiencias y búsquedas visuales.",
-      "keyPoints": [
-        "El Taller de Ensayo Fotográfico, dirigido por Jorge Sáenz, inaugurará su exposición colectiva anual el sábado 14 de noviembre, a las 19:30."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Veinte ensayos fotográficos reúnen miradas y preocupaciones contemporáneas en la Manzana de la Rivera",
-          "url": "https://elnacional.com.py/agenda-cultural/veinte-ensayos-fotograficos-reunen-miradas-preocupaciones-contemporaneas-manzana-rivera-n114992",
-          "publishedAt": "2026-11-10T10:10:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af26a28db348.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af26a28db348.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/agenda-cultural/veinte-ensayos-fotograficos-reunen-miradas-preocupaciones-contemporaneas-manzana-rivera-n114992"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 4.17
+      "score": 3.99
     },
     {
       "id": "ev-1ddi2o2",
@@ -2135,7 +2349,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.08
+      "score": 3.74
     },
     {
       "id": "ev-1rps4eg",
@@ -2164,7 +2378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 3.27
+      "score": 2.94
     },
     {
       "id": "ev-1ti96mv",
@@ -2193,7 +2407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.46
     }
   ],
   "runs": [
@@ -2203,6 +2417,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 60
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-11T12:07:11.041Z",
+      "added": 0,
+      "updated": 8,
+      "candidates": 12
     }
   ]
 }
