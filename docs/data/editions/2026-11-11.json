@@ -1,128 +1,20 @@
 {
   "date": "2026-11-11",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-11T16:03:11.049Z",
+  "generatedAt": "2026-11-11T19:37:12.693Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-11wjsjh",
-      "title": "Meteorología anuncia un miércoles con lluvias y tormentas en Paraguay",
-      "summary": "La Dirección de Meteorología pronostica un miércoles cálido a caluroso, con lluvias y ocasionales tormentas eléctricas en gran parte de Paraguay. Actualmente, está bajo alerta el sur del Chaco. En su pronóstico de este miércoles, la Dirección de Meteorología e Hidrología anuncia una jornada cálida a calurosa con cielos mayormente nublados, vientos variables, lluvias dispersas y ocasionales tormentas eléctricas en la mayor parte del territorio paraguayo, incluyendo a Asunción .",
-      "keyPoints": [
-        "La Dirección de Meteorología pronostica un miércoles cálido a caluroso, con lluvias y ocasionales tormentas eléctricas en gran parte de Paraguay.",
-        "En su pronóstico de este miércoles, la Dirección de Meteorología e Hidrología anuncia una jornada cálida a calurosa con cielos mayormente nublados, vientos variables, lluvias dispersas y ocasionales tormentas eléctricas en la mayor parte del territorio…",
-        "De acuerdo con el pronóstico, la temperatura mínima será de 18 °C, mientras que la máxima alcanzará los 27 °C .",
-        "Se prevé fuertes ráfagas de viento y una alta probabilidad de caída de granizo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Clima en Paraguay: Anuncian tormentas fuertes y posible caída de granizos en varias zonas del país",
-          "url": "https://elnacional.com.py/nacionales/clima-paraguay-anuncian-tormentas-fuertes-posible-caida-granizos-varias-zonas-pais-n115058",
-          "publishedAt": "2026-11-11T10:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2023/12/5482c99226d46189aba7f573e64b3ac2.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ambiente cálido a caluroso y probabilidad de lluvias y tormentas eléctricas",
-          "url": "https://www.adndigital.com.py/ambiente-calido-a-caluroso-y-probabilidad-de-lluvias-y-tormentas-electricas",
-          "publishedAt": "2026-11-11T09:44:51.000Z",
-          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/06/lluvia.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Pronostican lluvias y tormentas para este miércoles en Ciudad del Este",
-          "url": "https://www.abc.com.py/este/2026/11/11/pronostican-lluvias-y-tormentas-para-este-miercoles-en-ciudad-del-este",
-          "publishedAt": "2026-11-11T09:43:57.000Z",
-          "image": "https://www.abc.com.py/resizer/t4ccggRN-O5FeqcQJyur6LovSsk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RDJHQTQT6BDTPHKZGZHN2APL7I.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Alerta por tormentas: anuncian lluvias intensas y ráfagas de hasta 90 km/h",
-          "url": "https://www.npy.com.py/noticias/nacionales/alerta-por-tormentas-anuncian-lluvias-intensas-y-rafagas-de-hasta-90-km-h",
-          "publishedAt": "2026-11-11T09:39:17.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Persistirá el calor en la jornada, pero con tiempo inestable",
-          "url": "https://www.lanacion.com.py/pais/2026/11/11/persistira-el-calor-en-la-jornada-pero-con-tiempo-inestable",
-          "publishedAt": "2026-11-11T09:36:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/i6ViCdyD84iL0nL7KFrp5A1q80I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CEQHNSLPMNDULJQK3EORLAGKJE.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Meteorología anuncia un miércoles con lluvias y tormentas en Paraguay",
-          "url": "https://www.ultimahora.com/meteorologia-anuncia-un-miercoles-con-lluvias-y-tormentas-en-paraguay",
-          "publishedAt": "2026-11-11T09:34:40.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Clima en Paraguay: miércoles con lluvias, alerta de tormentas y granizo",
-          "url": "https://www.abc.com.py/clima/2026/11/11/clima-en-paraguay-miercoles-con-lluvias-alerta-de-tormentas-y-granizo",
-          "publishedAt": "2026-11-11T08:25:36.000Z",
-          "image": "https://www.abc.com.py/resizer/B0fDR_Thk3Ta1FYcpyQSVHxfEo4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SASQ4OWNNZGBRHVJSX7MKUXY54.jfif"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Lluvias dispersas y tormentas para hoy",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/11/lluvias-dispersas-y-tormentas-para-hoy",
-          "publishedAt": "2026-11-11T08:20:04.900Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg?auth=0458f616e836adcef70f48520e49df8688f70fa9a943943d9cd3689251d16638&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Miércoles inestable: advierten sobre lluvias intensas y tormentas eléctricas",
-          "url": "https://www.lanacion.com.py/pais/2026/11/10/miercoles-inestable-advierten-sobre-lluvias-intensas-y-tormentas-electricas",
-          "publishedAt": "2026-11-10T23:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vZ5Mpklo_ry81TR7H8CYhiwnizI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alertan sobre fuertes tormentas con vientos de hasta 90 km/h y caída de granizos",
-          "url": "https://elnacional.com.py/nacionales/alertan-sobre-fuertes-tormentas-vientos-90-kmh-caida-granizos-n115043",
-          "publishedAt": "2026-11-10T20:41:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2023/12/5482c99226d46189aba7f573e64b3ac2.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/clima-paraguay-anuncian-tormentas-fuertes-posible-caida-granizos-varias-zonas-pais-n115058"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T12:07:11.041Z",
-      "updatedSlot": "manana",
-      "score": 26.52
-    },
-    {
       "id": "ev-06cio8x",
-      "title": "Alliana dispone recorte de G. 20.000 millones en gastos de la Presidencia",
-      "summary": "El mandatario Pedro Alliana ordenó al Ministerio de Economía y Finanzas disponer el recorte de viáticos, catering y otros gastos de la Presidencia para el presupuesto 2027, con una estimación de G. 20.000 millones. La reducción alcanzaría a partidas destinadas a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y servicios de funcionamiento.",
+      "title": "Gremios exigen a Alliana reformular el PGN 2027 y eliminar privilegios tras crisis de Ueno Bank",
+      "summary": "Representantes de la producción, la industria, el comercio y otros sectores de la sociedad civil remitieron una carta al presidente Pedro Alliana en la que reclaman medidas urgentes para recuperar la confianza económica tras la crisis de Ueno Bank. Los representantes de la producción, la industria, el comercio y los servicios reclamaron al Gobierno medidas urgentes para recuperar la confianza económica, fortalecer los controles institucionales y garantizar la disciplina fiscal.",
       "keyPoints": [
-        "El mandatario Pedro Alliana ordenó al Ministerio de Economía y Finanzas disponer el recorte de viáticos, catering y otros gastos de la Presidencia para el presupuesto 2027, con una estimación de G. 20.000 millones.",
-        "La reducción alcanzaría a partidas destinadas a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y servicios de funcionamiento.",
-        "\"La austeridad comienza por casa.",
-        "El mandatario solicitó al ministro de Economía, Óscar Lovera, reprogramar los recursos destinados a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y otros rubros de funcionamiento para destinarlos a la compra de medicamentos para hospitales."
+        "Representantes de la producción, la industria, el comercio y otros sectores de la sociedad civil remitieron una carta al presidente Pedro Alliana en la que reclaman medidas urgentes para recuperar la confianza económica tras la crisis…",
+        "Los representantes de la producción, la industria, el comercio y los servicios reclamaron al Gobierno medidas urgentes para recuperar la confianza económica, fortalecer los controles institucionales y garantizar la disciplina fiscal.",
+        "Casi 150 gremios se unieron para exigir al presidente Pedro Alliana la reformulación del proyecto de PGN 2027, con recortes de gastos superfluos o gastos corrientes improductivos, sin aumentos salariales injustificados y con ingresos realistas.",
+        "La Cámara de Diputados prevé tratar el dictamen con las modificaciones incorporadas en una sesión extraordinaria entre el jueves y el viernes de esta semana."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -130,6 +22,62 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana ordena recortes en la Presidencia para destinar más de G. 20.000 millones a medicamentos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/alliana-ordena-recortes-en-la-presidencia-para-destinar-mas-de-g-20000-millones-a-medicamentos",
+          "publishedAt": "2026-11-11T19:25:39.095Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/53HTANQ66ZCYVL6CDSNBXGXR64.jpg?auth=ab059e6c1079afc177335ec2f4504b728328187941c0c690ae8a1d0b849b9aef&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Gremios empresariales se unen y exigen replantear PGN 2027, eliminar privilegios y gastos superfluos",
+          "url": "https://www.ultimahora.com/gremios-empresariales-se-unen-y-exigen-replantear-pgn-2027-eliminar-privilegios-y-gastos-superfluos",
+          "publishedAt": "2026-11-11T18:39:26.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Por qué el senador Líder Amarilla acusa a Pedro Alliana de mantener al equipo del desfalco?",
+          "url": "https://www.abc.com.py/politica/2026/11/11/por-que-el-senador-lider-amarilla-acusa-a-pedro-alliana-de-mantener-al-equipo-del-desfalco",
+          "publishedAt": "2026-11-11T18:34:34.000Z",
+          "image": "https://www.abc.com.py/resizer/Mut3y12SeqsJLA7VIKIxmWO9dRI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/M4S6CX4NNJEIZBGUXZNIKKJIVA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados define mañana el proyecto del Presupuesto 2027",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/diputados-define-manana-el-proyecto-del-presupuesto-2027",
+          "publishedAt": "2026-11-11T17:39:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/diNLS_S5rScyYNqfboFtUoZs230=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6OU5RUQKLBFFBN4CV4K2KBT66Y.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gremios envían carta a Alliana: “La impunidad destruye la economía”",
+          "url": "https://www.abc.com.py/economia/2026/11/11/gremios-envian-carta-a-alliana-la-impunidad-destruye-la-economia",
+          "publishedAt": "2026-11-11T17:34:33.000Z",
+          "image": "https://www.abc.com.py/resizer/_AAf_E_3wvE5iyYmernZIqPVHWM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F2DD4WHP25DNLLL7Y6Y7JJN7KA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Presupuesto 2027 a ciegas: Mañana a las 10:00 se debe tratar y Diputados no tiene reformas de Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/11/presupuesto-2027-a-ciegas-manana-a-las-1000-se-debe-tratar-y-diputados-no-tienen-reformas-de-alliana",
+          "publishedAt": "2026-11-11T17:25:05.000Z",
+          "image": "https://www.abc.com.py/resizer/bKDCp7ETE3YZhSdhl_uZ1vbz3TI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PCTXFEPQP5DE5ACKK6F7TAS6RQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gremios exigen a Alliana reformular el PGN 2027 y eliminar privilegios tras crisis de Ueno Bank",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/11/gremios-exigen-a-alliana-reformular-el-pgn-2027-y-eliminar-privilegios-tras-crisis-de-ueno-bank",
+          "publishedAt": "2026-11-11T17:19:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/J_uO634hcNxN67WwumHDxO9Zn5A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BTMONGW6UJCLRIDXS2CMLUQNBA.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -181,6 +129,14 @@
         {
           "sourceId": "5dias",
           "sourceName": "5Días",
+          "title": "Gremios empresariales exigen reformular el PGN 2027 y eliminar privilegios ante la crisis económica",
+          "url": "https://5dias.com.py/article/gremios-empresariales-exigen-reformular-el-pgn-2027-y-eliminar-privilegios-ante-la-crisis-econmica",
+          "publishedAt": "2026-11-11T13:20:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-11_at_13.30.29_20261111_133050.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
           "title": "Alliana apunta a ahorrar más de G. 20.000 millones con recortes en gastos de la Presidencia",
           "url": "https://5dias.com.py/article/alliana-apunta-a-ahorrar-ms-de-g-20000-millones-con-recortes-en-gastos-de-la-presidencia",
           "publishedAt": "2026-11-11T11:19:00.000Z",
@@ -228,32 +184,40 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/53HTANQ66ZCYVL6CDSNBXGXR64.jpg?auth=ab059e6c1079afc177335ec2f4504b728328187941c0c690ae8a1d0b849b9aef&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/11/alliana-dispone-recorte-de-g-20000-millones-gastos-en-la-presidencia"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BTMONGW6UJCLRIDXS2CMLUQNBA.jpg?auth=f5b3f8e64d7aaad211042acf1f22ade1c2229b157c7b84a0484a62c30dfc1a78&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/11/gremios-exigen-a-alliana-reformular-el-pgn-2027-y-eliminar-privilegios-tras-crisis-de-ueno-bank"
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T16:03:11.049Z",
+      "updatedAt": "2026-11-11T19:37:12.693Z",
       "updatedSlot": "tarde",
-      "score": 23.95
+      "score": 26.98
     },
     {
       "id": "ev-1224s83",
       "title": "IPS presenta denuncia penal por los fondos colocados en Ueno Bank",
-      "summary": "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales. El Instituto de Previsión Social (IPS) presentó una denuncia penal por USD 516 millones depositados en Ueno Bank, contra exdirectivos de la entidad y funcionarios del Banco Central del Paraguay (BCP) por presuntas irregularidades.",
+      "summary": "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales. La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos.",
       "keyPoints": [
         "El IPS presentó una denuncia penal por lesión de confianza y asociación criminal contra directivos de Ueno Bank y posibles autoridades del BCP, con el objetivo de investigar responsabilidades y recuperar los fondos previsionales.",
-        "El Instituto de Previsión Social (IPS) presentó una denuncia penal por USD 516 millones depositados en Ueno Bank, contra exdirectivos de la entidad y funcionarios del Banco Central del Paraguay (BCP) por presuntas irregularidades.",
         "La medida forma parte de las gestiones judiciales que impulsa el IPS para resguardar su patrimonio y procurar la restitución de los fondos.",
+        "El Instituto de Previsión Social (IPS) presentó una denuncia penal por USD 516 millones depositados en Ueno Bank, contra exdirectivos de la entidad y funcionarios del Banco Central del Paraguay (BCP) por presuntas irregularidades.",
         "El Instituto de Previsión Social (IPS) se encuentra inmerso en el proceso de resolución de Ueno Bank, teniendo en cuenta que debe recuperar más de USD 500 millones de la extinta entidad bancaria."
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "El vergonzoso robo de los fondos jubilatorios del IPS",
+          "url": "https://www.telefuturo.com.py/el-vergonzoso-robo-de-los-fondos-jubilatorios-del-ips",
+          "publishedAt": "2026-11-11T18:38:34.000Z",
+          "image": null
+        },
         {
           "sourceId": "npy",
           "sourceName": "NPY",
@@ -342,9 +306,124 @@
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T16:03:11.049Z",
+      "updatedAt": "2026-11-11T19:37:12.693Z",
       "updatedSlot": "tarde",
-      "score": 23.79
+      "score": 26.92
+    },
+    {
+      "id": "ev-11wjsjh",
+      "title": "Alerta por tormentas: ¿Cuáles son los departamentos afectados?",
+      "summary": "Durante el mediodía de este miércoles, la Dirección de Meteorología e Hidrología (DMH) emitió un nuevo boletín especial alertando sobre un sistema de tormentas que se desarrolla sobre el área de cobertura. Según el boletín, nuevas celdas de tormentas se desarrollan e intensifican y no se descarta que pueda generar fenómenos de tiempo severo de manera puntual que consiste en lluvias con tormentas eléctricas moderadas a fuertes, ráfagas de vientos moderadas a fuertes y la ocasional caída de granizos.",
+      "keyPoints": [
+        "Durante el mediodía de este miércoles, la Dirección de Meteorología e Hidrología (DMH) emitió un nuevo boletín especial alertando sobre un sistema de tormentas que se desarrolla sobre el área de cobertura.",
+        "Se prevé fuertes ráfagas de viento y una alta probabilidad de caída de granizo.",
+        "La jornada de este miércoles estará marcada por lluvias de variada intensidad, ráfagas de hasta 90 km/h y abundantes descargas eléctricas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta por tormentas: ¿Cuáles son los departamentos afectados?",
+          "url": "https://www.abc.com.py/clima/2026/11/11/alerta-por-tormentas-cuales-son-los-departamentos-afectados",
+          "publishedAt": "2026-11-11T16:14:53.000Z",
+          "image": "https://www.abc.com.py/resizer/bBtIyvVwtS0BQpYkR_WV9GuI5RU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CVEJ2VUHFZH73E6XSWP3TVANTE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Anuncian tormentas fuertes y posible caída de granizos en varias zonas del país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-anuncian-tormentas-fuertes-posible-caida-granizos-varias-zonas-pais-n115058",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2023/12/5482c99226d46189aba7f573e64b3ac2.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ambiente cálido a caluroso y probabilidad de lluvias y tormentas eléctricas",
+          "url": "https://www.adndigital.com.py/ambiente-calido-a-caluroso-y-probabilidad-de-lluvias-y-tormentas-electricas",
+          "publishedAt": "2026-11-11T09:44:51.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/06/lluvia.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pronostican lluvias y tormentas para este miércoles en Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/11/11/pronostican-lluvias-y-tormentas-para-este-miercoles-en-ciudad-del-este",
+          "publishedAt": "2026-11-11T09:43:57.000Z",
+          "image": "https://www.abc.com.py/resizer/t4ccggRN-O5FeqcQJyur6LovSsk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RDJHQTQT6BDTPHKZGZHN2APL7I.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Alerta por tormentas: anuncian lluvias intensas y ráfagas de hasta 90 km/h",
+          "url": "https://www.npy.com.py/noticias/nacionales/alerta-por-tormentas-anuncian-lluvias-intensas-y-rafagas-de-hasta-90-km-h",
+          "publishedAt": "2026-11-11T09:39:17.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Persistirá el calor en la jornada, pero con tiempo inestable",
+          "url": "https://www.lanacion.com.py/pais/2026/11/11/persistira-el-calor-en-la-jornada-pero-con-tiempo-inestable",
+          "publishedAt": "2026-11-11T09:36:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/i6ViCdyD84iL0nL7KFrp5A1q80I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CEQHNSLPMNDULJQK3EORLAGKJE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Meteorología anuncia un miércoles con lluvias y tormentas en Paraguay",
+          "url": "https://www.ultimahora.com/meteorologia-anuncia-un-miercoles-con-lluvias-y-tormentas-en-paraguay",
+          "publishedAt": "2026-11-11T09:34:40.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Clima en Paraguay: miércoles con lluvias, alerta de tormentas y granizo",
+          "url": "https://www.abc.com.py/clima/2026/11/11/clima-en-paraguay-miercoles-con-lluvias-alerta-de-tormentas-y-granizo",
+          "publishedAt": "2026-11-11T08:25:36.000Z",
+          "image": "https://www.abc.com.py/resizer/B0fDR_Thk3Ta1FYcpyQSVHxfEo4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SASQ4OWNNZGBRHVJSX7MKUXY54.jfif"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Lluvias dispersas y tormentas para hoy",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/lluvias-dispersas-y-tormentas-para-hoy",
+          "publishedAt": "2026-11-11T08:20:04.900Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg?auth=0458f616e836adcef70f48520e49df8688f70fa9a943943d9cd3689251d16638&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Miércoles inestable: advierten sobre lluvias intensas y tormentas eléctricas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/10/miercoles-inestable-advierten-sobre-lluvias-intensas-y-tormentas-electricas",
+          "publishedAt": "2026-11-10T23:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vZ5Mpklo_ry81TR7H8CYhiwnizI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RKROGCWMABGZBFEKRMOEE7T77Q.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alertan sobre fuertes tormentas con vientos de hasta 90 km/h y caída de granizos",
+          "url": "https://elnacional.com.py/nacionales/alertan-sobre-fuertes-tormentas-vientos-90-kmh-caida-granizos-n115043",
+          "publishedAt": "2026-11-10T20:41:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ac5fe8ea0a7d.png"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CVEJ2VUHFZH73E6XSWP3TVANTE.jpg?auth=08ba4b1c5356ecb22977aabb161d8659b3fde4d475f810c3a11f5d5cb1a16e9e&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/11/11/alerta-por-tormentas-cuales-son-los-departamentos-afectados"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T19:37:12.693Z",
+      "updatedSlot": "tarde",
+      "score": 26.72
     },
     {
       "id": "ev-0h5jyn9",
@@ -492,15 +571,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 23.44
+      "score": 23.14
     },
     {
       "id": "ev-09i7jr4",
-      "title": "Esto dice la Fiscalía sobre la bóveda vacía encontrada en la mansión de Santiago Peña",
-      "summary": "La fiscala Silvia González explicó que el espacio reúne las características de una bóveda, pero que el expresidente manifestó que estaba destinado a funcionar como una sala de pánico. El lugar se encontraba vacío y todavía no había sido equipado.",
+      "title": "Caso Ueno: ordenan detener al CEO de Itti",
+      "summary": "La Policía recibió el mandato de capturar a César Astigarraga, mano derecha de Miguel Vázquez en el ámbito tecnológico y extitular de Itti y de la Cámara Paraguaya de Fintech. El Ministerio Público solicitó la detención de César Manuel Astigarraga Lambaré, identificado por los investigadores como uno de los principales colaboradores de Miguel Vázquez, exCEO de Ueno Bank, y es señalado como una pieza clave en el funcionamiento de la estructura financiera.",
       "keyPoints": [
-        "La fiscala Silvia González explicó que el espacio reúne las características de una bóveda, pero que el expresidente manifestó que estaba destinado a funcionar como una sala de pánico.",
-        "La Fiscalía no encontró dinero, documentos ni otros elementos en el interior de la bóveda de seguridad instalada en la lujosa mansión del expresidente Santiago Peña, ubicada en San Bernardino, según la información conocida tras las…"
+        "La Policía recibió el mandato de capturar a César Astigarraga, mano derecha de Miguel Vázquez en el ámbito tecnológico y extitular de Itti y de la Cámara Paraguaya de Fintech.",
+        "El Ministerio Público solicitó la detención de César Manuel Astigarraga Lambaré, identificado por los investigadores como uno de los principales colaboradores de Miguel Vázquez, exCEO de Ueno Bank, y es señalado como una pieza clave en…",
+        "El equipo fiscal realizó una conferencia de prensa para informar sobre los avances y los próximos pasos en el marco de esta investigación.",
+        "abccolor · 11 11 2026 A LA GRAN 730 - Teresa Rojas, Ministra de SENABICO"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -508,6 +589,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Desde Senabico explican qué pasará con la mansión de Santiago Peña luego de su incautación",
+          "url": "https://www.abc.com.py/730am/a-la-gran-730/2026/11/11/audio-desde-senabico-explican-que-pasara-con-la-mansion-de-santiago-pena-luego-de-su-incautacion",
+          "publishedAt": "2026-11-11T15:57:59.000Z",
+          "image": "https://www.abc.com.py/resizer/JOYzHjmG4moWYUyAB5TIXqBU2mc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LUJQEEUAFJHCXHAF3WQIBSCQIM.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -622,15 +711,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af45531b8951.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/esto-dice-fiscalia-sobre-boveda-vacia-encontrada-mansion-santiago-pena-n115063"
+        "url": "https://www.lanacion.com.py/resizer/v2/GJYXQTMGOBFL5AXCGPTMOQH3AI.JPG?auth=31f592c3feb795c189a37bf26ba244467b9fc2d906b2396b52079d7be8be9e3d&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/11/caso-ueno-ordenan-detener-a-ceo-de-itti"
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T16:03:11.049Z",
+      "updatedAt": "2026-11-11T19:37:12.693Z",
       "updatedSlot": "tarde",
-      "score": 20.96
+      "score": 20.7
     },
     {
       "id": "ev-19azxot",
@@ -697,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T16:03:11.049Z",
       "updatedSlot": "tarde",
-      "score": 20.86
+      "score": 20.57
     },
     {
       "id": "ev-14if6cw",
@@ -781,15 +870,14 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 20.43
+      "score": 20.13
     },
     {
       "id": "ev-16w0mxm",
-      "title": "Tomate paraguayo llega al mercado argentino con un envío de 28.000 kilos",
-      "summary": "La producción hortícola nacional comienza a ganar espacio en nuevos destinos comerciales. Un cargamento de 28.000 kilos de tomate paraguayo, procedente de la colonia Blas Garay, fue enviado al mercado de Córdoba, Argentina, en una operación que representa una nueva oportunidad para los productores locales.",
+      "title": "Paraguay apunta a recuperar mercados externos con nuevas exportaciones de tomate",
+      "summary": "Tras concretar un primer envío de 28.000 kilos a Córdoba, el país busca ampliar sus destinos comerciales y fortalecer la producción nacional. Empresarios uruguayos llegarán esta semana para conocer la capacidad productiva local. En el mes octubre de este año, el MAG dio un paso histórico para el sector productivo nacional con el envío del primer cargamento de 28.000 kilogramos de tomate paraguayo con destino al mercado de Brasil.",
       "keyPoints": [
-        "La producción hortícola nacional comienza a ganar espacio en nuevos destinos comerciales.",
-        "La producción tomatera de la colonia Blas Garay concretó su primer envío a Córdoba, Argentina, con 28.000 kilos comercializados por G. 140 millones, abriendo nuevas oportunidades para los productores nacionales en el mercado regional.",
+        "Tras concretar un primer envío de 28.000 kilos a Córdoba, el país busca ampliar sus destinos comerciales y fortalecer la producción nacional.",
         "En el mes octubre de este año, el MAG dio un paso histórico para el sector productivo nacional con el envío del primer cargamento de 28.000 kilogramos de tomate paraguayo con destino al mercado de Brasil."
       ],
       "category": "economia",
@@ -798,6 +886,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Paraguay apunta a recuperar mercados externos con nuevas exportaciones de tomate",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/11/paraguay-apunta-a-recuperar-mercados-externos-con-nuevas-exportaciones-de-tomate",
+          "publishedAt": "2026-11-11T18:27:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YyZvUYAtf8iyElWMQ8M30PMaRtM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/AVMYUBUSNNBWZMXG2PARIRCPWE.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -832,15 +928,15 @@
         }
       ],
       "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/descarga_4_20261111_082641.jpg",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/tomate-paraguayo-llega-al-mercado-argentino-con-un-envo-de-28000-kilos"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/AVMYUBUSNNBWZMXG2PARIRCPWE.jpg?auth=9bdac394a5a970e11643848b280689f2274a68039546ad4e994465f4f2d67058&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/11/paraguay-apunta-a-recuperar-mercados-externos-con-nuevas-exportaciones-de-tomate"
       },
       "firstSeenAt": "2026-11-11T08:07:11.518Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-11T12:07:11.041Z",
-      "updatedSlot": "manana",
-      "score": 17.55
+      "updatedAt": "2026-11-11T19:37:12.693Z",
+      "updatedSlot": "tarde",
+      "score": 17.9
     },
     {
       "id": "ev-07mx4lq",
@@ -908,7 +1004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 17.39
+      "score": 17.1
     },
     {
       "id": "ev-16h1hc4",
@@ -974,7 +1070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 16.98
+      "score": 16.69
     },
     {
       "id": "ev-17sren9",
@@ -1024,7 +1120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T16:03:11.049Z",
       "updatedSlot": "tarde",
-      "score": 13.77
+      "score": 13.48
     },
     {
       "id": "ev-11pk5b8",
@@ -1074,7 +1170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 13.49
+      "score": 13.19
     },
     {
       "id": "ev-1qhnf0g",
@@ -1192,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T16:03:11.049Z",
       "updatedSlot": "tarde",
-      "score": 11.82
+      "score": 11.52
     },
     {
       "id": "ev-0v290q3",
@@ -1260,7 +1356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T12:07:11.041Z",
       "updatedSlot": "manana",
-      "score": 11.61
+      "score": 11.31
     },
     {
       "id": "ev-0gpw28w",
@@ -1311,7 +1407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.82
+      "score": 9.52
     },
     {
       "id": "ev-1g0ja2o",
@@ -1362,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 9.49
+      "score": 9.19
     },
     {
       "id": "ev-0zdwlk9",
@@ -1404,7 +1500,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-1mzt14s",
@@ -1446,7 +1542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.39
     },
     {
       "id": "ev-1hz0kvu",
@@ -1488,7 +1584,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.16
     },
     {
       "id": "ev-04n1wov",
@@ -1530,7 +1626,91 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.04
+    },
+    {
+      "id": "ev-1ph6vub",
+      "title": "Alliana ordena dotar de medicamentos a los hospitales y cero corrupción, narran ministros",
+      "summary": "Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana. Tener un trato directo con la gente, el cuidado de los recursos y la provisión de medicamentos, fueron algunos puntos mencionados por los secretarios de Estado.",
+      "keyPoints": [
+        "Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana.",
+        "El ministro de Salud, Isaías Fretes, ordenó auditorías a la licitación y los pagos a la empresa del hermano de Peña, además de cambios financieros y medidas para garantizar medicamentos."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana ordena dotar de medicamentos a los hospitales y cero corrupción, narran ministros",
+          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-dotar-de-medicamentos-a-los-hospitales-y-cero-corrupcion-narran-ministros",
+          "publishedAt": "2026-11-10T16:09:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GiU8owlx6K2lGZ0UoHEopO4WlXU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3SQUPZ6MTBEV7A4KW3J55KKLS4.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fretes ordena auditorías y cambios en Salud tras pago de Gs. 2.453 millones a empresa del hermano de Peña",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/fretes-ordena-auditorias-y-cambios-en-salud-tras-pago-de-gs-2-453-millones-a-empresa-del-hermano-de-pena",
+          "publishedAt": "2026-11-10T15:33:07.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3SQUPZ6MTBEV7A4KW3J55KKLS4.jpeg?auth=dcb3afd0929807df9b0287f8ef01972e481b7c7b29744580622d74dff5af0c5c&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-dotar-de-medicamentos-a-los-hospitales-y-cero-corrupcion-narran-ministros"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedSlot": "manana",
+      "score": 8
+    },
+    {
+      "id": "ev-1yuz8i8",
+      "title": "Más de 3.050 consultas de los afectados por empresas vinculadas al Grupo Vázquez",
+      "summary": "El Ministerio de Trabajo registra más de 3.050 atenciones y consultas de empleados del conglomerado vinculado al Grupo Vázquez. La cantidad total de personas afectadas y el monto de las obligaciones laborales pendientes todavía no fueron precisados. Miles de trabajadores de 37 empresas identificadas por el Ministerio de Trabajo, Empleo y Seguridad Social (MTESS) enfrentan incertidumbre laboral por la situación de Ueno Bank y las compañías vinculadas al Grupo Vázquez.",
+      "keyPoints": [
+        "El Ministerio de Trabajo registra más de 3.050 atenciones y consultas de empleados del conglomerado vinculado al Grupo Vázquez.",
+        "La crisis que involucra a ueno bank y al Grupo Vázquez también tiene un fuerte impacto sobre el sector laboral, con miles de personas que quedaron en incertidumbre ante la paralización de actividades de empresas que…"
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Más de 3.050 consultas de los afectados por empresas vinculadas al Grupo Vázquez",
+          "url": "https://5dias.com.py/article/ms-de-3050-consultas-de-los-afectados-por-empresas-vinculadas-al-grupo-vzquez",
+          "publishedAt": "2026-11-10T15:52:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp-Image-2026-11-09-at-9.42.58-AM-1_20261110_155259.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Crisis de Ueno y Grupo Vázquez alcanza a más de 7.000 trabajadores: buscan destrabar dificultades jurídicas",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/10/crisis-de-ueno-y-grupo-vazquez-alcanza-a-mas-de-7000-trabajadores-buscan-destrabar-dificultades-juridicas",
+          "publishedAt": "2026-11-10T13:12:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ko5Adam5uTXJiKxfCiFr8XUgE6Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VBT4FK3MGRAEDOTL567V5NWG54.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp-Image-2026-11-09-at-9.42.58-AM-1_20261110_155259.jpeg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/ms-de-3050-consultas-de-los-afectados-por-empresas-vinculadas-al-grupo-vzquez"
+      },
+      "firstSeenAt": "2026-11-11T08:07:11.518Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-11T08:07:11.518Z",
+      "updatedSlot": "manana",
+      "score": 8
     },
     {
       "id": "ev-0f82n5c",
@@ -1590,91 +1770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 8.26
-    },
-    {
-      "id": "ev-1ph6vub",
-      "title": "Alliana ordena dotar de medicamentos a los hospitales y cero corrupción, narran ministros",
-      "summary": "Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana. Tener un trato directo con la gente, el cuidado de los recursos y la provisión de medicamentos, fueron algunos puntos mencionados por los secretarios de Estado.",
-      "keyPoints": [
-        "Los ministros de Obras Públicas, Juan Carlos Baruja, y el de Salud, Ricardo Isaías Fretes, conversaron con medios y dieron a conocer las directivas recibidas por parte del presidente de la República, Pedro Alliana.",
-        "El ministro de Salud, Isaías Fretes, ordenó auditorías a la licitación y los pagos a la empresa del hermano de Peña, además de cambios financieros y medidas para garantizar medicamentos."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana ordena dotar de medicamentos a los hospitales y cero corrupción, narran ministros",
-          "url": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-dotar-de-medicamentos-a-los-hospitales-y-cero-corrupcion-narran-ministros",
-          "publishedAt": "2026-11-10T16:09:09.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GiU8owlx6K2lGZ0UoHEopO4WlXU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3SQUPZ6MTBEV7A4KW3J55KKLS4.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fretes ordena auditorías y cambios en Salud tras pago de Gs. 2.453 millones a empresa del hermano de Peña",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/fretes-ordena-auditorias-y-cambios-en-salud-tras-pago-de-gs-2-453-millones-a-empresa-del-hermano-de-pena",
-          "publishedAt": "2026-11-10T15:33:07.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3SQUPZ6MTBEV7A4KW3J55KKLS4.jpeg?auth=dcb3afd0929807df9b0287f8ef01972e481b7c7b29744580622d74dff5af0c5c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/10/alliana-ordena-dotar-de-medicamentos-a-los-hospitales-y-cero-corrupcion-narran-ministros"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 8.01
-    },
-    {
-      "id": "ev-1yuz8i8",
-      "title": "Más de 3.050 consultas de los afectados por empresas vinculadas al Grupo Vázquez",
-      "summary": "El Ministerio de Trabajo registra más de 3.050 atenciones y consultas de empleados del conglomerado vinculado al Grupo Vázquez. La cantidad total de personas afectadas y el monto de las obligaciones laborales pendientes todavía no fueron precisados. Miles de trabajadores de 37 empresas identificadas por el Ministerio de Trabajo, Empleo y Seguridad Social (MTESS) enfrentan incertidumbre laboral por la situación de Ueno Bank y las compañías vinculadas al Grupo Vázquez.",
-      "keyPoints": [
-        "El Ministerio de Trabajo registra más de 3.050 atenciones y consultas de empleados del conglomerado vinculado al Grupo Vázquez.",
-        "La crisis que involucra a ueno bank y al Grupo Vázquez también tiene un fuerte impacto sobre el sector laboral, con miles de personas que quedaron en incertidumbre ante la paralización de actividades de empresas que…"
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Más de 3.050 consultas de los afectados por empresas vinculadas al Grupo Vázquez",
-          "url": "https://5dias.com.py/article/ms-de-3050-consultas-de-los-afectados-por-empresas-vinculadas-al-grupo-vzquez",
-          "publishedAt": "2026-11-10T15:52:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp-Image-2026-11-09-at-9.42.58-AM-1_20261110_155259.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Crisis de Ueno y Grupo Vázquez alcanza a más de 7.000 trabajadores: buscan destrabar dificultades jurídicas",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/10/crisis-de-ueno-y-grupo-vazquez-alcanza-a-mas-de-7000-trabajadores-buscan-destrabar-dificultades-juridicas",
-          "publishedAt": "2026-11-10T13:12:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ko5Adam5uTXJiKxfCiFr8XUgE6Y=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VBT4FK3MGRAEDOTL567V5NWG54.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp-Image-2026-11-09-at-9.42.58-AM-1_20261110_155259.jpeg",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/ms-de-3050-consultas-de-los-afectados-por-empresas-vinculadas-al-grupo-vzquez"
-      },
-      "firstSeenAt": "2026-11-11T08:07:11.518Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-11T08:07:11.518Z",
-      "updatedSlot": "manana",
-      "score": 8
+      "score": 7.96
     },
     {
       "id": "ev-0z2woww",
@@ -1725,7 +1821,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T16:03:11.049Z",
       "updatedSlot": "tarde",
-      "score": 7.41
+      "score": 7.11
     },
     {
       "id": "ev-1k3ish9",
@@ -1767,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.82
     },
     {
       "id": "ev-0pjz95i",
@@ -1809,7 +1905,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 6.01
+      "score": 5.71
     },
     {
       "id": "ev-0fka9ab",
@@ -1851,7 +1947,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.62
     },
     {
       "id": "ev-1wf6ydr",
@@ -1893,7 +1989,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.62
     },
     {
       "id": "ev-1agf3ut",
@@ -1935,7 +2031,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.62
     },
     {
       "id": "ev-0ew60z4",
@@ -1977,7 +2073,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.62
     },
     {
       "id": "ev-1uf6n3b",
@@ -2010,7 +2106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-08qktzh",
@@ -2043,7 +2139,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 5.01
     },
     {
       "id": "ev-1ik2rl1",
@@ -2072,7 +2168,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.16
+      "score": 4.87
     },
     {
       "id": "ev-0zhdn7i",
@@ -2101,7 +2197,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.8
     },
     {
       "id": "ev-1a6f8sc",
@@ -2130,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.09
+      "score": 4.79
     },
     {
       "id": "ev-0mt3a55",
@@ -2159,7 +2255,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.75
     },
     {
       "id": "ev-1x07ezp",
@@ -2188,7 +2284,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.57
     },
     {
       "id": "ev-1ea0lpl",
@@ -2217,7 +2313,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.82
+      "score": 4.52
     },
     {
       "id": "ev-10ubs49",
@@ -2250,7 +2346,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.38
+      "score": 4.08
     },
     {
       "id": "ev-1vqcxap",
@@ -2283,7 +2379,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.22
+      "score": 4
     },
     {
       "id": "ev-11q2lss",
@@ -2316,7 +2412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 4.04
+      "score": 4
     },
     {
       "id": "ev-0jvfbbo",
@@ -2452,7 +2548,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 3.77
+      "score": 3.47
     },
     {
       "id": "ev-1a9n4a4",
@@ -2489,7 +2585,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 3.66
+      "score": 3.37
     },
     {
       "id": "ev-1ddi2o2",
@@ -2531,7 +2627,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 3.42
+      "score": 3.12
     },
     {
       "id": "ev-1rps4eg",
@@ -2560,7 +2656,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 2.61
+      "score": 2.32
     },
     {
       "id": "ev-1ti96mv",
@@ -2589,7 +2685,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-11T08:07:11.518Z",
       "updatedSlot": "manana",
-      "score": 2.13
+      "score": 1.84
     }
   ],
   "runs": [
@@ -2613,6 +2709,13 @@
       "added": 0,
       "updated": 8,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-11T19:37:12.693Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 11
     }
   ]
 }
