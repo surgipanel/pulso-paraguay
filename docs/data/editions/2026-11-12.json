@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-12T03:45:18.647Z",
+  "generatedAt": "2026-11-12T08:07:12.018Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -80,7 +80,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 23.69
+      "score": 23.32
     },
     {
       "id": "ev-1q9vlzp",
@@ -148,7 +148,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 15.44
+      "score": 15.08
+    },
+    {
+      "id": "ev-0jblra0",
+      "title": "PGN27: Alliana pide recortar más de G. 20.000 millones de gastos de Presidencia para comprar medicamentos",
+      "summary": "El mandatario solicitó al ministro de Economía, Óscar Lovera, reprogramar los recursos destinados a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y otros rubros de funcionamiento para destinarlos a la compra de medicamentos para hospitales. El presidente de la República, Pedro Alliana, anunció que el presupuesto de la Presidencia, para el ejercicio 2027, sufrirá un recorte de G. 20.000 millones, alrededor de USD 3,2 millones al cambio actual, en lo que concierne a viajes.",
+      "keyPoints": [
+        "El mandatario solicitó al ministro de Economía, Óscar Lovera, reprogramar los recursos destinados a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y otros rubros de funcionamiento para destinarlos a la compra de medicamentos para hospitales.",
+        "El presidente de la República, Pedro Alliana, anunció que el presupuesto de la Presidencia, para el ejercicio 2027, sufrirá un recorte de G. 20.000 millones, alrededor de USD 3,2 millones al cambio actual, en lo que…",
+        "Apenas asumió el señor Pedro Alliana como nuevo presidente de la República, sostuvo la nece­sidad de reordenar los gastos y reducir las erogaciones prescindibles del Estado",
+        "“Menos gastos en Presidencia, más medicamentos para nuestros hospitales”, indica la primera parte de la publicación realizada por el mandatario."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Presidencia recortará G. 20 mil millones y destinará a remedios",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/12/presidencia-recortara-g-20-mil-millones-y-destinara-a-remedios",
+          "publishedAt": "2026-11-12T04:24:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MsqOq6P3hcdpDXp5fDu4QVkeo08=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OGNPEU7OLNCKBMNWDYLGBPZH6E.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El recorte de los gastos superfluos que impulsa el presidente Alliana",
+          "url": "https://www.lanacion.com.py/editorial/2026/11/12/el-recorte-de-los-gastos-superfluos-que-impulsa-el-presidente-alliana",
+          "publishedAt": "2026-11-12T03:02:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana ordena recortes en la Presidencia para destinar más de G. 20.000 millones a medicamentos",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/alliana-ordena-recortes-en-la-presidencia-para-destinar-mas-de-g-20000-millones-a-medicamentos",
+          "publishedAt": "2026-11-11T19:25:39.095Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/53HTANQ66ZCYVL6CDSNBXGXR64.jpg?auth=ab059e6c1079afc177335ec2f4504b728328187941c0c690ae8a1d0b849b9aef&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana reasigna G. 20.000 millones de gastos en viajes para medicamentos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/alliana-reasigna-g-20000-millones-de-gastos-en-viajes-para-medicamentos",
+          "publishedAt": "2026-11-11T14:04:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EJA5u8ZZHneG-VXY9woot0WS09I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ADL4TVRTEVFHRAOG4DNN6VUB64.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "PGN27: Alliana pide recortar más de G. 20.000 millones de gastos de Presidencia para comprar medicamentos",
+          "url": "https://elnacional.com.py/politica/pgn27-alliana-pide-recortar-mas-g-20000-millones-gastos-presidencia-comprar-medicamentos-n115068",
+          "publishedAt": "2026-11-11T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af46bb5c78c1.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af46bb5c78c1.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/pgn27-alliana-pide-recortar-mas-g-20000-millones-gastos-presidencia-comprar-medicamentos-n115068"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T08:07:12.018Z",
+      "updatedSlot": "manana",
+      "score": 14.69
     },
     {
       "id": "ev-1our307",
@@ -208,7 +276,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 14.94
+      "score": 14.58
     },
     {
       "id": "ev-0emkr5v",
@@ -268,67 +336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 14.94
-    },
-    {
-      "id": "ev-0jblra0",
-      "title": "Alliana reasigna G. 20.000 millones de gastos en viajes para medicamentos",
-      "summary": "El presidente de la República, Pedro Alliana, anunció que el presupuesto de la Presidencia, para el ejercicio 2027, sufrirá un recorte de G. 20.000 millones, alrededor de USD 3,2 millones al cambio actual, en lo que concierne a viajes. El mandatario solicitó al ministro de Economía, Óscar Lovera, reprogramar los recursos destinados a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y otros rubros de funcionamiento para destinarlos a la compra de medicamentos para hospitales.",
-      "keyPoints": [
-        "El presidente de la República, Pedro Alliana, anunció que el presupuesto de la Presidencia, para el ejercicio 2027, sufrirá un recorte de G. 20.000 millones, alrededor de USD 3,2 millones al cambio actual, en lo que…",
-        "El mandatario solicitó al ministro de Economía, Óscar Lovera, reprogramar los recursos destinados a pasajes, viáticos, mantenimiento de aeronaves, gastos reservados y otros rubros de funcionamiento para destinarlos a la compra de medicamentos para hospitales.",
-        "El presidente de la República dispuso una política de austeridad presupuestaria para el ejercicio 2027, afectando rubros de viajes, servicios y mantenimiento para beneficiar a la salud pública.",
-        "Apenas asumió el señor Pedro Alliana como nuevo presidente de la República, sostuvo la nece­sidad de reordenar los gastos y reducir las erogaciones prescindibles del Estado"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El recorte de los gastos superfluos que impulsa el presidente Alliana",
-          "url": "https://www.lanacion.com.py/editorial/2026/11/12/el-recorte-de-los-gastos-superfluos-que-impulsa-el-presidente-alliana",
-          "publishedAt": "2026-11-12T03:02:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Alliana ordena recortes en la Presidencia para destinar más de G. 20.000 millones a medicamentos",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/11/alliana-ordena-recortes-en-la-presidencia-para-destinar-mas-de-g-20000-millones-a-medicamentos",
-          "publishedAt": "2026-11-11T19:25:39.095Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/53HTANQ66ZCYVL6CDSNBXGXR64.jpg?auth=ab059e6c1079afc177335ec2f4504b728328187941c0c690ae8a1d0b849b9aef&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana reasigna G. 20.000 millones de gastos en viajes para medicamentos",
-          "url": "https://www.lanacion.com.py/politica/2026/11/11/alliana-reasigna-g-20000-millones-de-gastos-en-viajes-para-medicamentos",
-          "publishedAt": "2026-11-11T14:04:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/EJA5u8ZZHneG-VXY9woot0WS09I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ADL4TVRTEVFHRAOG4DNN6VUB64.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "PGN27: Alliana pide recortar más de G. 20.000 millones de gastos de Presidencia para comprar medicamentos",
-          "url": "https://elnacional.com.py/politica/pgn27-alliana-pide-recortar-mas-g-20000-millones-gastos-presidencia-comprar-medicamentos-n115068",
-          "publishedAt": "2026-11-11T14:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af46bb5c78c1.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ADL4TVRTEVFHRAOG4DNN6VUB64.jpg?auth=1383390b4007011a7bca5e74114b8de60161f9089d3c8d2c0099fb9c3cd59044&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/11/alliana-reasigna-g-20000-millones-de-gastos-en-viajes-para-medicamentos"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 14.94
+      "score": 14.58
     },
     {
       "id": "ev-1s8i78o",
@@ -420,7 +428,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 14.47
+      "score": 14.1
     },
     {
       "id": "ev-0q57pv0",
@@ -488,7 +496,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 14.43
+      "score": 14.07
+    },
+    {
+      "id": "ev-0tepzx7",
+      "title": "Ejecutivo en reestructuración: cambian a secretario privado y a todo el equipo “de confianza”",
+      "summary": "Los cambios afectaron de forma directa al círculo de colaboradores más cercano del jefe de Estado en el Palacio de Gobierno, junto con el relevo del director de Administración. El presidente de la República, Pedro Alliana, dispuso una serie de cambios en la estructura de la Presidencia que afectaron directamente a los funcionarios que integraban su círculo más cercano de colaboradores en el Palacio de Gobierno.",
+      "keyPoints": [
+        "Los cambios afectaron de forma directa al círculo de colaboradores más cercano del jefe de Estado en el Palacio de Gobierno, junto con el relevo del director de Administración.",
+        "El presidente de la República, Pedro Alliana, dispuso una serie de cambios en la estructura de la Presidencia que afectaron directamente a los funcionarios que integraban su círculo más cercano de colaboradores en el Palacio de…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana desmantela el círculo de confianza de su antecesor",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/12/alliana-desmantela-el-circulo-de-confianza-de-su-antecesor",
+          "publishedAt": "2026-11-12T04:36:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/rCcLr_7K5kPKaNi6Kf5ieusfgfg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MY73U7OYKVBLNDHKJV7U22RCMY.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana remueve a secretario privado y desplaza a colaboradores del entorno presidencial",
+          "url": "https://www.adndigital.com.py/alliana-remueve-a-secretario-privado-y-desplaza-a-colaboradores-del-entorno-presidencial",
+          "publishedAt": "2026-11-11T18:58:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ejecutivo en reestructuración: cambian a secretario privado y a todo el equipo “de confianza”",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/11/ejecutivo-removio-al-secretario-privado-del-mandatario-y-a-todo-su-equipo-de-confianza",
+          "publishedAt": "2026-11-11T18:34:41.400Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg?auth=7bd783d6b3099802ec16c3da8e9566ba43cd6f9f9be2867d5975bb7c65430696&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MY73U7OYKVBLNDHKJV7U22RCMY.jpg?auth=e0adfb091013f76a471bef4dd04f7da8ecd14206225ae8fa6265596a480ef1df&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/12/alliana-desmantela-el-circulo-de-confianza-de-su-antecesor"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T08:07:12.018Z",
+      "updatedSlot": "manana",
+      "score": 13.71
     },
     {
       "id": "ev-0agzbgv",
@@ -548,7 +606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 11.94
+      "score": 11.58
     },
     {
       "id": "ev-11791nt",
@@ -608,7 +666,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 11.94
+      "score": 11.58
     },
     {
       "id": "ev-0mjqsm0",
@@ -650,7 +708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.97
+      "score": 9.61
     },
     {
       "id": "ev-0k08jn7",
@@ -692,7 +750,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.96
+      "score": 9.6
     },
     {
       "id": "ev-1ndnui4",
@@ -734,7 +792,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.82
+      "score": 9.46
     },
     {
       "id": "ev-1qphmtr",
@@ -776,7 +834,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.75
+      "score": 9.39
     },
     {
       "id": "ev-1x380xe",
@@ -818,7 +876,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.57
+      "score": 9.2
     },
     {
       "id": "ev-08k3dl4",
@@ -860,269 +918,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.56
-    },
-    {
-      "id": "ev-1apn8p4",
-      "title": "Taiwán aporta USD 30.000 para recuperar viviendas afectadas por inundaciones en Ayolas",
-      "summary": "Más de mil viviendas afectadas por la crecida del río Paraná en Ayolas, departamento de Misiones, serán beneficiadas con recursos destinados a su reparación y reacondicionamiento. La Embajada de Taiwán confirmó una cooperación de USD 30.000, equivalentes a unos G. 186,5 millones, para contribuir a la recuperación de los inmuebles dañados por las inundaciones.",
-      "keyPoints": [
-        "Más de mil viviendas afectadas por la crecida del río Paraná en Ayolas, departamento de Misiones, serán beneficiadas con recursos destinados a su reparación y reacondicionamiento.",
-        "El Gobierno de Taiwán realizó una donación de USD 30.000, equivalentes a unos G. 186,5 millones, para contribuir a la reparación y el reacondicionamiento de viviendas afectadas en Ayolas."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Taiwán aporta USD 30.000 para recuperar viviendas afectadas por inundaciones en Ayolas",
-          "url": "https://www.adndigital.com.py/taiwan-aporta-usd-30-000-para-recuperar-viviendas-afectadas-por-inundaciones-en-ayolas",
-          "publishedAt": "2026-11-11T22:04:43.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Taiwán dona USD 30.000 para reparar viviendas de familias damnificadas en Ayolas",
-          "url": "https://www.lanacion.com.py/pais/2026/11/11/taiwan-dona-usd-30000-para-reparar-viviendas-de-familias-damnificadas-en-ayolas",
-          "publishedAt": "2026-11-11T15:34:26.000Z",
-          "image": "https://www.lanacion.com.py/resizer/nER8g1AeQbIXjI2fnAcyZ7huZb4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/23RTFHKIEJA33AYCTO7KN3NPOI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/23RTFHKIEJA33AYCTO7KN3NPOI.jpg?auth=02d3e0715f431b2d349561ac0603351ad49b5a0c889abf220a4a652110b74e55&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/11/taiwan-dona-usd-30000-para-reparar-viviendas-de-familias-damnificadas-en-ayolas"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.53
-    },
-    {
-      "id": "ev-1uel3nc",
-      "title": "Senad detiene a un joven de 20 años con más de 650 dosis de droga",
-      "summary": "Un operativo sorpresa de la Secretaría Nacional Antidrogas (Senad) en las primeras horas de este miércoles permitió detener a Francisco Pedrozo, un joven de 20 años con antecedentes por comercialización de drogas, en el barrio 8 de Diciembre. La Fiscalía considera que hay elementos suficientes para imputarlo y pedir prisión preventiva.",
-      "keyPoints": [
-        "Un operativo sorpresa de la Secretaría Nacional Antidrogas (Senad) en las primeras horas de este miércoles permitió detener a Francisco Pedrozo, un joven de 20 años con antecedentes por comercialización de drogas, en el barrio 8…",
-        "Un joven de 20 años fue detenido durante un allanamiento en San Juan del Paraná, donde agentes de la SENAD incautaron más de 650 dosis de sustancias presumiblemente ilícitas, un revólver y dinero en efectivo."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Tenía medidas alternativas y volvió a caer por presunta venta de drogas en Itapúa",
-          "url": "https://elnacional.com.py/nacionales/tenia-medidas-alternativas-volvio-caer-presunta-venta-drogas-itapua-n115092",
-          "publishedAt": "2026-11-11T21:05:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af49cfd170fb.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senad detiene a un joven de 20 años con más de 650 dosis de droga",
-          "url": "https://www.lanacion.com.py/pais/2026/11/11/senad-detiene-a-un-joven-de-20-anos-con-mas-de-650-dosis-de-droga",
-          "publishedAt": "2026-11-11T11:59:15.000Z",
-          "image": "https://www.lanacion.com.py/resizer/64oSL-0vg9DsGLoBbbnCOt78GyY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M7C2LNOMARDCDILK3ALBQUA2CE.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/M7C2LNOMARDCDILK3ALBQUA2CE.jfif?auth=547ff93543897c84852d603b2f8921483d69bd15cf1d3c6a4824ebccb2fcdeda&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/11/senad-detiene-a-un-joven-de-20-anos-con-mas-de-650-dosis-de-droga"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.44
-    },
-    {
-      "id": "ev-11eo12n",
-      "title": "Excomandante de la Policía asume la conducción de la Secretaría Nacional de Inteligencia",
-      "summary": "El comisario general retirado Carlos Humberto Benítez González fue designado al frente de la Secretaría Nacional de Inteligencia (SNI), por disposición del presidente de la República, Pedro Alliana, a través del Decreto N.º 7226. El nuevo responsable de la institución reemplaza a Marco Antonio Alcaraz y pasa a ocupar un cargo estratégico dentro del esquema …",
-      "keyPoints": [
-        "El comisario general retirado Carlos Humberto Benítez González fue designado al frente de la Secretaría Nacional de Inteligencia (SNI), por disposición del presidente de la República, Pedro Alliana, a través del Decreto N.º 7226.",
-        "El presidente de la República, Pedro Alliana, dispuso el nombramiento de Carlos Humberto Benítez González como nuevo titular de la Secretaría Nacional de Inteligencia (SNI), mediante el Decreto n.° 7226."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Excomandante de la Policía asume la conducción de la Secretaría Nacional de Inteligencia",
-          "url": "https://www.adndigital.com.py/excomandante-de-la-policia-asume-la-conduccion-de-la-secretaria-nacional-de-inteligencia",
-          "publishedAt": "2026-11-11T20:58:23.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-11-at-175744.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo designa a Carlos Benítez como nuevo titular en la Secretaría de Inteligencia",
-          "url": "https://www.lanacion.com.py/politica/2026/11/11/ejecutivo-designa-a-carlos-benitez-como-nuevo-titular-en-la-secretaria-de-inteligencia",
-          "publishedAt": "2026-11-11T20:16:06.000Z",
-          "image": "https://www.lanacion.com.py/resizer/OZStkUhpFSZ5lbE4I0HBewgiyr0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YSMBSOVDW5H4JATUNA2EV3O3RU.JPG"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-11-at-175744.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/excomandante-de-la-policia-asume-la-conduccion-de-la-secretaria-nacional-de-inteligencia"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.43
-    },
-    {
-      "id": "ev-1vsp605",
-      "title": "Senatur dispone medidas preventivas para proteger a usuarios de servicios turísticos",
-      "summary": "Senatur busca determinar el alcance de los compromisos pendientes de siete empresas turísticas e identificar a los usuarios que requieren atención prioritaria. El cierre operativo de Uela y la resolución de Ueno Bank impulsan medidas preventivas de la SENATUR para resguardar la oferta turística.",
-      "keyPoints": [
-        "Senatur busca determinar el alcance de los compromisos pendientes de siete empresas turísticas e identificar a los usuarios que requieren atención prioritaria.",
-        "El cierre operativo de Uela y la resolución de Ueno Bank impulsan medidas preventivas de la SENATUR para resguardar la oferta turística."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senatur dispone medidas preventivas para proteger a usuarios de servicios turísticos",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/11/senatur-dispone-medidas-preventivas-para-proteger-a-usuarios-de-servicios-turisticos",
-          "publishedAt": "2026-11-11T20:52:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jmUUL0rgGr0w_-JVcgWN9pHOyNc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6R2QH3VOJJCNPKA3U5H2GQQSKE.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Senatur activa medidas preventivas y recepciona reclamos ante la parálisis de Uela",
-          "url": "https://5dias.com.py/article/senatur-activa-medidas-preventivas-y-recepciona-reclamos-ante-la-parlisis-de-uela",
-          "publishedAt": "2026-11-11T17:34:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/SenaturAgencias_20261111_173432.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6R2QH3VOJJCNPKA3U5H2GQQSKE.jpg?auth=2df53648ec005524a3a13db245dd4e702a9d1177fca387f400c678cbbd12a4be&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/11/senatur-dispone-medidas-preventivas-para-proteger-a-usuarios-de-servicios-turisticos"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.43
-    },
-    {
-      "id": "ev-1rz90sy",
-      "title": "Paraguayos residentes en el exterior podrán recurrir a consulados para recuperar depósitos de Ueno Bank",
-      "summary": "Los paraguayos que viven fuera del país y tienen ahorros afectados por la situación de ueno bank podrán gestionar la devolución de sus depósitos mediante los procedimientos establecidos por el Banco Central del Paraguay (BCP). Para quienes encuentren dificultades durante el trámite, las representaciones diplomáticas paraguayas estarán disponibles para brindar orientación y facilitar el contacto …",
-      "keyPoints": [
-        "Los paraguayos que viven fuera del país y tienen ahorros afectados por la situación de ueno bank podrán gestionar la devolución de sus depósitos mediante los procedimientos establecidos por el Banco Central del Paraguay (BCP).",
-        "Los paraguayos que residen en el extrangero y fueron afectados por la situación de ueno bank pueden recuperar sus ahorros siguiendo las instrucciones del Banco Central del Paraguay (BCP), utilizando los canales habilitados."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Paraguayos residentes en el exterior podrán recurrir a consulados para recuperar depósitos de Ueno Bank",
-          "url": "https://www.adndigital.com.py/paraguayos-residentes-en-el-exterior-podran-recurrir-a-consulados-para-recuperar-depositos-de-ueno-bank",
-          "publishedAt": "2026-11-11T20:10:13.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ahorristas de Ueno en el exterior pueden recurrir a consulados para recuperar sus fondos",
-          "url": "https://www.lanacion.com.py/politica/2026/11/11/ahorristas-de-ueno-en-el-exterior-pueden-recurrir-a-consulados-para-recuperar-sus-fondos",
-          "publishedAt": "2026-11-11T18:44:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cQ0GJFApqn6PsCD79y2JsL7MeJE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/paraguayos-residentes-en-el-exterior-podran-recurrir-a-consulados-para-recuperar-depositos-de-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.37
-    },
-    {
-      "id": "ev-0rj5ir8",
-      "title": "Cavapy trasladará las carteras de clientes de Ueno Casa de Bolsa a otras entidades",
-      "summary": "La Caja de Valores del Paraguay (CAVAPY) recibió instrucciones de la Superintendencia de Valores (SIV) para gestionar el traslado de las carteras de inversión de los clientes de Ueno Casa de Bolsa hacia otras entidades que operan en el mercado bursátil.",
-      "keyPoints": [
-        "La Caja de Valores del Paraguay (CAVAPY) recibió instrucciones de la Superintendencia de Valores (SIV) para gestionar el traslado de las carteras de inversión de los clientes de Ueno Casa de Bolsa hacia otras entidades que…",
-        "La Superintendencia de Valores ordenó a CAVAPY transferir las carteras de clientes de Ueno Casa de Bolsa a otras intermediarias, mientras los fondos mutuos administrados por Ueno AFPISA permanecen suspendidos."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Cavapy trasladará las carteras de clientes de Ueno Casa de Bolsa a otras entidades",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/11/cavapy-trasladara-las-carteras-de-clientes-de-ueno-casa-de-bolsa-a-otras-entidades",
-          "publishedAt": "2026-11-11T20:06:35.000Z",
-          "image": "https://www.lanacion.com.py/resizer/NiWbbbTMv2R1XcvTJfCRLOBSEKY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/K7XJ4UZDLFD4FDMOTELAUVU3EM.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "CAVAPY dispone el traslado de carteras de ueno Casa de Bolsa, por orden de la SV",
-          "url": "https://5dias.com.py/article/cavapy-dispone-el-traslado-de-carteras-de-ueno-casa-de-bolsa-por-orden-de-la-sv",
-          "publishedAt": "2026-11-11T17:54:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Foto_2_-_ueno_bank.._20261103_103645.png"
-        }
-      ],
-      "image": {
-        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Foto_2_-_ueno_bank.._20261103_103645.png",
-        "credit": "5Días",
-        "articleUrl": "https://5dias.com.py/article/cavapy-dispone-el-traslado-de-carteras-de-ueno-casa-de-bolsa-por-orden-de-la-sv"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 9.36
+      "score": 9.2
     },
     {
       "id": "ev-1nqcewr",
-      "title": "El papa León XIV llega a Perú, su país adoptivo",
-      "summary": "Tras visitar Uruguay y Argentina , León XIV tendrá en Perú la etapa más larga de esta gira sudamericana, con un total de seis días en los que visitará las ciudades de Lima, Cusco, Pucallpa y Chiclayo , donde recorrerá distintos lugares de su antigua diócesis, en la que fue obispo durante ocho años (2015-2023).",
+      "title": "Los diez momentos que marcarán el reencuentro del papa León XIV con Perú",
+      "summary": "La visita tendrá estos momentos álgidos: León XIV se reunirá el jueves con distintos colectivos de la sociedad peruana en la plaza mayor de Lima , un acto donde se espera que el pontífice dé su mensaje más político para el país al que también pertenece, si bien no estarán como interlocutores algunos grupos valorados inicialmente, como representantes de la violencia estatal en distintos periodos de la historia reciente.",
       "keyPoints": [
-        "Tras visitar Uruguay y Argentina , León XIV tendrá en Perú la etapa más larga de esta gira sudamericana, con un total de seis días en los que visitará las ciudades de Lima, Cusco, Pucallpa y…",
-        "Tras visitar Uruguay y Argentina, León XIV tendrá en Perú la etapa más larga de esta gira sudamericana, con un total de seis días en los que visitará las ciudades de Lima, Cusco, Pucallpa y Chiclayo…",
-        "El papa León XIV llegó el miércoles a Perú, un país muy significativo para él y donde vivió casi dos décadas, en la última etapa de una intensa gira en Sudamérica después de visitar Uruguay y…",
-        "La visita tendrá estos momentos álgidos: León XIV se reunirá el jueves con distintos colectivos de la sociedad peruana en la plaza mayor de Lima , un acto donde se espera que el pontífice dé su…"
+        "La visita tendrá estos momentos álgidos: León XIV se reunirá el jueves con distintos colectivos de la sociedad peruana en la plaza mayor de Lima , un acto donde se espera que el pontífice dé su…",
+        "Desde que fue elegido como líder de la Iglesia católica el 8 de mayo de 2025 y diese en español un afectuoso saludo a su querida diócesis de Chiclayo, en la que fue obispo por ocho…",
+        "León XIV llegó a la sede de la Presidencia peruana tras un breve recorrido en el 'papamóvil' por el centro histórico de la capital Lima, donde fue aclamado por miles de peruanos que dieron la bienvenida…",
+        "\"Me alegra profundamente volver al Perú\", fueron las primeras palabras del papa tras su llegada de Argentina después de incluso cantar el himno nacional en la recepción oficial junto a Fujimori."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -1130,6 +936,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Papa León XIV vuelve a Perú con masivo recibimiento y pide ante sus autoridades honestidad",
+          "url": "https://www.abc.com.py/internacionales/2026/11/12/papa-leon-xiv-vuelve-a-peru-con-masivo-recibimiento-y-pide-ante-sus-autoridades-honestidad",
+          "publishedAt": "2026-11-12T04:20:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV en Perú: \"Puedo decirles, con profunda gratitud, que regreso también a mi patria\"",
+          "url": "https://www.abc.com.py/internacionales/2026/11/11/leon-xiv-en-peru-puedo-decirles-con-profunda-gratitud-que-regreso-tambien-a-mi-patria",
+          "publishedAt": "2026-11-12T02:10:18.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -1204,25 +1026,25 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/RZSE4NQL4FBBRANJY7WDGJDRCE.jpg?auth=1e44dc208f8523f074f54f0edb21e07442a453e5b7dfeb6b8e088ad2a1c75560&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/EZ443IB5RZCRRMPEASCSS6AGDU.jpg?auth=11260ed3ec71473b71faf073a05b1db6d6d3e5e10a34c3f82767a3cb98ac7864&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/11/el-papa-leon-xiv-llega-a-peru-su-pais-adoptivo"
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/11/los-diez-momentos-que-marcaran-el-reencuentro-del-papa-leon-xiv-con-peru"
       },
       "firstSeenAt": "2026-11-12T03:45:18.647Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedAt": "2026-11-12T08:07:12.018Z",
       "updatedSlot": "manana",
-      "score": 9.31
+      "score": 9.18
     },
     {
-      "id": "ev-0tepzx7",
-      "title": "Alliana remueve a secretario privado y desplaza a colaboradores del entorno presidencial",
-      "summary": "El presidente de la República, Pedro Alliana, dispuso una serie de cambios en la estructura de la Presidencia que afectaron directamente a los funcionarios que integraban su círculo más cercano de colaboradores en el Palacio de Gobierno. La reestructuración incluyó la salida del secretario privado, Jorge Salvador Cappello Bernal, además de la desvinculación de varios …",
+      "id": "ev-1apn8p4",
+      "title": "Taiwán aporta USD 30.000 para recuperar viviendas afectadas por inundaciones en Ayolas",
+      "summary": "Más de mil viviendas afectadas por la crecida del río Paraná en Ayolas, departamento de Misiones, serán beneficiadas con recursos destinados a su reparación y reacondicionamiento. La Embajada de Taiwán confirmó una cooperación de USD 30.000, equivalentes a unos G. 186,5 millones, para contribuir a la recuperación de los inmuebles dañados por las inundaciones.",
       "keyPoints": [
-        "El presidente de la República, Pedro Alliana, dispuso una serie de cambios en la estructura de la Presidencia que afectaron directamente a los funcionarios que integraban su círculo más cercano de colaboradores en el Palacio de…",
-        "Los cambios afectaron de forma directa al círculo de colaboradores más cercano del jefe de Estado en el Palacio de Gobierno, junto con el relevo del director de Administración."
+        "Más de mil viviendas afectadas por la crecida del río Paraná en Ayolas, departamento de Misiones, serán beneficiadas con recursos destinados a su reparación y reacondicionamiento.",
+        "El Gobierno de Taiwán realizó una donación de USD 30.000, equivalentes a unos G. 186,5 millones, para contribuir a la reparación y el reacondicionamiento de viviendas afectadas en Ayolas."
       ],
-      "category": "politica",
+      "category": "tecnologia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
@@ -1231,26 +1053,240 @@
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Alliana remueve a secretario privado y desplaza a colaboradores del entorno presidencial",
-          "url": "https://www.adndigital.com.py/alliana-remueve-a-secretario-privado-y-desplaza-a-colaboradores-del-entorno-presidencial",
-          "publishedAt": "2026-11-11T18:58:21.000Z",
+          "title": "Taiwán aporta USD 30.000 para recuperar viviendas afectadas por inundaciones en Ayolas",
+          "url": "https://www.adndigital.com.py/taiwan-aporta-usd-30-000-para-recuperar-viviendas-afectadas-por-inundaciones-en-ayolas",
+          "publishedAt": "2026-11-11T22:04:43.000Z",
           "image": null
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ejecutivo en reestructuración: cambian a secretario privado y a todo el equipo “de confianza”",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/11/ejecutivo-removio-al-secretario-privado-del-mandatario-y-a-todo-su-equipo-de-confianza",
-          "publishedAt": "2026-11-11T18:34:41.400Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg?auth=7bd783d6b3099802ec16c3da8e9566ba43cd6f9f9be2867d5975bb7c65430696&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Taiwán dona USD 30.000 para reparar viviendas de familias damnificadas en Ayolas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/11/taiwan-dona-usd-30000-para-reparar-viviendas-de-familias-damnificadas-en-ayolas",
+          "publishedAt": "2026-11-11T15:34:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nER8g1AeQbIXjI2fnAcyZ7huZb4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/23RTFHKIEJA33AYCTO7KN3NPOI.jpg"
         }
       ],
-      "image": null,
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/23RTFHKIEJA33AYCTO7KN3NPOI.jpg?auth=02d3e0715f431b2d349561ac0603351ad49b5a0c889abf220a4a652110b74e55&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/11/taiwan-dona-usd-30000-para-reparar-viviendas-de-familias-damnificadas-en-ayolas"
+      },
       "firstSeenAt": "2026-11-12T03:45:18.647Z",
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.27
+      "score": 9.16
+    },
+    {
+      "id": "ev-1uel3nc",
+      "title": "Senad detiene a un joven de 20 años con más de 650 dosis de droga",
+      "summary": "Un operativo sorpresa de la Secretaría Nacional Antidrogas (Senad) en las primeras horas de este miércoles permitió detener a Francisco Pedrozo, un joven de 20 años con antecedentes por comercialización de drogas, en el barrio 8 de Diciembre. La Fiscalía considera que hay elementos suficientes para imputarlo y pedir prisión preventiva.",
+      "keyPoints": [
+        "Un operativo sorpresa de la Secretaría Nacional Antidrogas (Senad) en las primeras horas de este miércoles permitió detener a Francisco Pedrozo, un joven de 20 años con antecedentes por comercialización de drogas, en el barrio 8…",
+        "Un joven de 20 años fue detenido durante un allanamiento en San Juan del Paraná, donde agentes de la SENAD incautaron más de 650 dosis de sustancias presumiblemente ilícitas, un revólver y dinero en efectivo."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tenía medidas alternativas y volvió a caer por presunta venta de drogas en Itapúa",
+          "url": "https://elnacional.com.py/nacionales/tenia-medidas-alternativas-volvio-caer-presunta-venta-drogas-itapua-n115092",
+          "publishedAt": "2026-11-11T21:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af49cfd170fb.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senad detiene a un joven de 20 años con más de 650 dosis de droga",
+          "url": "https://www.lanacion.com.py/pais/2026/11/11/senad-detiene-a-un-joven-de-20-anos-con-mas-de-650-dosis-de-droga",
+          "publishedAt": "2026-11-11T11:59:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/64oSL-0vg9DsGLoBbbnCOt78GyY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M7C2LNOMARDCDILK3ALBQUA2CE.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/M7C2LNOMARDCDILK3ALBQUA2CE.jfif?auth=547ff93543897c84852d603b2f8921483d69bd15cf1d3c6a4824ebccb2fcdeda&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/11/senad-detiene-a-un-joven-de-20-anos-con-mas-de-650-dosis-de-droga"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedSlot": "manana",
+      "score": 9.08
+    },
+    {
+      "id": "ev-11eo12n",
+      "title": "Excomandante de la Policía asume la conducción de la Secretaría Nacional de Inteligencia",
+      "summary": "El comisario general retirado Carlos Humberto Benítez González fue designado al frente de la Secretaría Nacional de Inteligencia (SNI), por disposición del presidente de la República, Pedro Alliana, a través del Decreto N.º 7226. El nuevo responsable de la institución reemplaza a Marco Antonio Alcaraz y pasa a ocupar un cargo estratégico dentro del esquema …",
+      "keyPoints": [
+        "El comisario general retirado Carlos Humberto Benítez González fue designado al frente de la Secretaría Nacional de Inteligencia (SNI), por disposición del presidente de la República, Pedro Alliana, a través del Decreto N.º 7226.",
+        "El presidente de la República, Pedro Alliana, dispuso el nombramiento de Carlos Humberto Benítez González como nuevo titular de la Secretaría Nacional de Inteligencia (SNI), mediante el Decreto n.° 7226."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Excomandante de la Policía asume la conducción de la Secretaría Nacional de Inteligencia",
+          "url": "https://www.adndigital.com.py/excomandante-de-la-policia-asume-la-conduccion-de-la-secretaria-nacional-de-inteligencia",
+          "publishedAt": "2026-11-11T20:58:23.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-11-at-175744.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo designa a Carlos Benítez como nuevo titular en la Secretaría de Inteligencia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/ejecutivo-designa-a-carlos-benitez-como-nuevo-titular-en-la-secretaria-de-inteligencia",
+          "publishedAt": "2026-11-11T20:16:06.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OZStkUhpFSZ5lbE4I0HBewgiyr0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YSMBSOVDW5H4JATUNA2EV3O3RU.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-11-at-175744.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/excomandante-de-la-policia-asume-la-conduccion-de-la-secretaria-nacional-de-inteligencia"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedSlot": "manana",
+      "score": 9.07
+    },
+    {
+      "id": "ev-1vsp605",
+      "title": "Senatur dispone medidas preventivas para proteger a usuarios de servicios turísticos",
+      "summary": "Senatur busca determinar el alcance de los compromisos pendientes de siete empresas turísticas e identificar a los usuarios que requieren atención prioritaria. El cierre operativo de Uela y la resolución de Ueno Bank impulsan medidas preventivas de la SENATUR para resguardar la oferta turística.",
+      "keyPoints": [
+        "Senatur busca determinar el alcance de los compromisos pendientes de siete empresas turísticas e identificar a los usuarios que requieren atención prioritaria.",
+        "El cierre operativo de Uela y la resolución de Ueno Bank impulsan medidas preventivas de la SENATUR para resguardar la oferta turística."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senatur dispone medidas preventivas para proteger a usuarios de servicios turísticos",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/11/senatur-dispone-medidas-preventivas-para-proteger-a-usuarios-de-servicios-turisticos",
+          "publishedAt": "2026-11-11T20:52:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jmUUL0rgGr0w_-JVcgWN9pHOyNc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6R2QH3VOJJCNPKA3U5H2GQQSKE.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Senatur activa medidas preventivas y recepciona reclamos ante la parálisis de Uela",
+          "url": "https://5dias.com.py/article/senatur-activa-medidas-preventivas-y-recepciona-reclamos-ante-la-parlisis-de-uela",
+          "publishedAt": "2026-11-11T17:34:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/SenaturAgencias_20261111_173432.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6R2QH3VOJJCNPKA3U5H2GQQSKE.jpg?auth=2df53648ec005524a3a13db245dd4e702a9d1177fca387f400c678cbbd12a4be&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/11/senatur-dispone-medidas-preventivas-para-proteger-a-usuarios-de-servicios-turisticos"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedSlot": "manana",
+      "score": 9.06
+    },
+    {
+      "id": "ev-1rz90sy",
+      "title": "Paraguayos residentes en el exterior podrán recurrir a consulados para recuperar depósitos de Ueno Bank",
+      "summary": "Los paraguayos que viven fuera del país y tienen ahorros afectados por la situación de ueno bank podrán gestionar la devolución de sus depósitos mediante los procedimientos establecidos por el Banco Central del Paraguay (BCP). Para quienes encuentren dificultades durante el trámite, las representaciones diplomáticas paraguayas estarán disponibles para brindar orientación y facilitar el contacto …",
+      "keyPoints": [
+        "Los paraguayos que viven fuera del país y tienen ahorros afectados por la situación de ueno bank podrán gestionar la devolución de sus depósitos mediante los procedimientos establecidos por el Banco Central del Paraguay (BCP).",
+        "Los paraguayos que residen en el extrangero y fueron afectados por la situación de ueno bank pueden recuperar sus ahorros siguiendo las instrucciones del Banco Central del Paraguay (BCP), utilizando los canales habilitados."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Paraguayos residentes en el exterior podrán recurrir a consulados para recuperar depósitos de Ueno Bank",
+          "url": "https://www.adndigital.com.py/paraguayos-residentes-en-el-exterior-podran-recurrir-a-consulados-para-recuperar-depositos-de-ueno-bank",
+          "publishedAt": "2026-11-11T20:10:13.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ahorristas de Ueno en el exterior pueden recurrir a consulados para recuperar sus fondos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/ahorristas-de-ueno-en-el-exterior-pueden-recurrir-a-consulados-para-recuperar-sus-fondos",
+          "publishedAt": "2026-11-11T18:44:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cQ0GJFApqn6PsCD79y2JsL7MeJE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/ueno.png",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/paraguayos-residentes-en-el-exterior-podran-recurrir-a-consulados-para-recuperar-depositos-de-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedSlot": "manana",
+      "score": 9
+    },
+    {
+      "id": "ev-0rj5ir8",
+      "title": "Cavapy trasladará las carteras de clientes de Ueno Casa de Bolsa a otras entidades",
+      "summary": "La Caja de Valores del Paraguay (CAVAPY) recibió instrucciones de la Superintendencia de Valores (SIV) para gestionar el traslado de las carteras de inversión de los clientes de Ueno Casa de Bolsa hacia otras entidades que operan en el mercado bursátil.",
+      "keyPoints": [
+        "La Caja de Valores del Paraguay (CAVAPY) recibió instrucciones de la Superintendencia de Valores (SIV) para gestionar el traslado de las carteras de inversión de los clientes de Ueno Casa de Bolsa hacia otras entidades que…",
+        "La Superintendencia de Valores ordenó a CAVAPY transferir las carteras de clientes de Ueno Casa de Bolsa a otras intermediarias, mientras los fondos mutuos administrados por Ueno AFPISA permanecen suspendidos."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cavapy trasladará las carteras de clientes de Ueno Casa de Bolsa a otras entidades",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/11/cavapy-trasladara-las-carteras-de-clientes-de-ueno-casa-de-bolsa-a-otras-entidades",
+          "publishedAt": "2026-11-11T20:06:35.000Z",
+          "image": "https://www.lanacion.com.py/resizer/NiWbbbTMv2R1XcvTJfCRLOBSEKY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/K7XJ4UZDLFD4FDMOTELAUVU3EM.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "CAVAPY dispone el traslado de carteras de ueno Casa de Bolsa, por orden de la SV",
+          "url": "https://5dias.com.py/article/cavapy-dispone-el-traslado-de-carteras-de-ueno-casa-de-bolsa-por-orden-de-la-sv",
+          "publishedAt": "2026-11-11T17:54:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Foto_2_-_ueno_bank.._20261103_103645.png"
+        }
+      ],
+      "image": {
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Foto_2_-_ueno_bank.._20261103_103645.png",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/cavapy-dispone-el-traslado-de-carteras-de-ueno-casa-de-bolsa-por-orden-de-la-sv"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T03:45:18.647Z",
+      "updatedSlot": "manana",
+      "score": 9
     },
     {
       "id": "ev-0f4l2fl",
@@ -1292,7 +1328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.22
+      "score": 8.86
     },
     {
       "id": "ev-1a0be1k",
@@ -1334,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.69
     },
     {
       "id": "ev-0lgh5as",
@@ -1372,7 +1408,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 8.96
+      "score": 8.6
     },
     {
       "id": "ev-0gavepa",
@@ -1423,7 +1459,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 7.88
+    },
+    {
+      "id": "ev-00sc2g8",
+      "title": "Diputados define mañana el proyecto del Presupuesto 2027",
+      "summary": "La presidencia de la Cámara de Diputados convocó a sesión extraordinaria para mañana jueves a las 10:00. La sesión extraordinaria debió realizarse el pasado lunes, sin embargo fue suspendida a pedido del presidente de la República, Pedro Alliana. Tras la crisis por el caso ueno bank, el Ministerio de Economía anunció la presentación de una adenda con modificaciones al proyecto de PGN 2027.",
+      "keyPoints": [
+        "La presidencia de la Cámara de Diputados convocó a sesión extraordinaria para mañana jueves a las 10:00.",
+        "La sesión extraordinaria debió realizarse el pasado lunes, sin embargo fue suspendida a pedido del presidente de la República, Pedro Alliana.",
+        "Tras la crisis por el caso ueno bank, el Ministerio de Economía anunció la presentación de una adenda con modificaciones al proyecto de PGN 2027."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Definen en la Cámara Baja proyecto del Presupuesto 2027",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/12/definen-en-la-camara-baja-proyecto-del-presupuesto-2027",
+          "publishedAt": "2026-11-12T04:19:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/18cnkFsuxbL2GBplIXSmhES4t-Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PX6EFEE4M5CKFFMAJOC3QIPTWE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ministerio de Economía remite adenda a Diputados con un recorte de USD 276 millones",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/ministerio-de-economia-remite-adenda-a-diputados-con-un-recorte-de-usd-276-millones",
+          "publishedAt": "2026-11-12T01:00:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Diputados define mañana el proyecto del Presupuesto 2027",
+          "url": "https://www.lanacion.com.py/politica/2026/11/11/diputados-define-manana-el-proyecto-del-presupuesto-2027",
+          "publishedAt": "2026-11-11T17:39:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/diNLS_S5rScyYNqfboFtUoZs230=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6OU5RUQKLBFFBN4CV4K2KBT66Y.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6OU5RUQKLBFFBN4CV4K2KBT66Y.jpeg?auth=7cf81e15a30d02394fadc98ef464983e7fc681dba0619fc8a4450f037922a089&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/11/diputados-define-manana-el-proyecto-del-presupuesto-2027"
+      },
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T08:07:12.018Z",
+      "updatedSlot": "manana",
+      "score": 7.68
     },
     {
       "id": "ev-0ijheru",
@@ -1465,7 +1552,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.99
+      "score": 6.63
     },
     {
       "id": "ev-0hvw1l9",
@@ -1507,7 +1594,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.94
+      "score": 6.58
     },
     {
       "id": "ev-08x4522",
@@ -1549,7 +1636,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.94
+      "score": 6.58
     },
     {
       "id": "ev-1jk2t66",
@@ -1591,7 +1678,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.94
+      "score": 6.58
     },
     {
       "id": "ev-0j5qnfa",
@@ -1633,7 +1720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.94
+      "score": 6.58
     },
     {
       "id": "ev-0mw99uu",
@@ -1675,49 +1762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.94
-    },
-    {
-      "id": "ev-00sc2g8",
-      "title": "Ministerio de Economía remite adenda a Diputados con un recorte de USD 276 millones",
-      "summary": "Tras la crisis por el caso ueno bank, el Ministerio de Economía anunció la presentación de una adenda con modificaciones al proyecto de PGN 2027. Es así que se plantea un recorte y reasignación presupuestaria por valor 276 millones de dólares para el ejercicio fiscal 2027.",
-      "keyPoints": [
-        "Tras la crisis por el caso ueno bank, el Ministerio de Economía anunció la presentación de una adenda con modificaciones al proyecto de PGN 2027.",
-        "La presidencia de la Cámara de Diputados convocó a sesión extraordinaria para mañana jueves a las 10:00."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ministerio de Economía remite adenda a Diputados con un recorte de USD 276 millones",
-          "url": "https://www.lanacion.com.py/politica/2026/11/11/ministerio-de-economia-remite-adenda-a-diputados-con-un-recorte-de-usd-276-millones",
-          "publishedAt": "2026-11-12T01:00:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4X5UY9yz1lvOv6lf7d5YL87eyJQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Diputados define mañana el proyecto del Presupuesto 2027",
-          "url": "https://www.lanacion.com.py/politica/2026/11/11/diputados-define-manana-el-proyecto-del-presupuesto-2027",
-          "publishedAt": "2026-11-11T17:39:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/diNLS_S5rScyYNqfboFtUoZs230=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6OU5RUQKLBFFBN4CV4K2KBT66Y.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MQBSZU3WZZGZ3AG4LUJ6EDU4Z4.JPEG?auth=612164b07524ae522bed08c05da13ae2ad922642aaad0dba9be60ed2aef6edba&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/11/ministerio-de-economia-remite-adenda-a-diputados-con-un-recorte-de-usd-276-millones"
-      },
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 6.77
+      "score": 6.58
     },
     {
       "id": "ev-0toa8xa",
@@ -1759,7 +1804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.71
+      "score": 6.34
     },
     {
       "id": "ev-12htx7f",
@@ -1801,7 +1846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 6.6
+      "score": 6.24
     },
     {
       "id": "ev-16elzx0",
@@ -1834,7 +1879,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.98
+      "score": 5.61
     },
     {
       "id": "ev-0o3o8ac",
@@ -1863,7 +1908,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.59
     },
     {
       "id": "ev-1akl877",
@@ -1896,7 +1941,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.59
     },
     {
       "id": "ev-0foo2gt",
@@ -1929,7 +1974,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.58
     },
     {
       "id": "ev-1ufgst5",
@@ -1962,7 +2007,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.58
     },
     {
       "id": "ev-1k568oq",
@@ -1991,7 +2036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.58
     },
     {
       "id": "ev-1v3y68s",
@@ -2024,7 +2069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.58
     },
     {
       "id": "ev-0u2pl2d",
@@ -2053,7 +2098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.93
+      "score": 5.57
     },
     {
       "id": "ev-01omhsd",
@@ -2086,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.83
+      "score": 5.47
     },
     {
       "id": "ev-05ycdu5",
@@ -2119,7 +2164,54 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.56
+      "score": 5.2
+    },
+    {
+      "id": "ev-1vva6gc",
+      "title": "La presunta espía china del caso Nvidia está en Pekín, según Bloomberg",
+      "summary": "Alice Huang, también conocida como Huang Le, estaría viviendo en Pekín con conocimiento de funcionarios chinos, aunque no está claro cuándo ni por qué viajó a la ciudad ni qué contactos habría mantenido desde su llegada. Bloomberg indicó que la empresaria fundó Megaspeed International, compañía singapurense dedicada a servicios de computación para inteligencia artificial y que llegó a convertirse en uno de los principales socios de Nvidia en el sureste asiático.",
+      "keyPoints": [
+        "Alice Huang, también conocida como Huang Le, estaría viviendo en Pekín con conocimiento de funcionarios chinos, aunque no está claro cuándo ni por qué viajó a la ciudad ni qué contactos habría mantenido desde su llegada.",
+        "Así lo manifestó el ministro del Consejo de Asuntos Continentales (MAC) de Taiwán -el organismo gubernamental encargado de las relaciones con China-, Chiu Chui-cheng, durante una comparecencia parlamentaria recogida por la agencia de noticias CNA.",
+        "Fuentes conocedoras del asunto informaron al medio que este miércoles tendrá lugar una reunión para discutir el futuro de Huang, cofundador de una de las principales empresas diseñadoras de microchips del mundo."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La presunta espía del caso Nvidia ingresó ocho veces a Taiwán entre 2024 y 2025",
+          "url": "https://www.abc.com.py/internacionales/2026/11/12/la-presunta-espia-del-caso-nvidia-ingreso-ocho-veces-a-taiwan-entre-2024-y-2025",
+          "publishedAt": "2026-11-12T03:55:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La presunta espía china del caso Nvidia está en Pekín, según Bloomberg",
+          "url": "https://www.abc.com.py/internacionales/2026/11/12/la-presunta-espia-china-del-caso-nvidia-esta-en-pekin-segun-bloomberg",
+          "publishedAt": "2026-11-12T03:00:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nvidia evalúa cesar a Jensen Huang por su relación con una presunta espía china, según WSJ",
+          "url": "https://www.abc.com.py/ciencia/2026/11/11/nvidia-evalua-cesar-a-jensen-huang-por-su-relacion-con-una-presunta-espia-china-segun-wsj",
+          "publishedAt": "2026-11-12T02:25:06.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-12T03:45:18.647Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-12T08:07:12.018Z",
+      "updatedSlot": "manana",
+      "score": 5.15
     },
     {
       "id": "ev-18wzjly",
@@ -2152,7 +2244,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.43
+      "score": 5.06
     },
     {
       "id": "ev-1op1xdn",
@@ -2185,7 +2277,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.26
+      "score": 4.9
     },
     {
       "id": "ev-0jjgew4",
@@ -2218,45 +2310,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-12T03:45:18.647Z",
       "updatedSlot": "manana",
-      "score": 5.23
-    },
-    {
-      "id": "ev-1vva6gc",
-      "title": "La presunta espía china del caso Nvidia está en Pekín, según Bloomberg",
-      "summary": "Alice Huang, también conocida como Huang Le, estaría viviendo en Pekín con conocimiento de funcionarios chinos, aunque no está claro cuándo ni por qué viajó a la ciudad ni qué contactos habría mantenido desde su llegada. Bloomberg indicó que la empresaria fundó Megaspeed International, compañía singapurense dedicada a servicios de computación para inteligencia artificial y que llegó a convertirse en uno de los principales socios de Nvidia en el sureste asiático.",
-      "keyPoints": [
-        "Alice Huang, también conocida como Huang Le, estaría viviendo en Pekín con conocimiento de funcionarios chinos, aunque no está claro cuándo ni por qué viajó a la ciudad ni qué contactos habría mantenido desde su llegada.",
-        "Fuentes conocedoras del asunto informaron al medio que este miércoles tendrá lugar una reunión para discutir el futuro de Huang, cofundador de una de las principales empresas diseñadoras de microchips del mundo."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La presunta espía china del caso Nvidia está en Pekín, según Bloomberg",
-          "url": "https://www.abc.com.py/internacionales/2026/11/12/la-presunta-espia-china-del-caso-nvidia-esta-en-pekin-segun-bloomberg",
-          "publishedAt": "2026-11-12T03:00:14.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Nvidia evalúa cesar a Jensen Huang por su relación con una presunta espía china, según WSJ",
-          "url": "https://www.abc.com.py/ciencia/2026/11/11/nvidia-evalua-cesar-a-jensen-huang-por-su-relacion-con-una-presunta-espia-china-segun-wsj",
-          "publishedAt": "2026-11-12T02:25:06.000Z",
-          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-12T03:45:18.647Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-12T03:45:18.647Z",
-      "updatedSlot": "manana",
-      "score": 4.44
+      "score": 4.87
     }
   ],
   "runs": [
@@ -2266,6 +2320,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 60
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-12T08:07:12.018Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 7
     }
   ]
 }
