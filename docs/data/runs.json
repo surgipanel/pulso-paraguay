@@ -1,5 +1,37 @@
 [
   {
+    "startedAt": "2026-11-13T08:07:09.736Z",
+    "finishedAt": "2026-11-13T08:08:47.205Z",
+    "edition": "2026-11-13",
+    "slot": "manana",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 301,
+    "clusters": 213,
+    "candidates": 12,
+    "added": 0,
+    "updated": 6,
+    "eventsTotal": 50,
+    "sourcesOk": 11,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgzaw9rTbg2Gz785oC1HT\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgzawA95Kn9v7FdRW9FTw\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 12
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-13T03:22:06.117Z",
     "finishedAt": "2026-11-13T03:23:55.480Z",
     "edition": "2026-11-13",
@@ -2322,35 +2354,6 @@
       "inputTokens": 32397,
       "outputTokens": 29109,
       "fallbacks": 4
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-10-31T02:16:18.442Z",
-    "finishedAt": "2026-10-31T02:19:06.318Z",
-    "edition": "2026-10-30",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 297,
-    "clusters": 243,
-    "candidates": 12,
-    "added": 0,
-    "updated": 1,
-    "eventsTotal": 50,
-    "sourcesOk": 11,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 1,
-      "aiErrors": [
-        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 5758 (line 1 column 5759)"
-      ],
-      "inputTokens": 7436,
-      "outputTokens": 3920,
-      "fallbacks": 6
     },
     "forced": false
   }
