@@ -1,5 +1,37 @@
 [
   {
+    "startedAt": "2026-11-13T16:06:54.309Z",
+    "finishedAt": "2026-11-13T16:08:30.581Z",
+    "edition": "2026-11-13",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 298,
+    "clusters": 211,
+    "candidates": 12,
+    "added": 0,
+    "updated": 9,
+    "eventsTotal": 50,
+    "sourcesOk": 11,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch1DWti2MCFDFsVaoFFU6\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch1DWuHGEg3dqCNkadjdY\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 12
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-13T12:07:10.992Z",
     "finishedAt": "2026-11-13T12:08:47.389Z",
     "edition": "2026-11-13",
@@ -2331,33 +2363,6 @@
       "aiErrors": [],
       "inputTokens": 9693,
       "outputTokens": 8122,
-      "fallbacks": 0
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-10-31T12:07:13.960Z",
-    "finishedAt": "2026-10-31T12:09:28.215Z",
-    "edition": "2026-10-31",
-    "slot": "manana",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 301,
-    "clusters": 253,
-    "candidates": 12,
-    "added": 0,
-    "updated": 4,
-    "eventsTotal": 50,
-    "sourcesOk": 10,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 2,
-      "aiErrors": [],
-      "inputTokens": 10885,
-      "outputTokens": 10589,
       "fallbacks": 0
     },
     "forced": false
