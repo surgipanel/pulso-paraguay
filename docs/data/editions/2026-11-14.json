@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-14T19:37:09.799Z",
+  "generatedAt": "2026-11-14T23:07:11.515Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -184,17 +184,15 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T19:37:09.799Z",
       "updatedSlot": "tarde",
-      "score": 29.72
+      "score": 29.43
     },
     {
       "id": "ev-1kar226",
-      "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
-      "summary": "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente intensos. En las zonas de mayor afectación, los acumulados de lluvia podrían alcanzar entre 50 y 70 mm, con …",
+      "title": "Meteorología prevé un sábado muy caluroso y probables lluvias intensas",
+      "summary": "El ambiente caluroso persistirá hoy, en una jornada que combinará altas temperaturas con lluvias acompañadas de ocasionales tormentas eléctricas de variada intensidad y con probabilidad de tiempo severo. La Dirección de Meteorología e Hidrología anuncia para este sábado lluvias y tormentas eléctricas que afectarán a ocho departamentos del país.",
       "keyPoints": [
-        "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente…",
-        "Para este sábado se pronostica un ambiente caluroso, con cielo parcialmente nublado a nublado y vientos predominantes del norte, que posteriormente pasarán a ser variables.",
-        "Se esperan fuerte ráfagas de vientos y la ocasional caída de granizos de forma puntual.",
-        "La Dirección de Meteorología anuncia un sábado inestable con altas probabilidades de lluvias, tormentas y caída de granizos en muchas zonas de Paraguay."
+        "El ambiente caluroso persistirá hoy, en una jornada que combinará altas temperaturas con lluvias acompañadas de ocasionales tormentas eléctricas de variada intensidad y con probabilidad de tiempo severo.",
+        "La Dirección de Meteorología e Hidrología anuncia para este sábado lluvias y tormentas eléctricas que afectarán a ocho departamentos del país."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -202,6 +200,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Rige alerta de lluvias y tormentas para ocho departamentos del país",
+          "url": "https://www.ultimahora.com/rige-alerta-de-lluvias-y-tormentas-para-ocho-departamentos-del-pais",
+          "publishedAt": "2026-11-14T20:16:05.000Z",
+          "image": null
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -292,15 +298,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/03/LLUVIA.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JF3YZBSKFJFY7PQ367SXBNAR24.jpg?auth=e9e15002b6c86f99bd2c2fa54fcb82169b7fc488f2a651a93d7be9956d3e8a7f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/14/meteorologia-preve-un-sabado-muy-caluroso-y-probables-lluvias-intensas"
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-14T12:07:11.260Z",
-      "updatedSlot": "manana",
-      "score": 26.34
+      "updatedAt": "2026-11-14T23:07:11.515Z",
+      "updatedSlot": "tarde",
+      "score": 26.76
     },
     {
       "id": "ev-1muqubi",
@@ -376,7 +382,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 23.32
+      "score": 23.02
     },
     {
       "id": "ev-0q9lxv3",
@@ -476,7 +482,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T19:37:09.799Z",
       "updatedSlot": "tarde",
-      "score": 20.77
+      "score": 20.47
     },
     {
       "id": "ev-1bbiwyy",
@@ -600,7 +606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 20.62
+      "score": 20.33
     },
     {
       "id": "ev-0g8lvo4",
@@ -667,7 +673,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 17.62
+      "score": 17.33
     },
     {
       "id": "ev-06le36i",
@@ -743,7 +749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 17.41
+      "score": 17.11
     },
     {
       "id": "ev-04i1ebw",
@@ -802,7 +808,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.32
+      "score": 17.03
     },
     {
       "id": "ev-0fowh3w",
@@ -877,7 +883,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.28
+      "score": 16.99
     },
     {
       "id": "ev-1m8xdyu",
@@ -937,7 +943,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 16.26
+      "score": 16
     },
     {
       "id": "ev-0n3yvx2",
@@ -995,7 +1001,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T19:37:09.799Z",
       "updatedSlot": "tarde",
-      "score": 14.78
+      "score": 14.49
     },
     {
       "id": "ev-147nvn7",
@@ -1135,7 +1141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.16
+      "score": 13.87
     },
     {
       "id": "ev-19lfg6r",
@@ -1251,7 +1257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 13.84
+      "score": 13.55
     },
     {
       "id": "ev-07y0xqj",
@@ -1311,7 +1317,56 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 11.33
+      "score": 11.03
+    },
+    {
+      "id": "ev-0ob22lq",
+      "title": "Río Paraná desciende y queda por debajo del nivel de inundabilidad en Ayolas",
+      "summary": "Datos del Centro de Operaciones de Emergencia (COE) de Ayolas señalan que este sábado el río mantuvo un comportamiento descendente en el puerto local, donde la altura se situó en 4,41 metros , es decir, 9 centímetros por debajo de los 4,50 m , nivel considerado de inundabilidad.",
+      "keyPoints": [
+        "Datos del Centro de Operaciones de Emergencia (COE) de Ayolas señalan que este sábado el río mantuvo un comportamiento descendente en el puerto local, donde la altura se situó en 4,41 metros , es decir, 9…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Río Paraná desciende y queda por debajo del nivel de inundabilidad en Ayolas",
+          "url": "https://www.abc.com.py/clima/2026/11/14/rio-parana-desciende-y-queda-por-debajo-del-nivel-de-inundabilidad-en-ayolas",
+          "publishedAt": "2026-11-14T22:12:00.000Z",
+          "image": "https://www.abc.com.py/resizer/8QAQGIdtkCf5WmKDBzGJU_XTcBk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3B2IYRDZUFBLJH5BLSMIBKKLS4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Paraná bajará a 108 metros y las familias evacuadas podrán volver a sus casas",
+          "url": "https://www.ultimahora.com/parana-bajara-a-108-metros-y-las-familias-evacuadas-podran-volver-a-sus-casas",
+          "publishedAt": "2026-11-13T22:54:10.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Paraná baja tras la crecida que afectó a más de mil familias en Ayolas",
+          "url": "https://www.abc.com.py/clima/2026/11/13/parana-baja-tras-la-crecida-que-afecto-a-mas-de-mil-familias-en-ayolas",
+          "publishedAt": "2026-11-13T22:05:35.000Z",
+          "image": "https://www.abc.com.py/resizer/21nDUqoJ_tiNVUJAdCKyRBR5eeU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CD5DP3TG7BAERN5IQSKFUI5V7I.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3B2IYRDZUFBLJH5BLSMIBKKLS4.jpg?auth=7405f0ed8cf3282a5047752507e350b9c145159a8d52cd510b52f9c01c761ea4&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/clima/2026/11/14/rio-parana-desciende-y-queda-por-debajo-del-nivel-de-inundabilidad-en-ayolas"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T23:07:11.515Z",
+      "updatedSlot": "tarde",
+      "score": 10.92
     },
     {
       "id": "ev-074h8bg",
@@ -1361,7 +1416,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T19:37:09.799Z",
       "updatedSlot": "tarde",
-      "score": 10.67
+      "score": 10.37
     },
     {
       "id": "ev-0wggrr2",
@@ -1412,7 +1467,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 9.83
+      "score": 9.54
     },
     {
       "id": "ev-1jhqwpa",
@@ -1454,7 +1509,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 9.66
+      "score": 9.37
+    },
+    {
+      "id": "ev-0uebf12",
+      "title": "Fiscalía incauta documentos de tres CDA de ueno bank por G. 235 millones",
+      "summary": "Los certificados de depósito de ahorro pertenecían a Liana Caballero, exmiembro del directorio del Banco Central del Paraguay (BCP). Los documentos corresponden a operaciones por G. 45 millones, G. 100 millones y G. 90 millones. Durante el operativo realizado por la Fiscalía en la residencia de la exdirectora del Banco Central del Paraguay (BCP), Liana Caballero, fueron hallados tres Certificados de Depósito de Ahorro (CDA).",
+      "keyPoints": [
+        "Los certificados de depósito de ahorro pertenecían a Liana Caballero, exmiembro del directorio del Banco Central del Paraguay (BCP).",
+        "Durante el operativo realizado por la Fiscalía en la residencia de la exdirectora del Banco Central del Paraguay (BCP), Liana Caballero, fueron hallados tres Certificados de Depósito de Ahorro (CDA).",
+        "El Banco Central del Paraguay (BCP) anunció que los pagos por los Certificados de Depósito de Ahorro (CDA) pertenecientes a clientes de Ueno Bank arrancarán este viernes, tras la verificación correspondiente."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía incauta documentos de tres CDA de ueno bank por G. 235 millones",
+          "url": "https://elnacional.com.py/politica/fiscalia-incauta-documentos-tres-cda-ueno-bank-g-235-millones-n115199",
+          "publishedAt": "2026-11-13T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af712764a8c2.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Hallan inversiones en Ueno Bank en el poder de Liana Caballero",
+          "url": "https://www.lanacion.com.py/pais/2026/11/13/hallan-inversiones-en-ueno-bank-en-el-poder-de-liana-caballero",
+          "publishedAt": "2026-11-13T11:01:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cI-ouae0PXKx4jIlNRSjhQrN_cg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B5DNEIMTEBBUPJ7JYHOMVA4UCM.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El BCP anuncia la liberación de fondos de los CDA desde este viernes",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/el-bcp-anuncia-la-liberacion-de-fondos-de-los-cda-desde-este-viernes",
+          "publishedAt": "2026-11-13T10:19:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/seHq96bF3Pr2qjGNDnJUmjHURxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PV7QO7PDRBH3JNBI5O57DBLMYY.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af712764a8c2.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/fiscalia-incauta-documentos-tres-cda-ueno-bank-g-235-millones-n115199"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T03:04:17.192Z",
+      "updatedSlot": "manana",
+      "score": 9
     },
     {
       "id": "ev-1x8i47r",
@@ -1546,58 +1652,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 9.15
-    },
-    {
-      "id": "ev-0uebf12",
-      "title": "Fiscalía incauta documentos de tres CDA de ueno bank por G. 235 millones",
-      "summary": "Los certificados de depósito de ahorro pertenecían a Liana Caballero, exmiembro del directorio del Banco Central del Paraguay (BCP). Los documentos corresponden a operaciones por G. 45 millones, G. 100 millones y G. 90 millones. Durante el operativo realizado por la Fiscalía en la residencia de la exdirectora del Banco Central del Paraguay (BCP), Liana Caballero, fueron hallados tres Certificados de Depósito de Ahorro (CDA).",
-      "keyPoints": [
-        "Los certificados de depósito de ahorro pertenecían a Liana Caballero, exmiembro del directorio del Banco Central del Paraguay (BCP).",
-        "Durante el operativo realizado por la Fiscalía en la residencia de la exdirectora del Banco Central del Paraguay (BCP), Liana Caballero, fueron hallados tres Certificados de Depósito de Ahorro (CDA).",
-        "El Banco Central del Paraguay (BCP) anunció que los pagos por los Certificados de Depósito de Ahorro (CDA) pertenecientes a clientes de Ueno Bank arrancarán este viernes, tras la verificación correspondiente."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía incauta documentos de tres CDA de ueno bank por G. 235 millones",
-          "url": "https://elnacional.com.py/politica/fiscalia-incauta-documentos-tres-cda-ueno-bank-g-235-millones-n115199",
-          "publishedAt": "2026-11-13T15:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af712764a8c2.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Hallan inversiones en Ueno Bank en el poder de Liana Caballero",
-          "url": "https://www.lanacion.com.py/pais/2026/11/13/hallan-inversiones-en-ueno-bank-en-el-poder-de-liana-caballero",
-          "publishedAt": "2026-11-13T11:01:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cI-ouae0PXKx4jIlNRSjhQrN_cg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B5DNEIMTEBBUPJ7JYHOMVA4UCM.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El BCP anuncia la liberación de fondos de los CDA desde este viernes",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/el-bcp-anuncia-la-liberacion-de-fondos-de-los-cda-desde-este-viernes",
-          "publishedAt": "2026-11-13T10:19:16.000Z",
-          "image": "https://www.lanacion.com.py/resizer/seHq96bF3Pr2qjGNDnJUmjHURxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PV7QO7PDRBH3JNBI5O57DBLMYY.JPG"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af712764a8c2.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fiscalia-incauta-documentos-tres-cda-ueno-bank-g-235-millones-n115199"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 9
+      "score": 8.86
     },
     {
       "id": "ev-1jtjr22",
@@ -1639,7 +1694,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.21
     },
     {
       "id": "ev-0r1aipn",
@@ -1681,7 +1736,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.2
     },
     {
       "id": "ev-1n9ek2g",
@@ -1723,7 +1778,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.44
+      "score": 8.15
     },
     {
       "id": "ev-00iiph3",
@@ -1765,7 +1820,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.32
+      "score": 8.03
     },
     {
       "id": "ev-0addils",
@@ -1807,49 +1862,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.3
-    },
-    {
-      "id": "ev-0ob22lq",
-      "title": "Paraná baja tras la crecida que afectó a más de mil familias en Ayolas",
-      "summary": "El C entro de Operaciones de Emergencia (COE) de Ayolas informó que, de acuerdo con el reporte elaborado por el área de Hidrología de la Central Hidroeléctrica Yacyretá (CHY), el nivel del río Paraná en el puerto local se encuentra en 5 metros , como consecuencia de los efectos climáticos de El Niño .",
-      "keyPoints": [
-        "El C entro de Operaciones de Emergencia (COE) de Ayolas informó que, de acuerdo con el reporte elaborado por el área de Hidrología de la Central Hidroeléctrica Yacyretá (CHY), el nivel del río Paraná en el…",
-        "El río Paraná continúa bajando y se encamina a recuperar niveles sin riesgo de inundaciones a comienzos de la próxima semana."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Paraná bajará a 108 metros y las familias evacuadas podrán volver a sus casas",
-          "url": "https://www.ultimahora.com/parana-bajara-a-108-metros-y-las-familias-evacuadas-podran-volver-a-sus-casas",
-          "publishedAt": "2026-11-13T22:54:10.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Paraná baja tras la crecida que afectó a más de mil familias en Ayolas",
-          "url": "https://www.abc.com.py/clima/2026/11/13/parana-baja-tras-la-crecida-que-afecto-a-mas-de-mil-familias-en-ayolas",
-          "publishedAt": "2026-11-13T22:05:35.000Z",
-          "image": "https://www.abc.com.py/resizer/21nDUqoJ_tiNVUJAdCKyRBR5eeU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CD5DP3TG7BAERN5IQSKFUI5V7I.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CD5DP3TG7BAERN5IQSKFUI5V7I.jpg?auth=66b056d85628134af7bdd9bc067b5b2962dee999cbc6e85a1c80d2ee8898db8b&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/clima/2026/11/13/parana-baja-tras-la-crecida-que-afecto-a-mas-de-mil-familias-en-ayolas"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 8.27
+      "score": 8.01
     },
     {
       "id": "ev-05x6b00",
@@ -1891,7 +1904,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.23
+      "score": 8
     },
     {
       "id": "ev-11u0cpl",
@@ -1933,7 +1946,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.21
+      "score": 8
     },
     {
       "id": "ev-1099mz8",
@@ -1975,7 +1988,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.11
+      "score": 8
     },
     {
       "id": "ev-0xg6xli",
@@ -2017,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.02
+      "score": 8
     },
     {
       "id": "ev-1ta4b1r",
@@ -2223,7 +2236,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.98
+      "score": 5.69
     },
     {
       "id": "ev-1l7x132",
@@ -2265,7 +2278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.22
     },
     {
       "id": "ev-0hs0x54",
@@ -2294,7 +2307,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.51
+      "score": 4.22
     },
     {
       "id": "ev-12fyf5k",
@@ -2327,7 +2340,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.14
     },
     {
       "id": "ev-085niok",
@@ -2356,7 +2369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1leal8e",
@@ -2389,7 +2402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.37
+      "score": 4.07
     },
     {
       "id": "ev-11o309s",
@@ -2422,7 +2435,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4.05
     },
     {
       "id": "ev-1a6yetg",
@@ -2455,7 +2468,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.29
+      "score": 4
     },
     {
       "id": "ev-0j75axq",
@@ -2488,7 +2501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.28
+      "score": 4
     },
     {
       "id": "ev-03osltq",
@@ -2521,7 +2534,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-07scg52",
@@ -2554,7 +2567,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-05i2upb",
@@ -2587,7 +2600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.17
+      "score": 4
     },
     {
       "id": "ev-0yzocrx",
@@ -2620,7 +2633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.14
+      "score": 4
     },
     {
       "id": "ev-1jqfic3",
@@ -2790,6 +2803,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 10
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-14T23:07:11.515Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 8
     }
   ]
 }
