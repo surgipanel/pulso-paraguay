@@ -1,20 +1,20 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-14T08:07:12.313Z",
+  "generatedAt": "2026-11-14T12:07:11.260Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0npqv7a",
-      "title": "Caso Ueno: juez decreta prisión preventiva de González, Caballero Krause y Mora, exdirectivos del BCP",
-      "summary": "En la mañana de este viernes, agentes del Ministerio Público ejecutaron allanamientos simultáneos con el objetivo de detener a tres exmiembros del Directorio del Banco Central del Paraguay (BCP) en el marco de la investigación del colapso de Ueno Bank y su matriz corporativa, el Grupo Vázquez .",
+      "id": "ev-1kar226",
+      "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+      "summary": "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente intensos. En las zonas de mayor afectación, los acumulados de lluvia podrían alcanzar entre 50 y 70 mm, con …",
       "keyPoints": [
-        "En la mañana de este viernes, agentes del Ministerio Público ejecutaron allanamientos simultáneos con el objetivo de detener a tres exmiembros del Directorio del Banco Central del Paraguay (BCP) en el marco de la investigación del…",
-        "La resolución se dio tras la imputación fiscal por presunta lesión de confianza y asociación criminal en el marco de la investigación.",
-        "La Fiscalía detuvo a Liana Caballero y Miguel Ángel Mora, exdirectivos del BCP, durante allanamientos por el caso Ueno Bank, mientras que Marco Aurelio González no fue localizado y fue declarado prófugo.",
-        "Holger Insfrán, exsuperintendente de Bancos del BCP, fue enviado a prisión preventiva y trasladado a la Agrupación Especializada, mientras se define su destino penitenciario definitivo."
+        "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente…",
+        "Para este sábado se pronostica un ambiente caluroso, con cielo parcialmente nublado a nublado y vientos predominantes del norte, que posteriormente pasarán a ser variables.",
+        "Se esperan fuerte ráfagas de vientos y la ocasional caída de granizos de forma puntual.",
+        "La Dirección de Meteorología anuncia un sábado inestable con altas probabilidades de lluvias, tormentas y caída de granizos en muchas zonas de Paraguay."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,154 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lluvias, tormentas, vientos fuertes y probabilidad de caída de granizos para este sábado",
+          "url": "https://www.ultimahora.com/lluvias-tormentas-vientos-fuertes-y-probabilidad-de-caida-de-granizos-para-este-sabado",
+          "publishedAt": "2026-11-14T11:41:16.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Prevén lluvias y tormentas eléctricas en Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/11/14/preven-lluvias-y-tormentas-electricas-en-ciudad-del-este",
+          "publishedAt": "2026-11-14T10:59:08.000Z",
+          "image": "https://www.abc.com.py/resizer/da8pMuA_WMngKR_3debpd9X0Ob8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FE52ZZQBN5GNBMH5DFTH5JY4R4.JPG"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+          "url": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana",
+          "publishedAt": "2026-11-14T10:43:04.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/03/LLUVIA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-probabilidad-lluvias-tormentas-electricas-hoy-manana-n115232",
+          "publishedAt": "2026-11-14T10:19:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ada05186b900.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Meteorología prevé un sábado muy caluroso y probables lluvias intensas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/14/meteorologia-preve-un-sabado-muy-caluroso-y-probables-lluvias-intensas",
+          "publishedAt": "2026-11-14T10:12:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BuMmkOUAGSoaJOvURhKW-LvAD9M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JF3YZBSKFJFY7PQ367SXBNAR24.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fin de semana caluroso y con probables lluvias",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/fin-de-semana-caluroso-y-con-probables-lluvias",
+          "publishedAt": "2026-11-14T09:52:27.990Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Calor intenso y lluvias marcarán el tiempo durante el fin de semana, según Meteorología",
+          "url": "https://www.abc.com.py/clima/2026/11/14/calor-intenso-y-lluvias-marcaran-el-tiempo-durante-el-fin-de-semana-segun-meteorologia",
+          "publishedAt": "2026-11-14T09:49:33.000Z",
+          "image": "https://www.abc.com.py/resizer/Ic1Mt5BAVnjitqqWd8kKNFyBN_w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CLTHHGYGPRCS5AWGJPHEYY7QIY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Meteorología anuncia tormentas con ráfagas de 90 km/h para este fin de semana",
+          "url": "https://www.abc.com.py/clima/2026/11/13/meteorologia-anuncia-tormentas-con-rafagas-de-90-kmh-para-este-fin-de-semana",
+          "publishedAt": "2026-11-13T21:42:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pronostican lluvias intensas y tormentas eléctricas para cinco departamentos",
+          "url": "https://www.lanacion.com.py/pais/2026/11/13/pronostican-lluvias-intensas-y-tormentas-electricas-para-cinco-departamentos",
+          "publishedAt": "2026-11-13T21:34:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iDQoTt_klmWfQWZlb7g-lEPLiAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERPHMHZYZZEH5IZQ4RJESD66LE.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fin de semana caluroso, con máximas de hasta 41°C",
+          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-con-maximas-de-hasta-41-c",
+          "publishedAt": "2026-11-13T09:38:44.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
+          "url": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias",
+          "publishedAt": "2026-11-13T09:32:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7EKmVHf9GBtczEr4KXX-wevIegU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GRVHUNCD2RHL7NMDSEF3IQZHXI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/03/LLUVIA.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 26.96
+    },
+    {
+      "id": "ev-0npqv7a",
+      "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
+      "summary": "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal. Según el acta de imputación, Peña habría encabezado una estructura organizada desde el poder político para favorecer al Grupo Vázquez y garantizar la continuidad de las operaciones de ueno bank, pese a las advertencias sobre su situación financiera.",
+      "keyPoints": [
+        "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal.",
+        "El expresidente fue incluido en la imputación por supuesta asociación criminal, junto con Carlos Carvallo y Holger Insfrán.",
+        "La resolución se dio tras la imputación fiscal por presunta lesión de confianza y asociación criminal en el marco de la investigación.",
+        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Estructura criminal",
+          "url": "https://elnacional.com.py/politica/estructura-criminal-n115228",
+          "publishedAt": "2026-11-14T08:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af8117bd5e94.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santi Peña y su asociación criminal",
+          "url": "https://www.ultimahora.com/santi-pena-y-su-asociacion-criminal",
+          "publishedAt": "2026-11-14T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Amplían imputación contra Peña y más directores de BCP van a prisión",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/amplian-imputacion-contra-pena-y-mas-directores-de-bcp-van-a-prision",
+          "publishedAt": "2026-11-14T05:59:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dgezlL_C_BDynNKB2MmjrXImPB8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SGUOGTFCA5BFZOBH5N3IPP725Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La estructura delictiva de Peña",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/la-estructura-delictiva-de-pena",
+          "publishedAt": "2026-11-14T05:52:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jPi5rHGBz6Zppco1O2lPkYI840w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TI4APRFLEJHFNIR3INS3TKEK5Y.jpg"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -45,6 +193,22 @@
           "url": "https://www.abc.com.py/policiales/2026/11/13/caso-ueno-juez-decreta-prision-preventiva-de-gonzalez-caballero-krause-y-mora-exdirectivos-del-bcp",
           "publishedAt": "2026-11-13T22:15:38.000Z",
           "image": "https://www.abc.com.py/resizer/uVUEm-wmWRKhlXWloJZpRuu3xik=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/B44V5UESZRHSLBAU2QM2PYYJMU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp",
+          "publishedAt": "2026-11-13T17:18:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/bQTm-LoqGvQYYUKmRc8TvfCW5GQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso ueno bank: Fiscalía amplía imputación contra Santiago Peña por asociación criminal",
+          "url": "https://elnacional.com.py/politica/caso-ueno-bank-fiscalia-amplia-imputacion-santiago-pena-asociacion-criminal-n115219",
+          "publishedAt": "2026-11-13T17:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef8de33913c.jpg"
         },
         {
           "sourceId": "lanacion",
@@ -112,15 +276,225 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/B44V5UESZRHSLBAU2QM2PYYJMU.jpg?auth=dd6228841df38054901d527869643de95d3dc3c860756b0fbf8415db232bb036&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/13/caso-ueno-juez-decreta-prision-preventiva-de-gonzalez-caballero-krause-y-mora-exdirectivos-del-bcp"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg?auth=e57927dcf2908c0a8dd0272c6726a23fbb8ee5af951a845d50d4adf8057744ce&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp"
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 23.21
+      "score": 26.69
+    },
+    {
+      "id": "ev-1muqubi",
+      "title": "Caso Ueno Bank: el Arzobispado pide investigar desvíos y renovar el gabinete de Alliana",
+      "summary": "Diez días después de que el Banco Central del Paraguay (BCP) decidiera la resolución de Ueno Bank , el Arzobispado de la Santísima Asunción emitió un comunicado y mencionó que el caso dejó al descubierto una seria vulnerabilidad en el sistema financiero y en la supervisión del Estado.",
+      "keyPoints": [
+        "Diez días después de que el Banco Central del Paraguay (BCP) decidiera la resolución de Ueno Bank , el Arzobispado de la Santísima Asunción emitió un comunicado y mencionó que el caso dejó al descubierto una…",
+        "El Arzobispado de Asunción instó al presidente de la República, Pedro Alliana, a encarar una revisión de su equipo de colaboradores y de la administración de las instituciones estatales, con especial atención a las áreas vinculadas…",
+        "El Arzobispado de Asunción pidió al presidente de la República, Pedro Alliana, realizar cambios en su gabinete y revisar la gestión de las instituciones públicas, especialmente aquellas cuyas autoridades están identificadas con el gobierno del expresidente…",
+        "A través de un comunicado, el Arzobispado de Asunción expresó su preocupación por la crisis financiera desatada por la resolución de Ueno Bank y cuestionó los mecanismos de supervisión, así como la gestión de los fondos…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Arzobispado pide a Alliana renovar su equipo de gobierno",
+          "url": "https://www.adndigital.com.py/arzobispado-pide-a-alliana-renovar-su-equipo-de-gobierno",
+          "publishedAt": "2026-11-14T11:25:10.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/pedro-alliana-3.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Arzobispado de Asunción exige esclarecer el caso Ueno y recuperar los fondos de los ahorristas",
+          "url": "https://www.lanacion.com.py/politica/2026/11/14/arzobispado-de-asuncion-exige-esclarecer-el-caso-ueno-y-recuperar-los-fondos-de-los-ahorristas",
+          "publishedAt": "2026-11-14T11:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fIn3_l20SrNjOCBgu7r28HeIu0I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SERH76T2ONB4ZFKL7RXMKEGCZY.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Iglesia exige esclarecer el destino del dinero de Ueno y reclama cambios en el gabinete de Alliana",
+          "url": "https://elnacional.com.py/politica/iglesia-exige-esclarecer-destino-dinero-ueno-reclama-cambios-gabinete-alliana-n115230",
+          "publishedAt": "2026-11-14T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af349ed3a72d.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Arzobispado pide a Alliana cambiar ministros ligados a la gestión de Peña",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/13/arzobispado-pide-a-alliana-cambiar-ministros-ligados-a-la-gestion-de-pena",
+          "publishedAt": "2026-11-14T00:31:01.519Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/XYKVBA5EWVBVLKKI6KJHTXIHQU.jfif?auth=feb55ffefc2ddb3df928c7ce772b01abb2b8fa3699238c432a11043012f2eb74&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno Bank: el Arzobispado pide investigar desvíos y renovar el gabinete de Alliana",
+          "url": "https://www.abc.com.py/politica/2026/11/13/caso-ueno-bank-el-arzobispado-pide-investigar-desvios-y-renovar-el-gabinete-de-alliana",
+          "publishedAt": "2026-11-14T00:30:54.000Z",
+          "image": "https://www.abc.com.py/resizer/qQ0YIbcNnuaK3GTpf3B4pxmHIHM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YC3MAXBZKBCG7IINLHJZSDE6AQ.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Arzobispado dice que demoras en el caso ueno debilitan la confianza en las instituciones",
+          "url": "https://www.ultimahora.com/arzobispado-dice-que-demoras-en-el-caso-ueno-debilitan-la-confianza-en-las-instituciones",
+          "publishedAt": "2026-11-14T00:28:02.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YC3MAXBZKBCG7IINLHJZSDE6AQ.jpg?auth=ecd8f600f85866772856570b457db9c263bbd360bf2c4b301f7f80ffbe4af7d4&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/13/caso-ueno-bank-el-arzobispado-pide-investigar-desvios-y-renovar-el-gabinete-de-alliana"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 23.94
+    },
+    {
+      "id": "ev-04i1ebw",
+      "title": "Derlis Gauto es nombrado como nuevo director financiero interino de Itaipú",
+      "summary": "Mediante el Decreto N° 7230 , la Presidencia de la República oficializó la designación de Derlis Antonio Gauto Santacruz, como nuevo director financiero de Itaipú Binacional . La disposición gubernamental, refrendada por el Ministerio de Relaciones Exteriores , establece que Gauto Santacruz asume el cargo en carácter interino en sustitución de Rafael Demetrio Lara Valenzuela .",
+      "keyPoints": [
+        "Mediante el Decreto N° 7230 , la Presidencia de la República oficializó la designación de Derlis Antonio Gauto Santacruz, como nuevo director financiero de Itaipú Binacional .",
+        "El presidente de la República, Pedro Alliana, designó a Derlis Antonio Gauto Santacruz como nuevo director financiero interino de Itaipú Binacional, en reemplazo de Rafael Demetrio Lara Valenzuela, informaron este viernes de noche.",
+        "Derlis Antonio Gauto Santacruz fue designado para ocupar de manera interina la Dirección Financiera de Itaipú Binacional, en sustitución de Rafael Demetrio Lara Valenzuela."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Derlis Gauto asume interinamente la Dirección Financiera de Itaipú",
+          "url": "https://www.adndigital.com.py/derlis-gauto-asume-interinamente-la-direccion-financiera-de-itaipu",
+          "publishedAt": "2026-11-14T11:25:16.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana nombra a Derlis Gauto como director financiero interino de Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/alliana-nombra-a-derlis-gauto-como-director-financiero-interino-de-itaipu",
+          "publishedAt": "2026-11-14T01:05:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LiYm3yWygvclDnsUh-hzJvJZO2E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Alliana nombra un director financiero interino en Itaipú",
+          "url": "https://www.ultimahora.com/alliana-nombra-un-director-financiero-interino-en-itaipu",
+          "publishedAt": "2026-11-13T23:35:54.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Derlis Gauto es nombrado como nuevo director financiero interino de Itaipú",
+          "url": "https://www.abc.com.py/politica/2026/11/13/derlis-gauto-es-nombrado-como-nuevo-director-financiero-interino-de-itaipu",
+          "publishedAt": "2026-11-13T23:22:12.000Z",
+          "image": "https://www.abc.com.py/resizer/cvAnoxOV1a9Rzt_kjgUYn88QRx4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UDORX2ZG6VB4DH32CEOK54XQLM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/UDORX2ZG6VB4DH32CEOK54XQLM.jpg?auth=330ba8becfc53f0ea20cf8ebea8ba9ac953461b9daf103ddd322a7d8c901ea58&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/13/derlis-gauto-es-nombrado-como-nuevo-director-financiero-interino-de-itaipu"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 17.94
+    },
+    {
+      "id": "ev-0fowh3w",
+      "title": "Rosalía, Karol G, Anitta y Mon Laferte, diosas de blanco en la red carpet de los Latin Grammy",
+      "summary": "Sin lugar a dudas, el blanco fue el gran protagonista en la red carpet de los Latin Grammy 2026 . Vestidos drapeados, transparentes y exóticos en esta tonalidad se vieron en la alfombra roja del MGM Grand Garden Arena, en Las Vegas, Nevada.",
+      "keyPoints": [
+        "Sin lugar a dudas, el blanco fue el gran protagonista en la red carpet de los Latin Grammy 2026 .",
+        "Al repasar los esti­lismos de las gran­des estrellas feme­ninas que desfilaron por la reciente alfombra de los Latin Grammy Awards 2026",
+        "La española obtuvo seis galardones, incluidos álbum y canción del año, mientras que el argentino conquistó cuatro premios y se impuso con \"Niño\" como grabación del año."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Rosalía, Karol G, Anitta y Mon Laferte, diosas de blanco en la red carpet de los Latin Grammy",
+          "url": "https://www.abc.com.py/gente/2026/11/14/rosalia-karol-g-anitta-y-mon-laferte-diosas-de-blanco-en-la-red-carpet-de-los-latin-grammy",
+          "publishedAt": "2026-11-14T11:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/mPQ1EtZx23Qq7To3hbmhZZAdeqQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/HPWMVZXAYNEFHB57YDOQENZX6A.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Alfombra roja de los Latin Grammy",
+          "url": "https://www.ultimahora.com/alfombra-roja-de-los-latin-grammy",
+          "publishedAt": "2026-11-14T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Latin Grammy 2026: triunfo del blanco en la alfombra roja",
+          "url": "https://www.lanacion.com.py/sociales_edicion_impresa/2026/11/14/latin-grammy-2026-triunfo-del-blanco-en-la-alfombra-roja",
+          "publishedAt": "2026-11-14T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/y9Hu8Q1WM29W4M5wnhkmVVnKYZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3IREKSZG4FCVBEIEXIMWDSCMCE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Rosalía y Milo J ganan los Grammy Latinos entre consagraciones y homenajes",
+          "url": "https://elnacional.com.py/agenda-cultural/rosalia-milo-j-ganan-grammy-latinos-consagraciones-homenajes-n115205",
+          "publishedAt": "2026-11-13T14:13:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af71e37127a6.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "¡Paraguay presente en la alfombra roja de los Grammy Latinos 2026!",
+          "url": "https://www.lanacion.com.py/lnpop/2026/11/13/paraguay-presente-en-la-alfombra-roja-de-los-grammy-latinos-2026",
+          "publishedAt": "2026-11-13T13:42:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/G5Kh-BpFxkSVhu79CdeFEHuGVW8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGGKQZGSCJEWHL7QXWUEWAGTW4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Grammy Latinos: los grandes ganadores de la 27ª edición",
+          "url": "https://www.lanacion.com.py/espectaculo/2026/11/13/grammy-latinos-los-grandes-ganadores-de-la-27-edicion",
+          "publishedAt": "2026-11-13T12:24:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YjmaU-jERz-OW6Ag2glCq6YrayE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EGRZIEK6NVCSPINIOY76UV2SWU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/HPWMVZXAYNEFHB57YDOQENZX6A.jpg?auth=03ed1dbec309651f9fc933032cb3729f3a615a385856cb3a069590f3870282c5&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/gente/2026/11/14/rosalia-karol-g-anitta-y-mon-laferte-diosas-de-blanco-en-la-red-carpet-de-los-latin-grammy"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 17.91
     },
     {
       "id": "ev-1bbiwyy",
@@ -204,7 +578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 17.91
+      "score": 17.57
     },
     {
       "id": "ev-1m8xdyu",
@@ -264,7 +638,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 17.22
+      "score": 16.88
+    },
+    {
+      "id": "ev-06le36i",
+      "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
+      "summary": "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores. El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
+      "keyPoints": [
+        "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores.",
+        "El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
+        "El Banco Central comunicó ayer la reducción temporal del 5 % de las tasas de encaje legal, a solicitud de la Asoban, como medida de apoyo al mercado de valores.",
+        "El Banco Central del Paraguay (BCP) aprobó la flexibilización temporal del encaje legal solicitada por la Asociación de Bancos del Paraguay (ASOBAN), con el objetivo de facilitar que las entidades bancarias puedan apoyar al mercado de…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP reduce encaje legal: ¿qué significa y para qué sirve?",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/bcp-reduce-encaje-legal-que-significa-y-para-que-sirve",
+          "publishedAt": "2026-11-14T10:29:50.938Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP flexibiliza encaje legal para dar liquidez",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/14/bcp-flexibiliza-encaje-legal-para-dar-liquidez",
+          "publishedAt": "2026-11-14T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7r-OUOCznbbPKOz3LEJ6Lz3N7ok=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP flexibiliza reglas para que bancos ayuden al mercado de valores",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/13/bcp-flexibiliza-reglas-para-que-bancos-ayuden-al-mercado-de-valores",
+          "publishedAt": "2026-11-14T00:12:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/bcp-flexibiliza-el-encaje-legal-para-dar-liquidez-al-mercado-de-valores-tras-pedido-de-asoban",
+          "publishedAt": "2026-11-13T21:52:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/T6xH131cdgB2H2Ecjoiq2KqMJYY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CAGUFVXDXBDYPCSITHTJ4MB2UM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP flexibiliza temporalmente encaje legal de depósitos que apunta a dotar liquidez al mercado de valores",
+          "url": "https://www.abc.com.py/economia/2026/11/13/bcp-flexibiliza-temporalmente-encaje-legal-de-depositos-que-apunta-a-dotar-liquidez-al-mercado-de-valores",
+          "publishedAt": "2026-11-13T21:29:32.000Z",
+          "image": "https://www.abc.com.py/resizer/zF4RG3GeDzO7RU9AE0_mlmn7sYw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TWOZ6FSXUVDPVDZKUHEHLTPDDA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/14/bcp-reduce-encaje-legal-que-significa-y-para-que-sirve"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 14.86
     },
     {
       "id": "ev-147nvn7",
@@ -404,73 +846,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 15.12
-    },
-    {
-      "id": "ev-0fowh3w",
-      "title": "Latin Grammy 2026: triunfo del blanco en la alfombra roja",
-      "summary": "Al repasar los esti­lismos de las gran­des estrellas feme­ninas que desfilaron por la reciente alfombra de los Latin Grammy Awards 2026 Paraguay marcó presencia con la elegancia y sobriedad de Berta Rojas y la alegría de Tierra Adentro.",
-      "keyPoints": [
-        "Al repasar los esti­lismos de las gran­des estrellas feme­ninas que desfilaron por la reciente alfombra de los Latin Grammy Awards 2026",
-        "Paraguay marcó presencia con la elegancia y sobriedad de Berta Rojas y la alegría de Tierra Adentro."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Alfombra roja de los Latin Grammy",
-          "url": "https://www.ultimahora.com/alfombra-roja-de-los-latin-grammy",
-          "publishedAt": "2026-11-14T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Latin Grammy 2026: triunfo del blanco en la alfombra roja",
-          "url": "https://www.lanacion.com.py/sociales_edicion_impresa/2026/11/14/latin-grammy-2026-triunfo-del-blanco-en-la-alfombra-roja",
-          "publishedAt": "2026-11-14T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/y9Hu8Q1WM29W4M5wnhkmVVnKYZo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3IREKSZG4FCVBEIEXIMWDSCMCE.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Rosalía y Milo J ganan los Grammy Latinos entre consagraciones y homenajes",
-          "url": "https://elnacional.com.py/agenda-cultural/rosalia-milo-j-ganan-grammy-latinos-consagraciones-homenajes-n115205",
-          "publishedAt": "2026-11-13T14:13:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af71e37127a6.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "¡Paraguay presente en la alfombra roja de los Grammy Latinos 2026!",
-          "url": "https://www.lanacion.com.py/lnpop/2026/11/13/paraguay-presente-en-la-alfombra-roja-de-los-grammy-latinos-2026",
-          "publishedAt": "2026-11-13T13:42:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/G5Kh-BpFxkSVhu79CdeFEHuGVW8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGGKQZGSCJEWHL7QXWUEWAGTW4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Grammy Latinos: los grandes ganadores de la 27ª edición",
-          "url": "https://www.lanacion.com.py/espectaculo/2026/11/13/grammy-latinos-los-grandes-ganadores-de-la-27-edicion",
-          "publishedAt": "2026-11-13T12:24:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/YjmaU-jERz-OW6Ag2glCq6YrayE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EGRZIEK6NVCSPINIOY76UV2SWU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3IREKSZG4FCVBEIEXIMWDSCMCE.jpg?auth=54a9399b565d13b226f379d26eb8ce24148cd7c109d5d593161ee2cf38b2f125&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/sociales_edicion_impresa/2026/11/14/latin-grammy-2026-triunfo-del-blanco-en-la-alfombra-roja"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 14.91
+      "score": 14.78
     },
     {
       "id": "ev-19lfg6r",
@@ -586,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.8
+      "score": 14.47
     },
     {
       "id": "ev-0q9lxv3",
@@ -662,78 +1038,19 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.65
+      "score": 14.31
     },
     {
-      "id": "ev-06le36i",
-      "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
-      "summary": "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores. El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
+      "id": "ev-07y0xqj",
+      "title": "Libertad y Recoleta juegan por el primer boleto a la final de la Copa Paraguay",
+      "summary": "La Copa Paraguay 2026 vuelve a encender los motores en su recta de definición. Este sábado, el barrio Santísima Trinidad se viste de gala para albergar el primer capítulo de las semifinales. Desde las 18:00 , en el estadio La Arboleda , el tricampeón moral del certamen, Libertad , se mide ante un hambriento Recoleta FC .",
       "keyPoints": [
-        "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores.",
-        "El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
-        "El Banco Central del Paraguay (BCP) aprobó la flexibilización temporal del encaje legal solicitada por la Asociación de Bancos del Paraguay (ASOBAN), con el objetivo de facilitar que las entidades bancarias puedan apoyar al mercado de…"
+        "La Copa Paraguay 2026 vuelve a encender los motores en su recta de definición.",
+        "Las semifinales de la Copa Paraguay 2026 se disputarán este fin de semana.",
+        "La acción se pondrá en marcha con la presencia del rey del certamen , ya que Libertad pisará el gramado del estadio La Arboleda con el claro objetivo de asegurar una nueva final y dar otro…",
+        "Un club eminentemente del ascenso, con solo tres temporadas totalizadas en primera -en dos etapas- vive un presente de ensueño en el profesionalismo: Recoleta juega contra Libertad en el estadio La Arboleda de Rubio Ñu, a…"
       ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP flexibiliza encaje legal para dar liquidez",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/14/bcp-flexibiliza-encaje-legal-para-dar-liquidez",
-          "publishedAt": "2026-11-14T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7r-OUOCznbbPKOz3LEJ6Lz3N7ok=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP flexibiliza reglas para que bancos ayuden al mercado de valores",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/13/bcp-flexibiliza-reglas-para-que-bancos-ayuden-al-mercado-de-valores",
-          "publishedAt": "2026-11-14T00:12:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/bcp-flexibiliza-el-encaje-legal-para-dar-liquidez-al-mercado-de-valores-tras-pedido-de-asoban",
-          "publishedAt": "2026-11-13T21:52:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/T6xH131cdgB2H2Ecjoiq2KqMJYY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CAGUFVXDXBDYPCSITHTJ4MB2UM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "BCP flexibiliza temporalmente encaje legal de depósitos que apunta a dotar liquidez al mercado de valores",
-          "url": "https://www.abc.com.py/economia/2026/11/13/bcp-flexibiliza-temporalmente-encaje-legal-de-depositos-que-apunta-a-dotar-liquidez-al-mercado-de-valores",
-          "publishedAt": "2026-11-13T21:29:32.000Z",
-          "image": "https://www.abc.com.py/resizer/zF4RG3GeDzO7RU9AE0_mlmn7sYw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TWOZ6FSXUVDPVDZKUHEHLTPDDA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg?auth=add42f41c9ffaa2b0c111c8d1279b5463de85a989ca7b8ac3b1d11bf7d2ed40e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/14/bcp-flexibiliza-encaje-legal-para-dar-liquidez"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 14.58
-    },
-    {
-      "id": "ev-1kar226",
-      "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
-      "summary": "El fin de semana se presentará con un ambiente muy caluroso e inestable en gran parte del territorio nacional, con valores en la temperatura que superarán los 40 ℃. Asimismo, se prevé el ingreso de un sistema de tormentas hacia el final del sábado.",
-      "keyPoints": [
-        "El fin de semana se presentará con un ambiente muy caluroso e inestable en gran parte del territorio nacional, con valores en la temperatura que superarán los 40 ℃.",
-        "Meteorología prevé un fin de semana caluroso, lluvias dispersas con ocasionales tormentas eléctricas.",
-        "La Dirección de Meteorología e Hidrología (DMH) emitió este viernes a las 17:46 un boletín especial en el que alerta sobre el inminente ingreso de un sistema de tormentas eléctricas que golpeará con fuerza este sábado…",
-        "Se esperan fuerte ráfagas de vientos y la ocasional caída de granizos de forma puntual."
-      ],
-      "category": "pais",
+      "category": "deportes",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
@@ -742,148 +1059,46 @@
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Meteorología anuncia tormentas con ráfagas de 90 km/h para este fin de semana",
-          "url": "https://www.abc.com.py/clima/2026/11/13/meteorologia-anuncia-tormentas-con-rafagas-de-90-kmh-para-este-fin-de-semana",
-          "publishedAt": "2026-11-13T21:42:52.000Z",
-          "image": null
+          "title": "Recoleta FC quiere hacer historia, con una formación definida",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/14/recoleta-fc-quiere-hacer-historia-con-una-formacion-definida",
+          "publishedAt": "2026-11-14T11:31:56.000Z",
+          "image": "https://www.abc.com.py/resizer/w7Zbtg4Wm4_FVBfd54zXciTo6Xw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/V3GOYBEFAJCGTMZEAT7M5OK64I.jpg"
         },
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pronostican lluvias intensas y tormentas eléctricas para cinco departamentos",
-          "url": "https://www.lanacion.com.py/pais/2026/11/13/pronostican-lluvias-intensas-y-tormentas-electricas-para-cinco-departamentos",
-          "publishedAt": "2026-11-13T21:34:49.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iDQoTt_klmWfQWZlb7g-lEPLiAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERPHMHZYZZEH5IZQ4RJESD66LE.jpeg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad y Recoleta juegan por el primer boleto a la final de la Copa Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/14/libertad-y-recoleta-juegan-por-el-primer-boleto-a-la-final-de-la-copa-paraguay",
+          "publishedAt": "2026-11-14T03:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/MTuT2CQ4Ryzz2grwNYWO9hFtDhE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DHUM3DX7GJGOJGFPL4JGUROT5Y.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los árbitros designados para las semifinales de la Copa Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/13/los-arbitros-designados-para-las-semifinales-de-la-copa-paraguay",
+          "publishedAt": "2026-11-14T01:52:35.000Z",
+          "image": "https://www.abc.com.py/resizer/VKsf3ZQV1xkJu5yYXZygs-zNZpI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XTQ4MESVIBAG5JRBMPBTQ7EFI4.jpg"
         },
         {
           "sourceId": "npy",
           "sourceName": "NPY",
-          "title": "Fin de semana caluroso, con máximas de hasta 41°C",
-          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-con-maximas-de-hasta-41-c",
-          "publishedAt": "2026-11-13T09:38:44.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
-          "url": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias",
-          "publishedAt": "2026-11-13T09:32:56.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7EKmVHf9GBtczEr4KXX-wevIegU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GRVHUNCD2RHL7NMDSEF3IQZHXI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GRVHUNCD2RHL7NMDSEF3IQZHXI.jpg?auth=d84ebe0cb99cbdfbba29e51c851e388869b6e46f10cb91739aa903f8c9932d64&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 14.13
-    },
-    {
-      "id": "ev-04i1ebw",
-      "title": "Alliana nombra a Derlis Gauto como director financiero interino de Itaipú",
-      "summary": "El presidente de la República, Pedro Alliana, designó a Derlis Antonio Gauto Santacruz como nuevo director financiero interino de Itaipú Binacional, en reemplazo de Rafael Demetrio Lara Valenzuela, informaron este viernes de noche. El presidente Pedro Alliana designó a Derlis Antonio Gauto Santacruz como director financiero interino de la Itaipú Binacional este viernes.",
-      "keyPoints": [
-        "El presidente de la República, Pedro Alliana, designó a Derlis Antonio Gauto Santacruz como nuevo director financiero interino de Itaipú Binacional, en reemplazo de Rafael Demetrio Lara Valenzuela, informaron este viernes de noche.",
-        "El presidente Pedro Alliana designó a Derlis Antonio Gauto Santacruz como director financiero interino de la Itaipú Binacional este viernes.",
-        "Mediante el Decreto N° 7230 , la Presidencia de la República oficializó la designación de Derlis Antonio Gauto Santacruz, como nuevo director financiero de Itaipú Binacional ."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana nombra a Derlis Gauto como director financiero interino de Itaipú",
-          "url": "https://www.lanacion.com.py/politica/2026/11/13/alliana-nombra-a-derlis-gauto-como-director-financiero-interino-de-itaipu",
-          "publishedAt": "2026-11-14T01:05:41.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LiYm3yWygvclDnsUh-hzJvJZO2E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Alliana nombra un director financiero interino en Itaipú",
-          "url": "https://www.ultimahora.com/alliana-nombra-un-director-financiero-interino-en-itaipu",
-          "publishedAt": "2026-11-13T23:35:54.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Derlis Gauto es nombrado como nuevo director financiero interino de Itaipú",
-          "url": "https://www.abc.com.py/politica/2026/11/13/derlis-gauto-es-nombrado-como-nuevo-director-financiero-interino-de-itaipu",
-          "publishedAt": "2026-11-13T23:22:12.000Z",
-          "image": "https://www.abc.com.py/resizer/cvAnoxOV1a9Rzt_kjgUYn88QRx4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UDORX2ZG6VB4DH32CEOK54XQLM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GXTPDPE6BZCANFHMFUI6SIDH2E.jpeg?auth=05153d2b93689bb35e69f55837e1d8ee17c6d525a0110ff7215845810788c0d6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/13/alliana-nombra-a-derlis-gauto-como-director-financiero-interino-de-itaipu"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 13.41
-    },
-    {
-      "id": "ev-1muqubi",
-      "title": "Caso Ueno Bank: el Arzobispado pide investigar desvíos y renovar el gabinete de Alliana",
-      "summary": "Diez días después de que el Banco Central del Paraguay (BCP) decidiera la resolución de Ueno Bank , el Arzobispado de la Santísima Asunción emitió un comunicado y mencionó que el caso dejó al descubierto una seria vulnerabilidad en el sistema financiero y en la supervisión del Estado.",
-      "keyPoints": [
-        "Diez días después de que el Banco Central del Paraguay (BCP) decidiera la resolución de Ueno Bank , el Arzobispado de la Santísima Asunción emitió un comunicado y mencionó que el caso dejó al descubierto una…",
-        "En un contundente comunicado, el Arzobispado de Asunción reclamó que se esclarezca el destino de los fondos vinculados al caso ueno bank, se investiguen las posibles irregularidades y se determinen responsabilidades.",
-        "El Arzobispado de Asunción pidió al presidente de la República, Pedro Alliana, realizar cambios en su gabinete y revisar la gestión de las instituciones públicas, especialmente aquellas cuyas autoridades están identificadas con el gobierno del expresidente…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Arzobispado pide a Alliana cambiar ministros ligados a la gestión de Peña",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/13/arzobispado-pide-a-alliana-cambiar-ministros-ligados-a-la-gestion-de-pena",
-          "publishedAt": "2026-11-14T00:31:01.519Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/XYKVBA5EWVBVLKKI6KJHTXIHQU.jfif?auth=feb55ffefc2ddb3df928c7ce772b01abb2b8fa3699238c432a11043012f2eb74&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno Bank: el Arzobispado pide investigar desvíos y renovar el gabinete de Alliana",
-          "url": "https://www.abc.com.py/politica/2026/11/13/caso-ueno-bank-el-arzobispado-pide-investigar-desvios-y-renovar-el-gabinete-de-alliana",
-          "publishedAt": "2026-11-14T00:30:54.000Z",
-          "image": "https://www.abc.com.py/resizer/qQ0YIbcNnuaK3GTpf3B4pxmHIHM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YC3MAXBZKBCG7IINLHJZSDE6AQ.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Arzobispado dice que demoras en el caso ueno debilitan la confianza en las instituciones",
-          "url": "https://www.ultimahora.com/arzobispado-dice-que-demoras-en-el-caso-ueno-debilitan-la-confianza-en-las-instituciones",
-          "publishedAt": "2026-11-14T00:28:02.000Z",
+          "title": "Cuatro equipos van por el boleto a la final de la Copa Paraguay 2026",
+          "url": "https://www.npy.com.py/noticias/deportes/cuatro-equipos-van-por-el-boleto-a-la-final-de-la-copa-paraguay-2026",
+          "publishedAt": "2026-11-13T15:03:00.000Z",
           "image": null
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YC3MAXBZKBCG7IINLHJZSDE6AQ.jpg?auth=ecd8f600f85866772856570b457db9c263bbd360bf2c4b301f7f80ffbe4af7d4&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/DHUM3DX7GJGOJGFPL4JGUROT5Y.jpg?auth=b15f1d02f516ade2e672a3f1bd7258a8a235715e8f26122f2ab15d2b911ee135&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/13/caso-ueno-bank-el-arzobispado-pide-investigar-desvios-y-renovar-el-gabinete-de-alliana"
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/14/libertad-y-recoleta-juegan-por-el-primer-boleto-a-la-final-de-la-copa-paraguay"
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 13.37
+      "score": 11.95
     },
     {
       "id": "ev-0wggrr2",
@@ -934,7 +1149,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.79
+      "score": 10.45
     },
     {
       "id": "ev-0n3yvx2",
@@ -984,7 +1199,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.77
+      "score": 10.44
     },
     {
       "id": "ev-0g8lvo4",
@@ -1034,58 +1249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.67
-    },
-    {
-      "id": "ev-07y0xqj",
-      "title": "Libertad y Recoleta juegan por el primer boleto a la final de la Copa Paraguay",
-      "summary": "La Copa Paraguay 2026 vuelve a encender los motores en su recta de definición. Este sábado, el barrio Santísima Trinidad se viste de gala para albergar el primer capítulo de las semifinales. Desde las 18:00 , en el estadio La Arboleda , el tricampeón moral del certamen, Libertad , se mide ante un hambriento Recoleta FC .",
-      "keyPoints": [
-        "La Copa Paraguay 2026 vuelve a encender los motores en su recta de definición.",
-        "Las semifinales de la Copa Paraguay 2026 se disputarán este fin de semana.",
-        "La acción se pondrá en marcha con la presencia del rey del certamen , ya que Libertad pisará el gramado del estadio La Arboleda con el claro objetivo de asegurar una nueva final y dar otro…"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad y Recoleta juegan por el primer boleto a la final de la Copa Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/14/libertad-y-recoleta-juegan-por-el-primer-boleto-a-la-final-de-la-copa-paraguay",
-          "publishedAt": "2026-11-14T03:00:00.000Z",
-          "image": "https://www.abc.com.py/resizer/MTuT2CQ4Ryzz2grwNYWO9hFtDhE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DHUM3DX7GJGOJGFPL4JGUROT5Y.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los árbitros designados para las semifinales de la Copa Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/13/los-arbitros-designados-para-las-semifinales-de-la-copa-paraguay",
-          "publishedAt": "2026-11-14T01:52:35.000Z",
-          "image": "https://www.abc.com.py/resizer/VKsf3ZQV1xkJu5yYXZygs-zNZpI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XTQ4MESVIBAG5JRBMPBTQ7EFI4.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Cuatro equipos van por el boleto a la final de la Copa Paraguay 2026",
-          "url": "https://www.npy.com.py/noticias/deportes/cuatro-equipos-van-por-el-boleto-a-la-final-de-la-copa-paraguay-2026",
-          "publishedAt": "2026-11-13T15:03:00.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/DHUM3DX7GJGOJGFPL4JGUROT5Y.jpg?auth=b15f1d02f516ade2e672a3f1bd7258a8a235715e8f26122f2ab15d2b911ee135&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/14/libertad-y-recoleta-juegan-por-el-primer-boleto-a-la-final-de-la-copa-paraguay"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 10.57
+      "score": 10.33
     },
     {
       "id": "ev-0uebf12",
@@ -1136,7 +1300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.57
+      "score": 9.24
     },
     {
       "id": "ev-1jtjr22",
@@ -1178,7 +1342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.46
+      "score": 9.12
     },
     {
       "id": "ev-0r1aipn",
@@ -1220,7 +1384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.45
+      "score": 9.12
     },
     {
       "id": "ev-1n9ek2g",
@@ -1262,7 +1426,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.4
+      "score": 9.07
     },
     {
       "id": "ev-00iiph3",
@@ -1304,7 +1468,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.28
+      "score": 8.95
     },
     {
       "id": "ev-0addils",
@@ -1346,7 +1510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.26
+      "score": 8.93
     },
     {
       "id": "ev-0ob22lq",
@@ -1388,7 +1552,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.23
+      "score": 8.9
     },
     {
       "id": "ev-1x8i47r",
@@ -1447,7 +1611,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 9.19
+      "score": 8.85
     },
     {
       "id": "ev-05x6b00",
@@ -1489,7 +1653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.18
+      "score": 8.85
     },
     {
       "id": "ev-11u0cpl",
@@ -1531,7 +1695,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.17
+      "score": 8.84
     },
     {
       "id": "ev-1099mz8",
@@ -1573,7 +1737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-0xg6xli",
@@ -1615,7 +1779,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.98
+      "score": 8.65
     },
     {
       "id": "ev-1ta4b1r",
@@ -1657,7 +1821,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.94
+      "score": 8.61
     },
     {
       "id": "ev-1b0kqqr",
@@ -1699,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.86
+      "score": 8.53
     },
     {
       "id": "ev-06io260",
@@ -1741,7 +1905,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-19q4w0c",
@@ -1783,7 +1947,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.78
+      "score": 8.45
+    },
+    {
+      "id": "ev-074h8bg",
+      "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
+      "summary": "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA. En redes, disparan contra la agencia publicitaria y el periodista Augusto Barreto recuerda antecedentes con fondos públicos. Oniria\\TBWA se deslinda de Grupo Vázquez. A través de un comunicado la agencia publicitaria dio a conocer su desvinculación",
+      "keyPoints": [
+        "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA.",
+        "Oniria\\TBWA se deslinda de Grupo Vázquez."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Oniria comunica su desvinculación de Grupo Vázquez",
+          "url": "https://www.hoy.com.py/espectaculos/2026/11/14/oniria-comunica-su-desvinculacion-de-grupo-vazquez",
+          "publishedAt": "2026-11-14T10:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HNS6TVNBCZCVVHJSLVNC7YNNYM.png?auth=993367285191e461ecab04279a8b3e94c5e15c9e5596dbb9dbb0703ace8a7e1f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
+          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez",
+          "publishedAt": "2026-11-13T19:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T12:07:11.260Z",
+      "updatedSlot": "manana",
+      "score": 6.84
     },
     {
       "id": "ev-1oikx4o",
@@ -1821,7 +2027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 6.94
+      "score": 6.6
     },
     {
       "id": "ev-1l7x132",
@@ -1863,7 +2069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 6.47
+      "score": 6.14
     },
     {
       "id": "ev-0hs0x54",
@@ -1892,7 +2098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.47
+      "score": 5.14
     },
     {
       "id": "ev-12fyf5k",
@@ -1925,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-085niok",
@@ -1954,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.04
     },
     {
       "id": "ev-1leal8e",
@@ -1987,7 +2193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1jhqwpa",
@@ -2020,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.97
     },
     {
       "id": "ev-11o309s",
@@ -2053,7 +2259,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.97
     },
     {
       "id": "ev-1a6yetg",
@@ -2086,7 +2292,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0j75axq",
@@ -2119,7 +2325,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-03osltq",
@@ -2152,7 +2358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.87
     },
     {
       "id": "ev-07scg52",
@@ -2185,7 +2391,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.87
     },
     {
       "id": "ev-05i2upb",
@@ -2218,7 +2424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.13
+      "score": 4.8
     },
     {
       "id": "ev-0yzocrx",
@@ -2251,7 +2457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.76
     },
     {
       "id": "ev-1jqfic3",
@@ -2284,40 +2490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.94
-    },
-    {
-      "id": "ev-074h8bg",
-      "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
-      "summary": "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA. En redes, disparan contra la agencia publicitaria y el periodista Augusto Barreto recuerda antecedentes con fondos públicos.",
-      "keyPoints": [
-        "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
-          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez",
-          "publishedAt": "2026-11-13T19:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.61
     },
     {
       "id": "ev-17k2j4j",
@@ -2350,7 +2523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.57
     },
     {
       "id": "ev-1s0xl3v",
@@ -2383,7 +2556,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.55
     },
     {
       "id": "ev-1tqvlip",
@@ -2416,7 +2589,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.47
     }
   ],
   "runs": [
@@ -2433,6 +2606,13 @@
       "added": 0,
       "updated": 12,
       "candidates": 12
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-14T12:07:11.260Z",
+      "added": 0,
+      "updated": 8,
+      "candidates": 10
     }
   ]
 }
