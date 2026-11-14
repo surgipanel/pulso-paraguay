@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-14T16:07:10.442Z",
+  "generatedAt": "2026-11-14T19:37:09.799Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -13,15 +13,23 @@
       "keyPoints": [
         "El juez penal de Garantías Humberto Otazú dispuso la prisión preventiva de tres exintegrantes de la cúpula del Banco Central del Paraguay (BCP), investigados por su presunta participación en maniobras que habrían favorecido a Ueno Bank…",
         "La resolución se dio tras la imputación fiscal por presunta lesión de confianza y asociación criminal en el marco de la investigación.",
-        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó.",
-        "El expresidente fue incluido en la imputación por supuesta asociación criminal, junto con Carlos Carvallo y Holger Insfrán."
+        "Un Juzgado hizo lugar ayer, viernes, a un pedido del Ministerio Público y ordenó la inhibición de enajenar y gravar bienes de muebles e inmuebles pertenecientes a Liana Caballero , Marco Aurelio González y Miguel Ángel…",
+        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó."
       ],
-      "category": "politica",
+      "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: ordenan inhibir bienes y embargar cuentas de exdirectivos del BCP",
+          "url": "https://www.abc.com.py/policiales/2026/11/14/ueno-bank-ordenan-inhibir-bienes-y-embargar-cuentas-de-exdirectivos-del-bcp",
+          "publishedAt": "2026-11-14T16:17:11.000Z",
+          "image": "https://www.abc.com.py/resizer/-pflCugvFSBIYl_JiZ7fJ4ZwDOY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VTBQOGCAU5AWTOM6M45DW4MTXA.jfif"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -174,7 +182,7 @@
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedAt": "2026-11-14T19:37:09.799Z",
       "updatedSlot": "tarde",
       "score": 29.72
     },
@@ -292,7 +300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 26.63
+      "score": 26.34
     },
     {
       "id": "ev-1muqubi",
@@ -368,7 +376,107 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 23.61
+      "score": 23.32
+    },
+    {
+      "id": "ev-0q9lxv3",
+      "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
+      "summary": "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica. Aseguran que unos 6.000 trabajadores directos y alrededor de 40.000 personas se encuentran afectadas por la situación.",
+      "keyPoints": [
+        "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica.",
+        "En medio de la incertidumbre y la desesperanza por la reciente pérdida de sus empleos, los trabajadores del Grupo Vázquez escribieron una carta dirigida al presidente de la República, a fin de hacerle un pedido.",
+        "Trabajadores afectados por la crisis del Grupo Vázquez enviaron una carta abierta al presidente Pedro Alliana, en la que reclaman el pago urgente de salarios y liquidaciones, continuidad de la cobertura médica y asistencia para miles…",
+        "Los empleados del Grupo Vázquez que quedaron cesantes en medio de la crisis pidieron garantía para cobrar salarios y liquidaciones pendientes."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Ex gerentes del Grupo Vázquez denuncian abandono y bloqueo de ahorros tras crisis de ueno bank",
+          "url": "https://www.ultimahora.com/ex-gerentes-del-grupo-vazquez-denuncian-abandono-y-bloqueo-de-ahorros-tras-crisis-de-ueno-bank",
+          "publishedAt": "2026-11-14T16:48:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "El pedido de los trabajadores del Grupo Vázquez a Pedro Alliana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/el-pedido-de-los-trabajadores-del-grupo-vazquez-a-pedro-alliana",
+          "publishedAt": "2026-11-14T16:04:42.947Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg?auth=5a9ab8bb6c836bd71b7b6808f968fdf8a73b7a41fae26d7518fcb63ab32a7407&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
+          "url": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236",
+          "publishedAt": "2026-11-14T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trabajadores afectados pidieron ayuda a Alliana",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/trabajadores-afectados-pidieron-ayuda-a-alliana",
+          "publishedAt": "2026-11-14T03:53:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4K8T00gssOMnLVTR9vdX5e2BSsc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trabajadores afectados por el caso Ueno piden a Alliana el pago urgente de salarios y liquidaciones",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/trabajadores-afectados-por-el-caso-ueno-piden-a-alliana-el-pago-urgente-de-salarios-y-liquidaciones",
+          "publishedAt": "2026-11-13T21:06:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f4a28ZDDvLyLEVcCq8L3SIPV9BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M3PFZNEQ4RHSHD4WTXFDTCMOZQ.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Gobierno busca garantizar pagos y proteger a trabajadores de Ueno",
+          "url": "https://5dias.com.py/article/gobierno-busca-garantizar-pagos-y-proteger-a-trabajadores-de-ueno",
+          "publishedAt": "2026-11-13T19:00:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/GOBIERNO_TRABAJO_20261113_190239.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana anuncia ley para mantener empresas vinculadas a Ueno y evitar despidos",
+          "url": "https://elnacional.com.py/politica/alliana-anuncia-ley-mantener-empresas-vinculadas-ueno-evitar-despidos-n115188",
+          "publishedAt": "2026-11-13T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af6f938a1681.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo presenta hoy proyecto para mantener operativas empresas vinculadas al caso Ueno",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/ejecutivo-presenta-hoy-proyecto-para-mantener-operativas-empresas-vinculadas-al-caso-ueno",
+          "publishedAt": "2026-11-13T09:55:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AUrh9aOe_x8Aruis9QKRdW6kXmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BWN7VFO3YZFHNGQVPPCOA7YTDY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Agilizarán proyecto que beneficiará a trabajadores del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/agilizaran-proyecto-que-beneficiara-a-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-13T03:48:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HJ0daf289Ys5zR9wjhDVnYAN0h8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5YDBYMLMYBANVFIRM7Z2JG5TUU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T19:37:09.799Z",
+      "updatedSlot": "tarde",
+      "score": 20.77
     },
     {
       "id": "ev-1bbiwyy",
@@ -492,99 +600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 20.91
-    },
-    {
-      "id": "ev-0q9lxv3",
-      "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
-      "summary": "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica. Aseguran que unos 6.000 trabajadores directos y alrededor de 40.000 personas se encuentran afectadas por la situación.",
-      "keyPoints": [
-        "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica.",
-        "En medio de la incertidumbre y la desesperanza por la reciente pérdida de sus empleos, los trabajadores del Grupo Vázquez escribieron una carta dirigida al presidente de la República, a fin de hacerle un pedido.",
-        "Trabajadores afectados por la crisis del Grupo Vázquez enviaron una carta abierta al presidente Pedro Alliana, en la que reclaman el pago urgente de salarios y liquidaciones, continuidad de la cobertura médica y asistencia para miles…",
-        "Los empleados del Grupo Vázquez que quedaron cesantes en medio de la crisis pidieron garantía para cobrar salarios y liquidaciones pendientes."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "El pedido de los trabajadores del Grupo Vázquez a Pedro Alliana",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/14/el-pedido-de-los-trabajadores-del-grupo-vazquez-a-pedro-alliana",
-          "publishedAt": "2026-11-14T16:04:42.947Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg?auth=5a9ab8bb6c836bd71b7b6808f968fdf8a73b7a41fae26d7518fcb63ab32a7407&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
-          "url": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236",
-          "publishedAt": "2026-11-14T13:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trabajadores afectados pidieron ayuda a Alliana",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/trabajadores-afectados-pidieron-ayuda-a-alliana",
-          "publishedAt": "2026-11-14T03:53:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4K8T00gssOMnLVTR9vdX5e2BSsc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trabajadores afectados por el caso Ueno piden a Alliana el pago urgente de salarios y liquidaciones",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/trabajadores-afectados-por-el-caso-ueno-piden-a-alliana-el-pago-urgente-de-salarios-y-liquidaciones",
-          "publishedAt": "2026-11-13T21:06:36.000Z",
-          "image": "https://www.lanacion.com.py/resizer/f4a28ZDDvLyLEVcCq8L3SIPV9BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M3PFZNEQ4RHSHD4WTXFDTCMOZQ.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Gobierno busca garantizar pagos y proteger a trabajadores de Ueno",
-          "url": "https://5dias.com.py/article/gobierno-busca-garantizar-pagos-y-proteger-a-trabajadores-de-ueno",
-          "publishedAt": "2026-11-13T19:00:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/GOBIERNO_TRABAJO_20261113_190239.png"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana anuncia ley para mantener empresas vinculadas a Ueno y evitar despidos",
-          "url": "https://elnacional.com.py/politica/alliana-anuncia-ley-mantener-empresas-vinculadas-ueno-evitar-despidos-n115188",
-          "publishedAt": "2026-11-13T13:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af6f938a1681.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo presenta hoy proyecto para mantener operativas empresas vinculadas al caso Ueno",
-          "url": "https://www.lanacion.com.py/politica/2026/11/13/ejecutivo-presenta-hoy-proyecto-para-mantener-operativas-empresas-vinculadas-al-caso-ueno",
-          "publishedAt": "2026-11-13T09:55:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AUrh9aOe_x8Aruis9QKRdW6kXmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BWN7VFO3YZFHNGQVPPCOA7YTDY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Agilizarán proyecto que beneficiará a trabajadores del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/agilizaran-proyecto-que-beneficiara-a-trabajadores-del-grupo-vazquez",
-          "publishedAt": "2026-11-13T03:48:30.000Z",
-          "image": "https://www.lanacion.com.py/resizer/HJ0daf289Ys5zR9wjhDVnYAN0h8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5YDBYMLMYBANVFIRM7Z2JG5TUU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T16:07:10.442Z",
-      "updatedSlot": "tarde",
-      "score": 18
+      "score": 20.62
     },
     {
       "id": "ev-0g8lvo4",
@@ -651,7 +667,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 17.91
+      "score": 17.62
     },
     {
       "id": "ev-06le36i",
@@ -727,7 +743,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 17.7
+      "score": 17.41
     },
     {
       "id": "ev-04i1ebw",
@@ -786,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.61
+      "score": 17.32
     },
     {
       "id": "ev-0fowh3w",
@@ -861,7 +877,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.57
+      "score": 17.28
     },
     {
       "id": "ev-1m8xdyu",
@@ -921,7 +937,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 16.55
+      "score": 16.26
+    },
+    {
+      "id": "ev-0n3yvx2",
+      "title": "EE.UU. felicita a Alliana por declarar terroristas a 21 organizaciones criminales",
+      "summary": "El Gobierno estadounidense destacó la decisión del mandatario paraguayo, quien firmó un decreto que incorpora a 21 estructuras delictivas transnacionales a la lista de organizaciones terroristas internacionales. La medida forma parte de la iniciativa Escudo de las Américas e incluye a grupos como el Tren de Aragua, el CJNG y el Cártel de Sinaloa.",
+      "keyPoints": [
+        "El Gobierno estadounidense destacó la decisión del mandatario paraguayo, quien firmó un decreto que incorpora a 21 estructuras delictivas transnacionales a la lista de organizaciones terroristas internacionales.",
+        "“Elogiamos a Pedro Alliana por designar a 21 organizaciones criminales transnacionales como organizaciones terroristas bajo el Escudo de las Américas”, expresó Juan Pablo Segura."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "EE.UU. felicita a Alliana por declarar terroristas a 21 organizaciones criminales",
+          "url": "https://elnacional.com.py/politica/eeuu-felicita-alliana-declarar-terroristas-21-organizaciones-criminales-n115234",
+          "publishedAt": "2026-11-14T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/04/69ec64cb237e0.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Destacan liderazgo para combatir organizaciones criminales",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/destacan-liderazgo-para-combatir-organizaciones-criminales",
+          "publishedAt": "2026-11-14T05:22:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UGQChTDNUGMeeC7VwpKaPKoJezg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q2OY75FM3ZBSHM5CMAZ7GIIFOQ.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Estados Unidos destaca decisión de Alliana de declarar terroristas a 21 grupos criminales",
+          "url": "https://www.adndigital.com.py/estados-unidos-destaca-decision-de-alliana-de-declarar-terroristas-a-21-grupos-criminales",
+          "publishedAt": "2026-11-13T19:20:14.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-13-at-161917.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Designan como organizaciones terroristas a grupos criminales",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/designan-como-organizaciones-terroristas-a-grupos-criminales",
+          "publishedAt": "2026-11-13T03:28:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zFLmktd48IiGslneCp4sYmLPWRY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BRSBZMFEJJAEDCCZ6EDXCKJDF4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/04/69ec64cb237e0.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/eeuu-felicita-alliana-declarar-terroristas-21-organizaciones-criminales-n115234"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T19:37:09.799Z",
+      "updatedSlot": "tarde",
+      "score": 14.78
     },
     {
       "id": "ev-147nvn7",
@@ -1061,7 +1135,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.45
+      "score": 14.16
     },
     {
       "id": "ev-19lfg6r",
@@ -1177,7 +1251,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.13
+      "score": 13.84
     },
     {
       "id": "ev-07y0xqj",
@@ -1237,7 +1311,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 11.62
+      "score": 11.33
+    },
+    {
+      "id": "ev-074h8bg",
+      "title": "Oniria y 23 Sports anuncian su salida del Grupo Vázquez y denuncian perjuicios económicos",
+      "summary": "Las firmas Oniria y 23 Sports confirmaron su separación accionaria del Grupo Vázquez, denunciaron perjuicios económicos y se pusieron a disposición fiscal. Oniria\\TBWA se deslinda de Grupo Vázquez. A través de un comunicado la agencia publicitaria dio a conocer su desvinculación",
+      "keyPoints": [
+        "Las firmas Oniria y 23 Sports confirmaron su separación accionaria del Grupo Vázquez, denunciaron perjuicios económicos y se pusieron a disposición fiscal.",
+        "Oniria\\TBWA se deslinda de Grupo Vázquez."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Oniria y 23 Sports anuncian su salida del Grupo Vázquez y denuncian perjuicios económicos",
+          "url": "https://5dias.com.py/article/oniria-y-23-sports-anuncian-su-salida-del-grupo-vzquez-y-denuncian-perjuicios-econmicos",
+          "publishedAt": "2026-11-14T15:36:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/canva_web_20261114_160801.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Oniria comunica su desvinculación de Grupo Vázquez",
+          "url": "https://www.hoy.com.py/espectaculos/2026/11/14/oniria-comunica-su-desvinculacion-de-grupo-vazquez",
+          "publishedAt": "2026-11-14T10:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HNS6TVNBCZCVVHJSLVNC7YNNYM.png?auth=993367285191e461ecab04279a8b3e94c5e15c9e5596dbb9dbb0703ace8a7e1f&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
+          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez",
+          "publishedAt": "2026-11-13T19:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/canva_web_20261114_160801.jpg",
+        "credit": "5Días",
+        "articleUrl": "https://5dias.com.py/article/oniria-y-23-sports-anuncian-su-salida-del-grupo-vzquez-y-denuncian-perjuicios-econmicos"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T19:37:09.799Z",
+      "updatedSlot": "tarde",
+      "score": 10.67
     },
     {
       "id": "ev-0wggrr2",
@@ -1288,57 +1412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.12
-    },
-    {
-      "id": "ev-0n3yvx2",
-      "title": "Estados Unidos destaca decisión de Alliana de declarar terroristas a 21 grupos criminales",
-      "summary": "El Gobierno de Estados Unidos expresó su respaldo a la decisión del presidente de la República, Pedro Alliana, de incorporar a 21 organizaciones criminales transnacionales a la lista de grupos terroristas internacionales. El reconocimiento fue realizado por Juan Pablo Segura, secretario de Estado Adjunto para Asuntos del Hemisferio Occidental, a través de una publicación en …",
-      "keyPoints": [
-        "El Gobierno de Estados Unidos expresó su respaldo a la decisión del presidente de la República, Pedro Alliana, de incorporar a 21 organizaciones criminales transnacionales a la lista de grupos terroristas internacionales.",
-        "“Elogiamos a Pedro Alliana por designar a 21 organizaciones criminales transnacionales como organizaciones terroristas bajo el Escudo de las Américas”, expresó Juan Pablo Segura."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Destacan liderazgo para combatir organizaciones criminales",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/destacan-liderazgo-para-combatir-organizaciones-criminales",
-          "publishedAt": "2026-11-14T05:22:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/UGQChTDNUGMeeC7VwpKaPKoJezg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q2OY75FM3ZBSHM5CMAZ7GIIFOQ.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Estados Unidos destaca decisión de Alliana de declarar terroristas a 21 grupos criminales",
-          "url": "https://www.adndigital.com.py/estados-unidos-destaca-decision-de-alliana-de-declarar-terroristas-a-21-grupos-criminales",
-          "publishedAt": "2026-11-13T19:20:14.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-13-at-161917.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Designan como organizaciones terroristas a grupos criminales",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/designan-como-organizaciones-terroristas-a-grupos-criminales",
-          "publishedAt": "2026-11-13T03:28:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/zFLmktd48IiGslneCp4sYmLPWRY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BRSBZMFEJJAEDCCZ6EDXCKJDF4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-13-at-161917.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/estados-unidos-destaca-decision-de-alliana-de-declarar-terroristas-a-21-grupos-criminales"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 10.1
+      "score": 9.83
     },
     {
       "id": "ev-1jhqwpa",
@@ -1380,7 +1454,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 9.95
+      "score": 9.66
     },
     {
       "id": "ev-1x8i47r",
@@ -1472,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T16:07:10.442Z",
       "updatedSlot": "tarde",
-      "score": 9.44
+      "score": 9.15
     },
     {
       "id": "ev-0uebf12",
@@ -1565,7 +1639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.5
     },
     {
       "id": "ev-0r1aipn",
@@ -1607,7 +1681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.79
+      "score": 8.5
     },
     {
       "id": "ev-1n9ek2g",
@@ -1649,7 +1723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.73
+      "score": 8.44
     },
     {
       "id": "ev-00iiph3",
@@ -1691,7 +1765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.62
+      "score": 8.32
     },
     {
       "id": "ev-0addils",
@@ -1733,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.3
     },
     {
       "id": "ev-0ob22lq",
@@ -1775,7 +1849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.27
     },
     {
       "id": "ev-05x6b00",
@@ -1817,7 +1891,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.52
+      "score": 8.23
     },
     {
       "id": "ev-11u0cpl",
@@ -1859,7 +1933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.21
     },
     {
       "id": "ev-1099mz8",
@@ -1901,7 +1975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.4
+      "score": 8.11
     },
     {
       "id": "ev-0xg6xli",
@@ -1943,7 +2017,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.31
+      "score": 8.02
     },
     {
       "id": "ev-1ta4b1r",
@@ -1985,7 +2059,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.28
+      "score": 8
     },
     {
       "id": "ev-1b0kqqr",
@@ -2027,7 +2101,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 8
     },
     {
       "id": "ev-06io260",
@@ -2069,7 +2143,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.16
+      "score": 8
     },
     {
       "id": "ev-19q4w0c",
@@ -2111,49 +2185,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.12
-    },
-    {
-      "id": "ev-074h8bg",
-      "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
-      "summary": "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA. En redes, disparan contra la agencia publicitaria y el periodista Augusto Barreto recuerda antecedentes con fondos públicos. Oniria\\TBWA se deslinda de Grupo Vázquez. A través de un comunicado la agencia publicitaria dio a conocer su desvinculación",
-      "keyPoints": [
-        "El Grupo Vázquez adquirió parte de las acciones de Oniria\\TBWA.",
-        "Oniria\\TBWA se deslinda de Grupo Vázquez."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Oniria comunica su desvinculación de Grupo Vázquez",
-          "url": "https://www.hoy.com.py/espectaculos/2026/11/14/oniria-comunica-su-desvinculacion-de-grupo-vazquez",
-          "publishedAt": "2026-11-14T10:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HNS6TVNBCZCVVHJSLVNC7YNNYM.png?auth=993367285191e461ecab04279a8b3e94c5e15c9e5596dbb9dbb0703ace8a7e1f&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Reclaman dinero público a Oniria, multipremiada agencia publicitaria de Grupo Vázquez",
-          "url": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez",
-          "publishedAt": "2026-11-13T19:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/MLA6ZUAH5NC2RDFQXHMDDM7CEY.jpg?auth=09d61379488e77a40c90d0b87a9e39980baaef60fdfd6390d69afdf72803b04c&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/espectaculos/farandula/2026/11/13/reclaman-dinero-publico-a-oniria-multipremiada-agencia-publicitaria-de-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T12:07:11.260Z",
-      "updatedSlot": "manana",
-      "score": 6.51
+      "score": 8
     },
     {
       "id": "ev-1oikx4o",
@@ -2191,7 +2223,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 6.27
+      "score": 5.98
     },
     {
       "id": "ev-1l7x132",
@@ -2233,7 +2265,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.81
+      "score": 5.51
     },
     {
       "id": "ev-0hs0x54",
@@ -2262,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.81
+      "score": 4.51
     },
     {
       "id": "ev-12fyf5k",
@@ -2295,7 +2327,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.43
     },
     {
       "id": "ev-085niok",
@@ -2324,7 +2356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1leal8e",
@@ -2357,7 +2389,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-11o309s",
@@ -2390,7 +2422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.34
     },
     {
       "id": "ev-1a6yetg",
@@ -2423,7 +2455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.58
+      "score": 4.29
     },
     {
       "id": "ev-0j75axq",
@@ -2456,7 +2488,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.28
     },
     {
       "id": "ev-03osltq",
@@ -2489,7 +2521,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.24
     },
     {
       "id": "ev-07scg52",
@@ -2522,7 +2554,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.24
     },
     {
       "id": "ev-05i2upb",
@@ -2555,7 +2587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.17
     },
     {
       "id": "ev-0yzocrx",
@@ -2588,7 +2620,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.14
     },
     {
       "id": "ev-1jqfic3",
@@ -2621,7 +2653,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.28
+      "score": 4
     },
     {
       "id": "ev-17k2j4j",
@@ -2654,7 +2686,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.24
+      "score": 4
     },
     {
       "id": "ev-1s0xl3v",
@@ -2687,7 +2719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.21
+      "score": 4
     },
     {
       "id": "ev-1tqvlip",
@@ -2720,7 +2752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.14
+      "score": 4
     }
   ],
   "runs": [
@@ -2751,6 +2783,13 @@
       "added": 0,
       "updated": 7,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-14T19:37:09.799Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 10
     }
   ]
 }
