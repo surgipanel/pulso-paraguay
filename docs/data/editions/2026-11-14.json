@@ -1,136 +1,20 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-14T12:07:11.260Z",
+  "generatedAt": "2026-11-14T16:07:10.442Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-1kar226",
-      "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
-      "summary": "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente intensos. En las zonas de mayor afectación, los acumulados de lluvia podrían alcanzar entre 50 y 70 mm, con …",
-      "keyPoints": [
-        "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente…",
-        "Para este sábado se pronostica un ambiente caluroso, con cielo parcialmente nublado a nublado y vientos predominantes del norte, que posteriormente pasarán a ser variables.",
-        "Se esperan fuerte ráfagas de vientos y la ocasional caída de granizos de forma puntual.",
-        "La Dirección de Meteorología anuncia un sábado inestable con altas probabilidades de lluvias, tormentas y caída de granizos en muchas zonas de Paraguay."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Lluvias, tormentas, vientos fuertes y probabilidad de caída de granizos para este sábado",
-          "url": "https://www.ultimahora.com/lluvias-tormentas-vientos-fuertes-y-probabilidad-de-caida-de-granizos-para-este-sabado",
-          "publishedAt": "2026-11-14T11:41:16.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Prevén lluvias y tormentas eléctricas en Ciudad del Este",
-          "url": "https://www.abc.com.py/este/2026/11/14/preven-lluvias-y-tormentas-electricas-en-ciudad-del-este",
-          "publishedAt": "2026-11-14T10:59:08.000Z",
-          "image": "https://www.abc.com.py/resizer/da8pMuA_WMngKR_3debpd9X0Ob8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FE52ZZQBN5GNBMH5DFTH5JY4R4.JPG"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
-          "url": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana",
-          "publishedAt": "2026-11-14T10:43:04.000Z",
-          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/03/LLUVIA.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Clima en Paraguay: Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
-          "url": "https://elnacional.com.py/nacionales/clima-paraguay-probabilidad-lluvias-tormentas-electricas-hoy-manana-n115232",
-          "publishedAt": "2026-11-14T10:19:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ada05186b900.webp"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Meteorología prevé un sábado muy caluroso y probables lluvias intensas",
-          "url": "https://www.lanacion.com.py/pais/2026/11/14/meteorologia-preve-un-sabado-muy-caluroso-y-probables-lluvias-intensas",
-          "publishedAt": "2026-11-14T10:12:52.000Z",
-          "image": "https://www.lanacion.com.py/resizer/BuMmkOUAGSoaJOvURhKW-LvAD9M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JF3YZBSKFJFY7PQ367SXBNAR24.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fin de semana caluroso y con probables lluvias",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/14/fin-de-semana-caluroso-y-con-probables-lluvias",
-          "publishedAt": "2026-11-14T09:52:27.990Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Calor intenso y lluvias marcarán el tiempo durante el fin de semana, según Meteorología",
-          "url": "https://www.abc.com.py/clima/2026/11/14/calor-intenso-y-lluvias-marcaran-el-tiempo-durante-el-fin-de-semana-segun-meteorologia",
-          "publishedAt": "2026-11-14T09:49:33.000Z",
-          "image": "https://www.abc.com.py/resizer/Ic1Mt5BAVnjitqqWd8kKNFyBN_w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CLTHHGYGPRCS5AWGJPHEYY7QIY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Meteorología anuncia tormentas con ráfagas de 90 km/h para este fin de semana",
-          "url": "https://www.abc.com.py/clima/2026/11/13/meteorologia-anuncia-tormentas-con-rafagas-de-90-kmh-para-este-fin-de-semana",
-          "publishedAt": "2026-11-13T21:42:52.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Pronostican lluvias intensas y tormentas eléctricas para cinco departamentos",
-          "url": "https://www.lanacion.com.py/pais/2026/11/13/pronostican-lluvias-intensas-y-tormentas-electricas-para-cinco-departamentos",
-          "publishedAt": "2026-11-13T21:34:49.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iDQoTt_klmWfQWZlb7g-lEPLiAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERPHMHZYZZEH5IZQ4RJESD66LE.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fin de semana caluroso, con máximas de hasta 41°C",
-          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-con-maximas-de-hasta-41-c",
-          "publishedAt": "2026-11-13T09:38:44.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
-          "url": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias",
-          "publishedAt": "2026-11-13T09:32:56.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7EKmVHf9GBtczEr4KXX-wevIegU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GRVHUNCD2RHL7NMDSEF3IQZHXI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/03/LLUVIA.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T12:07:11.260Z",
-      "updatedSlot": "manana",
-      "score": 26.96
-    },
-    {
       "id": "ev-0npqv7a",
-      "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
-      "summary": "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal. Según el acta de imputación, Peña habría encabezado una estructura organizada desde el poder político para favorecer al Grupo Vázquez y garantizar la continuidad de las operaciones de ueno bank, pese a las advertencias sobre su situación financiera.",
+      "title": "Exdirectivos del BCP van a prisión preventiva por investigación sobre Ueno Bank",
+      "summary": "El juez penal de Garantías Humberto Otazú dispuso la prisión preventiva de tres exintegrantes de la cúpula del Banco Central del Paraguay (BCP), investigados por su presunta participación en maniobras que habrían favorecido a Ueno Bank y ocasionado un perjuicio al Estado paraguayo.",
       "keyPoints": [
-        "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal.",
-        "El expresidente fue incluido en la imputación por supuesta asociación criminal, junto con Carlos Carvallo y Holger Insfrán.",
+        "El juez penal de Garantías Humberto Otazú dispuso la prisión preventiva de tres exintegrantes de la cúpula del Banco Central del Paraguay (BCP), investigados por su presunta participación en maniobras que habrían favorecido a Ueno Bank…",
         "La resolución se dio tras la imputación fiscal por presunta lesión de confianza y asociación criminal en el marco de la investigación.",
-        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó."
+        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó.",
+        "El expresidente fue incluido en la imputación por supuesta asociación criminal, junto con Carlos Carvallo y Holger Insfrán."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -138,6 +22,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Exdirectivos del BCP van a prisión preventiva por investigación sobre Ueno Bank",
+          "url": "https://www.adndigital.com.py/exdirectivos-del-bcp-van-a-prision-preventiva-por-investigacion-sobre-ueno-bank",
+          "publishedAt": "2026-11-14T12:46:27.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2023/07/humberto-otazu.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -276,15 +168,131 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg?auth=e57927dcf2908c0a8dd0272c6726a23fbb8ee5af951a845d50d4adf8057744ce&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2023/07/humberto-otazu.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/exdirectivos-del-bcp-van-a-prision-preventiva-por-investigacion-sobre-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 29.72
+    },
+    {
+      "id": "ev-1kar226",
+      "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+      "summary": "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente intensos. En las zonas de mayor afectación, los acumulados de lluvia podrían alcanzar entre 50 y 70 mm, con …",
+      "keyPoints": [
+        "ASUNCIÓN.- La Dirección Nacional de Meteorología pronostica que entre hoy, sábado 14, y mañana, domingo 15, se prevén lluvias acompañadas de tormentas eléctricas de variada intensidad en ambas regiones del país, con probabilidad de fenómenos puntualmente…",
+        "Para este sábado se pronostica un ambiente caluroso, con cielo parcialmente nublado a nublado y vientos predominantes del norte, que posteriormente pasarán a ser variables.",
+        "Se esperan fuerte ráfagas de vientos y la ocasional caída de granizos de forma puntual.",
+        "La Dirección de Meteorología anuncia un sábado inestable con altas probabilidades de lluvias, tormentas y caída de granizos en muchas zonas de Paraguay."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lluvias, tormentas, vientos fuertes y probabilidad de caída de granizos para este sábado",
+          "url": "https://www.ultimahora.com/lluvias-tormentas-vientos-fuertes-y-probabilidad-de-caida-de-granizos-para-este-sabado",
+          "publishedAt": "2026-11-14T11:41:16.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Prevén lluvias y tormentas eléctricas en Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/11/14/preven-lluvias-y-tormentas-electricas-en-ciudad-del-este",
+          "publishedAt": "2026-11-14T10:59:08.000Z",
+          "image": "https://www.abc.com.py/resizer/da8pMuA_WMngKR_3debpd9X0Ob8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FE52ZZQBN5GNBMH5DFTH5JY4R4.JPG"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+          "url": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana",
+          "publishedAt": "2026-11-14T10:43:04.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2021/03/LLUVIA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima en Paraguay: Probabilidad de lluvias y tormentas eléctricas para hoy y mañana",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-probabilidad-lluvias-tormentas-electricas-hoy-manana-n115232",
+          "publishedAt": "2026-11-14T10:19:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ada05186b900.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Meteorología prevé un sábado muy caluroso y probables lluvias intensas",
+          "url": "https://www.lanacion.com.py/pais/2026/11/14/meteorologia-preve-un-sabado-muy-caluroso-y-probables-lluvias-intensas",
+          "publishedAt": "2026-11-14T10:12:52.000Z",
+          "image": "https://www.lanacion.com.py/resizer/BuMmkOUAGSoaJOvURhKW-LvAD9M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JF3YZBSKFJFY7PQ367SXBNAR24.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fin de semana caluroso y con probables lluvias",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/fin-de-semana-caluroso-y-con-probables-lluvias",
+          "publishedAt": "2026-11-14T09:52:27.990Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Calor intenso y lluvias marcarán el tiempo durante el fin de semana, según Meteorología",
+          "url": "https://www.abc.com.py/clima/2026/11/14/calor-intenso-y-lluvias-marcaran-el-tiempo-durante-el-fin-de-semana-segun-meteorologia",
+          "publishedAt": "2026-11-14T09:49:33.000Z",
+          "image": "https://www.abc.com.py/resizer/Ic1Mt5BAVnjitqqWd8kKNFyBN_w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CLTHHGYGPRCS5AWGJPHEYY7QIY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Meteorología anuncia tormentas con ráfagas de 90 km/h para este fin de semana",
+          "url": "https://www.abc.com.py/clima/2026/11/13/meteorologia-anuncia-tormentas-con-rafagas-de-90-kmh-para-este-fin-de-semana",
+          "publishedAt": "2026-11-13T21:42:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Pronostican lluvias intensas y tormentas eléctricas para cinco departamentos",
+          "url": "https://www.lanacion.com.py/pais/2026/11/13/pronostican-lluvias-intensas-y-tormentas-electricas-para-cinco-departamentos",
+          "publishedAt": "2026-11-13T21:34:49.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iDQoTt_klmWfQWZlb7g-lEPLiAM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERPHMHZYZZEH5IZQ4RJESD66LE.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fin de semana caluroso, con máximas de hasta 41°C",
+          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-con-maximas-de-hasta-41-c",
+          "publishedAt": "2026-11-13T09:38:44.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
+          "url": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias",
+          "publishedAt": "2026-11-13T09:32:56.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7EKmVHf9GBtczEr4KXX-wevIegU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GRVHUNCD2RHL7NMDSEF3IQZHXI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/03/LLUVIA.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/probabilidad-de-lluvias-y-tormentas-electricas-para-hoy-y-manana"
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 26.69
+      "score": 26.63
     },
     {
       "id": "ev-1muqubi",
@@ -360,7 +368,366 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 23.94
+      "score": 23.61
+    },
+    {
+      "id": "ev-1bbiwyy",
+      "title": "Alliana garantiza solidez del sistema financiero tras la crisis de Ueno Bank",
+      "summary": "El presidente de la República, Pedro Alliana, destacó que el sistema financiero paraguayo está fortalecido tras la crisis generada por el proceso de resolución de Ueno Bank. En entrevista con el sitio de noticias Infobae, el gobernante mencionó que el Banco Central del Paraguay (BCP) está trabajando intensamente para cubrir a todos los afectados.",
+      "keyPoints": [
+        "El presidente de la República, Pedro Alliana, destacó que el sistema financiero paraguayo está fortalecido tras la crisis generada por el proceso de resolución de Ueno Bank.",
+        "A través de una entrevista internacional, el presidente aseguró que el sistema financiero se encuentra sólido y abierto a las inversiones, con seguridad y transparencia.",
+        "El titular de Capex, Sebastián González Morassi, destacó la respuesta institucional ante la crisis de Ueno Bank y consideró positivos los recortes del PGN 2027, aunque pidió mayores controles y responsabilidad en el gasto público.",
+        "El presidente Pedro Alliana accedió a una entrevista con el medio argentino, Infobae, que le consultó acerca de la crisis financiera desatada con la caída del banco Ueno, las prioridades de su gestión a partir de…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana garantiza solidez del sistema financiero tras la crisis de Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/14/alliana-garantiza-solidez-del-sistema-financiero-tras-la-crisis-de-ueno-bank",
+          "publishedAt": "2026-11-14T15:02:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XiFbzaEvrmGTaU8qhrX5H2LQVxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana afirma que el sistema financiero paraguayo está fortalecido y que el país \"está de pie\"",
+          "url": "https://elnacional.com.py/politica/alliana-afirma-sistema-financiero-paraguayo-esta-fortalecido-pais-esta-pie-n115239",
+          "publishedAt": "2026-11-14T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1d21070fdb.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Alliana con Infobae: crisis de Ueno, respuestas y agenda con EE.UU.",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/alliana-con-infobae-crisis-de-ueno-respuestas-y-agenda-con-eeuu",
+          "publishedAt": "2026-11-14T13:14:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/TN72OICHRVHOFO6U4HVOWGZFGA.jpg?auth=932d283ea65434b72244309fa1efc10bc6a5e4ea22b548e0a0bb4bb1553c4421&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Santi Peña y su asociación criminal",
+          "url": "https://www.ultimahora.com/santi-pena-y-su-asociacion-criminal",
+          "publishedAt": "2026-11-14T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Amplían imputación contra Peña y más directores de BCP van a prisión",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/amplian-imputacion-contra-pena-y-mas-directores-de-bcp-van-a-prision",
+          "publishedAt": "2026-11-14T05:59:32.000Z",
+          "image": "https://www.lanacion.com.py/resizer/dgezlL_C_BDynNKB2MmjrXImPB8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SGUOGTFCA5BFZOBH5N3IPP725Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La estructura delictiva de Peña",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/la-estructura-delictiva-de-pena",
+          "publishedAt": "2026-11-14T05:52:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/jPi5rHGBz6Zppco1O2lPkYI840w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TI4APRFLEJHFNIR3INS3TKEK5Y.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno: Capex destaca respuesta institucional y confianza en el sistema financiero",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/caso-ueno-capex-destaca-respuesta-institucional-y-confianza-en-el-sistema-financiero",
+          "publishedAt": "2026-11-14T00:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/p-pjmcxnCJmztZRGw995KrmUqsQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PP3I7JLCXRFWDOVNJAID6SXJH4.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Detención de los directivos del BCP ante el escándalo financiero",
+          "url": "https://www.telefuturo.com.py/detencion-de-los-directivos-del-bcp-ante-el-escandalo-financiero",
+          "publishedAt": "2026-11-13T18:50:29.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "La escandalosa estafa de Ueno Bank",
+          "url": "https://www.telefuturo.com.py/la-escandalosa-estafa-de-ueno-bank",
+          "publishedAt": "2026-11-13T18:28:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp",
+          "publishedAt": "2026-11-13T17:18:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/bQTm-LoqGvQYYUKmRc8TvfCW5GQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso ueno bank: Fiscalía amplía imputación contra Santiago Peña por asociación criminal",
+          "url": "https://elnacional.com.py/politica/caso-ueno-bank-fiscalia-amplia-imputacion-santiago-pena-asociacion-criminal-n115219",
+          "publishedAt": "2026-11-13T17:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef8de33913c.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso ueno: Peña, Carvallo y exdirectivos del BCP, bajo la lupa de la Fiscalía",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/13/caso-ueno-pena-carvallo-y-exdirectivos-del-bcp-bajo-la-lupa-de-la-fiscalia",
+          "publishedAt": "2026-11-13T15:40:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tSvXVDA5jOmoLD8jf4N5xJ3AmHA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KZFM5ONNVVDKNNN5NLR6RY6YF4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af1d21070fdb.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/alliana-afirma-sistema-financiero-paraguayo-esta-fortalecido-pais-esta-pie-n115239"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 20.91
+    },
+    {
+      "id": "ev-0q9lxv3",
+      "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
+      "summary": "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica. Aseguran que unos 6.000 trabajadores directos y alrededor de 40.000 personas se encuentran afectadas por la situación.",
+      "keyPoints": [
+        "A través de una carta dirigida al presidente Pedro Alliana, funcionarios afectados por la crisis del grupo empresarial reclamaron el cobro inmediato de sus haberes y liquidaciones, además de la continuidad de la cobertura médica.",
+        "En medio de la incertidumbre y la desesperanza por la reciente pérdida de sus empleos, los trabajadores del Grupo Vázquez escribieron una carta dirigida al presidente de la República, a fin de hacerle un pedido.",
+        "Trabajadores afectados por la crisis del Grupo Vázquez enviaron una carta abierta al presidente Pedro Alliana, en la que reclaman el pago urgente de salarios y liquidaciones, continuidad de la cobertura médica y asistencia para miles…",
+        "Los empleados del Grupo Vázquez que quedaron cesantes en medio de la crisis pidieron garantía para cobrar salarios y liquidaciones pendientes."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "El pedido de los trabajadores del Grupo Vázquez a Pedro Alliana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/el-pedido-de-los-trabajadores-del-grupo-vazquez-a-pedro-alliana",
+          "publishedAt": "2026-11-14T16:04:42.947Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg?auth=5a9ab8bb6c836bd71b7b6808f968fdf8a73b7a41fae26d7518fcb63ab32a7407&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Trabajadores del Grupo Vázquez exigen a Alliana el pago de salarios y garantías médicas",
+          "url": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236",
+          "publishedAt": "2026-11-14T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trabajadores afectados pidieron ayuda a Alliana",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/trabajadores-afectados-pidieron-ayuda-a-alliana",
+          "publishedAt": "2026-11-14T03:53:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/4K8T00gssOMnLVTR9vdX5e2BSsc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trabajadores afectados por el caso Ueno piden a Alliana el pago urgente de salarios y liquidaciones",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/trabajadores-afectados-por-el-caso-ueno-piden-a-alliana-el-pago-urgente-de-salarios-y-liquidaciones",
+          "publishedAt": "2026-11-13T21:06:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f4a28ZDDvLyLEVcCq8L3SIPV9BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M3PFZNEQ4RHSHD4WTXFDTCMOZQ.jpeg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Gobierno busca garantizar pagos y proteger a trabajadores de Ueno",
+          "url": "https://5dias.com.py/article/gobierno-busca-garantizar-pagos-y-proteger-a-trabajadores-de-ueno",
+          "publishedAt": "2026-11-13T19:00:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/GOBIERNO_TRABAJO_20261113_190239.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana anuncia ley para mantener empresas vinculadas a Ueno y evitar despidos",
+          "url": "https://elnacional.com.py/politica/alliana-anuncia-ley-mantener-empresas-vinculadas-ueno-evitar-despidos-n115188",
+          "publishedAt": "2026-11-13T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af6f938a1681.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo presenta hoy proyecto para mantener operativas empresas vinculadas al caso Ueno",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/ejecutivo-presenta-hoy-proyecto-para-mantener-operativas-empresas-vinculadas-al-caso-ueno",
+          "publishedAt": "2026-11-13T09:55:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AUrh9aOe_x8Aruis9QKRdW6kXmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BWN7VFO3YZFHNGQVPPCOA7YTDY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Agilizarán proyecto que beneficiará a trabajadores del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/agilizaran-proyecto-que-beneficiara-a-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-13T03:48:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HJ0daf289Ys5zR9wjhDVnYAN0h8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5YDBYMLMYBANVFIRM7Z2JG5TUU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6af78648c94e8.webp",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/trabajadores-grupo-vazquez-exigen-alliana-pago-salarios-garantias-medicas-n115236"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 18
+    },
+    {
+      "id": "ev-0g8lvo4",
+      "title": "Encarnación: comuna tiene deuda de G. 58.000 millones",
+      "summary": "Aparecen obligaciones con la Ande, recolección de basura, alquileres, seguros y préstamos bancarios. El cambio de autoridades en la Municipalidad de Encarnación dejó al descubierto un complicado escenario económico y administrativo. El nuevo intendente, Sebastián “Cheba” Remezowski, presentó los resultados del proceso de transición y señaló que la institución arrastra obligaciones que superan los G. 58.000 millones, equivalentes a unos USD 10 millones, correspondientes a la gestión de …",
+      "keyPoints": [
+        "Aparecen obligaciones con la Ande, recolección de basura, alquileres, seguros y préstamos bancarios.",
+        "El cambio de autoridades en la Municipalidad de Encarnación dejó al descubierto un complicado escenario económico y administrativo.",
+        "Asimismo, el Régimen de Maquila sigue con su ritmo expansivo al generar envíos por USD 1.300,2 millones al cierre de octubre, casi 27 % a lo acumulado en los primeros diez meses del 2025."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Nueva gestión de Encarnación hereda un pasivo de USD 10 millones",
+          "url": "https://www.adndigital.com.py/nueva-gestion-de-encarnacion-hereda-un-pasivo-de-usd-10-millones",
+          "publishedAt": "2026-11-14T15:01:17.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/09/encarnacion.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Encarnación: comuna tiene deuda de G. 58.000 millones",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/encarnacion-comuna-tiene-deuda-de-g-58000-millones",
+          "publishedAt": "2026-11-14T04:06:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qiNi9ynD98O4EA5vi6Vxhuy8R7A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QJ4UF74F45FGRP3ZPKEW2F4LG4.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Intendente de Encarnación denuncia que recibió la Municipalidad con una deuda de USD 10 millones",
+          "url": "https://www.ultimahora.com/intendente-de-encarnacion-denuncia-que-recibio-la-municipalidad-con-una-deuda-de-usd-10-millones",
+          "publishedAt": "2026-11-14T00:21:43.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Exportaciones paraguayas superan los USD 17.000 millones, impulsadas por el complejo sojero",
+          "url": "https://elnacional.com.py/economia/exportaciones-paraguayas-superan-usd-17000-millones-impulsadas-complejo-sojero-n115169",
+          "publishedAt": "2026-11-13T18:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2024/10/3acf103e1a4dd22b389437ffacddc2a7.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Encarnación: municipio reporta deuda superior a G. 58.000 millones y rescindirá contrato del estacionamiento tarifado",
+          "url": "https://www.lanacion.com.py/politica/2026/11/13/encarnacion-municipio-reporta-deuda-superior-a-g-58000-millones-y-rescindira-contrato-del-estacionamiento-tarifado",
+          "publishedAt": "2026-11-13T16:10:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZYDMR8FliQtFe5ha7oOI-Q4MTCo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HC4OI5FKGJHI3E4ZZ5CHQ7TICM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QJ4UF74F45FGRP3ZPKEW2F4LG4.jpg?auth=914ce3624be2b8ef4791714e8c3e70fe19e4c4200a7cec45fff74520ccb82f52&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/encarnacion-comuna-tiene-deuda-de-g-58000-millones"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 17.91
+    },
+    {
+      "id": "ev-06le36i",
+      "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
+      "summary": "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores. El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
+      "keyPoints": [
+        "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores.",
+        "El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
+        "El Banco Central comunicó ayer la reducción temporal del 5 % de las tasas de encaje legal, a solicitud de la Asoban, como medida de apoyo al mercado de valores.",
+        "Las entidades bancarias y financieras tendrán mayor margen para canalizar recursos hacia otros participantes del mercado financiero, tras una decisión del Banco Central del Paraguay (BCP) que flexibiliza temporalmente las exigencias del encaje legal."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Bancos podrán utilizar parte de sus recursos inmovilizados para respaldar al mercado de valores",
+          "url": "https://www.adndigital.com.py/bancos-podran-utilizar-parte-de-sus-recursos-inmovilizados-para-respaldar-al-mercado-de-valores",
+          "publishedAt": "2026-11-14T12:29:09.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/bcp.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP reduce encaje legal: ¿qué significa y para qué sirve?",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/bcp-reduce-encaje-legal-que-significa-y-para-que-sirve",
+          "publishedAt": "2026-11-14T10:29:50.938Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP flexibiliza encaje legal para dar liquidez",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/14/bcp-flexibiliza-encaje-legal-para-dar-liquidez",
+          "publishedAt": "2026-11-14T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7r-OUOCznbbPKOz3LEJ6Lz3N7ok=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "BCP flexibiliza reglas para que bancos ayuden al mercado de valores",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/13/bcp-flexibiliza-reglas-para-que-bancos-ayuden-al-mercado-de-valores",
+          "publishedAt": "2026-11-14T00:12:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/bcp-flexibiliza-el-encaje-legal-para-dar-liquidez-al-mercado-de-valores-tras-pedido-de-asoban",
+          "publishedAt": "2026-11-13T21:52:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/T6xH131cdgB2H2Ecjoiq2KqMJYY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CAGUFVXDXBDYPCSITHTJ4MB2UM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "BCP flexibiliza temporalmente encaje legal de depósitos que apunta a dotar liquidez al mercado de valores",
+          "url": "https://www.abc.com.py/economia/2026/11/13/bcp-flexibiliza-temporalmente-encaje-legal-de-depositos-que-apunta-a-dotar-liquidez-al-mercado-de-valores",
+          "publishedAt": "2026-11-13T21:29:32.000Z",
+          "image": "https://www.abc.com.py/resizer/zF4RG3GeDzO7RU9AE0_mlmn7sYw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TWOZ6FSXUVDPVDZKUHEHLTPDDA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/bcp.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/bancos-podran-utilizar-parte-de-sus-recursos-inmovilizados-para-respaldar-al-mercado-de-valores"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 17.7
     },
     {
       "id": "ev-04i1ebw",
@@ -419,7 +786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.94
+      "score": 17.61
     },
     {
       "id": "ev-0fowh3w",
@@ -494,90 +861,6 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 17.91
-    },
-    {
-      "id": "ev-1bbiwyy",
-      "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
-      "summary": "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal. Según el acta de imputación, Peña habría encabezado una estructura organizada desde el poder político para favorecer al Grupo Vázquez y garantizar la continuidad de las operaciones de ueno bank, pese a las advertencias sobre su situación financiera.",
-      "keyPoints": [
-        "El Ministerio Público amplió la investigación contra el expresidente Santiago Peña, Carlos Carvallo, Holger Insfrán y tres exdirectivos del Banco Central del Paraguay (BCP) por presunta asociación criminal.",
-        "El expresidente fue incluido en la imputación por supuesta asociación criminal, junto con Carlos Carvallo y Holger Insfrán.",
-        "La segunda investigación del Ministerio Público apunta a las presuntas responsabilidades de autoridades y exautoridades del Banco Central del Paraguay (BCP), además del expresidente Santiago Peña.",
-        "El exmandatario afronta los hechos punibles de lesión de confianza, administración en provecho propio y ahora asociación criminal; toda la cúpula anterior del BCP cayó."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Santi Peña y su asociación criminal",
-          "url": "https://www.ultimahora.com/santi-pena-y-su-asociacion-criminal",
-          "publishedAt": "2026-11-14T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Amplían imputación contra Peña y más directores de BCP van a prisión",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/amplian-imputacion-contra-pena-y-mas-directores-de-bcp-van-a-prision",
-          "publishedAt": "2026-11-14T05:59:32.000Z",
-          "image": "https://www.lanacion.com.py/resizer/dgezlL_C_BDynNKB2MmjrXImPB8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SGUOGTFCA5BFZOBH5N3IPP725Q.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La estructura delictiva de Peña",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/14/la-estructura-delictiva-de-pena",
-          "publishedAt": "2026-11-14T05:52:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/jPi5rHGBz6Zppco1O2lPkYI840w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TI4APRFLEJHFNIR3INS3TKEK5Y.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Detención de los directivos del BCP ante el escándalo financiero",
-          "url": "https://www.telefuturo.com.py/detencion-de-los-directivos-del-bcp-ante-el-escandalo-financiero",
-          "publishedAt": "2026-11-13T18:50:29.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno: Fiscalía imputa por asociación criminal a Peña y cinco autoridades del BCP",
-          "url": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp",
-          "publishedAt": "2026-11-13T17:18:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/bQTm-LoqGvQYYUKmRc8TvfCW5GQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Caso ueno bank: Fiscalía amplía imputación contra Santiago Peña por asociación criminal",
-          "url": "https://elnacional.com.py/politica/caso-ueno-bank-fiscalia-amplia-imputacion-santiago-pena-asociacion-criminal-n115219",
-          "publishedAt": "2026-11-13T17:14:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aef8de33913c.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso ueno: Peña, Carvallo y exdirectivos del BCP, bajo la lupa de la Fiscalía",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/13/caso-ueno-pena-carvallo-y-exdirectivos-del-bcp-bajo-la-lupa-de-la-fiscalia",
-          "publishedAt": "2026-11-13T15:40:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tSvXVDA5jOmoLD8jf4N5xJ3AmHA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KZFM5ONNVVDKNNN5NLR6RY6YF4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OAT5LHKTPBBBBP4COKM7P3IJPM.jpeg?auth=e57927dcf2908c0a8dd0272c6726a23fbb8ee5af951a845d50d4adf8057744ce&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
       "score": 17.57
     },
     {
@@ -638,75 +921,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 16.88
-    },
-    {
-      "id": "ev-06le36i",
-      "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
-      "summary": "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores. El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
-      "keyPoints": [
-        "El BCP aprobó la flexibilización temporal del encaje legal solicitada por Asoban, que permitirá a bancos y financieras canalizar recursos para apoyar las necesidades de liquidez del mercado de valores.",
-        "El objetivo es facilitar que entidades financieras canalicen recursos de apoyo al mercado de valores.",
-        "El Banco Central comunicó ayer la reducción temporal del 5 % de las tasas de encaje legal, a solicitud de la Asoban, como medida de apoyo al mercado de valores.",
-        "El Banco Central del Paraguay (BCP) aprobó la flexibilización temporal del encaje legal solicitada por la Asociación de Bancos del Paraguay (ASOBAN), con el objetivo de facilitar que las entidades bancarias puedan apoyar al mercado de…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP reduce encaje legal: ¿qué significa y para qué sirve?",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/14/bcp-reduce-encaje-legal-que-significa-y-para-que-sirve",
-          "publishedAt": "2026-11-14T10:29:50.938Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP flexibiliza encaje legal para dar liquidez",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/14/bcp-flexibiliza-encaje-legal-para-dar-liquidez",
-          "publishedAt": "2026-11-14T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7r-OUOCznbbPKOz3LEJ6Lz3N7ok=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "BCP flexibiliza reglas para que bancos ayuden al mercado de valores",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/13/bcp-flexibiliza-reglas-para-que-bancos-ayuden-al-mercado-de-valores",
-          "publishedAt": "2026-11-14T00:12:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HIFDNG6QHNEZHLIX35246YA5DQ.jpg?auth=6a62bafac0eaedbb8c9b365755c7684c8f785139113b2432d28b480abbadae7b&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "BCP flexibiliza el encaje legal para dar liquidez al mercado de valores tras pedido de Asoban",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/bcp-flexibiliza-el-encaje-legal-para-dar-liquidez-al-mercado-de-valores-tras-pedido-de-asoban",
-          "publishedAt": "2026-11-13T21:52:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/T6xH131cdgB2H2Ecjoiq2KqMJYY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CAGUFVXDXBDYPCSITHTJ4MB2UM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "BCP flexibiliza temporalmente encaje legal de depósitos que apunta a dotar liquidez al mercado de valores",
-          "url": "https://www.abc.com.py/economia/2026/11/13/bcp-flexibiliza-temporalmente-encaje-legal-de-depositos-que-apunta-a-dotar-liquidez-al-mercado-de-valores",
-          "publishedAt": "2026-11-13T21:29:32.000Z",
-          "image": "https://www.abc.com.py/resizer/zF4RG3GeDzO7RU9AE0_mlmn7sYw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TWOZ6FSXUVDPVDZKUHEHLTPDDA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/2J47EPYXGJBQ7GT2J26N3EPTLM.jpg?auth=ac5d7c14ed2090479c73359e710a27ec3c3d227f6ceccb125c3c2da2fe89314c&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/14/bcp-reduce-encaje-legal-que-significa-y-para-que-sirve"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T12:07:11.260Z",
-      "updatedSlot": "manana",
-      "score": 14.86
+      "score": 16.55
     },
     {
       "id": "ev-147nvn7",
@@ -846,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.78
+      "score": 14.45
     },
     {
       "id": "ev-19lfg6r",
@@ -962,83 +1177,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 14.47
-    },
-    {
-      "id": "ev-0q9lxv3",
-      "title": "Trabajadores afectados por el caso Ueno piden a Alliana el pago urgente de salarios y liquidaciones",
-      "summary": "Trabajadores afectados por la crisis del Grupo Vázquez enviaron una carta abierta al presidente Pedro Alliana, en la que reclaman el pago urgente de salarios y liquidaciones, continuidad de la cobertura médica y asistencia para miles de familias. Los empleados del Grupo Vázquez que quedaron cesantes en medio de la crisis pidieron garantía para cobrar salarios y liquidaciones pendientes.",
-      "keyPoints": [
-        "Trabajadores afectados por la crisis del Grupo Vázquez enviaron una carta abierta al presidente Pedro Alliana, en la que reclaman el pago urgente de salarios y liquidaciones, continuidad de la cobertura médica y asistencia para miles…",
-        "Los empleados del Grupo Vázquez que quedaron cesantes en medio de la crisis pidieron garantía para cobrar salarios y liquidaciones pendientes.",
-        "El presidente Pedro Alliana y la ministra de Trabajo, Mónica Recalde, anunciaron medidas para acompañar a los exempleados de Ueno Bank y otras empresas vinculadas al Grupo Vázquez.",
-        "El proyecto contempla una administración temporal por ocho meses para garantizar que los negocios sigan funcionando y proteger los puestos de trabajo de sus empleados."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trabajadores afectados pidieron ayuda a Alliana",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/trabajadores-afectados-pidieron-ayuda-a-alliana",
-          "publishedAt": "2026-11-14T03:53:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/4K8T00gssOMnLVTR9vdX5e2BSsc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N7QLZAP4PZGJNH4IO7RGM6BLSI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trabajadores afectados por el caso Ueno piden a Alliana el pago urgente de salarios y liquidaciones",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/trabajadores-afectados-por-el-caso-ueno-piden-a-alliana-el-pago-urgente-de-salarios-y-liquidaciones",
-          "publishedAt": "2026-11-13T21:06:36.000Z",
-          "image": "https://www.lanacion.com.py/resizer/f4a28ZDDvLyLEVcCq8L3SIPV9BI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/M3PFZNEQ4RHSHD4WTXFDTCMOZQ.jpeg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Gobierno busca garantizar pagos y proteger a trabajadores de Ueno",
-          "url": "https://5dias.com.py/article/gobierno-busca-garantizar-pagos-y-proteger-a-trabajadores-de-ueno",
-          "publishedAt": "2026-11-13T19:00:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/GOBIERNO_TRABAJO_20261113_190239.png"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana anuncia ley para mantener empresas vinculadas a Ueno y evitar despidos",
-          "url": "https://elnacional.com.py/politica/alliana-anuncia-ley-mantener-empresas-vinculadas-ueno-evitar-despidos-n115188",
-          "publishedAt": "2026-11-13T13:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af6f938a1681.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo presenta hoy proyecto para mantener operativas empresas vinculadas al caso Ueno",
-          "url": "https://www.lanacion.com.py/politica/2026/11/13/ejecutivo-presenta-hoy-proyecto-para-mantener-operativas-empresas-vinculadas-al-caso-ueno",
-          "publishedAt": "2026-11-13T09:55:47.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AUrh9aOe_x8Aruis9QKRdW6kXmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BWN7VFO3YZFHNGQVPPCOA7YTDY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Agilizarán proyecto que beneficiará a trabajadores del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/13/agilizaran-proyecto-que-beneficiara-a-trabajadores-del-grupo-vazquez",
-          "publishedAt": "2026-11-13T03:48:30.000Z",
-          "image": "https://www.lanacion.com.py/resizer/HJ0daf289Ys5zR9wjhDVnYAN0h8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5YDBYMLMYBANVFIRM7Z2JG5TUU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/M3PFZNEQ4RHSHD4WTXFDTCMOZQ.jpeg?auth=0736c33f2587012a756198f801a7be30b0a274dbcaef24aa0469b8f2e1cf936e&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/13/trabajadores-afectados-por-el-caso-ueno-piden-a-alliana-el-pago-urgente-de-salarios-y-liquidaciones"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 14.31
+      "score": 14.13
     },
     {
       "id": "ev-07y0xqj",
@@ -1098,7 +1237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 11.95
+      "score": 11.62
     },
     {
       "id": "ev-0wggrr2",
@@ -1149,7 +1288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.45
+      "score": 10.12
     },
     {
       "id": "ev-0n3yvx2",
@@ -1199,57 +1338,141 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T08:07:12.313Z",
       "updatedSlot": "manana",
-      "score": 10.44
+      "score": 10.1
     },
     {
-      "id": "ev-0g8lvo4",
-      "title": "Encarnación: municipio reporta deuda superior a G. 58.000 millones y rescindirá contrato del estacionamiento tarifado",
-      "summary": "La Municipalidad de Encarnación cerró octubre de 2026 con un pasivo total de G. 58.252.852.935, de acuerdo con el informe final de transición presentado por el intendente Sebastián Remesowski y su gabinete. Aparecen obligaciones con la Ande, recolección de basura, alquileres, seguros y préstamos bancarios.",
+      "id": "ev-1jhqwpa",
+      "title": "Mades refuerza controles para detectar influenza aviar en aves silvestres",
+      "summary": "El Ministerio del Ambiente y Desarrollo Sostenible (Mades) amplió sus recursos para monitorear la posible presencia de influenza aviar en Paraguay. La institución recibió nuevos equipos destinados a facilitar el trabajo de campo, la inspección de hábitats naturales y la toma de muestras de aves silvestres, tanto de especies locales como migratorias, ante el riesgo …",
       "keyPoints": [
-        "La Municipalidad de Encarnación cerró octubre de 2026 con un pasivo total de G. 58.252.852.935, de acuerdo con el informe final de transición presentado por el intendente Sebastián Remesowski y su gabinete.",
-        "Aparecen obligaciones con la Ande, recolección de basura, alquileres, seguros y préstamos bancarios."
+        "El Ministerio del Ambiente y Desarrollo Sostenible (Mades) amplió sus recursos para monitorear la posible presencia de influenza aviar en Paraguay.",
+        "El Ministerio del Ambiente y Desarrollo Sostenible (Mades) incorporó nuevos equipos y materiales que permitirán mejorar la vigilancia de la influenza aviar en aves silvestres, tanto residentes como migratorias."
       ],
-      "category": "economia",
+      "category": "tecnologia",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Encarnación: comuna tiene deuda de G. 58.000 millones",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/14/encarnacion-comuna-tiene-deuda-de-g-58000-millones",
-          "publishedAt": "2026-11-14T04:06:54.000Z",
-          "image": "https://www.lanacion.com.py/resizer/qiNi9ynD98O4EA5vi6Vxhuy8R7A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QJ4UF74F45FGRP3ZPKEW2F4LG4.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Intendente de Encarnación denuncia que recibió la Municipalidad con una deuda de USD 10 millones",
-          "url": "https://www.ultimahora.com/intendente-de-encarnacion-denuncia-que-recibio-la-municipalidad-con-una-deuda-de-usd-10-millones",
-          "publishedAt": "2026-11-14T00:21:43.000Z",
-          "image": null
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Mades refuerza controles para detectar influenza aviar en aves silvestres",
+          "url": "https://www.adndigital.com.py/mades-refuerza-controles-para-detectar-influenza-aviar-en-aves-silvestres",
+          "publishedAt": "2026-11-14T15:33:31.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/gripe-aviar.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Encarnación: municipio reporta deuda superior a G. 58.000 millones y rescindirá contrato del estacionamiento tarifado",
-          "url": "https://www.lanacion.com.py/politica/2026/11/13/encarnacion-municipio-reporta-deuda-superior-a-g-58000-millones-y-rescindira-contrato-del-estacionamiento-tarifado",
-          "publishedAt": "2026-11-13T16:10:15.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZYDMR8FliQtFe5ha7oOI-Q4MTCo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HC4OI5FKGJHI3E4ZZ5CHQ7TICM.jpg"
+          "title": "Mades recibe equipos para detectar la influenza aviar en aves silvestres",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/13/mades-recibe-equipos-para-detectar-la-influenza-aviar-en-aves-silvestres",
+          "publishedAt": "2026-11-13T23:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/F_y8CzFfd4SBVaE6J-RlK3Ed5G8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UKUL6Q3GCJDIFLV5UF7XLN2RQI.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/HC4OI5FKGJHI3E4ZZ5CHQ7TICM.jpg?auth=5acd800766344899abe5e451b086e09ca94726315fdd57246adf4cbca8607465&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/13/encarnacion-municipio-reporta-deuda-superior-a-g-58000-millones-y-rescindira-contrato-del-estacionamiento-tarifado"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/gripe-aviar.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/mades-refuerza-controles-para-detectar-influenza-aviar-en-aves-silvestres"
       },
       "firstSeenAt": "2026-11-14T03:04:17.192Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 10.33
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 9.95
+    },
+    {
+      "id": "ev-1x8i47r",
+      "title": "El papa León XIV vuelve a su antigua catedral de Chiclayo, en cuarto día de visita en Perú",
+      "summary": "El pontífice, inmerso en su primera gira por América Latina, llegó el viernes a Chiclayo para reencontrarse con la ciudad que marcó su labor pastoral, y de la que salió en 2023 rumbo al Vaticano por el llamado del papa Francisco para dirigir el Dicasterio de los Obispos, sin saber que dos años más tarde se convertiría en líder de la Iglesia católica.",
+      "keyPoints": [
+        "El pontífice, inmerso en su primera gira por América Latina, llegó el viernes a Chiclayo para reencontrarse con la ciudad que marcó su labor pastoral, y de la que salió en 2023 rumbo al Vaticano por…",
+        "Un decreto, publicado en la gaceta de normas legales del diario oficial El Peruano, indica que esta declaración busca dar realce a la tierra de un ciudadano ilustre del mundo como el pontífice, que optó y…",
+        "El 'papacóptero' partió a la población de Santa Cruz de Succhabamba desde la ciudad de Chiclayo, situada en la costa norte de Perú, a unos 700 kilómetros de la capital Lima, a donde regresó el viernes…",
+        "El papa, llegó puntual, minutos antes de las 8:00 hora local (13:00 GMT), a la amarilla Catedral Santa María de Chiclayo donde lo esperaban unas 15.000 personas que abarrotaban la plaza principal de esta ciudad de…"
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Unos 15.000 chiclayanos abarrotan plaza para ver al papa coronar a virgen \"en su catedral\"",
+          "url": "https://www.abc.com.py/internacionales/2026/11/14/unos-15000-chiclayanos-abarrotan-plaza-para-ver-al-papa-coronar-a-virgen-en-su-catedral",
+          "publishedAt": "2026-11-14T15:25:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Perú se declara como \"Tierra del papa León XIV\" y a Chiclayo como \"Pueblo Fiel\"",
+          "url": "https://www.abc.com.py/internacionales/2026/11/14/peru-se-declara-como-tierra-del-papa-leon-xiv-y-a-chiclayo-como-pueblo-fiel",
+          "publishedAt": "2026-11-14T14:40:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "León XIV viaja en 'papacóptero' a zona más lejana de su antigua diócesis, en Andes peruano",
+          "url": "https://www.abc.com.py/internacionales/2026/11/14/leon-xiv-viaja-en-papacoptero-a-zona-mas-lejana-de-su-antigua-diocesis-en-andes-peruano",
+          "publishedAt": "2026-11-14T14:35:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papa León XIV vuelve a su antigua catedral de Chiclayo, en cuarto día de visita en Perú",
+          "url": "https://www.abc.com.py/internacionales/2026/11/14/el-papa-leon-xiv-vuelve-a-su-antigua-catedral-de-chiclayo-en-cuarto-dia-de-visita-en-peru",
+          "publishedAt": "2026-11-14T13:10:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El papa visitó su antiguo obispado",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/14/el-papa-visito-su-antiguo-obispado",
+          "publishedAt": "2026-11-14T04:22:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/zVa5e-qi_wnDd19muoDdd1lvtK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DXEF7ZYV4BF4VGM6SNTKD4Z2TA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papa León XIV duerme en Chiclayo en el mismo lugar que lo hacía como obispo",
+          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-duerme-en-chiclayo-en-el-mismo-lugar-que-lo-hacia-como-obispo",
+          "publishedAt": "2026-11-14T02:45:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papa León XIV vive un apoteósico regreso a su querida Chiclayo, donde fue obispo 8 años",
+          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-vive-un-apoteosico-regreso-a-su-querida-chiclayo-donde-fue-obispo-8-anos",
+          "publishedAt": "2026-11-14T01:10:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papa León XIV recibe su nuevo DNI peruano, con dirección en Chiclayo",
+          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-recibe-su-nuevo-dni-peruano-con-direccion-en-chiclayo",
+          "publishedAt": "2026-11-13T21:30:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DXEF7ZYV4BF4VGM6SNTKD4Z2TA.jpg?auth=87ade09800e1e3c8cc94174934fc18c7cf111f779374475c1431c9e7617ed4ec&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/14/el-papa-visito-su-antiguo-obispado"
+      },
+      "firstSeenAt": "2026-11-14T03:04:17.192Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-14T16:07:10.442Z",
+      "updatedSlot": "tarde",
+      "score": 9.44
     },
     {
       "id": "ev-0uebf12",
@@ -1300,7 +1523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 9
     },
     {
       "id": "ev-1jtjr22",
@@ -1342,7 +1565,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.12
+      "score": 8.79
     },
     {
       "id": "ev-0r1aipn",
@@ -1384,7 +1607,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.12
+      "score": 8.79
     },
     {
       "id": "ev-1n9ek2g",
@@ -1426,7 +1649,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.73
     },
     {
       "id": "ev-00iiph3",
@@ -1468,7 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.62
     },
     {
       "id": "ev-0addils",
@@ -1510,7 +1733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.93
+      "score": 8.59
     },
     {
       "id": "ev-0ob22lq",
@@ -1552,66 +1775,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.9
-    },
-    {
-      "id": "ev-1x8i47r",
-      "title": "El papa León XIV duerme en Chiclayo en el mismo lugar que lo hacía como obispo",
-      "summary": "El alojamiento del pontífice en su estancia en Chiclayo es la Residencia Episcopal, la misma que fue su hogar entre 2015 y 2023, hasta que fue convocado por el papa Francisco al Vaticano para liderar el Dicasterio de los Obispos.",
-      "keyPoints": [
-        "El alojamiento del pontífice en su estancia en Chiclayo es la Residencia Episcopal, la misma que fue su hogar entre 2015 y 2023, hasta que fue convocado por el papa Francisco al Vaticano para liderar el…",
-        "\"¡Qué alegría volver a Chiclayo!",
-        "León XIV tuvo un emotivo regreso a Chiclayo, en Perú, donde fue obispo."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El papa visitó su antiguo obispado",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/14/el-papa-visito-su-antiguo-obispado",
-          "publishedAt": "2026-11-14T04:22:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/zVa5e-qi_wnDd19muoDdd1lvtK0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DXEF7ZYV4BF4VGM6SNTKD4Z2TA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El papa León XIV duerme en Chiclayo en el mismo lugar que lo hacía como obispo",
-          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-duerme-en-chiclayo-en-el-mismo-lugar-que-lo-hacia-como-obispo",
-          "publishedAt": "2026-11-14T02:45:11.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El papa León XIV vive un apoteósico regreso a su querida Chiclayo, donde fue obispo 8 años",
-          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-vive-un-apoteosico-regreso-a-su-querida-chiclayo-donde-fue-obispo-8-anos",
-          "publishedAt": "2026-11-14T01:10:13.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El papa León XIV recibe su nuevo DNI peruano, con dirección en Chiclayo",
-          "url": "https://www.abc.com.py/internacionales/2026/11/13/el-papa-leon-xiv-recibe-su-nuevo-dni-peruano-con-direccion-en-chiclayo",
-          "publishedAt": "2026-11-13T21:30:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/DXEF7ZYV4BF4VGM6SNTKD4Z2TA.jpg?auth=87ade09800e1e3c8cc94174934fc18c7cf111f779374475c1431c9e7617ed4ec&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/14/el-papa-visito-su-antiguo-obispado"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T08:07:12.313Z",
-      "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.57
     },
     {
       "id": "ev-05x6b00",
@@ -1653,7 +1817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.85
+      "score": 8.52
     },
     {
       "id": "ev-11u0cpl",
@@ -1695,7 +1859,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.84
+      "score": 8.5
     },
     {
       "id": "ev-1099mz8",
@@ -1737,7 +1901,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.4
     },
     {
       "id": "ev-0xg6xli",
@@ -1779,7 +1943,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.65
+      "score": 8.31
     },
     {
       "id": "ev-1ta4b1r",
@@ -1821,7 +1985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.61
+      "score": 8.28
     },
     {
       "id": "ev-1b0kqqr",
@@ -1863,7 +2027,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.2
     },
     {
       "id": "ev-06io260",
@@ -1905,7 +2069,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.49
+      "score": 8.16
     },
     {
       "id": "ev-19q4w0c",
@@ -1947,7 +2111,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 8.45
+      "score": 8.12
     },
     {
       "id": "ev-074h8bg",
@@ -1989,7 +2153,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T12:07:11.260Z",
       "updatedSlot": "manana",
-      "score": 6.84
+      "score": 6.51
     },
     {
       "id": "ev-1oikx4o",
@@ -2027,7 +2191,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 6.6
+      "score": 6.27
     },
     {
       "id": "ev-1l7x132",
@@ -2069,7 +2233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 6.14
+      "score": 5.81
     },
     {
       "id": "ev-0hs0x54",
@@ -2098,7 +2262,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.14
+      "score": 4.81
     },
     {
       "id": "ev-12fyf5k",
@@ -2131,7 +2295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.73
     },
     {
       "id": "ev-085niok",
@@ -2160,7 +2324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.7
     },
     {
       "id": "ev-1leal8e",
@@ -2193,40 +2357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.99
-    },
-    {
-      "id": "ev-1jhqwpa",
-      "title": "Mades recibe equipos para detectar la influenza aviar en aves silvestres",
-      "summary": "El Ministerio del Ambiente y Desarrollo Sostenible (Mades) incorporó nuevos equipos y materiales que permitirán mejorar la vigilancia de la influenza aviar en aves silvestres, tanto residentes como migratorias.",
-      "keyPoints": [
-        "El Ministerio del Ambiente y Desarrollo Sostenible (Mades) incorporó nuevos equipos y materiales que permitirán mejorar la vigilancia de la influenza aviar en aves silvestres, tanto residentes como migratorias."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Mades recibe equipos para detectar la influenza aviar en aves silvestres",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/13/mades-recibe-equipos-para-detectar-la-influenza-aviar-en-aves-silvestres",
-          "publishedAt": "2026-11-13T23:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/F_y8CzFfd4SBVaE6J-RlK3Ed5G8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UKUL6Q3GCJDIFLV5UF7XLN2RQI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UKUL6Q3GCJDIFLV5UF7XLN2RQI.jpg?auth=e11d956f2b85da758363ec405ebec49e081b7f4cdc8ae7d0020ffd863626b461&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/13/mades-recibe-equipos-para-detectar-la-influenza-aviar-en-aves-silvestres"
-      },
-      "firstSeenAt": "2026-11-14T03:04:17.192Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-14T03:04:17.192Z",
-      "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.66
     },
     {
       "id": "ev-11o309s",
@@ -2259,7 +2390,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.63
     },
     {
       "id": "ev-1a6yetg",
@@ -2292,7 +2423,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.58
     },
     {
       "id": "ev-0j75axq",
@@ -2325,7 +2456,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.57
     },
     {
       "id": "ev-03osltq",
@@ -2358,7 +2489,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.53
     },
     {
       "id": "ev-07scg52",
@@ -2391,7 +2522,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.53
     },
     {
       "id": "ev-05i2upb",
@@ -2424,7 +2555,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.8
+      "score": 4.47
     },
     {
       "id": "ev-0yzocrx",
@@ -2457,7 +2588,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.43
     },
     {
       "id": "ev-1jqfic3",
@@ -2490,7 +2621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.28
     },
     {
       "id": "ev-17k2j4j",
@@ -2523,7 +2654,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.24
     },
     {
       "id": "ev-1s0xl3v",
@@ -2556,7 +2687,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.55
+      "score": 4.21
     },
     {
       "id": "ev-1tqvlip",
@@ -2589,7 +2720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-14T03:04:17.192Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.14
     }
   ],
   "runs": [
@@ -2613,6 +2744,13 @@
       "added": 0,
       "updated": 8,
       "candidates": 10
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-14T16:07:10.442Z",
+      "added": 0,
+      "updated": 7,
+      "candidates": 12
     }
   ]
 }
