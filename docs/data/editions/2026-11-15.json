@@ -1,22 +1,138 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-15T15:34:50.492Z",
+  "generatedAt": "2026-11-15T19:05:08.873Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-1bbtdyr",
-      "title": "Confirman que 1.500.000 ahorristas de Ueno ya recuperaron el 100 % de sus depósitos",
-      "summary": "El director del Fondo de Garantía de Depósitos del Banco Central del Paraguay (BCP), José Maciel, confirmó que 1.500.000 ahorristas de Ueno Bank ya recuperaron el 100 % de sus depósitos con la nueva ley que prevé el pago de anticipo de 40 salarios mínimos.",
+      "id": "ev-1vz3dna",
+      "title": "Caso Ueno Bank: allanan hangar privado en búsqueda aeronave ligada al Grupo Vázquez",
+      "summary": "Busca inmovilizar y asegurar la aeronave como medida cautelar dentro del rastreo de bienes vinculados al caso Ueno Bank. La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo. El avión privado incautado por el Ministerio Público durante un allanamiento en un hangar del Aeropuerto Internacional Silvio Pettirossi, en Luque, en el marco de las investigaciones del caso Ueno Bank, está vinculado a Diego Sebastián Gómez Arce, uno de los procesados en la causa y relacionado con el Grupo Vázquez.",
       "keyPoints": [
-        "El director del Fondo de Garantía de Depósitos del Banco Central del Paraguay (BCP), José Maciel, confirmó que 1.500.000 ahorristas de Ueno Bank ya recuperaron el 100 % de sus depósitos con la nueva ley que…",
-        "Más del 83% de las cuentas cubiertas recibió la totalidad de sus recursos mediante el anticipo previsto en la Ley 7745.",
-        "Tras desembolsar casi G. 4 billones y devolver sus fondos a 1,5 millones de clientes, El Banco Central del Paraguay (BCP) evalúa un balance de exclusión respaldado por USD 600 millones en activos sanos.",
-        "El director del Fondo de Garantía de Depósitos (FGD), José Maciel, explicó que, luego de desembolsar casi G. 4 billones y devolver sus fondos a 1,5 millones de clientes, el Banco Central del Paraguay (BCP) evalúa…"
+        "Busca inmovilizar y asegurar la aeronave como medida cautelar dentro del rastreo de bienes vinculados al caso Ueno Bank.",
+        "La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo.",
+        "El avión privado incautado por el Ministerio Público durante un allanamiento en un hangar del Aeropuerto Internacional Silvio Pettirossi, en Luque, en el marco de las investigaciones del caso Ueno Bank, está vinculado a Diego Sebastián…",
+        "Este domingo, una comitiva fiscal policial realiza el allanamiento del hangar privado “Latitude” ubicado en el aeropuerto Silvio Pettirossi para buscar otra aeronave que sería propiedad del Grupo Vázquez."
       ],
-      "category": "economia",
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Caso Ueno: avión incautado tiene vínculo con Diego Gómez Arce y el Grupo Vázquez",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/15/caso-ueno-avion-incautado-tiene-vinculo-con-diego-gomez-arce-y-el-grupo-vazquez",
+          "publishedAt": "2026-11-15T17:35:56.481Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/VLX5TUD55ZDGHDHJCVFP2WK4CI.jfif?auth=2994f4e99e8e4e2fc9cf00a65a7ec61b8eb066b589903e4f5eaf47929a9a383d&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: avión incautado en Luque pertenece al Grupo Vázquez, pero era utilizado por Alejandro Domínguez",
+          "url": "https://www.abc.com.py/nacionales/2026/11/15/video-avion-incautado-en-luque-pertenece-al-grupo-vazquez-pero-era-utilizado-por-alejandro-dominguez",
+          "publishedAt": "2026-11-15T16:56:04.000Z",
+          "image": "https://www.abc.com.py/resizer/H6hOlr-xwU-4WTqWs9PnvrqqN1A=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DSBSQ22XSBA4TDTUURG5YPMGEE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno Bank: allanan hangar privado en búsqueda aeronave ligada al Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/pais/2026/11/15/caso-ueno-bank-allanan-hangar-privado-en-busqueda-aeronave-ligada-al-grupo-vazquez",
+          "publishedAt": "2026-11-15T15:13:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CNvIRQQpdIczg-ORJkkJplNs9rw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D335RDFX35FYZMACN46MG2NA7Y.jpeg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Fiscalía allana hangar en busca de otra lujosa aeronave vinculada al caso ueno bank",
+          "url": "https://www.ultimahora.com/fiscalia-allana-hangar-en-busca-de-otra-lujosa-aeronave-vinculada-al-caso-ueno-bank",
+          "publishedAt": "2026-11-15T14:20:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Video: allanan hangar en Luque en busca de otro avión del Grupo Vázquez",
+          "url": "https://www.abc.com.py/policiales/2026/11/15/caso-ueno-allanan-hangar-en-luque-para-secuestrar-otro-avion-del-grupo-vazquez",
+          "publishedAt": "2026-11-15T13:16:51.000Z",
+          "image": "https://www.abc.com.py/resizer/4nNjOFGMr2bOgB1kx5Y_Y6NF2l4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CU3OX7YGPBEX7DRWLGCRQBBFMM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno: yate “Zeus” sigue su rumbo y llegaría mañana a Asunción",
+          "url": "https://www.abc.com.py/nacionales/2026/11/15/caso-ueno-yate-zeus-sigue-su-rumbo-y-llegaria-manana-a-asuncion",
+          "publishedAt": "2026-11-15T11:27:08.000Z",
+          "image": "https://www.abc.com.py/resizer/9s5qIkrJzB_KUBdGGP02-ocGon4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/P6JL34VM5FERHEF3SSQTAILSEU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía inventarió tractores, vehículos y más de 6.000 cabezas de ganado en estancia del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/14/fiscalia-inventario-tractores-vehiculos-y-mas-de-6000-cabezas-de-ganado-en-estancia-del-grupo-vazquez",
+          "publishedAt": "2026-11-14T22:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LBLK1Jrj1w9q1ZfzK2LjHNZ7rw0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3TFGXFININAD5P6O6LF7OTUFGE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno: yate de lujo que pertenece al Grupo Vázquez es trasladado a Asunción",
+          "url": "https://www.lanacion.com.py/politica/2026/11/14/caso-ueno-yate-de-lujo-que-pertenece-al-grupo-vazquez-es-trasladado-a-asuncion",
+          "publishedAt": "2026-11-14T21:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ePw8VQa7cmMZuDpm_banhO2Wt2A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NGR7QLZRJBDXNAUGECWSGVD6MI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía traslada a Asunción el yate de lujo incautado al Grupo Vázquez",
+          "url": "https://elnacional.com.py/politica/fiscalia-traslada-asuncion-yate-lujo-incautado-grupo-vazquez-n115271",
+          "publishedAt": "2026-11-14T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af8b4f286469.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Trasladan a Asunción el lujoso yate “Zeus” de Miguel Vázquez",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/trasladan-a-asuncion-el-lujoso-yate-zeus-de-miguel-vazquez",
+          "publishedAt": "2026-11-14T19:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PPZI4GMC7ZEF3GP3RNLU7AV2IQ.jpeg?auth=f70ec994d557cf64cbc794a0cc5cfb2103a758e861c5c03c9d500a29e3e84b80&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fiscalía inventaria bienes, ganado y documentos en estancia vinculada al caso Ueno Bank",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/14/fiscalia-inventaria-bienes-ganado-y-documentos-en-estancia-vinculada-al-caso-ueno-bank",
+          "publishedAt": "2026-11-14T17:51:53.832Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/YHOAWUSVZBGQZMVR6AQFNCC46U.jpg?auth=d9ccd8c71b453926e0ef236a18573ae4caa9abbe1c131d1ab814df1043678a1b&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/D335RDFX35FYZMACN46MG2NA7Y.jpeg?auth=67320d08eaa3d9fa5a0bc35615556636915344e6db1b349bd97f6d547ea44b34&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/15/caso-ueno-bank-allanan-hangar-privado-en-busqueda-aeronave-ligada-al-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T19:05:08.873Z",
+      "updatedSlot": "tarde",
+      "score": 20.88
+    },
+    {
+      "id": "ev-1bbtdyr",
+      "title": "BCP busca que otros bancos absorban depósitos de Ueno mediante cesión",
+      "summary": "Tras desembolsar casi G. 4 billones y devolver sus fondos a 1,5 millones de clientes, El Banco Central del Paraguay (BCP) evalúa un balance de exclusión respaldado por USD 600 millones en activos sanos. La medida busca atender los depósitos que superan el tope legal de cobertura, incluidos los fondos del IPS y cajas jubilatorias.",
+      "keyPoints": [
+        "Tras desembolsar casi G. 4 billones y devolver sus fondos a 1,5 millones de clientes, El Banco Central del Paraguay (BCP) evalúa un balance de exclusión respaldado por USD 600 millones en activos sanos.",
+        "El director del Fondo de Garantía de Depósitos (FGD), José Maciel, explicó que, luego de desembolsar casi G. 4 billones y devolver sus fondos a 1,5 millones de clientes, el Banco Central del Paraguay (BCP) evalúa…",
+        "La recuperación de los recursos previsionales comprometidos en Ueno Bank podría superar el límite de cobertura del Fondo de Garantía de Depósitos.",
+        "No obstante, el Fondo de Garantía de Depósitos no cubre a entidades públicas ni a fondos de pensión."
+      ],
+      "category": "pais",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
@@ -45,6 +161,14 @@
           "url": "https://www.hoy.com.py/nacionales/2026/11/15/bcp-busca-que-otros-bancos-absorban-depositos-de-ueno-mediante-cesion",
           "publishedAt": "2026-11-15T13:26:08.518Z",
           "image": "https://www.lanacion.com.py/resizer/v2/GO4OI3Z3EBEQTEBQY2CZVGWP2Q.jpg?auth=add42f41c9ffaa2b0c111c8d1279b5463de85a989ca7b8ac3b1d11bf7d2ed40e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "IPS podría recuperar hasta el 100% de sus fondos de Ueno, explica Couchonnal",
+          "url": "https://elnacional.com.py/politica/ips-podria-recuperar-100-sus-fondos-ueno-explica-couchonnal-n115270",
+          "publishedAt": "2026-11-15T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af83e2e10e03.jpeg"
         },
         {
           "sourceId": "lanacion",
@@ -86,9 +210,9 @@
       },
       "firstSeenAt": "2026-11-15T08:07:12.501Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-15T15:34:50.492Z",
+      "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 20.97
+      "score": 20.68
     },
     {
       "id": "ev-0dz24fu",
@@ -163,7 +287,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 20.86
+      "score": 20.57
     },
     {
       "id": "ev-1v7ep3n",
@@ -238,83 +362,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 17.67
-    },
-    {
-      "id": "ev-1vz3dna",
-      "title": "Caso Ueno: yate de lujo que pertenece al Grupo Vázquez es trasladado a Asunción",
-      "summary": "La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo. La embarcación «Zeus», de la marca italiana Azimut, fue trasladada desde San Juan del Paraná hasta el puerto capitalino, donde permanecerá bajo custodia mientras avanzan las pesquisas por las presuntas irregularidades financieras vinculadas a Ueno Bank.",
-      "keyPoints": [
-        "La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo.",
-        "La embarcación «Zeus», de la marca italiana Azimut, fue trasladada desde San Juan del Paraná hasta el puerto capitalino, donde permanecerá bajo custodia mientras avanzan las pesquisas por las presuntas irregularidades financieras vinculadas a Ueno Bank.",
-        "El Ministerio Público puso en marcha el operativo para trasladar hasta el puerto de Asunción la lujosa embarcación vinculada a Miguel Vázquez y al Grupo Vázquez, incautada en el marco de las investigaciones por el caso…",
-        "El lujoso yate “ Zeus” , de fabricación italiana vinculado al Grupo Vázquez y a su presidente, Miguel Vázquez , había sido incautado por el Ministerio Público en San Pedro del Paraná."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno: yate “Zeus” sigue su rumbo y llegaría mañana a Asunción",
-          "url": "https://www.abc.com.py/nacionales/2026/11/15/caso-ueno-yate-zeus-sigue-su-rumbo-y-llegaria-manana-a-asuncion",
-          "publishedAt": "2026-11-15T11:27:08.000Z",
-          "image": "https://www.abc.com.py/resizer/9s5qIkrJzB_KUBdGGP02-ocGon4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/P6JL34VM5FERHEF3SSQTAILSEU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía inventarió tractores, vehículos y más de 6.000 cabezas de ganado en estancia del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/14/fiscalia-inventario-tractores-vehiculos-y-mas-de-6000-cabezas-de-ganado-en-estancia-del-grupo-vazquez",
-          "publishedAt": "2026-11-14T22:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LBLK1Jrj1w9q1ZfzK2LjHNZ7rw0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3TFGXFININAD5P6O6LF7OTUFGE.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno: yate de lujo que pertenece al Grupo Vázquez es trasladado a Asunción",
-          "url": "https://www.lanacion.com.py/politica/2026/11/14/caso-ueno-yate-de-lujo-que-pertenece-al-grupo-vazquez-es-trasladado-a-asuncion",
-          "publishedAt": "2026-11-14T21:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ePw8VQa7cmMZuDpm_banhO2Wt2A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NGR7QLZRJBDXNAUGECWSGVD6MI.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Fiscalía traslada a Asunción el yate de lujo incautado al Grupo Vázquez",
-          "url": "https://elnacional.com.py/politica/fiscalia-traslada-asuncion-yate-lujo-incautado-grupo-vazquez-n115271",
-          "publishedAt": "2026-11-14T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af8b4f286469.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Trasladan a Asunción el lujoso yate “Zeus” de Miguel Vázquez",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/14/trasladan-a-asuncion-el-lujoso-yate-zeus-de-miguel-vazquez",
-          "publishedAt": "2026-11-14T19:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/PPZI4GMC7ZEF3GP3RNLU7AV2IQ.jpeg?auth=f70ec994d557cf64cbc794a0cc5cfb2103a758e861c5c03c9d500a29e3e84b80&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fiscalía inventaria bienes, ganado y documentos en estancia vinculada al caso Ueno Bank",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/14/fiscalia-inventaria-bienes-ganado-y-documentos-en-estancia-vinculada-al-caso-ueno-bank",
-          "publishedAt": "2026-11-14T17:51:53.832Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/YHOAWUSVZBGQZMVR6AQFNCC46U.jpg?auth=d9ccd8c71b453926e0ef236a18573ae4caa9abbe1c131d1ab814df1043678a1b&width=1200&height=630&smart=true"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/NGR7QLZRJBDXNAUGECWSGVD6MI.jpg?auth=25f17504be35d4ea982ef7f67754f82ab1a4288aaebf5285f13442dd42af7c9b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/14/caso-ueno-yate-de-lujo-que-pertenece-al-grupo-vazquez-es-trasladado-a-asuncion"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T12:07:10.804Z",
-      "updatedSlot": "manana",
-      "score": 17.66
+      "score": 17.38
     },
     {
       "id": "ev-03omkz0",
@@ -374,7 +422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 14.81
+      "score": 14.52
     },
     {
       "id": "ev-0p0lo92",
@@ -442,7 +490,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 13.95
+      "score": 13.66
     },
     {
       "id": "ev-1tzkb3p",
@@ -518,7 +566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 12.21
+      "score": 11.92
     },
     {
       "id": "ev-1rooed6",
@@ -578,7 +626,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 12.11
+      "score": 11.81
+    },
+    {
+      "id": "ev-0z0kfbu",
+      "title": "Alliana reafirma la solidez del sistema financiero y apunta a recuperar la confianza inversora",
+      "summary": "En una entrevista con un medio internacional, Pedro Alliana, presidente de Paraguay, aseguró que el sistema financiero opera con normalidad y destacó las medidas de supervisión, la recuperación de activos de Ueno Bank y la fortaleza institucional como pilares para sostener la confianza de los inversionistas.",
+      "keyPoints": [
+        "En una entrevista con un medio internacional, Pedro Alliana, presidente de Paraguay, aseguró que el sistema financiero opera con normalidad y destacó las medidas de supervisión, la recuperación de activos de Ueno Bank y la fortaleza…",
+        "En conversación con medios internacionales, Alliana aseguró: “Vamos a trabajar hasta que cada familia recupere la tranquilidad”."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana reafirma la solidez del sistema financiero y apunta a recuperar la confianza inversora",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/15/alliana-reafirma-la-solidez-del-sistema-financiero-y-apunta-a-recuperar-la-confianza-inversora",
+          "publishedAt": "2026-11-15T16:34:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nbSww9RxjqtTrpOEsJyPdYMauqI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3XDUZETQKNHZXLVGJJ3BBSQ2AM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Titular del Ejecutivo garantiza solidez del sistema financiero",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/15/titular-del-ejecutivo-garantiza-solidez-del-sistema-financiero",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Sr9XPWDgc9pzFn_RggtSHDFaj2M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UY7CAJFD5FCWLLN2A5DDHATGCQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana garantiza solidez del sistema financiero tras la crisis de Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/14/alliana-garantiza-solidez-del-sistema-financiero-tras-la-crisis-de-ueno-bank",
+          "publishedAt": "2026-11-14T15:02:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XiFbzaEvrmGTaU8qhrX5H2LQVxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana afirma que el sistema financiero paraguayo está fortalecido y que el país \"está de pie\"",
+          "url": "https://elnacional.com.py/politica/alliana-afirma-sistema-financiero-paraguayo-esta-fortalecido-pais-esta-pie-n115239",
+          "publishedAt": "2026-11-14T14:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af1d21070fdb.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3XDUZETQKNHZXLVGJJ3BBSQ2AM.jpg?auth=6df698a619fac116319a0a3b871efec91c34e3f37e17055a39c2f8bf26410f79&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/15/alliana-reafirma-la-solidez-del-sistema-financiero-y-apunta-a-recuperar-la-confianza-inversora"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T19:05:08.873Z",
+      "updatedSlot": "tarde",
+      "score": 11.79
     },
     {
       "id": "ev-0uiax14",
@@ -628,7 +734,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 10.9
+      "score": 10.61
     },
     {
       "id": "ev-0ho5khf",
@@ -679,58 +785,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.95
-    },
-    {
-      "id": "ev-0z0kfbu",
-      "title": "Alliana garantiza solidez del sistema financiero tras la crisis de Ueno Bank",
-      "summary": "El presidente de la República, Pedro Alliana, destacó que el sistema financiero paraguayo está fortalecido tras la crisis generada por el proceso de resolución de Ueno Bank. En entrevista con el sitio de noticias Infobae, el gobernante mencionó que el Banco Central del Paraguay (BCP) está trabajando intensamente para cubrir a todos los afectados.",
-      "keyPoints": [
-        "El presidente de la República, Pedro Alliana, destacó que el sistema financiero paraguayo está fortalecido tras la crisis generada por el proceso de resolución de Ueno Bank.",
-        "En conversación con medios internacionales, Alliana aseguró: “Vamos a trabajar hasta que cada familia recupere la tranquilidad”.",
-        "A través de una entrevista internacional, el presidente aseguró que el sistema financiero se encuentra sólido y abierto a las inversiones, con seguridad y transparencia."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Titular del Ejecutivo garantiza solidez del sistema financiero",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/15/titular-del-ejecutivo-garantiza-solidez-del-sistema-financiero",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Sr9XPWDgc9pzFn_RggtSHDFaj2M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UY7CAJFD5FCWLLN2A5DDHATGCQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana garantiza solidez del sistema financiero tras la crisis de Ueno Bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/14/alliana-garantiza-solidez-del-sistema-financiero-tras-la-crisis-de-ueno-bank",
-          "publishedAt": "2026-11-14T15:02:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/XiFbzaEvrmGTaU8qhrX5H2LQVxU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SI7JF5KTPVEXFISS2LUUQFFCKM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana afirma que el sistema financiero paraguayo está fortalecido y que el país \"está de pie\"",
-          "url": "https://elnacional.com.py/politica/alliana-afirma-sistema-financiero-paraguayo-esta-fortalecido-pais-esta-pie-n115239",
-          "publishedAt": "2026-11-14T14:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6af1d21070fdb.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UY7CAJFD5FCWLLN2A5DDHATGCQ.jpg?auth=c688a7a7a61f3e41d57e4ba6aaae17428a27747fbdc12d8ef2d8b66c04de9670&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/15/titular-del-ejecutivo-garantiza-solidez-del-sistema-financiero"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.66
     },
     {
       "id": "ev-100ha80",
@@ -781,7 +836,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.95
+      "score": 9.66
     },
     {
       "id": "ev-0ltp2hr",
@@ -789,8 +844,9 @@
       "summary": "En el aeropuerto internacional del Cusco, León XIV fue recibido por niños vestidos con prendas tradicionales, además de los ministros de Relaciones Exteriores, Carlos Espá, y de Cultura, Alberto Beingolea, y del alcalde provincial Luis Beltrán Pantoja, quien le regaló un 'Niño Manuelito', una tradicional representación cusqueña del niño Jesús.",
       "keyPoints": [
         "En el aeropuerto internacional del Cusco, León XIV fue recibido por niños vestidos con prendas tradicionales, además de los ministros de Relaciones Exteriores, Carlos Espá, y de Cultura, Alberto Beingolea, y del alcalde provincial Luis Beltrán…",
-        "Al salir de la Residencia Episcopal de Chiclayo, donde ha pernoctado igual que lo hacía cuando era obispo de la ciudad, se dirigió a la gente concentrada que esperaba bajo la lluvia desde la madrugada ver…",
-        "La agenda del pontífice para este domingo implica tres vuelos internos y cambios drásticos de condiciones climáticas , pues en Cusco, la antigua capital del imperio incaico, ubicada en el sur de los Andes peruanos, estará…"
+        "La asociación de víctimas exhibió las fotografías ante el pontífice cuando pasaba frente a la Municipalidad de Cusco, ciudad a la que llegaron desde distintas ciudades del sur andino de Perú donde se produjeron las muertes…",
+        "León XIV, que se encuentra en una visita de seis días a su país adoptivo, es el primer papa en 41 años que visita la ciudad de Cusco, después de que lo hicera Juan Pablo II…",
+        "El papamóvil serpenteó entre las calles repletas de personas que lo recibieron con el canto \"León, amigo, Cusco está contigo\" y donde los habitantes habían sacado a la calle los pasos de sus procesiones y las…"
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -798,6 +854,30 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Exhiben frente al papa León XIV los rostros de fallecidos en represión a protestas en Perú",
+          "url": "https://www.abc.com.py/internacionales/2026/11/15/exhiben-frente-al-papa-leon-xiv-los-rostros-de-fallecidos-en-represion-a-protestas-en-peru",
+          "publishedAt": "2026-11-15T17:50:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El papa reza el ángelus en la Plaza de Armas de Cusco, donde concentró a 500.000 personas",
+          "url": "https://www.abc.com.py/internacionales/2026/11/15/el-papa-reza-el-angelus-en-la-plaza-de-armas-de-cusco-donde-concentro-a-500000-personas",
+          "publishedAt": "2026-11-15T17:20:09.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¡Bienvenido, 'tayta' León! ¡'Kawsachun' papa!', exclaman en Cusco al ver al santo padre",
+          "url": "https://www.abc.com.py/internacionales/2026/11/15/bienvenido-tayta-leon-kawsachun-papa-exclaman-en-cusco-al-ver-al-santo-padre",
+          "publishedAt": "2026-11-15T15:45:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -838,9 +918,9 @@
       },
       "firstSeenAt": "2026-11-15T08:07:12.501Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-15T15:34:50.492Z",
+      "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 9.47
+      "score": 9.4
     },
     {
       "id": "ev-0w6rd8n",
@@ -882,7 +962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 8.97
+      "score": 8.68
     },
     {
       "id": "ev-0t1781x",
@@ -975,7 +1055,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.95
+      "score": 6.66
     },
     {
       "id": "ev-0cbgr86",
@@ -1017,7 +1097,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.38
+      "score": 6.08
     },
     {
       "id": "ev-1iizndg",
@@ -1054,7 +1134,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.28
+      "score": 5.99
     },
     {
       "id": "ev-0p50v90",
@@ -1096,7 +1176,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.12
+      "score": 5.83
     },
     {
       "id": "ev-0o6f20a",
@@ -1137,7 +1217,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 6.03
+      "score": 5.74
     },
     {
       "id": "ev-08vexzp",
@@ -1178,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 6.03
+      "score": 5.74
     },
     {
       "id": "ev-17vuz6g",
@@ -1220,7 +1300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.66
     },
     {
       "id": "ev-0zvipni",
@@ -1262,7 +1342,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.66
     },
     {
       "id": "ev-05fnooi",
@@ -1304,7 +1384,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.66
     },
     {
       "id": "ev-0zjus9x",
@@ -1342,7 +1422,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.66
     },
     {
       "id": "ev-0etorwt",
@@ -1384,7 +1464,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.85
+      "score": 5.56
     },
     {
       "id": "ev-0ae441e",
@@ -1426,7 +1506,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.37
     },
     {
       "id": "ev-1v5pnq3",
@@ -1459,7 +1539,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.08
     },
     {
       "id": "ev-16hpybk",
@@ -1488,7 +1568,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.08
     },
     {
       "id": "ev-1dsws90",
@@ -1517,7 +1597,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-07td1jm",
@@ -1546,7 +1626,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-08xzo54",
@@ -1575,7 +1655,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-1iq5grd",
@@ -1604,7 +1684,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-0c1r2ro",
@@ -1633,7 +1713,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-15sy3wx",
@@ -1666,7 +1746,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.9
     },
     {
       "id": "ev-1l2io3y",
@@ -1699,7 +1779,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.15
+      "score": 4.86
     },
     {
       "id": "ev-1ybwlep",
@@ -1728,7 +1808,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.81
     },
     {
       "id": "ev-15v9k8x",
@@ -1757,7 +1837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1476m3z",
@@ -1786,7 +1866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1uqjgq0",
@@ -1819,7 +1899,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-0o9xq4z",
@@ -1852,7 +1932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-0ce20sj",
@@ -1881,7 +1961,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-0lkuubi",
@@ -1910,7 +1990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-0xrtcae",
@@ -1943,7 +2023,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-047rrhk",
@@ -1976,7 +2056,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1mvepum",
@@ -2009,7 +2089,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-09txgaw",
@@ -2038,7 +2118,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-18ak2oj",
@@ -2071,7 +2151,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.45
+      "score": 4.16
     },
     {
       "id": "ev-0mgpjbn",
@@ -2104,7 +2184,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.3
+      "score": 4
     },
     {
       "id": "ev-0zk0t8n",
@@ -2137,7 +2217,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.12
+      "score": 4
     }
   ],
   "runs": [
@@ -2161,6 +2241,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 8
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-15T19:05:08.873Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 7
     }
   ]
 }

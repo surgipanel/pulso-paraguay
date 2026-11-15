@@ -1,28 +1,28 @@
 {
   "editionDate": "2026-11-15",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-15T15:34:50.492Z",
+  "generatedAt": "2026-11-15T19:05:08.873Z",
   "eventsCount": 50,
   "maxEvents": 50,
   "aiMode": "extractivo",
   "model": null,
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-11-15T15:36:26.036Z",
+  "lastSuccessAt": "2026-11-15T19:06:46.773Z",
   "lastRun": {
-    "startedAt": "2026-11-15T15:34:50.492Z",
-    "finishedAt": "2026-11-15T15:36:26.036Z",
+    "startedAt": "2026-11-15T19:05:08.873Z",
+    "finishedAt": "2026-11-15T19:06:46.773Z",
     "edition": "2026-11-15",
     "slot": "tarde",
     "ok": true,
     "error": null,
     "aiMode": "ia",
     "model": "claude-haiku-5-5",
-    "articles": 263,
+    "articles": 260,
     "clusters": 214,
-    "candidates": 8,
+    "candidates": 7,
     "added": 0,
-    "updated": 5,
+    "updated": 4,
     "eventsTotal": 50,
     "sourcesOk": 7,
     "sourcesTotal": 11,
@@ -30,14 +30,14 @@
       "mode": "ia",
       "aiCalls": 0,
       "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch4xgt58ZZgQ9bVtwQx9v\"}",
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch4xgtSTD2B3o357qNp7m\"}"
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch5EjARoSx1awvuYTE8hm\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch5EjAtLDpUEjqG4vkXf5\"}"
       ],
       "inputTokens": 0,
       "outputTokens": 0,
       "cacheReadTokens": 0,
       "cacheWriteTokens": 0,
-      "fallbacks": 8
+      "fallbacks": 7
     },
     "forced": false
   },
