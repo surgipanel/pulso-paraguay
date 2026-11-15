@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T19:05:08.873Z",
+  "checkedAt": "2026-11-15T23:07:10.781Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -15,10 +15,10 @@
       "items": 100,
       "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-11-15T19:00:14.000Z",
-      "ms": 624,
+      "newestAt": "2026-11-15T22:59:53.000Z",
+      "ms": 892,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "lanacion",
@@ -31,12 +31,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 84,
+      "freshItems": 75,
       "undated": 0,
-      "newestAt": "2026-11-15T18:42:17.000Z",
-      "ms": 608,
+      "newestAt": "2026-11-15T23:00:38.000Z",
+      "ms": 560,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 166,
-      "freshItems": 72,
+      "items": 146,
+      "freshItems": 76,
       "undated": 0,
-      "newestAt": "2026-11-15T19:03:26.000Z",
-      "ms": 94638,
+      "newestAt": "2026-11-15T22:23:12.000Z",
+      "ms": 94295,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "elnacional",
@@ -69,10 +69,10 @@
       "items": 65,
       "freshItems": 40,
       "undated": 0,
-      "newestAt": "2026-11-15T18:40:00.000Z",
-      "ms": 632,
+      "newestAt": "2026-11-15T22:20:00.000Z",
+      "ms": 736,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "adn",
@@ -87,10 +87,10 @@
       "items": 10,
       "freshItems": 10,
       "undated": 0,
-      "newestAt": "2026-11-15T15:13:05.000Z",
-      "ms": 18438,
+      "newestAt": "2026-11-15T19:43:57.000Z",
+      "ms": 19409,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-11-13T15:03:00.000Z",
-      "ms": 927,
+      "ms": 1357,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "telefuturo",
@@ -117,16 +117,16 @@
       "kind": "atom",
       "url": "https://www.telefuturo.com.py/index.atom",
       "region": "nacional",
-      "note": "Conecta bien pero no publicó notas en las últimas 24 h.",
-      "status": "quiet",
+      "note": "El feed devuelve notas antiguas; no se usa como información del día.",
+      "status": "stale",
       "httpStatus": 200,
       "items": 73,
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-11-13T19:34:28.000Z",
-      "ms": 1104,
+      "ms": 1404,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "vanguardia",
@@ -142,9 +142,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-11-13T13:22:00.000Z",
-      "ms": 7393,
+      "ms": 8368,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "hoy",
@@ -157,12 +157,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 12,
-      "freshItems": 12,
+      "freshItems": 11,
       "undated": 0,
-      "newestAt": "2026-11-15T17:46:02.749Z",
-      "ms": 26707,
+      "newestAt": "2026-11-15T22:58:37.300Z",
+      "ms": 27355,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "ip",
@@ -178,9 +178,9 @@
       "freshItems": 0,
       "undated": 0,
       "newestAt": "2026-11-12T18:12:27.000Z",
-      "ms": 6842,
+      "ms": 2568,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     },
     {
       "id": "5dias",
@@ -192,13 +192,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota. Diario económico: no suele publicar los fines de semana.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 12,
-      "freshItems": 4,
+      "items": 13,
+      "freshItems": 5,
       "undated": 0,
-      "newestAt": "2026-11-15T14:46:00.000Z",
-      "ms": 9897,
+      "newestAt": "2026-11-15T16:33:00.000Z",
+      "ms": 11941,
       "error": null,
-      "checkedAt": "2026-11-15T19:05:08.873Z"
+      "checkedAt": "2026-11-15T23:07:10.781Z"
     }
   ]
 }

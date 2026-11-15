@@ -1,20 +1,20 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-15T19:05:08.873Z",
+  "generatedAt": "2026-11-15T23:07:10.781Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1vz3dna",
-      "title": "Caso Ueno Bank: allanan hangar privado en búsqueda aeronave ligada al Grupo Vázquez",
-      "summary": "Busca inmovilizar y asegurar la aeronave como medida cautelar dentro del rastreo de bienes vinculados al caso Ueno Bank. La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo. El avión privado incautado por el Ministerio Público durante un allanamiento en un hangar del Aeropuerto Internacional Silvio Pettirossi, en Luque, en el marco de las investigaciones del caso Ueno Bank, está vinculado a Diego Sebastián Gómez Arce, uno de los procesados en la causa y relacionado con el Grupo Vázquez.",
+      "title": "Caso ueno bank: Fiscalía allana hangar privado y localiza aeronave vinculada al Grupo Vázquez",
+      "summary": "El procedimiento se realizó este domingo en un hangar privado del aeropuerto internacional, en Luque. Los investigadores solicitaron el bloqueo de un avión con matrícula estadounidense y aguardan informes de ese país para determinar su titularidad y esclarecer su vinculación con el conglomerado empresarial investigado.",
       "keyPoints": [
+        "El procedimiento se realizó este domingo en un hangar privado del aeropuerto internacional, en Luque.",
         "Busca inmovilizar y asegurar la aeronave como medida cautelar dentro del rastreo de bienes vinculados al caso Ueno Bank.",
-        "La fiscalía coordinó con otras instituciones del Estado el traslado del yate a Asunción para su resguardo.",
         "El avión privado incautado por el Ministerio Público durante un allanamiento en un hangar del Aeropuerto Internacional Silvio Pettirossi, en Luque, en el marco de las investigaciones del caso Ueno Bank, está vinculado a Diego Sebastián…",
-        "Este domingo, una comitiva fiscal policial realiza el allanamiento del hangar privado “Latitude” ubicado en el aeropuerto Silvio Pettirossi para buscar otra aeronave que sería propiedad del Grupo Vázquez."
+        "El Ministerio Público informó en un comunicado que la incautación se produjo durante \"un allanamiento en uno de los hangares del Aeropuerto Internacional Silvio Pettirossi\", el principal del país y que sirve a la capital Asunción…"
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La Fiscalía paraguaya incauta avioneta perteneciente al grupo que controlaba Ueno bank",
+          "url": "https://www.abc.com.py/internacionales/2026/11/15/la-fiscalia-paraguaya-incauta-avioneta-perteneciente-al-grupo-que-controlaba-ueno-bank",
+          "publishedAt": "2026-11-15T20:50:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso ueno bank: Fiscalía allana hangar privado y localiza aeronave vinculada al Grupo Vázquez",
+          "url": "https://elnacional.com.py/politica/caso-ueno-bank-fiscalia-allana-hangar-privado-localiza-aeronave-vinculada-grupo-vazquez-n115306",
+          "publishedAt": "2026-11-15T19:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afa01472b2bb.jpeg"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -112,15 +128,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/D335RDFX35FYZMACN46MG2NA7Y.jpeg?auth=67320d08eaa3d9fa5a0bc35615556636915344e6db1b349bd97f6d547ea44b34&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/15/caso-ueno-bank-allanan-hangar-privado-en-busqueda-aeronave-ligada-al-grupo-vazquez"
+        "url": "https://statics.elnacional.com.py/2026/11/6afa01472b2bb.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/caso-ueno-bank-fiscalia-allana-hangar-privado-localiza-aeronave-vinculada-grupo-vazquez-n115306"
       },
       "firstSeenAt": "2026-11-15T08:07:12.501Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-15T19:05:08.873Z",
+      "updatedAt": "2026-11-15T23:07:10.781Z",
       "updatedSlot": "tarde",
-      "score": 20.88
+      "score": 20.81
     },
     {
       "id": "ev-1bbtdyr",
@@ -212,7 +228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 20.68
+      "score": 20.34
     },
     {
       "id": "ev-0dz24fu",
@@ -287,7 +303,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 20.57
+      "score": 20.23
     },
     {
       "id": "ev-1v7ep3n",
@@ -362,7 +378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 17.38
+      "score": 17.04
     },
     {
       "id": "ev-03omkz0",
@@ -422,7 +438,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 14.52
+      "score": 14.18
     },
     {
       "id": "ev-0p0lo92",
@@ -490,7 +506,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 13.66
+      "score": 13.33
+    },
+    {
+      "id": "ev-0uiax14",
+      "title": "Entradas agotadas para Cerro Porteño-Sol de América en Itauguá",
+      "summary": "Desde la Asociación Paraguaya de Fútbol informaron que las entradas para el Juan Canuto Pettengill ya están agotadas. El inicio del cotejo semifinal de la Copa Paraguay 2026 entre los vecinos de Barrio Obrero se anuncia para las 18:00. Resta apenas 1 hora para apreciar el prometedor cotejo entre azulgranas y solenses, que se desarrollará en la Ciudad del Ñanduti.",
+      "keyPoints": [
+        "Desde la Asociación Paraguaya de Fútbol informaron que las entradas para el Juan Canuto Pettengill ya están agotadas.",
+        "Enfrenta a Sol de América, que cumple un campañón en la Copa de Todos y que quiere dar otro golpe"
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Entradas agotadas para Cerro Porteño-Sol de América en Itauguá",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/15/se-agotan-entradas-para-cerro-sol-por-la-copa-paraguay",
+          "publishedAt": "2026-11-15T18:59:40.000Z",
+          "image": "https://www.abc.com.py/resizer/yFShwvgUV1Sy4teHNzLPzbOd4YI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSMZ3SXFIFFRPNOL66ZX7ETOU4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La probable formación de Cerro Porteño en la Copa Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/la-probable-formacion-de-cerro-porteno-en-la-copa-paraguay",
+          "publishedAt": "2026-11-15T14:20:46.000Z",
+          "image": "https://www.abc.com.py/resizer/vAhI-ZKeYGKZt2qzQ511nxiTH8s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/D33PBU27XJAFLAJN5XP43UUMKY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Toda la presión para Cerro",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/15/toda-la-presion-para-cerro",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yRMEbN32b3dY58eb14OtRpFxUM4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGAOWMHFMNG6BBPT7ROWPQ5OPQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Cerro Porteño busca su primera gran final en la Copa Paraguay ante Sol de América",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/cerro-porteno-busca-su-primera-gran-final-en-la-copa-paraguay-ante-sol-de-america",
+          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/YJclwZZfxHNHFpCocuSK_OJkIjo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FSMZ3SXFIFFRPNOL66ZX7ETOU4.jpg?auth=7fa36db8d59bac3dd91c2b85c4ebdcd4c8ee3ff54846c09f09b912786c515b26&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/15/se-agotan-entradas-para-cerro-sol-por-la-copa-paraguay"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T23:07:10.781Z",
+      "updatedSlot": "tarde",
+      "score": 11.66
     },
     {
       "id": "ev-1tzkb3p",
@@ -566,7 +640,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 11.92
+      "score": 11.58
     },
     {
       "id": "ev-1rooed6",
@@ -626,7 +700,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 11.81
+      "score": 11.48
     },
     {
       "id": "ev-0z0kfbu",
@@ -684,57 +758,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 11.79
-    },
-    {
-      "id": "ev-0uiax14",
-      "title": "La probable formación de Cerro Porteño en la Copa Paraguay",
-      "summary": "El estadio del 12 de Octubre de Itauguá albergará el partido de eliminación directa entre Cerro Porteño y Sol de América , fijado para las 18:00, en la segunda semifinal de la Copa Paraguay. En caso de igualdad en tiempo normal, el clasificado surgirá en los penales.",
-      "keyPoints": [
-        "El estadio del 12 de Octubre de Itauguá albergará el partido de eliminación directa entre Cerro Porteño y Sol de América , fijado para las 18:00, en la segunda semifinal de la Copa Paraguay.",
-        "Enfrenta a Sol de América, que cumple un campañón en la Copa de Todos y que quiere dar otro golpe"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La probable formación de Cerro Porteño en la Copa Paraguay",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/la-probable-formacion-de-cerro-porteno-en-la-copa-paraguay",
-          "publishedAt": "2026-11-15T14:20:46.000Z",
-          "image": "https://www.abc.com.py/resizer/vAhI-ZKeYGKZt2qzQ511nxiTH8s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/D33PBU27XJAFLAJN5XP43UUMKY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Toda la presión para Cerro",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/15/toda-la-presion-para-cerro",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/yRMEbN32b3dY58eb14OtRpFxUM4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGAOWMHFMNG6BBPT7ROWPQ5OPQ.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Cerro Porteño busca su primera gran final en la Copa Paraguay ante Sol de América",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/cerro-porteno-busca-su-primera-gran-final-en-la-copa-paraguay-ante-sol-de-america",
-          "publishedAt": "2026-11-15T03:00:00.000Z",
-          "image": "https://www.abc.com.py/resizer/YJclwZZfxHNHFpCocuSK_OJkIjo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/D33PBU27XJAFLAJN5XP43UUMKY.jpg?auth=ab6ae607a679d76a4f7c83bc2618086eeda74bdcea1fbcbc2974447688804de8&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/la-probable-formacion-de-cerro-porteno-en-la-copa-paraguay"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T15:34:50.492Z",
-      "updatedSlot": "tarde",
-      "score": 10.61
+      "score": 11.45
     },
     {
       "id": "ev-0ho5khf",
@@ -785,7 +809,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.33
     },
     {
       "id": "ev-100ha80",
@@ -836,7 +860,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.33
     },
     {
       "id": "ev-0ltp2hr",
@@ -920,7 +944,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 9.4
+      "score": 9.06
     },
     {
       "id": "ev-0w6rd8n",
@@ -962,7 +986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.34
     },
     {
       "id": "ev-0t1781x",
@@ -1055,7 +1079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.66
+      "score": 6.33
     },
     {
       "id": "ev-0cbgr86",
@@ -1097,7 +1121,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.08
+      "score": 5.75
     },
     {
       "id": "ev-1iizndg",
@@ -1134,7 +1158,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0p50v90",
@@ -1176,253 +1200,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.83
-    },
-    {
-      "id": "ev-0o6f20a",
-      "title": "Signature 27: Hello Moto, Hello Río",
-      "summary": "Este nuevo equipo prémium de Motorola , sin duda alguna, viene para sacudir el mercado con prestaciones que lo hacen ser un “buque insignia” flagship que no va a pasar desapercibido y, a la vez, pretende conquistar a un público que busca un dispositivo que cumpla en todos los apartados posibles.",
-      "keyPoints": [
-        "Este nuevo equipo prémium de Motorola , sin duda alguna, viene para sacudir el mercado con prestaciones que lo hacen ser un “buque insignia” flagship que no va a pasar desapercibido y, a la vez, pretende…"
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Signature 27: Hello Moto, Hello Río",
-          "url": "https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/2026/11/15/signature-27-hello-moto-hello-rio",
-          "publishedAt": "2026-11-15T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/P7gS9N687ZM0VNV54_SVnJpwyRY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Signature 27: Hello Moto, Hello Río",
-          "url": "https://www.abc.com.py/tecnologia/2026/11/15/signature-27-hello-moto-hello-rio",
-          "publishedAt": "2026-11-15T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/P7gS9N687ZM0VNV54_SVnJpwyRY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg?auth=3a4209f90970e8fd3c04b21088a48c60412452f537dc44acaf4c666d8ab73dc6&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/tecnologia/2026/11/15/signature-27-hello-moto-hello-rio"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T12:07:10.804Z",
-      "updatedSlot": "manana",
-      "score": 5.74
-    },
-    {
-      "id": "ev-08vexzp",
-      "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
-      "summary": "Las proyecciones del organismo apuntan a un aumento del 17% en los precios de los aceites vegetales y las harinas durante 2026. Por su parte, los cereales y los fertilizantes registrarían incrementos del 14% en el mismo periodo. El análisis también anticipa nuevas subas agrícolas para 2027, aunque prevé una moderación posterior en los precios de los fertilizantes.",
-      "keyPoints": [
-        "Las proyecciones del organismo apuntan a un aumento del 17% en los precios de los aceites vegetales y las harinas durante 2026."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
-          "url": "https://www.abc.com.py/economia/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026",
-          "publishedAt": "2026-11-15T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/kVN5E7APftEdstKQoz5awATbVbE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/L2GC525KZVET7MC44VEVZROPBY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
-          "url": "https://www.abc.com.py/negocios/abc-campo/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026",
-          "publishedAt": "2026-11-15T04:00:01.000Z",
-          "image": "https://www.abc.com.py/resizer/wJ3UpcRiTeXDDEU8whYO5I1cYac=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YEWNEJYTXFFA5FXBP6Y6US33OI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YEWNEJYTXFFA5FXBP6Y6US33OI.jpg?auth=add3ff71500107f820adaa4f4d7ac8aa087af9861698e257d9bbf0c48b8ece11&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/negocios/abc-campo/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T12:07:10.804Z",
-      "updatedSlot": "manana",
-      "score": 5.74
-    },
-    {
-      "id": "ev-17vuz6g",
-      "title": "Refuerzan seguridad en las cárceles con entrenamiento en el manejo de armas de fuego",
-      "summary": "El Ministerio de Justicia realizó una capacitación sobre el uso y manejo seguro de armas de fuego, dirigida a 41 agentes penitenciarios de 13 centros de reclusión del país. Participantes recibieron instrucción sobre el manejo responsable de armas de fuego y las medidas de seguridad que deben aplicarse durante su utilización.",
-      "keyPoints": [
-        "El Ministerio de Justicia realizó una capacitación sobre el uso y manejo seguro de armas de fuego, dirigida a 41 agentes penitenciarios de 13 centros de reclusión del país.",
-        "Participantes recibieron instrucción sobre el manejo responsable de armas de fuego y las medidas de seguridad que deben aplicarse durante su utilización."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Refuerzan seguridad en las penitenciarías",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/15/refuerzan-seguridad-en-las-penitenciarias",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/OJbQfXUwSl84D_iXL0xsU49gk2w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z62OP6LBSREGDL7LPC275LRJUA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Refuerzan seguridad en las cárceles con entrenamiento en el manejo de armas de fuego",
-          "url": "https://www.lanacion.com.py/pais/2026/11/14/refuerzan-seguridad-en-las-carceles-con-entrenamiento-en-el-manejo-de-armas-de-fuego",
-          "publishedAt": "2026-11-14T22:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/CXvXgZF53jVAe9SWhGaIBbagBjU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J3MPNCGAZZCNNJLTBUCOTXNRVI.png"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J3MPNCGAZZCNNJLTBUCOTXNRVI.png?auth=2a49e98063979e434788ba639d4daa836baeb72bf274d97708047f2367a13e98&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/14/refuerzan-seguridad-en-las-carceles-con-entrenamiento-en-el-manejo-de-armas-de-fuego"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-0zvipni",
-      "title": "Certifican a 132 trabajadores de la INC y Cecon en manejo de maquinaria pesada",
-      "summary": "Un total de 132 trabajadores empíricos de la Industria Nacional del Cemento (INC) y de Cementos Concepción (Cecon) fueron certificados en competencias laborales a través del Sistema Nacional de Formación y Capacitación Laboral (Sinafocal), tras validar sus conocimientos y experiencia en el manejo de maquinarias pesadas para movimiento de suelos.",
-      "keyPoints": [
-        "Un total de 132 trabajadores empíricos de la Industria Nacional del Cemento (INC) y de Cementos Concepción (Cecon) fueron certificados en competencias laborales a través del Sistema Nacional de Formación y Capacitación Laboral (Sinafocal), tras validar…",
-        "Sinafocal valida sus conocimientos y experiencia en el manejo de maquinarias pesadas."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Certifican a trabajadores de la INC y de Cecon",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/certifican-a-trabajadores-de-la-inc-y-de-cecon",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tixUQ0VNsC-7Dk0Q8VPRAXBgvXc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L4XIJHJXZBBJ7OB3VPHEDQPWBE.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Certifican a 132 trabajadores de la INC y Cecon en manejo de maquinaria pesada",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/14/certifican-a-132-trabajadores-de-la-inc-y-cecon-en-manejo-de-maquinaria-pesada",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/5S2Fk4-NA1JyqC15bs01zqV21OU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2ZHCSWWAVNC37MOERZFKWMM5E4.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2ZHCSWWAVNC37MOERZFKWMM5E4.jpeg?auth=29725d70ab5ba67adac2ff81c7f6ebb2ac076d17996b831a04f1fe62e34653f6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/14/certifican-a-132-trabajadores-de-la-inc-y-cecon-en-manejo-de-maquinaria-pesada"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-05fnooi",
-      "title": "Instan a facilitar el acceso a créditos blandos a las mipymes ante el cierre del año",
-      "summary": "Desde la Asociación de Micro, Pequeñas y Medianas Empresas (Asomipymes) consideraron que tras la caída de Ueno Bank será necesario facilitar el acceso a financiamiento mediante créditos blandos para sostener a las microempresas, especialmente de cara al cierre del año.",
-      "keyPoints": [
-        "Desde la Asociación de Micro, Pequeñas y Medianas Empresas (Asomipymes) consideraron que tras la caída de Ueno Bank será necesario facilitar el acceso a financiamiento mediante créditos blandos para sostener a las microempresas, especialmente de cara…",
-        "Asociación dice que la recuperación de los pequeños negocios no será sencilla tras la caída de Ueno Bank."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Piden facilitar créditos blandos a las mipymes",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/piden-facilitar-creditos-blandos-a-las-mipymes",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pGiJDVr4qq8py0Su_HZneSLIPAo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JDWWTZEOFBG2BB6OSDMPE3UFMM.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Instan a facilitar el acceso a créditos blandos a las mipymes ante el cierre del año",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/14/instan-a-facilitar-el-acceso-a-creditos-blandos-a-las-mipymes-ante-el-cierre-del-ano",
-          "publishedAt": "2026-11-14T17:00:11.000Z",
-          "image": "https://www.lanacion.com.py/resizer/a0jTtjia0p649NLsDJtNu1XepyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O7KSZDQILNFS3PVEUA5D7JBI74.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/O7KSZDQILNFS3PVEUA5D7JBI74.jpg?auth=fba1b9e1c96c562ea6936b167969000d52a6a4aaba7dfc6fbc534e67d501f719&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/14/instan-a-facilitar-el-acceso-a-creditos-blandos-a-las-mipymes-ante-el-cierre-del-ano"
-      },
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 5.66
-    },
-    {
-      "id": "ev-0zjus9x",
-      "title": "Arzobispado de Asunción exige esclarecer el caso Ueno y recuperar los fondos de los ahorristas",
-      "summary": "A través de un comunicado, el Arzobispado de Asunción expresó su preocupación por la crisis financiera desatada por la resolución de Ueno Bank y cuestionó los mecanismos de supervisión, así como la gestión de los fondos públicos vinculados al caso.",
-      "keyPoints": [
-        "A través de un comunicado, el Arzobispado de Asunción expresó su preocupación por la crisis financiera desatada por la resolución de Ueno Bank y cuestionó los mecanismos de supervisión, así como la gestión de los fondos…",
-        "Advierte que todavía se desconoce el alcance total de las pérdidas y los recursos comprometidos."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Arzobispado exige respuestas por la crisis de Ueno",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/15/arzobispado-exige-respuestas-por-la-crisis-de-ueno",
-          "publishedAt": "2026-11-15T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fIn3_l20SrNjOCBgu7r28HeIu0I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SERH76T2ONB4ZFKL7RXMKEGCZY.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Arzobispado de Asunción exige esclarecer el caso Ueno y recuperar los fondos de los ahorristas",
-          "url": "https://www.lanacion.com.py/politica/2026/11/14/arzobispado-de-asuncion-exige-esclarecer-el-caso-ueno-y-recuperar-los-fondos-de-los-ahorristas",
-          "publishedAt": "2026-11-14T11:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/fIn3_l20SrNjOCBgu7r28HeIu0I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SERH76T2ONB4ZFKL7RXMKEGCZY.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.5
     },
     {
       "id": "ev-0etorwt",
@@ -1464,7 +1242,253 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.56
+      "score": 5.5
+    },
+    {
+      "id": "ev-0o6f20a",
+      "title": "Signature 27: Hello Moto, Hello Río",
+      "summary": "Este nuevo equipo prémium de Motorola , sin duda alguna, viene para sacudir el mercado con prestaciones que lo hacen ser un “buque insignia” flagship que no va a pasar desapercibido y, a la vez, pretende conquistar a un público que busca un dispositivo que cumpla en todos los apartados posibles.",
+      "keyPoints": [
+        "Este nuevo equipo prémium de Motorola , sin duda alguna, viene para sacudir el mercado con prestaciones que lo hacen ser un “buque insignia” flagship que no va a pasar desapercibido y, a la vez, pretende…"
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Signature 27: Hello Moto, Hello Río",
+          "url": "https://www.abc.com.py/edicion-impresa/suplementos/abc-revista/2026/11/15/signature-27-hello-moto-hello-rio",
+          "publishedAt": "2026-11-15T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/P7gS9N687ZM0VNV54_SVnJpwyRY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Signature 27: Hello Moto, Hello Río",
+          "url": "https://www.abc.com.py/tecnologia/2026/11/15/signature-27-hello-moto-hello-rio",
+          "publishedAt": "2026-11-15T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/P7gS9N687ZM0VNV54_SVnJpwyRY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/UNDCDORZZ5HBZCCW6U7WF5OBK4.jpg?auth=3a4209f90970e8fd3c04b21088a48c60412452f537dc44acaf4c666d8ab73dc6&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/tecnologia/2026/11/15/signature-27-hello-moto-hello-rio"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T12:07:10.804Z",
+      "updatedSlot": "manana",
+      "score": 5.41
+    },
+    {
+      "id": "ev-08vexzp",
+      "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
+      "summary": "Las proyecciones del organismo apuntan a un aumento del 17% en los precios de los aceites vegetales y las harinas durante 2026. Por su parte, los cereales y los fertilizantes registrarían incrementos del 14% en el mismo periodo. El análisis también anticipa nuevas subas agrícolas para 2027, aunque prevé una moderación posterior en los precios de los fertilizantes.",
+      "keyPoints": [
+        "Las proyecciones del organismo apuntan a un aumento del 17% en los precios de los aceites vegetales y las harinas durante 2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
+          "url": "https://www.abc.com.py/economia/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026",
+          "publishedAt": "2026-11-15T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/kVN5E7APftEdstKQoz5awATbVbE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/L2GC525KZVET7MC44VEVZROPBY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Los mercados agrícolas enfrentan nuevas presiones durante 2026",
+          "url": "https://www.abc.com.py/negocios/abc-campo/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026",
+          "publishedAt": "2026-11-15T04:00:01.000Z",
+          "image": "https://www.abc.com.py/resizer/wJ3UpcRiTeXDDEU8whYO5I1cYac=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YEWNEJYTXFFA5FXBP6Y6US33OI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YEWNEJYTXFFA5FXBP6Y6US33OI.jpg?auth=add3ff71500107f820adaa4f4d7ac8aa087af9861698e257d9bbf0c48b8ece11&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/negocios/abc-campo/2026/11/15/los-mercados-agricolas-enfrentan-nuevas-presiones-durante-2026"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T12:07:10.804Z",
+      "updatedSlot": "manana",
+      "score": 5.41
+    },
+    {
+      "id": "ev-17vuz6g",
+      "title": "Refuerzan seguridad en las cárceles con entrenamiento en el manejo de armas de fuego",
+      "summary": "El Ministerio de Justicia realizó una capacitación sobre el uso y manejo seguro de armas de fuego, dirigida a 41 agentes penitenciarios de 13 centros de reclusión del país. Participantes recibieron instrucción sobre el manejo responsable de armas de fuego y las medidas de seguridad que deben aplicarse durante su utilización.",
+      "keyPoints": [
+        "El Ministerio de Justicia realizó una capacitación sobre el uso y manejo seguro de armas de fuego, dirigida a 41 agentes penitenciarios de 13 centros de reclusión del país.",
+        "Participantes recibieron instrucción sobre el manejo responsable de armas de fuego y las medidas de seguridad que deben aplicarse durante su utilización."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Refuerzan seguridad en las penitenciarías",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/15/refuerzan-seguridad-en-las-penitenciarias",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/OJbQfXUwSl84D_iXL0xsU49gk2w=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z62OP6LBSREGDL7LPC275LRJUA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Refuerzan seguridad en las cárceles con entrenamiento en el manejo de armas de fuego",
+          "url": "https://www.lanacion.com.py/pais/2026/11/14/refuerzan-seguridad-en-las-carceles-con-entrenamiento-en-el-manejo-de-armas-de-fuego",
+          "publishedAt": "2026-11-14T22:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/CXvXgZF53jVAe9SWhGaIBbagBjU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J3MPNCGAZZCNNJLTBUCOTXNRVI.png"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J3MPNCGAZZCNNJLTBUCOTXNRVI.png?auth=2a49e98063979e434788ba639d4daa836baeb72bf274d97708047f2367a13e98&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/14/refuerzan-seguridad-en-las-carceles-con-entrenamiento-en-el-manejo-de-armas-de-fuego"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T08:07:12.501Z",
+      "updatedSlot": "manana",
+      "score": 5.33
+    },
+    {
+      "id": "ev-0zvipni",
+      "title": "Certifican a 132 trabajadores de la INC y Cecon en manejo de maquinaria pesada",
+      "summary": "Un total de 132 trabajadores empíricos de la Industria Nacional del Cemento (INC) y de Cementos Concepción (Cecon) fueron certificados en competencias laborales a través del Sistema Nacional de Formación y Capacitación Laboral (Sinafocal), tras validar sus conocimientos y experiencia en el manejo de maquinarias pesadas para movimiento de suelos.",
+      "keyPoints": [
+        "Un total de 132 trabajadores empíricos de la Industria Nacional del Cemento (INC) y de Cementos Concepción (Cecon) fueron certificados en competencias laborales a través del Sistema Nacional de Formación y Capacitación Laboral (Sinafocal), tras validar…",
+        "Sinafocal valida sus conocimientos y experiencia en el manejo de maquinarias pesadas."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Certifican a trabajadores de la INC y de Cecon",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/certifican-a-trabajadores-de-la-inc-y-de-cecon",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tixUQ0VNsC-7Dk0Q8VPRAXBgvXc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L4XIJHJXZBBJ7OB3VPHEDQPWBE.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Certifican a 132 trabajadores de la INC y Cecon en manejo de maquinaria pesada",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/14/certifican-a-132-trabajadores-de-la-inc-y-cecon-en-manejo-de-maquinaria-pesada",
+          "publishedAt": "2026-11-14T18:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/5S2Fk4-NA1JyqC15bs01zqV21OU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/2ZHCSWWAVNC37MOERZFKWMM5E4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/2ZHCSWWAVNC37MOERZFKWMM5E4.jpeg?auth=29725d70ab5ba67adac2ff81c7f6ebb2ac076d17996b831a04f1fe62e34653f6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/14/certifican-a-132-trabajadores-de-la-inc-y-cecon-en-manejo-de-maquinaria-pesada"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T08:07:12.501Z",
+      "updatedSlot": "manana",
+      "score": 5.33
+    },
+    {
+      "id": "ev-05fnooi",
+      "title": "Instan a facilitar el acceso a créditos blandos a las mipymes ante el cierre del año",
+      "summary": "Desde la Asociación de Micro, Pequeñas y Medianas Empresas (Asomipymes) consideraron que tras la caída de Ueno Bank será necesario facilitar el acceso a financiamiento mediante créditos blandos para sostener a las microempresas, especialmente de cara al cierre del año.",
+      "keyPoints": [
+        "Desde la Asociación de Micro, Pequeñas y Medianas Empresas (Asomipymes) consideraron que tras la caída de Ueno Bank será necesario facilitar el acceso a financiamiento mediante créditos blandos para sostener a las microempresas, especialmente de cara…",
+        "Asociación dice que la recuperación de los pequeños negocios no será sencilla tras la caída de Ueno Bank."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Piden facilitar créditos blandos a las mipymes",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/15/piden-facilitar-creditos-blandos-a-las-mipymes",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pGiJDVr4qq8py0Su_HZneSLIPAo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JDWWTZEOFBG2BB6OSDMPE3UFMM.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Instan a facilitar el acceso a créditos blandos a las mipymes ante el cierre del año",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/14/instan-a-facilitar-el-acceso-a-creditos-blandos-a-las-mipymes-ante-el-cierre-del-ano",
+          "publishedAt": "2026-11-14T17:00:11.000Z",
+          "image": "https://www.lanacion.com.py/resizer/a0jTtjia0p649NLsDJtNu1XepyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O7KSZDQILNFS3PVEUA5D7JBI74.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/O7KSZDQILNFS3PVEUA5D7JBI74.jpg?auth=fba1b9e1c96c562ea6936b167969000d52a6a4aaba7dfc6fbc534e67d501f719&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/14/instan-a-facilitar-el-acceso-a-creditos-blandos-a-las-mipymes-ante-el-cierre-del-ano"
+      },
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T08:07:12.501Z",
+      "updatedSlot": "manana",
+      "score": 5.33
+    },
+    {
+      "id": "ev-0zjus9x",
+      "title": "Arzobispado de Asunción exige esclarecer el caso Ueno y recuperar los fondos de los ahorristas",
+      "summary": "A través de un comunicado, el Arzobispado de Asunción expresó su preocupación por la crisis financiera desatada por la resolución de Ueno Bank y cuestionó los mecanismos de supervisión, así como la gestión de los fondos públicos vinculados al caso.",
+      "keyPoints": [
+        "A través de un comunicado, el Arzobispado de Asunción expresó su preocupación por la crisis financiera desatada por la resolución de Ueno Bank y cuestionó los mecanismos de supervisión, así como la gestión de los fondos…",
+        "Advierte que todavía se desconoce el alcance total de las pérdidas y los recursos comprometidos."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Arzobispado exige respuestas por la crisis de Ueno",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/15/arzobispado-exige-respuestas-por-la-crisis-de-ueno",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fIn3_l20SrNjOCBgu7r28HeIu0I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SERH76T2ONB4ZFKL7RXMKEGCZY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Arzobispado de Asunción exige esclarecer el caso Ueno y recuperar los fondos de los ahorristas",
+          "url": "https://www.lanacion.com.py/politica/2026/11/14/arzobispado-de-asuncion-exige-esclarecer-el-caso-ueno-y-recuperar-los-fondos-de-los-ahorristas",
+          "publishedAt": "2026-11-14T11:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/fIn3_l20SrNjOCBgu7r28HeIu0I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SERH76T2ONB4ZFKL7RXMKEGCZY.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T08:07:12.501Z",
+      "updatedSlot": "manana",
+      "score": 5.33
     },
     {
       "id": "ev-0ae441e",
@@ -1506,7 +1530,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.03
     },
     {
       "id": "ev-1v5pnq3",
@@ -1539,7 +1563,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.74
     },
     {
       "id": "ev-16hpybk",
@@ -1568,7 +1592,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.74
     },
     {
       "id": "ev-1dsws90",
@@ -1597,7 +1621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-07td1jm",
@@ -1626,7 +1650,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-08xzo54",
@@ -1655,7 +1679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-1iq5grd",
@@ -1684,7 +1708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-0c1r2ro",
@@ -1713,7 +1737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-15sy3wx",
@@ -1746,7 +1770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.9
+      "score": 4.57
     },
     {
       "id": "ev-1l2io3y",
@@ -1779,7 +1803,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.86
+      "score": 4.52
     },
     {
       "id": "ev-1ybwlep",
@@ -1808,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.81
+      "score": 4.48
     },
     {
       "id": "ev-15v9k8x",
@@ -1837,7 +1861,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-1476m3z",
@@ -1866,7 +1890,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-1uqjgq0",
@@ -1899,7 +1923,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-0o9xq4z",
@@ -1932,7 +1956,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-0ce20sj",
@@ -1961,7 +1985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-0lkuubi",
@@ -1990,7 +2014,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.41
     },
     {
       "id": "ev-0xrtcae",
@@ -2023,7 +2047,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.33
     },
     {
       "id": "ev-047rrhk",
@@ -2056,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.33
     },
     {
       "id": "ev-1mvepum",
@@ -2089,7 +2113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.33
     },
     {
       "id": "ev-09txgaw",
@@ -2118,7 +2142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4
     },
     {
       "id": "ev-18ak2oj",
@@ -2151,7 +2175,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-0mgpjbn",
@@ -2248,6 +2272,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 7
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-15T23:07:10.781Z",
+      "added": 0,
+      "updated": 2,
+      "candidates": 4
     }
   ]
 }
