@@ -1,5 +1,45 @@
 [
   {
+    "startedAt": "2026-11-16T08:07:11.865Z",
+    "finishedAt": "2026-11-16T08:08:59.322Z",
+    "edition": "2026-11-16",
+    "slot": "manana",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 235,
+    "clusters": 196,
+    "candidates": 60,
+    "added": 50,
+    "updated": 0,
+    "eventsTotal": 50,
+    "sourcesOk": 7,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNQH9NX1Cwdo5tTpih\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNQpPMmY19azYfvvZy\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNRBxCUr7maoqguv3M\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNRZmyLmKoHR7R6wsR\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNRxbdsxa5h3Kri8X2\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNSLAWedgW34Drou9e\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNSiFA2DxGpfc75AQu\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNT5ZkdNQPByUhJG5t\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNTUdBmsu1NJZcitUJ\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch6GNTrSTzf2tzdMKfk31\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 60
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-16T02:40:56.826Z",
     "finishedAt": "2026-11-16T02:42:35.850Z",
     "edition": "2026-11-15",
@@ -2421,35 +2461,6 @@
       ],
       "inputTokens": 3553,
       "outputTokens": 1748,
-      "fallbacks": 8
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-11-03T03:54:04.962Z",
-    "finishedAt": "2026-11-03T03:58:14.148Z",
-    "edition": "2026-11-03",
-    "slot": "manana",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 299,
-    "clusters": 213,
-    "candidates": 60,
-    "added": 50,
-    "updated": 0,
-    "eventsTotal": 50,
-    "sourcesOk": 11,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 9,
-      "aiErrors": [
-        "Failed to parse structured output: Error: Failed to parse structured output as JSON: Unterminated string in JSON at position 3683 (line 1 column 3684)"
-      ],
-      "inputTokens": 26242,
-      "outputTokens": 21924,
       "fallbacks": 8
     },
     "forced": false
