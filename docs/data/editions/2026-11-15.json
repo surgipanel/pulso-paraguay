@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-15T23:07:10.781Z",
+  "generatedAt": "2026-11-16T02:40:56.826Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -136,7 +136,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T23:07:10.781Z",
       "updatedSlot": "tarde",
-      "score": 20.81
+      "score": 20.51
     },
     {
       "id": "ev-1bbtdyr",
@@ -228,7 +228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 20.34
+      "score": 20.04
     },
     {
       "id": "ev-0dz24fu",
@@ -303,16 +303,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 20.23
+      "score": 19.94
     },
     {
       "id": "ev-1v7ep3n",
-      "title": "Recoleta FC, primer finalista de la Copa de Todos",
-      "summary": "Se disputó la primera semifinal de la Copa Paraguay 2026 en el estadio La Arboleda, donde Recoleta FC y Libertad igualaron 1-1 en tiempo normal, pero en la tanda de penales, el Canario ganó 5-4 y se convirtió en el primer finalista de la competencia.",
+      "title": "Sol de América le da una estocada letal a Cerro Porteño y es finalista de la Copa Paraguay",
+      "summary": "Sol de América, de la división Intermedia, realizó un trabajo modesto, pero seguro y efectivo, para resistir la presión de Cerro Porteño, llevar la definición a los penales y conseguir una clasificación histórica a la final de la Copa Paraguay.",
       "keyPoints": [
-        "Se disputó la primera semifinal de la Copa Paraguay 2026 en el estadio La Arboleda, donde Recoleta FC y Libertad igualaron 1-1 en tiempo normal, pero en la tanda de penales, el Canario ganó 5-4 y…",
-        "Dos expulsiones condicionaron al Gumarelo, pero el equipo de Tuyucuá resistió hasta el tiempo añadido.",
-        "Tumbó en los penales a Libertad tras lograr el empate agónico en el partido."
+        "Sol de América, de la división Intermedia, realizó un trabajo modesto, pero seguro y efectivo, para resistir la presión de Cerro Porteño, llevar la definición a los penales y conseguir una clasificación histórica a la final…",
+        "Desde la Asociación Paraguaya de Fútbol informaron que las entradas para el Juan Canuto Pettengill ya están agotadas.",
+        "Con la victoria de Sol de América, Recoleta aseguró un lugar en la Copa Libertadores 2027.",
+        "La eliminación de Cerro Porteño ante Sol de América dejó mucho más que una frustración deportiva."
       ],
       "category": "deportes",
       "scope": "paraguay",
@@ -320,6 +321,46 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Costas habla de reconstrucción en Cerro Porteño: “Tenemos que armar el grupo que queremos nosotros”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/15/costas-habla-de-reconstruccion-en-cerro-porteno-tenemos-que-armar-el-grupo-que-queremos-nosotros",
+          "publishedAt": "2026-11-16T00:53:04.000Z",
+          "image": "https://www.abc.com.py/resizer/XZ1zC1NFxt1YmUrigIst_KTVlj8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QNGWUHV3WVDFZJ54J3IK22KV2E.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Costas, tras otro fracaso de Cerro: “Tenemos que llegar 20 veces para hacer un gol”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/15/costas-tras-otro-fracaso-de-cerro-tenemos-que-llegar-20-veces-para-hacer-un-gol",
+          "publishedAt": "2026-11-16T00:44:45.000Z",
+          "image": "https://www.abc.com.py/resizer/rTCNKGo2ubAjcF3hUdMQBpXQ1P4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/W2FNYKMVFBBALLJ752WCALVL3M.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sol de América le da una estocada letal a Cerro Porteño y es finalista de la Copa Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/sol-de-america-le-da-una-estocada-letal-a-cerro-porteno-y-es-finalista-de-la-copa-paraguay",
+          "publishedAt": "2026-11-15T23:17:03.000Z",
+          "image": "https://www.abc.com.py/resizer/ee_d7bDDgLtN4fBwGPOs5kv1Rvo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JFT4REIZGVFRRB43E3BALEMU4Y.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Copa Paraguay: Sol de América elimina a Cerro Porteño en la tanda de penales y disputará la final ante Recoleta",
+          "url": "https://elnacional.com.py/deportes/copa-paraguay-sol-america-elimina-cerro-porteno-tanda-penales-disputara-final-recoleta-n115323",
+          "publishedAt": "2026-11-15T23:15:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afa3d2d22c67.jfif"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Entradas agotadas para Cerro Porteño-Sol de América en Itauguá",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/15/se-agotan-entradas-para-cerro-sol-por-la-copa-paraguay",
+          "publishedAt": "2026-11-15T18:59:40.000Z",
+          "image": "https://www.abc.com.py/resizer/yFShwvgUV1Sy4teHNzLPzbOd4YI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FSMZ3SXFIFFRPNOL66ZX7ETOU4.jpg"
+        },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
@@ -335,6 +376,14 @@
           "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/15/recoleta-da-el-gran-golpe",
           "publishedAt": "2026-11-15T03:02:12.000Z",
           "image": "https://www.lanacion.com.py/resizer/3jScUlWoUaN7mkfmEgEYWfhoxwY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MRHRIKYZQ5D5JK3SSEJYTU2UMA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Toda la presión para Cerro",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/15/toda-la-presion-para-cerro",
+          "publishedAt": "2026-11-15T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yRMEbN32b3dY58eb14OtRpFxUM4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGAOWMHFMNG6BBPT7ROWPQ5OPQ.jpg"
         },
         {
           "sourceId": "abc",
@@ -370,15 +419,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-15-at-083245.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/recoleta-fc-primer-finalista-de-la-copa-de-todos"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/JFT4REIZGVFRRB43E3BALEMU4Y.jpeg?auth=f1a23c32e9a8ca670eaa814efe3f3c4835031056dfdd5e95718294c736ac7198&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/sol-de-america-le-da-una-estocada-letal-a-cerro-porteno-y-es-finalista-de-la-copa-paraguay"
       },
       "firstSeenAt": "2026-11-15T08:07:12.501Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-15T12:07:10.804Z",
-      "updatedSlot": "manana",
-      "score": 17.04
+      "updatedAt": "2026-11-16T02:40:56.826Z",
+      "updatedSlot": "tarde",
+      "score": 17.85
     },
     {
       "id": "ev-03omkz0",
@@ -438,7 +487,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T15:34:50.492Z",
       "updatedSlot": "tarde",
-      "score": 14.18
+      "score": 13.89
     },
     {
       "id": "ev-0p0lo92",
@@ -506,7 +555,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 13.33
+      "score": 13.03
     },
     {
       "id": "ev-0uiax14",
@@ -564,7 +613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T23:07:10.781Z",
       "updatedSlot": "tarde",
-      "score": 11.66
+      "score": 11.36
     },
     {
       "id": "ev-1tzkb3p",
@@ -640,7 +689,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 11.58
+      "score": 11.28
     },
     {
       "id": "ev-1rooed6",
@@ -700,7 +749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 11.48
+      "score": 11.18
     },
     {
       "id": "ev-0z0kfbu",
@@ -758,7 +807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 11.45
+      "score": 11.16
     },
     {
       "id": "ev-0ho5khf",
@@ -809,7 +858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.03
     },
     {
       "id": "ev-100ha80",
@@ -860,7 +909,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.03
     },
     {
       "id": "ev-0ltp2hr",
@@ -944,7 +993,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T19:05:08.873Z",
       "updatedSlot": "tarde",
-      "score": 9.06
+      "score": 8.76
     },
     {
       "id": "ev-0w6rd8n",
@@ -986,7 +1035,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 8.34
+      "score": 8.04
     },
     {
       "id": "ev-0t1781x",
@@ -1079,7 +1128,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 6.33
+      "score": 6.03
     },
     {
       "id": "ev-0cbgr86",
@@ -1121,44 +1170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.75
-    },
-    {
-      "id": "ev-1iizndg",
-      "title": "El sí, quiero de Ana Mabel y Noé Maximiliano",
-      "summary": "Sin extracto disponible del medio. Consultá la nota original: El sí, quiero de Ana Mabel y Noé Maximiliano",
-      "keyPoints": [
-        "El sí, quiero de Ana Mabel y Noé Maximiliano"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "El sí, quiero de Ana Mabel y Noé Maximiliano",
-          "url": "https://www.ultimahora.com/el-si-quiero-de-ana-mabel-y-noe-maximiliano",
-          "publishedAt": "2026-11-15T07:00:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "El enlace de Marizelle y Maximiliano",
-          "url": "https://www.ultimahora.com/el-enlace-de-marizelle-y-maximiliano",
-          "publishedAt": "2026-11-15T07:00:00.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-15T08:07:12.501Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-15T08:07:12.501Z",
-      "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.5
     },
     {
       "id": "ev-0p50v90",
@@ -1245,6 +1257,43 @@
       "score": 5.5
     },
     {
+      "id": "ev-1iizndg",
+      "title": "El sí, quiero de Ana Mabel y Noé Maximiliano",
+      "summary": "Sin extracto disponible del medio. Consultá la nota original: El sí, quiero de Ana Mabel y Noé Maximiliano",
+      "keyPoints": [
+        "El sí, quiero de Ana Mabel y Noé Maximiliano"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El sí, quiero de Ana Mabel y Noé Maximiliano",
+          "url": "https://www.ultimahora.com/el-si-quiero-de-ana-mabel-y-noe-maximiliano",
+          "publishedAt": "2026-11-15T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "El enlace de Marizelle y Maximiliano",
+          "url": "https://www.ultimahora.com/el-enlace-de-marizelle-y-maximiliano",
+          "publishedAt": "2026-11-15T07:00:00.000Z",
+          "image": null
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-15T08:07:12.501Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-15T08:07:12.501Z",
+      "updatedSlot": "manana",
+      "score": 5.36
+    },
+    {
       "id": "ev-0o6f20a",
       "title": "Signature 27: Hello Moto, Hello Río",
       "summary": "Este nuevo equipo prémium de Motorola , sin duda alguna, viene para sacudir el mercado con prestaciones que lo hacen ser un “buque insignia” flagship que no va a pasar desapercibido y, a la vez, pretende conquistar a un público que busca un dispositivo que cumpla en todos los apartados posibles.",
@@ -1283,7 +1332,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.11
     },
     {
       "id": "ev-08vexzp",
@@ -1324,7 +1373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T12:07:10.804Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.11
     },
     {
       "id": "ev-17vuz6g",
@@ -1366,7 +1415,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-0zvipni",
@@ -1408,7 +1457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-05fnooi",
@@ -1450,7 +1499,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-0zjus9x",
@@ -1488,7 +1537,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.03
     },
     {
       "id": "ev-0ae441e",
@@ -1530,7 +1579,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 5
     },
     {
       "id": "ev-1v5pnq3",
@@ -1563,7 +1612,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.44
     },
     {
       "id": "ev-16hpybk",
@@ -1592,7 +1641,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.44
     },
     {
       "id": "ev-1dsws90",
@@ -1621,7 +1670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.36
     },
     {
       "id": "ev-07td1jm",
@@ -1650,7 +1699,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.36
     },
     {
       "id": "ev-08xzo54",
@@ -1679,7 +1728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.36
     },
     {
       "id": "ev-1iq5grd",
@@ -1708,7 +1757,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.36
     },
     {
       "id": "ev-0c1r2ro",
@@ -1737,7 +1786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.36
     },
     {
       "id": "ev-15sy3wx",
@@ -1770,7 +1819,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.57
+      "score": 4.27
     },
     {
       "id": "ev-1l2io3y",
@@ -1803,7 +1852,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.52
+      "score": 4.23
     },
     {
       "id": "ev-1ybwlep",
@@ -1832,7 +1881,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.18
     },
     {
       "id": "ev-15v9k8x",
@@ -1861,7 +1910,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-1476m3z",
@@ -1890,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-1uqjgq0",
@@ -1923,7 +1972,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-0o9xq4z",
@@ -1956,7 +2005,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-0ce20sj",
@@ -1985,7 +2034,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-0lkuubi",
@@ -2014,7 +2063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.11
     },
     {
       "id": "ev-0xrtcae",
@@ -2047,7 +2096,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-047rrhk",
@@ -2080,7 +2129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-1mvepum",
@@ -2113,7 +2162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-15T08:07:12.501Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.03
     },
     {
       "id": "ev-09txgaw",
@@ -2279,6 +2328,13 @@
       "added": 0,
       "updated": 2,
       "candidates": 4
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-16T02:40:56.826Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 6
     }
   ]
 }
