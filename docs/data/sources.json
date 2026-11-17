@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-17T02:34:07.666Z",
+  "checkedAt": "2026-11-17T05:01:49.893Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -15,10 +15,10 @@
       "items": 100,
       "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-11-17T02:30:10.000Z",
-      "ms": 912,
+      "newestAt": "2026-11-17T05:00:00.000Z",
+      "ms": 570,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "lanacion",
@@ -33,10 +33,10 @@
       "items": 100,
       "freshItems": 99,
       "undated": 0,
-      "newestAt": "2026-11-17T00:58:15.000Z",
-      "ms": 618,
+      "newestAt": "2026-11-17T04:14:48.000Z",
+      "ms": 520,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 189,
+      "items": 183,
       "freshItems": 109,
       "undated": 0,
       "newestAt": "2026-11-17T02:09:22.000Z",
-      "ms": 94774,
+      "ms": 92085,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "elnacional",
@@ -70,9 +70,9 @@
       "freshItems": 36,
       "undated": 0,
       "newestAt": "2026-11-16T22:31:00.000Z",
-      "ms": 782,
+      "ms": 607,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "adn",
@@ -88,9 +88,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-11-16T21:52:36.000Z",
-      "ms": 21461,
+      "ms": 19503,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 6,
       "undated": 0,
       "newestAt": "2026-11-16T15:49:08.000Z",
-      "ms": 53231,
+      "ms": 51607,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "telefuturo",
@@ -124,9 +124,9 @@
       "freshItems": 5,
       "undated": 0,
       "newestAt": "2026-11-16T19:40:50.000Z",
-      "ms": 42800,
+      "ms": 42313,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "vanguardia",
@@ -142,9 +142,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-11-16T18:30:27.000Z",
-      "ms": 26890,
+      "ms": 26753,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "hoy",
@@ -160,9 +160,9 @@
       "freshItems": 12,
       "undated": 0,
       "newestAt": "2026-11-17T00:30:00.000Z",
-      "ms": 27143,
+      "ms": 28319,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "ip",
@@ -172,15 +172,15 @@
       "url": "https://mediosdelestado.gov.py/feed/",
       "region": "nacional",
       "note": "La Agencia IP dejó de publicar en ip.gov.py en agosto de 2026 y pasó a mediosdelestado.gov.py (portal de los medios públicos). Publica pocas notas por semana.",
-      "status": "error",
-      "httpStatus": null,
-      "items": 0,
-      "freshItems": 0,
+      "status": "ok",
+      "httpStatus": 200,
+      "items": 10,
+      "freshItems": 2,
       "undated": 0,
-      "newestAt": null,
-      "ms": 79502,
-      "error": "timeout tras 25000 ms",
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "newestAt": "2026-11-16T16:59:34.000Z",
+      "ms": 2405,
+      "error": null,
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     },
     {
       "id": "5dias",
@@ -193,12 +193,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 38,
-      "freshItems": 32,
+      "freshItems": 31,
       "undated": 0,
       "newestAt": "2026-11-16T20:22:00.000Z",
-      "ms": 23969,
+      "ms": 22908,
       "error": null,
-      "checkedAt": "2026-11-17T02:34:07.666Z"
+      "checkedAt": "2026-11-17T05:01:49.893Z"
     }
   ]
 }
