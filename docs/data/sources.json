@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T23:07:10.385Z",
+  "checkedAt": "2026-11-17T02:34:07.666Z",
   "timezone": "America/Asuncion",
   "sources": [
     {
@@ -15,10 +15,10 @@
       "items": 100,
       "freshItems": 100,
       "undated": 0,
-      "newestAt": "2026-11-16T23:05:08.000Z",
-      "ms": 458,
+      "newestAt": "2026-11-17T02:30:10.000Z",
+      "ms": 912,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "lanacion",
@@ -31,12 +31,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 100,
-      "freshItems": 98,
+      "freshItems": 99,
       "undated": 0,
-      "newestAt": "2026-11-16T23:00:28.000Z",
-      "ms": 479,
+      "newestAt": "2026-11-17T00:58:15.000Z",
+      "ms": 618,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "ultimahora",
@@ -48,13 +48,13 @@
       "note": "No publica RSS; se usa su sitemap de noticias (título + fecha) y la descripción pública de cada nota.",
       "status": "ok",
       "httpStatus": 200,
-      "items": 177,
-      "freshItems": 98,
+      "items": 189,
+      "freshItems": 109,
       "undated": 0,
-      "newestAt": "2026-11-16T22:56:38.000Z",
-      "ms": 94779,
+      "newestAt": "2026-11-17T02:09:22.000Z",
+      "ms": 94774,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "elnacional",
@@ -70,9 +70,9 @@
       "freshItems": 36,
       "undated": 0,
       "newestAt": "2026-11-16T22:31:00.000Z",
-      "ms": 546,
+      "ms": 782,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "adn",
@@ -88,9 +88,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-11-16T21:52:36.000Z",
-      "ms": 18046,
+      "ms": 21461,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "npy",
@@ -106,9 +106,9 @@
       "freshItems": 6,
       "undated": 0,
       "newestAt": "2026-11-16T15:49:08.000Z",
-      "ms": 52435,
+      "ms": 53231,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "telefuturo",
@@ -124,9 +124,9 @@
       "freshItems": 5,
       "undated": 0,
       "newestAt": "2026-11-16T19:40:50.000Z",
-      "ms": 42487,
+      "ms": 42800,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "vanguardia",
@@ -142,9 +142,9 @@
       "freshItems": 10,
       "undated": 0,
       "newestAt": "2026-11-16T18:30:27.000Z",
-      "ms": 28908,
+      "ms": 26890,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "hoy",
@@ -159,10 +159,10 @@
       "items": 12,
       "freshItems": 12,
       "undated": 0,
-      "newestAt": "2026-11-16T22:52:47.624Z",
-      "ms": 25748,
+      "newestAt": "2026-11-17T00:30:00.000Z",
+      "ms": 27143,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "ip",
@@ -172,15 +172,15 @@
       "url": "https://mediosdelestado.gov.py/feed/",
       "region": "nacional",
       "note": "La Agencia IP dejó de publicar en ip.gov.py en agosto de 2026 y pasó a mediosdelestado.gov.py (portal de los medios públicos). Publica pocas notas por semana.",
-      "status": "ok",
-      "httpStatus": 200,
-      "items": 10,
-      "freshItems": 2,
+      "status": "error",
+      "httpStatus": null,
+      "items": 0,
+      "freshItems": 0,
       "undated": 0,
-      "newestAt": "2026-11-16T16:59:34.000Z",
-      "ms": 73041,
-      "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "newestAt": null,
+      "ms": 79502,
+      "error": "timeout tras 25000 ms",
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     },
     {
       "id": "5dias",
@@ -193,12 +193,12 @@
       "status": "ok",
       "httpStatus": 200,
       "items": 38,
-      "freshItems": 33,
+      "freshItems": 32,
       "undated": 0,
       "newestAt": "2026-11-16T20:22:00.000Z",
-      "ms": 23655,
+      "ms": 23969,
       "error": null,
-      "checkedAt": "2026-11-16T23:07:10.385Z"
+      "checkedAt": "2026-11-17T02:34:07.666Z"
     }
   ]
 }

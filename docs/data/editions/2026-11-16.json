@@ -1,25 +1,43 @@
 {
   "date": "2026-11-16",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-16T23:07:10.385Z",
+  "generatedAt": "2026-11-17T02:34:07.666Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-0rvir7c",
-      "title": "El Papa concluye su viaje a Sudamérica con una multitudinaria misa",
-      "summary": "Con palabras cargadas de emoción durante una gran misa al aire libre en Lima, la capital peruana, el papa León XIV puso fin este lunes a su viaje de doce días por Sudamérica. En su homilía de despedida, celebrada en la base aérea de Las Palmas, exclamó ante el millón y medio de personas allí …",
+      "title": "De la suite en el Escolta Presidencial a la cárcel de Viñas Cué: los privilegios de Peña que escandalizaron",
+      "summary": "El acondicionamiento de un gimnasio, las comodidades de una habitación con baño privado y climatización, y la denuncia sobre el ingreso de un camión de comidas al predio militar desataron cuestionamientos sobre el trato recibido por el expresidente Santiago Peña durante su reclusión.",
       "keyPoints": [
-        "Con palabras cargadas de emoción durante una gran misa al aire libre en Lima, la capital peruana, el papa León XIV puso fin este lunes a su viaje de doce días por Sudamérica.",
-        "León XIV concluye este lunes en Lima una emotiva gira de regreso a Sudamérica que disipó las dudas sobre su recuperación de una cirugía de cáncer y puso de relieve la prioridad de justicia social de…"
+        "El acondicionamiento de un gimnasio, las comodidades de una habitación con baño privado y climatización, y la denuncia sobre el ingreso de un camión de comidas al predio militar desataron cuestionamientos sobre el trato recibido por…",
+        "El presidente Pedro Alliana instruyó al ministro de Defensa, Óscar González, cambiar al coronel José David Daiub Fatecha, comandante del Regimiento Escolta Presidencial (REP).",
+        "Por orden del juez Penal de Garantías Osmar Legal, el expresidente arribó esposado y con chaleco antibalas al penal del barrio Botánico poco después de las 15:00 de este lunes.",
+        "El diputado cuestiona las condiciones de reclusión del expresidente y sostiene que debe cumplir la prisión preventiva sin beneficios especiales."
       ],
-      "category": "tecnologia",
-      "scope": "internacional",
+      "category": "politica",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana designa nuevo comandante del Escolta Presidencial",
+          "url": "https://www.lanacion.com.py/politica/2026/11/16/alliana-designa-nuevo-comandante-del-escolta-presidencial",
+          "publishedAt": "2026-11-17T00:27:39.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Tdl6NyRKkXoBe8crWjhqDREnNEA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/A2CALGCFIFEMLFCZKSLXLZMUCI.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Santiago Peña es trasladado a una cárcel militar para evitar \"privilegios\"",
+          "url": "https://www.abc.com.py/internacionales/2026/11/16/santiago-pena-es-trasladado-a-una-carcel-militar-para-evitar-privilegios",
+          "publishedAt": "2026-11-17T00:00:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -446,15 +464,15 @@
         }
       ],
       "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-16-at-164128.jpeg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/el-papa-concluye-su-viaje-a-sudamerica-con-una-multitudinaria-misa"
+        "url": "https://statics.elnacional.com.py/2026/11/6afb4266cfddd.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/de-suite-escolta-presidencial-carcel-vinas-cue-privilegios-pena-escandalizaron-n115361"
       },
       "firstSeenAt": "2026-11-16T08:07:11.865Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-16T23:07:10.385Z",
+      "updatedAt": "2026-11-17T02:34:07.666Z",
       "updatedSlot": "tarde",
-      "score": 33.37
+      "score": 35.82
     },
     {
       "id": "ev-0rcxiqs",
@@ -594,7 +612,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T19:37:11.765Z",
       "updatedSlot": "tarde",
-      "score": 23.55
+      "score": 23.26
     },
     {
       "id": "ev-0y0i87r",
@@ -686,7 +704,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T16:07:11.919Z",
       "updatedSlot": "tarde",
-      "score": 17.41
+      "score": 17.12
     },
     {
       "id": "ev-10z44bz",
@@ -744,7 +762,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T16:07:11.919Z",
       "updatedSlot": "tarde",
-      "score": 17.33
+      "score": 17.05
     },
     {
       "id": "ev-028hxmt",
@@ -812,7 +830,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 16.66
+      "score": 16.37
     },
     {
       "id": "ev-0n7skl2",
@@ -862,7 +880,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T19:37:11.765Z",
       "updatedSlot": "tarde",
-      "score": 13.54
+      "score": 13.25
     },
     {
       "id": "ev-01jjviz",
@@ -936,7 +954,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T23:07:10.385Z",
       "updatedSlot": "tarde",
-      "score": 12.41
+      "score": 12.12
     },
     {
       "id": "ev-0httffb",
@@ -987,7 +1005,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 12.33
+      "score": 12.04
     },
     {
       "id": "ev-0abk21d",
@@ -1036,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T19:37:11.765Z",
       "updatedSlot": "tarde",
-      "score": 10.68
+      "score": 10.39
     },
     {
       "id": "ev-04a1w2j",
@@ -1086,7 +1104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T12:07:10.333Z",
       "updatedSlot": "manana",
-      "score": 9.89
+      "score": 9.61
     },
     {
       "id": "ev-0n0c91i",
@@ -1137,7 +1155,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 9.49
+      "score": 9.21
     },
     {
       "id": "ev-091glx9",
@@ -1188,7 +1206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 9.47
+      "score": 9.18
     },
     {
       "id": "ev-0ge2w6n",
@@ -1239,7 +1257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.04
     },
     {
       "id": "ev-1tf5i5i",
@@ -1281,7 +1299,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T16:07:11.919Z",
       "updatedSlot": "tarde",
-      "score": 9.31
+      "score": 9.02
     },
     {
       "id": "ev-1jfyz5m",
@@ -1323,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 8.04
+      "score": 8
     },
     {
       "id": "ev-0ne4j48",
@@ -1365,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T12:07:10.333Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-0qpqcm4",
@@ -1407,7 +1425,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 5.47
+      "score": 5.19
     },
     {
       "id": "ev-04yyzty",
@@ -1449,7 +1467,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.17
     },
     {
       "id": "ev-18yqvt0",
@@ -1491,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.04
     },
     {
       "id": "ev-0yoeuto",
@@ -1524,7 +1542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-09cyaxg",
@@ -1557,7 +1575,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-0lx6b7l",
@@ -1586,7 +1604,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-1mi5dh7",
@@ -1615,7 +1633,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-1l77260",
@@ -1644,7 +1662,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0xrrr0e",
@@ -1673,7 +1691,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1g1y7qf",
@@ -1702,7 +1720,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-0mvo51e",
@@ -1731,7 +1749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
     },
     {
       "id": "ev-1dwus5f",
@@ -1760,7 +1778,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.19
     },
     {
       "id": "ev-1djdbhh",
@@ -1789,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.18
     },
     {
       "id": "ev-0l6ungt",
@@ -1822,7 +1840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1bosfdm",
@@ -1851,7 +1869,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-1vwyugo",
@@ -1880,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.41
+      "score": 4.12
     },
     {
       "id": "ev-0g9ds84",
@@ -1913,7 +1931,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.4
+      "score": 4.11
     },
     {
       "id": "ev-1qkum64",
@@ -1946,7 +1964,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.36
+      "score": 4.07
     },
     {
       "id": "ev-104fq6y",
@@ -1979,7 +1997,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.04
     },
     {
       "id": "ev-1ybjirw",
@@ -2012,7 +2030,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.04
     },
     {
       "id": "ev-0zyjxeh",
@@ -2045,7 +2063,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.04
     },
     {
       "id": "ev-1fbhz4v",
@@ -2074,7 +2092,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 4.15
+      "score": 4
     },
     {
       "id": "ev-1s8kr7l",
@@ -2367,7 +2385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 2.89
+      "score": 2.6
     },
     {
       "id": "ev-1v1fycx",
@@ -2396,7 +2414,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 2.24
+      "score": 1.95
     },
     {
       "id": "ev-02m320j",
@@ -2425,7 +2443,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.95
     },
     {
       "id": "ev-08qxujh",
@@ -2454,7 +2472,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-16T08:07:11.865Z",
       "updatedSlot": "manana",
-      "score": 2.23
+      "score": 1.95
     }
   ],
   "runs": [
@@ -2492,6 +2510,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 9
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-17T02:34:07.666Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 7
     }
   ]
 }
