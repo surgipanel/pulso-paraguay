@@ -1,20 +1,20 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-18T04:10:08.191Z",
+  "generatedAt": "2026-11-18T08:07:13.574Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-16zwscr",
-      "title": "Emiliano Rolón renuncia al cargo de fiscal general del Estado",
-      "summary": "Emiliano Rolón renunció al cargo de fiscal general del Estado y la fiscal adjunta Alba Rocío Cantero Vera asumirá interinamente la titularidad del Ministerio Público desde este 18 de noviembre. A puertas de un juicio político, el Fiscal General de Estado Emiliano Rolón presenta la renuncia al cargo.",
+      "title": "PLRA atribuye renuncia de Rolón a presión ciudadana y amenaza de juicio político",
+      "summary": "El presidente del Partido Liberal Radical Auténtico (PLRA), Alcides Riveros, atribuyó la salida de Emiliano Rolón de la Fiscalía General del Estado a la presión ejercida por la ciudadanía y al avance de las gestiones para someterlo a juicio político.",
       "keyPoints": [
-        "Emiliano Rolón renunció al cargo de fiscal general del Estado y la fiscal adjunta Alba Rocío Cantero Vera asumirá interinamente la titularidad del Ministerio Público desde este 18 de noviembre.",
-        "A puertas de un juicio político, el Fiscal General de Estado Emiliano Rolón presenta la renuncia al cargo.",
-        "Emiliano Rolón presentó su renuncia como fiscal general del Estado, dejando sin efecto el proceso de juicio político impulsado en la Cámara de Diputados.",
-        "La disposición se habria dado ante el inminente juicio político en la Cámara de Diputados quienes ya contarían con los votos."
+        "El presidente del Partido Liberal Radical Auténtico (PLRA), Alcides Riveros, atribuyó la salida de Emiliano Rolón de la Fiscalía General del Estado a la presión ejercida por la ciudadanía y al avance de las gestiones para…",
+        "El presidente del Partido Liberal Radical Auténtico (PLRA) Alcides Riveros, emitió un comunicado en la cual señala que la renuncia de Emiliano Rolón a la Fiscalía General responde al reclamo ciudadano y al inminente juicio político…",
+        "Rolón asumió el cargo en el 2023 y debió permanecer hasta el 2028, en cumplimiento de los 5 años establecidos en la Constitución Nacional.",
+        "La bancada colorada disidente de Diputados anunció que acompañará el pedido de juicio político al fiscal general del Estado."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Presión",
+          "url": "https://www.ultimahora.com/presion",
+          "publishedAt": "2026-11-18T07:00:00.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -53,6 +61,22 @@
           "url": "https://www.abc.com.py/politica/2026/11/17/es-irregular-que-emiliano-rolon-designe-a-su-propio-interino-afirma-cecilia-perez",
           "publishedAt": "2026-11-17T22:24:47.000Z",
           "image": "https://www.abc.com.py/resizer/06Hz0MWCBPuS5eBTOxElZe58-E8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CYB7M4GLN5EI7NMVCRRCD6T6W4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "PLRA atribuye renuncia de Rolón a presión ciudadana y amenaza de juicio político",
+          "url": "https://www.adndigital.com.py/plra-atribuye-renuncia-de-rolon-a-presion-ciudadana-y-amenaza-de-juicio-politico",
+          "publishedAt": "2026-11-17T20:23:19.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-06-at-075115.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "PLRA afirma que renuncia de Rolón respondió al reclamo ciudadano y al juicio político",
+          "url": "https://www.lanacion.com.py/politica/2026/11/17/plra-afirma-que-renuncia-de-rolon-respondio-al-reclamo-ciudadano-y-al-juicio-politico",
+          "publishedAt": "2026-11-17T19:45:16.000Z",
+          "image": "https://www.lanacion.com.py/resizer/foFi8u8MfmIN_0xK1QRilf7LgSc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CWZJKESB75F5JIESJ6HSTDMANI.jpg"
         },
         {
           "sourceId": "elnacional",
@@ -111,6 +135,14 @@
           "image": "https://www.lanacion.com.py/resizer/N22WIJ3ENT2YF_3EtWQkppi_3Vs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GZ76BVLQZBCMHDOT5K5OU2S3NI.jpeg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Presentan pedido de juicio político contra el fiscal general, diputados tendrían los votos",
+          "url": "https://elnacional.com.py/politica/presentan-pedido-juicio-politico-fiscal-general-diputados-tendrian-votos-n115389",
+          "publishedAt": "2026-11-17T13:13:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/02/18b36ddfeabab6b3af95b84bbf8edd67.jpeg"
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Oficialismo apoya juicio político al fiscal general del Estado",
@@ -136,15 +168,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/3HTKCEJ24BHMZGTQ3HYEUKQTUU.jpg?auth=aa3910294447e9cd852c332b32d36b9e932a6d760f653f51dfe817e5e03d256c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/18/renuncia-fiscal-general-luego-de-avanzar-el-juicio-politico"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-06-at-075115.jpeg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/plra-atribuye-renuncia-de-rolon-a-presion-ciudadana-y-amenaza-de-juicio-politico"
       },
       "firstSeenAt": "2026-11-18T04:10:08.191Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-18T04:10:08.191Z",
+      "updatedAt": "2026-11-18T08:07:13.574Z",
       "updatedSlot": "manana",
-      "score": 20.99
+      "score": 26.91
     },
     {
       "id": "ev-1jr8vhn",
@@ -252,7 +284,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 20.95
+      "score": 20.62
     },
     {
       "id": "ev-0wq08kx",
@@ -336,7 +368,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 17.91
+      "score": 17.58
     },
     {
       "id": "ev-11eow5u",
@@ -412,7 +444,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 17.7
+      "score": 17.37
     },
     {
       "id": "ev-1of355k",
@@ -480,7 +512,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 14.91
+      "score": 14.58
     },
     {
       "id": "ev-0y34wvn",
@@ -531,7 +563,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 13.55
+      "score": 13.22
     },
     {
       "id": "ev-0ivzvd3",
@@ -581,7 +613,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 13.51
+      "score": 13.18
     },
     {
       "id": "ev-063zeo7",
@@ -641,7 +673,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 12.27
+      "score": 11.94
     },
     {
       "id": "ev-1ctx6mg",
@@ -701,7 +733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 11.91
+      "score": 11.58
     },
     {
       "id": "ev-01kzc9g",
@@ -752,7 +784,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 10.91
+      "score": 10.58
     },
     {
       "id": "ev-0jv16ya",
@@ -803,7 +835,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 10.91
+      "score": 10.58
+    },
+    {
+      "id": "ev-0ch1nkr",
+      "title": "Desde la ex Tacumbú, Miguel Vázquez otorgó un amplio poder a seis abogados",
+      "summary": "El mismo día de su ingreso al penal, el empresario recibió a una escribana para firmar un mandato en representación del Grupo Vázquez S.A. La escritura habilita a los profesionales a gestionar litigios, levantar embargos y retirar cheques judiciales, pese al bloqueo de bienes dictado en el caso Ueno Bank.",
+      "keyPoints": [
+        "El mismo día de su ingreso al penal, el empresario recibió a una escribana para firmar un mandato en representación del Grupo Vázquez S.A.",
+        "Una escribana ingresó al penal para autenticar el documento firmado por el ex CEO del conglomerado.",
+        "El Ministerio de Justicia aclaró este martes que el ingreso de una escribana al exTacumbú y la firma de un poder notarial por parte de Federico Miguel Vázquez se realizaron conforme a la ley."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Justicia sostiene que trámite notarial de Miguel Vázquez en la cárcel se ajustó a la ley",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/17/justicia-sostiene-que-tramite-notarial-de-miguel-vazquez-en-la-carcel-se-ajusto-a-la-ley",
+          "publishedAt": "2026-11-17T17:42:31.411Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/QBX3GOEYVJA7JHXM43Q7MXUS6Y.jpeg?auth=5c4268be323ff26ed2cfdde75a297cba02717e1461efc65fe40678347ea124cd&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Desde la ex Tacumbú, Miguel Vázquez otorgó un amplio poder a seis abogados",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/17/desde-la-ex-tacumbu-miguel-vazquez-otorgo-un-amplio-poder-a-seis-abogados",
+          "publishedAt": "2026-11-17T16:33:57.608Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CP6TNWQ4HFDIPJESGAERMNTV7E.jpg?auth=ec987d3021b8067f75101838050394b0a57cc572022f1478974221bc51bc93c7&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Una escribana ingresó a Tacumbú para autenticar poder firmado por Miguel Vázquez exCEO de ueno bank",
+          "url": "https://elnacional.com.py/politica/una-escribana-ingreso-tacumbu-autenticar-poder-firmado-miguel-vazquez-exceo-ueno-bank-n115395",
+          "publishedAt": "2026-11-17T14:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedd98d145fe.png"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/CP6TNWQ4HFDIPJESGAERMNTV7E.jpg?auth=ec987d3021b8067f75101838050394b0a57cc572022f1478974221bc51bc93c7&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/17/desde-la-ex-tacumbu-miguel-vazquez-otorgo-un-amplio-poder-a-seis-abogados"
+      },
+      "firstSeenAt": "2026-11-18T04:10:08.191Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-18T08:07:13.574Z",
+      "updatedSlot": "manana",
+      "score": 9.8
     },
     {
       "id": "ev-01nvoi2",
@@ -845,7 +928,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.58
     },
     {
       "id": "ev-17d8ozk",
@@ -887,7 +970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.58
     },
     {
       "id": "ev-11xbe60",
@@ -929,7 +1012,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.81
+      "score": 9.48
     },
     {
       "id": "ev-0ju8yw8",
@@ -971,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.8
+      "score": 9.47
     },
     {
       "id": "ev-03fe1og",
@@ -1013,7 +1096,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.66
+      "score": 9.34
+    },
+    {
+      "id": "ev-075i7iq",
+      "title": "Xi recibe a Putin antes de su histórica reunión trilateral con Trump",
+      "summary": "La cita a tres bandas del jueves ha despertado temores de que los líderes puedan decidir el destino de Ucrania sin consultar a Kiev ni a Europa o que busquen dividir el mundo en esferas de influencia. Washington ha dado a entender que no se espera que se aborde el tema del conflicto de Ucrania , antes de que Trump dijera que sí se haría.",
+      "keyPoints": [
+        "La cita a tres bandas del jueves ha despertado temores de que los líderes puedan decidir el destino de Ucrania sin consultar a Kiev ni a Europa o que busquen dividir el mundo en esferas de…",
+        "El portavoz de la Oficina de Asuntos de Taiwán del Consejo de Estado (Ejecutivo) del gigante asiático Chen Binhua afirmó, a través del principio de 'una sola China', que Taiwán es \"una parte\" del gigante asiático."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "China defiende que Taiwán es un \"asunto interno\" ante la reunión entre Xi, Trump y Putin",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/china-defiende-que-taiwan-es-un-asunto-interno-ante-la-reunion-entre-xi-trump-y-putin",
+          "publishedAt": "2026-11-18T05:30:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi recibe a Putin antes de su histórica reunión trilateral con Trump",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/xi-recibe-a-putin-antes-de-su-historica-reunion-trilateral-con-trump",
+          "publishedAt": "2026-11-18T03:58:15.000Z",
+          "image": "https://www.abc.com.py/resizer/GMVVJp0RKyUuGWAOhsJlTifhJAA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ASTUCJBHNZE33DTTXNUKLOAE3I.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Putin llega a China para la APEC con una inédita cita trilateral con Trump y Xi agendada",
+          "url": "https://www.ultimahora.com/putin-llega-a-china-para-la-apec-con-una-inedita-cita-trilateral-con-trump-y-xi-agendada",
+          "publishedAt": "2026-11-17T23:48:16.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Putin llega a China para la APEC con una inédita cita trilateral con Trump y Xi agendada",
+          "url": "https://www.abc.com.py/internacionales/2026/11/17/putin-llega-a-china-para-la-apec-con-una-inedita-cita-trilateral-con-trump-y-xi-agendada",
+          "publishedAt": "2026-11-17T22:50:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ASTUCJBHNZE33DTTXNUKLOAE3I.jpg?auth=4297c4a729ded073c370bb8690af8acdf65eaeff2bc0906f7752925cd78ae2fb&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/18/xi-recibe-a-putin-antes-de-su-historica-reunion-trilateral-con-trump"
+      },
+      "firstSeenAt": "2026-11-18T04:10:08.191Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-18T08:07:13.574Z",
+      "updatedSlot": "manana",
+      "score": 9.28
     },
     {
       "id": "ev-0ctgfr4",
@@ -1055,7 +1196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.56
+      "score": 9.23
     },
     {
       "id": "ev-1wdog3k",
@@ -1097,7 +1238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.52
+      "score": 9.19
     },
     {
       "id": "ev-0betj9z",
@@ -1139,7 +1280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.35
+      "score": 9.02
     },
     {
       "id": "ev-0y87p06",
@@ -1181,100 +1322,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 9.18
-    },
-    {
-      "id": "ev-0ch1nkr",
-      "title": "Desde la ex Tacumbú, Miguel Vázquez otorgó un amplio poder a seis abogados",
-      "summary": "El mismo día de su ingreso al penal, el empresario recibió a una escribana para firmar un mandato en representación del Grupo Vázquez S.A. La escritura habilita a los profesionales a gestionar litigios, levantar embargos y retirar cheques judiciales, pese al bloqueo de bienes dictado en el caso Ueno Bank.",
-      "keyPoints": [
-        "El mismo día de su ingreso al penal, el empresario recibió a una escribana para firmar un mandato en representación del Grupo Vázquez S.A.",
-        "Una escribana ingresó al penal para autenticar el documento firmado por el ex CEO del conglomerado."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Desde la ex Tacumbú, Miguel Vázquez otorgó un amplio poder a seis abogados",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/17/desde-la-ex-tacumbu-miguel-vazquez-otorgo-un-amplio-poder-a-seis-abogados",
-          "publishedAt": "2026-11-17T16:33:57.608Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/CP6TNWQ4HFDIPJESGAERMNTV7E.jpg?auth=ec987d3021b8067f75101838050394b0a57cc572022f1478974221bc51bc93c7&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Una escribana ingresó a Tacumbú para autenticar poder firmado por Miguel Vázquez exCEO de ueno bank",
-          "url": "https://elnacional.com.py/politica/una-escribana-ingreso-tacumbu-autenticar-poder-firmado-miguel-vazquez-exceo-ueno-bank-n115395",
-          "publishedAt": "2026-11-17T14:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6aedd98d145fe.png"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/CP6TNWQ4HFDIPJESGAERMNTV7E.jpg?auth=ec987d3021b8067f75101838050394b0a57cc572022f1478974221bc51bc93c7&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/17/desde-la-ex-tacumbu-miguel-vazquez-otorgo-un-amplio-poder-a-seis-abogados"
-      },
-      "firstSeenAt": "2026-11-18T04:10:08.191Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-18T04:10:08.191Z",
-      "updatedSlot": "manana",
-      "score": 9.03
-    },
-    {
-      "id": "ev-075i7iq",
-      "title": "Putin llega a China para la APEC con una inédita cita trilateral con Trump y Xi agendada",
-      "summary": "La llegada del mandatario ruso en la madrugada local de este miércoles se produce antes de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), que se celebrará entre el miércoles y el jueves y supondrá su primera participación en una cita de líderes de este organismo desde 2017.",
-      "keyPoints": [
-        "La llegada del mandatario ruso en la madrugada local de este miércoles se produce antes de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), que se celebrará entre el miércoles y el jueves y supondrá…",
-        "El presidente ruso, Vladímir Putin, llegó este miércoles a la ciudad china de Shenzhen (sureste) para participar en la cumbre de líderes de la APEC, donde tiene prevista una reunión trilateral con sus homólogos estadounidense, Donald…",
-        "La cita a tres bandas del jueves ha despertado temores de que los líderes puedan decidir el destino de Ucrania sin consultar a Kiev ni a Europa o que busquen dividir el mundo en esferas de…"
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Xi recibe a Putin antes de su histórica reunión trilateral con Trump",
-          "url": "https://www.abc.com.py/internacionales/2026/11/18/xi-recibe-a-putin-antes-de-su-historica-reunion-trilateral-con-trump",
-          "publishedAt": "2026-11-18T03:58:15.000Z",
-          "image": "https://www.abc.com.py/resizer/GMVVJp0RKyUuGWAOhsJlTifhJAA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ASTUCJBHNZE33DTTXNUKLOAE3I.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Putin llega a China para la APEC con una inédita cita trilateral con Trump y Xi agendada",
-          "url": "https://www.ultimahora.com/putin-llega-a-china-para-la-apec-con-una-inedita-cita-trilateral-con-trump-y-xi-agendada",
-          "publishedAt": "2026-11-17T23:48:16.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Putin llega a China para la APEC con una inédita cita trilateral con Trump y Xi agendada",
-          "url": "https://www.abc.com.py/internacionales/2026/11/17/putin-llega-a-china-para-la-apec-con-una-inedita-cita-trilateral-con-trump-y-xi-agendada",
-          "publishedAt": "2026-11-17T22:50:10.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ASTUCJBHNZE33DTTXNUKLOAE3I.jpg?auth=4297c4a729ded073c370bb8690af8acdf65eaeff2bc0906f7752925cd78ae2fb&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/18/xi-recibe-a-putin-antes-de-su-historica-reunion-trilateral-con-trump"
-      },
-      "firstSeenAt": "2026-11-18T04:10:08.191Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-18T04:10:08.191Z",
-      "updatedSlot": "manana",
-      "score": 8.48
+      "score": 8.85
     },
     {
       "id": "ev-1w0hp0a",
@@ -1325,7 +1373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 7.91
+      "score": 7.58
     },
     {
       "id": "ev-11kespa",
@@ -1376,7 +1424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 7.91
+      "score": 7.58
     },
     {
       "id": "ev-1onnw5q",
@@ -1414,7 +1462,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 7.31
+      "score": 6.98
     },
     {
       "id": "ev-0psyjat",
@@ -1456,7 +1504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-11indjl",
@@ -1498,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-1t376yl",
@@ -1540,7 +1588,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-1m2f9il",
@@ -1582,7 +1630,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-1bhxzwz",
@@ -1624,7 +1672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-1nbpoqd",
@@ -1666,7 +1714,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.58
     },
     {
       "id": "ev-0rfbd2i",
@@ -1704,7 +1752,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.57
+      "score": 6.24
     },
     {
       "id": "ev-0fyd4la",
@@ -1745,7 +1793,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.51
+      "score": 6.18
     },
     {
       "id": "ev-1952r7v",
@@ -1787,7 +1835,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 6.02
+      "score": 5.69
     },
     {
       "id": "ev-1kk7zpi",
@@ -1820,7 +1868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0jr87kh",
@@ -1853,7 +1901,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.66
     },
     {
       "id": "ev-0yha0d5",
@@ -1895,7 +1943,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.64
     },
     {
       "id": "ev-1l6ufot",
@@ -1928,7 +1976,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.58
     },
     {
       "id": "ev-01143l2",
@@ -1961,7 +2009,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.58
     },
     {
       "id": "ev-1tzjwts",
@@ -1994,7 +2042,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.58
     },
     {
       "id": "ev-0oax5gh",
@@ -2027,7 +2075,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.58
     },
     {
       "id": "ev-1w6fr1h",
@@ -2060,7 +2108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.58
     },
     {
       "id": "ev-1j5jkfz",
@@ -2093,7 +2141,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.9
+      "score": 5.57
     },
     {
       "id": "ev-1ddjlsy",
@@ -2122,7 +2170,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.65
+      "score": 5.32
     },
     {
       "id": "ev-0q6j3e3",
@@ -2151,7 +2199,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.29
     },
     {
       "id": "ev-1239apc",
@@ -2184,7 +2232,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5
     },
     {
       "id": "ev-17o2t7s",
@@ -2217,7 +2265,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-066h86z",
@@ -2250,7 +2298,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.95
     },
     {
       "id": "ev-004gyts",
@@ -2283,7 +2331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 5.17
+      "score": 4.84
     },
     {
       "id": "ev-14jyje8",
@@ -2325,7 +2373,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-18T04:10:08.191Z",
       "updatedSlot": "manana",
-      "score": 4.28
+      "score": 3.96
     }
   ],
   "runs": [
@@ -2335,6 +2383,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 60
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-18T08:07:13.574Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 10
     }
   ]
 }
