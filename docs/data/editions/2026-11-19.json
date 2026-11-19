@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-19T08:07:12.882Z",
+  "generatedAt": "2026-11-19T12:07:21.748Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -13,7 +13,7 @@
       "keyPoints": [
         "La doctora Alba Cantero juró como fiscal general del Estado interina y completará el período constitucional 2023-2028, tras la renuncia de Emiliano Rolón Fernández, ante su inminente destitución por la vía del juicio político, en medio…",
         "Alba Rocío Cantero juró ante el Senado como fiscal general del Estado interina.",
-        "ABC Cardinal 730 AM · Momento del juramento de Alba Rocío Cantero Vera",
+        "La fiscal adjunta Alba Rocío Cantero Vera asumió la conducción interina del Ministerio Público tras prestar juramento ante la Cámara de Senadores.",
         "La fiscala adjunta Alba Rocío Cantero Vera prestó juramento este miércoles 18 de noviembre ante la Cámara de Senadores como nueva fiscal general del Estado, tras recibir el respaldo de 35 legisladores."
       ],
       "category": "politica",
@@ -22,6 +22,38 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Alba Cantero promete acercar a los fiscales a la ciudadanía y unificar criterios",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/11/19/audio-alba-cantero-promete-acercar-a-los-fiscales-a-la-ciudadania-y-unificar-criterios",
+          "publishedAt": "2026-11-19T11:23:07.000Z",
+          "image": "https://www.abc.com.py/resizer/lkPi9Jtfx1lgr3lFswhajhr6CbQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/X7HI57EMU5DRJMCQB7M3EDRACY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alba Cantero promete acercar a los fiscales a la ciudadanía y unificar criterios",
+          "url": "https://www.abc.com.py/policiales/2026/11/19/alba-cantero-promete-acercar-a-los-fiscales-a-la-ciudadania-y-unificar-criterios",
+          "publishedAt": "2026-11-19T11:18:19.000Z",
+          "image": "https://www.abc.com.py/resizer/lkPi9Jtfx1lgr3lFswhajhr6CbQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/X7HI57EMU5DRJMCQB7M3EDRACY.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Confirman a Alba Cantero, demandarían a Paraguay y armas en caso ueno",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-confirman-a-alba-cantero-demandarian-a-paraguay-y-armas-en-caso-ueno",
+          "publishedAt": "2026-11-19T09:23:51.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Alba Rocío Cantero juró como fiscal general del Estado interina",
+          "url": "https://5dias.com.py/article/alba-roco-cantero-jur-como-fiscal-general-del-estado-interina",
+          "publishedAt": "2026-11-19T06:14:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Alba_Rocio_Cantero_Fiscalia_General_del_Estado_Ministerio_Publico_Camara_de_Senadores_20261119_061534.jpeg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -118,9 +150,141 @@
       },
       "firstSeenAt": "2026-11-19T04:05:31.954Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-19T08:07:12.882Z",
+      "updatedAt": "2026-11-19T12:07:21.748Z",
       "updatedSlot": "manana",
-      "score": 23.65
+      "score": 26.94
+    },
+    {
+      "id": "ev-1wupxo1",
+      "title": "Activos verificados de Ueno Bank alcanzan G. 9 billones, pero déficit se estima en más de USD 1.000 millones, según BCP",
+      "summary": "El Banco Central del Paraguay (BCP) confirmó este miércoles que los activos verificados en el marco del proceso de resolución de Ueno BanK alcanzan los G. 9 billones. Pedro Acosta, miembro del directorio del BCP, explicó que los interventores asignados en esa entidad ya verificaron dichos importes de los activos que serán utilizados para transferir a las entidades financieras encargadas de cubrir los depósitos.",
+      "keyPoints": [
+        "El Banco Central del Paraguay (BCP) confirmó este miércoles que los activos verificados en el marco del proceso de resolución de Ueno BanK alcanzan los G. 9 billones.",
+        "Aclaran que los bonos emitidos por la entidad no están cubiertos por la ley, por lo que representarían parte del déficit que dejaría el banco.",
+        "El Banco Central del Paraguay (BCP) calcula que el desequilibrio patrimonial de Ueno Bank oscila entre USD 1.000 millones y USD 1.500 millones.",
+        "El presidente de Diputados, Raúl Latorre, informó que el titular del Banco Central, Jorge Schreiner, garantizó la existencia de activos suficientes para responder por los ahorros de los clientes, los fondos jubilatorios y los recursos públicos…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Latorre genera confusión sobre Ueno y obliga al BCP a aclarar millonario déficit",
+          "url": "https://elnacional.com.py/politica/latorre-genera-confusion-sobre-ueno-obliga-bcp-aclarar-millonario-deficit-n115479",
+          "publishedAt": "2026-11-19T11:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/08/6a8db85292acb.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Crisis de ueno podría derivar en demandas internacionales y pedidos de extradición",
+          "url": "https://elnacional.com.py/politica/crisis-ueno-podria-derivar-demandas-internacionales-pedidos-extradicion-n115478",
+          "publishedAt": "2026-11-19T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6af03f865d77f.png"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Ahorristas y fondos previsionales: según BCP, hay activos para devolver 100% de depósitos de Ueno",
+          "url": "https://elnacional.com.py/economia/ahorristas-fondos-previsionales-bcp-hay-activos-devolver-100-depositos-ueno-n115470",
+          "publishedAt": "2026-11-19T09:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aeaf9a186e16.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP: activos verificados de Ueno Bank alcanzan unos G. 9 billones",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/bcp-activos-verificados-de-ueno-bank-alcanzan-unos-g-9-billones",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UU_4C8DgaQ62yxvzGfWgJHgK56M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6A3E3PIZNRGQBMW5JK4OV4SVD4.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Ueno Bank deja un agujero de más de US$ 1.000 millones y advierten con demandas internacionales",
+          "url": "https://5dias.com.py/article/ueno-bank-deja-un-agujero-de-ms-de-us-1000-millones-y-advierten-con-demandas-internacionales",
+          "publishedAt": "2026-11-19T02:46:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/IMG_1177_20261119_055112.JPG"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana garantiza que los ahorristas van a recuperar el 100 % de sus depósitos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/18/alliana-garantiza-que-los-ahorristas-van-a-recuperar-el-100-de-sus-depositos",
+          "publishedAt": "2026-11-18T23:52:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KxwBiVEt5EbIRGOR5nneJPuInnc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OBXA2VUAGFEJZPXX3IYC4W7SGY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Banco Central de Paraguay advierte que Ueno tiene un déficit de 1.500 millones de dólares",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/banco-central-de-paraguay-advierte-que-ueno-tiene-un-deficit-de-1500-millones-de-dolares",
+          "publishedAt": "2026-11-18T23:45:15.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Activos verificados de Ueno Bank alcanzan G. 9 billones, confirma el BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/18/activos-verificados-de-ueno-bank-alcanzan-g-9-billones-confirma-el-bcp",
+          "publishedAt": "2026-11-18T22:45:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_IVRlcZRvECJutvtWb5m7arz2io=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Activos verificados de Ueno Bank alcanzan G. 9 billones, pero déficit se estima en más de USD 1.000 millones, según BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/19/activos-verificados-de-ueno-bank-alcanzan-g-9-billones-pero-deficit-se-estima-en-mas-de-usd-1000-millones-segun-bcp",
+          "publishedAt": "2026-11-18T22:45:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_IVRlcZRvECJutvtWb5m7arz2io=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ueno deja un déficit de hasta US$ 1.500 millones: bonos quedan fuera del rescate",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/18/ueno-deja-un-deficit-de-hasta-us-1500-millones-bonos-quedan-fuera-del-rescate",
+          "publishedAt": "2026-11-18T21:58:03.032Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/HFIIX2STDBBZFKYF2KPUZLYZUA.jpg?auth=afd2a4a578b1173985f80fdb83d2ecaba17f13cd00211d76758d2683a4ab9b22&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno: Identifican activos que salvarían a ahorristas, pero hablan de déficit preliminar de US$ 1.500 millones",
+          "url": "https://www.abc.com.py/economia/2026/11/18/caso-ueno-identifican-activos-sanos-por-us-1500-millones-para-transferir-y-rescatar-a-ahorristas-y-deficit-de-us-1000-millones",
+          "publishedAt": "2026-11-18T21:35:42.000Z",
+          "image": "https://www.abc.com.py/resizer/tCUuvAgLWBfLSZq_a3dCjMDTMV8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3D4GLULHRNHAFIDQTWMNIS3Z3Y.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "BCP: Ueno Bank arrastra millonario agujero financiero de USD 1.500 millones",
+          "url": "https://elnacional.com.py/economia/bcp-ueno-bank-arrastra-millonario-agujero-financiero-usd-1500-millones-n115474",
+          "publishedAt": "2026-11-18T21:26:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6ae98f359e4c8.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "BCP confirmó que hay dinero para devolver a todos los depositantes de Ueno, según Latorre",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/18/bcp-confirmo-que-hay-dinero-para-devolver-a-todos-los-depositantes-de-ueno-segun-latorre",
+          "publishedAt": "2026-11-18T15:37:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_IVRlcZRvECJutvtWb5m7arz2io=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg?auth=ee4ab100a050b5c048e2dc3958e7c4f68d29dbcb73a4a6af0841cc72a2ed14eb&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/19/activos-verificados-de-ueno-bank-alcanzan-g-9-billones-pero-deficit-se-estima-en-mas-de-usd-1000-millones-segun-bcp"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T12:07:21.748Z",
+      "updatedSlot": "manana",
+      "score": 20.91
     },
     {
       "id": "ev-11q9s22",
@@ -212,20 +376,20 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 17.63
+      "score": 17.3
     },
     {
-      "id": "ev-1wupxo1",
-      "title": "Activos verificados de Ueno Bank alcanzan G. 9 billones, confirma el BCP",
-      "summary": "El Banco Central del Paraguay (BCP) confirmó este miércoles que los activos verificados en el marco del proceso de resolución de Ueno BanK alcanzan los G. 9 billones. Pedro Acosta, miembro del directorio del BCP, explicó que los interventores asignados en esa entidad ya verificaron dichos importes de los activos que serán utilizados para transferir a las entidades financieras encargadas de cubrir los depósitos.",
+      "id": "ev-0bq44t8",
+      "title": "Trump, Xi y Putin se reúnen hoy en una inédita cumbre",
+      "summary": "El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC. Xi ha ocupado el asiento central, con Putin a su derecha y Trump a su izquierda, mientras que las delegaciones de los tres países permanecieron a cierta distancia de los mandatarios.",
       "keyPoints": [
-        "El Banco Central del Paraguay (BCP) confirmó este miércoles que los activos verificados en el marco del proceso de resolución de Ueno BanK alcanzan los G. 9 billones.",
-        "Aclaran que los bonos emitidos por la entidad no están cubiertos por la ley, por lo que representarían parte del déficit que dejaría el banco.",
-        "El Banco Central del Paraguay (BCP) calcula que el desequilibrio patrimonial de Ueno Bank oscila entre USD 1.000 millones y USD 1.500 millones.",
-        "El directorio del Banco Central del Paraguay (BCP) encabezado por su titular Jorge Schreiner informó esta tarde en conferencia de prensa sobre avances del proceso de resolución de Ueno bank."
+        "El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC.",
+        "Xi ha ocupado el asiento central, con Putin a su derecha y Trump a su izquierda, mientras que las delegaciones de los tres países permanecieron a cierta distancia de los mandatarios.",
+        "La reunión duró alrededor de una hora y veinte minutos y tuvo lugar en el hotel Kylin Villa, en los márgenes de la cumbre de líderes del Foro de Cooperación Económica de Asia Pacífico (APEC), que…",
+        "Los presidentes de China, Estados Unidos y Rusia se reunieron este jueves en su histórica primera cumbre trilateral, que según Pekín tenía como objetivo “salvaguardar la paz mundial” aunque la cita despertó alarma y rechazo en…"
       ],
-      "category": "politica",
-      "scope": "paraguay",
+      "category": "internacional",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
@@ -233,62 +397,150 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "BCP: activos verificados de Ueno Bank alcanzan unos G. 9 billones",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/bcp-activos-verificados-de-ueno-bank-alcanzan-unos-g-9-billones",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/UU_4C8DgaQ62yxvzGfWgJHgK56M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6A3E3PIZNRGQBMW5JK4OV4SVD4.jpg"
+          "title": "Cumbre trilateral: Xi Jinping, Trump y Putin celebran histórica reunión en Pekín",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/19/cumbre-trilateral-xi-jinping-trump-y-putin-celebran-historica-reunion-en-pekin",
+          "publishedAt": "2026-11-19T11:08:01.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HJxihgm9tk0n7bLmzfQ4GcHwM_o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BYDSFGBQYVFC7DNTFSB7BO4MZY.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Banco Central de Paraguay advierte que Ueno tiene un déficit de 1.500 millones de dólares",
-          "url": "https://www.abc.com.py/internacionales/2026/11/18/banco-central-de-paraguay-advierte-que-ueno-tiene-un-deficit-de-1500-millones-de-dolares",
-          "publishedAt": "2026-11-18T23:45:15.000Z",
+          "title": "Xi, Trump y Putin abordan Ucrania y el desarme nuclear en una reunión inédita",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-abordan-ucrania-y-el-desarme-nuclear-en-una-reunion-inedita",
+          "publishedAt": "2026-11-19T10:35:10.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Concluye reunión histórica de los presidentes de China, Estados Unidos y Rusia en Shenzhen",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/concluye-reunion-historica-de-los-presidentes-de-china-estados-unidos-y-rusia-en-shenzhen",
+          "publishedAt": "2026-11-19T10:30:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Concluye reunión histórica de los presidentes de China, Estados Unidos y Rusia en Shenzhen",
+          "url": "https://www.ultimahora.com/concluye-reunion-historica-de-los-presidentes-de-china-estados-unidos-y-rusia-en-shenzhen",
+          "publishedAt": "2026-11-19T10:20:44.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi aboga ante Trump y Putin por la eliminación y veto de las armas nucleares",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-aboga-ante-trump-y-putin-por-la-eliminacion-y-veto-de-las-armas-nucleares",
+          "publishedAt": "2026-11-19T10:05:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi, Trump y Putin piden cooperar entre grandes potencias y abordan la guerra en Ucrania",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-piden-cooperar-entre-grandes-potencias-y-abordan-la-guerra-en-ucrania",
+          "publishedAt": "2026-11-19T09:50:19.000Z",
+          "image": "https://www.abc.com.py/resizer/dnsckT-MyDFtROxb8kblXXpROYU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UD3P4ANJGBB2VJMWBB3XRLLB2Q.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Putin dice que EEUU, Rusia y China comparten el interés de que acabe la guerra de Ucrania",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/putin-dice-que-eeuu-rusia-y-china-comparten-el-interes-de-que-acabe-la-guerra-de-ucrania",
+          "publishedAt": "2026-11-19T09:15:13.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi, Trump y Putin se sientan a una mesa redonda con flores en su cumbre en China",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-se-sientan-a-una-mesa-redonda-con-flores-en-su-cumbre-en-china",
+          "publishedAt": "2026-11-19T09:05:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Trump, Xi y Putin se sentaron a la misma mesa en una cumbre que reconfigura el tablero mundial",
+          "url": "https://elnacional.com.py/mundo/trump-xi-putin-sentaron-misma-mesa-una-cumbre-reconfigura-tablero-mundial-n115459",
+          "publishedAt": "2026-11-19T08:50:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afddce003473.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Trump dice que EE.UU. y China buscan el fin de la guerra en Ucrania y coinciden sobre Irán",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/trump-dice-que-eeuu-y-china-buscan-el-fin-de-la-guerra-en-ucrania-y-coinciden-sobre-iran",
+          "publishedAt": "2026-11-19T07:25:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi y Trump se reúnen en Shenzhen antes de la trilateral con Putin",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-y-trump-se-reunen-en-shenzhen-antes-de-la-trilateral-con-putin",
+          "publishedAt": "2026-11-19T06:30:12.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El maletín nuclear acompaña a Putin en su cumbre con Trump y Xi",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/el-maletin-nuclear-acompana-a-putin-en-su-cumbre-con-trump-y-xi",
+          "publishedAt": "2026-11-19T05:05:08.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Xi, Trump y Putin se alistan para histórica reunión trilateral en China",
+          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-se-alistan-para-historica-reunion-trilateral-en-china",
+          "publishedAt": "2026-11-19T04:05:55.000Z",
+          "image": "https://www.abc.com.py/resizer/CoYfhX2TKlUzzxukIHTGMYS3AM0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2O2XH5KGKZAFDFIHYUHULUJ4KU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trump, Xi y Putin se reúnen hoy en una inédita cumbre",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/19/trump-xi-y-putin-se-reunen-hoy-en-una-inedita-cumbre",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YDtlxe0gH1KmoAACZ3Ze6MIE5zA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CYZFTGURHRHARENYTUHMIJE654.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Arranca en Shenzhen el plenario de la cumbre de líderes de la APEC, con Xi, Trump y Putin",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/arranca-en-shenzhen-el-plenario-de-la-cumbre-de-lideres-de-la-apec-con-xi-trump-y-putin",
+          "publishedAt": "2026-11-19T02:20:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Trump, Xi y Putin celebrarán hoy en China su inédita cumbre trilateral",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/trump-xi-y-putin-celebraran-hoy-en-china-su-inedita-cumbre-trilateral",
+          "publishedAt": "2026-11-19T02:05:06.000Z",
           "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Activos verificados de Ueno Bank alcanzan G. 9 billones, confirma el BCP",
-          "url": "https://www.lanacion.com.py/politica/2026/11/18/activos-verificados-de-ueno-bank-alcanzan-g-9-billones-confirma-el-bcp",
-          "publishedAt": "2026-11-18T22:45:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/_IVRlcZRvECJutvtWb5m7arz2io=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Ueno deja un déficit de hasta US$ 1.500 millones: bonos quedan fuera del rescate",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/18/ueno-deja-un-deficit-de-hasta-us-1500-millones-bonos-quedan-fuera-del-rescate",
-          "publishedAt": "2026-11-18T21:58:03.032Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/HFIIX2STDBBZFKYF2KPUZLYZUA.jpg?auth=afd2a4a578b1173985f80fdb83d2ecaba17f13cd00211d76758d2683a4ab9b22&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno: Identifican activos que salvarían a ahorristas, pero hablan de déficit preliminar de US$ 1.500 millones",
-          "url": "https://www.abc.com.py/economia/2026/11/18/caso-ueno-identifican-activos-sanos-por-us-1500-millones-para-transferir-y-rescatar-a-ahorristas-y-deficit-de-us-1000-millones",
-          "publishedAt": "2026-11-18T21:35:42.000Z",
-          "image": "https://www.abc.com.py/resizer/tCUuvAgLWBfLSZq_a3dCjMDTMV8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/3D4GLULHRNHAFIDQTWMNIS3Z3Y.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "BCP: Ueno Bank arrastra millonario agujero financiero de USD 1.500 millones",
-          "url": "https://elnacional.com.py/economia/bcp-ueno-bank-arrastra-millonario-agujero-financiero-usd-1500-millones-n115474",
-          "publishedAt": "2026-11-18T21:26:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6ae98f359e4c8.jpg"
+          "title": "Trump y Putin ya están en China para encuentro histórico con Xi Jinping",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/18/trump-y-putin-ya-estan-en-china-para-encuentro-historico-con-xi-jinping",
+          "publishedAt": "2026-11-18T11:06:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Jnn3J5A7erymPudjmM04IcFmILA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7PKZ5KZ5JFDOBOU6BSVHIEBKGI.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/D6VVSKJZHRFHVFD53BQ7S4TRTI.jpg?auth=ee4ab100a050b5c048e2dc3958e7c4f68d29dbcb73a4a6af0841cc72a2ed14eb&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CYZFTGURHRHARENYTUHMIJE654.jpg?auth=8b84b97899c58f32075e3fd3d4e1c8cc932b44453fa78f03707c9e355604915e&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/18/activos-verificados-de-ueno-bank-alcanzan-g-9-billones-confirma-el-bcp"
+        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/19/trump-xi-y-putin-se-reunen-hoy-en-una-inedita-cumbre"
       },
       "firstSeenAt": "2026-11-19T04:05:31.954Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedAt": "2026-11-19T12:07:21.748Z",
       "updatedSlot": "manana",
-      "score": 17.58
+      "score": 15.42
     },
     {
       "id": "ev-1onlql9",
@@ -356,7 +608,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T08:07:12.882Z",
       "updatedSlot": "manana",
-      "score": 14.69
+      "score": 14.35
     },
     {
       "id": "ev-1b5r0gy",
@@ -407,7 +659,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 13.39
+      "score": 13.05
     },
     {
       "id": "ev-1syvhkb",
@@ -458,7 +710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 13.15
+      "score": 12.82
     },
     {
       "id": "ev-01feao1",
@@ -550,7 +802,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 11.62
+      "score": 11.29
     },
     {
       "id": "ev-114hn7a",
@@ -601,7 +853,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1ub6r61",
@@ -652,7 +904,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-0mhg6ae",
@@ -703,7 +955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.88
+      "score": 9.54
     },
     {
       "id": "ev-0i9fp2g",
@@ -745,7 +997,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.61
+      "score": 9.28
     },
     {
       "id": "ev-1l6072l",
@@ -787,7 +1039,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.58
+      "score": 9.24
     },
     {
       "id": "ev-1kixu05",
@@ -829,99 +1081,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.58
-    },
-    {
-      "id": "ev-0bq44t8",
-      "title": "Trump, Xi y Putin celebrarán hoy en China su inédita cumbre trilateral",
-      "summary": "El encuentro, confirmado por Washington, Pekín y Moscú, se celebrará en el complejo Kylin Villa, en los márgenes de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), aunque la Casa Blanca rebajó las expectativas sobre la posibilidad de alcanzar acuerdos inmediatos.",
-      "keyPoints": [
-        "El encuentro, confirmado por Washington, Pekín y Moscú, se celebrará en el complejo Kylin Villa, en los márgenes de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), aunque la Casa Blanca rebajó las expectativas sobre…",
-        "El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC.",
-        "Al inicio de la reunión, Trump agradeció a Xi la \"increíble y cálida bienvenida\" que recibió a su llegada a China y lo felicitó por la organización de la cumbre del Foro de Cooperación Económica Asia-Pacífico…",
-        "El encuentro entre Xi Jinping, Donald Trump y Vladimir Putin en la Villa Kylin de Shenzhe n se da en un momento en que la campaña militar de Moscú en Ucrania se acerca a su quinto…"
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Trump dice que EE.UU. y China buscan el fin de la guerra en Ucrania y coinciden sobre Irán",
-          "url": "https://www.abc.com.py/internacionales/2026/11/19/trump-dice-que-eeuu-y-china-buscan-el-fin-de-la-guerra-en-ucrania-y-coinciden-sobre-iran",
-          "publishedAt": "2026-11-19T07:25:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Xi y Trump se reúnen en Shenzhen antes de la trilateral con Putin",
-          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-y-trump-se-reunen-en-shenzhen-antes-de-la-trilateral-con-putin",
-          "publishedAt": "2026-11-19T06:30:12.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El maletín nuclear acompaña a Putin en su cumbre con Trump y Xi",
-          "url": "https://www.abc.com.py/internacionales/2026/11/19/el-maletin-nuclear-acompana-a-putin-en-su-cumbre-con-trump-y-xi",
-          "publishedAt": "2026-11-19T05:05:08.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Xi, Trump y Putin se alistan para histórica reunión trilateral en China",
-          "url": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-se-alistan-para-historica-reunion-trilateral-en-china",
-          "publishedAt": "2026-11-19T04:05:55.000Z",
-          "image": "https://www.abc.com.py/resizer/CoYfhX2TKlUzzxukIHTGMYS3AM0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2O2XH5KGKZAFDFIHYUHULUJ4KU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trump, Xi y Putin se reúnen hoy en una inédita cumbre",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/19/trump-xi-y-putin-se-reunen-hoy-en-una-inedita-cumbre",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/YDtlxe0gH1KmoAACZ3Ze6MIE5zA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CYZFTGURHRHARENYTUHMIJE654.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Arranca en Shenzhen el plenario de la cumbre de líderes de la APEC, con Xi, Trump y Putin",
-          "url": "https://www.abc.com.py/internacionales/2026/11/18/arranca-en-shenzhen-el-plenario-de-la-cumbre-de-lideres-de-la-apec-con-xi-trump-y-putin",
-          "publishedAt": "2026-11-19T02:20:07.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Trump, Xi y Putin celebrarán hoy en China su inédita cumbre trilateral",
-          "url": "https://www.abc.com.py/internacionales/2026/11/18/trump-xi-y-putin-celebraran-hoy-en-china-su-inedita-cumbre-trilateral",
-          "publishedAt": "2026-11-19T02:05:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Trump y Putin ya están en China para encuentro histórico con Xi Jinping",
-          "url": "https://www.lanacion.com.py/mundo/2026/11/18/trump-y-putin-ya-estan-en-china-para-encuentro-historico-con-xi-jinping",
-          "publishedAt": "2026-11-18T11:06:54.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Jnn3J5A7erymPudjmM04IcFmILA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7PKZ5KZ5JFDOBOU6BSVHIEBKGI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2O2XH5KGKZAFDFIHYUHULUJ4KU.jpg?auth=83e3d06ae60a4660e79a73376fcaa3ee3b0019ea3ee3dc864651f6901fe75847&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/19/xi-trump-y-putin-se-alistan-para-historica-reunion-trilateral-en-china"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T08:07:12.882Z",
-      "updatedSlot": "manana",
-      "score": 9.44
+      "score": 9.24
     },
     {
       "id": "ev-0wt9mwp",
@@ -963,7 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.38
+      "score": 9.05
     },
     {
       "id": "ev-1mn793b",
@@ -1005,7 +1165,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.14
+      "score": 8.8
     },
     {
       "id": "ev-12v93rv",
@@ -1047,7 +1207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.13
+      "score": 8.8
     },
     {
       "id": "ev-10boz7u",
@@ -1089,7 +1249,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.72
     },
     {
       "id": "ev-03z2ghl",
@@ -1131,7 +1291,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.97
+      "score": 8.64
     },
     {
       "id": "ev-161rgo2",
@@ -1173,7 +1333,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.38
     },
     {
       "id": "ev-0u2wchd",
@@ -1215,7 +1375,48 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.13
+      "score": 8
+    },
+    {
+      "id": "ev-0q0cc31",
+      "title": "El uso problemático de internet, una cuestión de salud global que preocupa a los expertos",
+      "summary": "Esta utilización, que denominan el ‘ uso problemático de internet ’ (incluye el empleo de las tecnologías digitales ), se refiere al fenómeno que genera conductas compulsivas y trastornos como la ludopatía (juego y apuestas), la adicción a las redes sociales , los trastornos por comportamiento sexual compulsivo (como el consumo de pornografía), la adicción a las compras en línea o la búsqueda compulsiva de información sobre salud (“cibercondría”).",
+      "keyPoints": [
+        "Esta utilización, que denominan el ‘ uso problemático de internet ’ (incluye el empleo de las tecnologías digitales ), se refiere al fenómeno que genera conductas compulsivas y trastornos como la ludopatía (juego y apuestas), la…"
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El uso problemático de internet, una cuestión de salud global que preocupa a los expertos",
+          "url": "https://www.abc.com.py/tecnologia/2026/11/19/el-uso-problematico-de-internet-una-cuestion-de-salud-global-que-preocupa-a-los-expertos",
+          "publishedAt": "2026-11-19T10:47:08.000Z",
+          "image": "https://www.abc.com.py/resizer/2X2YRFrD2H2cRAY0M4UnTA278U0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JWROURYUVBCC5I4TKZPN7VITVU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Expertos piden abordar el uso problemático de internet como una cuestión de salud global",
+          "url": "https://www.abc.com.py/ciencia/2026/11/18/expertos-piden-abordar-el-uso-problematico-de-internet-como-una-cuestion-de-salud-global",
+          "publishedAt": "2026-11-18T23:35:08.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/JWROURYUVBCC5I4TKZPN7VITVU.jpg?auth=e2f1f831f4320591003132035802444d628646eee87d85d1ea4e56b492def9ac&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/tecnologia/2026/11/19/el-uso-problematico-de-internet-una-cuestion-de-salud-global-que-preocupa-a-los-expertos"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T12:07:21.748Z",
+      "updatedSlot": "manana",
+      "score": 6.89
     },
     {
       "id": "ev-1lwu71l",
@@ -1257,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.74
     },
     {
       "id": "ev-0eaw85j",
@@ -1299,7 +1500,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.86
+      "score": 6.53
     },
     {
       "id": "ev-1q0kmh2",
@@ -1350,7 +1551,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.82
+      "score": 6.49
     },
     {
       "id": "ev-1tvrtnp",
@@ -1392,7 +1593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.65
+      "score": 6.32
     },
     {
       "id": "ev-1wq5kju",
@@ -1434,7 +1635,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.63
+      "score": 6.3
     },
     {
       "id": "ev-1hm4jfb",
@@ -1476,7 +1677,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1w68wmu",
@@ -1518,7 +1719,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-07gq65o",
@@ -1560,7 +1761,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.81
     },
     {
       "id": "ev-1uzegz6",
@@ -1589,7 +1790,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.26
     },
     {
       "id": "ev-07o517p",
@@ -1622,7 +1823,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0kheg1y",
@@ -1655,7 +1856,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-05u0zj3",
@@ -1688,7 +1889,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0o0y63u",
@@ -1721,7 +1922,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1pz14br",
@@ -1754,7 +1955,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.47
+      "score": 5.14
     },
     {
       "id": "ev-1qa8rrm",
@@ -1787,7 +1988,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.44
+      "score": 5.11
     },
     {
       "id": "ev-1hwoflk",
@@ -1820,7 +2021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.4
+      "score": 5.07
     },
     {
       "id": "ev-0il0tzj",
@@ -1853,7 +2054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.39
+      "score": 5.06
     },
     {
       "id": "ev-0ri48og",
@@ -1886,102 +2087,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.39
-    },
-    {
-      "id": "ev-0q0cc31",
-      "title": "Expertos piden abordar el uso problemático de internet como una cuestión de salud global",
-      "summary": "El estudio recuerda que, según estimaciones, el uso problemático de internet podría afectar a más del 10 % de la población mundial, en especial a niños y jóvenes -constantemente expuestos a los dispositivos digitales y teléfonos inteligentes cuando su cerebro aún no ha madurado-, a las personas con trastornos mentales o del neurodesarrollo -Trastorno por Déficit de Atención con Hiperactividad (TDAH), Trastorno del Espectro Autista (TEA), Trastorno Obsesivo Compulsivo (TOC) o la ansiedad y la depresión- y a las personas de ingresos bajos y medios.",
-      "keyPoints": [
-        "El estudio recuerda que, según estimaciones, el uso problemático de internet podría afectar a más del 10 % de la población mundial, en especial a niños y jóvenes -constantemente expuestos a los dispositivos digitales y teléfonos…"
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Expertos piden abordar el uso problemático de internet como una cuestión de salud global",
-          "url": "https://www.abc.com.py/ciencia/2026/11/18/expertos-piden-abordar-el-uso-problematico-de-internet-como-una-cuestion-de-salud-global",
-          "publishedAt": "2026-11-18T23:35:08.000Z",
-          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.29
-    },
-    {
-      "id": "ev-06ihrvl",
-      "title": "IICA y agrónomos de América impulsan el desarrollo agropecuario",
-      "summary": "Firmaron un acuerdo de cooperación técnica por cuatro años, que permitirá articular capacidades, conocimientos y redes profesionales para impulsar la innovación, la sostenibilidad y la seguridad alimentaria en la región.",
-      "keyPoints": [
-        "Firmaron un acuerdo de cooperación técnica por cuatro años, que permitirá articular capacidades, conocimientos y redes profesionales para impulsar la innovación, la sostenibilidad y la seguridad alimentaria en la región."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "IICA y agrónomos de América impulsan el desarrollo agropecuario",
-          "url": "https://elnacional.com.py/economia/iica-agronomos-america-impulsan-desarrollo-agropecuario-n115465",
-          "publishedAt": "2026-11-18T23:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6afdfde62acfe.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6afdfde62acfe.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/economia/iica-agronomos-america-impulsan-desarrollo-agropecuario-n115465"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.28
-    },
-    {
-      "id": "ev-10pijvf",
-      "title": "Estos son los cursos a distancia gratuitos que ofrece el SNPP",
-      "summary": "Desde el SNPP dieron a conocer que este noviembre habilitaron los cursos para capacitarse a distancia en tecnología, administración, idiomas, seguridad industrial, diseño y mucho más. Aclararon que los cupos son limitados , pero que los cursos pueden elegirse según mejor se adapten a los objetivos de los interesados.",
-      "keyPoints": [
-        "Desde el SNPP dieron a conocer que este noviembre habilitaron los cursos para capacitarse a distancia en tecnología, administración, idiomas, seguridad industrial, diseño y mucho más."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Estos son los cursos a distancia gratuitos que ofrece el SNPP",
-          "url": "https://www.abc.com.py/economia/2026/11/18/estos-son-los-cursos-a-distancia-gratuitos-que-ofrece-el-snpp",
-          "publishedAt": "2026-11-18T23:21:50.000Z",
-          "image": "https://www.abc.com.py/resizer/1AqKnRxY7koUJiIlIhfwMPjAIms=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZA572UK36VCX7OATF6FB2STS7Y.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZA572UK36VCX7OATF6FB2STS7Y.jpg?auth=7c626bdb285c893cd5637932a0ced02538d1c6bb5a82a2abe49fadb49f8e5c44&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/18/estos-son-los-cursos-a-distancia-gratuitos-que-ofrece-el-snpp"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.27
+      "score": 5.05
     },
     {
       "id": "ev-1tygsz3",
@@ -2023,7 +2129,73 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.17
+      "score": 5
+    },
+    {
+      "id": "ev-06ihrvl",
+      "title": "IICA y agrónomos de América impulsan el desarrollo agropecuario",
+      "summary": "Firmaron un acuerdo de cooperación técnica por cuatro años, que permitirá articular capacidades, conocimientos y redes profesionales para impulsar la innovación, la sostenibilidad y la seguridad alimentaria en la región.",
+      "keyPoints": [
+        "Firmaron un acuerdo de cooperación técnica por cuatro años, que permitirá articular capacidades, conocimientos y redes profesionales para impulsar la innovación, la sostenibilidad y la seguridad alimentaria en la región."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "IICA y agrónomos de América impulsan el desarrollo agropecuario",
+          "url": "https://elnacional.com.py/economia/iica-agronomos-america-impulsan-desarrollo-agropecuario-n115465",
+          "publishedAt": "2026-11-18T23:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afdfde62acfe.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6afdfde62acfe.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/economia/iica-agronomos-america-impulsan-desarrollo-agropecuario-n115465"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.95
+    },
+    {
+      "id": "ev-10pijvf",
+      "title": "Estos son los cursos a distancia gratuitos que ofrece el SNPP",
+      "summary": "Desde el SNPP dieron a conocer que este noviembre habilitaron los cursos para capacitarse a distancia en tecnología, administración, idiomas, seguridad industrial, diseño y mucho más. Aclararon que los cupos son limitados , pero que los cursos pueden elegirse según mejor se adapten a los objetivos de los interesados.",
+      "keyPoints": [
+        "Desde el SNPP dieron a conocer que este noviembre habilitaron los cursos para capacitarse a distancia en tecnología, administración, idiomas, seguridad industrial, diseño y mucho más."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Estos son los cursos a distancia gratuitos que ofrece el SNPP",
+          "url": "https://www.abc.com.py/economia/2026/11/18/estos-son-los-cursos-a-distancia-gratuitos-que-ofrece-el-snpp",
+          "publishedAt": "2026-11-18T23:21:50.000Z",
+          "image": "https://www.abc.com.py/resizer/1AqKnRxY7koUJiIlIhfwMPjAIms=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZA572UK36VCX7OATF6FB2STS7Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZA572UK36VCX7OATF6FB2STS7Y.jpg?auth=7c626bdb285c893cd5637932a0ced02538d1c6bb5a82a2abe49fadb49f8e5c44&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/18/estos-son-los-cursos-a-distancia-gratuitos-que-ofrece-el-snpp"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.94
     },
     {
       "id": "ev-1rw8qwy",
@@ -2056,7 +2228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 4.69
     },
     {
       "id": "ev-0x3u2xo",
@@ -2089,7 +2261,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.96
+      "score": 4.63
     },
     {
       "id": "ev-0l239s7",
@@ -2122,7 +2294,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.54
     },
     {
       "id": "ev-0vxatom",
@@ -2164,7 +2336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 3.91
+      "score": 3.57
     },
     {
       "id": "ev-1ns3mop",
@@ -2202,7 +2374,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 3.88
+      "score": 3.55
     },
     {
       "id": "ev-15rz8hr",
@@ -2231,7 +2403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 3.15
+      "score": 2.82
     },
     {
       "id": "ev-0lzt4vk",
@@ -2260,7 +2432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 2.73
+      "score": 2.39
     }
   ],
   "runs": [
@@ -2277,6 +2449,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 11
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-19T12:07:21.748Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 12
     }
   ]
 }
