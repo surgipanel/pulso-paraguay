@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-19T12:07:21.748Z",
+  "generatedAt": "2026-11-19T16:07:11.856Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -152,7 +152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T12:07:21.748Z",
       "updatedSlot": "manana",
-      "score": 26.94
+      "score": 26.61
     },
     {
       "id": "ev-1wupxo1",
@@ -284,109 +284,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T12:07:21.748Z",
       "updatedSlot": "manana",
-      "score": 20.91
-    },
-    {
-      "id": "ev-11q9s22",
-      "title": "Caso Ueno: allanan por segunda vez la empresa de seguridad del Grupo Vázquez",
-      "summary": "Las autoridades buscan inventariar y verificar la documentación de las armas de fuego que fueron hallados en el sitio. El Ministerio Público amplió este miércoles los procedimientos en la firma GSR Security (Dobrestec S.A.), perteneciente al Grupo Vázquez, con un nuevo allanamiento en su sede del barrio Vista Alegre de Asunción.",
-      "keyPoints": [
-        "Las autoridades buscan inventariar y verificar la documentación de las armas de fuego que fueron hallados en el sitio.",
-        "El Ministerio Público amplió este miércoles los procedimientos en la firma GSR Security (Dobrestec S.A.), perteneciente al Grupo Vázquez, con un nuevo allanamiento en su sede del barrio Vista Alegre de Asunción.",
-        "Ante la incertidumbre generada en torno al proceso de resolución de Ueno Bank , el abogado Manuel Riera Domínguez analizó en detalle los alcances de la Ley 2334 de resolución bancaria del año 2003, normativa que…",
-        "ABC Cardinal 730 AM · 18 11 2026 Periodísticamente - Abogado Manuel Riera Domínguez"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Hallan en GSR Security máquinas para fabricar piezas de armas y una bóveda oculta",
-          "url": "https://www.abc.com.py/policiales/2026/11/19/hallan-en-gsr-security-maquinas-para-fabricar-piezas-de-armas-y-una-boveda-oculta",
-          "publishedAt": "2026-11-19T03:43:34.000Z",
-          "image": "https://www.abc.com.py/resizer/JSTGTVBw9GfBGUEQkGxRmgKNYas=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WWWEZGJNENCZNNKYWQZFVSH2FU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan por segunda vez firma de seguridad",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/19/allanan-por-segunda-vez-firma-de-seguridad",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/awRrIi-wUBXkMi_bKTZYFVu0RJI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z535L32OQBF6DEGPOGLQ3LJNYU.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Caso Ueno Bank: Fiscalía vuelve a intervenir sede de GSR Security en búsqueda de armas de fuego",
-          "url": "https://www.abc.com.py/730am/2026/11/18/audio-caso-ueno-bank-fiscalia-vuelve-a-intervenir-sede-de-gsr-security-en-busqueda-de-armas-de-fuego",
-          "publishedAt": "2026-11-19T00:22:07.000Z",
-          "image": "https://www.abc.com.py/resizer/rrEBwsfkrBbSLK042ErB_PvYzPU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/I362EAEA5VF5LCDV6FAIKDWWKM.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Caso Ueno: cómo es el orden de devolución de activos y qué pasará con los ahorristas",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/11/18/audio-caso-ueno-como-es-el-orden-de-devolucion-de-activos-y-que-pasara-con-los-ahorristas",
-          "publishedAt": "2026-11-19T00:15:33.000Z",
-          "image": "https://www.abc.com.py/resizer/p5kjjK_jPTq35_fHWiBwCND9lHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/66LR3IIZ5NHC3D6OQVEYLKLDBY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Caso Ueno Bank: cómo es el orden de devolución de activos y qué pasará con los ahorristas",
-          "url": "https://www.abc.com.py/nacionales/2026/11/18/caso-ueno-bank-como-es-el-orden-de-devolucion-de-activos-y-que-pasara-con-los-ahorristas",
-          "publishedAt": "2026-11-18T23:46:35.000Z",
-          "image": "https://www.abc.com.py/resizer/aTpMnHMDmbR0_b45nNXTewgUmfk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XE5EA23QOBC47DOZSRESJY2AY4.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Fiscalía vuelve a intervenir empresa de seguridad vinculada al caso Ueno",
-          "url": "https://www.adndigital.com.py/fiscalia-vuelve-a-intervenir-empresa-de-seguridad-vinculada-al-caso-ueno",
-          "publishedAt": "2026-11-18T20:51:21.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-18-at-175042.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fiscalía vuelve a allanar empresa de seguridad ligada al Grupo Vázquez",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/18/fiscalia-vuelve-a-allanar-empresa-de-seguridad-ligada-al-grupo-vazquez",
-          "publishedAt": "2026-11-18T20:37:37.834Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg?auth=86abeab1134f4cd1da281d84bfef36cb7992b97da3b3d8d90749cb93947e3156&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Caso Ueno: allanan por segunda vez la empresa de seguridad del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/pais/2026/11/18/caso-ueno-allanan-por-segunda-vez-la-empresa-de-seguridad-del-grupo-vazquez",
-          "publishedAt": "2026-11-18T18:58:36.000Z",
-          "image": "https://www.lanacion.com.py/resizer/g6USuDuK9h6lo3a-krfZj763BHQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg?auth=86abeab1134f4cd1da281d84bfef36cb7992b97da3b3d8d90749cb93947e3156&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/18/caso-ueno-allanan-por-segunda-vez-la-empresa-de-seguridad-del-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 17.3
+      "score": 20.57
     },
     {
       "id": "ev-0bq44t8",
-      "title": "Trump, Xi y Putin se reúnen hoy en una inédita cumbre",
-      "summary": "El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC. Xi ha ocupado el asiento central, con Putin a su derecha y Trump a su izquierda, mientras que las delegaciones de los tres países permanecieron a cierta distancia de los mandatarios.",
+      "title": "Cumbre trilateral: Xi Jinping, Trump y Putin celebran histórica reunión en Pekín",
+      "summary": "Los presidentes de China, Estados Unidos y Rusia se reunieron este jueves en su histórica primera cumbre trilateral, que según Pekín tenía como objetivo “salvaguardar la paz mundial” aunque la cita despertó alarma y rechazo en otros lugares. El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC.",
       "keyPoints": [
+        "Los presidentes de China, Estados Unidos y Rusia se reunieron este jueves en su histórica primera cumbre trilateral, que según Pekín tenía como objetivo “salvaguardar la paz mundial” aunque la cita despertó alarma y rechazo en…",
         "El encuentro entre los líderes se realizará como una agenda paralela a la de la cumbre de la APEC.",
-        "Xi ha ocupado el asiento central, con Putin a su derecha y Trump a su izquierda, mientras que las delegaciones de los tres países permanecieron a cierta distancia de los mandatarios.",
-        "La reunión duró alrededor de una hora y veinte minutos y tuvo lugar en el hotel Kylin Villa, en los márgenes de la cumbre de líderes del Foro de Cooperación Económica de Asia Pacífico (APEC), que…",
-        "Los presidentes de China, Estados Unidos y Rusia se reunieron este jueves en su histórica primera cumbre trilateral, que según Pekín tenía como objetivo “salvaguardar la paz mundial” aunque la cita despertó alarma y rechazo en…"
+        "Los mandatarios de Estados Unidos, China y Rusia protagonizaron en Shenzhen un encuentro inédito entre las tres mayores potencias nucleares.",
+        "Los mandatarios se reunieron para abordar la seguridad energética, la guerra en Ucrania y la reducción de riesgos nucleares."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -395,12 +303,28 @@
       "model": null,
       "sources": [
         {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "China, EEUU y Rusia adoptan una \"declaración de paz\" en su primera cumbre",
+          "url": "https://www.ultimahora.com/china-eeuu-y-rusia-adoptan-una-declaracion-de-paz-en-su-primera-cumbre",
+          "publishedAt": "2026-11-19T15:29:00.000Z",
+          "image": null
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Cumbre trilateral: Xi Jinping, Trump y Putin celebran histórica reunión en Pekín",
           "url": "https://www.lanacion.com.py/mundo/2026/11/19/cumbre-trilateral-xi-jinping-trump-y-putin-celebran-historica-reunion-en-pekin",
           "publishedAt": "2026-11-19T11:08:01.000Z",
           "image": "https://www.lanacion.com.py/resizer/HJxihgm9tk0n7bLmzfQ4GcHwM_o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BYDSFGBQYVFC7DNTFSB7BO4MZY.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Xi, Trump y Putin acuerdan aumentar el suministro energético en una reunión histórica",
+          "url": "https://5dias.com.py/article/xi-trump-y-putin-acuerdan-aumentar-el-suministro-energtico-en-una-reunin-histrica",
+          "publishedAt": "2026-11-19T10:52:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/canva_web_72_20261119_110051.jpg"
         },
         {
           "sourceId": "abc",
@@ -532,25 +456,116 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CYZFTGURHRHARENYTUHMIJE654.jpg?auth=8b84b97899c58f32075e3fd3d4e1c8cc932b44453fa78f03707c9e355604915e&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BYDSFGBQYVFC7DNTFSB7BO4MZY.jpg?auth=2d610bc2278955b43ee213a0b8fe98f3980fdde2985e8803490129e07767cdef&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/19/trump-xi-y-putin-se-reunen-hoy-en-una-inedita-cumbre"
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/19/cumbre-trilateral-xi-jinping-trump-y-putin-celebran-historica-reunion-en-pekin"
       },
       "firstSeenAt": "2026-11-19T04:05:31.954Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-19T12:07:21.748Z",
+      "updatedAt": "2026-11-19T16:07:11.856Z",
+      "updatedSlot": "tarde",
+      "score": 18.45
+    },
+    {
+      "id": "ev-11q9s22",
+      "title": "Caso Ueno: allanan por segunda vez la empresa de seguridad del Grupo Vázquez",
+      "summary": "Las autoridades buscan inventariar y verificar la documentación de las armas de fuego que fueron hallados en el sitio. El Ministerio Público amplió este miércoles los procedimientos en la firma GSR Security (Dobrestec S.A.), perteneciente al Grupo Vázquez, con un nuevo allanamiento en su sede del barrio Vista Alegre de Asunción.",
+      "keyPoints": [
+        "Las autoridades buscan inventariar y verificar la documentación de las armas de fuego que fueron hallados en el sitio.",
+        "El Ministerio Público amplió este miércoles los procedimientos en la firma GSR Security (Dobrestec S.A.), perteneciente al Grupo Vázquez, con un nuevo allanamiento en su sede del barrio Vista Alegre de Asunción.",
+        "Ante la incertidumbre generada en torno al proceso de resolución de Ueno Bank , el abogado Manuel Riera Domínguez analizó en detalle los alcances de la Ley 2334 de resolución bancaria del año 2003, normativa que…",
+        "ABC Cardinal 730 AM · 18 11 2026 Periodísticamente - Abogado Manuel Riera Domínguez"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hallan en GSR Security máquinas para fabricar piezas de armas y una bóveda oculta",
+          "url": "https://www.abc.com.py/policiales/2026/11/19/hallan-en-gsr-security-maquinas-para-fabricar-piezas-de-armas-y-una-boveda-oculta",
+          "publishedAt": "2026-11-19T03:43:34.000Z",
+          "image": "https://www.abc.com.py/resizer/JSTGTVBw9GfBGUEQkGxRmgKNYas=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/WWWEZGJNENCZNNKYWQZFVSH2FU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan por segunda vez firma de seguridad",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/19/allanan-por-segunda-vez-firma-de-seguridad",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/awRrIi-wUBXkMi_bKTZYFVu0RJI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z535L32OQBF6DEGPOGLQ3LJNYU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Caso Ueno Bank: Fiscalía vuelve a intervenir sede de GSR Security en búsqueda de armas de fuego",
+          "url": "https://www.abc.com.py/730am/2026/11/18/audio-caso-ueno-bank-fiscalia-vuelve-a-intervenir-sede-de-gsr-security-en-busqueda-de-armas-de-fuego",
+          "publishedAt": "2026-11-19T00:22:07.000Z",
+          "image": "https://www.abc.com.py/resizer/rrEBwsfkrBbSLK042ErB_PvYzPU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/I362EAEA5VF5LCDV6FAIKDWWKM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Caso Ueno: cómo es el orden de devolución de activos y qué pasará con los ahorristas",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/11/18/audio-caso-ueno-como-es-el-orden-de-devolucion-de-activos-y-que-pasara-con-los-ahorristas",
+          "publishedAt": "2026-11-19T00:15:33.000Z",
+          "image": "https://www.abc.com.py/resizer/p5kjjK_jPTq35_fHWiBwCND9lHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/66LR3IIZ5NHC3D6OQVEYLKLDBY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Caso Ueno Bank: cómo es el orden de devolución de activos y qué pasará con los ahorristas",
+          "url": "https://www.abc.com.py/nacionales/2026/11/18/caso-ueno-bank-como-es-el-orden-de-devolucion-de-activos-y-que-pasara-con-los-ahorristas",
+          "publishedAt": "2026-11-18T23:46:35.000Z",
+          "image": "https://www.abc.com.py/resizer/aTpMnHMDmbR0_b45nNXTewgUmfk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/XE5EA23QOBC47DOZSRESJY2AY4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscalía vuelve a intervenir empresa de seguridad vinculada al caso Ueno",
+          "url": "https://www.adndigital.com.py/fiscalia-vuelve-a-intervenir-empresa-de-seguridad-vinculada-al-caso-ueno",
+          "publishedAt": "2026-11-18T20:51:21.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-18-at-175042.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fiscalía vuelve a allanar empresa de seguridad ligada al Grupo Vázquez",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/18/fiscalia-vuelve-a-allanar-empresa-de-seguridad-ligada-al-grupo-vazquez",
+          "publishedAt": "2026-11-18T20:37:37.834Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg?auth=86abeab1134f4cd1da281d84bfef36cb7992b97da3b3d8d90749cb93947e3156&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Caso Ueno: allanan por segunda vez la empresa de seguridad del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/pais/2026/11/18/caso-ueno-allanan-por-segunda-vez-la-empresa-de-seguridad-del-grupo-vazquez",
+          "publishedAt": "2026-11-18T18:58:36.000Z",
+          "image": "https://www.lanacion.com.py/resizer/g6USuDuK9h6lo3a-krfZj763BHQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H5TMGOXAGJDZ3GGEWMCLVN3IGM.jpeg?auth=86abeab1134f4cd1da281d84bfef36cb7992b97da3b3d8d90749cb93947e3156&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/18/caso-ueno-allanan-por-segunda-vez-la-empresa-de-seguridad-del-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 15.42
+      "score": 16.97
     },
     {
       "id": "ev-1onlql9",
-      "title": "Alliana designa a Hugo Zárate como nuevo director general de Itaipú",
-      "summary": "El presidente de la República, Pedro Alliana, designó como nuevo director general de Itaipú a Hugo Zárate Chávez, en reemplazo de Justo Zacarías. El ingeniero eléctrico se desempeñaba como director técnico del lado paraguayo desde agosto de 2023. El Poder Ejecutivo destituyó a Justo Zacarías Irún de la Dirección General Paraguaya de Itaipú y designó en su reemplazo al ingeniero Hugo Osvaldo Zárate Chávez.",
+      "title": "Zárate asume en Itaipú y promete transparencia en el manejo de fondos",
+      "summary": "El ingeniero Hugo Osvaldo Zárate Chávez asumió como nuevo director general paraguayo de Itaipú Binacional, con el compromiso de transparentar la administración de los recursos de la entidad. El jefe de Estado resaltó que el designado es un funcionario de carrera, con 37 años de trayectoria en Itaipú, donde ocupó importantes cargos hasta llegar a la Dirección Técnica.",
       "keyPoints": [
-        "El presidente de la República, Pedro Alliana, designó como nuevo director general de Itaipú a Hugo Zárate Chávez, en reemplazo de Justo Zacarías.",
-        "El Poder Ejecutivo destituyó a Justo Zacarías Irún de la Dirección General Paraguaya de Itaipú y designó en su reemplazo al ingeniero Hugo Osvaldo Zárate Chávez.",
-        "La salida del director paraguayo se produce tras el escándalo por los manejos financieros vinculados a Ueno Bank.",
-        "El jefe de Estado resaltó que el designado es un funcionario de carrera, con 37 años de trayectoria en Itaipú, donde ocupó importantes cargos hasta llegar a la Dirección Técnica."
+        "El ingeniero Hugo Osvaldo Zárate Chávez asumió como nuevo director general paraguayo de Itaipú Binacional, con el compromiso de transparentar la administración de los recursos de la entidad.",
+        "El jefe de Estado resaltó que el designado es un funcionario de carrera, con 37 años de trayectoria en Itaipú, donde ocupó importantes cargos hasta llegar a la Dirección Técnica.",
+        "El nuevo director general interino de la binacional suscribió en 2025, cuando se desempeñaba como director técnico, el documento que incorporó a ueno bank entre las entidades bancarias habilitadas."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -558,6 +573,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Zárate firmó resolución que habilitó a Ueno Bank para operar con Itaipú",
+          "url": "https://elnacional.com.py/politica/zarate-firmo-resolucion-habilito-ueno-bank-operar-itaipu-n115491",
+          "publishedAt": "2026-11-19T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afdde2389547.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -600,15 +623,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LKMZN74XYZGFBKJFQSY6PUVRFQ.png?auth=da5cc14405e7b2521bc62f62bb955917b41dcdd3c75755fb65c0b5bbbe527832&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/18/alliana-designa-a-hugo-zarate-como-nuevo-director-general-de-itaipu"
+        "url": "https://statics.elnacional.com.py/2026/11/6afdf155c2dd7.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/zarate-asume-itaipu-promete-transparencia-manejo-fondos-n115463"
       },
       "firstSeenAt": "2026-11-19T04:05:31.954Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-19T08:07:12.882Z",
-      "updatedSlot": "manana",
-      "score": 14.35
+      "updatedAt": "2026-11-19T16:07:11.856Z",
+      "updatedSlot": "tarde",
+      "score": 14.82
     },
     {
       "id": "ev-1b5r0gy",
@@ -659,7 +682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 13.05
+      "score": 12.72
     },
     {
       "id": "ev-1syvhkb",
@@ -710,7 +733,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 12.82
+      "score": 12.49
     },
     {
       "id": "ev-01feao1",
@@ -802,7 +825,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 11.29
+      "score": 10.96
+    },
+    {
+      "id": "ev-0i9fp2g",
+      "title": "Exsocia de Celeste facturó con Hambre Cero el 40 % de sus contratos históricos",
+      "summary": "Los saldos de cuentas a cobrar a proveedoras de alimento escolar que obran en su declaración jurada, más algunas efusivas protestas realizadas en su momento por la repartija de contratos en el programa Hambre Cero, siguen generando sospechas que sindican a la actual senadora liberal Celeste Amarilla como dueña de la próspera empresa con multimillonarias adjudicaciones en el Estado.",
+      "keyPoints": [
+        "Los saldos de cuentas a cobrar a proveedoras de alimento escolar que obran en su declaración jurada, más algunas efusivas protestas realizadas en su momento por la repartija de contratos en el programa Hambre Cero, siguen…",
+        "La postura de la senadora liberal Celeste Amarilla durante el juicio político a Santiago Peña reaviva las sospechas sobre sus lazos con LF Latinfood S.A., firma que multiplicó exponencialmente sus contratos estatales durante la administración del…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Del festín en Hambre Cero a la tregua: el salto millonario de la exempresa de Celeste en la era Peña",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/19/del-festin-en-hambre-cero-a-la-tregua-el-salto-millonario-de-la-exempresa-de-celeste-amarilla-bajo-el-gobierno-de-pena",
+          "publishedAt": "2026-11-19T14:02:32.560Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IYFCVZPWCBHPJKHOFFOECK4OJM.jpg?auth=815a4a4d675f855ae7142305ccd139b0376cccd7fd62f08a98ad1fb977ef100b&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Exsocia de Celeste facturó con Hambre Cero el 40 % de sus contratos históricos",
+          "url": "https://www.lanacion.com.py/investigacion/2026/11/19/exsocia-de-celeste-facturo-con-hambre-cero-el-40-de-sus-contratos-historicos",
+          "publishedAt": "2026-11-19T03:29:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pZP8ggo535JePNiE9xQo71e0yes=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IYFCVZPWCBHPJKHOFFOECK4OJM.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Millonarias adjudicaciones en Hambre Cero y los beneficios para el entorno de Celeste Amarilla",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/18/millonarias-adjudicaciones-en-hambre-cero-y-los-beneficios-para-el-entorno-de-celeste-amarilla",
+          "publishedAt": "2026-11-18T19:04:57.214Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ZIWWCFFVTFCYVOJMSELDY3ZZT4.jpg?auth=5d8194e9dad8078f44cdcfe5df52700b0358f1647603f70f2c395bb69b9b4a23&width=1200&height=630&smart=true"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/IYFCVZPWCBHPJKHOFFOECK4OJM.jpg?auth=815a4a4d675f855ae7142305ccd139b0376cccd7fd62f08a98ad1fb977ef100b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/investigacion/2026/11/19/exsocia-de-celeste-facturo-con-hambre-cero-el-40-de-sus-contratos-historicos"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T16:07:11.856Z",
+      "updatedSlot": "tarde",
+      "score": 10.83
     },
     {
       "id": "ev-114hn7a",
@@ -853,7 +926,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-1ub6r61",
@@ -904,7 +977,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0mhg6ae",
@@ -955,15 +1028,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.54
+      "score": 9.21
     },
     {
-      "id": "ev-0i9fp2g",
-      "title": "Exsocia de Celeste facturó con Hambre Cero el 40 % de sus contratos históricos",
-      "summary": "Los saldos de cuentas a cobrar a proveedoras de alimento escolar que obran en su declaración jurada, más algunas efusivas protestas realizadas en su momento por la repartija de contratos en el programa Hambre Cero, siguen generando sospechas que sindican a la actual senadora liberal Celeste Amarilla como dueña de la próspera empresa con multimillonarias adjudicaciones en el Estado.",
+      "id": "ev-1wq5kju",
+      "title": "ANR retoma atención oftalmológica que irá hasta la última semana de diciembre",
+      "summary": "La ANR otorga el servicio de consulta oftalmológica en la sede partidaria todos los jueves a partir de las 7:00 y con cupos para 100 personas en una jornada. La Comisión de Mujeres habilitará 100 cupos semanales por orden de llegada para consultas médicas y entrega de lentes sin costo, abiertos a toda la ciudadanía sin distinción partidaria.",
       "keyPoints": [
-        "Los saldos de cuentas a cobrar a proveedoras de alimento escolar que obran en su declaración jurada, más algunas efusivas protestas realizadas en su momento por la repartija de contratos en el programa Hambre Cero, siguen…",
-        "Un análisis de los registros de contratación pública y declaraciones patrimoniales de la proveedora LF Latinfood S.A."
+        "La ANR otorga el servicio de consulta oftalmológica en la sede partidaria todos los jueves a partir de las 7:00 y con cupos para 100 personas en una jornada.",
+        "La Comisión de Mujeres habilitará 100 cupos semanales por orden de llegada para consultas médicas y entrega de lentes sin costo, abiertos a toda la ciudadanía sin distinción partidaria.",
+        "Se habilitarán 100 cupos semanales por orden de llegada, incluyendo tanto la consulta médica como la entrega de anteojos recetados.",
+        "Fiscala general quiere recuperar la credibilidad y confianza de la ciudadanía; ANR retoma atención oftalmológica que irá hasta la última semana de diciembre; Microempresas están golpeadas y urgen reactivación de la economía, afirman; Fraude de Ueno…"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -974,30 +1049,70 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Exsocia de Celeste facturó con Hambre Cero el 40 % de sus contratos históricos",
-          "url": "https://www.lanacion.com.py/investigacion/2026/11/19/exsocia-de-celeste-facturo-con-hambre-cero-el-40-de-sus-contratos-historicos",
-          "publishedAt": "2026-11-19T03:29:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/pZP8ggo535JePNiE9xQo71e0yes=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/IYFCVZPWCBHPJKHOFFOECK4OJM.jpg"
+          "title": "LN PM: edición del 19 de noviembre",
+          "url": "https://www.lanacion.com.py/tapa-lnpm/2026/11/19/ln-pm-edicion-del-19-de-noviembre",
+          "publishedAt": "2026-11-19T15:27:41.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HvVgfFz3S0IJw4UaOZuKjracVKs=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/X34MT35UTVCWDCLT4XOZZXABN4.jpg"
         },
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Millonarias adjudicaciones en Hambre Cero y los beneficios para el entorno de Celeste Amarilla",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/18/millonarias-adjudicaciones-en-hambre-cero-y-los-beneficios-para-el-entorno-de-celeste-amarilla",
-          "publishedAt": "2026-11-18T19:04:57.214Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ZIWWCFFVTFCYVOJMSELDY3ZZT4.jpg?auth=5d8194e9dad8078f44cdcfe5df52700b0358f1647603f70f2c395bb69b9b4a23&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "ANR retoma atención oftalmológica que irá hasta la última semana de diciembre",
+          "url": "https://www.lanacion.com.py/politica/2026/11/19/anr-retoma-atencion-oftalmologica-que-ira-hasta-la-ultima-semana-de-diciembre",
+          "publishedAt": "2026-11-19T12:38:08.000Z",
+          "image": "https://www.lanacion.com.py/resizer/edd5VpMVKsb16Zh32o3wzzWKgKE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FZIAFCL5ORFW7B5XOVNJPW4B5I.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Microempresas están golpeadas y urgen reactivación de la economía, afirman",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/19/microempresas-estan-golpeadas-y-urgen-reactivacion-de-la-economia-afirman",
+          "publishedAt": "2026-11-19T11:54:45.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Xzm8nj8kCWyF_sQqQxTWfRa32-0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/3SP45HX6DJGLZI2OX3Q6QEPH4Q.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscala general quiere recuperar la credibilidad y confianza de la ciudadanía",
+          "url": "https://www.lanacion.com.py/politica/2026/11/19/fiscala-general-quiere-recuperar-la-credibilidad-y-confianza-de-la-ciudadania",
+          "publishedAt": "2026-11-19T11:30:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/MZ5UrjDiH4xXTCs2M3F0JCPufgo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MZZGC722GFFCDHXC3G2TA6LSEY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fraude de Ueno en New York expone a Paraguay a una demanda, afirma titular del BCP",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/19/fraude-de-ueno-en-new-york-expone-a-paraguay-a-una-demanda-afirma-titular-del-bcp",
+          "publishedAt": "2026-11-19T10:31:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cQ0GJFApqn6PsCD79y2JsL7MeJE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Reinician atención oftalmológica con entrega de lentes sin costo en la ANR",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/19/reinician-atencion-oftalmologica-con-entrega-de-lentes-sin-costo-en-la-anr",
+          "publishedAt": "2026-11-19T03:42:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/KQrz4_UsWTNAX3PSDXrRmtgCpjw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GVS35DYGWNCJFPZT36W3AN23TI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Consultas y anteojos gratis todos los jueves en la ANR",
+          "url": "https://www.lanacion.com.py/pais/2026/11/18/consultas-y-anteojos-gratis-todos-los-jueves-en-la-anr",
+          "publishedAt": "2026-11-18T18:30:25.000Z",
+          "image": "https://www.lanacion.com.py/resizer/EIwoU_tOHolZXqgTX3MXt2I_-8k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GTOL4AGYBZD7DLRVIAQ5EKC6EA.jpeg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/IYFCVZPWCBHPJKHOFFOECK4OJM.jpg?auth=815a4a4d675f855ae7142305ccd139b0376cccd7fd62f08a98ad1fb977ef100b&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FZIAFCL5ORFW7B5XOVNJPW4B5I.jpg?auth=dbca608409bd802749c7930e35cb29cd2d8f8707a0d37a48016103ca50edafb3&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/investigacion/2026/11/19/exsocia-de-celeste-facturo-con-hambre-cero-el-40-de-sus-contratos-historicos"
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/19/anr-retoma-atencion-oftalmologica-que-ira-hasta-la-ultima-semana-de-diciembre"
       },
       "firstSeenAt": "2026-11-19T04:05:31.954Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 9.28
+      "updatedAt": "2026-11-19T16:07:11.856Z",
+      "updatedSlot": "tarde",
+      "score": 8.95
     },
     {
       "id": "ev-1l6072l",
@@ -1039,7 +1154,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-1kixu05",
@@ -1081,7 +1196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.24
+      "score": 8.91
     },
     {
       "id": "ev-0wt9mwp",
@@ -1123,7 +1238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 9.05
+      "score": 8.71
     },
     {
       "id": "ev-1mn793b",
@@ -1165,7 +1280,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.47
     },
     {
       "id": "ev-12v93rv",
@@ -1207,7 +1322,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.46
     },
     {
       "id": "ev-10boz7u",
@@ -1249,7 +1364,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.38
     },
     {
       "id": "ev-03z2ghl",
@@ -1291,7 +1406,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.64
+      "score": 8.31
     },
     {
       "id": "ev-161rgo2",
@@ -1333,7 +1448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 8.38
+      "score": 8.05
     },
     {
       "id": "ev-0u2wchd",
@@ -1416,7 +1531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T12:07:21.748Z",
       "updatedSlot": "manana",
-      "score": 6.89
+      "score": 6.56
     },
     {
       "id": "ev-1lwu71l",
@@ -1458,7 +1573,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.74
+      "score": 6.41
     },
     {
       "id": "ev-0eaw85j",
@@ -1500,7 +1615,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.53
+      "score": 6.2
     },
     {
       "id": "ev-1q0kmh2",
@@ -1551,7 +1666,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.49
+      "score": 6.16
     },
     {
       "id": "ev-1tvrtnp",
@@ -1593,49 +1708,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.32
-    },
-    {
-      "id": "ev-1wq5kju",
-      "title": "Reinician atención oftalmológica con entrega de lentes sin costo en la ANR",
-      "summary": "La Comisión de Mujeres habilitará 100 cupos semanales por orden de llegada para consultas médicas y entrega de lentes sin costo, abiertos a toda la ciudadanía sin distinción partidaria. Se habilitarán 100 cupos semanales por orden de llegada, incluyendo tanto la consulta médica como la entrega de anteojos recetados.",
-      "keyPoints": [
-        "La Comisión de Mujeres habilitará 100 cupos semanales por orden de llegada para consultas médicas y entrega de lentes sin costo, abiertos a toda la ciudadanía sin distinción partidaria.",
-        "Se habilitarán 100 cupos semanales por orden de llegada, incluyendo tanto la consulta médica como la entrega de anteojos recetados."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Reinician atención oftalmológica con entrega de lentes sin costo en la ANR",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/19/reinician-atencion-oftalmologica-con-entrega-de-lentes-sin-costo-en-la-anr",
-          "publishedAt": "2026-11-19T03:42:15.000Z",
-          "image": "https://www.lanacion.com.py/resizer/KQrz4_UsWTNAX3PSDXrRmtgCpjw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GVS35DYGWNCJFPZT36W3AN23TI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Consultas y anteojos gratis todos los jueves en la ANR",
-          "url": "https://www.lanacion.com.py/pais/2026/11/18/consultas-y-anteojos-gratis-todos-los-jueves-en-la-anr",
-          "publishedAt": "2026-11-18T18:30:25.000Z",
-          "image": "https://www.lanacion.com.py/resizer/EIwoU_tOHolZXqgTX3MXt2I_-8k=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GTOL4AGYBZD7DLRVIAQ5EKC6EA.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/GVS35DYGWNCJFPZT36W3AN23TI.jpg?auth=2654df6e74219c2be1a0e09cd125daf86367cc525037382980c1d55087ccd6e8&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/19/reinician-atencion-oftalmologica-con-entrega-de-lentes-sin-costo-en-la-anr"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 6.3
+      "score": 5.99
     },
     {
       "id": "ev-1hm4jfb",
@@ -1677,7 +1750,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1w68wmu",
@@ -1719,7 +1792,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-07gq65o",
@@ -1761,333 +1834,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 5.81
-    },
-    {
-      "id": "ev-1uzegz6",
-      "title": "137-130. Los Heat someten a los Bucks en el reencuentro de Antetokounmpo con sus ex",
-      "summary": "El griego, que fue seleccionado en el 'draft' de 2013 por los Bucks y lideró al equipo al campeonato de 2021, se quedó a una asistencia del triple-doble, con 27 puntos, 13 rebotes y 9 asistencias, pero fue clave para abrir el campo y que sus compañeros acribillaran desde el perímetro a los de Milwaukee.",
-      "keyPoints": [
-        "El griego, que fue seleccionado en el 'draft' de 2013 por los Bucks y lideró al equipo al campeonato de 2021, se quedó a una asistencia del triple-doble, con 27 puntos, 13 rebotes y 9 asistencias…"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "137-130. Los Heat someten a los Bucks en el reencuentro de Antetokounmpo con sus ex",
-          "url": "https://www.abc.com.py/deportes/basquetbol/2026/11/19/137-130-los-heat-someten-a-los-bucks-en-el-reencuentro-de-antetokounmpo-con-sus-ex",
-          "publishedAt": "2026-11-19T03:15:10.000Z",
-          "image": "https://www.abc.com.py/resizer/MSReKceIWzfEWcof7aGys0hjJaM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NLHNVBY3DFBRVGPI5ZQB4TVTVU.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.26
-    },
-    {
-      "id": "ev-07o517p",
-      "title": "Fortaleza, distinguida en la categoría de “Inversión en ladrillos”",
-      "summary": "Recibió el reconocimiento durante la 12.ª edición, destacando su trayectoria en el mercado paraguayo.",
-      "keyPoints": [
-        "Recibió el reconocimiento durante la 12.ª edición, destacando su trayectoria en el mercado paraguayo."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fortaleza, distinguida en la categoría de “Inversión en ladrillos”",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/fortaleza-distinguida-en-la-categoria-de-inversion-en-ladrillos",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1nWh1kDoweIFaLz3Up8OJHmgvCQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJDVGVIAIBGGZM4Q2GDODEW3TA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TJDVGVIAIBGGZM4Q2GDODEW3TA.jpg?auth=4f58aae2d8b4cbf1e21b8fd524a8909b76a373f95c7e406a438888804b98adbe&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/fortaleza-distinguida-en-la-categoria-de-inversion-en-ladrillos"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-0kheg1y",
-      "title": "Cerro-Libertad se jugará el 26",
-      "summary": "Partido por el tercer puesto será en el Defensores del Chaco. La única motivación será el premio mayor para el ganador.",
-      "keyPoints": [
-        "Partido por el tercer puesto será en el Defensores del Chaco."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Cerro-Libertad se jugará el 26",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/cerro-libertad-se-jugara-el-26",
-          "publishedAt": "2026-11-19T03:02:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TCD-z9mDHqRfOzvt4I2uArQw73E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCX6RXZUYNFTPOSIDPWRXPJ5KU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WCX6RXZUYNFTPOSIDPWRXPJ5KU.jpg?auth=7065a039faf7706684bf8bf1bcca575a26bd15443a8ff70e8ca7f8a9665cd8f1&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/cerro-libertad-se-jugara-el-26"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-05u0zj3",
-      "title": "San José acortó la diferencia",
-      "summary": "Olimpia lidera 2-1 la serie final por el título del torneo Clausura de la Liga Nacional.",
-      "keyPoints": [
-        "Olimpia lidera 2-1 la serie final por el título del torneo Clausura de la Liga Nacional."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "San José acortó la diferencia",
-          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/11/19/san-jose-acorto-la-diferencia",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/D8Yvubh3qG0UfZKLW6l2z9lYLM8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RWPV7OZ5YVECLNJJXHIIHDTSJQ.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RWPV7OZ5YVECLNJJXHIIHDTSJQ.jpg?auth=2bcc32a7b17e58425dfc2493ee218e4498a3860ab57565d8eca976b439b711ee&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/11/19/san-jose-acorto-la-diferencia"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-0o0y63u",
-      "title": "Paraguay escaló dos lugares en el ranking",
-      "summary": "La Albirroja saltó al puesto 31 tras sumar 7,60 puntos en los últimos partidos frente Singapur y Japón.",
-      "keyPoints": [
-        "La Albirroja saltó al puesto 31 tras sumar 7,60 puntos en los últimos partidos frente Singapur y Japón."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Paraguay escaló dos lugares en el ranking",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/paraguay-escalo-dos-lugares-en-el-ranking",
-          "publishedAt": "2026-11-19T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iGZcUKzxL9nJB91J9JpegbZ-NCA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/STJF7MGISJHTPEHRHYVTHXCCQ4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/STJF7MGISJHTPEHRHYVTHXCCQ4.jpg?auth=3f5e8074dcd71b8b831caef3e04247d3dd93abcd1d8465265d6c91f429042217&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/paraguay-escalo-dos-lugares-en-el-ranking"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.24
-    },
-    {
-      "id": "ev-1pz14br",
-      "title": "Ciudad Nueva y Campoalto Ladies protagonizarán la final del Comuneros Femenino",
-      "summary": "La primera final por el título inédito de la Copa “Estadio Comuneros” de básquetbol en la rama femenina será este viernes, en el polideportivo “Luis Fernández” del Club Atlético Ciudad Nueva, que recibirá a Campoalto Ladies. Queens reinan en la temporada 2026 La naranjada será botada al aire a partir de las 20:30, en “La Catedral del Básquetbol”, donde las locales tienen ventaja y disputarán 2 de los 3 potenciales encuentros en casa.",
-      "keyPoints": [
-        "La primera final por el título inédito de la Copa “Estadio Comuneros” de básquetbol en la rama femenina será este viernes, en el polideportivo “Luis Fernández” del Club Atlético Ciudad Nueva, que recibirá a Campoalto Ladies."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Ciudad Nueva y Campoalto Ladies protagonizarán la final del Comuneros Femenino",
-          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/ciudad-nueva-y-campoalto-ladies-protagonizaran-la-final-del-comuneros-femenino",
-          "publishedAt": "2026-11-19T01:45:44.000Z",
-          "image": "https://www.abc.com.py/resizer/aJ3pRCQKIYVRFLORupOY6lAE1Bc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C2GDS5TMNBFELKXWBCGLENUXJI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C2GDS5TMNBFELKXWBCGLENUXJI.jpg?auth=ccb21972588fd5a7cce8d901df253dc4f813b195de8e551a0eb7279cac1ab6e6&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/ciudad-nueva-y-campoalto-ladies-protagonizaran-la-final-del-comuneros-femenino"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.14
-    },
-    {
-      "id": "ev-1qa8rrm",
-      "title": "Atlético Tucumán compró la mitad del pase de Clever Ferreira y lo blindó hasta 2030",
-      "summary": "Atlético Tucumán apostó fuerte por la continuidad de Clever Ferreira Ñamandú y ejecutó la opción de compra por el 50% de su ficha a Sportivo Ameliano, a cambio de 600.000 dólares . Según reportó Uriel Iugt, el defensor firmará contrato con el Decano hasta diciembre de 2030 .",
-      "keyPoints": [
-        "Atlético Tucumán apostó fuerte por la continuidad de Clever Ferreira Ñamandú y ejecutó la opción de compra por el 50% de su ficha a Sportivo Ameliano, a cambio de 600.000 dólares ."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Atlético Tucumán compró la mitad del pase de Clever Ferreira y lo blindó hasta 2030",
-          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/18/atletico-tucuman-compro-la-mitad-del-pase-de-clever-ferreira-y-lo-blindo-hasta-2030",
-          "publishedAt": "2026-11-19T01:26:41.000Z",
-          "image": "https://www.abc.com.py/resizer/RQssuvoyO10RuYMMRHXfAuedDQ0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZBXUUAYZ7JHMBAPXD77PUDMJHA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZBXUUAYZ7JHMBAPXD77PUDMJHA.jpg?auth=b50333100990be0dfe005f4382329689da498f9646b67d37ccd4869ad3f950d3&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/18/atletico-tucuman-compro-la-mitad-del-pase-de-clever-ferreira-y-lo-blindo-hasta-2030"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.11
-    },
-    {
-      "id": "ev-1hwoflk",
-      "title": "Paraguay vuelve a dominar el tenis de mesa en Brasil",
-      "summary": "El tenis de mesa paraguayo volvió a dejar su sello en Brasil. La delegación nacional se consagró campeona general de la Copa Interestadual e Internacional Antonio Kimura, torneo que reunió a competidores de distintas regiones y países los días 14 y 15 de noviembre, en Toledo, estado de Paraná.",
-      "keyPoints": [
-        "El tenis de mesa paraguayo volvió a dejar su sello en Brasil."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Paraguay vuelve a dominar el tenis de mesa en Brasil",
-          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguay-vuelve-a-dominar-el-tenis-de-mesa-en-brasil",
-          "publishedAt": "2026-11-19T00:54:31.000Z",
-          "image": "https://www.abc.com.py/resizer/YDmPqpiRHk9xU7U8uaaeQ6Nqfgc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FFNKHAFCKFEYXM4NUT2UXXAHDQ.jfif"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FFNKHAFCKFEYXM4NUT2UXXAHDQ.jfif?auth=2dc74c34b772cca0600ed2c145d417d6102b271cfbafdf31713233ab86e2e17d&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguay-vuelve-a-dominar-el-tenis-de-mesa-en-brasil"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.07
-    },
-    {
-      "id": "ev-0il0tzj",
-      "title": "Paraguayos disputarán el Nacional de Rugby de Veteranos “Nave 56″",
-      "summary": "Cuatro atletas experimentados representarán a nuestro país en la edición 56ª del Nacional de Veteranos de Rugby que se disputará en el Hindú Club, en la localidad de Don Torcuato, Provincia de Buenos Aires, Argentina. Luque, campeón de la Copa de Oro del Clausura Este tipo de eventos también es organizado por la Asociación Unida de Veteranos Argentinos de Rugby (Auvar).",
-      "keyPoints": [
-        "Cuatro atletas experimentados representarán a nuestro país en la edición 56ª del Nacional de Veteranos de Rugby que se disputará en el Hindú Club, en la localidad de Don Torcuato, Provincia de Buenos Aires, Argentina."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Paraguayos disputarán el Nacional de Rugby de Veteranos “Nave 56″",
-          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguayos-disputaran-el-nacional-de-rugby-de-veteranos-nave-56",
-          "publishedAt": "2026-11-19T00:48:15.000Z",
-          "image": "https://www.abc.com.py/resizer/KZMC_fZO4YaWDzB3A8zNG22c5Z8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VGCOQZYIEZBTLNJDQOEXPXOO3M.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VGCOQZYIEZBTLNJDQOEXPXOO3M.jpeg?auth=06d90377c00bf6cd39352e4cdd0691f2a1a34decec4702b82b138782a68b25e4&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguayos-disputaran-el-nacional-de-rugby-de-veteranos-nave-56"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.06
-    },
-    {
-      "id": "ev-0ri48og",
-      "title": "La plata estaba en Ueno: ¿me pueden reclamar como director?",
-      "summary": "El director responde por la forma en que decidió dónde depositar , y la asamblea se lo va a preguntar cuando trate el balance. El Banco Central del Paraguay estima que el 97% de los ahorristas de Ueno Bank está cubierto por la garantía de depósitos.",
-      "keyPoints": [
-        "El director responde por la forma en que decidió dónde depositar , y la asamblea se lo va a preguntar cuando trate el balance."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "La plata estaba en Ueno: ¿me pueden reclamar como director?",
-          "url": "https://www.abc.com.py/negocios/2026/11/18/la-plata-estaba-en-ueno-me-pueden-reclamar-como-director",
-          "publishedAt": "2026-11-19T00:46:05.000Z",
-          "image": "https://www.abc.com.py/resizer/r18vEZ9MzOnene9_h1aW1ODxpfs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2XGJGVDFEZD6LGWG7ZACQCERPE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2XGJGVDFEZD6LGWG7ZACQCERPE.jpg?auth=06a70f4ba08482e916363ec661e993f4b2d4024294537e5c58922b3de79d52eb&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/negocios/2026/11/18/la-plata-estaba-en-ueno-me-pueden-reclamar-como-director"
-      },
-      "firstSeenAt": "2026-11-19T04:05:31.954Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-19T04:05:31.954Z",
-      "updatedSlot": "manana",
-      "score": 5.05
+      "score": 5.48
     },
     {
       "id": "ev-1tygsz3",
@@ -2132,6 +1879,332 @@
       "score": 5
     },
     {
+      "id": "ev-1uzegz6",
+      "title": "137-130. Los Heat someten a los Bucks en el reencuentro de Antetokounmpo con sus ex",
+      "summary": "El griego, que fue seleccionado en el 'draft' de 2013 por los Bucks y lideró al equipo al campeonato de 2021, se quedó a una asistencia del triple-doble, con 27 puntos, 13 rebotes y 9 asistencias, pero fue clave para abrir el campo y que sus compañeros acribillaran desde el perímetro a los de Milwaukee.",
+      "keyPoints": [
+        "El griego, que fue seleccionado en el 'draft' de 2013 por los Bucks y lideró al equipo al campeonato de 2021, se quedó a una asistencia del triple-doble, con 27 puntos, 13 rebotes y 9 asistencias…"
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "137-130. Los Heat someten a los Bucks en el reencuentro de Antetokounmpo con sus ex",
+          "url": "https://www.abc.com.py/deportes/basquetbol/2026/11/19/137-130-los-heat-someten-a-los-bucks-en-el-reencuentro-de-antetokounmpo-con-sus-ex",
+          "publishedAt": "2026-11-19T03:15:10.000Z",
+          "image": "https://www.abc.com.py/resizer/MSReKceIWzfEWcof7aGys0hjJaM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/NLHNVBY3DFBRVGPI5ZQB4TVTVU.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.93
+    },
+    {
+      "id": "ev-07o517p",
+      "title": "Fortaleza, distinguida en la categoría de “Inversión en ladrillos”",
+      "summary": "Recibió el reconocimiento durante la 12.ª edición, destacando su trayectoria en el mercado paraguayo.",
+      "keyPoints": [
+        "Recibió el reconocimiento durante la 12.ª edición, destacando su trayectoria en el mercado paraguayo."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fortaleza, distinguida en la categoría de “Inversión en ladrillos”",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/fortaleza-distinguida-en-la-categoria-de-inversion-en-ladrillos",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1nWh1kDoweIFaLz3Up8OJHmgvCQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TJDVGVIAIBGGZM4Q2GDODEW3TA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TJDVGVIAIBGGZM4Q2GDODEW3TA.jpg?auth=4f58aae2d8b4cbf1e21b8fd524a8909b76a373f95c7e406a438888804b98adbe&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/19/fortaleza-distinguida-en-la-categoria-de-inversion-en-ladrillos"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.91
+    },
+    {
+      "id": "ev-0kheg1y",
+      "title": "Cerro-Libertad se jugará el 26",
+      "summary": "Partido por el tercer puesto será en el Defensores del Chaco. La única motivación será el premio mayor para el ganador.",
+      "keyPoints": [
+        "Partido por el tercer puesto será en el Defensores del Chaco."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Cerro-Libertad se jugará el 26",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/cerro-libertad-se-jugara-el-26",
+          "publishedAt": "2026-11-19T03:02:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TCD-z9mDHqRfOzvt4I2uArQw73E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WCX6RXZUYNFTPOSIDPWRXPJ5KU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WCX6RXZUYNFTPOSIDPWRXPJ5KU.jpg?auth=7065a039faf7706684bf8bf1bcca575a26bd15443a8ff70e8ca7f8a9665cd8f1&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/cerro-libertad-se-jugara-el-26"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.91
+    },
+    {
+      "id": "ev-05u0zj3",
+      "title": "San José acortó la diferencia",
+      "summary": "Olimpia lidera 2-1 la serie final por el título del torneo Clausura de la Liga Nacional.",
+      "keyPoints": [
+        "Olimpia lidera 2-1 la serie final por el título del torneo Clausura de la Liga Nacional."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "San José acortó la diferencia",
+          "url": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/11/19/san-jose-acorto-la-diferencia",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/D8Yvubh3qG0UfZKLW6l2z9lYLM8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RWPV7OZ5YVECLNJJXHIIHDTSJQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RWPV7OZ5YVECLNJJXHIIHDTSJQ.jpg?auth=2bcc32a7b17e58425dfc2493ee218e4498a3860ab57565d8eca976b439b711ee&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/11/19/san-jose-acorto-la-diferencia"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.91
+    },
+    {
+      "id": "ev-0o0y63u",
+      "title": "Paraguay escaló dos lugares en el ranking",
+      "summary": "La Albirroja saltó al puesto 31 tras sumar 7,60 puntos en los últimos partidos frente Singapur y Japón.",
+      "keyPoints": [
+        "La Albirroja saltó al puesto 31 tras sumar 7,60 puntos en los últimos partidos frente Singapur y Japón."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Paraguay escaló dos lugares en el ranking",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/paraguay-escalo-dos-lugares-en-el-ranking",
+          "publishedAt": "2026-11-19T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iGZcUKzxL9nJB91J9JpegbZ-NCA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/STJF7MGISJHTPEHRHYVTHXCCQ4.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/STJF7MGISJHTPEHRHYVTHXCCQ4.jpg?auth=3f5e8074dcd71b8b831caef3e04247d3dd93abcd1d8465265d6c91f429042217&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/19/paraguay-escalo-dos-lugares-en-el-ranking"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.91
+    },
+    {
+      "id": "ev-1pz14br",
+      "title": "Ciudad Nueva y Campoalto Ladies protagonizarán la final del Comuneros Femenino",
+      "summary": "La primera final por el título inédito de la Copa “Estadio Comuneros” de básquetbol en la rama femenina será este viernes, en el polideportivo “Luis Fernández” del Club Atlético Ciudad Nueva, que recibirá a Campoalto Ladies. Queens reinan en la temporada 2026 La naranjada será botada al aire a partir de las 20:30, en “La Catedral del Básquetbol”, donde las locales tienen ventaja y disputarán 2 de los 3 potenciales encuentros en casa.",
+      "keyPoints": [
+        "La primera final por el título inédito de la Copa “Estadio Comuneros” de básquetbol en la rama femenina será este viernes, en el polideportivo “Luis Fernández” del Club Atlético Ciudad Nueva, que recibirá a Campoalto Ladies."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ciudad Nueva y Campoalto Ladies protagonizarán la final del Comuneros Femenino",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/ciudad-nueva-y-campoalto-ladies-protagonizaran-la-final-del-comuneros-femenino",
+          "publishedAt": "2026-11-19T01:45:44.000Z",
+          "image": "https://www.abc.com.py/resizer/aJ3pRCQKIYVRFLORupOY6lAE1Bc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/C2GDS5TMNBFELKXWBCGLENUXJI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/C2GDS5TMNBFELKXWBCGLENUXJI.jpg?auth=ccb21972588fd5a7cce8d901df253dc4f813b195de8e551a0eb7279cac1ab6e6&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/ciudad-nueva-y-campoalto-ladies-protagonizaran-la-final-del-comuneros-femenino"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.8
+    },
+    {
+      "id": "ev-1qa8rrm",
+      "title": "Atlético Tucumán compró la mitad del pase de Clever Ferreira y lo blindó hasta 2030",
+      "summary": "Atlético Tucumán apostó fuerte por la continuidad de Clever Ferreira Ñamandú y ejecutó la opción de compra por el 50% de su ficha a Sportivo Ameliano, a cambio de 600.000 dólares . Según reportó Uriel Iugt, el defensor firmará contrato con el Decano hasta diciembre de 2030 .",
+      "keyPoints": [
+        "Atlético Tucumán apostó fuerte por la continuidad de Clever Ferreira Ñamandú y ejecutó la opción de compra por el 50% de su ficha a Sportivo Ameliano, a cambio de 600.000 dólares ."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Atlético Tucumán compró la mitad del pase de Clever Ferreira y lo blindó hasta 2030",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/18/atletico-tucuman-compro-la-mitad-del-pase-de-clever-ferreira-y-lo-blindo-hasta-2030",
+          "publishedAt": "2026-11-19T01:26:41.000Z",
+          "image": "https://www.abc.com.py/resizer/RQssuvoyO10RuYMMRHXfAuedDQ0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZBXUUAYZ7JHMBAPXD77PUDMJHA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/ZBXUUAYZ7JHMBAPXD77PUDMJHA.jpg?auth=b50333100990be0dfe005f4382329689da498f9646b67d37ccd4869ad3f950d3&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/18/atletico-tucuman-compro-la-mitad-del-pase-de-clever-ferreira-y-lo-blindo-hasta-2030"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.78
+    },
+    {
+      "id": "ev-1hwoflk",
+      "title": "Paraguay vuelve a dominar el tenis de mesa en Brasil",
+      "summary": "El tenis de mesa paraguayo volvió a dejar su sello en Brasil. La delegación nacional se consagró campeona general de la Copa Interestadual e Internacional Antonio Kimura, torneo que reunió a competidores de distintas regiones y países los días 14 y 15 de noviembre, en Toledo, estado de Paraná.",
+      "keyPoints": [
+        "El tenis de mesa paraguayo volvió a dejar su sello en Brasil."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Paraguay vuelve a dominar el tenis de mesa en Brasil",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguay-vuelve-a-dominar-el-tenis-de-mesa-en-brasil",
+          "publishedAt": "2026-11-19T00:54:31.000Z",
+          "image": "https://www.abc.com.py/resizer/YDmPqpiRHk9xU7U8uaaeQ6Nqfgc=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/FFNKHAFCKFEYXM4NUT2UXXAHDQ.jfif"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/FFNKHAFCKFEYXM4NUT2UXXAHDQ.jfif?auth=2dc74c34b772cca0600ed2c145d417d6102b271cfbafdf31713233ab86e2e17d&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguay-vuelve-a-dominar-el-tenis-de-mesa-en-brasil"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.73
+    },
+    {
+      "id": "ev-0il0tzj",
+      "title": "Paraguayos disputarán el Nacional de Rugby de Veteranos “Nave 56″",
+      "summary": "Cuatro atletas experimentados representarán a nuestro país en la edición 56ª del Nacional de Veteranos de Rugby que se disputará en el Hindú Club, en la localidad de Don Torcuato, Provincia de Buenos Aires, Argentina. Luque, campeón de la Copa de Oro del Clausura Este tipo de eventos también es organizado por la Asociación Unida de Veteranos Argentinos de Rugby (Auvar).",
+      "keyPoints": [
+        "Cuatro atletas experimentados representarán a nuestro país en la edición 56ª del Nacional de Veteranos de Rugby que se disputará en el Hindú Club, en la localidad de Don Torcuato, Provincia de Buenos Aires, Argentina."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Paraguayos disputarán el Nacional de Rugby de Veteranos “Nave 56″",
+          "url": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguayos-disputaran-el-nacional-de-rugby-de-veteranos-nave-56",
+          "publishedAt": "2026-11-19T00:48:15.000Z",
+          "image": "https://www.abc.com.py/resizer/KZMC_fZO4YaWDzB3A8zNG22c5Z8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VGCOQZYIEZBTLNJDQOEXPXOO3M.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VGCOQZYIEZBTLNJDQOEXPXOO3M.jpeg?auth=06d90377c00bf6cd39352e4cdd0691f2a1a34decec4702b82b138782a68b25e4&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/polideportivo/2026/11/18/paraguayos-disputaran-el-nacional-de-rugby-de-veteranos-nave-56"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.72
+    },
+    {
+      "id": "ev-0ri48og",
+      "title": "La plata estaba en Ueno: ¿me pueden reclamar como director?",
+      "summary": "El director responde por la forma en que decidió dónde depositar , y la asamblea se lo va a preguntar cuando trate el balance. El Banco Central del Paraguay estima que el 97% de los ahorristas de Ueno Bank está cubierto por la garantía de depósitos.",
+      "keyPoints": [
+        "El director responde por la forma en que decidió dónde depositar , y la asamblea se lo va a preguntar cuando trate el balance."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "La plata estaba en Ueno: ¿me pueden reclamar como director?",
+          "url": "https://www.abc.com.py/negocios/2026/11/18/la-plata-estaba-en-ueno-me-pueden-reclamar-como-director",
+          "publishedAt": "2026-11-19T00:46:05.000Z",
+          "image": "https://www.abc.com.py/resizer/r18vEZ9MzOnene9_h1aW1ODxpfs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/2XGJGVDFEZD6LGWG7ZACQCERPE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/2XGJGVDFEZD6LGWG7ZACQCERPE.jpg?auth=06a70f4ba08482e916363ec661e993f4b2d4024294537e5c58922b3de79d52eb&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/negocios/2026/11/18/la-plata-estaba-en-ueno-me-pueden-reclamar-como-director"
+      },
+      "firstSeenAt": "2026-11-19T04:05:31.954Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-19T04:05:31.954Z",
+      "updatedSlot": "manana",
+      "score": 4.72
+    },
+    {
       "id": "ev-06ihrvl",
       "title": "IICA y agrónomos de América impulsan el desarrollo agropecuario",
       "summary": "Firmaron un acuerdo de cooperación técnica por cuatro años, que permitirá articular capacidades, conocimientos y redes profesionales para impulsar la innovación, la sostenibilidad y la seguridad alimentaria en la región.",
@@ -2162,7 +2235,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.62
     },
     {
       "id": "ev-10pijvf",
@@ -2195,7 +2268,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.94
+      "score": 4.6
     },
     {
       "id": "ev-1rw8qwy",
@@ -2228,7 +2301,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.69
+      "score": 4.36
     },
     {
       "id": "ev-0x3u2xo",
@@ -2261,7 +2334,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.63
+      "score": 4.3
     },
     {
       "id": "ev-0l239s7",
@@ -2294,7 +2367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 4.54
+      "score": 4.21
     },
     {
       "id": "ev-0vxatom",
@@ -2336,7 +2409,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 3.57
+      "score": 3.24
     },
     {
       "id": "ev-1ns3mop",
@@ -2374,7 +2447,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 3.55
+      "score": 3.21
     },
     {
       "id": "ev-15rz8hr",
@@ -2403,7 +2476,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 2.82
+      "score": 2.48
     },
     {
       "id": "ev-0lzt4vk",
@@ -2432,7 +2505,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-19T04:05:31.954Z",
       "updatedSlot": "manana",
-      "score": 2.39
+      "score": 2.06
     }
   ],
   "runs": [
@@ -2456,6 +2529,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-19T16:07:11.856Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 7
     }
   ]
 }
