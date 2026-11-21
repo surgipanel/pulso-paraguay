@@ -1,11 +1,103 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-21T08:07:11.501Z",
+  "generatedAt": "2026-11-21T12:07:16.196Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-0r8fhz2",
+      "title": "Fin de semana caluroso, con lluvias y tormentas",
+      "summary": "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas. Además, se prevé un leve descenso para mañana. El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el pronóstico de la Dirección de Meteorología e Hidrología de la Dinac.",
+      "keyPoints": [
+        "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas.",
+        "El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el…",
+        "La Dirección de Meteorología reporta que las condiciones inestables por lluvias continuarán este sábado en gran parte del país.",
+        "La Dirección de Meteorología anuncia temperaturas máximas de hasta 39 °C para este sábado 21 de noviembre."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Meteorología advierte sobre tormentas en medio de un sábado caluroso y húmedo",
+          "url": "https://www.ultimahora.com/meteorologia-advierte-sobre-tormentas-en-medio-de-un-sabado-caluroso-y-humedo",
+          "publishedAt": "2026-11-21T11:35:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima Paraguay: sábado caluroso y probabilidad de tormentas en todo el país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-sabado-caluroso-probabilidad-tormentas-todo-pais-n115587",
+          "publishedAt": "2026-11-21T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/02/4f2ee5cbee398f65364b8145bb7282aa.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ambiente caluroso y húmedo, con lluvias y tormentas durante el fin de semana",
+          "url": "https://www.adndigital.com.py/ambiente-caluroso-y-humedo-con-lluvias-y-tormentas-durante-el-fin-de-semana",
+          "publishedAt": "2026-11-21T10:45:01.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/09/lluvias.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fin de semana caluroso, con lluvias y tormentas",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas",
+          "publishedAt": "2026-11-21T10:14:06.012Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tormentas intensas y calor húmedo dominan el fin de semana en gran parte del territorio",
+          "url": "https://www.lanacion.com.py/pais/2026/11/21/tormentas-intensas-y-calor-humedo-dominan-el-fin-de-semana-en-gran-parte-del-territorio",
+          "publishedAt": "2026-11-21T10:01:33.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1Yh_CWIqpEefR6Q9j1YaCSBysBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EABXH42LPNEFZEKPYBHZQCHCLE.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Más lluvias durante el fin de semana? Lo que dice Meteorología",
+          "url": "https://www.abc.com.py/clima/2026/11/21/mas-lluvias-durante-el-fin-de-semana-lo-que-dice-meteorologia",
+          "publishedAt": "2026-11-21T09:45:59.000Z",
+          "image": "https://www.abc.com.py/resizer/PAQMBVjnKHy9WxRo1i1dQamR4Kw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZWL566TFUJGU3EYVEJY3ESDXMU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Humedad, máximas de 39°C y lluvias con tormentas durante el fin de semana",
+          "url": "https://www.ultimahora.com/humedad-maximas-de-39-c-y-lluvias-con-tormentas-durante-el-fin-de-semana",
+          "publishedAt": "2026-11-20T22:37:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fin de semana caluroso e inestable",
+          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-e-inestable",
+          "publishedAt": "2026-11-20T09:40:26.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
+      "updatedSlot": "manana",
+      "score": 26.96
+    },
     {
       "id": "ev-0aihxkm",
       "title": "Juez autoriza extraer datos de los celulares de Santiago Peña",
@@ -13,8 +105,8 @@
       "keyPoints": [
         "A pedido del Ministerio Público, el juez Osmar Legal autorizó el peritaje de los aparatos celulares incautados en el marco de la causa Santiago Peña.",
         "La autorización judicial se da para la extracción de datos del aparato celular y tarjeta SIM de telefonías.",
-        "La pericia abarcará tres teléfonos iPhone incautados del Regimiento Escolta Presidencial y de la vivienda del expresidente en San Bernardino.",
-        "El juez Osmar Legal autorizó la extracción de datos de tres celulares incautados al expresidente Santiago Peña, en el marco de la investigación del caso Ueno Bank y el Grupo Vázquez."
+        "El juez Osmar Legal autorizó la extracción de datos de tres celulares incautados al expresidente Santiago Peña, en el marco de la investigación del caso Ueno Bank y el Grupo Vázquez.",
+        "El agente fiscal Silvio Corbeta denunció haber recibido amenazas por parte de Fabricio Martínez Appleyard, propietario de la empresa GSR Security, durante un allanamiento realizado en el marco de la investigación del caso Ueno Bank."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +114,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: “Ningún acto de intimidación y presión detendrá al Ministerio Público”, asegura fiscal general",
+          "url": "https://www.abc.com.py/nacionales/2026/11/21/ueno-bank-ningun-acto-de-intimidacion-y-presion-detendra-al-ministerio-publico-asegura-fiscal-general",
+          "publishedAt": "2026-11-21T10:59:55.000Z",
+          "image": "https://www.abc.com.py/resizer/d1PllxCwWVZw6zOppCssyTlLsHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QFHTYB7XCVC3NIWJCKQZBCYKP4.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Fiscales condenan amenazas contra agente que investiga el caso Ueno",
+          "url": "https://www.adndigital.com.py/fiscales-condenan-amenazas-contra-agente-que-investiga-el-caso-ueno",
+          "publishedAt": "2026-11-21T10:57:30.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -118,162 +226,18 @@
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T08:07:11.501Z",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 23.71
-    },
-    {
-      "id": "ev-06w6yrn",
-      "title": "Tras el papelón de Hugo Vera, Emigdio Wendell asume como nuevo viceministro de Transporte",
-      "summary": "El funcionario reemplazará a Vera, quien puso su cargo a disposición antes de asumir oficialmente, tras no poder responder cuánto cuesta el pasaje durante una entrevista radial. Wendell cuenta con más de tres décadas de trayectoria en el Ministerio de Obras Públicas.",
-      "keyPoints": [
-        "El funcionario reemplazará a Vera, quien puso su cargo a disposición antes de asumir oficialmente, tras no poder responder cuánto cuesta el pasaje durante una entrevista radial.",
-        "El presidente de la República Pedro Alliana firmó el decreto N° 7255 por la cual desingó al abogado Emigdio Rufino Wendell Mora, como nuevo viceministro de Transporte, en reemplazo de Hugo Vera, quien dimitió al cargo…",
-        "Emigdio Wendell asumió la titularidad del Viceministerio de Transporte tras una nueva decisión del presidente Pedro Alliana, quien dispuso dejar sin efecto la designación de Hugo Vera, anunciada apenas un día antes.",
-        "El nombramiento de Hugo Nelson Vera como viceministro de Transporte quedó sin efecto tras una polémica entrevista en el programa radial La Lupa, donde evidenció desconocimiento sobre cuestiones básicas de su área."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Alliana cambia a Hugo Vera por Emigdio Wendell en Transporte",
-          "url": "https://www.adndigital.com.py/alliana-cambia-a-hugo-vera-por-emigdio-wendell-en-transporte",
-          "publishedAt": "2026-11-20T21:49:58.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-20-at-184928.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Emigdio Wendell asume como viceministro de Transporte",
-          "url": "https://www.lanacion.com.py/politica/2026/11/20/emigdio-wendell-asume-como-viceministro-de-transporte",
-          "publishedAt": "2026-11-20T18:42:04.000Z",
-          "image": "https://www.lanacion.com.py/resizer/2TfVm2Jpi2Fp71FqdNb_DbY-zKo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MYEDIXU6YVELTGKWVTZRMKY4NE.jpeg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Polémica entrevista termina con la salida de Hugo Vera como viceministro de Transporte",
-          "url": "https://www.telefuturo.com.py/polemica-entrevista-termina-con-la-salida-de-hugo-vera-como-viceministro-de-transporte",
-          "publishedAt": "2026-11-20T18:28:42.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Tras el papelón de Hugo Vera, Emigdio Wendell asume como nuevo viceministro de Transporte",
-          "url": "https://elnacional.com.py/politica/tras-papelon-hugo-vera-emigdio-wendell-asume-como-nuevo-viceministro-transporte-n115578",
-          "publishedAt": "2026-11-20T17:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b00774b3e978.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Ejecutivo designa nuevos viceministros de Transporte y Minas",
-          "url": "https://5dias.com.py/article/ejecutivo-designa-nuevos-viceministros-de-transporte-y-minas",
-          "publishedAt": "2026-11-20T17:26:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Sin_titulo_20261120_172647.png"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "¿Nuevo viceministro de Transporte no sabe cuánto cuesta el pasaje?",
-          "url": "https://elnacional.com.py/politica/nuevo-viceministro-transporte-sabe-cuanto-cuesta-pasaje-n115548",
-          "publishedAt": "2026-11-20T12:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b0014240412b.webp"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6b00774b3e978.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/tras-papelon-hugo-vera-emigdio-wendell-asume-como-nuevo-viceministro-transporte-n115578"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 20.14
-    },
-    {
-      "id": "ev-1wci20j",
-      "title": "Exdirectivo de Ueno declaró ante la Fiscalía y entregó documentos sobre operaciones financieras",
-      "summary": "El ex vicepresidente de Ueno Bank, Julio Rey Fernández, declaró ayer miércoles ante el Ministerio Público y, en el marco de su comparecencia, entregó una serie de documentos relacionados con depósitos sospechosos, operaciones por grandes sumas de dinero, empresas vinculadas y propiedades que serán objeto de investigación.",
-      "keyPoints": [
-        "El ex vicepresidente de Ueno Bank, Julio Rey Fernández, declaró ayer miércoles ante el Ministerio Público y, en el marco de su comparecencia, entregó una serie de documentos relacionados con depósitos sospechosos, operaciones por grandes sumas…",
-        "Julio Rey, ex vicepresidente de Ueno Bank y actualmente recluido en el ex-Tacumbú, declaró ante el Ministerio Público en la causa donde está imputado por lesión de confianza, tentativa de estafa y otros.",
-        "El exvicepresidente de Ueno Bank, Julio Rey Fernández, declaró ante la Fiscalía y entregó documentos sobre presuntas irregularidades financieras para aportar a la investigación.",
-        "El autor del informe \"Delirio colectivo\" declaró como testigo ante el Ministerio Público en el caso ueno bank."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "“Delirio Colectivo”: falta de liquidez de Ueno Bank se supo un año antes",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/21/delirio-colectivo-falta-de-liquidez-de-ueno-bank-se-supo-un-ano-antes",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/igm5H8GhMBmaNrEWhHK9W8a-lGY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGTEZAMVM5DWJLIFEBX46CAHLE.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Autor de informe \"delirio colectivo\" aporta datos como testigo a Fiscalía",
-          "url": "https://www.ultimahora.com/autor-de-informe-delirio-colectivo-aporta-datos-como-testigo-a-fiscalia",
-          "publishedAt": "2026-11-21T00:54:53.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Exdirectivo de Ueno declaró ante la Fiscalía y entregó documentos sobre operaciones financieras",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/20/exdirectivo-de-ueno-declaro-ante-la-fiscalia-y-entrego-documentos-sobre-operaciones-financieras",
-          "publishedAt": "2026-11-20T18:00:15.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0FDNiw6ocaragkjAlCKDSCulzsE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FNDEYLAVWZAG5LP7C6HNIMRSSY.jpg"
-        },
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "Ex directivo de Ueno declaró ante la Fiscalía y aseguró colaboración",
-          "url": "https://www.telefuturo.com.py/ex-directivo-de-ueno-declaro-ante-la-fiscalia-y-aseguro-colaboracion",
-          "publishedAt": "2026-11-20T15:22:14.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Megaestafa Ueno: Julio Rey declara ante Fiscalía y aporta datos sobre operaciones sospechosas",
-          "url": "https://www.npy.com.py/noticias/nacionales/megaestafa-ueno-julio-rey-declara-ante-fiscalia-y-aporta-datos-sobre-operaciones-sospechosas",
-          "publishedAt": "2026-11-20T12:54:00.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FNDEYLAVWZAG5LP7C6HNIMRSSY.jpg?auth=1b8de43beb1c77dec436c771cae670d0eef117df788b8134cd762a22c2e4a5bd&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/20/exdirectivo-de-ueno-declaro-ante-la-fiscalia-y-entrego-documentos-sobre-operaciones-financieras"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 17.58
+      "score": 26.91
     },
     {
       "id": "ev-138rgam",
-      "title": "Fiscalía conforma equipo de agentes para investigar al exfiscal general Emiliano Rolón",
-      "summary": "A apenas días de haber presentado su renuncia al cargo en medio de fuertes cuestionamientos, el exfiscal general del Estado Emiliano Rolón Fernández pasa ahora al banquillo de los investigados. La Fiscal General del Estado interina, Alba Rocío Cantero Vera , firmó este viernes la resolución mediante la cual conformó un equipo especial de agentes fiscales para llevar adelante la investigación penal contra su antecesor.",
+      "title": "Emiliano Rolón acude a la ONU y denuncia persecución política tras su salida de la Fiscalía",
+      "summary": "El exfiscal general del Estado, Emiliano Rolón Fernández, decidió llevar su situación ante las Naciones Unidas mediante una presentación en la que denuncia presuntas represalias institucionales, presiones políticas y una campaña mediática que, según sostiene, derivaron en su salida del Ministerio Público.",
       "keyPoints": [
-        "A apenas días de haber presentado su renuncia al cargo en medio de fuertes cuestionamientos, el exfiscal general del Estado Emiliano Rolón Fernández pasa ahora al banquillo de los investigados.",
-        "El Ministerio Público abrió una investigación contra el ex fiscal general Emiliano Rolón Fernández, por supuesta frustración de la persecución y ejecución penal, tras su renuncia en el marco de un pedido de juicio político por…",
-        "La apertura de la investigación se conoce horas después de que Rolón, quien renunció a su cargo el pasado martes luego de que un grupo de diputados pidiera someterlo a un juicio político por el caso…",
+        "El exfiscal general del Estado, Emiliano Rolón Fernández, decidió llevar su situación ante las Naciones Unidas mediante una presentación en la que denuncia presuntas represalias institucionales, presiones políticas y una campaña mediática que, según sostiene, derivaron…",
+        "El exfiscal general de Paraguay Emiliano Rolón denunció ante la ONU una persecución política tras renunciar a su cargo en medio del escándalo de Ueno Bank, que provocó la destitución y detención del expresidente Santiago Peña…",
+        "El exfiscal general del Estado, Emiliano Rolón Fernández, quien renunció al cargo, envió este viernes una nota a la Relatoría Especial sobre la Independencia de los Magistrados y Abogados de la Organización de las Naciones Unidas…",
         "La fiscal general del Estado, Alba Cantero, decidió formar un equipo de trabajo integrado por tres fiscales para intervenir en la causa penal contra el exfiscal general Emiliano Rolón Fernández, por presunta frustración de la persecución…"
       ],
       "category": "politica",
@@ -282,6 +246,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Emiliano Rolón denuncia ante la ONU persecución penal con motivación política y mediática",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/21/emiliano-rolon-denuncia-ante-la-onu-persecucion-penal-con-motivacion-politica-y-mediatica",
+          "publishedAt": "2026-11-21T09:48:18.262Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/NAPVA6F5XRCXDBHOKKCCAZCIPY.jpeg?auth=261b35f347834cb80ae15a9e68c4c0fc7e42091dc03c2fc6ace662fd7aa83ac2&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -356,15 +328,183 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/CUVR4UQCDVFTTB72G7PPLVLLN4.jpg?auth=0e7cbd86e261911fe94aec791b5bed4c57991e066155446d7827954e6d8fb25a&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/20/fiscalia-conforma-equipo-de-agentes-para-investigar-al-exfiscal-general-emiliano-rolon"
+        "url": "https://statics.elnacional.com.py/2024/09/6e4fb8545b1182e7ddc3d81339453473.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/emiliano-rolon-acude-onu-denuncia-persecucion-politica-tras-su-salida-fiscalia-n115580"
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 17.44
+      "score": 20.81
+    },
+    {
+      "id": "ev-1wci20j",
+      "title": "Ex directivo de Ueno declaró ante la Fiscalía y aseguró colaboración",
+      "summary": "Julio Rey, ex vicepresidente de Ueno Bank y actualmente recluido en el ex-Tacumbú, declaró ante el Ministerio Público en la causa donde está imputado por lesión de confianza, tentativa de estafa y otros. El ex vicepresidente de Ueno Bank, Julio Rey Fernández, declaró ayer miércoles ante el Ministerio Público y, en el marco de su comparecencia, entregó una serie de documentos relacionados con depósitos sospechosos, operaciones por grandes sumas de dinero, empresas vinculadas y propiedades que serán objeto de investigación.",
+      "keyPoints": [
+        "Julio Rey, ex vicepresidente de Ueno Bank y actualmente recluido en el ex-Tacumbú, declaró ante el Ministerio Público en la causa donde está imputado por lesión de confianza, tentativa de estafa y otros.",
+        "El ex vicepresidente de Ueno Bank, Julio Rey Fernández, declaró ayer miércoles ante el Ministerio Público y, en el marco de su comparecencia, entregó una serie de documentos relacionados con depósitos sospechosos, operaciones por grandes sumas…",
+        "El exvicepresidente Julio Rey Fernández rompió el silencio y puso bajo la lupa presuntas maniobras financieras, millonarios movimientos de dinero sin respaldo suficiente y operaciones con empresas vinculadas al Grupo Vázquez.",
+        "El exvicepresidente de Ueno Bank, Julio Rey Fernández, declaró ante la Fiscalía y entregó documentos sobre presuntas irregularidades financieras para aportar a la investigación."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Ueno: revelaciones salpican al negocio electoral y la quiniela",
+          "url": "https://elnacional.com.py/politica/caso-ueno-revelaciones-salpican-negocio-electoral-quiniela-n115597",
+          "publishedAt": "2026-11-21T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/05/6a1a9a9377c83.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El primero en hablar sacudió el caso Ueno",
+          "url": "https://elnacional.com.py/politica/el-primero-hablar-sacudio-caso-ueno-n115595",
+          "publishedAt": "2026-11-21T09:03:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aff8bfc8b414.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "“Delirio Colectivo”: falta de liquidez de Ueno Bank se supo un año antes",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/21/delirio-colectivo-falta-de-liquidez-de-ueno-bank-se-supo-un-ano-antes",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/igm5H8GhMBmaNrEWhHK9W8a-lGY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PGTEZAMVM5DWJLIFEBX46CAHLE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Autor de informe \"delirio colectivo\" aporta datos como testigo a Fiscalía",
+          "url": "https://www.ultimahora.com/autor-de-informe-delirio-colectivo-aporta-datos-como-testigo-a-fiscalia",
+          "publishedAt": "2026-11-21T00:54:53.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Exdirectivo de Ueno declaró ante la Fiscalía y entregó documentos sobre operaciones financieras",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/20/exdirectivo-de-ueno-declaro-ante-la-fiscalia-y-entrego-documentos-sobre-operaciones-financieras",
+          "publishedAt": "2026-11-20T18:00:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0FDNiw6ocaragkjAlCKDSCulzsE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/FNDEYLAVWZAG5LP7C6HNIMRSSY.jpg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Ex directivo de Ueno declaró ante la Fiscalía y aseguró colaboración",
+          "url": "https://www.telefuturo.com.py/ex-directivo-de-ueno-declaro-ante-la-fiscalia-y-aseguro-colaboracion",
+          "publishedAt": "2026-11-20T15:22:14.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Megaestafa Ueno: Julio Rey declara ante Fiscalía y aporta datos sobre operaciones sospechosas",
+          "url": "https://www.npy.com.py/noticias/nacionales/megaestafa-ueno-julio-rey-declara-ante-fiscalia-y-aporta-datos-sobre-operaciones-sospechosas",
+          "publishedAt": "2026-11-20T12:54:00.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/05/6a1a9a9377c83.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/caso-ueno-revelaciones-salpican-negocio-electoral-quiniela-n115597"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
+      "updatedSlot": "manana",
+      "score": 20.8
+    },
+    {
+      "id": "ev-06w6yrn",
+      "title": "Emigdio Wendell asume como viceministro de Transporte",
+      "summary": "El presidente de la República Pedro Alliana firmó el decreto N° 7255 por la cual desingó al abogado Emigdio Rufino Wendell Mora, como nuevo viceministro de Transporte, en reemplazo de Hugo Vera, quien dimitió al cargo al que había sido nombrado.",
+      "keyPoints": [
+        "El presidente de la República Pedro Alliana firmó el decreto N° 7255 por la cual desingó al abogado Emigdio Rufino Wendell Mora, como nuevo viceministro de Transporte, en reemplazo de Hugo Vera, quien dimitió al cargo…",
+        "Emigdio Wendell asumió la titularidad del Viceministerio de Transporte tras una nueva decisión del presidente Pedro Alliana, quien dispuso dejar sin efecto la designación de Hugo Vera, anunciada apenas un día antes.",
+        "El nombramiento de Hugo Nelson Vera como viceministro de Transporte quedó sin efecto tras una polémica entrevista en el programa radial La Lupa, donde evidenció desconocimiento sobre cuestiones básicas de su área.",
+        "Hugo Vera evitó responder cuánto cuesta el pasaje convencional y el diferencial durante una entrevista con radio 1080 AM."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Alliana cambia a Hugo Vera por Emigdio Wendell en Transporte",
+          "url": "https://www.adndigital.com.py/alliana-cambia-a-hugo-vera-por-emigdio-wendell-en-transporte",
+          "publishedAt": "2026-11-20T21:49:58.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-20-at-184928.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Emigdio Wendell asume como viceministro de Transporte",
+          "url": "https://www.lanacion.com.py/politica/2026/11/20/emigdio-wendell-asume-como-viceministro-de-transporte",
+          "publishedAt": "2026-11-20T18:42:04.000Z",
+          "image": "https://www.lanacion.com.py/resizer/2TfVm2Jpi2Fp71FqdNb_DbY-zKo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/MYEDIXU6YVELTGKWVTZRMKY4NE.jpeg"
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "Polémica entrevista termina con la salida de Hugo Vera como viceministro de Transporte",
+          "url": "https://www.telefuturo.com.py/polemica-entrevista-termina-con-la-salida-de-hugo-vera-como-viceministro-de-transporte",
+          "publishedAt": "2026-11-20T18:28:42.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Tras el papelón de Hugo Vera, Emigdio Wendell asume como nuevo viceministro de Transporte",
+          "url": "https://elnacional.com.py/politica/tras-papelon-hugo-vera-emigdio-wendell-asume-como-nuevo-viceministro-transporte-n115578",
+          "publishedAt": "2026-11-20T17:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b00774b3e978.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Ejecutivo designa nuevos viceministros de Transporte y Minas",
+          "url": "https://5dias.com.py/article/ejecutivo-designa-nuevos-viceministros-de-transporte-y-minas",
+          "publishedAt": "2026-11-20T17:26:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/Sin_titulo_20261120_172647.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Vera Ojeda pone nuevamente a disposición su cargo: “Es muy difícil construir desde el odio”",
+          "url": "https://www.lanacion.com.py/politica/2026/11/20/vera-ojeda-pone-nuevamente-a-disposicion-su-cargo-es-muy-dificil-construir-desde-el-odio",
+          "publishedAt": "2026-11-20T14:21:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Qu_Jdx3sFMCZdCnUDIicMj8sDbc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/KPSHGS4BFFELJAV3PSFANCUWE4.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "¿Nuevo viceministro de Transporte no sabe cuánto cuesta el pasaje?",
+          "url": "https://elnacional.com.py/politica/nuevo-viceministro-transporte-sabe-cuanto-cuesta-pasaje-n115548",
+          "publishedAt": "2026-11-20T12:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b0014240412b.webp"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/MYEDIXU6YVELTGKWVTZRMKY4NE.jpeg?auth=8830904ff671b1227d83525ef46d28ccfbabdf5639c909a3dbcbf60d5851bf7e&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/20/emigdio-wendell-asume-como-viceministro-de-transporte"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
+      "updatedSlot": "manana",
+      "score": 19.81
     },
     {
       "id": "ev-051ee00",
@@ -440,7 +580,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 14.75
+      "score": 14.42
     },
     {
       "id": "ev-0ci95c4",
@@ -508,7 +648,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 14.58
+      "score": 14.24
+    },
+    {
+      "id": "ev-0151ksk",
+      "title": "Bachi Núñez defiende plan para salvar empleos de empresas del Grupo Vázquez",
+      "summary": "El senador Basilio Núñez, titular de la Cámara Alta, defendió el proyecto de Ley remitido por el Poder Ejecutivo vinculada al caso Ueno Bank, que propone establecer un régimen de administración temporal para determinadas empresas relacionadas con la entidad financiera.",
+      "keyPoints": [
+        "El senador Basilio Núñez, titular de la Cámara Alta, defendió el proyecto de Ley remitido por el Poder Ejecutivo vinculada al caso Ueno Bank, que propone establecer un régimen de administración temporal para determinadas empresas relacionadas…",
+        "El presidente del Congreso, Basilio \"Bachi\" Núñez, manifestó su respaldo a la iniciativa del Poder Ejecutivo para establecer un mecanismo de administración de las empresas vinculadas al Grupo Vázquez, afectadas por la crisis de Ueno Bank."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Bachi respalda plan para tomar control de empresas de Vázquez",
+          "url": "https://elnacional.com.py/politica/bachi-respalda-plan-tomar-control-empresas-vazquez-n115598",
+          "publishedAt": "2026-11-21T10:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aedd98d145fe.png"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Esto dijo Bachi sobre propuesta del Ejecutivo que busca administrar empresas del Grupo Vázquez",
+          "url": "https://www.abc.com.py/politica/2026/11/20/esto-dijo-bachi-sobre-propuesta-del-ejecutivo-que-busca-administrar-empresas-del-grupo-vazquez",
+          "publishedAt": "2026-11-20T23:35:39.000Z",
+          "image": "https://www.abc.com.py/resizer/tyT6_nzbf9JW2SQItqF-UajAju8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SQULDINAANG4ZKROUCTIW733PI.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Bachi Núñez defiende plan para salvar empleos de empresas del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/politica/2026/11/20/bachi-nunez-defiende-plan-para-salvar-empleos-de-empresas-del-grupo-vazquez",
+          "publishedAt": "2026-11-20T19:43:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GbpLEnGNfIkPJTE6rH_8o2OQmGA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WHQLJYOLWJF55MUGIXZCIYBSAM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WHQLJYOLWJF55MUGIXZCIYBSAM.jpg?auth=4a59086a3d47d3ac4b6a71416eab90bd4df1260a8adf8f532beb00ca51623b14&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/20/bachi-nunez-defiende-plan-para-salvar-empleos-de-empresas-del-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
+      "updatedSlot": "manana",
+      "score": 13.89
     },
     {
       "id": "ev-1ow74v6",
@@ -559,7 +749,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.4
+      "score": 13.06
     },
     {
       "id": "ev-0itp154",
@@ -610,7 +800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.16
+      "score": 12.82
     },
     {
       "id": "ev-1bxmgm2",
@@ -661,7 +851,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.15
+      "score": 12.82
     },
     {
       "id": "ev-04iacpz",
@@ -712,7 +902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.12
+      "score": 12.79
     },
     {
       "id": "ev-19x2byp",
@@ -763,7 +953,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.01
+      "score": 12.68
     },
     {
       "id": "ev-1676vgx",
@@ -823,7 +1013,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 11.64
+      "score": 11.31
     },
     {
       "id": "ev-0e279sw",
@@ -874,7 +1064,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 10.52
+      "score": 10.19
     },
     {
       "id": "ev-1k069cy",
@@ -916,7 +1106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.47
+      "score": 9.14
     },
     {
       "id": "ev-1gf9dg8",
@@ -958,49 +1148,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.37
-    },
-    {
-      "id": "ev-0151ksk",
-      "title": "Esto dijo Bachi sobre propuesta del Ejecutivo que busca administrar empresas del Grupo Vázquez",
-      "summary": "Según afirmó Basilio “Bachi” Núñez , el proyecto planteado por Eduardo González, ministro asesor del Poder Ejecutivo que busca que el Estado administre la empresas del Grupo Vázquez tras el colapso de Ueno Bank y al aprisionamiento de sus directivos, la propuesta busca encontrar una solución a lo que están pasando a quienes trabajaban las empresas del grupo empresarial.",
-      "keyPoints": [
-        "Según afirmó Basilio “Bachi” Núñez , el proyecto planteado por Eduardo González, ministro asesor del Poder Ejecutivo que busca que el Estado administre la empresas del Grupo Vázquez tras el colapso de Ueno Bank y al…",
-        "El senador Basilio Núñez, titular de la Cámara Alta, defendió el proyecto de Ley remitido por el Poder Ejecutivo vinculada al caso Ueno Bank, que propone establecer un régimen de administración temporal para determinadas empresas relacionadas…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Esto dijo Bachi sobre propuesta del Ejecutivo que busca administrar empresas del Grupo Vázquez",
-          "url": "https://www.abc.com.py/politica/2026/11/20/esto-dijo-bachi-sobre-propuesta-del-ejecutivo-que-busca-administrar-empresas-del-grupo-vazquez",
-          "publishedAt": "2026-11-20T23:35:39.000Z",
-          "image": "https://www.abc.com.py/resizer/tyT6_nzbf9JW2SQItqF-UajAju8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SQULDINAANG4ZKROUCTIW733PI.jpeg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Bachi Núñez defiende plan para salvar empleos de empresas del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/politica/2026/11/20/bachi-nunez-defiende-plan-para-salvar-empleos-de-empresas-del-grupo-vazquez",
-          "publishedAt": "2026-11-20T19:43:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GbpLEnGNfIkPJTE6rH_8o2OQmGA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WHQLJYOLWJF55MUGIXZCIYBSAM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SQULDINAANG4ZKROUCTIW733PI.jpeg?auth=024ea1c15bbcd753fae2292d36ab1d55372d5c1a2e6e53ee3d94cdd3c0ef0275&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/20/esto-dijo-bachi-sobre-propuesta-del-ejecutivo-que-busca-administrar-empresas-del-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 9.29
+      "score": 9.04
     },
     {
       "id": "ev-1buueul",
@@ -1042,45 +1190,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.28
-    },
-    {
-      "id": "ev-0r8fhz2",
-      "title": "Humedad, máximas de 39°C y lluvias con tormentas durante el fin de semana",
-      "summary": "La Dirección de Meteorología e Hidrología (DMH) anunció un fin de semana con un clima cálido y caluroso, con máximas entre 28 a 39° C, además de un alto contenido de humedad e inestabilidad que persistirá sobre el territorio nacional y la probabilidad de lluvias acompañadas de ocasionales tormentas…",
-      "keyPoints": [
-        "La Dirección de Meteorología e Hidrología (DMH) anunció un fin de semana con un clima cálido y caluroso, con máximas entre 28 a 39° C, además de un alto contenido de humedad e inestabilidad que persistirá…",
-        "Prevén un fin de semana caluroso, con temperaturas de hasta 39 °C, lluvias y ocasionales tormentas eléctricas en ambas regiones del país."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Humedad, máximas de 39°C y lluvias con tormentas durante el fin de semana",
-          "url": "https://www.ultimahora.com/humedad-maximas-de-39-c-y-lluvias-con-tormentas-durante-el-fin-de-semana",
-          "publishedAt": "2026-11-20T22:37:46.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fin de semana caluroso e inestable",
-          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-e-inestable",
-          "publishedAt": "2026-11-20T09:40:26.000Z",
-          "image": null
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 9.21
+      "score": 8.94
     },
     {
       "id": "ev-15i37qz",
@@ -1122,7 +1232,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.17
+      "score": 8.83
     },
     {
       "id": "ev-119c6ps",
@@ -1164,7 +1274,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.16
+      "score": 8.83
     },
     {
       "id": "ev-15r5b9a",
@@ -1206,7 +1316,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.07
+      "score": 8.74
     },
     {
       "id": "ev-16f1avd",
@@ -1247,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.68
     },
     {
       "id": "ev-1o8vplw",
@@ -1289,7 +1399,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.01
+      "score": 8.68
     },
     {
       "id": "ev-1t0spjc",
@@ -1331,7 +1441,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.95
+      "score": 8.61
     },
     {
       "id": "ev-1kksb3p",
@@ -1395,7 +1505,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.53
+    },
+    {
+      "id": "ev-17kiz36",
+      "title": "Trump dice que la Corte Penal Internacional está “fuera de control”",
+      "summary": "El presidente estadounidense, Donald Trump, declaró el viernes que la Corte Penal Internacional (CPI) está “fuera de control”, en momentos en que ese tribunal enfrenta crecientes cuestionamientos de Washington, Moscú y Pekín. “Quien gane en la superinteligencia, gana. Hay que sacar provecho de los centros de datos”, afirmó Trump.",
+      "keyPoints": [
+        "El presidente estadounidense, Donald Trump, declaró el viernes que la Corte Penal Internacional (CPI) está “fuera de control”, en momentos en que ese tribunal enfrenta crecientes cuestionamientos de Washington, Moscú y Pekín.",
+        "“Quien gane en la superinteligencia, gana."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trump no permitirá centros de datos fuera de EE. UU.",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/21/trump-no-permitira-centros-de-datos-fuera-de-ee-uu",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1SoCnk7miHQN6yJD4DURMRN_CWE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TOTAQL6FRZHU7FM7RGXBHQXNFY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Trump no permitirá que las empresas de EE.UU. construyan centros de datos en el extranjero",
+          "url": "https://www.abc.com.py/ciencia/2026/11/20/trump-no-permitira-que-las-empresas-de-eeuu-construyan-centros-de-datos-en-el-extranjero",
+          "publishedAt": "2026-11-20T22:45:16.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Trump dice que la Corte Penal Internacional está “fuera de control”",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/20/trump-dice-que-la-corte-penal-internacional-esta-fuera-de-control",
+          "publishedAt": "2026-11-20T20:50:47.000Z",
+          "image": "https://www.lanacion.com.py/resizer/_36g3QbRwqw4Tl6thwfF4VBaI8E=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TSLRRQ2GRNBTDBIHPXGB2QAHVY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TSLRRQ2GRNBTDBIHPXGB2QAHVY.jpg?auth=e7c77e0288f20905185c3c26926a4502a8f34af2ef4a16f3cf0baa6dea601303&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/20/trump-dice-que-la-corte-penal-internacional-esta-fuera-de-control"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
+      "updatedSlot": "manana",
+      "score": 7.74
     },
     {
       "id": "ev-0wdajhr",
@@ -1445,18 +1605,18 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 7.89
+      "score": 7.55
     },
     {
-      "id": "ev-17kiz36",
-      "title": "Trump no permitirá que las empresas de EE.UU. construyan centros de datos en el extranjero",
-      "summary": "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", afirmó Trump -durante una rueda de prensa en la Casa Blanca-. El mandatario comparó esta situación con lo ocurrido con la fabricación de chips y otras industrias que, según dijo, se trasladaron al extranjero y provocaron que Estados Unidos comenzara a quedarse atrás.",
+      "id": "ev-0krfge1",
+      "title": "El “corazón” de Central: Ypané apunta al desarrollo industrial y portuario",
+      "summary": "Ypané es una de las ciudades con mayor desarrollo industrial de Central y es considerada el “corazón” del departamento por su ubicación privilegiada. Actualmente alberga a importantes industrias con un alto potencial de expansión y además, su territorio se prolonga hasta el río Paraguay, lo que abre la posibilidad de expandir iniciativas vinculadas a la hidrovía Paraguay – Paraná.",
       "keyPoints": [
-        "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", afirmó Trump -durante una rueda de prensa en la Casa Blanca-.",
-        "“Quien gane en la superinteligencia, gana."
+        "Ypané es una de las ciudades con mayor desarrollo industrial de Central y es considerada el “corazón” del departamento por su ubicación privilegiada.",
+        "Por su potencial de industrialización, al día ingresan unos 7.000 trabajadores provenientes de otras ciudades."
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "economia",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
@@ -1464,30 +1624,30 @@
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Trump no permitirá centros de datos fuera de EE. UU.",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/21/trump-no-permitira-centros-de-datos-fuera-de-ee-uu",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1SoCnk7miHQN6yJD4DURMRN_CWE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/TOTAQL6FRZHU7FM7RGXBHQXNFY.jpg"
+          "title": "El “corazón” de Central: Ypané apunta al desarrollo industrial y portuario",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/21/el-corazon-de-central-ypane-apunta-al-desarrollo-industrial-y-portuario",
+          "publishedAt": "2026-11-21T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/HkyLR6kOoCQbrygPHbiKwWCgkn0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WQZWSDBPWRFJXPDGCDTK672D6A.jpg"
         },
         {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Trump no permitirá que las empresas de EE.UU. construyan centros de datos en el extranjero",
-          "url": "https://www.abc.com.py/ciencia/2026/11/20/trump-no-permitira-que-las-empresas-de-eeuu-construyan-centros-de-datos-en-el-extranjero",
-          "publishedAt": "2026-11-20T22:45:16.000Z",
-          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ypané, la ciudad que hoy se perfila al desarrollo industrial y portuario",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/ypane-la-ciudad-que-hoy-se-perfila-al-desarrollo-industrial-y-portuario",
+          "publishedAt": "2026-11-21T03:29:03.000Z",
+          "image": "https://www.lanacion.com.py/resizer/I_3UZVkn1Q-BxhDTYiyazqYbkEk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UXWILYQFJ5ER7DVGK6LQ3SUGBY.jpg"
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/TOTAQL6FRZHU7FM7RGXBHQXNFY.jpg?auth=52909f6445548eed937e8cddc82794d9510db8ac7e025f979097c9d449641bbe&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WQZWSDBPWRFJXPDGCDTK672D6A.jpg?auth=ea9f22e8d0844442c64d6acc3934ae0a43f6299d0eadbd3b288d22904a483bc8&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/21/trump-no-permitira-centros-de-datos-fuera-de-ee-uu"
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/21/el-corazon-de-central-ypane-apunta-al-desarrollo-industrial-y-portuario"
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 7.08
+      "score": 6.82
     },
     {
       "id": "ev-00115w2",
@@ -1525,48 +1685,6 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 6.95
-    },
-    {
-      "id": "ev-0m5uwqb",
-      "title": "Comercio de CDE: desde ayer ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
-      "summary": "El Puente Internacional de la Amistad (PIA) tienen un flujo incesante e impresionante de peatones desde ayer, siendo hoy feriado en Brasil por el Día Nacional de Zumbi y de la Conciencia Negra. Paralelamente, el comercio de Ciudad del Este registra una nueva feria de ofertas, Black Friday CDE 2026, organizada por la Cámara de Comercio y Servicios.",
-      "keyPoints": [
-        "El Puente Internacional de la Amistad (PIA) tienen un flujo incesante e impresionante de peatones desde ayer, siendo hoy feriado en Brasil por el Día Nacional de Zumbi y de la Conciencia Negra.",
-        "Es un gran volumen de turistas compradores buscando las mejores ofertas, liquidaciones, y promociones."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas",
-          "publishedAt": "2026-11-21T03:34:46.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vNyrbWPrJigFP-INIx_tNcyIYYI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6OJPFRXY5NDDNNC7C5DI5NMK4U.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Comercio de CDE: desde ayer ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/20/comercio-de-cde-desde-ayer-ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas",
-          "publishedAt": "2026-11-20T18:46:50.000Z",
-          "image": "https://www.lanacion.com.py/resizer/UE349S7KbwWARmsKxhTVSeSfdeY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VNKIMKDVXVHNXEQH2FI7G7CXUU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/VNKIMKDVXVHNXEQH2FI7G7CXUU.jpg?auth=8e27442aff370c4baa07c80a4e1c526aae66bc13cf24a97a0aa6e6a0295cf2cb&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/20/comercio-de-cde-desde-ayer-ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
       "score": 6.62
     },
     {
@@ -1575,8 +1693,8 @@
       "summary": "El sismo se registró a las 19H09 locales (00H09 GMT) y tuvo como epicentro 30 kilómetros al noroeste de la región andina de Junín, unos 300 kilómetros al este de la capital Lima. Tuvo una profundidad de 129 kilómetros , de acuerdo al instituto geofísico nacional.",
       "keyPoints": [
         "El sismo se registró a las 19H09 locales (00H09 GMT) y tuvo como epicentro 30 kilómetros al noroeste de la región andina de Junín, unos 300 kilómetros al este de la capital Lima.",
-        "El movimiento telúrico se presentó a la 19:09 horas (00:09 hora GMT), con epicentro a 30 kilómetros al noroeste de la localidad de Junín, capital de la región del mismo nombre, y a una profundidad de…",
-        "El sismo ocurrió a las 19:09 hora local (00:09 GMT del sábado 21 de noviembre) con un epicentro situado a 30 kilómetros el noroeste de la población de Junín, una zona rural con baja densidad de…"
+        "El sismo ocurrió a las 19:09 hora local (00:09 GMT del sábado 21 de noviembre) con un epicentro situado a 30 kilómetros al noroeste de la población de Junín, una zona rural con baja densidad de…",
+        "El sismo se produjo a las 18:42 hora local (9:42 GMT) a 143 kilómetros de profundidad, de acuerdo con el Servicio Geológico de Estados Unidos (USGS), que registra la actividad sísmica en todo el mundo."
       ],
       "category": "internacional",
       "scope": "internacional",
@@ -1584,6 +1702,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un terremoto de magnitud 6,8 sacude las aguas al este de Indonesia",
+          "url": "https://www.abc.com.py/internacionales/2026/11/21/un-terremoto-de-magnitud-68-sacude-las-aguas-al-este-de-indonesia",
+          "publishedAt": "2026-11-21T10:25:14.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -1632,9 +1758,51 @@
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T08:07:11.501Z",
+      "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 6.25
+      "score": 6.36
+    },
+    {
+      "id": "ev-0m5uwqb",
+      "title": "Comercio de CDE: desde ayer ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
+      "summary": "El Puente Internacional de la Amistad (PIA) tienen un flujo incesante e impresionante de peatones desde ayer, siendo hoy feriado en Brasil por el Día Nacional de Zumbi y de la Conciencia Negra. Paralelamente, el comercio de Ciudad del Este registra una nueva feria de ofertas, Black Friday CDE 2026, organizada por la Cámara de Comercio y Servicios.",
+      "keyPoints": [
+        "El Puente Internacional de la Amistad (PIA) tienen un flujo incesante e impresionante de peatones desde ayer, siendo hoy feriado en Brasil por el Día Nacional de Zumbi y de la Conciencia Negra.",
+        "Es un gran volumen de turistas compradores buscando las mejores ofertas, liquidaciones, y promociones."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas",
+          "publishedAt": "2026-11-21T03:34:46.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vNyrbWPrJigFP-INIx_tNcyIYYI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6OJPFRXY5NDDNNC7C5DI5NMK4U.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Comercio de CDE: desde ayer ya ingresaron a pie 55 mil turistas para aprovechar ofertas",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/20/comercio-de-cde-desde-ayer-ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas",
+          "publishedAt": "2026-11-20T18:46:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/UE349S7KbwWARmsKxhTVSeSfdeY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VNKIMKDVXVHNXEQH2FI7G7CXUU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/VNKIMKDVXVHNXEQH2FI7G7CXUU.jpg?auth=8e27442aff370c4baa07c80a4e1c526aae66bc13cf24a97a0aa6e6a0295cf2cb&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/20/comercio-de-cde-desde-ayer-ya-ingresaron-a-pie-55-mil-turistas-para-aprovechar-ofertas"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedSlot": "manana",
+      "score": 6.29
     },
     {
       "id": "ev-1lmr6o7",
@@ -1690,7 +1858,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 6.11
+      "score": 5.77
     },
     {
       "id": "ev-1u3znqv",
@@ -1732,7 +1900,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.6
     },
     {
       "id": "ev-08ht82b",
@@ -1774,7 +1942,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.37
     },
     {
       "id": "ev-1tka867",
@@ -1807,40 +1975,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.63
-    },
-    {
-      "id": "ev-0krfge1",
-      "title": "Ypané, la ciudad que hoy se perfila al desarrollo industrial y portuario",
-      "summary": "Por su potencial de industrialización, al día ingresan unos 7.000 trabajadores provenientes de otras ciudades.",
-      "keyPoints": [
-        "Por su potencial de industrialización, al día ingresan unos 7.000 trabajadores provenientes de otras ciudades."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ypané, la ciudad que hoy se perfila al desarrollo industrial y portuario",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/ypane-la-ciudad-que-hoy-se-perfila-al-desarrollo-industrial-y-portuario",
-          "publishedAt": "2026-11-21T03:29:03.000Z",
-          "image": "https://www.lanacion.com.py/resizer/I_3UZVkn1Q-BxhDTYiyazqYbkEk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/UXWILYQFJ5ER7DVGK6LQ3SUGBY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/UXWILYQFJ5ER7DVGK6LQ3SUGBY.jpg?auth=31daeb37caf9da6fadd9531e872388a59c428891af705bcafa6dae85adea6c3c&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/ypane-la-ciudad-que-hoy-se-perfila-al-desarrollo-industrial-y-portuario"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.3
     },
     {
       "id": "ev-0zilk88",
@@ -1873,139 +2008,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.6
-    },
-    {
-      "id": "ev-127on4z",
-      "title": "El nacimiento de “Rocky”: una historia de sueños, sacrificios y perseverancia",
-      "summary": "Lejos de ser una simple historia de superación al estilo hollywoodense, “I play Rocky” reconstruye con humor y emotividad los obstáculos que debió enfrentar Sylvester Stallone para llevar a la pantalla grande una historia en la que estaba decidido a ser protagonista.",
-      "keyPoints": [
-        "Lejos de ser una simple historia de superación al estilo hollywoodense, “I play Rocky” reconstruye con humor y emotividad los obstáculos que debió enfrentar Sylvester Stallone para llevar a la pantalla grande una historia en la…"
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "El nacimiento de “Rocky”: una historia de sueños, sacrificios y perseverancia",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/el-nacimiento-de-rocky-una-historia-de-suenos-sacrificios-y-perseverancia",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Hl_LA2s_d_CADuyfEj0KhebCxjo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PZXHZDNZWZGEVOV4RCKMIAUH7U.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PZXHZDNZWZGEVOV4RCKMIAUH7U.jpg?auth=b37fef7dda6eaae8d16ea20ddfe4b52f739f7fc8ef0c6f304c45d945aef43ae3&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/el-nacimiento-de-rocky-una-historia-de-suenos-sacrificios-y-perseverancia"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.58
-    },
-    {
-      "id": "ev-0x8osnj",
-      "title": "Rinden homenaje a figuras históricas del teatro popular",
-      "summary": "Las actividades arrancaron anoche y se extenderán hasta mañana, en la sala La Correa, de Asunción.",
-      "keyPoints": [
-        "Las actividades arrancaron anoche y se extenderán hasta mañana, en la sala La Correa, de Asunción."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Rinden homenaje a figuras históricas del teatro popular",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/rinden-homenaje-a-figuras-historicas-del-teatro-popular",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/kJ-HCDnJmc76lTVmLqxtmfSnNvo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JDUK4KUWVRCHDCZSREMC2WJEMU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JDUK4KUWVRCHDCZSREMC2WJEMU.jpg?auth=bb3d4395a8bdd3916ef2450343adcd79cc2437fc144a5a9caa78bc7970b19061&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/rinden-homenaje-a-figuras-historicas-del-teatro-popular"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.58
-    },
-    {
-      "id": "ev-0phhxpk",
-      "title": "Palmear convoca esta tarde en el centro",
-      "summary": "Con nuevo horario, de 17:00 a 1:00, la Feria Palmear retoma hoy su calendario y ajusta los detalles de las últimas edicio­nes del presente año",
-      "keyPoints": [
-        "Con nuevo horario, de 17:00 a 1:00, la Feria Palmear retoma hoy su calendario y ajusta los detalles de las últimas edicio­nes del presente año"
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Palmear convoca esta tarde en el centro",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/palmear-convoca-esta-tarde-en-el-centro",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/soF-V3F-HN5K_X7JNHs7mIIAQmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5ZCPCW645BFDMIQZMTXMBCYUM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N5ZCPCW645BFDMIQZMTXMBCYUM.jpg?auth=af7dbf7abae57145abb0e78536de13bbf307c17a37236d3dbfc64ab60ff0b96b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/palmear-convoca-esta-tarde-en-el-centro"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.58
-    },
-    {
-      "id": "ev-1vsf3ka",
-      "title": "La Noche de los Museos invita hoy a recorrer por la historia, el arte y la ciencia",
-      "summary": "Con la participación de más de 80 espacios en todo el país, la actividad se desarrollará en simultáneo desde las 18:00 hasta la medianoche.",
-      "keyPoints": [
-        "Con la participación de más de 80 espacios en todo el país, la actividad se desarrollará en simultáneo desde las 18:00 hasta la medianoche."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "La Noche de los Museos invita hoy a recorrer por la historia, el arte y la ciencia",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/la-noche-de-los-museos-invita-hoy-a-recorrer-por-la-historia-el-arte-y-la-ciencia",
-          "publishedAt": "2026-11-21T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/bfc3eP-GHZVtGMlVrjDTIQ4CgEY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LCLXSSLDMRBLJDC53GR5DJRN7Y.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LCLXSSLDMRBLJDC53GR5DJRN7Y.jpg?auth=273218d7d705eb228fe0ff37675ce7672ab23f675d0321d38254b8222aa18df5&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/la-noche-de-los-museos-invita-hoy-a-recorrer-por-la-historia-el-arte-y-la-ciencia"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.27
     },
     {
       "id": "ev-0s2rm49",
@@ -2038,7 +2041,139 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.25
+    },
+    {
+      "id": "ev-127on4z",
+      "title": "El nacimiento de “Rocky”: una historia de sueños, sacrificios y perseverancia",
+      "summary": "Lejos de ser una simple historia de superación al estilo hollywoodense, “I play Rocky” reconstruye con humor y emotividad los obstáculos que debió enfrentar Sylvester Stallone para llevar a la pantalla grande una historia en la que estaba decidido a ser protagonista.",
+      "keyPoints": [
+        "Lejos de ser una simple historia de superación al estilo hollywoodense, “I play Rocky” reconstruye con humor y emotividad los obstáculos que debió enfrentar Sylvester Stallone para llevar a la pantalla grande una historia en la…"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El nacimiento de “Rocky”: una historia de sueños, sacrificios y perseverancia",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/el-nacimiento-de-rocky-una-historia-de-suenos-sacrificios-y-perseverancia",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Hl_LA2s_d_CADuyfEj0KhebCxjo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PZXHZDNZWZGEVOV4RCKMIAUH7U.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PZXHZDNZWZGEVOV4RCKMIAUH7U.jpg?auth=b37fef7dda6eaae8d16ea20ddfe4b52f739f7fc8ef0c6f304c45d945aef43ae3&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/el-nacimiento-de-rocky-una-historia-de-suenos-sacrificios-y-perseverancia"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedSlot": "manana",
+      "score": 5.24
+    },
+    {
+      "id": "ev-0x8osnj",
+      "title": "Rinden homenaje a figuras históricas del teatro popular",
+      "summary": "Las actividades arrancaron anoche y se extenderán hasta mañana, en la sala La Correa, de Asunción.",
+      "keyPoints": [
+        "Las actividades arrancaron anoche y se extenderán hasta mañana, en la sala La Correa, de Asunción."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rinden homenaje a figuras históricas del teatro popular",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/rinden-homenaje-a-figuras-historicas-del-teatro-popular",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/kJ-HCDnJmc76lTVmLqxtmfSnNvo=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JDUK4KUWVRCHDCZSREMC2WJEMU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JDUK4KUWVRCHDCZSREMC2WJEMU.jpg?auth=bb3d4395a8bdd3916ef2450343adcd79cc2437fc144a5a9caa78bc7970b19061&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/rinden-homenaje-a-figuras-historicas-del-teatro-popular"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedSlot": "manana",
+      "score": 5.24
+    },
+    {
+      "id": "ev-0phhxpk",
+      "title": "Palmear convoca esta tarde en el centro",
+      "summary": "Con nuevo horario, de 17:00 a 1:00, la Feria Palmear retoma hoy su calendario y ajusta los detalles de las últimas edicio­nes del presente año",
+      "keyPoints": [
+        "Con nuevo horario, de 17:00 a 1:00, la Feria Palmear retoma hoy su calendario y ajusta los detalles de las últimas edicio­nes del presente año"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Palmear convoca esta tarde en el centro",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/palmear-convoca-esta-tarde-en-el-centro",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/soF-V3F-HN5K_X7JNHs7mIIAQmU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N5ZCPCW645BFDMIQZMTXMBCYUM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N5ZCPCW645BFDMIQZMTXMBCYUM.jpg?auth=af7dbf7abae57145abb0e78536de13bbf307c17a37236d3dbfc64ab60ff0b96b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/palmear-convoca-esta-tarde-en-el-centro"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedSlot": "manana",
+      "score": 5.24
+    },
+    {
+      "id": "ev-1vsf3ka",
+      "title": "La Noche de los Museos invita hoy a recorrer por la historia, el arte y la ciencia",
+      "summary": "Con la participación de más de 80 espacios en todo el país, la actividad se desarrollará en simultáneo desde las 18:00 hasta la medianoche.",
+      "keyPoints": [
+        "Con la participación de más de 80 espacios en todo el país, la actividad se desarrollará en simultáneo desde las 18:00 hasta la medianoche."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "La Noche de los Museos invita hoy a recorrer por la historia, el arte y la ciencia",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/la-noche-de-los-museos-invita-hoy-a-recorrer-por-la-historia-el-arte-y-la-ciencia",
+          "publishedAt": "2026-11-21T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/bfc3eP-GHZVtGMlVrjDTIQ4CgEY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LCLXSSLDMRBLJDC53GR5DJRN7Y.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LCLXSSLDMRBLJDC53GR5DJRN7Y.jpg?auth=273218d7d705eb228fe0ff37675ce7672ab23f675d0321d38254b8222aa18df5&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/21/la-noche-de-los-museos-invita-hoy-a-recorrer-por-la-historia-el-arte-y-la-ciencia"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T03:54:00.740Z",
+      "updatedSlot": "manana",
+      "score": 5.24
     },
     {
       "id": "ev-1prnw1n",
@@ -2071,7 +2206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-0v2vie3",
@@ -2104,7 +2239,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-123kica",
@@ -2137,7 +2272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1xt7cbc",
@@ -2166,7 +2301,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.22
     },
     {
       "id": "ev-0v62ymc",
@@ -2199,7 +2334,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.53
+      "score": 5.2
     },
     {
       "id": "ev-1wb9n67",
@@ -2232,7 +2367,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.51
+      "score": 5.17
     },
     {
       "id": "ev-1rqehfy",
@@ -2261,7 +2396,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 4.98
     },
     {
       "id": "ev-0j28bor",
@@ -2290,7 +2425,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.27
+      "score": 4.93
     },
     {
       "id": "ev-0kvrmkd",
@@ -2328,7 +2463,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 4.42
+      "score": 4.09
     }
   ],
   "runs": [
@@ -2345,6 +2480,13 @@
       "added": 0,
       "updated": 6,
       "candidates": 6
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-21T12:07:16.196Z",
+      "added": 0,
+      "updated": 9,
+      "candidates": 11
     }
   ]
 }
