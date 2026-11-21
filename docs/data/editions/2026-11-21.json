@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-21T16:04:02.721Z",
+  "generatedAt": "2026-11-21T19:37:13.022Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -13,8 +13,8 @@
       "keyPoints": [
         "El empresario Fabricio Martín Martínez Appleyard, propietario de la firma GSR Security, habría amenazado al fiscal Silvio Corbeta Dinamarca durante un allanamiento realizado en…",
         "La Asociación de Agentes Fiscales del Paraguay salió en respaldo del fiscal Silvio Corbeta, condenando las presiones y amenazas que habría recibido durante un procedimiento realizado en las oficinas de GSR Security, firma relacionada con el…",
-        "El agente fiscal Silvio Corbeta denunció haber sido intimidado por el empresario Fabricio Martínez durante un allanamiento a la firma de seguridad GSR.",
-        "La Asociación de Agentes Fiscales del Paraguay expresó su rechazo a las amenazas recibidas por el fiscal Silvio Corbeta, atribuidas al imputado Fabricio Martínez Appleyard, tras un allanamiento realizado en GSR Security, empresa vinculada al Grupo…"
+        "El fiscal Silvio Corbeta denunció haber sido amenazado por Fabricio Martínez Appleyard, propietario de GSR Security, durante un procedimiento relacionado con la investigación de Ueno Bank.",
+        "Al mediodía del martes 17 de noviembre una comitiva fiscal y policial, encabezada por los agentes Silvio Corbeta Dinamarca y Ruth Karina Benítez , inició el allanamiento en la sede de la empresa GSR Security …"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Caso Ueno: amenazas y hostigamientos obligan a reforzar seguridad de fiscales",
+          "url": "https://elnacional.com.py/politica/caso-ueno-amenazas-hostigamientos-obligan-reforzar-seguridad-fiscales-n115608",
+          "publishedAt": "2026-11-21T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b0166a40e1c9.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: intentaron extraer millonarias sumas ante el allanamiento a GSR Security",
+          "url": "https://www.abc.com.py/nacionales/2026/11/21/ueno-bank-intentaron-extraer-millonarias-sumas-ante-el-allanamiento-a-gsr-security",
+          "publishedAt": "2026-11-21T16:35:49.000Z",
+          "image": "https://www.abc.com.py/resizer/h70LK3ZJHTzDIOk-gI2lo0q0XMs=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6MPMUBU5JJAGVC24NFFA2HXRSI.jfif"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -158,19 +174,19 @@
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedAt": "2026-11-21T19:37:13.022Z",
       "updatedSlot": "tarde",
-      "score": 32.93
+      "score": 32.78
     },
     {
       "id": "ev-0r8fhz2",
-      "title": "Fin de semana caluroso, con lluvias y tormentas",
-      "summary": "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas. Además, se prevé un leve descenso para mañana. El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el pronóstico de la Dirección de Meteorología e Hidrología de la Dinac.",
+      "title": "Ambiente caluroso y húmedo, con lluvias y tormentas durante el fin de semana",
+      "summary": "El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el pronóstico de la Dirección de Meteorología e Hidrología de la Dinac.",
       "keyPoints": [
-        "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas.",
         "El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el…",
+        "El pronóstico de la meteoróloga Aracely Fernández anticipa inestabilidad, lluvias y tormentas en el país durante este fin de semana.",
         "La Dirección de Meteorología anuncia temperaturas máximas de hasta 39 °C para este sábado 21 de noviembre.",
-        "El pronóstico de la meteoróloga Aracely Fernández anticipa inestabilidad, lluvias y tormentas en el país durante este fin de semana."
+        "La Dirección de Meteorología e Hidrología (DMH) emitió, poco antes de las 11:00 de este sábado, un aviso por lluvias con tormentas eléctricas moderadas a fuertes, ráfagas de viento y probabilidad de caída de granizos."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -178,6 +194,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Estas son las tres zonas bajo amenaza de tormentas y granizo durante la tarde",
+          "url": "https://www.abc.com.py/clima/2026/11/21/estas-son-las-tres-zonas-bajo-amenaza-de-tormentas-y-granizo-durante-la-tarde",
+          "publishedAt": "2026-11-21T17:59:44.000Z",
+          "image": "https://www.abc.com.py/resizer/C6Rqew6W5A2FD_yN_dM8G3-fSzI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/42EKICKFKVH4JKSRKNXAXNBS6E.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -260,15 +284,15 @@
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas"
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/09/lluvias.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/ambiente-caluroso-y-humedo-con-lluvias-y-tormentas-durante-el-fin-de-semana"
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedAt": "2026-11-21T19:37:13.022Z",
       "updatedSlot": "tarde",
-      "score": 26.89
+      "score": 26.86
     },
     {
       "id": "ev-138rgam",
@@ -408,7 +432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 23.9
+      "score": 23.61
     },
     {
       "id": "ev-1wci20j",
@@ -492,7 +516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 20.47
+      "score": 20.18
     },
     {
       "id": "ev-06w6yrn",
@@ -576,7 +600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 19.48
+      "score": 19.18
     },
     {
       "id": "ev-1gf9dg8",
@@ -584,8 +608,8 @@
       "summary": "La Justicia Electoral rechazó cualquier relación contractual con la empresa tecnológica del Grupo Vázquez, luego de que el exvicepresidente de Ueno Bank, Julio Rey Fernández, revelara ante la Fiscalía supuestas transferencias de Comitia a Itti por la adjudicación de las máquinas de votación.",
       "keyPoints": [
         "La Justicia Electoral rechazó cualquier relación contractual con la empresa tecnológica del Grupo Vázquez, luego de que el exvicepresidente de Ueno Bank, Julio Rey Fernández, revelara ante la Fiscalía supuestas transferencias de Comitia a Itti por…",
-        "El Tribunal Superior de Justicia Electoral (TSJE) negó mantener vínculos contractuales con la empresa ITTI y aseguró que el arrendamiento de las máquinas de votación se realizó a través de la firma COMITIA, conforme a las…",
-        "El Tribunal Superior de Justicia Electoral (TSJE) emitió un comunicado en la cual aclara que no mantiene, ni mantuvo, ningún vínculo contractual con la empresa ITTI, vinculada al Grupo Vázquez y Ueno Bank."
+        "El Tribunal Superior de Justicia Electoral (TSJE) emitió un comunicado en la cual aclara que no mantiene, ni mantuvo, ningún vínculo contractual con la empresa ITTI, vinculada al Grupo Vázquez y Ueno Bank.",
+        "Ever Villalba (PLRA) ha sido un crítico acérrimo de las máquinas de votación, al punto de que su propio partido y otros sectores de la oposición lo cuestionaron por poner en duda la fiabilidad de estos…"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -593,6 +617,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pedirán investigación penal y parlamentaria por nexos de Itti y Ueno con máquinas de votación",
+          "url": "https://www.abc.com.py/politica/2026/11/21/pediran-investigacion-penal-y-parlamentaria-por-nexos-de-itti-y-ueno-con-maquinas-de-votacion",
+          "publishedAt": "2026-11-21T17:08:17.000Z",
+          "image": "https://www.abc.com.py/resizer/WsLvWcoGX31CjkKrQHVdHMIlcQM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4I5H5OZBEVCODESN2OUDVGCZZI.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -633,9 +665,9 @@
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedAt": "2026-11-21T19:37:13.022Z",
       "updatedSlot": "tarde",
-      "score": 17.98
+      "score": 17.79
     },
     {
       "id": "ev-051ee00",
@@ -735,7 +767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 17.92
+      "score": 17.62
     },
     {
       "id": "ev-1ow74v6",
@@ -793,7 +825,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 17.7
+      "score": 17.41
     },
     {
       "id": "ev-04iacpz",
@@ -853,7 +885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 17.67
+      "score": 17.38
     },
     {
       "id": "ev-0ci95c4",
@@ -921,7 +953,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
     },
     {
       "id": "ev-1tka867",
@@ -972,7 +1004,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 13.83
+      "score": 13.53
     },
     {
       "id": "ev-1rqehfy",
@@ -1022,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T16:04:02.721Z",
       "updatedSlot": "tarde",
-      "score": 13.76
+      "score": 13.46
     },
     {
       "id": "ev-0151ksk",
@@ -1072,7 +1104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 13.56
+      "score": 13.26
     },
     {
       "id": "ev-0itp154",
@@ -1123,7 +1155,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.49
+      "score": 12.2
     },
     {
       "id": "ev-1bxmgm2",
@@ -1174,7 +1206,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.49
+      "score": 12.19
     },
     {
       "id": "ev-19x2byp",
@@ -1225,7 +1257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.35
+      "score": 12.05
     },
     {
       "id": "ev-1676vgx",
@@ -1285,7 +1317,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 10.98
+      "score": 10.68
     },
     {
       "id": "ev-0e279sw",
@@ -1336,7 +1368,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.86
+      "score": 9.56
     },
     {
       "id": "ev-1k069cy",
@@ -1378,7 +1410,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.81
+      "score": 8.51
     },
     {
       "id": "ev-1buueul",
@@ -1420,7 +1452,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.61
+      "score": 8.32
     },
     {
       "id": "ev-15i37qz",
@@ -1462,7 +1494,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.21
     },
     {
       "id": "ev-119c6ps",
@@ -1504,7 +1536,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.5
+      "score": 8.2
     },
     {
       "id": "ev-15r5b9a",
@@ -1546,7 +1578,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.41
+      "score": 8.12
     },
     {
       "id": "ev-16f1avd",
@@ -1587,7 +1619,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.06
     },
     {
       "id": "ev-1o8vplw",
@@ -1629,7 +1661,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.35
+      "score": 8.05
     },
     {
       "id": "ev-1t0spjc",
@@ -1671,7 +1703,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.29
+      "score": 8
     },
     {
       "id": "ev-1kksb3p",
@@ -1735,7 +1767,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 8.2
+      "score": 7.91
     },
     {
       "id": "ev-17kiz36",
@@ -1785,7 +1817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 7.41
+      "score": 7.12
     },
     {
       "id": "ev-0wdajhr",
@@ -1835,7 +1867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 7.22
+      "score": 6.93
     },
     {
       "id": "ev-0krfge1",
@@ -1877,7 +1909,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 6.49
+      "score": 6.2
     },
     {
       "id": "ev-00115w2",
@@ -1915,7 +1947,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 6.29
+      "score": 5.99
     },
     {
       "id": "ev-1q6ydr2",
@@ -1990,7 +2022,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 6.03
+      "score": 5.73
     },
     {
       "id": "ev-0m5uwqb",
@@ -2032,7 +2064,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.66
     },
     {
       "id": "ev-1lmr6o7",
@@ -2088,7 +2120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.15
     },
     {
       "id": "ev-1u3znqv",
@@ -2130,7 +2162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.27
+      "score": 5
     },
     {
       "id": "ev-08ht82b",
@@ -2172,7 +2204,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 5
     },
     {
       "id": "ev-0zilk88",
@@ -2205,7 +2237,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.94
+      "score": 4.64
     },
     {
       "id": "ev-0s2rm49",
@@ -2238,7 +2270,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.92
+      "score": 4.62
     },
     {
       "id": "ev-127on4z",
@@ -2271,7 +2303,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0x8osnj",
@@ -2304,7 +2336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0phhxpk",
@@ -2337,7 +2369,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1vsf3ka",
@@ -2370,7 +2402,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1prnw1n",
@@ -2403,7 +2435,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0v2vie3",
@@ -2436,7 +2468,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-123kica",
@@ -2469,7 +2501,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1xt7cbc",
@@ -2498,7 +2530,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.89
+      "score": 4.59
     },
     {
       "id": "ev-0v62ymc",
@@ -2531,7 +2563,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.57
     },
     {
       "id": "ev-1wb9n67",
@@ -2564,7 +2596,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.85
+      "score": 4.55
     },
     {
       "id": "ev-0j28bor",
@@ -2593,7 +2625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.61
+      "score": 4.31
     },
     {
       "id": "ev-0kvrmkd",
@@ -2631,7 +2663,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 3.76
+      "score": 3.46
     }
   ],
   "runs": [
@@ -2662,6 +2694,13 @@
       "added": 0,
       "updated": 9,
       "candidates": 11
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-21T19:37:13.022Z",
+      "added": 0,
+      "updated": 3,
+      "candidates": 6
     }
   ]
 }
