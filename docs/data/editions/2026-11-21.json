@@ -1,112 +1,20 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-21T12:07:16.196Z",
+  "generatedAt": "2026-11-21T16:04:02.721Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-0r8fhz2",
-      "title": "Fin de semana caluroso, con lluvias y tormentas",
-      "summary": "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas. Además, se prevé un leve descenso para mañana. El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el pronóstico de la Dirección de Meteorología e Hidrología de la Dinac.",
-      "keyPoints": [
-        "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas.",
-        "El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el…",
-        "La Dirección de Meteorología reporta que las condiciones inestables por lluvias continuarán este sábado en gran parte del país.",
-        "La Dirección de Meteorología anuncia temperaturas máximas de hasta 39 °C para este sábado 21 de noviembre."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Meteorología advierte sobre tormentas en medio de un sábado caluroso y húmedo",
-          "url": "https://www.ultimahora.com/meteorologia-advierte-sobre-tormentas-en-medio-de-un-sabado-caluroso-y-humedo",
-          "publishedAt": "2026-11-21T11:35:33.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Clima Paraguay: sábado caluroso y probabilidad de tormentas en todo el país",
-          "url": "https://elnacional.com.py/nacionales/clima-paraguay-sabado-caluroso-probabilidad-tormentas-todo-pais-n115587",
-          "publishedAt": "2026-11-21T11:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/02/4f2ee5cbee398f65364b8145bb7282aa.jpg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Ambiente caluroso y húmedo, con lluvias y tormentas durante el fin de semana",
-          "url": "https://www.adndigital.com.py/ambiente-caluroso-y-humedo-con-lluvias-y-tormentas-durante-el-fin-de-semana",
-          "publishedAt": "2026-11-21T10:45:01.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/09/lluvias.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Fin de semana caluroso, con lluvias y tormentas",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas",
-          "publishedAt": "2026-11-21T10:14:06.012Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tormentas intensas y calor húmedo dominan el fin de semana en gran parte del territorio",
-          "url": "https://www.lanacion.com.py/pais/2026/11/21/tormentas-intensas-y-calor-humedo-dominan-el-fin-de-semana-en-gran-parte-del-territorio",
-          "publishedAt": "2026-11-21T10:01:33.000Z",
-          "image": "https://www.lanacion.com.py/resizer/1Yh_CWIqpEefR6Q9j1YaCSBysBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EABXH42LPNEFZEKPYBHZQCHCLE.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "¿Más lluvias durante el fin de semana? Lo que dice Meteorología",
-          "url": "https://www.abc.com.py/clima/2026/11/21/mas-lluvias-durante-el-fin-de-semana-lo-que-dice-meteorologia",
-          "publishedAt": "2026-11-21T09:45:59.000Z",
-          "image": "https://www.abc.com.py/resizer/PAQMBVjnKHy9WxRo1i1dQamR4Kw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZWL566TFUJGU3EYVEJY3ESDXMU.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Humedad, máximas de 39°C y lluvias con tormentas durante el fin de semana",
-          "url": "https://www.ultimahora.com/humedad-maximas-de-39-c-y-lluvias-con-tormentas-durante-el-fin-de-semana",
-          "publishedAt": "2026-11-20T22:37:46.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Fin de semana caluroso e inestable",
-          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-e-inestable",
-          "publishedAt": "2026-11-20T09:40:26.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T12:07:16.196Z",
-      "updatedSlot": "manana",
-      "score": 26.96
-    },
-    {
       "id": "ev-0aihxkm",
-      "title": "Juez autoriza extraer datos de los celulares de Santiago Peña",
-      "summary": "A pedido del Ministerio Público, el juez Osmar Legal autorizó el peritaje de los aparatos celulares incautados en el marco de la causa Santiago Peña. La autorización judicial se da para la extracción de datos del aparato celular y tarjeta SIM de telefonías.",
+      "title": "Propietario de GSR Security amenazó al fiscal que investiga el caso Ueno Bank",
+      "summary": "El empresario Fabricio Martín Martínez Appleyard, propietario de la firma GSR Security, habría amenazado al fiscal Silvio Corbeta Dinamarca durante un allanamiento realizado en… La Asociación de Agentes Fiscales del Paraguay salió en respaldo del fiscal Silvio Corbeta, condenando las presiones y amenazas que habría recibido durante un procedimiento realizado en las oficinas de GSR Security, firma relacionada con el Grupo Vázquez.",
       "keyPoints": [
-        "A pedido del Ministerio Público, el juez Osmar Legal autorizó el peritaje de los aparatos celulares incautados en el marco de la causa Santiago Peña.",
-        "La autorización judicial se da para la extracción de datos del aparato celular y tarjeta SIM de telefonías.",
-        "El juez Osmar Legal autorizó la extracción de datos de tres celulares incautados al expresidente Santiago Peña, en el marco de la investigación del caso Ueno Bank y el Grupo Vázquez.",
-        "El agente fiscal Silvio Corbeta denunció haber recibido amenazas por parte de Fabricio Martínez Appleyard, propietario de la empresa GSR Security, durante un allanamiento realizado en el marco de la investigación del caso Ueno Bank."
+        "El empresario Fabricio Martín Martínez Appleyard, propietario de la firma GSR Security, habría amenazado al fiscal Silvio Corbeta Dinamarca durante un allanamiento realizado en…",
+        "La Asociación de Agentes Fiscales del Paraguay salió en respaldo del fiscal Silvio Corbeta, condenando las presiones y amenazas que habría recibido durante un procedimiento realizado en las oficinas de GSR Security, firma relacionada con el…",
+        "El agente fiscal Silvio Corbeta denunció haber sido intimidado por el empresario Fabricio Martínez durante un allanamiento a la firma de seguridad GSR.",
+        "La Asociación de Agentes Fiscales del Paraguay expresó su rechazo a las amenazas recibidas por el fiscal Silvio Corbeta, atribuidas al imputado Fabricio Martínez Appleyard, tras un allanamiento realizado en GSR Security, empresa vinculada al Grupo…"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -115,12 +23,36 @@
       "model": null,
       "sources": [
         {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "\"Ningún acto de intimidación o presión detendrá la labor\", afirma la fiscala general sobre caso ueno",
+          "url": "https://www.ultimahora.com/caso-ueno-tras-denuncia-de-amenazas-se-ordena-reforzar-la-proteccion-del-fiscal-silvio-corbeta",
+          "publishedAt": "2026-11-21T15:10:27.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Propietario de GSR Security amenazó al fiscal que investiga el caso Ueno Bank",
+          "url": "https://diariovanguardia.com.py/propietario-de-gsr-security-amenazo-al-fiscal-que-investiga-el-caso-ueno-bank",
+          "publishedAt": "2026-11-21T12:10:34.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/Fabricio-Martin-Martinez-Appleyard-1024x576.jpg"
+        },
+        {
           "sourceId": "abc",
           "sourceName": "ABC Color",
           "title": "Ueno Bank: “Ningún acto de intimidación y presión detendrá al Ministerio Público”, asegura fiscal general",
           "url": "https://www.abc.com.py/nacionales/2026/11/21/ueno-bank-ningun-acto-de-intimidacion-y-presion-detendra-al-ministerio-publico-asegura-fiscal-general",
           "publishedAt": "2026-11-21T10:59:55.000Z",
           "image": "https://www.abc.com.py/resizer/d1PllxCwWVZw6zOppCssyTlLsHo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QFHTYB7XCVC3NIWJCKQZBCYKP4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Ordenan protección para fiscal amenazado por dueño de GSR Security",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/21/ordenan-proteccion-para-fiscal-amenazado-por-dueno-de-gsr-security",
+          "publishedAt": "2026-11-21T10:59:25.806Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/7VNIT27VL5FBTEVYYPHUWNTLPE.jpeg?auth=60a233b28384efe64b6606415ae509a660133138db11e611a568af40ebcbe386&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "adn",
@@ -220,25 +152,133 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CRUIOLPEUBGJNJYUO22DAFSIPA.jpg?auth=0d50866aee798deedc6f42fa3bf47b8c73916a8ac739aade7803611606c025a4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/21/juez-autoriza-extraer-datos-de-los-celulares-de-santiago-pena"
+        "url": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/Fabricio-Martin-Martinez-Appleyard-1024x576.jpg",
+        "credit": "Vanguardia",
+        "articleUrl": "https://diariovanguardia.com.py/propietario-de-gsr-security-amenazo-al-fiscal-que-investiga-el-caso-ueno-bank"
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T12:07:16.196Z",
-      "updatedSlot": "manana",
-      "score": 26.91
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 32.93
+    },
+    {
+      "id": "ev-0r8fhz2",
+      "title": "Fin de semana caluroso, con lluvias y tormentas",
+      "summary": "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas. Además, se prevé un leve descenso para mañana. El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el pronóstico de la Dirección de Meteorología e Hidrología de la Dinac.",
+      "keyPoints": [
+        "Entre el sábado y el domingo se anuncian precipitaciones dispersas, con ocasionales tormentas eléctricas.",
+        "El ambiente caluroso, húmedo e inestable persistirá durante el fin de semana, con lluvias y tormentas eléctricas en gran parte del territorio nacional, algunas que podrían generar fenómenos de tiempo severo de manera puntual, según el…",
+        "La Dirección de Meteorología anuncia temperaturas máximas de hasta 39 °C para este sábado 21 de noviembre.",
+        "El pronóstico de la meteoróloga Aracely Fernández anticipa inestabilidad, lluvias y tormentas en el país durante este fin de semana."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta de tormentas eléctricas: estos son los seis departamentos afectados",
+          "url": "https://www.abc.com.py/clima/2026/11/21/alerta-de-tormentas-electricas-estos-son-los-seis-departamentos-afectados",
+          "publishedAt": "2026-11-21T14:44:36.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alerta de tormentas y posible caída de granizo para diez departamentos",
+          "url": "https://www.abc.com.py/clima/2026/11/21/alerta-de-tormentas-y-posible-caida-de-granizo-para-diez-departamentos",
+          "publishedAt": "2026-11-21T12:54:13.000Z",
+          "image": "https://www.abc.com.py/resizer/I6haTvqPXaaVTJgDbxFL_s08Pq0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/EDE4HFE3YRANHC4XNMTTJAT7CM.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Meteorología advierte sobre tormentas en medio de un sábado caluroso y húmedo",
+          "url": "https://www.ultimahora.com/meteorologia-advierte-sobre-tormentas-en-medio-de-un-sabado-caluroso-y-humedo",
+          "publishedAt": "2026-11-21T11:35:33.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Clima Paraguay: sábado caluroso y probabilidad de tormentas en todo el país",
+          "url": "https://elnacional.com.py/nacionales/clima-paraguay-sabado-caluroso-probabilidad-tormentas-todo-pais-n115587",
+          "publishedAt": "2026-11-21T11:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/02/4f2ee5cbee398f65364b8145bb7282aa.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ambiente caluroso y húmedo, con lluvias y tormentas durante el fin de semana",
+          "url": "https://www.adndigital.com.py/ambiente-caluroso-y-humedo-con-lluvias-y-tormentas-durante-el-fin-de-semana",
+          "publishedAt": "2026-11-21T10:45:01.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/09/lluvias.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Fin de semana caluroso, con lluvias y tormentas",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas",
+          "publishedAt": "2026-11-21T10:14:06.012Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tormentas intensas y calor húmedo dominan el fin de semana en gran parte del territorio",
+          "url": "https://www.lanacion.com.py/pais/2026/11/21/tormentas-intensas-y-calor-humedo-dominan-el-fin-de-semana-en-gran-parte-del-territorio",
+          "publishedAt": "2026-11-21T10:01:33.000Z",
+          "image": "https://www.lanacion.com.py/resizer/1Yh_CWIqpEefR6Q9j1YaCSBysBI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EABXH42LPNEFZEKPYBHZQCHCLE.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "¿Más lluvias durante el fin de semana? Lo que dice Meteorología",
+          "url": "https://www.abc.com.py/clima/2026/11/21/mas-lluvias-durante-el-fin-de-semana-lo-que-dice-meteorologia",
+          "publishedAt": "2026-11-21T09:45:59.000Z",
+          "image": "https://www.abc.com.py/resizer/PAQMBVjnKHy9WxRo1i1dQamR4Kw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZWL566TFUJGU3EYVEJY3ESDXMU.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Humedad, máximas de 39°C y lluvias con tormentas durante el fin de semana",
+          "url": "https://www.ultimahora.com/humedad-maximas-de-39-c-y-lluvias-con-tormentas-durante-el-fin-de-semana",
+          "publishedAt": "2026-11-20T22:37:46.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Fin de semana caluroso e inestable",
+          "url": "https://www.npy.com.py/noticias/nacionales/fin-de-semana-caluroso-e-inestable",
+          "publishedAt": "2026-11-20T09:40:26.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/CQK6TMWJKNGXZK3KAX3GGYJLTQ.jpeg?auth=4c8f60d46c36ee951e1bc764396ddcbbbfb233e58a716eaed274c2dd6edaacbf&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/21/fin-de-semana-caluroso-con-lluvias-y-tormentas"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 26.89
     },
     {
       "id": "ev-138rgam",
-      "title": "Emiliano Rolón acude a la ONU y denuncia persecución política tras su salida de la Fiscalía",
-      "summary": "El exfiscal general del Estado, Emiliano Rolón Fernández, decidió llevar su situación ante las Naciones Unidas mediante una presentación en la que denuncia presuntas represalias institucionales, presiones políticas y una campaña mediática que, según sostiene, derivaron en su salida del Ministerio Público.",
+      "title": "Designan fiscales para investigar a Emiliano Rolón y segunda denuncia contra Peña",
+      "summary": "La Fiscalía General del Estado conformó equipos de trabajo para investigar dos denuncias: la de Luz Candado contra Santiago Peña y la de parlamentarios contra Emiliano Rolón. El exfiscal general del Estado, Emiliano Rolón Fernández, decidió llevar su situación ante las Naciones Unidas mediante una presentación en la que denuncia presuntas represalias institucionales, presiones políticas y una campaña mediática que, según sostiene, derivaron en su salida del Ministerio Público.",
       "keyPoints": [
+        "La Fiscalía General del Estado conformó equipos de trabajo para investigar dos denuncias: la de Luz Candado contra Santiago Peña y la de parlamentarios contra Emiliano Rolón.",
         "El exfiscal general del Estado, Emiliano Rolón Fernández, decidió llevar su situación ante las Naciones Unidas mediante una presentación en la que denuncia presuntas represalias institucionales, presiones políticas y una campaña mediática que, según sostiene, derivaron…",
-        "El exfiscal general de Paraguay Emiliano Rolón denunció ante la ONU una persecución política tras renunciar a su cargo en medio del escándalo de Ueno Bank, que provocó la destitución y detención del expresidente Santiago Peña…",
-        "El exfiscal general del Estado, Emiliano Rolón Fernández, quien renunció al cargo, envió este viernes una nota a la Relatoría Especial sobre la Independencia de los Magistrados y Abogados de la Organización de las Naciones Unidas…",
-        "La fiscal general del Estado, Alba Cantero, decidió formar un equipo de trabajo integrado por tres fiscales para intervenir en la causa penal contra el exfiscal general Emiliano Rolón Fernández, por presunta frustración de la persecución…"
+        "La titular del Ministerio Público, Alba Cantero, designó a la agente fiscal Sonia del Carmen Sanguinés Bidondo, de la Unidad Especializada de Hechos Punibles contra los Derechos Humanos 2, como coadyuvante de la agente fiscal Zully…",
+        "El exfiscal general de Paraguay Emiliano Rolón denunció ante la ONU una persecución política tras renunciar a su cargo en medio del escándalo de Ueno Bank, que provocó la destitución y detención del expresidente Santiago Peña…"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -246,6 +286,38 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía refuerza pesquisa por denuncias en Mburuvicha Róga durante gobierno de Peña",
+          "url": "https://www.lanacion.com.py/politica/2026/11/21/fiscalia-refuerza-pesquisa-por-denuncias-en-mburuvicha-roga-durante-gobierno-de-pena",
+          "publishedAt": "2026-11-21T14:53:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/foDWsQ5iS0ukADdoeXzU1QbOVs4=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LNNV4RM3IJAMLLCG4JPK2JQJWM.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ministerio Público amplía equipo para investigar denuncia de Luz Candado contra Santiago Peña",
+          "url": "https://www.adndigital.com.py/ministerio-publico-amplia-equipo-para-investigar-denuncia-de-luz-candado-contra-santiago-pena",
+          "publishedAt": "2026-11-21T13:06:42.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/santiago-pena-2.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Fiscalía conforma equipo para investigar a Emiliano Rolón y refuerza causa contra Santiago Peña",
+          "url": "https://elnacional.com.py/politica/fiscalia-conforma-equipo-investigar-emiliano-rolon-refuerza-causa-santiago-pena-n115601",
+          "publishedAt": "2026-11-21T12:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef9850b94a0.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Designan fiscales para investigar a Emiliano Rolón y segunda denuncia contra Peña",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/21/designan-fiscales-para-investigar-a-emiliano-rolon-y-segunda-denuncia-contra-pena",
+          "publishedAt": "2026-11-21T12:03:25.677Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/F4BSSU6W6BBMHDZROUOL5UC7GI.jpeg?auth=40e04c7aaa9aa7cb2a28aa96f03beaf9a50eec47c53669c757a73187c611c005&width=1200&height=630&smart=true"
+        },
         {
           "sourceId": "hoy",
           "sourceName": "HOY",
@@ -328,15 +400,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2024/09/6e4fb8545b1182e7ddc3d81339453473.jpeg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/emiliano-rolon-acude-onu-denuncia-persecucion-politica-tras-su-salida-fiscalia-n115580"
+        "url": "https://www.lanacion.com.py/resizer/v2/F4BSSU6W6BBMHDZROUOL5UC7GI.jpeg?auth=40e04c7aaa9aa7cb2a28aa96f03beaf9a50eec47c53669c757a73187c611c005&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/21/designan-fiscales-para-investigar-a-emiliano-rolon-y-segunda-denuncia-contra-pena"
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T12:07:16.196Z",
-      "updatedSlot": "manana",
-      "score": 20.81
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 23.9
     },
     {
       "id": "ev-1wci20j",
@@ -420,7 +492,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 20.8
+      "score": 20.47
     },
     {
       "id": "ev-06w6yrn",
@@ -504,24 +576,107 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 19.81
+      "score": 19.48
     },
     {
-      "id": "ev-051ee00",
-      "title": "Ordenan la captura de Miguel Cuevas para cumplir su condena",
-      "summary": "Con el rechazo de esta última presentación, la condena adquirió carácter de cosa juzgada y quedó habilitada para su ejecución inmediata por parte del Juzgado de Ejecución. El exdiputado Miguel Cuevas fue condenado por enriquecimiento ilícito y su condena ya quedó firme.",
+      "id": "ev-1gf9dg8",
+      "title": "Máquinas de votación: TSJE se desmarca de pagos denunciados a Itti",
+      "summary": "La Justicia Electoral rechazó cualquier relación contractual con la empresa tecnológica del Grupo Vázquez, luego de que el exvicepresidente de Ueno Bank, Julio Rey Fernández, revelara ante la Fiscalía supuestas transferencias de Comitia a Itti por la adjudicación de las máquinas de votación.",
       "keyPoints": [
-        "Con el rechazo de esta última presentación, la condena adquirió carácter de cosa juzgada y quedó habilitada para su ejecución inmediata por parte del Juzgado de Ejecución.",
-        "El exdiputado Miguel Cuevas fue condenado por enriquecimiento ilícito y su condena ya quedó firme.",
-        "Tras quedar firme su condena por enriquecimiento ilícito, la Justicia ordenó la captura del exdiputado Miguel Cuevas para que cumpla cinco años de prisión.",
-        "Una comitiva fiscal y policial allanó este viernes dos inmuebles del exdiputado colorado Miguel Cuevas en la ciudad de Sapucai , Paraguarí, con el objetivo de detenerlo."
+        "La Justicia Electoral rechazó cualquier relación contractual con la empresa tecnológica del Grupo Vázquez, luego de que el exvicepresidente de Ueno Bank, Julio Rey Fernández, revelara ante la Fiscalía supuestas transferencias de Comitia a Itti por…",
+        "El Tribunal Superior de Justicia Electoral (TSJE) negó mantener vínculos contractuales con la empresa ITTI y aseguró que el arrendamiento de las máquinas de votación se realizó a través de la firma COMITIA, conforme a las…",
+        "El Tribunal Superior de Justicia Electoral (TSJE) emitió un comunicado en la cual aclara que no mantiene, ni mantuvo, ningún vínculo contractual con la empresa ITTI, vinculada al Grupo Vázquez y Ueno Bank."
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "TSJE desmiente vínculo con ITTI por máquinas de votación y detalla alcance de Comitia",
+          "url": "https://www.lanacion.com.py/politica/2026/11/21/tsje-desmiente-vinculo-con-itti-por-maquinas-de-votacion-y-detalla-alcance-de-comitia",
+          "publishedAt": "2026-11-21T15:51:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/9VcED-82c0kI4EvVA_xmrtcd9pg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/DWMQTOXYDZEF3MGXLKFJ7BMAGE.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Máquinas de votación: TSJE se desmarca de pagos denunciados a Itti",
+          "url": "https://elnacional.com.py/politica/maquinas-votacion-tsje-desmarca-pagos-denunciados-itti-n115604",
+          "publishedAt": "2026-11-21T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/05/6a1aea9e43b96.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "TSJE niega vínculos contractuales con ITTI por alquiler de máquinas de votación",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/20/tsje-niega-vinculos-contractuales-con-itti-por-alquiler-de-maquinas-de-votacion",
+          "publishedAt": "2026-11-21T00:36:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/RUCZYZIW5VB6DANWPMSRKIYHNQ.jpg?auth=acc9b9d4fa91b83e937ef284e34a8003b3a8d5cecfd47cd934c39e51306e8131&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "TSJE niega conocimiento de pagos de Comitia a Itti por ganar la licitación de las máquinas de votación",
+          "url": "https://www.abc.com.py/politica/2026/11/20/tsje-niega-conocimiento-de-pagos-de-comitia-a-itti-por-ganar-la-licitacion-de-las-maquinas-de-votacion",
+          "publishedAt": "2026-11-20T23:23:52.000Z",
+          "image": "https://www.abc.com.py/resizer/gO0rgbUu0HOEAM4kv1XA01fy9Z8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4CFHYYLHORAXLB6A7PRUB5LGWA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/05/6a1aea9e43b96.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/maquinas-votacion-tsje-desmarca-pagos-denunciados-itti-n115604"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 17.98
+    },
+    {
+      "id": "ev-051ee00",
+      "title": "Ordenan la captura de Miguel Cuevas para cumplir su condena",
+      "summary": "Con el rechazo de esta última presentación, la condena adquirió carácter de cosa juzgada y quedó habilitada para su ejecución inmediata por parte del Juzgado de Ejecución. Miguel Jorge Cuevas Ruiz Díaz , ahora de 62 años de edad, fue condenado por un Tribunal de Sentencia el 15 de setiembre de 2023 , aunque ese fallo fue ratificado por un Tribunal de Apelación el 26 de diciembre de 2023 y, finalmente, confirmado por la Corte Suprema de Justicia el 29 de octubre de 2026 .",
+      "keyPoints": [
+        "Con el rechazo de esta última presentación, la condena adquirió carácter de cosa juzgada y quedó habilitada para su ejecución inmediata por parte del Juzgado de Ejecución.",
+        "Miguel Jorge Cuevas Ruiz Díaz , ahora de 62 años de edad, fue condenado por un Tribunal de Sentencia el 15 de setiembre de 2023 , aunque ese fallo fue ratificado por un Tribunal de Apelación…",
+        "El exdiputado colorado Miguel Cuevas no fue localizado durante dos allanamientos realizados por la Fiscalía y la Policía en la ciudad de Sapucái, departamento de Paraguarí en la tarde de este viernes con el objetivo de…",
+        "La Fiscalía realizó dos allanamientos en propiedades de Miguel Cuevas en Sapucái, Departamento de Paraguarí, pero los operativos fueron en vano, ya que no encontraron al ex diputado, condenado a cinco años de cárcel por enriquecimiento…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Miguel Cuevas sigue prófugo y Fiscalía no lo ubica en dos allanamientos en Sapucái",
+          "url": "https://www.ultimahora.com/miguel-cuevas-sigue-profugo-y-fiscalia-no-lo-ubica-en-dos-allanamientos-en-sapucai",
+          "publishedAt": "2026-11-21T15:06:14.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanar dos propiedades en Sapucái",
+          "url": "https://www.lanacion.com.py/politica/2026/11/21/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanar-dos-propiedades-en-sapucai",
+          "publishedAt": "2026-11-21T14:17:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nc0tlci-xLPtiOtzP8NJVrFGRGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q5XGUOWFTZAPPL3YAFZP3IKL2U.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El exdiputado Miguel Cuevas promete entregarse para cumplir su condena por corrupción",
+          "url": "https://www.abc.com.py/policiales/2026/11/21/el-exdiputado-miguel-cuevas-promete-entregarse-para-cumplir-su-condena-por-corrupcion",
+          "publishedAt": "2026-11-21T12:32:38.000Z",
+          "image": "https://www.abc.com.py/resizer/SDdb2ptrmU3HjryiL_UpnPrc0j4=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/S3M65UVWEZHJNDGVI7533IZHYY.jpg"
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -578,9 +733,127 @@
       },
       "firstSeenAt": "2026-11-21T03:54:00.740Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-21T08:07:11.501Z",
-      "updatedSlot": "manana",
-      "score": 14.42
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 17.92
+    },
+    {
+      "id": "ev-1ow74v6",
+      "title": "Municipalidad de Asunción gestiona préstamo de G. 50.000 millones",
+      "summary": "La Municipalidad de Asunción evalúa una línea de crédito de corto plazo de hasta G. 50.000 millones, para hacer frente a dificultades financieras identificadas por la nueva administración. Con ese monto se busca garantizar servicios y obligaciones salariales. Las autoridades presentaron este viernes un reporte financiero y de acuerdo con el balance recibido al 31 de octubre, la Municipalidad registra un pasivo de aproximadamente G. 2,3 billones, equivalente a unos U$D 395 millones.",
+      "keyPoints": [
+        "La Municipalidad de Asunción evalúa una línea de crédito de corto plazo de hasta G. 50.000 millones, para hacer frente a dificultades financieras identificadas por la nueva administración.",
+        "La nueva administración de la Municipalidad de Asunción analiza recurrir a un financiamiento de hasta G. 50.000 millones para superar los problemas de liquidez que enfrenta la institución."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Municipalidad recurre a préstamo para cubrir salarios y servicios",
+          "url": "https://www.adndigital.com.py/municipalidad-recurre-a-prestamo-para-cubrir-salarios-y-servicios",
+          "publishedAt": "2026-11-21T12:31:03.000Z",
+          "image": "https://www.adndigital.com.py/wp-content/uploads/2020/01/Municipalidad_de_Asunción_del_Paraguay-1024x729.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Municipalidad de Asunción gestiona préstamo de G. 50.000 millones",
+          "url": "https://www.lanacion.com.py/politica/2026/11/20/municipalidad-de-asuncion-gestiona-prestamo-de-g-50000-millones",
+          "publishedAt": "2026-11-21T00:53:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/klDfXV9ZloigWwu4xNNn-wn1RTA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OWK7GH2TDFH3PKOHZJAJITOMCY.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Soledad Núñez confirma pasivo de casi US$ 400 millones: requerirá préstamo de G. 50.000 millones para cerrar el 2026",
+          "url": "https://www.abc.com.py/politica/2026/11/20/soledad-nunez-confirma-pasivo-de-casi-us-400-millones-requerira-prestamo-de-g-50000-millones-para-cerrar-el-2026",
+          "publishedAt": "2026-11-20T22:11:01.000Z",
+          "image": "https://www.abc.com.py/resizer/P_ewNjUyqNXoxKvZnogTbcpwOTQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VEFRJFH4XJDEVNCDL3Q6CZL3PQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Asunción arrastra deuda de USD 359 millones: cuestionan destino de millonarios fondos",
+          "url": "https://elnacional.com.py/politica/asuncion-arrastra-deuda-usd-359-millones-cuestionan-destino-millonarios-fondos-n115583",
+          "publishedAt": "2026-11-20T19:20:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/07/68685e4fe3284.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OWK7GH2TDFH3PKOHZJAJITOMCY.jpeg?auth=72a63d9649513a2cb9b176679d0e3cce796d7b4f5b7c0b138d10c506d2ac404d&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/20/municipalidad-de-asuncion-gestiona-prestamo-de-g-50000-millones"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 17.7
+    },
+    {
+      "id": "ev-04iacpz",
+      "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
+      "summary": "El Poder Ejecutivo oficializó este viernes el nombramiento de Juan Marcelo Cuenca Torres al frente de la cartera cultural, en reemplazo de Adriana Raquel Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023. El abogado, historiador y comunicador cultural reemplazará a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
+      "keyPoints": [
+        "El Poder Ejecutivo oficializó este viernes el nombramiento de Juan Marcelo Cuenca Torres al frente de la cartera cultural, en reemplazo de Adriana Raquel Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
+        "El abogado, historiador y comunicador cultural reemplazará a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
+        "Juan Marcelo Cuenca Torres fue designado como nuevo secretario nacional de Cultura, mediante el Decreto N.º 7256 firmado por el presidente de la República, Pedro Alliana.",
+        "El presidente de la República, Pedro Alliana firmó el decreto de nombramiento de Juan Marcelo Cuenca como nuevo titular de la Secretaría Nacional de Cultura (SNC), en reemplazo de Adriana Ortiz Semidei, quien estuvo al frente…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Juan Marcelo Cuenca asume la conducción de la Secretaría de Cultura",
+          "url": "https://www.adndigital.com.py/juan-marcelo-cuenca-asume-la-conduccion-de-la-secretaria-de-cultura",
+          "publishedAt": "2026-11-21T12:08:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/juan-marcelo-cuenca-torres.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juan Marcelo Cuenca, el historiador que asume al frente de la Secretaría Nacional de Cultura",
+          "url": "https://www.lanacion.com.py/politica/2026/11/20/juan-marcelo-cuenca-el-historiador-que-asume-al-frente-de-la-secretaria-nacional-de-cultura",
+          "publishedAt": "2026-11-20T21:36:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/3JSaRdeBLnfZtMuoD9whh3X9R4A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GQ7ZK4LDQVGZFDT3LN5P2FC7P4.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
+          "url": "https://www.hoy.com.py/espectaculos/2026/11/20/juan-marcelo-cuenca-es-el-nuevo-ministro-de-la-secretaria-nacional-de-cultura",
+          "publishedAt": "2026-11-20T20:48:43.951Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/PO67MSLEPFGIJDFXM25GU3DDLM.jpg?auth=c960c0500761ff31d29f34315191ed69fe5c9f771e817113f20b8293df589415&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
+          "url": "https://elnacional.com.py/agenda-cultural/juan-marcelo-cuenca-nuevo-ministro-secretaria-nacional-cultura-n115586",
+          "publishedAt": "2026-11-20T19:49:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b00a655b0c6a.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://www.lanacion.com.py/resizer/v2/PO67MSLEPFGIJDFXM25GU3DDLM.jpg?auth=c960c0500761ff31d29f34315191ed69fe5c9f771e817113f20b8293df589415&width=1200&height=630&smart=true",
+        "credit": "HOY",
+        "articleUrl": "https://www.hoy.com.py/espectaculos/2026/11/20/juan-marcelo-cuenca-es-el-nuevo-ministro-de-la-secretaria-nacional-de-cultura"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 17.67
     },
     {
       "id": "ev-0ci95c4",
@@ -648,7 +921,108 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
+    },
+    {
+      "id": "ev-1tka867",
+      "title": "Tienda Naranja se suma al Black Friday 2026",
+      "summary": "Usuarios podrán acceder a ofertas de hasta el 80 % en tecnología, electrodomésticos, hogar, belleza, deportes y mucho más. La capital departamental registra una alta afluencia de compradores durante la tercera jornada del Black Friday , evento que comenzó el jueves pasado y se extenderá hasta mañana.",
+      "keyPoints": [
+        "Usuarios podrán acceder a ofertas de hasta el 80 % en tecnología, electrodomésticos, hogar, belleza, deportes y mucho más.",
+        "La capital departamental registra una alta afluencia de compradores durante la tercera jornada del Black Friday , evento que comenzó el jueves pasado y se extenderá hasta mañana.",
+        "El inicio de la tercera jornada del Black Friday registra este sábado un desborde vehicular en la frontera, con kilométricas filas de automóviles sobre la carretera BR-277, en el lado brasileño de Foz de Yguazú, que…"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Masivo ingreso de compradores marca el tercer día del Black Friday en CDE: ¿Qué se busca más?",
+          "url": "https://www.ultimahora.com/masivo-ingreso-de-compradores-marca-el-tercer-dia-del-black-friday-en-cde-que-se-busca-mas",
+          "publishedAt": "2026-11-21T14:02:25.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Electrónicos, perfumes y ropa lideran las preferencias en el Black Friday de Ciudad del Este",
+          "url": "https://www.abc.com.py/este/2026/11/21/electronicos-perfumes-y-ropa-lideran-las-preferencias-en-el-black-friday-de-ciudad-del-este",
+          "publishedAt": "2026-11-21T13:38:31.000Z",
+          "image": "https://www.abc.com.py/resizer/DhaEcolibELnYW_fYT8CHc444xw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DLF26KRQ2ZCNJLOD3GUJDOW6JY.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Tienda Naranja se suma al Black Friday 2026",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/tienda-naranja-se-suma-al-black-friday-2026",
+          "publishedAt": "2026-11-21T03:40:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/GgYKtCD_p22iXSJEnThQTLhGpJw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L2R76V3ESFAVFE5QKUYWSRGNRA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/L2R76V3ESFAVFE5QKUYWSRGNRA.jpg?auth=3ab2af86fc007005e74339d1253d9a44c11becd46b1f655fa856d3f81ea9325f&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/tienda-naranja-se-suma-al-black-friday-2026"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 13.83
+    },
+    {
+      "id": "ev-1rqehfy",
+      "title": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
+      "summary": "Un matemático de la empresa tecnológica Anthropic aseguró este viernes haber descifrado la hipótesis de Riemann, considerado como uno de los problemas sin resolver más importante de las matemáticas, con la ayuda del sistema de Inteligencia Artificial (IA) Claude. Una persona pasa en bicicleta junto a un cartel publicitario de la empresa de inteligencia artificial Anthropic en Times Square de Nueva York, el 19 de noviembre de 2026.",
+      "keyPoints": [
+        "Un matemático de la empresa tecnológica Anthropic aseguró este viernes haber descifrado la hipótesis de Riemann, considerado como uno de los problemas sin resolver más importante de las matemáticas, con la ayuda del sistema de Inteligencia…",
+        "Una persona pasa en bicicleta junto a un cartel publicitario de la empresa de inteligencia artificial Anthropic en Times Square de Nueva York, el 19 de noviembre de 2026."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
+          "url": "https://www.ultimahora.com/un-matematico-de-anthropic-asegura-haber-resuelto-el-problema-mas-famoso-de-calculo-con-ia",
+          "publishedAt": "2026-11-21T13:08:20.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Investigador de Anthropic dice que Claude resolvió un problema matemático de 160 años",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/21/investigador-de-anthropic-dice-que-claude-resolvio-un-problema-matematico-de-160-anos",
+          "publishedAt": "2026-11-21T11:38:26.000Z",
+          "image": "https://www.lanacion.com.py/resizer/h2tueSYe8i1HoRrN2keVC5yy73c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4LWDSJR325FUPAK4ITJTVDAPSQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
+          "url": "https://www.abc.com.py/ciencia/2026/11/20/un-matematico-de-anthropic-asegura-haber-resuelto-el-problema-mas-famoso-de-calculo-con-ia",
+          "publishedAt": "2026-11-20T23:50:13.000Z",
+          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4LWDSJR325FUPAK4ITJTVDAPSQ.jpg?auth=7871b70830dbd1d84f41f9a75b470e9a86c7a4cd8d3f58c762c0f3e130f75ac6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/21/investigador-de-anthropic-dice-que-claude-resolvio-un-problema-matematico-de-160-anos"
+      },
+      "firstSeenAt": "2026-11-21T03:54:00.740Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-21T16:04:02.721Z",
+      "updatedSlot": "tarde",
+      "score": 13.76
     },
     {
       "id": "ev-0151ksk",
@@ -698,58 +1072,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 13.89
-    },
-    {
-      "id": "ev-1ow74v6",
-      "title": "Municipalidad de Asunción gestiona préstamo de G. 50.000 millones",
-      "summary": "La Municipalidad de Asunción evalúa una línea de crédito de corto plazo de hasta G. 50.000 millones, para hacer frente a dificultades financieras identificadas por la nueva administración. Con ese monto se busca garantizar servicios y obligaciones salariales. Las autoridades presentaron este viernes un reporte financiero y de acuerdo con el balance recibido al 31 de octubre, la Municipalidad registra un pasivo de aproximadamente G. 2,3 billones, equivalente a unos U$D 395 millones.",
-      "keyPoints": [
-        "La Municipalidad de Asunción evalúa una línea de crédito de corto plazo de hasta G. 50.000 millones, para hacer frente a dificultades financieras identificadas por la nueva administración.",
-        "La intendenta de Asunción, Soledad Núñez , confirmó este viernes tras el corte administrativo al 31 de octubre, entregado por la gestión saliente de Luis Bello (ANR-cartista), que la Municipalidad arrastra un pasivo de G. 2,3…",
-        "La Municipalidad de Asunción acumula un pasivo de G. 2,3 billones, equivalente a aproximadamente USD 359 millones al tipo de cambio referencial, según informó este viernes la intendenta Soledad Núñez."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Municipalidad de Asunción gestiona préstamo de G. 50.000 millones",
-          "url": "https://www.lanacion.com.py/politica/2026/11/20/municipalidad-de-asuncion-gestiona-prestamo-de-g-50000-millones",
-          "publishedAt": "2026-11-21T00:53:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/klDfXV9ZloigWwu4xNNn-wn1RTA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/OWK7GH2TDFH3PKOHZJAJITOMCY.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Soledad Núñez confirma pasivo de casi US$ 400 millones: requerirá préstamo de G. 50.000 millones para cerrar el 2026",
-          "url": "https://www.abc.com.py/politica/2026/11/20/soledad-nunez-confirma-pasivo-de-casi-us-400-millones-requerira-prestamo-de-g-50000-millones-para-cerrar-el-2026",
-          "publishedAt": "2026-11-20T22:11:01.000Z",
-          "image": "https://www.abc.com.py/resizer/P_ewNjUyqNXoxKvZnogTbcpwOTQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VEFRJFH4XJDEVNCDL3Q6CZL3PQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Asunción arrastra deuda de USD 359 millones: cuestionan destino de millonarios fondos",
-          "url": "https://elnacional.com.py/politica/asuncion-arrastra-deuda-usd-359-millones-cuestionan-destino-millonarios-fondos-n115583",
-          "publishedAt": "2026-11-20T19:20:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/07/68685e4fe3284.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/OWK7GH2TDFH3PKOHZJAJITOMCY.jpeg?auth=72a63d9649513a2cb9b176679d0e3cce796d7b4f5b7c0b138d10c506d2ac404d&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/20/municipalidad-de-asuncion-gestiona-prestamo-de-g-50000-millones"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 13.06
+      "score": 13.56
     },
     {
       "id": "ev-0itp154",
@@ -800,7 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.82
+      "score": 12.49
     },
     {
       "id": "ev-1bxmgm2",
@@ -851,58 +1174,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.82
-    },
-    {
-      "id": "ev-04iacpz",
-      "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
-      "summary": "El Poder Ejecutivo oficializó este viernes el nombramiento de Juan Marcelo Cuenca Torres al frente de la cartera cultural, en reemplazo de Adriana Raquel Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023. El abogado, historiador y comunicador cultural reemplazará a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
-      "keyPoints": [
-        "El Poder Ejecutivo oficializó este viernes el nombramiento de Juan Marcelo Cuenca Torres al frente de la cartera cultural, en reemplazo de Adriana Raquel Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
-        "El abogado, historiador y comunicador cultural reemplazará a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
-        "El presidente de la República, Pedro Alliana firmó el decreto de nombramiento de Juan Marcelo Cuenca como nuevo titular de la Secretaría Nacional de Cultura (SNC), en reemplazo de Adriana Ortiz Semidei, quien estuvo al frente…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Juan Marcelo Cuenca, el historiador que asume al frente de la Secretaría Nacional de Cultura",
-          "url": "https://www.lanacion.com.py/politica/2026/11/20/juan-marcelo-cuenca-el-historiador-que-asume-al-frente-de-la-secretaria-nacional-de-cultura",
-          "publishedAt": "2026-11-20T21:36:37.000Z",
-          "image": "https://www.lanacion.com.py/resizer/3JSaRdeBLnfZtMuoD9whh3X9R4A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/GQ7ZK4LDQVGZFDT3LN5P2FC7P4.jpg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
-          "url": "https://www.hoy.com.py/espectaculos/2026/11/20/juan-marcelo-cuenca-es-el-nuevo-ministro-de-la-secretaria-nacional-de-cultura",
-          "publishedAt": "2026-11-20T20:48:43.951Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/PO67MSLEPFGIJDFXM25GU3DDLM.jpg?auth=c960c0500761ff31d29f34315191ed69fe5c9f771e817113f20b8293df589415&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Juan Marcelo Cuenca es el nuevo ministro de la Secretaría Nacional de Cultura",
-          "url": "https://elnacional.com.py/agenda-cultural/juan-marcelo-cuenca-nuevo-ministro-secretaria-nacional-cultura-n115586",
-          "publishedAt": "2026-11-20T19:49:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b00a655b0c6a.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/PO67MSLEPFGIJDFXM25GU3DDLM.jpg?auth=c960c0500761ff31d29f34315191ed69fe5c9f771e817113f20b8293df589415&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/espectaculos/2026/11/20/juan-marcelo-cuenca-es-el-nuevo-ministro-de-la-secretaria-nacional-de-cultura"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 12.79
+      "score": 12.49
     },
     {
       "id": "ev-19x2byp",
@@ -953,7 +1225,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 12.68
+      "score": 12.35
     },
     {
       "id": "ev-1676vgx",
@@ -1013,7 +1285,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 11.31
+      "score": 10.98
     },
     {
       "id": "ev-0e279sw",
@@ -1064,7 +1336,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 10.19
+      "score": 9.86
     },
     {
       "id": "ev-1k069cy",
@@ -1106,49 +1378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 9.14
-    },
-    {
-      "id": "ev-1gf9dg8",
-      "title": "TSJE niega conocimiento de pagos de Comitia a Itti por ganar la licitación de las máquinas de votación",
-      "summary": "En un escueto comunicado, el Tribunal Superior de Justicia Electoral (TSJE) intentó aclarar que no mantiene ni ha mantenido vínculo contractual alguno con la empresa Itti. Este último es el brazo tecnológico del Grupo Vázquez, matriz de Ueno Bank que acaparó fondos públicos y dinero de ahorristas mediante la injerencia del expresidente de la República, Santiago Peña.",
-      "keyPoints": [
-        "En un escueto comunicado, el Tribunal Superior de Justicia Electoral (TSJE) intentó aclarar que no mantiene ni ha mantenido vínculo contractual alguno con la empresa Itti.",
-        "El Tribunal Superior de Justicia Electoral (TSJE) negó mantener vínculos contractuales con la empresa ITTI y aseguró que el arrendamiento de las máquinas de votación se realizó a través de la firma COMITIA, conforme a las…"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "TSJE niega vínculos contractuales con ITTI por alquiler de máquinas de votación",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/20/tsje-niega-vinculos-contractuales-con-itti-por-alquiler-de-maquinas-de-votacion",
-          "publishedAt": "2026-11-21T00:36:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/RUCZYZIW5VB6DANWPMSRKIYHNQ.jpg?auth=acc9b9d4fa91b83e937ef284e34a8003b3a8d5cecfd47cd934c39e51306e8131&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "TSJE niega conocimiento de pagos de Comitia a Itti por ganar la licitación de las máquinas de votación",
-          "url": "https://www.abc.com.py/politica/2026/11/20/tsje-niega-conocimiento-de-pagos-de-comitia-a-itti-por-ganar-la-licitacion-de-las-maquinas-de-votacion",
-          "publishedAt": "2026-11-20T23:23:52.000Z",
-          "image": "https://www.abc.com.py/resizer/gO0rgbUu0HOEAM4kv1XA01fy9Z8=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/4CFHYYLHORAXLB6A7PRUB5LGWA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/4CFHYYLHORAXLB6A7PRUB5LGWA.jpg?auth=499164a44fead5c16ed860dd0d6fa9e7763453da47ccfc33513b4804be78f682&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/20/tsje-niega-conocimiento-de-pagos-de-comitia-a-itti-por-ganar-la-licitacion-de-las-maquinas-de-votacion"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 9.04
+      "score": 8.81
     },
     {
       "id": "ev-1buueul",
@@ -1190,7 +1420,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.94
+      "score": 8.61
     },
     {
       "id": "ev-15i37qz",
@@ -1232,7 +1462,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.5
     },
     {
       "id": "ev-119c6ps",
@@ -1274,7 +1504,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.83
+      "score": 8.5
     },
     {
       "id": "ev-15r5b9a",
@@ -1316,7 +1546,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.41
     },
     {
       "id": "ev-16f1avd",
@@ -1357,7 +1587,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.35
     },
     {
       "id": "ev-1o8vplw",
@@ -1399,7 +1629,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.68
+      "score": 8.35
     },
     {
       "id": "ev-1t0spjc",
@@ -1441,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 8.61
+      "score": 8.29
     },
     {
       "id": "ev-1kksb3p",
@@ -1505,7 +1735,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 8.53
+      "score": 8.2
     },
     {
       "id": "ev-17kiz36",
@@ -1555,7 +1785,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 7.74
+      "score": 7.41
     },
     {
       "id": "ev-0wdajhr",
@@ -1605,7 +1835,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 7.55
+      "score": 7.22
     },
     {
       "id": "ev-0krfge1",
@@ -1647,7 +1877,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 6.82
+      "score": 6.49
     },
     {
       "id": "ev-00115w2",
@@ -1685,7 +1915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 6.62
+      "score": 6.29
     },
     {
       "id": "ev-1q6ydr2",
@@ -1760,7 +1990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T12:07:16.196Z",
       "updatedSlot": "manana",
-      "score": 6.36
+      "score": 6.03
     },
     {
       "id": "ev-0m5uwqb",
@@ -1802,7 +2032,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 6.29
+      "score": 5.96
     },
     {
       "id": "ev-1lmr6o7",
@@ -1858,7 +2088,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.77
+      "score": 5.45
     },
     {
       "id": "ev-1u3znqv",
@@ -1900,7 +2130,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.6
+      "score": 5.27
     },
     {
       "id": "ev-08ht82b",
@@ -1942,40 +2172,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.37
-    },
-    {
-      "id": "ev-1tka867",
-      "title": "Tienda Naranja se suma al Black Friday 2026",
-      "summary": "Usuarios podrán acceder a ofertas de hasta el 80 % en tecnología, electrodomésticos, hogar, belleza, deportes y mucho más.",
-      "keyPoints": [
-        "Usuarios podrán acceder a ofertas de hasta el 80 % en tecnología, electrodomésticos, hogar, belleza, deportes y mucho más."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Tienda Naranja se suma al Black Friday 2026",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/tienda-naranja-se-suma-al-black-friday-2026",
-          "publishedAt": "2026-11-21T03:40:58.000Z",
-          "image": "https://www.lanacion.com.py/resizer/GgYKtCD_p22iXSJEnThQTLhGpJw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/L2R76V3ESFAVFE5QKUYWSRGNRA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/L2R76V3ESFAVFE5QKUYWSRGNRA.jpg?auth=3ab2af86fc007005e74339d1253d9a44c11becd46b1f655fa856d3f81ea9325f&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/21/tienda-naranja-se-suma-al-black-friday-2026"
-      },
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 5.3
+      "score": 5.04
     },
     {
       "id": "ev-0zilk88",
@@ -2008,7 +2205,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.27
+      "score": 4.94
     },
     {
       "id": "ev-0s2rm49",
@@ -2041,7 +2238,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.25
+      "score": 4.92
     },
     {
       "id": "ev-127on4z",
@@ -2074,7 +2271,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0x8osnj",
@@ -2107,7 +2304,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0phhxpk",
@@ -2140,7 +2337,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1vsf3ka",
@@ -2173,7 +2370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1prnw1n",
@@ -2206,7 +2403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0v2vie3",
@@ -2239,7 +2436,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-123kica",
@@ -2272,7 +2469,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1xt7cbc",
@@ -2301,7 +2498,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.22
+      "score": 4.89
     },
     {
       "id": "ev-0v62ymc",
@@ -2334,7 +2531,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.87
     },
     {
       "id": "ev-1wb9n67",
@@ -2367,36 +2564,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 5.17
-    },
-    {
-      "id": "ev-1rqehfy",
-      "title": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
-      "summary": "El Dr. Levent Alpöge, empleado de la empresa de IA, publicó un comunicado de cuatro página afirmando haber completado una demostración de la hipótesis en colaboración con Claude, el sistema de inteligencia artificial de Anthropic. \"Claude y yo hemos disfrutado de momentos maravillosos juntos en los últimos meses, pero esta vez Claude me superó con creces cerca de la meta.",
-      "keyPoints": [
-        "El Dr."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
-          "url": "https://www.abc.com.py/ciencia/2026/11/20/un-matematico-de-anthropic-asegura-haber-resuelto-el-problema-mas-famoso-de-calculo-con-ia",
-          "publishedAt": "2026-11-20T23:50:13.000Z",
-          "image": "https://www.abc.com.py/resizer/8IhuewkPKhrHqRKSncsLKwC2f00=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZKT4SWCRDFDU5ANL5QSENBRNWY.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-21T03:54:00.740Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-21T03:54:00.740Z",
-      "updatedSlot": "manana",
-      "score": 4.98
+      "score": 4.85
     },
     {
       "id": "ev-0j28bor",
@@ -2425,7 +2593,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T03:54:00.740Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.61
     },
     {
       "id": "ev-0kvrmkd",
@@ -2463,7 +2631,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-21T08:07:11.501Z",
       "updatedSlot": "manana",
-      "score": 4.09
+      "score": 3.76
     }
   ],
   "runs": [
@@ -2484,6 +2652,13 @@
     {
       "slot": "manana",
       "at": "2026-11-21T12:07:16.196Z",
+      "added": 0,
+      "updated": 9,
+      "candidates": 11
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-21T16:04:02.721Z",
       "added": 0,
       "updated": 9,
       "candidates": 11
