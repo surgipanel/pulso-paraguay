@@ -1,11 +1,78 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-22T19:37:11.890Z",
+  "generatedAt": "2026-11-22T23:07:12.984Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
+    {
+      "id": "ev-1c3n4gl",
+      "title": "Jair Bolsonaro se encuentra “clínicamente estable”",
+      "summary": "El expresidente brasileño Jair Bolsonaro, internado en cuidados intensivos por una obstrucción intestinal, está “clínicamente estable”, informó este domingo el hospital de Brasilia donde permanece desde el viernes. El ex presidente brasileño Jair Bolsonaro, internado en cuidados intensivos por una obstrucción intestinal, está \"clínicamente estable\", informó este domingo el hospital de Brasilia donde permanece desde el viernes.",
+      "keyPoints": [
+        "El expresidente brasileño Jair Bolsonaro, internado en cuidados intensivos por una obstrucción intestinal, está “clínicamente estable”, informó este domingo el hospital de Brasilia donde permanece desde el viernes.",
+        "El ex presidente brasileño Jair Bolsonaro, internado en cuidados intensivos por una obstrucción intestinal, está \"clínicamente estable\", informó este domingo el hospital de Brasilia donde permanece desde el viernes.",
+        "El líder de la ultraderecha brasileña fue ingresado el pasado viernes en un hospital de Brasilia tras quejarse de fuertes dolores abdominales y ese mismo día fue diagnosticado de una obstrucción aguda en el intestino delgado."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Jair Bolsonaro permanece \"estable\" en cuidados intensivos, dice hospital",
+          "url": "https://www.ultimahora.com/jair-bolsonaro-permanece-estable-en-cuidados-intensivos-dice-hospital",
+          "publishedAt": "2026-11-22T21:04:21.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Jair Bolsonaro se encuentra “clínicamente estable”",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/22/jair-bolsonaro-se-encuentra-clinicamente-estable",
+          "publishedAt": "2026-11-22T19:40:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/VZJaeu4QH1rti2l94DTK9jNraSY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7JUWPDBNO5HNVAEH7NBP5EHPRQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Bolsonaro continúa hospitalizado sin previsión de alta pero pasó la noche sin dolores",
+          "url": "https://www.abc.com.py/internacionales/2026/11/22/bolsonaro-continua-hospitalizado-sin-prevision-de-alta-pero-paso-la-noche-sin-dolores",
+          "publishedAt": "2026-11-22T18:20:05.000Z",
+          "image": "https://www.abc.com.py/resizer/qoq4F8WaIDwHlOUGJlb5YhcHFOw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IHFN4Z2PPRCIPO3CWZYWCM2QBU.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Jair Bolsonaro en cuidados intensivos por una obstrucción intestinal",
+          "url": "https://www.hoy.com.py/mundo/2026/11/21/jair-bolsonaro-en-cuidados-intensivos-por-una-obstruccion-intestinal",
+          "publishedAt": "2026-11-21T23:26:00.643Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/OMDCIL74IFHGVEQAEUNIWOSRLQ.jpg?auth=51e786fc86ef77c08e5b4cf19fb4828fbe719c5b069870d8a52e7ab169a715dc&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Jair Bolsonaro en cuidados intensivos en Brasil por una obstrucción intestinal",
+          "url": "https://elnacional.com.py/mundo/jair-bolsonaro-cuidados-intensivos-brasil-una-obstruccion-intestinal-n115641",
+          "publishedAt": "2026-11-21T20:11:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/09/68b70398649c6.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7JUWPDBNO5HNVAEH7NBP5EHPRQ.jpg?auth=830e5966fba1194c82a3ef59f9e1388dd44681b232415bcaac1a188b638b5b40&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/22/jair-bolsonaro-se-encuentra-clinicamente-estable"
+      },
+      "firstSeenAt": "2026-11-22T08:07:10.125Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-22T23:07:12.984Z",
+      "updatedSlot": "tarde",
+      "score": 18.33
+    },
     {
       "id": "ev-01aaafl",
       "title": "Trabajadores del Grupo Vázquez rechazan proyecto estatal y urgen cobrar sus liquidaciones",
@@ -72,7 +139,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 17.34
+      "score": 17.05
     },
     {
       "id": "ev-1mz304t",
@@ -140,7 +207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 16.41
+      "score": 16.12
     },
     {
       "id": "ev-0xr0c6k",
@@ -222,7 +289,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T19:37:11.890Z",
       "updatedSlot": "tarde",
-      "score": 14.41
+      "score": 14.11
     },
     {
       "id": "ev-1qj6ca4",
@@ -282,7 +349,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 13.62
+      "score": 13.33
     },
     {
       "id": "ev-0qq6nre",
@@ -340,7 +407,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T19:37:11.890Z",
       "updatedSlot": "tarde",
-      "score": 12.31
+      "score": 12.02
     },
     {
       "id": "ev-1jahl9k",
@@ -391,7 +458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.12
+      "score": 12
     },
     {
       "id": "ev-1a500ix",
@@ -551,7 +618,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T16:07:13.153Z",
       "updatedSlot": "tarde",
-      "score": 11.62
+      "score": 11.33
     },
     {
       "id": "ev-0uzdoek",
@@ -635,7 +702,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 11.26
+      "score": 10.97
+    },
+    {
+      "id": "ev-0pt03kr",
+      "title": "¡El Rey sigue reinando! Olimpia conquista el bicampeonato y levanta su estrella 49",
+      "summary": "San Lorenzo, Agencia IP.- ¡El Rey de la fauna futbolera nacional! Olimpia, en un partido muy complicado ante Trinidense, supo sufrir en Sajonia y dar vuelta el marcador, quedándose con la victoria por 2-1, para adueñarse del bicampeonato y alzarse con la estrella número 49.",
+      "keyPoints": [
+        "San Lorenzo, Agencia IP.- ¡El Rey de la fauna futbolera nacional!",
+        "Con solo empatar, el Franjeado tocará nuevamente la gloria frente a su multitudinario público, que se dará cita en Sajonia."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ip",
+          "sourceName": "Agencia IP (Medios del Estado)",
+          "title": "¡El Rey sigue reinando! Olimpia conquista el bicampeonato y levanta su estrella 49",
+          "url": "https://mediosdelestado.gov.py/2026/11/22/el-rey-sigue-reinando-olimpia-conquista-el-bicampeonato-y-levanta-su-estrella-49",
+          "publishedAt": "2026-11-22T23:03:20.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Olimpia, por su estrella 49",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/22/olimpia-por-su-estrella-49",
+          "publishedAt": "2026-11-22T05:01:38.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TMkJ92pmEYA5xm8QHzwyJ3J2IxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WA3SBD5FN5BQHKX2SAMGRSR6WE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WA3SBD5FN5BQHKX2SAMGRSR6WE.jpg?auth=ba12546b1976bc43d6d8b97a9a4daee27445e882c31fb17f1f23c6def114c352&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/22/olimpia-por-su-estrella-49"
+      },
+      "firstSeenAt": "2026-11-22T08:07:10.125Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-22T23:07:12.984Z",
+      "updatedSlot": "tarde",
+      "score": 9.99
     },
     {
       "id": "ev-0poo5vk",
@@ -686,7 +795,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 9.68
+      "score": 9.39
     },
     {
       "id": "ev-02cyib4",
@@ -728,7 +837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.17
+      "score": 8
     },
     {
       "id": "ev-0d6dxzm",
@@ -945,7 +1054,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T19:37:11.890Z",
       "updatedSlot": "tarde",
-      "score": 7.96
+      "score": 7.67
     },
     {
       "id": "ev-0ijohjf",
@@ -986,49 +1095,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 6.18
-    },
-    {
-      "id": "ev-1c3n4gl",
-      "title": "Jair Bolsonaro en cuidados intensivos en Brasil por una obstrucción intestinal",
-      "summary": "Bolsonaro fue condenado el año pasado a 27 años de prisión por intentar mantenerse en el poder tras su derrota frente al entonces expresidente y ahora mandatario Luiz Inácio Lula da Silva en 2022. El expresidente brasileño Jair Bolsonaro está internado en cuidados intensivos por un cuadro de obstrucción intestinal, informó este sábado el hospital de Brasilia donde ingresó el viernes.",
-      "keyPoints": [
-        "Bolsonaro fue condenado el año pasado a 27 años de prisión por intentar mantenerse en el poder tras su derrota frente al entonces expresidente y ahora mandatario Luiz Inácio Lula da Silva en 2022.",
-        "El expresidente brasileño Jair Bolsonaro está internado en cuidados intensivos por un cuadro de obstrucción intestinal, informó este sábado el hospital de Brasilia donde ingresó el viernes."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Jair Bolsonaro en cuidados intensivos por una obstrucción intestinal",
-          "url": "https://www.hoy.com.py/mundo/2026/11/21/jair-bolsonaro-en-cuidados-intensivos-por-una-obstruccion-intestinal",
-          "publishedAt": "2026-11-21T23:26:00.643Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/OMDCIL74IFHGVEQAEUNIWOSRLQ.jpg?auth=51e786fc86ef77c08e5b4cf19fb4828fbe719c5b069870d8a52e7ab169a715dc&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Jair Bolsonaro en cuidados intensivos en Brasil por una obstrucción intestinal",
-          "url": "https://elnacional.com.py/mundo/jair-bolsonaro-cuidados-intensivos-brasil-una-obstruccion-intestinal-n115641",
-          "publishedAt": "2026-11-21T20:11:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/09/68b70398649c6.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2025/09/68b70398649c6.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/mundo/jair-bolsonaro-cuidados-intensivos-brasil-una-obstruccion-intestinal-n115641"
-      },
-      "firstSeenAt": "2026-11-22T08:07:10.125Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-22T08:07:10.125Z",
-      "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.89
     },
     {
       "id": "ev-00nyg9y",
@@ -1070,7 +1137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.7
+      "score": 5.41
     },
     {
       "id": "ev-0cjcbaf",
@@ -1112,7 +1179,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1m9bk8h",
@@ -1154,7 +1221,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-0iiw3e0",
@@ -1196,7 +1263,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.33
     },
     {
       "id": "ev-1p0ha7t",
@@ -1229,7 +1296,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-1fgq4sl",
@@ -1258,7 +1325,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-078jqx1",
@@ -1291,7 +1358,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 4.73
     },
     {
       "id": "ev-1fiw5ag",
@@ -1324,7 +1391,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.71
     },
     {
       "id": "ev-0ha0wxu",
@@ -1357,7 +1424,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5
+      "score": 4.71
     },
     {
       "id": "ev-0hknwt4",
@@ -1390,7 +1457,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1qtqbm4",
@@ -1419,7 +1486,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1gimxrt",
@@ -1448,7 +1515,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-058m332",
@@ -1477,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.95
+      "score": 4.66
     },
     {
       "id": "ev-1exd1ha",
@@ -1510,40 +1577,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.82
-    },
-    {
-      "id": "ev-0pt03kr",
-      "title": "Olimpia, por su estrella 49",
-      "summary": "Con solo empatar, el Franjeado tocará nuevamente la gloria frente a su multitudinario público, que se dará cita en Sajonia.",
-      "keyPoints": [
-        "Con solo empatar, el Franjeado tocará nuevamente la gloria frente a su multitudinario público, que se dará cita en Sajonia."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Olimpia, por su estrella 49",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/22/olimpia-por-su-estrella-49",
-          "publishedAt": "2026-11-22T05:01:38.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TMkJ92pmEYA5xm8QHzwyJ3J2IxE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WA3SBD5FN5BQHKX2SAMGRSR6WE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WA3SBD5FN5BQHKX2SAMGRSR6WE.jpg?auth=ba12546b1976bc43d6d8b97a9a4daee27445e882c31fb17f1f23c6def114c352&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/22/olimpia-por-su-estrella-49"
-      },
-      "firstSeenAt": "2026-11-22T08:07:10.125Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-22T08:07:10.125Z",
-      "updatedSlot": "manana",
-      "score": 4.78
+      "score": 4.53
     },
     {
       "id": "ev-1tbve3e",
@@ -1572,7 +1606,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.75
+      "score": 4.46
     },
     {
       "id": "ev-16jdosl",
@@ -1605,7 +1639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.74
+      "score": 4.45
     },
     {
       "id": "ev-032woro",
@@ -1638,7 +1672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.73
+      "score": 4.44
     },
     {
       "id": "ev-06ki4vm",
@@ -1671,7 +1705,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-1qqemlc",
@@ -1704,7 +1738,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.43
     },
     {
       "id": "ev-0k4t448",
@@ -1737,7 +1771,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-1gcg404",
@@ -1766,7 +1800,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.7
+      "score": 4.41
     },
     {
       "id": "ev-0x73cx8",
@@ -1799,7 +1833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.67
+      "score": 4.38
     },
     {
       "id": "ev-1su7ksl",
@@ -1832,7 +1866,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.64
+      "score": 4.35
     },
     {
       "id": "ev-1w8edvk",
@@ -1865,7 +1899,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.33
     },
     {
       "id": "ev-0ivg71a",
@@ -1898,7 +1932,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.47
+      "score": 4.18
     },
     {
       "id": "ev-1wcovln",
@@ -1931,7 +1965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.37
+      "score": 4.08
     },
     {
       "id": "ev-151xnig",
@@ -2006,7 +2040,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 3.71
+      "score": 3.42
     },
     {
       "id": "ev-0minbvc",
@@ -2048,7 +2082,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 3.12
+      "score": 2.83
     },
     {
       "id": "ev-0dby18o",
@@ -2077,7 +2111,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 2.51
+      "score": 2.22
     }
   ],
   "runs": [
@@ -2107,6 +2141,13 @@
       "at": "2026-11-22T19:37:11.890Z",
       "added": 0,
       "updated": 3,
+      "candidates": 6
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-22T23:07:12.984Z",
+      "added": 0,
+      "updated": 2,
       "candidates": 6
     }
   ]
