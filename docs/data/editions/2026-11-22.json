@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-22T16:07:13.153Z",
+  "generatedAt": "2026-11-22T19:37:11.890Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -72,7 +72,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 17.63
+      "score": 17.34
     },
     {
       "id": "ev-1mz304t",
@@ -140,17 +140,15 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 16.7
+      "score": 16.41
     },
     {
       "id": "ev-0xr0c6k",
-      "title": "TSJE desmiente vínculo con ITTI por máquinas de votación",
-      "summary": "Comitia, firma proveedora del servicio, que a través de un memorándum negó tener participación societaria en el Grupo Vázquez o sus empresas vinculadas. El Tribunal Superior de Justicia Electoral (TSJE) emitió un comunicado en la cual aclara que no mantiene, ni mantuvo, ningún vínculo contractual con la empresa ITTI, vinculada al Grupo Vázquez y Ueno Bank.",
+      "title": "Abogado de empresa de seguridad niega pertenecer al Grupo Vázquez y solo son prestadores de servicio",
+      "summary": "El abogado Andrés Casati, representante legal de la firma Dobretec S.A., sostuvo que la citada empresa de seguridad no forma parte del Grupo Vázquez. Asimismo, el profesional del derecho indicó que la relación con dicho grupo, así como con Ueno Bank, es únicamente comercial en carácter de proveedores externos de seguridad, al igual que con otras firmas privadas y del Estado.",
       "keyPoints": [
-        "Comitia, firma proveedora del servicio, que a través de un memorándum negó tener participación societaria en el Grupo Vázquez o sus empresas vinculadas.",
-        "El Tribunal Superior de Justicia Electoral (TSJE) emitió un comunicado en la cual aclara que no mantiene, ni mantuvo, ningún vínculo contractual con la empresa ITTI, vinculada al Grupo Vázquez y Ueno Bank.",
-        "La Justicia Electoral rechazó cualquier relación contractual con la empresa tecnológica del Grupo Vázquez, luego de que el exvicepresidente de Ueno Bank, Julio Rey Fernández, revelara ante la Fiscalía supuestas transferencias de Comitia a Itti por…",
-        "El Tribunal Superior de Justicia Electoral (TSJE) publicó en marzo de 2025 una licitación para comprar 28.000 máquinas de votación, con un precio referencial de US$ 92,8 millones."
+        "El abogado Andrés Casati, representante legal de la firma Dobretec S.A., sostuvo que la citada empresa de seguridad no forma parte del Grupo Vázquez.",
+        "La declaración de un exalto directivo de Ueno Bank ante el Ministerio Público abrió nuevos interrogantes sobre las relaciones comerciales entre la empresa adjudicada para proveer las máquinas de votación utilizadas en las elecciones municipales y…"
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -158,6 +156,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Abogado de empresa de seguridad niega pertenecer al Grupo Vázquez y solo son prestadores de servicio",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/22/abogado-de-empresa-de-seguridad-niega-pertenecer-al-grupo-vazquez-y-solo-son-prestadores-de-servicio",
+          "publishedAt": "2026-11-22T12:30:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/FIz5-AX4SAOhj1bQ-zyfJO5swzw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7WOP52X6UNAGXDQZDPH2EOTREQ.jpg"
+        },
         {
           "sourceId": "elnacional",
           "sourceName": "El Nacional",
@@ -208,15 +214,15 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7XKMZPDKSNDFJOLUCWZIFCHWJE.jpg?auth=64ccbbb4c9b42b4860966718e6c8f57d16aa46beab82c32f7f2e3255af2722d2&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7WOP52X6UNAGXDQZDPH2EOTREQ.jpg?auth=61786ced57cd8b364de64f798bb2c92af9a9c82182fd26d5aa57f196049cdae4&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/21/tsje-desmiente-vinculo-con-itti-por-maquinas-de-votacion"
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/22/abogado-de-empresa-de-seguridad-niega-pertenecer-al-grupo-vazquez-y-solo-son-prestadores-de-servicio"
       },
       "firstSeenAt": "2026-11-22T08:07:10.125Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-22T12:07:10.796Z",
-      "updatedSlot": "manana",
-      "score": 14.64
+      "updatedAt": "2026-11-22T19:37:11.890Z",
+      "updatedSlot": "tarde",
+      "score": 14.41
     },
     {
       "id": "ev-1qj6ca4",
@@ -276,7 +282,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
+    },
+    {
+      "id": "ev-0qq6nre",
+      "title": "Sube a cinco la cifra de muertos por tormenta que arrasó ciudad de Brasil",
+      "summary": "El número de muertos por la tormenta que arrasó la ciudad de Tupanciretã, en el sur de Brasil, subió a cinco, mientras los heridos llegan a 265, informaron este domingo autoridades. El número de muertos por la tormenta que arrasó la ciudad de Tupanciretã, en el sur de Brasil, subió a cinco, mientras los heridos llegan a 265, informaron este domingo autoridades.",
+      "keyPoints": [
+        "El número de muertos por la tormenta que arrasó la ciudad de Tupanciretã, en el sur de Brasil, subió a cinco, mientras los heridos llegan a 265, informaron este domingo autoridades.",
+        "La localidad de Tupanciretã, en el sur, quedó en escombros tras el paso de una violenta tormenta."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Sube a cinco la cifra de muertos por tormenta que arrasó ciudad de Brasil",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/22/sube-a-cinco-la-cifra-de-muertos-por-tormenta-que-arraso-ciudad-de-brasil",
+          "publishedAt": "2026-11-22T17:20:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/-MGhnlyGhtAf0dX9VgxR6GGX-yY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5GXTO7IOSZF4LGJQY2CBUBFM7E.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Sube a cinco la cifra de muertos por tormenta que arrasó ciudad de Brasil",
+          "url": "https://www.hoy.com.py/mundo/2026/11/22/sube-a-cinco-la-cifra-de-muertos-por-tormenta-que-arraso-ciudad-de-brasil",
+          "publishedAt": "2026-11-22T16:07:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/H5YN2PMVOZA7BID53UKPXLHTNA.jpeg?auth=3b2ad25bb37bb4a1635afdaad0329c7b445a3a3b6ef9e0c614c77bcd74f293be&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "“Perdimos todo”: una ciudad del Brasil fue arrasada por tormenta",
+          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/22/perdimos-todo-una-ciudad-del-brasil-fue-arrasada-por-tormenta",
+          "publishedAt": "2026-11-22T04:00:20.000Z",
+          "image": "https://www.lanacion.com.py/resizer/euvdeU18RQeNNVHlgEgAMyEaXIk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B6WLBCBR5ZBSVPO4GFWXFEN4CM.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Suben a cinco las víctimas de la fuerte tormenta que barrió una ciudad en el sur de Brasil",
+          "url": "https://www.abc.com.py/internacionales/2026/11/21/suben-a-cinco-las-victimas-de-la-fuerte-tormenta-que-barrio-una-ciudad-en-el-sur-de-brasil",
+          "publishedAt": "2026-11-21T23:25:11.000Z",
+          "image": "https://www.abc.com.py/resizer/QBRz2ryCOlMs_2SCgU5mYgbEh48=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MHSYNL24XZCKBCI6JMCGPM23EE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/5GXTO7IOSZF4LGJQY2CBUBFM7E.jpg?auth=f63a549a93fd9a0396ca0e11df74d826f93456e51be3f2c93ef361957d31fe4b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/mundo/2026/11/22/sube-a-cinco-la-cifra-de-muertos-por-tormenta-que-arraso-ciudad-de-brasil"
+      },
+      "firstSeenAt": "2026-11-22T08:07:10.125Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-22T19:37:11.890Z",
+      "updatedSlot": "tarde",
+      "score": 12.31
     },
     {
       "id": "ev-1jahl9k",
@@ -327,7 +391,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.41
+      "score": 12.12
     },
     {
       "id": "ev-1a500ix",
@@ -378,7 +442,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.07
+      "score": 12
     },
     {
       "id": "ev-1xnv7ka",
@@ -487,7 +551,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T16:07:13.153Z",
       "updatedSlot": "tarde",
-      "score": 11.91
+      "score": 11.62
     },
     {
       "id": "ev-0uzdoek",
@@ -571,7 +635,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 11.55
+      "score": 11.26
     },
     {
       "id": "ev-0poo5vk",
@@ -622,7 +686,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 9.97
+      "score": 9.68
     },
     {
       "id": "ev-02cyib4",
@@ -664,7 +728,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-0d6dxzm",
@@ -706,7 +770,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.17
+      "score": 8
     },
     {
       "id": "ev-0x0g9zc",
@@ -835,46 +899,53 @@
       "score": 8
     },
     {
-      "id": "ev-0qq6nre",
-      "title": "Suben a cinco las víctimas de la fuerte tormenta que barrió una ciudad en el sur de Brasil",
-      "summary": "De acuerdo con el último boletín de la Defensa Civil, divulgado este sábado, la tempestad , agravada por vientos que llegaron a 114 kilómetros por hora, también dejó 265 heridos y afectó a 20.090 habitantes de Tupanciretá , ciudad de Río Grande do Sul , estado del sur de Brasil fronterizo con Argentina y Uruguay.",
+      "id": "ev-0765thi",
+      "title": "Verstappen reina en el caos de la noche de Las Vegas",
+      "summary": "Completó el podio el australiano Oscar Piastri (McLaren) , mientras que el italiano Andrea Kimi Antonelli (Mercedes) , que ya es campeón del mundo, cruzó la meta en cuarta posición. Antonelli se lleva la “pole” en Las Vegas, pero Verstappen saldrá primero Verstappen , el tetracampeón, bajo el acecho continuo de un nutrido grupo de rivales, defendió con el cuchillo entre los dientes la victoria desde su salida en la “pole” , en una carrera que, por el escenario y su desarrollo, pareció sacada de un videojuego.",
       "keyPoints": [
-        "De acuerdo con el último boletín de la Defensa Civil, divulgado este sábado, la tempestad , agravada por vientos que llegaron a 114 kilómetros por hora, también dejó 265 heridos y afectó a 20.090 habitantes de…",
-        "La localidad de Tupanciretã, en el sur, quedó en escombros tras el paso de una violenta tormenta."
+        "Completó el podio el australiano Oscar Piastri (McLaren) , mientras que el italiano Andrea Kimi Antonelli (Mercedes) , que ya es campeón del mundo, cruzó la meta en cuarta posición."
       ],
-      "category": "internacional",
-      "scope": "internacional",
+      "category": "deportes",
+      "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "“Perdimos todo”: una ciudad del Brasil fue arrasada por tormenta",
-          "url": "https://www.lanacion.com.py/mundo_edicion_impresa/2026/11/22/perdimos-todo-una-ciudad-del-brasil-fue-arrasada-por-tormenta",
-          "publishedAt": "2026-11-22T04:00:20.000Z",
-          "image": "https://www.lanacion.com.py/resizer/euvdeU18RQeNNVHlgEgAMyEaXIk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/B6WLBCBR5ZBSVPO4GFWXFEN4CM.jpg"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Verstappen reina en el caos de la noche de Las Vegas",
+          "url": "https://www.abc.com.py/deportes/motor/2026/11/22/verstappen-reina-en-el-caos-de-la-noche-de-las-vegas",
+          "publishedAt": "2026-11-22T19:09:30.000Z",
+          "image": "https://www.abc.com.py/resizer/giBiXV3LV6pHdzV8R9d51Xn4tcQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/VR5APWKXL5FKXLX5PV6ZRNCS5Q.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Suben a cinco las víctimas de la fuerte tormenta que barrió una ciudad en el sur de Brasil",
-          "url": "https://www.abc.com.py/internacionales/2026/11/21/suben-a-cinco-las-victimas-de-la-fuerte-tormenta-que-barrio-una-ciudad-en-el-sur-de-brasil",
-          "publishedAt": "2026-11-21T23:25:11.000Z",
-          "image": "https://www.abc.com.py/resizer/QBRz2ryCOlMs_2SCgU5mYgbEh48=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MHSYNL24XZCKBCI6JMCGPM23EE.jpg"
+          "title": "Verstappen reina en el caos de la noche de Las Vegas",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/22/verstappen-reina-en-el-caos-de-la-noche-de-las-vegas",
+          "publishedAt": "2026-11-22T07:10:11.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Verstappen gana en Las Vegas por delante de Norris y Piastri",
+          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/22/verstappen-gana-en-las-vegas-por-delante-de-norris-y-piastri",
+          "publishedAt": "2026-11-22T06:00:14.000Z",
+          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/MHSYNL24XZCKBCI6JMCGPM23EE.jpg?auth=71acf8d2fe5ace1d48ff905a009f252dabf2ba32b1173a5d669bb0d1bf35300b&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/VR5APWKXL5FKXLX5PV6ZRNCS5Q.jpg?auth=03c9e898759ffd494d8268cbffccb18a6cbdde24072add3dbc8be486235173c5&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/internacionales/2026/11/21/suben-a-cinco-las-victimas-de-la-fuerte-tormenta-que-barrio-una-ciudad-en-el-sur-de-brasil"
+        "articleUrl": "https://www.abc.com.py/deportes/motor/2026/11/22/verstappen-reina-en-el-caos-de-la-noche-de-las-vegas"
       },
       "firstSeenAt": "2026-11-22T08:07:10.125Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-22T08:07:10.125Z",
-      "updatedSlot": "manana",
-      "score": 6.49
+      "updatedAt": "2026-11-22T19:37:11.890Z",
+      "updatedSlot": "tarde",
+      "score": 7.96
     },
     {
       "id": "ev-0ijohjf",
@@ -915,44 +986,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 6.48
-    },
-    {
-      "id": "ev-0765thi",
-      "title": "Verstappen gana en Las Vegas por delante de Norris y Piastri",
-      "summary": "Completó el podio el australiano Oscar Piastri (McLaren), mientras que el italiano Kimi Antonelli (Mercedes), que ya es campeón del mundo, cruzó la meta en cuarta posición. Verstappen controló de principio a fin una carrera en la que salió desde la 'pole' y en la que se vio sometido a los continuos ataques de rivales como el británico George Russell (Mercedes), Norris o el propio Antonelli.",
-      "keyPoints": [
-        "Completó el podio el australiano Oscar Piastri (McLaren), mientras que el italiano Kimi Antonelli (Mercedes), que ya es campeón del mundo, cruzó la meta en cuarta posición."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Verstappen reina en el caos de la noche de Las Vegas",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/22/verstappen-reina-en-el-caos-de-la-noche-de-las-vegas",
-          "publishedAt": "2026-11-22T07:10:11.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Verstappen gana en Las Vegas por delante de Norris y Piastri",
-          "url": "https://www.abc.com.py/deportes/automovilismo/2026/11/22/verstappen-gana-en-las-vegas-por-delante-de-norris-y-piastri",
-          "publishedAt": "2026-11-22T06:00:14.000Z",
-          "image": "https://www.abc.com.py/resizer/3SCn-ocn0WdCtgAnSxyUgQCeVtU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/TDVRZKGKSZAFXAODCBE5DCY73Q.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-22T08:07:10.125Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-22T08:07:10.125Z",
-      "updatedSlot": "manana",
-      "score": 6.25
+      "score": 6.18
     },
     {
       "id": "ev-1c3n4gl",
@@ -994,7 +1028,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.11
+      "score": 5.82
     },
     {
       "id": "ev-00nyg9y",
@@ -1036,7 +1070,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.99
+      "score": 5.7
     },
     {
       "id": "ev-0cjcbaf",
@@ -1078,7 +1112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1m9bk8h",
@@ -1120,7 +1154,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-0iiw3e0",
@@ -1162,7 +1196,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1p0ha7t",
@@ -1195,7 +1229,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-1fgq4sl",
@@ -1224,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.03
     },
     {
       "id": "ev-078jqx1",
@@ -1257,7 +1291,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.31
+      "score": 5.02
     },
     {
       "id": "ev-1fiw5ag",
@@ -1290,7 +1324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 5.01
     },
     {
       "id": "ev-0ha0wxu",
@@ -1323,7 +1357,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.29
+      "score": 5
     },
     {
       "id": "ev-0hknwt4",
@@ -1356,7 +1390,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.28
+      "score": 4.99
     },
     {
       "id": "ev-1qtqbm4",
@@ -1385,7 +1419,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1gimxrt",
@@ -1414,7 +1448,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-058m332",
@@ -1443,7 +1477,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.95
     },
     {
       "id": "ev-1exd1ha",
@@ -1476,7 +1510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.12
+      "score": 4.82
     },
     {
       "id": "ev-0pt03kr",
@@ -1509,7 +1543,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.78
     },
     {
       "id": "ev-1tbve3e",
@@ -1538,7 +1572,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.04
+      "score": 4.75
     },
     {
       "id": "ev-16jdosl",
@@ -1571,7 +1605,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.74
     },
     {
       "id": "ev-032woro",
@@ -1604,7 +1638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 4.73
     },
     {
       "id": "ev-06ki4vm",
@@ -1637,7 +1671,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.72
     },
     {
       "id": "ev-1qqemlc",
@@ -1670,7 +1704,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.72
     },
     {
       "id": "ev-0k4t448",
@@ -1703,7 +1737,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1gcg404",
@@ -1732,7 +1766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0x73cx8",
@@ -1765,7 +1799,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.67
     },
     {
       "id": "ev-1su7ksl",
@@ -1798,7 +1832,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.64
     },
     {
       "id": "ev-1w8edvk",
@@ -1831,7 +1865,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-0ivg71a",
@@ -1864,7 +1898,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.76
+      "score": 4.47
     },
     {
       "id": "ev-1wcovln",
@@ -1897,7 +1931,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.66
+      "score": 4.37
+    },
+    {
+      "id": "ev-151xnig",
+      "title": "Juan Marcelo Cuenca asume la conducción de la Secretaría de Cultura",
+      "summary": "Juan Marcelo Cuenca Torres fue designado como nuevo secretario nacional de Cultura, mediante el Decreto N.º 7256 firmado por el presidente de la República, Pedro Alliana. El flamante titular de la institución sucede a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
+      "keyPoints": [
+        "Juan Marcelo Cuenca Torres fue designado como nuevo secretario nacional de Cultura, mediante el Decreto N.º 7256 firmado por el presidente de la República, Pedro Alliana."
+      ],
+      "category": "tecnologia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Juan Marcelo Cuenca asume la conducción de la Secretaría de Cultura",
+          "url": "https://www.adndigital.com.py/juan-marcelo-cuenca-asume-la-conduccion-de-la-secretaria-de-cultura",
+          "publishedAt": "2026-11-21T12:08:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/juan-marcelo-cuenca-torres.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/juan-marcelo-cuenca-torres.jpg",
+        "credit": "ADN Digital",
+        "articleUrl": "https://www.adndigital.com.py/juan-marcelo-cuenca-asume-la-conduccion-de-la-secretaria-de-cultura"
+      },
+      "firstSeenAt": "2026-11-22T08:07:10.125Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-22T08:07:10.125Z",
+      "updatedSlot": "manana",
+      "score": 4
     },
     {
       "id": "ev-1w7nrop",
@@ -1939,40 +2006,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 4
-    },
-    {
-      "id": "ev-151xnig",
-      "title": "Juan Marcelo Cuenca asume la conducción de la Secretaría de Cultura",
-      "summary": "Juan Marcelo Cuenca Torres fue designado como nuevo secretario nacional de Cultura, mediante el Decreto N.º 7256 firmado por el presidente de la República, Pedro Alliana. El flamante titular de la institución sucede a Adriana Ortiz Semidei, quien ocupaba el cargo desde agosto de 2023.",
-      "keyPoints": [
-        "Juan Marcelo Cuenca Torres fue designado como nuevo secretario nacional de Cultura, mediante el Decreto N.º 7256 firmado por el presidente de la República, Pedro Alliana."
-      ],
-      "category": "tecnologia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Juan Marcelo Cuenca asume la conducción de la Secretaría de Cultura",
-          "url": "https://www.adndigital.com.py/juan-marcelo-cuenca-asume-la-conduccion-de-la-secretaria-de-cultura",
-          "publishedAt": "2026-11-21T12:08:16.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/juan-marcelo-cuenca-torres.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/juan-marcelo-cuenca-torres.jpg",
-        "credit": "ADN Digital",
-        "articleUrl": "https://www.adndigital.com.py/juan-marcelo-cuenca-asume-la-conduccion-de-la-secretaria-de-cultura"
-      },
-      "firstSeenAt": "2026-11-22T08:07:10.125Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-22T08:07:10.125Z",
-      "updatedSlot": "manana",
-      "score": 4
+      "score": 3.71
     },
     {
       "id": "ev-0minbvc",
@@ -2014,7 +2048,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 3.41
+      "score": 3.12
     },
     {
       "id": "ev-0dby18o",
@@ -2043,7 +2077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 2.8
+      "score": 2.51
     }
   ],
   "runs": [
@@ -2066,6 +2100,13 @@
       "at": "2026-11-22T16:07:13.153Z",
       "added": 0,
       "updated": 1,
+      "candidates": 6
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-22T19:37:11.890Z",
+      "added": 0,
+      "updated": 3,
       "candidates": 6
     }
   ]
