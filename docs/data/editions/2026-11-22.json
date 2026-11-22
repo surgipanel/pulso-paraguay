@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-22T12:07:10.796Z",
+  "generatedAt": "2026-11-22T16:07:13.153Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -72,7 +72,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 17.96
+      "score": 17.63
     },
     {
       "id": "ev-1mz304t",
@@ -140,7 +140,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 17.03
+      "score": 16.7
     },
     {
       "id": "ev-0xr0c6k",
@@ -216,7 +216,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 14.97
+      "score": 14.64
     },
     {
       "id": "ev-1qj6ca4",
@@ -276,7 +276,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
     },
     {
       "id": "ev-1jahl9k",
@@ -327,7 +327,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.74
+      "score": 12.41
     },
     {
       "id": "ev-1a500ix",
@@ -378,7 +378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.41
+      "score": 12.07
     },
     {
       "id": "ev-1xnv7ka",
@@ -429,7 +429,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 12.19
+      "score": 12
+    },
+    {
+      "id": "ev-07j3762",
+      "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanamiento",
+      "summary": "Sobre el exlegislador pesa una orden de captura para cumplir una condena de 5 años de prisión por enriquecimiento ilícito y declaración falsa. Sobre el exlegislador pesa una orden de captura para cumplir una condena de 5 años de prisión por enriquecimiento ilícito y declaración falsa.",
+      "keyPoints": [
+        "Sobre el exlegislador pesa una orden de captura para cumplir una condena de 5 años de prisión por enriquecimiento ilícito y declaración falsa.",
+        "La Fiscalía y la Policía realizaron dos operativos simultáneos en el departamento de Paraguarí para capturar al exdiputado, quien cuenta con una condena firme de cinco años de cárcel por enriquecimiento ilícito y declaración falsa."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Allanaron propiedades en Sapucái, pero Miguel Cuevas sigue prófugo",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/22/allanaron-propiedades-en-sapucai-pero-miguel-cuevas-sigue-profugo",
+          "publishedAt": "2026-11-22T15:05:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/IAOWE6EFZNGNZOP6SLNOHWVP2M.jpg?auth=6706bbbbc0e3672f3ed74b1cdf3d3009cac79fd35614b8de45fb57f992f64c29&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía y Policía no logran ubicar a Miguel Cuevas tras allanamientos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/22/fiscalia-y-policia-no-logran-ubicar-a-miguel-cuevas-tras-allanamientos",
+          "publishedAt": "2026-11-22T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Kv9FhTfAkJCGZLZ7p9X6-AGwcrg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanamiento",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/22/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanamiento",
+          "publishedAt": "2026-11-22T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/Kv9FhTfAkJCGZLZ7p9X6-AGwcrg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanar dos propiedades en Sapucái",
+          "url": "https://www.lanacion.com.py/politica/2026/11/21/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanar-dos-propiedades-en-sapucai",
+          "publishedAt": "2026-11-21T14:17:55.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nc0tlci-xLPtiOtzP8NJVrFGRGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q5XGUOWFTZAPPL3YAFZP3IKL2U.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg?auth=79dbd286105bb93b9bddae674e5cfb0e041c2e1f8d6522dd22f99279310eb9d4&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/22/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanamiento"
+      },
+      "firstSeenAt": "2026-11-22T08:07:10.125Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-22T16:07:13.153Z",
+      "updatedSlot": "tarde",
+      "score": 11.91
     },
     {
       "id": "ev-0uzdoek",
@@ -513,7 +571,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 11.89
+      "score": 11.55
     },
     {
       "id": "ev-0poo5vk",
@@ -564,7 +622,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 10.3
+      "score": 9.97
     },
     {
       "id": "ev-02cyib4",
@@ -606,7 +664,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.8
+      "score": 8.46
     },
     {
       "id": "ev-0d6dxzm",
@@ -648,7 +706,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.51
+      "score": 8.17
     },
     {
       "id": "ev-0x0g9zc",
@@ -690,7 +748,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.14
+      "score": 8
     },
     {
       "id": "ev-1gc8i3p",
@@ -732,7 +790,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 8.12
+      "score": 8
     },
     {
       "id": "ev-0caad2a",
@@ -777,56 +835,6 @@
       "score": 8
     },
     {
-      "id": "ev-07j3762",
-      "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanamiento",
-      "summary": "Sobre el exlegislador pesa una orden de captura para cumplir una condena de 5 años de prisión por enriquecimiento ilícito y declaración falsa. El exdiputado colorado Miguel Cuevas no fue localizado durante dos allanamientos realizados por la Fiscalía y la Policía en la ciudad de Sapucái, departamento de Paraguarí en la tarde de este viernes con el objetivo de detenerlo.",
-      "keyPoints": [
-        "Sobre el exlegislador pesa una orden de captura para cumplir una condena de 5 años de prisión por enriquecimiento ilícito y declaración falsa.",
-        "El exdiputado colorado Miguel Cuevas no fue localizado durante dos allanamientos realizados por la Fiscalía y la Policía en la ciudad de Sapucái, departamento de Paraguarí en la tarde de este viernes con el objetivo de…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía y Policía no logran ubicar a Miguel Cuevas tras allanamientos",
-          "url": "https://www.lanacion.com.py/politica/2026/11/22/fiscalia-y-policia-no-logran-ubicar-a-miguel-cuevas-tras-allanamientos",
-          "publishedAt": "2026-11-22T10:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Kv9FhTfAkJCGZLZ7p9X6-AGwcrg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanamiento",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/22/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanamiento",
-          "publishedAt": "2026-11-22T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/Kv9FhTfAkJCGZLZ7p9X6-AGwcrg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Fiscalía y Policía no ubican a Miguel Cuevas tras allanar dos propiedades en Sapucái",
-          "url": "https://www.lanacion.com.py/politica/2026/11/21/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanar-dos-propiedades-en-sapucai",
-          "publishedAt": "2026-11-21T14:17:55.000Z",
-          "image": "https://www.lanacion.com.py/resizer/nc0tlci-xLPtiOtzP8NJVrFGRGQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Q5XGUOWFTZAPPL3YAFZP3IKL2U.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N3OZ4ZZ4IFFSHDU2SXUGRFNR74.jpg?auth=79dbd286105bb93b9bddae674e5cfb0e041c2e1f8d6522dd22f99279310eb9d4&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/22/fiscalia-y-policia-no-ubican-a-miguel-cuevas-tras-allanamiento"
-      },
-      "firstSeenAt": "2026-11-22T08:07:10.125Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-22T12:07:10.796Z",
-      "updatedSlot": "manana",
-      "score": 7.82
-    },
-    {
       "id": "ev-0qq6nre",
       "title": "Suben a cinco las víctimas de la fuerte tormenta que barrió una ciudad en el sur de Brasil",
       "summary": "De acuerdo con el último boletín de la Defensa Civil, divulgado este sábado, la tempestad , agravada por vientos que llegaron a 114 kilómetros por hora, también dejó 265 heridos y afectó a 20.090 habitantes de Tupanciretá , ciudad de Río Grande do Sul , estado del sur de Brasil fronterizo con Argentina y Uruguay.",
@@ -866,7 +874,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.82
+      "score": 6.49
     },
     {
       "id": "ev-0ijohjf",
@@ -907,7 +915,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 6.81
+      "score": 6.48
     },
     {
       "id": "ev-0765thi",
@@ -944,7 +952,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.59
+      "score": 6.25
     },
     {
       "id": "ev-1c3n4gl",
@@ -986,7 +994,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.44
+      "score": 6.11
     },
     {
       "id": "ev-00nyg9y",
@@ -1028,7 +1036,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.32
+      "score": 5.99
     },
     {
       "id": "ev-0cjcbaf",
@@ -1070,7 +1078,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1m9bk8h",
@@ -1112,7 +1120,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0iiw3e0",
@@ -1154,7 +1162,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-1p0ha7t",
@@ -1187,7 +1195,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1fgq4sl",
@@ -1216,7 +1224,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-078jqx1",
@@ -1249,7 +1257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.64
+      "score": 5.31
     },
     {
       "id": "ev-1fiw5ag",
@@ -1282,7 +1290,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.63
+      "score": 5.3
     },
     {
       "id": "ev-0ha0wxu",
@@ -1315,7 +1323,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.29
     },
     {
       "id": "ev-0hknwt4",
@@ -1348,7 +1356,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.28
     },
     {
       "id": "ev-1qtqbm4",
@@ -1377,7 +1385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1gimxrt",
@@ -1406,7 +1414,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-058m332",
@@ -1435,7 +1443,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.57
+      "score": 5.24
     },
     {
       "id": "ev-1exd1ha",
@@ -1468,7 +1476,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.45
+      "score": 5.12
     },
     {
       "id": "ev-0pt03kr",
@@ -1501,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.41
+      "score": 5.08
     },
     {
       "id": "ev-1tbve3e",
@@ -1530,7 +1538,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.04
     },
     {
       "id": "ev-16jdosl",
@@ -1563,7 +1571,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.37
+      "score": 5.03
     },
     {
       "id": "ev-032woro",
@@ -1596,7 +1604,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.35
+      "score": 5.02
     },
     {
       "id": "ev-06ki4vm",
@@ -1629,7 +1637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.35
+      "score": 5.01
     },
     {
       "id": "ev-1qqemlc",
@@ -1662,7 +1670,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.34
+      "score": 5.01
     },
     {
       "id": "ev-0k4t448",
@@ -1695,7 +1703,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-1gcg404",
@@ -1724,7 +1732,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 4.99
     },
     {
       "id": "ev-0x73cx8",
@@ -1757,7 +1765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.3
+      "score": 4.97
     },
     {
       "id": "ev-1su7ksl",
@@ -1790,7 +1798,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.27
+      "score": 4.93
     },
     {
       "id": "ev-1w8edvk",
@@ -1823,7 +1831,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0ivg71a",
@@ -1856,7 +1864,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 4.76
     },
     {
       "id": "ev-1wcovln",
@@ -1889,7 +1897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.66
     },
     {
       "id": "ev-1w7nrop",
@@ -1931,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T12:07:10.796Z",
       "updatedSlot": "manana",
-      "score": 4.34
+      "score": 4
     },
     {
       "id": "ev-151xnig",
@@ -2006,7 +2014,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-0dby18o",
@@ -2035,7 +2043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-22T08:07:10.125Z",
       "updatedSlot": "manana",
-      "score": 3.14
+      "score": 2.8
     }
   ],
   "runs": [
@@ -2052,6 +2060,13 @@
       "added": 0,
       "updated": 5,
       "candidates": 9
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-22T16:07:13.153Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 6
     }
   ]
 }
