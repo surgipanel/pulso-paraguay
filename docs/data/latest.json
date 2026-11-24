@@ -1,28 +1,28 @@
 {
-  "editionDate": "2026-11-23",
+  "editionDate": "2026-11-24",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-24T02:51:50.258Z",
+  "generatedAt": "2026-11-24T04:23:26.920Z",
   "eventsCount": 50,
   "maxEvents": 50,
   "aiMode": "extractivo",
   "model": null,
   "ok": true,
   "message": null,
-  "lastSuccessAt": "2026-11-24T02:53:26.025Z",
+  "lastSuccessAt": "2026-11-24T04:25:09.416Z",
   "lastRun": {
-    "startedAt": "2026-11-24T02:51:50.258Z",
-    "finishedAt": "2026-11-24T02:53:26.025Z",
-    "edition": "2026-11-23",
-    "slot": "tarde",
+    "startedAt": "2026-11-24T04:23:26.920Z",
+    "finishedAt": "2026-11-24T04:25:09.416Z",
+    "edition": "2026-11-24",
+    "slot": "manana",
     "ok": true,
     "error": null,
     "aiMode": "ia",
     "model": "claude-haiku-5-5",
     "articles": 303,
-    "clusters": 220,
-    "candidates": 5,
-    "added": 0,
-    "updated": 1,
+    "clusters": 227,
+    "candidates": 60,
+    "added": 50,
+    "updated": 0,
     "eventsTotal": 50,
     "sourcesOk": 10,
     "sourcesTotal": 11,
@@ -30,15 +30,24 @@
       "mode": "ia",
       "aiCalls": 0,
       "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChLznWH9pfsFT9MvfuBJ7\"}"
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mZQxWbgs6CDYasPnr\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mZk4V6aabCiLvvZNp\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7ma2Rfa7Uw2kmew31q\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7maHYzaopdDXvHQPcv\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7maYfwUEEz9qYzWvLq\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7map4Lsvx6741vZ5W4\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mb5RbW3yjEbuNcEz8\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mbLYikUpAEPkMGQs4\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mbdRLavrmcBEGkAZm\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChM7mbuHjT6NE8MndN3ms\"}"
       ],
       "inputTokens": 0,
       "outputTokens": 0,
       "cacheReadTokens": 0,
       "cacheWriteTokens": 0,
-      "fallbacks": 5
+      "fallbacks": 60
     },
     "forced": false
   },
-  "editions": 44
+  "editions": 45
 }
