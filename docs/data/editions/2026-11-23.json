@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-23T23:07:11.924Z",
+  "generatedAt": "2026-11-24T02:51:50.258Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -320,7 +320,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T23:07:11.924Z",
       "updatedSlot": "tarde",
-      "score": 29.74
+      "score": 29.43
     },
     {
       "id": "ev-1vbos21",
@@ -329,8 +329,8 @@
       "keyPoints": [
         "El Gobierno anunció que la alimentación escolar se brindará de marzo a octubre y que las órdenes de servicio tendrán un tope del 90% de las raciones.",
         "El programa tendrá una asignación presupuestaria proyectada de G. 3,2 billones (US$ 495,5 millones) para el próximo año.",
-        "El Gobierno Nacional anunció este lunes que el programa Hambre Cero sufriríaalgunos ajustes a partir del próximo año.",
-        "El senador liberal plantea reducir a la mitad los recursos destinados al programa de alimentación escolar y reemplazar la provisión tercerizada por la preparación de comidas en las instituciones educativas."
+        "Tras el anuncio de una serie de medidas de racionalización y optimización de recursos en el programa de alimentación escolar Hambre Cero , a partir de 2027, el ministro Tadeo Rojas explicó que en estos dos…",
+        "El Gobierno Nacional anunció este lunes que el programa Hambre Cero sufriríaalgunos ajustes a partir del próximo año."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -338,6 +338,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Estos serán los ajustes en el programa Hambre Cero para ahorrar",
+          "url": "https://www.abc.com.py/politica/2026/11/23/estos-seran-los-ajustes-en-el-programa-hambre-cero-para-ahorrar",
+          "publishedAt": "2026-11-24T00:51:06.000Z",
+          "image": "https://www.abc.com.py/resizer/9GbgenwFBsW8tez89-S_ggFXyVw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OZZSYKXX4NDTJHKCO37OIO3SF4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Hambre Cero: el Gobierno reconoce “sobrantes” y falta de competencia entre proveedores",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/11/23/audio-hambre-cero-el-gobierno-reconoce-sobrantes-y-falta-de-competencia-entre-proveedores",
+          "publishedAt": "2026-11-24T00:42:35.000Z",
+          "image": "https://www.abc.com.py/resizer/xdwD-weJ-2IDmcEYhOzbZyy-EsU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6ORB2GJ7GBFBDLWO7GPGUWZYRI.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -458,9 +474,9 @@
       },
       "firstSeenAt": "2026-11-23T03:40:34.296Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-23T23:07:11.924Z",
+      "updatedAt": "2026-11-24T02:51:50.258Z",
       "updatedSlot": "tarde",
-      "score": 23.97
+      "score": 23.83
     },
     {
       "id": "ev-1hu19tr",
@@ -568,7 +584,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T19:37:33.464Z",
       "updatedSlot": "tarde",
-      "score": 17.69
+      "score": 17.37
     },
     {
       "id": "ev-1w1zs76",
@@ -711,7 +727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T16:07:17.120Z",
       "updatedSlot": "tarde",
-      "score": 14.32
+      "score": 14.01
     },
     {
       "id": "ev-1xxmgim",
@@ -778,7 +794,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T12:07:12.270Z",
       "updatedSlot": "manana",
-      "score": 13.97
+      "score": 13.66
     },
     {
       "id": "ev-0gwq14m",
@@ -886,7 +902,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T19:37:33.464Z",
       "updatedSlot": "tarde",
-      "score": 11.62
+      "score": 11.31
     },
     {
       "id": "ev-02iotxj",
@@ -944,7 +960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T12:07:12.270Z",
       "updatedSlot": "manana",
-      "score": 11.27
+      "score": 10.95
     },
     {
       "id": "ev-1c6m4y7",
@@ -995,7 +1011,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T08:07:22.283Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.08
     },
     {
       "id": "ev-15ld86u",
@@ -1046,7 +1062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 9.33
+      "score": 9.01
     },
     {
       "id": "ev-02m11mr",
@@ -1088,7 +1104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 8.33
+      "score": 8.02
     },
     {
       "id": "ev-15iq1pg",
@@ -1126,7 +1142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 8.3
+      "score": 8
     },
     {
       "id": "ev-1143fdt",
@@ -1345,7 +1361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T08:07:22.283Z",
       "updatedSlot": "manana",
-      "score": 7.09
+      "score": 6.78
     },
     {
       "id": "ev-0eo4feh",
@@ -1396,7 +1412,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 6.83
+      "score": 6.51
     },
     {
       "id": "ev-1wyb30o",
@@ -1447,7 +1463,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T08:07:22.283Z",
       "updatedSlot": "manana",
-      "score": 6.38
+      "score": 6.07
     },
     {
       "id": "ev-04zmoif",
@@ -1581,7 +1597,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.36
+      "score": 5.05
     },
     {
       "id": "ev-0ap1ubd",
@@ -1623,7 +1639,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.01
     },
     {
       "id": "ev-0qojnnr",
@@ -1665,7 +1681,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.01
     },
     {
       "id": "ev-1numffk",
@@ -1707,7 +1723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.01
     },
     {
       "id": "ev-0ocwjxj",
@@ -1749,7 +1765,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.01
     },
     {
       "id": "ev-1lovmhm",
@@ -1791,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T12:07:12.270Z",
       "updatedSlot": "manana",
-      "score": 5.33
+      "score": 5.01
     },
     {
       "id": "ev-12vgdtd",
@@ -1833,7 +1849,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 5.1
+      "score": 5
     },
     {
       "id": "ev-01aeqrt",
@@ -1946,7 +1962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.01
     },
     {
       "id": "ev-1e3uei6",
@@ -1979,7 +1995,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.01
     },
     {
       "id": "ev-1453s47",
@@ -2012,7 +2028,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.33
+      "score": 4.01
     },
     {
       "id": "ev-1v3z2mq",
@@ -2045,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.25
+      "score": 4
     },
     {
       "id": "ev-19jnl5x",
@@ -2078,54 +2094,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.22
-    },
-    {
-      "id": "ev-0af8qqh",
-      "title": "El Kospi surcoreano cae un 3,31 % ante los persistentes temores por la IA",
-      "summary": "El indicador perdió 161,42 puntos, hasta los 4.708,54 enteros. En la sesión previa, el Kospi cerró con una caída del 5,21 %. Alrededor de las 11:30 hora local (2:30 GMT) el operador de la Bolsa, Korea Exchange, activó un 'sidecar' de venta, mecanismo de control de la volatilidad que suspende durante cinco minutos las ventas programadas cuando se registran caídas de más de un 5 % en el índice de futuros Kospi 200.",
-      "keyPoints": [
-        "El indicador perdió 161,42 puntos, hasta los 4.708,54 enteros.",
-        "Unos 10 minutos después del inicio de operaciones, el indicador perdía un 2,87 %, o 139,66 puntos, hasta los 4.730,30 enteros.",
-        "Poco más de tres horas después del inicio de operaciones, el indicador perdía un 4,78 %, o 232,84 puntos, hasta los 4.637,12 enteros."
-      ],
-      "category": "internacional",
-      "scope": "internacional",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El Kospi surcoreano cae un 3,31 % ante los persistentes temores por la IA",
-          "url": "https://www.abc.com.py/internacionales/2026/11/23/el-kospi-surcoreano-cae-un-331-ante-los-persistentes-temores-por-la-ia",
-          "publishedAt": "2026-11-23T07:30:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El Kospi surcoreano cae casi un 5 % a media sesión ante persistentes temores por la IA",
-          "url": "https://www.abc.com.py/internacionales/2026/11/23/el-kospi-surcoreano-cae-casi-un-5-a-media-sesion-ante-persistentes-temores-por-la-ia",
-          "publishedAt": "2026-11-23T03:35:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El Kospi surcoreano cae casi un 3 % a la apertura ante persistentes temores por la IA",
-          "url": "https://www.abc.com.py/internacionales/2026/11/22/el-kospi-surcoreano-cae-casi-un-3-a-la-apertura-ante-persistentes-temores-por-la-ia",
-          "publishedAt": "2026-11-23T00:40:06.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        }
-      ],
-      "image": null,
-      "firstSeenAt": "2026-11-23T03:40:34.296Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-23T08:07:22.283Z",
-      "updatedSlot": "manana",
-      "score": 4.2
+      "score": 4
     },
     {
       "id": "ev-0axr0sm",
@@ -2158,7 +2127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.18
+      "score": 4
     },
     {
       "id": "ev-1tatxuo",
@@ -2191,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.17
+      "score": 4
     },
     {
       "id": "ev-1jy6bum",
@@ -2224,7 +2193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.16
+      "score": 4
     },
     {
       "id": "ev-056oupu",
@@ -2257,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.14
+      "score": 4
     },
     {
       "id": "ev-1tj3o5t",
@@ -2290,7 +2259,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.13
+      "score": 4
     },
     {
       "id": "ev-1s716f1",
@@ -2319,7 +2288,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 4.04
+      "score": 4
     },
     {
       "id": "ev-0yxcb3d",
@@ -2520,6 +2489,53 @@
       "score": 4
     },
     {
+      "id": "ev-0af8qqh",
+      "title": "El Kospi surcoreano cae un 3,31 % ante los persistentes temores por la IA",
+      "summary": "El indicador perdió 161,42 puntos, hasta los 4.708,54 enteros. En la sesión previa, el Kospi cerró con una caída del 5,21 %. Alrededor de las 11:30 hora local (2:30 GMT) el operador de la Bolsa, Korea Exchange, activó un 'sidecar' de venta, mecanismo de control de la volatilidad que suspende durante cinco minutos las ventas programadas cuando se registran caídas de más de un 5 % en el índice de futuros Kospi 200.",
+      "keyPoints": [
+        "El indicador perdió 161,42 puntos, hasta los 4.708,54 enteros.",
+        "Unos 10 minutos después del inicio de operaciones, el indicador perdía un 2,87 %, o 139,66 puntos, hasta los 4.730,30 enteros.",
+        "Poco más de tres horas después del inicio de operaciones, el indicador perdía un 4,78 %, o 232,84 puntos, hasta los 4.637,12 enteros."
+      ],
+      "category": "internacional",
+      "scope": "internacional",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Kospi surcoreano cae un 3,31 % ante los persistentes temores por la IA",
+          "url": "https://www.abc.com.py/internacionales/2026/11/23/el-kospi-surcoreano-cae-un-331-ante-los-persistentes-temores-por-la-ia",
+          "publishedAt": "2026-11-23T07:30:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Kospi surcoreano cae casi un 5 % a media sesión ante persistentes temores por la IA",
+          "url": "https://www.abc.com.py/internacionales/2026/11/23/el-kospi-surcoreano-cae-casi-un-5-a-media-sesion-ante-persistentes-temores-por-la-ia",
+          "publishedAt": "2026-11-23T03:35:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El Kospi surcoreano cae casi un 3 % a la apertura ante persistentes temores por la IA",
+          "url": "https://www.abc.com.py/internacionales/2026/11/22/el-kospi-surcoreano-cae-casi-un-3-a-la-apertura-ante-persistentes-temores-por-la-ia",
+          "publishedAt": "2026-11-23T00:40:06.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        }
+      ],
+      "image": null,
+      "firstSeenAt": "2026-11-23T03:40:34.296Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-23T08:07:22.283Z",
+      "updatedSlot": "manana",
+      "score": 3.89
+    },
+    {
       "id": "ev-05gf4b2",
       "title": "Impulsan plan para industrializar Saltos del Guairá",
       "summary": "Reafirman compromiso del gobierno de acompañar el desarrollo de la ciudad y destacó sus ventajas competitivas, como la cercanía con Brasil.",
@@ -2550,7 +2566,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-23T03:40:34.296Z",
       "updatedSlot": "manana",
-      "score": 1.83
+      "score": 1.51
     }
   ],
   "runs": [
@@ -2595,6 +2611,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 7
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-24T02:51:50.258Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 5
     }
   ]
 }

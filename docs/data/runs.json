@@ -1,5 +1,36 @@
 [
   {
+    "startedAt": "2026-11-24T02:51:50.258Z",
+    "finishedAt": "2026-11-24T02:53:26.025Z",
+    "edition": "2026-11-23",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 303,
+    "clusters": 220,
+    "candidates": 5,
+    "added": 0,
+    "updated": 1,
+    "eventsTotal": 50,
+    "sourcesOk": 10,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChLznWH9pfsFT9MvfuBJ7\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 5
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-23T23:07:11.924Z",
     "finishedAt": "2026-11-23T23:08:49.329Z",
     "edition": "2026-11-23",
@@ -2614,38 +2645,6 @@
       "aiErrors": [
         "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgvNb9jZ8XYK6cun1MrCH\"}",
         "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgvNbABLXGWDLtm9JNqou\"}"
-      ],
-      "inputTokens": 0,
-      "outputTokens": 0,
-      "cacheReadTokens": 0,
-      "cacheWriteTokens": 0,
-      "fallbacks": 12
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-11-10T23:07:12.206Z",
-    "finishedAt": "2026-11-10T23:08:51.754Z",
-    "edition": "2026-11-10",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 298,
-    "clusters": 224,
-    "candidates": 12,
-    "added": 0,
-    "updated": 5,
-    "eventsTotal": 50,
-    "sourcesOk": 10,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 0,
-      "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgv69BSAXZ2vPfPDdVM6s\"}",
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgv69BzeKRq15viPeb7eX\"}"
       ],
       "inputTokens": 0,
       "outputTokens": 0,
