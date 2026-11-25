@@ -1,26 +1,321 @@
 {
   "date": "2026-11-25",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-25T12:07:16.620Z",
+  "generatedAt": "2026-11-25T16:07:18.676Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
-      "id": "ev-1iwcpsz",
-      "title": "¿Por qué investigan a Francisco Peña Palacios?",
-      "summary": "El Ministerio Público indaga a Francisco Peña Palacios y a su esposa tras detectarse la adquisición de un inmueble de hasta 3 millones de dólares cuyas cuotas habrían sido cubiertas por la firma vendedora mediante facturas irregulares. Francisco Peña Palacios, hermano del expresidente de la República, y su esposa Rocío Caballero se entregaron ante la Dirección de Crimen Organizado y fueron derivados a prestar declaración ante la Unidad Especializada de Delitos Económicos y Anticorrupción del Ministerio Público.",
+      "id": "ev-19f2ale",
+      "title": "Alliana anuncia anticipo de G. 15 millones para trabajadores afectados por la crisis de Ueno",
+      "summary": "El presidente de la República, Pedro Alliana, anunció la presentación de un proyecto de ley de emergencia que permitirá adelantar hasta cinco salarios mínimos, equivalentes a más de G. 15 millones, a los trabajadores afectados por el cierre de empresas vinculadas al Grupo Vázquez.",
       "keyPoints": [
-        "El Ministerio Público indaga a Francisco Peña Palacios y a su esposa tras detectarse la adquisición de un inmueble de hasta 3 millones de dólares cuyas cuotas habrían sido cubiertas por la firma vendedora mediante facturas…",
-        "Francisco Peña Palacios, hermano del expresidente de la República, y su esposa Rocío Caballero se entregaron ante la Dirección de Crimen Organizado y fueron derivados a prestar declaración ante la Unidad Especializada de Delitos Económicos y…",
-        "El juez Penal de Garantías Especializado contra el Crimen Organizado Osmar Legal convocó para este miércoles a Francisco Peña Palacios y Rocío Caballero Bosch , hermano y cuñada, respectivamente, del expresidente de la República Santiago Peña…"
+        "El presidente de la República, Pedro Alliana, anunció la presentación de un proyecto de ley de emergencia que permitirá adelantar hasta cinco salarios mínimos, equivalentes a más de G. 15 millones, a los trabajadores afectados por…",
+        "La ministra de Trabajo , Mónica Recalde, confirmó que los empleados vinculados directamente a la entidad bancaria en proceso de resolución comenzaron a percibir sus haberes y beneficios sociales hace aproximadamente una semana y media, en…",
+        "El Gobierno impulsará un proyecto de ley de carácter excepcional para adelantar créditos laborales a trabajadores de empresas vinculadas al grupo Ueno que quedaron sin ocupación tras la resolución del banco y el cese de actividades…",
+        "El Ejecutivo presentará un proyecto de ley para asistir a trabajadores de empresas del Grupo Vázquez con adelantos de liquidaciones laborales, mientras el presidente Pedro Hércules Alliana anunció acciones para recuperar los fondos y garantizar la…"
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank y Grupo Vázquez: ministra de Trabajo explica cómo avanzan las liquidaciones y pagos laborales",
+          "url": "https://www.abc.com.py/nacionales/2026/11/25/ueno-bank-y-grupo-vazquez-ministra-de-trabajo-explica-como-avanzan-las-liquidaciones-y-pagos-laborales",
+          "publishedAt": "2026-11-25T14:47:56.000Z",
+          "image": "https://www.abc.com.py/resizer/PqMBxAK0PvzeUCSGbzH5CXKeFdE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/OXKDSVM7GRDBZNP34XI6ELHZVQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ueno Bank: propuesta del Gobierno para pagar a los exfuncionarios es la más adecuada, dice Nakayama",
+          "url": "https://www.abc.com.py/economia/2026/11/25/ueno-bank-propuesta-del-gobierno-para-indemnizar-a-los-exfuncionarios-es-la-mas-adecuada-dice-nakayama",
+          "publishedAt": "2026-11-25T14:15:44.000Z",
+          "image": "https://www.abc.com.py/resizer/XzoSA6WOhs7unnW9DAuCi9sRLcI=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/ZYJ4JDSORFA3ZBL34E7L4YUPMQ.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Anticipo de liquidación a trabajadores afectados por Ueno: “Se busca una respuesta rápida”",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/25/anticipo-de-liquidacion-a-trabajadores-afectados-por-ueno-se-busca-una-respuesta-rapida",
+          "publishedAt": "2026-11-25T14:06:59.000Z",
+          "image": "https://www.lanacion.com.py/resizer/f8696Qe3Ocn2kL0cTqKzWWvOOmM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O7LU2K6DUZFXVGCERZYOA4QDEY.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Ejecutivo presentará proyecto de ley para adelantar liquidaciones a trabajadores del Grupo Vázquez",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/ejecutivo-presentara-proyecto-de-ley-para-adelantar-liquidaciones-a-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-25T12:11:08.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Proyecto para el Grupo Vázquez: “Es un anticipo, no un subsidio”",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/25/proyecto-para-el-grupo-vazquez-es-un-anticipo-no-un-subsidio",
+          "publishedAt": "2026-11-25T09:25:15.841Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/ETKG63ZWHZDJBFX5XL6GICCZ4U.jpeg?auth=281d7363161a5ee9f8d00ae665e0f05630771e4fa8a58ef0d4a15d1c8f1d31ef&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana plantea ley para asistir a empleados del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/alliana-plantea-ley-para-asistir-a-empleados-del-grupo-vazquez",
+          "publishedAt": "2026-11-25T04:00:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/xVkJZfam23wpZcc-IOwhHlD2p5I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERDIC4V5NVFGDPY7QDPBSL3UCM.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Alliana anuncia proyecto de ley para auxiliar a trabajadores del Grupo Vázquez",
+          "url": "https://www.abc.com.py/730am/ancho-perfil/2026/11/24/audio-alliana-anuncia-proyecto-de-ley-para-auxiliar-a-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-25T00:37:02.000Z",
+          "image": "https://www.abc.com.py/resizer/p5kjjK_jPTq35_fHWiBwCND9lHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/66LR3IIZ5NHC3D6OQVEYLKLDBY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Abogado laboralista: proyecto de Alliana para auxiliar a trabajadores del Grupo Vázquez es un “parche”",
+          "url": "https://www.abc.com.py/economia/2026/11/24/grupo-vazquez-proyecto-de-alliana-para-auxiliar-a-trabajadores-es-un-parche-dice-abogado-laboralista",
+          "publishedAt": "2026-11-24T22:41:02.000Z",
+          "image": "https://www.abc.com.py/resizer/TDe4sNeHjAtVXKd_AFTnuZKoTIQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMYVOF35IFBFZJGZE7PZEZIUVA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Plantean utilizar el Fondo de Garantía de Depósitos para pagar a exempleados del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/24/plantean-utilizar-el-fondo-de-garantia-de-depositos-para-pagar-a-exempleados-del-grupo-vazquez",
+          "publishedAt": "2026-11-24T21:25:40.000Z",
+          "image": "https://www.lanacion.com.py/resizer/00AEmFUsUE8ezqCoTY47gn39Hjw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HKGFHVY2H5CM3OEDFXG2J6H36M.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Gobierno prevé compensaciones de hasta G. 15,2 millones para exempleados del Grupo Vázquez",
+          "url": "https://www.adndigital.com.py/gobierno-preve-compensaciones-de-hasta-g-152-millones-para-exempleados-del-grupo-vazquez",
+          "publishedAt": "2026-11-24T20:26:53.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-24-at-172613.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Proponen cambiar ley para agilizar indemnización a exempleados del Grupo Vázquez",
+          "url": "https://www.adndigital.com.py/proponen-cambiar-ley-para-agilizar-indemnizacion-a-exempleados-del-grupo-vazquez",
+          "publishedAt": "2026-11-24T20:19:46.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-22-at-084013.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana anuncia anticipo de G. 15 millones para trabajadores afectados por la crisis de Ueno",
+          "url": "https://elnacional.com.py/politica/alliana-anuncia-anticipo-g-15-millones-trabajadores-afectados-crisis-ueno-n115782",
+          "publishedAt": "2026-11-24T20:14:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b05f4c78ca9f.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo promueve ley para pagar adelantos a empleados del Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/politica/2026/11/24/ejecutivo-promueve-ley-para-pagar-adelantos-a-empleados-del-grupo-vazquez",
+          "publishedAt": "2026-11-24T20:05:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/A8aFH2b8UNfwJIB33JMHfnug1tk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7Q22AVZ3F5DGNMVHPLAMZ4SVMY.jpg"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Estado destinará fondos para pagar liquidaciones a trabajadores del Grupo Vázquez",
+          "url": "https://5dias.com.py/article/estado-destinar-fondos-para-pagar-liquidaciones-a-trabajadores-del-grupo-vzquez",
+          "publishedAt": "2026-11-24T17:25:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HX6mV_zX0AASvqT_1_20261124_172529.webp"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/11/6b05f4c78ca9f.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/alliana-anuncia-anticipo-g-15-millones-trabajadores-afectados-crisis-ueno-n115782"
+      },
+      "firstSeenAt": "2026-11-25T03:07:46.091Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 26.89
+    },
+    {
+      "id": "ev-1tyxnbz",
+      "title": "Revelan contrato de Fernández Valdovinos",
+      "summary": "El objeto contractual, según el documento, está directamente relacionado con la fusión y/o adquisición de entidades financieras reguladas en Paraguay. La diputada cuestionó que el exministro de Economía haya firmado un acuerdo de consultoría estratégica con el Grupo Vázquez por honorarios de USD 20.000 mensuales, meses después de dejar el cargo.",
+      "keyPoints": [
+        "El objeto contractual, según el documento, está directamente relacionado con la fusión y/o adquisición de entidades financieras reguladas en Paraguay.",
+        "La diputada cuestionó que el exministro de Economía haya firmado un acuerdo de consultoría estratégica con el Grupo Vázquez por honorarios de USD 20.000 mensuales, meses después de dejar el cargo.",
+        "El documento menciona pagos mensuales de USD 20.000, más un adicional de USD 60.000 a fin de año, además de bono por resultado.",
+        "El senador Gustavo Leite sostuvo que el ex ministro de Economía sería el cerebro del esquema que comprometió fondos públicos en ueno bank y calificó de “inmoral” su contrato de consultoría con el Grupo Vázquez."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Leite apunta a Fernández Valdovinos como cerebro del esquema y que su contrato era inmoral",
+          "url": "https://www.ultimahora.com/leite-apunta-a-fernandez-valdovinos-como-cerebro-del-esquema-y-que-su-contrato-era-inmoral",
+          "publishedAt": "2026-11-25T15:52:26.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nakayama sobre el supuesto contrato de Ueno con Fernández Valdovinos: “De comprobarse, es gravísimo”",
+          "url": "https://www.abc.com.py/economia/2026/11/25/nakayama-sobre-el-supuesto-contrato-de-ueno-con-fernandez-valdovinos-de-comprobarse-es-gravisimo",
+          "publishedAt": "2026-11-25T15:36:02.000Z",
+          "image": "https://www.abc.com.py/resizer/3SWTLE1Yp5uIO0_l92MxFhFlHaY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MTAUJS2SI5FKZPDAAFLHDXCA64.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fernández Valdovinos y Grupo Vázquez: senadora pide imputación a exministro",
+          "url": "https://www.abc.com.py/politica/2026/11/25/fernandez-valdovinos-y-grupo-vazquez-senadora-pide-imputacion-a-exministro",
+          "publishedAt": "2026-11-25T14:43:46.000Z",
+          "image": "https://www.abc.com.py/resizer/ZgeBQdKlWbWLGzxePHzAIrPzIoQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/LXCM3TTDJ5HJXEFRV7DGNGFAGY.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Leite arremete contra Fernández Valdovinos: \"Me da asco\"",
+          "url": "https://elnacional.com.py/politica/leite-arremete-fernandez-valdovinos-me-da-asco-n115802",
+          "publishedAt": "2026-11-25T14:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afdb80724ef6.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Estigarribia reclama acción fiscal contra Fernández Valdovinos por millonario contrato",
+          "url": "https://elnacional.com.py/politica/estigarribia-reclama-accion-fiscal-fernandez-valdovinos-millonario-contrato-n115793",
+          "publishedAt": "2026-11-25T11:40:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69b3bfdebfd9e.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: Fernández Valdovinos y el Grupo Vázquez: Vallejo pide investigar desembolsos del MEF que acabaron en Ueno Bank",
+          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/11/25/audio-fernandez-valdovinos-y-el-grupo-vazquez-vallejo-pide-investigar-desembolsos-del-mef-que-acabaron-en-ueno-bank",
+          "publishedAt": "2026-11-25T11:19:19.000Z",
+          "image": "https://www.abc.com.py/resizer/co_ixnoqjxix5-DxwDZKhnilLmM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GIQBDOZFZBFTHJY62SPDDBH5Y4.jfif"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Fernández Valdovinos y el Grupo Vázquez: Vallejo pide investigar desembolsos del MEF que acabaron en Ueno Bank",
+          "url": "https://www.abc.com.py/politica/2026/11/25/fernandez-valdovinos-y-el-grupo-vazquez-vallejo-pide-investigar-desembolsos-del-mef-que-acabaron-en-ueno-bank",
+          "publishedAt": "2026-11-25T11:14:35.000Z",
+          "image": "https://www.abc.com.py/resizer/Orr5N-LCM9o5eamjfgaESJHJw5Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G2NT43STVVEX5O2PE2T4MYZF6I.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Vallejo ve fuerte vínculo de Fernández Valdovinos con el caso Ueno y pide investigarlo",
+          "url": "https://www.adndigital.com.py/vallejo-ve-fuerte-vinculo-de-fernandez-valdovinos-con-el-caso-ueno-y-pide-investigarlo",
+          "publishedAt": "2026-11-25T10:30:32.000Z",
+          "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Rocío Vallejo pide investigar los vínculos financieros y recuperar el dinero perdido en Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/rocio-vallejo-pide-investigar-los-vinculos-financieros-y-recuperar-el-dinero-perdido-en-ueno-bank",
+          "publishedAt": "2026-11-25T10:06:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ngQZeJ6izncq8XQ01KHlec-9_eM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XIN2RSUOIVBEHN36DWLCGGP4GA.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Un pie en el Estado y otro en el Grupo Vázquez",
+          "url": "https://elnacional.com.py/politica/un-pie-estado-otro-grupo-vazquez-n115789",
+          "publishedAt": "2026-11-25T08:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b068d16cd50e.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Revelan contrato de Fernández Valdovinos",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/revelan-contrato-de-fernandez-valdovinos",
+          "publishedAt": "2026-11-25T03:38:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iltKMQZ0wInwzq6qr1v5ODVl-uY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6HKB2EBOCNAKBN26DO43CY67P4.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Ricardo Estigarribia exige a fiscala General investigar a Fernández Valdovinos",
+          "url": "https://www.abc.com.py/politica/2026/11/24/ricardo-estigarribia-exige-a-fiscala-general-investigar-a-fernandez-valdovinos",
+          "publishedAt": "2026-11-24T22:45:39.000Z",
+          "image": "https://www.abc.com.py/resizer/Z-EyAZ2VvJ7YYC2l9P6Y3_DM9ss=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/A4VASAEZCZA4FOABBPKOQ7MGW4.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "USD 20.000 al mes y bono por ganancias: revelan millonario contrato de Fernández Valdovinos con Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/24/usd-20000-al-mes-y-bono-por-ganancias-revelan-millonario-contrato-de-fernandez-valdovinos-con-ueno-bank",
+          "publishedAt": "2026-11-24T18:31:31.000Z",
+          "image": "https://www.lanacion.com.py/resizer/keF_n2VH73eQdtmXjM3CR2tYS6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z6WZKYE5MNCQJPP23UVQCU2EQM.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Diputada Rocío Vallejo denuncia contrato millonario de Fernández Valdovinos con Ueno",
+          "url": "https://elnacional.com.py/politica/diputada-rocio-vallejo-denuncia-contrato-millonario-fernandez-valdovinos-ueno-n115757",
+          "publishedAt": "2026-11-24T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/03/69b15c98750f0.jpg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Rocío Vallejo denunció contrato millonario entre Fernández Valdovinos y el Grupo Vázquez",
+          "url": "https://www.npy.com.py/noticias/nacionales/politica/rocio-vallejo-denuncio-contrato-millonario-entre-fernandez-valdovinos-y-el-grupo-vazquez",
+          "publishedAt": "2026-11-24T15:02:18.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6HKB2EBOCNAKBN26DO43CY67P4.jpg?auth=06a3b6c22e8958f7d7e816cb93856e82b618a1aa05dc49e16c6a625ed5735b7e&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/revelan-contrato-de-fernandez-valdovinos"
+      },
+      "firstSeenAt": "2026-11-25T03:07:46.091Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 23.98
+    },
+    {
+      "id": "ev-1iwcpsz",
+      "title": "Francisco Peña comparece ante el juez y su defensa cuestiona falta de acceso al expediente",
+      "summary": "El hermano del expresidente Santiago Peña acudió este miércoles a la audiencia de imposición de medidas junto con su esposa, Rocío Caballero. Sus abogados solicitaron que ambos enfrenten el proceso en libertad y cuestionaron que todavía no cuentan con el acta de imputación ni acceso completo a la investigación.",
+      "keyPoints": [
+        "El hermano del expresidente Santiago Peña acudió este miércoles a la audiencia de imposición de medidas junto con su esposa, Rocío Caballero.",
+        "El Ministerio Público pidió la prisión preventiva de Francisco Peña debido a la gravedad de los hechos imputados."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Francisco Peña comparece ante el juez y su defensa cuestiona falta de acceso al expediente",
+          "url": "https://elnacional.com.py/politica/francisco-pena-comparece-juez-su-defensa-cuestiona-falta-acceso-expediente-n115812",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b06f756ab56e.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -127,15 +422,89 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/UCSH2V7WCVHVPJPFSP34AGV2CU.jpg?auth=c67e36deee3959e06402c38673b2129d9ef4448c223a663d65d75894809d3f61&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/25/ueno-hermano-y-cunada-de-santi-pena-tendran-audiencia-de-imposicion-de-medidas-esta-manana"
+        "url": "https://statics.elnacional.com.py/2026/11/6b06f756ab56e.jpg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/francisco-pena-comparece-juez-su-defensa-cuestiona-falta-acceso-expediente-n115812"
       },
       "firstSeenAt": "2026-11-25T03:07:46.091Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-25T12:07:16.620Z",
-      "updatedSlot": "manana",
-      "score": 23.96
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 23.91
+    },
+    {
+      "id": "ev-1eafoit",
+      "title": "Allanan casa del Paraná Country y se incautan de armas, municiones, chalecos y adelgazantes",
+      "summary": "Una comitiva fiscal y policial allanó hoy una vivienda del exclusivo condominio Paraná Country Club de Hernandarias donde hallaron armas de fuego, cargadores, municiones, chaleco antibala y productos adelgazantes de varias marcas, además de accesorios vinculados a embalajes, según reportó el Puesto Policial 1 del citado condominio privado.",
+      "keyPoints": [
+        "Una comitiva fiscal y policial allanó hoy una vivienda del exclusivo condominio Paraná Country Club de Hernandarias donde hallaron armas de fuego, cargadores, municiones, chaleco antibala y productos adelgazantes de varias marcas, además de accesorios vinculados…",
+        "Una lujosa residencia del Paraná Country Club habría sido utilizada para fraccionar y falsificar medicamentos para adelgazar, utilizando marcas de reconocidos laboratorios."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Hallan laboratorio clandestino de adelgazantes y un arsenal en Hernandarias",
+          "url": "https://elnacional.com.py/nacionales/hallan-laboratorio-clandestino-adelgazantes-arsenal-hernandarias-n115799",
+          "publishedAt": "2026-11-25T13:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b06b656834d6.jpg"
+        },
+        {
+          "sourceId": "vanguardia",
+          "sourceName": "Vanguardia",
+          "title": "Desmantelan laboratorio clandestino y hallan arsenal en el Paraná Country Club",
+          "url": "https://diariovanguardia.com.py/desmantelan-laboratorio-clandestino-y-hallan-arsenal-en-el-parana-country-club",
+          "publishedAt": "2026-11-25T10:44:46.000Z",
+          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/arma-incautada-2-1024x576.jpeg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Hallan fármacos y armas en vivienda del Paraná Country Club",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/25/hallan-farmacos-y-armas-en-vivienda-del-parana-country-club",
+          "publishedAt": "2026-11-25T10:00:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/JWHEI4BXMFEZRFEJP6MPGNQ7EA.jpg?auth=1f1f14d8446195ae2eab04805e28f2e1e750b1801d5ef27b904758f57b9f8734&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Allanan casa del Paraná Country y se incautan de armas, municiones, chalecos y adelgazantes",
+          "url": "https://www.lanacion.com.py/pais/2026/11/24/allanan-casa-del-parana-country-e-incautan-armas-municiones-chalecos-antibala-y-adelgazantes",
+          "publishedAt": "2026-11-25T00:45:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/7rv5QsupnrLpvDD-wY6MVf1EMq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PQ6EQFHOPBB6DPH42AVJ5BG7XY.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Desmantelan laboratorio clandestino de fármacos adelgazantes y hallan armas en Hernandarias",
+          "url": "https://www.ultimahora.com/desmantelan-laboratorio-clandestino-de-farmacos-adelgazantes-y-hallan-armas-en-hernandarias",
+          "publishedAt": "2026-11-25T00:13:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Hallan armas de guerra, chalecos tácticos y fármacos en una mansión del Paraná Country Club",
+          "url": "https://www.adndigital.com.py/hallan-armas-de-guerra-chalecos-tacticos-y-farmacos-en-una-mansion-del-parana-country-club",
+          "publishedAt": "2026-11-24T22:04:16.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-24-at-172852-225x300.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PQ6EQFHOPBB6DPH42AVJ5BG7XY.jpg?auth=9ab92248e942ec5990f8098ea47386c70d3cc4eca3eb3dd79c35f8c6b99b9e99&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/24/allanan-casa-del-parana-country-e-incautan-armas-municiones-chalecos-antibala-y-adelgazantes"
+      },
+      "firstSeenAt": "2026-11-25T03:07:46.091Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 23.74
     },
     {
       "id": "ev-1wq5dee",
@@ -251,17 +620,17 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T12:07:16.620Z",
       "updatedSlot": "manana",
-      "score": 23.85
+      "score": 23.52
     },
     {
-      "id": "ev-19f2ale",
-      "title": "Alliana plantea ley para asistir a empleados del Grupo Vázquez",
-      "summary": "El jefe de Estado señaló que la medida prevé beneficiar a los empleados que quedaron cesantes tras la intervención de Ueno Bank y las empresas vinculadas al grupo. El presidente de la República, Pedro Alliana anunció la presentación de un proyecto de ley para adelantar la liquidación de hasta cinco salarios mínimos (unos G. 15.200.000) a cada trabajador afectado por el cierre de empresas vinculadas al grupo Vázquez.",
+      "id": "ev-05cctwp",
+      "title": "Alliana recibe al canciller brasileño en medio de negociaciones por Itaipú y el caso Ueno",
+      "summary": "Mauro Vieira se reunirá con Rubén Ramírez Lezcano y Pedro Alliana, en una agenda marcada por los fondos de Itaipú retenidos en Ueno Bank y la negociación de la tarifa energética. El experto en energía Victorio Oxilia sostuvo que el acercamiento entre los Gobiernos de Paraguay y Brasil para las negociaciones de la tarifa y el Anexo C es una buena señal.",
       "keyPoints": [
-        "El jefe de Estado señaló que la medida prevé beneficiar a los empleados que quedaron cesantes tras la intervención de Ueno Bank y las empresas vinculadas al grupo.",
-        "El presidente de la República, Pedro Alliana anunció la presentación de un proyecto de ley para adelantar la liquidación de hasta cinco salarios mínimos (unos G. 15.200.000) a cada trabajador afectado por el cierre de empresas…",
-        "El Poder Ejecutivo enviará este miércoles al Congreso el proyecto de ley que establece el pago de un anticipo para los trabajadores del Grupo Vázquez.",
-        "Un proyecto de ley busca priorizar el pago de indemnizaciones, salarios y aguinaldos pendientes a unos 6.000 trabajadores afectados por la crisis del Grupo Vázquez, mediante el uso excepcional de recursos del Fondo de Garantía de…"
+        "Mauro Vieira se reunirá con Rubén Ramírez Lezcano y Pedro Alliana, en una agenda marcada por los fondos de Itaipú retenidos en Ueno Bank y la negociación de la tarifa energética.",
+        "El experto en energía Victorio Oxilia sostuvo que el acercamiento entre los Gobiernos de Paraguay y Brasil para las negociaciones de la tarifa y el Anexo C es una buena señal.",
+        "Los cancilleres de Paraguay, Rubén Ramírez Lezcano, y de Brasil, Mauro Vieira, dieron detalles sobre los avances de las negociaciones entre ambos gobiernos.",
+        "Vieira, quien arribó el martes a Paraguay, llegó al Palacio de López, sede del Gobierno en Asunción, después de reunirse previamente con el canciller paraguayo, Rubén Ramírez."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -270,280 +639,163 @@
       "model": null,
       "sources": [
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Proyecto para el Grupo Vázquez: “Es un anticipo, no un subsidio”",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/25/proyecto-para-el-grupo-vazquez-es-un-anticipo-no-un-subsidio",
-          "publishedAt": "2026-11-25T09:25:15.841Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/ETKG63ZWHZDJBFX5XL6GICCZ4U.jpeg?auth=281d7363161a5ee9f8d00ae665e0f05630771e4fa8a58ef0d4a15d1c8f1d31ef&width=1200&height=630&smart=true"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Milei llega esta noche a Paraguay y se reúne con Alliana mañana",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/milei-llega-esta-noche-a-paraguay-y-se-reune-con-alliana-manana",
+          "publishedAt": "2026-11-25T15:35:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RTja-0NM8us2MlgE7Eh1qACl6P8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BJXXME2XP5FKZAOBUHFMFMS4VE.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Alliana plantea ley para asistir a empleados del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/alliana-plantea-ley-para-asistir-a-empleados-del-grupo-vazquez",
-          "publishedAt": "2026-11-25T04:00:37.000Z",
-          "image": "https://www.lanacion.com.py/resizer/xVkJZfam23wpZcc-IOwhHlD2p5I=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ERDIC4V5NVFGDPY7QDPBSL3UCM.jpeg"
+          "title": "Cancilleres de Paraguay y Brasil anuncian avances en negociaciones sobre Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/cancilleres-de-paraguay-y-brasil-anuncian-avances-en-negociaciones-sobre-itaipu",
+          "publishedAt": "2026-11-25T15:24:27.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AGN52fqkzYyYEKzyG6FoVwx02RE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LFRFVWT6LZHYDOVOYRWJTX5ZUM.jpeg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "AUDIO: Alliana anuncia proyecto de ley para auxiliar a trabajadores del Grupo Vázquez",
-          "url": "https://www.abc.com.py/730am/ancho-perfil/2026/11/24/audio-alliana-anuncia-proyecto-de-ley-para-auxiliar-a-trabajadores-del-grupo-vazquez",
-          "publishedAt": "2026-11-25T00:37:02.000Z",
-          "image": "https://www.abc.com.py/resizer/p5kjjK_jPTq35_fHWiBwCND9lHk=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/66LR3IIZ5NHC3D6OQVEYLKLDBY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Abogado laboralista: proyecto de Alliana para auxiliar a trabajadores del Grupo Vázquez es un “parche”",
-          "url": "https://www.abc.com.py/economia/2026/11/24/grupo-vazquez-proyecto-de-alliana-para-auxiliar-a-trabajadores-es-un-parche-dice-abogado-laboralista",
-          "publishedAt": "2026-11-24T22:41:02.000Z",
-          "image": "https://www.abc.com.py/resizer/TDe4sNeHjAtVXKd_AFTnuZKoTIQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QMYVOF35IFBFZJGZE7PZEZIUVA.jpg"
+          "title": "Pedro Alliana recibe al canciller de Brasil en reunión previa a su primera visita a Lula",
+          "url": "https://www.abc.com.py/internacionales/2026/11/25/pedro-alliana-recibe-al-canciller-de-brasil-en-reunion-previa-a-su-primera-visita-a-lula",
+          "publishedAt": "2026-11-25T13:45:19.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Plantean utilizar el Fondo de Garantía de Depósitos para pagar a exempleados del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/24/plantean-utilizar-el-fondo-de-garantia-de-depositos-para-pagar-a-exempleados-del-grupo-vazquez",
-          "publishedAt": "2026-11-24T21:25:40.000Z",
-          "image": "https://www.lanacion.com.py/resizer/00AEmFUsUE8ezqCoTY47gn39Hjw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HKGFHVY2H5CM3OEDFXG2J6H36M.jpg"
+          "title": "Experto destaca acercamiento entre Paraguay y Brasil por la tarifa de Itaipú",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/experto-destaca-acercamiento-entre-paraguay-y-brasil-por-la-tarifa-de-itaipu",
+          "publishedAt": "2026-11-25T13:23:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/pH-wmluH1d3XSAO_iD1i9J1P-kE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XNDZVKNR3BENJECZ3UZ6U34L5U.jpeg"
         },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Gobierno prevé compensaciones de hasta G. 15,2 millones para exempleados del Grupo Vázquez",
-          "url": "https://www.adndigital.com.py/gobierno-preve-compensaciones-de-hasta-g-152-millones-para-exempleados-del-grupo-vazquez",
-          "publishedAt": "2026-11-24T20:26:53.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-24-at-172613.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Proponen cambiar ley para agilizar indemnización a exempleados del Grupo Vázquez",
-          "url": "https://www.adndigital.com.py/proponen-cambiar-ley-para-agilizar-indemnizacion-a-exempleados-del-grupo-vazquez",
-          "publishedAt": "2026-11-24T20:19:46.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-22-at-084013.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Alliana anuncia anticipo de G. 15 millones para trabajadores afectados por la crisis de Ueno",
-          "url": "https://elnacional.com.py/politica/alliana-anuncia-anticipo-g-15-millones-trabajadores-afectados-crisis-ueno-n115782",
-          "publishedAt": "2026-11-24T20:14:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b05f4c78ca9f.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo promueve ley para pagar adelantos a empleados del Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/politica/2026/11/24/ejecutivo-promueve-ley-para-pagar-adelantos-a-empleados-del-grupo-vazquez",
-          "publishedAt": "2026-11-24T20:05:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/A8aFH2b8UNfwJIB33JMHfnug1tk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7Q22AVZ3F5DGNMVHPLAMZ4SVMY.jpg"
-        },
-        {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Estado destinará fondos para pagar liquidaciones a trabajadores del Grupo Vázquez",
-          "url": "https://5dias.com.py/article/estado-destinar-fondos-para-pagar-liquidaciones-a-trabajadores-del-grupo-vzquez",
-          "publishedAt": "2026-11-24T17:25:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/HX6mV_zX0AASvqT_1_20261124_172529.webp"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ERDIC4V5NVFGDPY7QDPBSL3UCM.jpeg?auth=8ea53223522cb02c10b8347d5fa3529f382353e36bb894271102470ba0f7da17&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/alliana-plantea-ley-para-asistir-a-empleados-del-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-25T03:07:46.091Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-25T12:07:16.620Z",
-      "updatedSlot": "manana",
-      "score": 23.77
-    },
-    {
-      "id": "ev-1tyxnbz",
-      "title": "Fernández Valdovinos y el Grupo Vázquez: Vallejo pide investigar desembolsos del MEF que acabaron en Ueno Bank",
-      "summary": "Ayer, martes, la diputada opositora Rocío Vallejo (Partido Patria Querida) expuso que el exministro de Economía y Finanzas Carlos Fernández Valdovinos firmó un lucrativo contrato con el Grupo Vázquez pocos meses después de haber dejado su cargo en el gabinete del gobierno de Santiago Peña .",
-      "keyPoints": [
-        "Ayer, martes, la diputada opositora Rocío Vallejo (Partido Patria Querida) expuso que el exministro de Economía y Finanzas Carlos Fernández Valdovinos firmó un lucrativo contrato con el Grupo Vázquez pocos meses después de haber dejado su…",
-        "abccolor · 25 11 2026 LPM - Rocío Vallejo, Diputada",
-        "La diputada Rocío Vallejo denunció un contrato millonario entre el exmnistro de Economía y Finanzas, Carlos Fernández Valdovinos, y el Grupo Vázquez, y cuestionó su vínculo con Ueno Bank tras la colocación de fondos de la…",
-        "La diputada cuestionó que el exministro de Economía haya firmado un acuerdo de consultoría estratégica con el Grupo Vázquez por honorarios de USD 20.000 mensuales, meses después de dejar el cargo."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Estigarribia reclama acción fiscal contra Fernández Valdovinos por millonario contrato",
-          "url": "https://elnacional.com.py/politica/estigarribia-reclama-accion-fiscal-fernandez-valdovinos-millonario-contrato-n115793",
-          "publishedAt": "2026-11-25T11:40:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/03/69b3bfdebfd9e.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: Fernández Valdovinos y el Grupo Vázquez: Vallejo pide investigar desembolsos del MEF que acabaron en Ueno Bank",
-          "url": "https://www.abc.com.py/730am/la-primera-manana/2026/11/25/audio-fernandez-valdovinos-y-el-grupo-vazquez-vallejo-pide-investigar-desembolsos-del-mef-que-acabaron-en-ueno-bank",
-          "publishedAt": "2026-11-25T11:19:19.000Z",
-          "image": "https://www.abc.com.py/resizer/co_ixnoqjxix5-DxwDZKhnilLmM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/GIQBDOZFZBFTHJY62SPDDBH5Y4.jfif"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Fernández Valdovinos y el Grupo Vázquez: Vallejo pide investigar desembolsos del MEF que acabaron en Ueno Bank",
-          "url": "https://www.abc.com.py/politica/2026/11/25/fernandez-valdovinos-y-el-grupo-vazquez-vallejo-pide-investigar-desembolsos-del-mef-que-acabaron-en-ueno-bank",
-          "publishedAt": "2026-11-25T11:14:35.000Z",
-          "image": "https://www.abc.com.py/resizer/Orr5N-LCM9o5eamjfgaESJHJw5Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/G2NT43STVVEX5O2PE2T4MYZF6I.jpeg"
-        },
-        {
-          "sourceId": "adn",
-          "sourceName": "ADN Digital",
-          "title": "Vallejo ve fuerte vínculo de Fernández Valdovinos con el caso Ueno y pide investigarlo",
-          "url": "https://www.adndigital.com.py/vallejo-ve-fuerte-vinculo-de-fernandez-valdovinos-con-el-caso-ueno-y-pide-investigarlo",
-          "publishedAt": "2026-11-25T10:30:32.000Z",
+          "title": "Itaipú: Paraguay puede negociar con Brasil para evitar una fuerte caída de la tarifa",
+          "url": "https://www.adndigital.com.py/itaipu-paraguay-puede-negociar-con-brasil-para-evitar-una-fuerte-caida-de-la-tarifa",
+          "publishedAt": "2026-11-25T13:15:47.000Z",
           "image": "https://s.w.org/images/core/emoji/11/72x72/1f4de.png"
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Rocío Vallejo pide investigar los vínculos financieros y recuperar el dinero perdido en Ueno Bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/25/rocio-vallejo-pide-investigar-los-vinculos-financieros-y-recuperar-el-dinero-perdido-en-ueno-bank",
-          "publishedAt": "2026-11-25T10:06:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ngQZeJ6izncq8XQ01KHlec-9_eM=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/XIN2RSUOIVBEHN36DWLCGGP4GA.jpg"
+          "title": "Alliana recibe al canciller brasileño en medio de negociaciones por Itaipú y el caso Ueno",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/alliana-recibe-al-canciller-brasileno-en-medio-de-negociaciones-por-itaipu-y-el-caso-ueno",
+          "publishedAt": "2026-11-25T09:38:58.000Z",
+          "image": "https://www.lanacion.com.py/resizer/E1Tb7qNGZQpiUt9gOnBWT48EbPw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PUQOL7KAGJHAPD2456QMYFJCCA.jpg"
         },
         {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Un pie en el Estado y otro en el Grupo Vázquez",
-          "url": "https://elnacional.com.py/politica/un-pie-estado-otro-grupo-vazquez-n115789",
-          "publishedAt": "2026-11-25T08:05:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b068d16cd50e.png"
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Indagan a Peña por lavado, vínculo de ex ministro y ueno, Milei en Paraguay",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-indagan-a-pena-por-lavado-vinculo-de-ex-ministro-y-ueno-milei-en-paraguay",
+          "publishedAt": "2026-11-25T09:33:58.000Z",
+          "image": null
         },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
-          "title": "Revelan contrato de Fernández Valdovinos",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/revelan-contrato-de-fernandez-valdovinos",
-          "publishedAt": "2026-11-25T03:38:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iltKMQZ0wInwzq6qr1v5ODVl-uY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6HKB2EBOCNAKBN26DO43CY67P4.jpg"
+          "title": "Milei llegaría el jueves para reunirse con Alliana",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/milei-llegaria-el-jueves-para-reunirse-con-alliana",
+          "publishedAt": "2026-11-25T03:41:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tc_bfK87tyNSKgWuM7NwyevEUSA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ER7VSWMOW5CNPJWSMOP42XWA2M.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Javier Milei visitará Paraguay y se reunirá con el presidente Pedro Alliana",
+          "url": "https://www.lanacion.com.py/politica/2026/11/24/javier-milei-visitara-paraguay-y-se-reunira-con-el-presidente-pedro-alliana",
+          "publishedAt": "2026-11-24T23:21:19.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ZRDGTFwHux69B3ufP9XSuFtO79Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4QJHL5FBFNEOHGO23RWBGUMUSQ.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Milei llega este miércoles a Paraguay para reunirse con Alliana",
+          "url": "https://elnacional.com.py/politica/milei-llega-miercoles-paraguay-reunirse-alliana-n115787",
+          "publishedAt": "2026-11-24T21:31:00.000Z",
+          "image": "https://statics.elnacional.com.py/2025/09/68cb12e191616.jpg"
         },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
-          "title": "Ricardo Estigarribia exige a fiscala General investigar a Fernández Valdovinos",
-          "url": "https://www.abc.com.py/politica/2026/11/24/ricardo-estigarribia-exige-a-fiscala-general-investigar-a-fernandez-valdovinos",
-          "publishedAt": "2026-11-24T22:45:39.000Z",
-          "image": "https://www.abc.com.py/resizer/Z-EyAZ2VvJ7YYC2l9P6Y3_DM9ss=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/A4VASAEZCZA4FOABBPKOQ7MGW4.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "USD 20.000 al mes y bono por ganancias: revelan millonario contrato de Fernández Valdovinos con Ueno Bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/24/usd-20000-al-mes-y-bono-por-ganancias-revelan-millonario-contrato-de-fernandez-valdovinos-con-ueno-bank",
-          "publishedAt": "2026-11-24T18:31:31.000Z",
-          "image": "https://www.lanacion.com.py/resizer/keF_n2VH73eQdtmXjM3CR2tYS6c=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/Z6WZKYE5MNCQJPP23UVQCU2EQM.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Diputada Rocío Vallejo denuncia contrato millonario de Fernández Valdovinos con Ueno",
-          "url": "https://elnacional.com.py/politica/diputada-rocio-vallejo-denuncia-contrato-millonario-fernandez-valdovinos-ueno-n115757",
-          "publishedAt": "2026-11-24T17:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/03/69b15c98750f0.jpg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "Rocío Vallejo denunció contrato millonario entre Fernández Valdovinos y el Grupo Vázquez",
-          "url": "https://www.npy.com.py/noticias/nacionales/politica/rocio-vallejo-denuncio-contrato-millonario-entre-fernandez-valdovinos-y-el-grupo-vazquez",
-          "publishedAt": "2026-11-24T15:02:18.000Z",
-          "image": null
+          "title": "Javier Milei viaja a Paraguay para reunirse con Alliana, tras la expulsión de Peña",
+          "url": "https://www.abc.com.py/nacionales/2026/11/24/javier-milei-llegara-manana-a-paraguay-para-reunirse-con-alliana-tras-la-expulsion-de-pena",
+          "publishedAt": "2026-11-24T21:22:37.000Z",
+          "image": "https://www.abc.com.py/resizer/NVMECcxBfaLPW6CQSKsxs_O744E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JWL5IM4VRZDUDDQG4Q66WQLIU4.jpg"
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/G2NT43STVVEX5O2PE2T4MYZF6I.jpeg?auth=c442f22fd063b710ea9d83fc9c755453b6da8642a104a6d1df414b4afb1db2a0&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/25/fernandez-valdovinos-y-el-grupo-vazquez-vallejo-pide-investigar-desembolsos-del-mef-que-acabaron-en-ueno-bank"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/PUQOL7KAGJHAPD2456QMYFJCCA.jpg?auth=59624f4e45c43bf9a5961c885319a61a3d2332a98b7d8fcfbf20ba55358b2bdf&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/25/alliana-recibe-al-canciller-brasileno-en-medio-de-negociaciones-por-itaipu-y-el-caso-ueno"
       },
       "firstSeenAt": "2026-11-25T03:07:46.091Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-25T12:07:16.620Z",
-      "updatedSlot": "manana",
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
       "score": 20.96
     },
     {
-      "id": "ev-1eafoit",
-      "title": "Hallan fármacos y armas en vivienda del Paraná Country Club",
-      "summary": "Un allanamiento realizado en una vivienda de Hernandarias, donde encontraron productos farmacéuticos, máquinas de etiquetar y armas de fuego. Se ordenó la detención de un extranjero. Un fusil de asalto AK-12 calibre 7,62 mm, una pistola 9 mm, chalecos tácticos y medicamentos adelgazantes elaborados a base de tirzepatida fueron encontrados durante un allanamiento en una residencia del Paraná Country Club, en Hernandarias.",
+      "id": "ev-101zrzo",
+      "title": "SEPRELAD dice que no puede controlar a los bancos",
+      "summary": "La Secretaría de Prevención de Lavado de Dinero (SEPRELAD) aclaró que no identifica ni selecciona las operaciones bancarias sospechosas y que esa función corresponde a la Superintendencia de Bancos del BCP. A través de un comunicado, la Secretaría de Prevención de Lavado de Dinero o Bienes (Seprelad) sostuvo que la reserva de la información responde al cumplimiento de obligaciones legales y estándares internacionales.",
       "keyPoints": [
-        "Un allanamiento realizado en una vivienda de Hernandarias, donde encontraron productos farmacéuticos, máquinas de etiquetar y armas de fuego.",
-        "Un fusil de asalto AK-12 calibre 7,62 mm, una pistola 9 mm, chalecos tácticos y medicamentos adelgazantes elaborados a base de tirzepatida fueron encontrados durante un allanamiento en una residencia del Paraná Country Club, en Hernandarias.",
-        "Una lujosa residencia del exclusivo complejo habitacional Paraná Country Club, en Hernandarias, habría sido convertida en un laboratorio clandestino de medicamentos contra la obesidad…",
-        "Una comitiva fiscal y policial allanó hoy una vivienda del exclusivo condominio Paraná Country Club de Hernandarias donde hallaron armas de fuego, cargadores, municiones, chaleco antibala y productos adelgazantes de varias marcas, además de accesorios vinculados…"
+        "La Secretaría de Prevención de Lavado de Dinero (SEPRELAD) aclaró que no identifica ni selecciona las operaciones bancarias sospechosas y que esa función corresponde a la Superintendencia de Bancos del BCP.",
+        "A través de un comunicado, la Secretaría de Prevención de Lavado de Dinero o Bienes (Seprelad) sostuvo que la reserva de la información responde al cumplimiento de obligaciones legales y estándares internacionales.",
+        "El senador Mario Varela (ANR) se sumó a los cuestionamientos contra la titular de la Secretaría de Prevención de Lavado de Dinero o Bienes (Seprelad), Liliana Alcaraz , y pidió que abandone el cargo por su…"
       ],
-      "category": "pais",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "vanguardia",
-          "sourceName": "Vanguardia",
-          "title": "Desmantelan laboratorio clandestino y hallan arsenal en el Paraná Country Club",
-          "url": "https://diariovanguardia.com.py/desmantelan-laboratorio-clandestino-y-hallan-arsenal-en-el-parana-country-club",
-          "publishedAt": "2026-11-25T10:44:46.000Z",
-          "image": "https://diariovanguardia.com.py/wp-content/uploads/2026/11/arma-incautada-2-1024x576.jpeg"
-        },
-        {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Hallan fármacos y armas en vivienda del Paraná Country Club",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/25/hallan-farmacos-y-armas-en-vivienda-del-parana-country-club",
-          "publishedAt": "2026-11-25T10:00:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/JWHEI4BXMFEZRFEJP6MPGNQ7EA.jpg?auth=1f1f14d8446195ae2eab04805e28f2e1e750b1801d5ef27b904758f57b9f8734&width=1200&height=630&smart=true"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Allanan casa del Paraná Country y se incautan de armas, municiones, chalecos y adelgazantes",
-          "url": "https://www.lanacion.com.py/pais/2026/11/24/allanan-casa-del-parana-country-e-incautan-armas-municiones-chalecos-antibala-y-adelgazantes",
-          "publishedAt": "2026-11-25T00:45:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/7rv5QsupnrLpvDD-wY6MVf1EMq8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/PQ6EQFHOPBB6DPH42AVJ5BG7XY.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Desmantelan laboratorio clandestino de fármacos adelgazantes y hallan armas en Hernandarias",
-          "url": "https://www.ultimahora.com/desmantelan-laboratorio-clandestino-de-farmacos-adelgazantes-y-hallan-armas-en-hernandarias",
-          "publishedAt": "2026-11-25T00:13:52.000Z",
-          "image": null
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Mario Varela pide la renuncia de la titular de Seprelad y anuncia voto contra Hugo Zárate para Itaipú",
+          "url": "https://www.abc.com.py/politica/2026/11/25/mario-varela-pide-la-renuncia-de-la-titular-de-seprelad-y-anuncia-voto-contra-hugo-zarate-para-itaipu",
+          "publishedAt": "2026-11-25T15:46:49.000Z",
+          "image": "https://www.abc.com.py/resizer/GbaOVyT-LU5aZCD8Reb162ywDz0=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/RD7EZHJ4L5ALROD4ODFS7NU7JY.jpg"
         },
         {
           "sourceId": "adn",
           "sourceName": "ADN Digital",
-          "title": "Hallan armas de guerra, chalecos tácticos y fármacos en una mansión del Paraná Country Club",
-          "url": "https://www.adndigital.com.py/hallan-armas-de-guerra-chalecos-tacticos-y-farmacos-en-una-mansion-del-parana-country-club",
-          "publishedAt": "2026-11-24T22:04:16.000Z",
-          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-24-at-172852-225x300.jpeg"
+          "title": "Seprelad se defiende y dice que siempre colaboró con la Fiscalía",
+          "url": "https://www.adndigital.com.py/seprelad-se-defiende-y-dice-que-siempre-colaboro-con-la-fiscalia",
+          "publishedAt": "2026-11-25T15:33:45.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "telefuturo",
+          "sourceName": "Telefuturo",
+          "title": "SEPRELAD dice que no puede controlar a los bancos",
+          "url": "https://www.telefuturo.com.py/seprelad-dice-que-no-puede-controlar-a-los-bancos",
+          "publishedAt": "2026-11-24T19:14:52.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Seprelad aclara ante Fiscalía que no tiene atribuciones para controlar ni sancionar bancos",
+          "url": "https://www.lanacion.com.py/politica/2026/11/24/seprelad-aclara-ante-fiscalia-que-no-tiene-atribuciones-para-controlar-ni-sancionar-bancos",
+          "publishedAt": "2026-11-24T12:45:29.000Z",
+          "image": "https://www.lanacion.com.py/resizer/vkLUIdO9jMtkNhIs0_bTej5MS88=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YD5JUJYF5BDA7BN3IAGKM6PDCE.jpg"
         }
       ],
       "image": {
-        "url": "https://www.lanacion.com.py/resizer/v2/JWHEI4BXMFEZRFEJP6MPGNQ7EA.jpg?auth=1f1f14d8446195ae2eab04805e28f2e1e750b1801d5ef27b904758f57b9f8734&width=1200&height=630&smart=true",
-        "credit": "HOY",
-        "articleUrl": "https://www.hoy.com.py/nacionales/2026/11/25/hallan-farmacos-y-armas-en-vivienda-del-parana-country-club"
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/RD7EZHJ4L5ALROD4ODFS7NU7JY.jpg?auth=6d99ac4f772052d646fe54dcefcd5d9fcbe7cbcea9da95aec5559cacef061464&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/25/mario-varela-pide-la-renuncia-de-la-titular-de-seprelad-y-anuncia-voto-contra-hugo-zarate-para-itaipu"
       },
       "firstSeenAt": "2026-11-25T03:07:46.091Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-25T12:07:16.620Z",
-      "updatedSlot": "manana",
-      "score": 20.89
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 17.97
     },
     {
       "id": "ev-0e0rxvd",
@@ -666,75 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T12:07:16.620Z",
       "updatedSlot": "manana",
-      "score": 17.93
-    },
-    {
-      "id": "ev-05cctwp",
-      "title": "Javier Milei viaja a Paraguay para reunirse con Alliana, tras la expulsión de Peña",
-      "summary": "El pasado 13 de noviembre Javier Milei y Pedro Alliana comunicaron por redes sociales la conversación telefónica que mantuvieron y acordaron verse “próximamente”. Esto se daría este miércoles, de acuerdo con medios argentinos, aunque el encuentro no figura en la agenda de hoy del presidente Pedro Alliana, compartida por la Presidencia de la República del Paraguay.",
-      "keyPoints": [
-        "El pasado 13 de noviembre Javier Milei y Pedro Alliana comunicaron por redes sociales la conversación telefónica que mantuvieron y acordaron verse “próximamente”.",
-        "El presidente argentino realizará una visita \"relámpago\" a Asunción para mantener su primer encuentro presencial con Pedro Alliana, tras la salida de Santiago Peña del poder.",
-        "El presidente argentino Javier Milei viajará este jueves a Paraguay para reunirse por primera vez con Pedro Alliana tras la salida de Santiago Peña.",
-        "El presidente de la Argentina, Javier Milei tiene previsto una visita a Paraguay para concretar el primer encuentro con el presidente Pedro Alliana."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Lo que tenés que saber: Indagan a Peña por lavado, vínculo de ex ministro y ueno, Milei en Paraguay",
-          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-indagan-a-pena-por-lavado-vinculo-de-ex-ministro-y-ueno-milei-en-paraguay",
-          "publishedAt": "2026-11-25T09:33:58.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Milei llegaría el jueves para reunirse con Alliana",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/25/milei-llegaria-el-jueves-para-reunirse-con-alliana",
-          "publishedAt": "2026-11-25T03:41:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tc_bfK87tyNSKgWuM7NwyevEUSA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ER7VSWMOW5CNPJWSMOP42XWA2M.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Javier Milei visitará Paraguay y se reunirá con el presidente Pedro Alliana",
-          "url": "https://www.lanacion.com.py/politica/2026/11/24/javier-milei-visitara-paraguay-y-se-reunira-con-el-presidente-pedro-alliana",
-          "publishedAt": "2026-11-24T23:21:19.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ZRDGTFwHux69B3ufP9XSuFtO79Q=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4QJHL5FBFNEOHGO23RWBGUMUSQ.jpg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Milei llega este miércoles a Paraguay para reunirse con Alliana",
-          "url": "https://elnacional.com.py/politica/milei-llega-miercoles-paraguay-reunirse-alliana-n115787",
-          "publishedAt": "2026-11-24T21:31:00.000Z",
-          "image": "https://statics.elnacional.com.py/2025/09/68cb12e191616.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Javier Milei viaja a Paraguay para reunirse con Alliana, tras la expulsión de Peña",
-          "url": "https://www.abc.com.py/nacionales/2026/11/24/javier-milei-llegara-manana-a-paraguay-para-reunirse-con-alliana-tras-la-expulsion-de-pena",
-          "publishedAt": "2026-11-24T21:22:37.000Z",
-          "image": "https://www.abc.com.py/resizer/NVMECcxBfaLPW6CQSKsxs_O744E=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/JWL5IM4VRZDUDDQG4Q66WQLIU4.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/JWL5IM4VRZDUDDQG4Q66WQLIU4.jpg?auth=4d5b38e448fc6e12f413969b207dda0a4a98fc5f4b6148e52b9d3d2c5e0da054&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/nacionales/2026/11/24/javier-milei-llegara-manana-a-paraguay-para-reunirse-con-alliana-tras-la-expulsion-de-pena"
-      },
-      "firstSeenAt": "2026-11-25T03:07:46.091Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-25T12:07:16.620Z",
-      "updatedSlot": "manana",
-      "score": 17.79
+      "score": 17.6
     },
     {
       "id": "ev-0uad9et",
@@ -801,7 +985,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T12:07:16.620Z",
       "updatedSlot": "manana",
-      "score": 17.74
+      "score": 17.41
     },
     {
       "id": "ev-133zrhe",
@@ -877,7 +1061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 14.24
+      "score": 13.91
     },
     {
       "id": "ev-1mwkd4g",
@@ -928,7 +1112,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T12:07:16.620Z",
       "updatedSlot": "manana",
-      "score": 13.98
+      "score": 13.64
     },
     {
       "id": "ev-0862tb4",
@@ -979,7 +1163,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 13.01
+      "score": 12.68
     },
     {
       "id": "ev-1gfldlm",
@@ -1030,7 +1214,66 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 12.53
+      "score": 12.2
+    },
+    {
+      "id": "ev-1ri2jvr",
+      "title": "Electropar presentó las últimas innovaciones para el sector eléctrico y energético en el Energy Week",
+      "summary": "Electropar llevó adelante el Energy Week 2026, un encuentro dedicado a la innovación, la tecnología y el conocimiento, que reunió a profesionales, empresas, técnicos, instaladores, estudiantes y referentes del sector eléctrico, energético y tecnológico del Paraguay. El evento se desarrolló los días 23 y 24 de noviembre en Paseo La Galería.",
+      "keyPoints": [
+        "Electropar llevó adelante el Energy Week 2026, un encuentro dedicado a la innovación, la tecnología y el conocimiento, que reunió a profesionales, empresas, técnicos, instaladores, estudiantes y referentes del sector eléctrico, energético y tecnológico del Paraguay.",
+        "El evento desarrollado estuvo enfocado para el sector eléctrico y energético.",
+        "Electropar dio inicio al Energy Week 2026 , dedicado a la innovación, la tecnología y el conocimiento, que reúne a profesionales, empresas, técnicos, instaladores, estudiantes y referentes del sector eléctrico, energético y tecnológico del Paraguay."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Electropar presentó las últimas innovaciones para el sector eléctrico y energético en el Energy Week",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/25/electropar-presento-las-ultimas-innovaciones-para-el-sector-electrico-y-energetico-en-el-energy-week",
+          "publishedAt": "2026-11-25T12:30:57.000Z",
+          "image": "https://www.lanacion.com.py/resizer/YELbobJrOC0In64griCvuYpX1Go=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/WENVQXJVUBGTRKRRWJYH27GDRI.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Electropar presentó las últimas innovaciones, tecnologías y soluciones",
+          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/25/electropar-presento-las-ultimas-innovaciones-tecnologias-y-soluciones",
+          "publishedAt": "2026-11-25T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/8DL9qFcipjsyS4qL1vQOiIXblaU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7BXUFPHJWJBBPJDIJRX73FQZXQ.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Electropar reúne a grandes marcas internacionales en “Energy Week 2026″",
+          "url": "https://www.abc.com.py/negocios/2026/11/24/electropar-reune-a-grandes-marcas-internacionales-en-energy-week-2026",
+          "publishedAt": "2026-11-24T17:43:37.000Z",
+          "image": "https://www.abc.com.py/resizer/mPSlADLK3SruQV-d-Hi7JZrTW7s=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/6XOEJ43635HGLNI5ISKOCSZOME.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Energy Week 2026 de Electropar despliega un mundo de novedades eléctricas",
+          "url": "https://www.lanacion.com.py/foco/2026/11/24/energy-week-2026-de-electropar-despliega-un-mundo-de-novedades-electricas",
+          "publishedAt": "2026-11-24T14:52:05.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cXqbjKK43XNlLljOa4FylG9fstA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QGFIV3755RFABBKWIFCFWI7LJ4.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/WENVQXJVUBGTRKRRWJYH27GDRI.jpeg?auth=0ea444a45f74ff0b942af494da0a4758bc0c61a968b88ded118e6fd0defb0e91&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/negocios/2026/11/25/electropar-presento-las-ultimas-innovaciones-para-el-sector-electrico-y-energetico-en-el-energy-week"
+      },
+      "firstSeenAt": "2026-11-25T03:07:46.091Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-25T16:07:18.676Z",
+      "updatedSlot": "tarde",
+      "score": 11.7
     },
     {
       "id": "ev-1pk519e",
@@ -1081,7 +1324,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T08:07:19.762Z",
       "updatedSlot": "manana",
-      "score": 10.28
+      "score": 9.94
     },
     {
       "id": "ev-0x0k8ir",
@@ -1132,7 +1375,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 10.24
+      "score": 9.91
     },
     {
       "id": "ev-0g2ur6a",
@@ -1174,7 +1417,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 9
+      "score": 8.66
     },
     {
       "id": "ev-0bxvai8",
@@ -1216,7 +1459,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.57
     },
     {
       "id": "ev-0spxp42",
@@ -1275,7 +1518,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T08:07:19.762Z",
       "updatedSlot": "manana",
-      "score": 8.82
+      "score": 8.49
     },
     {
       "id": "ev-0btjre8",
@@ -1317,49 +1560,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.6
-    },
-    {
-      "id": "ev-101zrzo",
-      "title": "SEPRELAD dice que no puede controlar a los bancos",
-      "summary": "La Secretaría de Prevención de Lavado de Dinero (SEPRELAD) aclaró que no identifica ni selecciona las operaciones bancarias sospechosas y que esa función corresponde a la Superintendencia de Bancos del BCP. La Seprelad afirmó que los bancos deben detectar y reportar operaciones sospechosas; su función comienza al recibir esos informes.",
-      "keyPoints": [
-        "La Secretaría de Prevención de Lavado de Dinero (SEPRELAD) aclaró que no identifica ni selecciona las operaciones bancarias sospechosas y que esa función corresponde a la Superintendencia de Bancos del BCP.",
-        "La Seprelad afirmó que los bancos deben detectar y reportar operaciones sospechosas; su función comienza al recibir esos informes."
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "telefuturo",
-          "sourceName": "Telefuturo",
-          "title": "SEPRELAD dice que no puede controlar a los bancos",
-          "url": "https://www.telefuturo.com.py/seprelad-dice-que-no-puede-controlar-a-los-bancos",
-          "publishedAt": "2026-11-24T19:14:52.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Seprelad aclara ante Fiscalía que no tiene atribuciones para controlar ni sancionar bancos",
-          "url": "https://www.lanacion.com.py/politica/2026/11/24/seprelad-aclara-ante-fiscalia-que-no-tiene-atribuciones-para-controlar-ni-sancionar-bancos",
-          "publishedAt": "2026-11-24T12:45:29.000Z",
-          "image": "https://www.lanacion.com.py/resizer/vkLUIdO9jMtkNhIs0_bTej5MS88=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YD5JUJYF5BDA7BN3IAGKM6PDCE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/YD5JUJYF5BDA7BN3IAGKM6PDCE.jpg?auth=54972e3251c76fc1da12b7de220b77501ab64ba62da12157af9ea925509bf899&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/24/seprelad-aclara-ante-fiscalia-que-no-tiene-atribuciones-para-controlar-ni-sancionar-bancos"
-      },
-      "firstSeenAt": "2026-11-25T03:07:46.091Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-25T03:07:46.091Z",
-      "updatedSlot": "manana",
-      "score": 8.59
+      "score": 8.27
     },
     {
       "id": "ev-0qtmzxp",
@@ -1401,7 +1602,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.57
+      "score": 8.23
     },
     {
       "id": "ev-0qeip70",
@@ -1439,7 +1640,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.54
+      "score": 8.21
     },
     {
       "id": "ev-0um1hhn",
@@ -1481,7 +1682,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.39
+      "score": 8.05
     },
     {
       "id": "ev-1hc2yez",
@@ -1523,7 +1724,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-1ftis78",
@@ -1565,7 +1766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 8.18
+      "score": 8
     },
     {
       "id": "ev-14xmwlf",
@@ -1616,7 +1817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 7.74
+      "score": 7.41
     },
     {
       "id": "ev-024r2w5",
@@ -1654,7 +1855,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 6.46
+      "score": 6.13
     },
     {
       "id": "ev-0neb6hi",
@@ -1696,7 +1897,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 6.34
+      "score": 6
     },
     {
       "id": "ev-0ldkrcl",
@@ -1738,49 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 6.24
-    },
-    {
-      "id": "ev-1ri2jvr",
-      "title": "Energy Week 2026 de Electropar despliega un mundo de novedades eléctricas",
-      "summary": "Electropar continúa este martes con una exposición de tecnologías, demostraciones en vivo, capacitaciones y lanzamientos de marcas internacionales. La entrada es libre y gratuita, hasta las 21:00, en el Paseo La Galería. El evento desarrollado estuvo enfocado para el sector eléctrico y energético.",
-      "keyPoints": [
-        "Electropar continúa este martes con una exposición de tecnologías, demostraciones en vivo, capacitaciones y lanzamientos de marcas internacionales.",
-        "El evento desarrollado estuvo enfocado para el sector eléctrico y energético."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Electropar presentó las últimas innovaciones, tecnologías y soluciones",
-          "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/25/electropar-presento-las-ultimas-innovaciones-tecnologias-y-soluciones",
-          "publishedAt": "2026-11-25T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/8DL9qFcipjsyS4qL1vQOiIXblaU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7BXUFPHJWJBBPJDIJRX73FQZXQ.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Energy Week 2026 de Electropar despliega un mundo de novedades eléctricas",
-          "url": "https://www.lanacion.com.py/foco/2026/11/24/energy-week-2026-de-electropar-despliega-un-mundo-de-novedades-electricas",
-          "publishedAt": "2026-11-24T14:52:05.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cXqbjKK43XNlLljOa4FylG9fstA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QGFIV3755RFABBKWIFCFWI7LJ4.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/QGFIV3755RFABBKWIFCFWI7LJ4.jpeg?auth=15fcc8fd7c5150ebb008ca2a95a63153a709f2171f3fc677c7909387c5d686a6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/foco/2026/11/24/energy-week-2026-de-electropar-despliega-un-mundo-de-novedades-electricas"
-      },
-      "firstSeenAt": "2026-11-25T03:07:46.091Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-25T03:07:46.091Z",
-      "updatedSlot": "manana",
-      "score": 6.24
+      "score": 5.91
     },
     {
       "id": "ev-0kd4ip3",
@@ -1822,7 +1981,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 6.02
+      "score": 5.69
     },
     {
       "id": "ev-1cc5j0w",
@@ -1851,7 +2010,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-06u9nto",
@@ -1884,7 +2043,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0vw6s62",
@@ -1917,7 +2076,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-1np8win",
@@ -1950,7 +2109,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-0nxqh7p",
@@ -1983,7 +2142,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.24
+      "score": 4.91
     },
     {
       "id": "ev-033314h",
@@ -2012,7 +2171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.16
+      "score": 4.83
     },
     {
       "id": "ev-0wysh3v",
@@ -2041,7 +2200,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.13
+      "score": 4.79
     },
     {
       "id": "ev-0wbhx7v",
@@ -2074,7 +2233,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.74
     },
     {
       "id": "ev-1lhqt0f",
@@ -2103,7 +2262,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.07
+      "score": 4.74
     },
     {
       "id": "ev-1ca4sar",
@@ -2136,7 +2295,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.73
     },
     {
       "id": "ev-01iemec",
@@ -2169,7 +2328,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.73
     },
     {
       "id": "ev-15el9en",
@@ -2202,7 +2361,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.06
+      "score": 4.73
     },
     {
       "id": "ev-1axg8dv",
@@ -2235,7 +2394,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 4.69
     },
     {
       "id": "ev-0bz82d8",
@@ -2268,7 +2427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 4.71
+      "score": 4.38
     },
     {
       "id": "ev-1hz6m1a",
@@ -2301,7 +2460,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 4.62
+      "score": 4.29
     },
     {
       "id": "ev-05zkf1r",
@@ -2334,7 +2493,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 4.27
+      "score": 4
     },
     {
       "id": "ev-1mvn392",
@@ -2442,7 +2601,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 3.74
+      "score": 3.41
     },
     {
       "id": "ev-1q16ip1",
@@ -2479,7 +2638,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-25T03:07:46.091Z",
       "updatedSlot": "manana",
-      "score": 3.71
+      "score": 3.38
     }
   ],
   "runs": [
@@ -2502,6 +2661,13 @@
       "at": "2026-11-25T12:07:16.620Z",
       "added": 0,
       "updated": 9,
+      "candidates": 12
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-25T16:07:18.676Z",
+      "added": 0,
+      "updated": 7,
       "candidates": 12
     }
   ]
