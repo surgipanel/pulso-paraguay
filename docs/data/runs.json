@@ -1,5 +1,37 @@
 [
   {
+    "startedAt": "2026-11-26T08:07:12.353Z",
+    "finishedAt": "2026-11-26T08:08:49.144Z",
+    "edition": "2026-11-26",
+    "slot": "manana",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 302,
+    "clusters": 238,
+    "candidates": 9,
+    "added": 0,
+    "updated": 5,
+    "eventsTotal": 50,
+    "sourcesOk": 10,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChRCT9fJs3yDmQ6kE9vL1\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChRCTA2e56QM2aQYRgaSE\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 9
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-26T04:56:10.304Z",
     "finishedAt": "2026-11-26T04:57:53.302Z",
     "edition": "2026-11-26",
@@ -2613,38 +2645,6 @@
       "aiErrors": [
         "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch1DWti2MCFDFsVaoFFU6\"}",
         "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch1DWuHGEg3dqCNkadjdY\"}"
-      ],
-      "inputTokens": 0,
-      "outputTokens": 0,
-      "cacheReadTokens": 0,
-      "cacheWriteTokens": 0,
-      "fallbacks": 12
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-11-13T12:07:10.992Z",
-    "finishedAt": "2026-11-13T12:08:47.389Z",
-    "edition": "2026-11-13",
-    "slot": "manana",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 297,
-    "clusters": 203,
-    "candidates": 12,
-    "added": 0,
-    "updated": 8,
-    "eventsTotal": 50,
-    "sourcesOk": 11,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 0,
-      "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgzuEfKpRzLDSzLRq4LWz\"}",
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgzuEfjtJp9BvdUAEGF3g\"}"
       ],
       "inputTokens": 0,
       "outputTokens": 0,

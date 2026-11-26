@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-26T04:56:10.304Z",
+  "generatedAt": "2026-11-26T08:07:12.353Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -22,6 +22,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Empleados de Vázquez también son víctimas",
+          "url": "https://www.ultimahora.com/empleados-de-vazquez-tambien-son-victimas",
+          "publishedAt": "2026-11-26T07:00:00.000Z",
+          "image": null
+        },
         {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
@@ -86,9 +94,9 @@
       },
       "firstSeenAt": "2026-11-26T04:56:10.304Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-26T04:56:10.304Z",
+      "updatedAt": "2026-11-26T08:07:12.353Z",
       "updatedSlot": "manana",
-      "score": 20.84
+      "score": 23.91
     },
     {
       "id": "ev-1dhcn46",
@@ -196,7 +204,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 17.86
+      "score": 17.59
     },
     {
       "id": "ev-1a4zzex",
@@ -264,7 +272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 17.84
+      "score": 17.58
     },
     {
       "id": "ev-1tagoqz",
@@ -324,7 +332,75 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 17.64
+      "score": 17.37
+    },
+    {
+      "id": "ev-1agag3r",
+      "title": "Juez inhibe otras 39 empresas vinculadas al Grupo Vázquez",
+      "summary": "La medida pretende precautelar los bienes de las firmas alcanzadas por resolución judicial, que tienen la inhibición general de vender y gravar bienes. En el marco de la causa conocida como Ueno Bank, el juez de Garantías Especializado en Delitos Económicos, Rodrigo Estigarribia, dio curso al planteamiento del Ministerio Público de inhibir a más empresas ligadas al Grupo Vázquez, cuya cabeza visible, Miguel Vázquez, se encuentra recluido en el Centro Nacional de Prevenidos, anteriormente conocido como Penal de Tacumbú.",
+      "keyPoints": [
+        "La medida pretende precautelar los bienes de las firmas alcanzadas por resolución judicial, que tienen la inhibición general de vender y gravar bienes.",
+        "En el marco de la causa conocida como Ueno Bank, el juez de Garantías Especializado en Delitos Económicos, Rodrigo Estigarribia, dio curso al planteamiento del Ministerio Público de inhibir a más empresas ligadas al Grupo Vázquez…",
+        "Según la hipótesis fiscal, estas relaciones podrían haber permitido canalizar, transferir o incorporar recursos provenientes de las operaciones financieras investigadas al patrimonio de otras sociedades vinculadas.",
+        "TSV y Dobrestec (GSR) crecieron con multimillonarios contratos en la era de Santiago Peña."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Empresas de seguridad ligadas a Vázquez ganaron licitaciones que suman USD 71 millones",
+          "url": "https://www.ultimahora.com/empresas-de-seguridad-ligadas-a-vazquez-ganaron-licitaciones-que-suman-usd-71-millones",
+          "publishedAt": "2026-11-26T07:00:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juez inhibe otras 39 empresas vinculadas al Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/26/juez-inhibe-otras-39-empresas-vinculadas-al-grupo-vazquez",
+          "publishedAt": "2026-11-26T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/aQVMDS_IvRMCyHaiVgq5jjdvhJA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3SV2QHAFFEUJOIWNZB4GWNUYI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juez bloquea 27 bienes de lujo incautados en causa contra directivos de Ueno Bank",
+          "url": "https://www.lanacion.com.py/judiciales/2026/11/25/juez-bloquea-27-bienes-de-lujo-incautados-en-causa-contra-directivos-de-ueno-bank",
+          "publishedAt": "2026-11-25T23:15:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/yeVkHf_uxMGgsGesCyLeyDIhA5o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VLX5TUD55ZDGHDHJCVFP2WK4CI.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Ueno Bank: juez inhibe y bloquea cuentas de otras 39 empresas vinculadas al Grupo Vázquez",
+          "url": "https://elnacional.com.py/economia/ueno-bank-juez-inhibe-bloquea-cuentas-otras-39-empresas-vinculadas-grupo-vazquez-n115810",
+          "publishedAt": "2026-11-25T17:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/07/6a565cd8aae03.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Juez inhibe otras 39 empresas ligadas al Grupo Vázquez",
+          "url": "https://www.lanacion.com.py/negocios/2026/11/25/juez-inhibe-otras-39-empresas-ligadas-al-grupo-vazquez",
+          "publishedAt": "2026-11-25T15:55:51.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cXQcGoF5RyEC2737iXq9vuqz8qY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLGRJ3HZBBDJ5LTMQPMTELDIS4.JPG"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N3SV2QHAFFEUJOIWNZB4GWNUYI.jpg?auth=f3064a09cee273c723dc85b09ad45531600b116e80c4fa4695613a4ba8d93bee&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/26/juez-inhibe-otras-39-empresas-vinculadas-al-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-26T04:56:10.304Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-26T08:07:12.353Z",
+      "updatedSlot": "manana",
+      "score": 14.91
     },
     {
       "id": "ev-12ybshr",
@@ -384,7 +460,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 14.84
+      "score": 14.58
     },
     {
       "id": "ev-1jmt46p",
@@ -444,7 +520,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 14.5
+      "score": 14.24
+    },
+    {
+      "id": "ev-0fm8ltz",
+      "title": "Hay acuerdo de pago para fondos mutuos: Superintendencia comunica el procedimiento",
+      "summary": "De acuerdo con lo detallado por la Superintendencia de Valores (SIV) del Banco Central del Paraguay (BCP) en un comunicado, tras el levantamiento temporal de la suspensión a Ueno Administradoras de Fondos Patrimoniales SA (AFPISA), tras concretarse un acuerdo con Investor Casa de Bolsa qu actuará como vendedor de títulos y agente de pagos.",
+      "keyPoints": [
+        "De acuerdo con lo detallado por la Superintendencia de Valores (SIV) del Banco Central del Paraguay (BCP) en un comunicado, tras el levantamiento temporal de la suspensión a Ueno Administradoras de Fondos Patrimoniales SA (AFPISA), tras…",
+        "Ueno AFPISA e Investor Casa de Bolsa firmaron un acuerdo para atender las solicitudes de rescate de los cuotapartistas de los fondos mutuos."
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Hay acuerdo de pago para fondos mutuos: Superintendencia comunica el procedimiento",
+          "url": "https://www.abc.com.py/negocios/2026/11/26/hay-acuerdo-de-pago-para-fondos-mutuos-superintendencia-comunica-el-procedimiento",
+          "publishedAt": "2026-11-26T08:00:00.000Z",
+          "image": "https://www.abc.com.py/resizer/d6bklWwrizrkEcJcmPFxjiOrFhE=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/IVSK6D2VJBG6DDP66RZGAEUDGI.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Cuotapartistas de Ueno podrán rescatar hasta G. 30 millones por semana",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/25/cuotapartistas-de-ueno-podran-rescatar-hasta-g-30-millones-por-semana",
+          "publishedAt": "2026-11-25T23:49:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/VXW3U6Q6RFAWVKKZDBRKKT4FUM.jpeg?auth=cea0e28ecdee9222df6379371a9d73d4181d84db947e0c39b138df5880c46e5e&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "5dias",
+          "sourceName": "5Días",
+          "title": "Acuerdo con Investor permitirá iniciar pagos a inversores de Ueno AFPISA",
+          "url": "https://5dias.com.py/article/acuerdo-con-investor-permitir-iniciar-pagos-a-inversores-de-ueno-afpisa",
+          "publishedAt": "2026-11-25T19:47:00.000Z",
+          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/ueno_principal_20261109_170839_20261125_194758.webp"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/IVSK6D2VJBG6DDP66RZGAEUDGI.jpg?auth=abe922b6b632c413ba38298dfe480d4c35a83ab00845845b1c85079d487e3950&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/negocios/2026/11/26/hay-acuerdo-de-pago-para-fondos-mutuos-superintendencia-comunica-el-procedimiento"
+      },
+      "firstSeenAt": "2026-11-26T04:56:10.304Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-26T08:07:12.353Z",
+      "updatedSlot": "manana",
+      "score": 13.99
     },
     {
       "id": "ev-08qxux8",
@@ -495,7 +621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 13.84
+      "score": 13.58
     },
     {
       "id": "ev-143weam",
@@ -546,7 +672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 13.77
+      "score": 13.5
     },
     {
       "id": "ev-1vowmy8",
@@ -597,7 +723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 13.38
+      "score": 13.11
     },
     {
       "id": "ev-0kv1umc",
@@ -656,118 +782,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 11.86
-    },
-    {
-      "id": "ev-1agag3r",
-      "title": "Juez inhibe otras 39 empresas vinculadas al Grupo Vázquez",
-      "summary": "La medida pretende precautelar los bienes de las firmas alcanzadas por resolución judicial, que tienen la inhibición general de vender y gravar bienes. Según la hipótesis fiscal, estas relaciones podrían haber permitido canalizar, transferir o incorporar recursos provenientes de las operaciones financieras investigadas al patrimonio de otras sociedades vinculadas.",
-      "keyPoints": [
-        "La medida pretende precautelar los bienes de las firmas alcanzadas por resolución judicial, que tienen la inhibición general de vender y gravar bienes.",
-        "Según la hipótesis fiscal, estas relaciones podrían haber permitido canalizar, transferir o incorporar recursos provenientes de las operaciones financieras investigadas al patrimonio de otras sociedades vinculadas.",
-        "En el marco de la causa conocida como Ueno Bank, el juez de Garantías Especializado en Delitos Económicos, Rodrigo Estigarribia, dio curso al planteamiento del Ministerio Público de inhibir a más empresas ligadas al Grupo Vázquez…",
-        "El juez de Delitos Económicos, Rodrigo Estigarribia, decidió la prohibición de innovar y contratar sobre 27 bienes incautados en el marco de la investigación contra los directivos de la firma Ueno Bank —cuyo CEO es Miguel…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Juez inhibe otras 39 empresas vinculadas al Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/26/juez-inhibe-otras-39-empresas-vinculadas-al-grupo-vazquez",
-          "publishedAt": "2026-11-26T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/aQVMDS_IvRMCyHaiVgq5jjdvhJA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/N3SV2QHAFFEUJOIWNZB4GWNUYI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Juez bloquea 27 bienes de lujo incautados en causa contra directivos de Ueno Bank",
-          "url": "https://www.lanacion.com.py/judiciales/2026/11/25/juez-bloquea-27-bienes-de-lujo-incautados-en-causa-contra-directivos-de-ueno-bank",
-          "publishedAt": "2026-11-25T23:15:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/yeVkHf_uxMGgsGesCyLeyDIhA5o=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VLX5TUD55ZDGHDHJCVFP2WK4CI.jfif"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Ueno Bank: juez inhibe y bloquea cuentas de otras 39 empresas vinculadas al Grupo Vázquez",
-          "url": "https://elnacional.com.py/economia/ueno-bank-juez-inhibe-bloquea-cuentas-otras-39-empresas-vinculadas-grupo-vazquez-n115810",
-          "publishedAt": "2026-11-25T17:00:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/07/6a565cd8aae03.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Juez inhibe otras 39 empresas ligadas al Grupo Vázquez",
-          "url": "https://www.lanacion.com.py/negocios/2026/11/25/juez-inhibe-otras-39-empresas-ligadas-al-grupo-vazquez",
-          "publishedAt": "2026-11-25T15:55:51.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cXQcGoF5RyEC2737iXq9vuqz8qY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/YLGRJ3HZBBDJ5LTMQPMTELDIS4.JPG"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/N3SV2QHAFFEUJOIWNZB4GWNUYI.jpg?auth=f3064a09cee273c723dc85b09ad45531600b116e80c4fa4695613a4ba8d93bee&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/26/juez-inhibe-otras-39-empresas-vinculadas-al-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-26T04:56:10.304Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-26T04:56:10.304Z",
-      "updatedSlot": "manana",
-      "score": 11.84
-    },
-    {
-      "id": "ev-0cmbht3",
-      "title": "Milei llega esta noche a Paraguay y se reúne con Alliana mañana",
-      "summary": "En conferencia de prensa, el canciller Rubén Ramírez Lezcano conformó y dio detalles de la agenda del mandatario argentino Javier Milei en Paraguay. Milei llegó acompañado del ministro de Relaciones Exteriores de Argentina, Pablo Quirno, quien lo secundará en las diversas reuniones que mantendrá en el país.",
-      "keyPoints": [
-        "En conferencia de prensa, el canciller Rubén Ramírez Lezcano conformó y dio detalles de la agenda del mandatario argentino Javier Milei en Paraguay.",
-        "Milei llegó acompañado del ministro de Relaciones Exteriores de Argentina, Pablo Quirno, quien lo secundará en las diversas reuniones que mantendrá en el país.",
-        "Según informó la Presidencia argentina, Milei y su comitiva partirán rumbo a Asunción a las 21:00 hora local de este miércoles (00:00 GMT del jueves)."
-      ],
-      "category": "internacional",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Alliana y Milei hablarán hoy de las relaciones bilaterales",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/26/alliana-y-milei-hablaran-hoy-de-las-relaciones-bilaterales",
-          "publishedAt": "2026-11-26T03:02:09.000Z",
-          "image": "https://www.lanacion.com.py/resizer/AzTO43TKLsOfwBhcxPWB8uOEISg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EAJ6MJEQ6FDYFDK7TLARNXZNDA.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "El presidente de Argentina Javier Milei viaja a Paraguay para reunirse con Pedro Alliana",
-          "url": "https://www.abc.com.py/internacionales/2026/11/25/el-presidente-de-argentina-javier-milei-viaja-a-paraguay-para-reunirse-con-pedro-alliana",
-          "publishedAt": "2026-11-25T21:10:11.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Milei llega esta noche a Paraguay y se reúne con Alliana mañana",
-          "url": "https://www.lanacion.com.py/politica/2026/11/25/milei-llega-esta-noche-a-paraguay-y-se-reune-con-alliana-manana",
-          "publishedAt": "2026-11-25T15:35:54.000Z",
-          "image": "https://www.lanacion.com.py/resizer/RTja-0NM8us2MlgE7Eh1qACl6P8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BJXXME2XP5FKZAOBUHFMFMS4VE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/BJXXME2XP5FKZAOBUHFMFMS4VE.jpg?auth=bad922b9e0e406ca22ad8118f43025d8cf59125ab4e2d20967406b91f746fb75&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/25/milei-llega-esta-noche-a-paraguay-y-se-reune-con-alliana-manana"
-      },
-      "firstSeenAt": "2026-11-26T04:56:10.304Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-26T04:56:10.304Z",
-      "updatedSlot": "manana",
-      "score": 10.84
+      "score": 11.6
     },
     {
       "id": "ev-0nxk24c",
@@ -818,7 +833,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 10.84
+      "score": 10.58
     },
     {
       "id": "ev-1qaqxme",
@@ -869,7 +884,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.31
     },
     {
       "id": "ev-03vqo0b",
@@ -911,7 +926,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.92
+      "score": 9.66
     },
     {
       "id": "ev-0cn83li",
@@ -953,7 +968,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.84
+      "score": 9.58
+    },
+    {
+      "id": "ev-1uiu10i",
+      "title": "Palmeiras ya está en Montevideo para la final de la Copa Libertadores",
+      "summary": "En las primeras horas de la jornada, la plantilla dirigida por el portugués Abel Ferreira realizó un trabajo táctico pensando en el decisivo encuentro, sesión en la que participó el lateral izquierdo, quien se recupera de una lesión en la pierna derecha.",
+      "keyPoints": [
+        "En las primeras horas de la jornada, la plantilla dirigida por el portugués Abel Ferreira realizó un trabajo táctico pensando en el decisivo encuentro, sesión en la que participó el lateral izquierdo, quien se recupera de…",
+        "Ante Estudiantes en Montevideo, el paraguayo jugará el sábado su cuarta definición del torneo continental."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Gómez lidera la era dorada del Palmeiras",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/26/gomez-lidera-la-era-dorada-del-palmeiras",
+          "publishedAt": "2026-11-26T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/qpKHjs7I67QK0F3ZLMi2EBxHVhI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RR2K5ZVB75DOHOOSG4YKF57TYU.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Palmeiras ya está en Montevideo para la final de la Copa Libertadores",
+          "url": "https://www.abc.com.py/deportes/futbol/libertadores/2026/11/25/palmeiras-llega-a-montevideo-en-una-jornada-en-la-que-piquerez-trabaja-con-el-equipo",
+          "publishedAt": "2026-11-25T23:10:06.000Z",
+          "image": "https://www.abc.com.py/resizer/zpz4nOKPlFtjko1dZ09R8nwyLvw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YVNZ247PSZBLXB4RQRGBLPY2BQ.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/YVNZ247PSZBLXB4RQRGBLPY2BQ.jpg?auth=09501c6dc4d7c6438e81eddc4cd0e857f0daa83016c06c5611ce780434bc9f2a&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/libertadores/2026/11/25/palmeiras-llega-a-montevideo-en-una-jornada-en-la-que-piquerez-trabaja-con-el-equipo"
+      },
+      "firstSeenAt": "2026-11-26T04:56:10.304Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-26T08:07:12.353Z",
+      "updatedSlot": "manana",
+      "score": 9.58
     },
     {
       "id": "ev-1120088",
@@ -995,7 +1052,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.76
+      "score": 9.49
     },
     {
       "id": "ev-0qwlhsh",
@@ -1037,45 +1094,65 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.6
+      "score": 9.33
     },
     {
-      "id": "ev-0fm8ltz",
-      "title": "Acuerdo con Investor permitirá iniciar pagos a inversores de Ueno AFPISA",
-      "summary": "Ueno AFPISA e Investor Casa de Bolsa firmaron un acuerdo para atender las solicitudes de rescate de los cuotapartistas de los fondos mutuos. El mecanismo contempla desembolsos escalonados con un tope de hasta G. 30 millones por cuenta y por semana, que podría ampliarse a G. 60 millones.",
+      "id": "ev-0cmbht3",
+      "title": "Pedro Alliana: su agenda oficial para el día 26 de noviembre",
+      "summary": "09:30: Comando en Jefe, en el Cuartel General de la Comandancia. 10:30: Reunión bilateral con Javier Milei , presidente de la República Argentina , en el Palacio de Gobierno. 12:00: Audiencia con Rubén Ramírez , ministro de Relaciones Exteriores, en el Palacio de Gobierno. 15:00: Audiencia con Eduardo González , ministro asesor jurídico, en Mburuvicha Róga.",
       "keyPoints": [
-        "Ueno AFPISA e Investor Casa de Bolsa firmaron un acuerdo para atender las solicitudes de rescate de los cuotapartistas de los fondos mutuos.",
-        "El Banco Central del Paraguay (BCP) anunció que los cuotapartistas de Ueno AFPISA podrán solicitar el rescate de sus inversiones por hasta G. 30 millones semanales, a partir de la próxima semana."
+        "09:30: Comando en Jefe, en el Cuartel General de la Comandancia. 10:30: Reunión bilateral con Javier Milei , presidente de la República Argentina , en el Palacio de Gobierno. 12:00: Audiencia con Rubén Ramírez , ministro…",
+        "En conferencia de prensa, el canciller Rubén Ramírez Lezcano conformó y dio detalles de la agenda del mandatario argentino Javier Milei en Paraguay."
       ],
-      "category": "pais",
-      "scope": "paraguay",
+      "category": "internacional",
+      "scope": "internacional",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
         {
-          "sourceId": "hoy",
-          "sourceName": "HOY",
-          "title": "Cuotapartistas de Ueno podrán rescatar hasta G. 30 millones por semana",
-          "url": "https://www.hoy.com.py/nacionales/2026/11/25/cuotapartistas-de-ueno-podran-rescatar-hasta-g-30-millones-por-semana",
-          "publishedAt": "2026-11-25T23:49:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/v2/VXW3U6Q6RFAWVKKZDBRKKT4FUM.jpeg?auth=cea0e28ecdee9222df6379371a9d73d4181d84db947e0c39b138df5880c46e5e&width=1200&height=630&smart=true"
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Pedro Alliana: su agenda oficial para el día 26 de noviembre",
+          "url": "https://www.abc.com.py/politica/2026/11/26/pedro-alliana-su-agenda-oficial-para-el-dia-26-de-noviembre",
+          "publishedAt": "2026-11-26T04:58:59.000Z",
+          "image": "https://www.abc.com.py/resizer/ja9V_S4Syyl6hLr99AeA-jeluHw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/UJPGA6MKKFAOZNGGG6X7O4FSHQ.jpg"
         },
         {
-          "sourceId": "5dias",
-          "sourceName": "5Días",
-          "title": "Acuerdo con Investor permitirá iniciar pagos a inversores de Ueno AFPISA",
-          "url": "https://5dias.com.py/article/acuerdo-con-investor-permitir-iniciar-pagos-a-inversores-de-ueno-afpisa",
-          "publishedAt": "2026-11-25T19:47:00.000Z",
-          "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/ueno_principal_20261109_170839_20261125_194758.webp"
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Alliana y Milei hablarán hoy de las relaciones bilaterales",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/26/alliana-y-milei-hablaran-hoy-de-las-relaciones-bilaterales",
+          "publishedAt": "2026-11-26T03:02:09.000Z",
+          "image": "https://www.lanacion.com.py/resizer/AzTO43TKLsOfwBhcxPWB8uOEISg=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/EAJ6MJEQ6FDYFDK7TLARNXZNDA.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "El presidente de Argentina Javier Milei viaja a Paraguay para reunirse con Pedro Alliana",
+          "url": "https://www.abc.com.py/internacionales/2026/11/25/el-presidente-de-argentina-javier-milei-viaja-a-paraguay-para-reunirse-con-pedro-alliana",
+          "publishedAt": "2026-11-25T21:10:11.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Milei llega esta noche a Paraguay y se reúne con Alliana mañana",
+          "url": "https://www.lanacion.com.py/politica/2026/11/25/milei-llega-esta-noche-a-paraguay-y-se-reune-con-alliana-manana",
+          "publishedAt": "2026-11-25T15:35:54.000Z",
+          "image": "https://www.lanacion.com.py/resizer/RTja-0NM8us2MlgE7Eh1qACl6P8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BJXXME2XP5FKZAOBUHFMFMS4VE.jpg"
         }
       ],
-      "image": null,
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/UJPGA6MKKFAOZNGGG6X7O4FSHQ.jpg?auth=c791274e6b1a920378daeaccbf9bd356793c38cbb37826c031c86a4262797984&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/26/pedro-alliana-su-agenda-oficial-para-el-dia-26-de-noviembre"
+      },
       "firstSeenAt": "2026-11-26T04:56:10.304Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-26T04:56:10.304Z",
+      "updatedAt": "2026-11-26T08:07:12.353Z",
       "updatedSlot": "manana",
-      "score": 9.57
+      "score": 9.24
     },
     {
       "id": "ev-1dzfnw1",
@@ -1117,7 +1194,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.42
+      "score": 9.15
     },
     {
       "id": "ev-1hjrpnm",
@@ -1159,7 +1236,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.14
     },
     {
       "id": "ev-08ub9es",
@@ -1201,7 +1278,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 9.14
+      "score": 8.87
     },
     {
       "id": "ev-1q67kvt",
@@ -1243,7 +1320,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 8.74
+      "score": 8.48
     },
     {
       "id": "ev-1cs2ais",
@@ -1301,7 +1378,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 8.22
+      "score": 7.95
     },
     {
       "id": "ev-1utsaa7",
@@ -1339,7 +1416,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 7.18
+      "score": 6.92
     },
     {
       "id": "ev-1tpel22",
@@ -1381,7 +1458,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.92
+      "score": 6.66
     },
     {
       "id": "ev-07wtjoh",
@@ -1423,7 +1500,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.84
+      "score": 6.58
     },
     {
       "id": "ev-0ahqolv",
@@ -1465,7 +1542,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.84
+      "score": 6.58
     },
     {
       "id": "ev-00oya6r",
@@ -1507,7 +1584,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.84
+      "score": 6.58
     },
     {
       "id": "ev-0kvrqnq",
@@ -1549,7 +1626,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.84
+      "score": 6.58
     },
     {
       "id": "ev-05xt1en",
@@ -1591,7 +1668,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.67
+      "score": 6.41
     },
     {
       "id": "ev-08cdd5c",
@@ -1633,7 +1710,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 6.67
+      "score": 6.4
     },
     {
       "id": "ev-0qr4ix8",
@@ -1662,7 +1739,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.66
     },
     {
       "id": "ev-15t7fqd",
@@ -1695,7 +1772,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.66
     },
     {
       "id": "ev-08hf3jo",
@@ -1728,7 +1805,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.66
     },
     {
       "id": "ev-02mc9hy",
@@ -1761,7 +1838,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.66
     },
     {
       "id": "ev-0uj0sqh",
@@ -1794,7 +1871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.92
+      "score": 5.66
     },
     {
       "id": "ev-1pf6djb",
@@ -1827,40 +1904,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.85
-    },
-    {
-      "id": "ev-1uiu10i",
-      "title": "Gómez lidera la era dorada del Palmeiras",
-      "summary": "Ante Estudiantes en Montevideo, el paraguayo jugará el sábado su cuarta definición del torneo continental.",
-      "keyPoints": [
-        "Ante Estudiantes en Montevideo, el paraguayo jugará el sábado su cuarta definición del torneo continental."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Gómez lidera la era dorada del Palmeiras",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/26/gomez-lidera-la-era-dorada-del-palmeiras",
-          "publishedAt": "2026-11-26T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/qpKHjs7I67QK0F3ZLMi2EBxHVhI=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/RR2K5ZVB75DOHOOSG4YKF57TYU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/RR2K5ZVB75DOHOOSG4YKF57TYU.jpg?auth=a3a7d1c6140d4f0368ca136602b2e192ab470ea1fa69e40f2986a40f5151ef8b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/26/gomez-lidera-la-era-dorada-del-palmeiras"
-      },
-      "firstSeenAt": "2026-11-26T04:56:10.304Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-26T04:56:10.304Z",
-      "updatedSlot": "manana",
-      "score": 5.84
+      "score": 5.59
     },
     {
       "id": "ev-04vl6z2",
@@ -1889,7 +1933,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.73
+      "score": 5.47
     },
     {
       "id": "ev-1twzyer",
@@ -1922,7 +1966,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.46
+      "score": 5.2
     },
     {
       "id": "ev-1m1uogv",
@@ -1955,7 +1999,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.32
+      "score": 5.05
     },
     {
       "id": "ev-0qa2t6b",
@@ -1988,7 +2032,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.29
+      "score": 5.02
     },
     {
       "id": "ev-1hs87h9",
@@ -2021,7 +2065,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.26
+      "score": 4.99
     },
     {
       "id": "ev-1vgx3jd",
@@ -2054,7 +2098,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.14
+      "score": 4.88
     },
     {
       "id": "ev-1xwfwmp",
@@ -2087,7 +2131,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.08
+      "score": 4.82
     },
     {
       "id": "ev-0q4f18w",
@@ -2120,7 +2164,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 5.03
+      "score": 4.77
     },
     {
       "id": "ev-1tqrr9z",
@@ -2153,7 +2197,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 4.88
+      "score": 4.61
     },
     {
       "id": "ev-0tw2qyx",
@@ -2191,7 +2235,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 4.48
+      "score": 4.21
     },
     {
       "id": "ev-0zmzv68",
@@ -2220,7 +2264,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-26T04:56:10.304Z",
       "updatedSlot": "manana",
-      "score": 3.5
+      "score": 3.23
     }
   ],
   "runs": [
@@ -2230,6 +2274,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 60
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-26T08:07:12.353Z",
+      "added": 0,
+      "updated": 5,
+      "candidates": 9
     }
   ]
 }
