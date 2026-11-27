@@ -1,27 +1,51 @@
 {
   "date": "2026-11-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-27T08:07:20.518Z",
+  "generatedAt": "2026-11-27T12:07:20.918Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-1hum77f",
-      "title": "PGN 2027: Senado lo aprueba con varios cambios y lo remite a Diputados",
-      "summary": "El pleno del Senado aprobó este jueves su versión del Presupuesto General de la Nación (PGN) para 2027. El proyecto pasa a la Cámara de Diputados para su estudio. El texto votado repone partidas para la Policía y el alquiler de máquinas de votación.",
+      "title": "PGN 2027: Senado repone remuneraciones extras, y recorta rubros para hambre cero",
+      "summary": "El Senado paraguayo dio su aprobación al Presupuesto General de la Nación para el ejercicio 2027 (PGN 2027), con modificaciones que de acuerdo a la versión de la Comisión de Hacienda y Presupuesto de la Cámara Alta asciende a G. 165,3 billones (US$ 25.596 millones, al tipo de cambio presupuestado de G. 6.458), lo que representa una disminución de G. 1 billón con respecto al presupuesto inicialmente presentado por el Poder Ejecutivo.",
       "keyPoints": [
-        "El pleno del Senado aprobó este jueves su versión del Presupuesto General de la Nación (PGN) para 2027.",
-        "La Cámara de Senadores aprobó con modificaciones el Presupuesto General de la Nación (PGN) 2027, que asciende a G. 165,3 billones (USD 25.597 millones).",
-        "El Senado paraguayo dio su aprobación en general al Presupuesto General de la Nación para el ejercicio 2027 (PGN 2027).",
-        "El estudio del PGN 2027 en el Senado debatió este jueves por la tarde sobre las necesidades operativas de la Fiscalía y el Banco Central del Paraguay (BCP) , además de los ajustes presupuestarios para los…"
+        "El Senado paraguayo dio su aprobación al Presupuesto General de la Nación para el ejercicio 2027 (PGN 2027), con modificaciones que de acuerdo a la versión de la Comisión de Hacienda y Presupuesto de la Cámara…",
+        "El Senado retomó este jueves el estudio del Presupuesto General de la Nación (PGN) 2027 y aprobó el proyecto en general, con una propuesta que ronda los USD 25.596 millones (G. 165,3 billones).",
+        "El Senado aprobó con modificaciones el proyecto de ley e inició su estudio en particular.",
+        "La posibilidad de reducir sustancialmente el endeudamiento del Estado quedó relegada durante el tratamiento del Presupuesto General de la Nación (PGN) 2027 en el Senado."
       ],
-      "category": "economia",
+      "category": "politica",
       "scope": "paraguay",
       "expiresAt": null,
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "PGN 2027: “Beto” Ovelar defiende aumento del déficit y arremete contra empresarios",
+          "url": "https://www.abc.com.py/politica/2026/11/27/pgn-2027-beto-ovelar-defiende-aumento-del-deficit-y-arremete-contra-empresarios",
+          "publishedAt": "2026-11-27T11:56:26.000Z",
+          "image": "https://www.abc.com.py/resizer/FN3AbNccknOhLL-oPkCc_YFH2Ik=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/QODUS7X6FVEJ7MGCSQLTTBS54E.jfif"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado desoye reclamos de austeridad y compromete más deuda para el 2027",
+          "url": "https://elnacional.com.py/politica/senado-desoye-reclamos-austeridad-compromete-mas-deuda-2027-n115890",
+          "publishedAt": "2026-11-27T09:45:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b094830a410c.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Lo que tenés que saber: Paraguay apunta a gas argentino, BCP cubriría hasta 5.000 millones y Senado recorta Hambre Cero",
+          "url": "https://www.ultimahora.com/lo-que-tenes-que-saber-paraguay-apunta-a-gas-argentino-bcp-cubriria-hasta-5-000-millones-y-senado-recorta-hambre-cero",
+          "publishedAt": "2026-11-27T09:16:28.000Z",
+          "image": null
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -87,6 +111,14 @@
           "image": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/WhatsApp_Image_2026-11-26_at_09.59.10_20261126_232119.jpeg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "UIP exige recortar más de USD 1.000 millones del Presupuesto 2027",
+          "url": "https://elnacional.com.py/economia/uip-exige-recortar-mas-usd-1000-millones-presupuesto-2027-n115864",
+          "publishedAt": "2026-11-26T19:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/05/69f781d8e696c.jpg"
+        },
+        {
           "sourceId": "lanacion",
           "sourceName": "La Nación",
           "title": "Senado aprueba con modificaciones el PGN 2027 fijado en G. 165,3 billones y pasa a Diputados",
@@ -104,15 +136,15 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/24PL42SKNBBBLI6YUMZ6L2V6TQ.jfif?auth=45e20689a152cc40aefa1f4e8250ce636c5dc2b1297b098a1bfc278713558efa&width=1200",
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/3SGAHWRK4VGVJM3J5Z7S7LGE3U.jfif?auth=349791909b04978cb94651105bc3de1d1ee0f8a04abb3ab3161ce6c2a4850abd&width=1200",
         "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/economia/2026/11/26/pgn-2027-senado-lo-aprueba-con-varios-cambios-y-lo-remite-a-diputados"
+        "articleUrl": "https://www.abc.com.py/economia/2026/11/27/pgn-2027-senado-repone-remuneraciones-extras-y-recorta-rubros-para-hambre-cero"
       },
       "firstSeenAt": "2026-11-27T04:55:41.554Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-27T08:07:20.518Z",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
       "updatedSlot": "manana",
-      "score": 17.99
+      "score": 23.98
     },
     {
       "id": "ev-1ipj4g4",
@@ -122,7 +154,7 @@
         "El presidente argentino, Javier Milei, se reunió con el mandatario paraguayo, Pedro Alliana, para reafirmar los vínculos entre ambos países y avanzar en una agenda de integración y cooperación.",
         "El presidente Pedro Alliana recibió a su par argentino Javier Milei en el Palacio de López.",
         "El presidente de la República Argentina, Javier Milei, concretó ayer su visita oficial al Paraguay para reunirse en el Palacio de Gobierno con su par paraguayo, Pedro Alliana.",
-        "La reunión entre Javier Milei y 120 empresarios paraguayos permitió analizar nuevas oportunidades para fortalecer el comercio bilateral, integrar a las industrias de ambos países y atraer inversiones en sectores como minería, hidrocarburos e inteligencia artificial."
+        "El mandatario argentino Javier Milei realizó una ofrenda floral al Panteón de los Héroes en el marco de su visita oficial a Paraguay."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -185,6 +217,14 @@
           "url": "https://www.lanacion.com.py/politica/2026/11/26/alliana-y-milei-apuntan-a-fortalecer-la-relacion-bilateral",
           "publishedAt": "2026-11-26T15:16:10.000Z",
           "image": "https://www.lanacion.com.py/resizer/HBXweBPrpCrit3dUCUq0jVmFmH0=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JQI5JFB3MRAEFIY5UJ2CALJNKE.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Milei inició su agenda oficial en Paraguay con un homenaje a los héroes nacionales",
+          "url": "https://www.lanacion.com.py/politica/2026/11/26/milei-inicio-su-agenda-oficial-en-paraguay-con-un-homenaje-a-los-heroes-nacionales",
+          "publishedAt": "2026-11-26T14:29:50.000Z",
+          "image": "https://www.lanacion.com.py/resizer/L5XLOo-BlQEh2B4Obt9-ATQhQ10=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H75NSDZOVBF4JEOMBRWEGCIA3Q.png"
         }
       ],
       "image": {
@@ -194,9 +234,76 @@
       },
       "firstSeenAt": "2026-11-27T04:55:41.554Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-27T08:07:20.518Z",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
       "updatedSlot": "manana",
-      "score": 17.64
+      "score": 17.31
+    },
+    {
+      "id": "ev-0kz9d04",
+      "title": "Libertad golea a Cerro Porteño",
+      "summary": "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes. Cerro Porteño y Libertad buscarán quedarse con el tercer lugar de la Copa Paraguay 2026, en un duelo que se disputará este jueves a las 19:30 en el Defensores del Chaco.",
+      "keyPoints": [
+        "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes.",
+        "Cerro Porteño y Libertad buscarán quedarse con el tercer lugar de la Copa Paraguay 2026, en un duelo que se disputará este jueves a las 19:30 en el Defensores del Chaco.",
+        "El pedido azulgrana apuntaba a sanciones de hasta un año de suspensión para la terna."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Libertad golea a Cerro Porteño",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno",
+          "publishedAt": "2026-11-27T03:40:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iyp5q8feq0D9XsCJgD6fpgP-88M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LUBTVCCJTBBERISBTZVKUL3LMY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas: “Yo acá vine para ganar y no me voy a ir ni en pedo”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/26/gustavo-costas-yo-aca-vine-para-ganar-y-no-me-voy-a-ir-ni-en-pedo",
+          "publishedAt": "2026-11-27T01:49:05.000Z",
+          "image": "https://www.abc.com.py/resizer/1eiprKb_2ZznO_NkjAx23dajADQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PQ4HPPZW6RANPAGMZBL22AHAMA.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cerro Porteño consigue un fallo parcial en su reclamo arbitral",
+          "url": "https://elnacional.com.py/deportes/cerro-porteno-consigue-fallo-parcial-su-reclamo-arbitral-n115887",
+          "publishedAt": "2026-11-27T00:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b08d5291ae86.webp"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad se sube al podio goleando a un pálido Cerro Porteño",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/26/libertad-se-sube-al-podio-goleando-a-un-palido-cerro-porteno",
+          "publishedAt": "2026-11-27T00:24:20.000Z",
+          "image": "https://www.abc.com.py/resizer/LeAeQ1XP6PId-8sIndQLUhhY43Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z6CQUYEOSRGG3NMLC5BSGWIKPY.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "No hay copa, pero sí podio: Cerro Porteño y Libertad se juegan el tercer puesto",
+          "url": "https://www.npy.com.py/noticias/deportes/no-hay-copa-pero-si-podio-cerro-porteno-y-libertad-se-juegan-el-tercer-puesto",
+          "publishedAt": "2026-11-26T13:56:20.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LUBTVCCJTBBERISBTZVKUL3LMY.jpg?auth=81669b3df9283c7502d9d95c27718e8f2ccb15281e95d8a69ef8836327d5e7d6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
+      "updatedSlot": "manana",
+      "score": 17.3
     },
     {
       "id": "ev-01jc8yv",
@@ -288,7 +395,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 17.58
+      "score": 17.24
     },
     {
       "id": "ev-1el5wqb",
@@ -348,67 +455,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T08:07:20.518Z",
       "updatedSlot": "manana",
-      "score": 17.14
-    },
-    {
-      "id": "ev-0kz9d04",
-      "title": "Libertad se sube al podio goleando a un pálido Cerro Porteño",
-      "summary": "Un encuentro de relleno, que no cuenta con motivación deportiva —pese a que Cerro Porteño cumplía su mejor campaña en ocho ediciones del torneo de integración—; en la formación azulgrana, Gustavo Costas apostó por juveniles en más de la mitad de su once inicial, con algunos debutantes, con la intención de empezar a ver valores de la cantera en este cierre de año para el olvido, en la difícil misión que tendrá de lavarse la cara en la siguiente temporada.",
-      "keyPoints": [
-        "Un encuentro de relleno, que no cuenta con motivación deportiva —pese a que Cerro Porteño cumplía su mejor campaña en ocho ediciones del torneo de integración—; en la formación azulgrana, Gustavo Costas apostó por juveniles en…",
-        "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes.",
-        "Cerro Porteño y Libertad buscarán quedarse con el tercer lugar de la Copa Paraguay 2026, en un duelo que se disputará este jueves a las 19:30 en el Defensores del Chaco.",
-        "El técnico respondió sobre su permanencia, la postura de la dirigencia ante los objetivos de clasificación y el golpe anímico que dejó la derrota ante Nacional antes del próximo compromiso clave por el acumulativo ante Guaraní…"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Libertad golea a Cerro Porteño",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno",
-          "publishedAt": "2026-11-27T03:40:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iyp5q8feq0D9XsCJgD6fpgP-88M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LUBTVCCJTBBERISBTZVKUL3LMY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas: “Yo acá vine para ganar y no me voy a ir ni en pedo”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/26/gustavo-costas-yo-aca-vine-para-ganar-y-no-me-voy-a-ir-ni-en-pedo",
-          "publishedAt": "2026-11-27T01:49:05.000Z",
-          "image": "https://www.abc.com.py/resizer/1eiprKb_2ZznO_NkjAx23dajADQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PQ4HPPZW6RANPAGMZBL22AHAMA.jpeg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad se sube al podio goleando a un pálido Cerro Porteño",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/26/libertad-se-sube-al-podio-goleando-a-un-palido-cerro-porteno",
-          "publishedAt": "2026-11-27T00:24:20.000Z",
-          "image": "https://www.abc.com.py/resizer/LeAeQ1XP6PId-8sIndQLUhhY43Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z6CQUYEOSRGG3NMLC5BSGWIKPY.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "No hay copa, pero sí podio: Cerro Porteño y Libertad se juegan el tercer puesto",
-          "url": "https://www.npy.com.py/noticias/deportes/no-hay-copa-pero-si-podio-cerro-porteno-y-libertad-se-juegan-el-tercer-puesto",
-          "publishedAt": "2026-11-26T13:56:20.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Z6CQUYEOSRGG3NMLC5BSGWIKPY.jpeg?auth=40b9142c3a7d49451dc3ce4ef3f5531ccdade03391ae17f5d853f80089e9d403&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/26/libertad-se-sube-al-podio-goleando-a-un-palido-cerro-porteno"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 14.63
+      "score": 16.81
     },
     {
       "id": "ev-1koy072",
@@ -476,7 +523,109 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 14.34
+      "score": 14.01
+    },
+    {
+      "id": "ev-1tlnb42",
+      "title": "Olimpia visita a Sportivo Luqueño en Itauguá con pasillo de campeón y paternidad en juego",
+      "summary": "El pasillo hasta ahora virtual al monarca del torneo Clausura, Olimpia , sería concretado en la previa por el Sportivo Luqueño que oficia de local en el estadio del 12 de Octubre de Itauguá y que cuenta con un alarmante racha adversa contra su adversario de turno, al que medirá a partir de las 20:00.",
+      "keyPoints": [
+        "El pasillo hasta ahora virtual al monarca del torneo Clausura, Olimpia , sería concretado en la previa por el Sportivo Luqueño que oficia de local en el estadio del 12 de Octubre de Itauguá y que…",
+        "Olimpia , el bicampeón del fútbol paraguayo , enfrenta hoy a Sportivo Luqueño en el comienzo de la penúltima fecha del torneo Clausura 2026 .",
+        "Dos partidos dan inicio hoy a la penúltima jornada de la competición."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Sportivo Luqueño vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/27/sportivo-luqueno-vs-olimpia-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay",
+          "publishedAt": "2026-11-27T11:02:35.000Z",
+          "image": "https://www.abc.com.py/resizer/kWmP_M89MyO1GOmPsNgl6tdA4_w=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/U7G4DKSYYJH4DDHBGCHVKIZU7U.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Luqueño vs. Olimpia: pasillo a los campeones en Itauguá",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/27/luqueno-vs-olimpia-pasillo-a-los-campeones-en-itaugua",
+          "publishedAt": "2026-11-27T04:33:51.000Z",
+          "image": "https://www.abc.com.py/resizer/YJclwZZfxHNHFpCocuSK_OJkIjo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "El campeón se presenta en Itauguá",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/el-campeon-se-presenta-en-itaugua",
+          "publishedAt": "2026-11-27T03:35:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/THGMkGz_nHiU57AYOEIhYfN_LBk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/QWTOOXCKOZAIFOR3WGYU4HNZYY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg?auth=211adaea3268c8541458e80f1b7425f2820809777f8ac2cea4f7ef1cb97bc21b&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/27/luqueno-vs-olimpia-pasillo-a-los-campeones-en-itaugua"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
+      "updatedSlot": "manana",
+      "score": 10.91
+    },
+    {
+      "id": "ev-0sog6wz",
+      "title": "Senador Leite exige informes a entidades públicas sobre dinero colocado en Ueno Bank",
+      "summary": "El senador Gustavo Leite realizó un reclamo a las 12 instituciones públicas que a la fecha no están respondiendo al pedido de informes que ha solicitado sobre los movimientos financieros y bancarios, saldos y extractos de cuentas, entre otros datos, que realizaron através de Ueno Bank.",
+      "keyPoints": [
+        "El senador Gustavo Leite realizó un reclamo a las 12 instituciones públicas que a la fecha no están respondiendo al pedido de informes que ha solicitado sobre los movimientos financieros y bancarios, saldos y extractos de…",
+        "La lista está conformada por las dos entidades binacionales, ministerios y entes públicos así como varias cajas de jubilaciones y pensiones.",
+        "El senador de Honor Colorado, Gustavo Leite, lanzó fuertes cuestionamientos contra la administración del expresidente Santiago Peña, a la que responsabilizó por el deterioro de las finanzas públicas y el manejo de los recursos estatales comprometidos…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Leite apunta contra Peña y exige identificar a quienes ordenaron depositar dinero público en Ueno",
+          "url": "https://elnacional.com.py/politica/leite-apunta-pena-exige-identificar-quienes-ordenaron-depositar-dinero-publico-ueno-n115889",
+          "publishedAt": "2026-11-27T09:03:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6aef4cb4c329a.png"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Exigen informes a entidades públicas sobre dinero colocado en Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/27/exigen-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank",
+          "publishedAt": "2026-11-27T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/LixvRAVyMO31q4SKFccp7c7E6R8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BO4557R545DTHNVKZ6H3BIIGLA.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senador Leite exige informes a entidades públicas sobre dinero colocado en Ueno Bank",
+          "url": "https://www.lanacion.com.py/politica/2026/11/26/senador-leite-exige-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank",
+          "publishedAt": "2026-11-26T20:59:37.000Z",
+          "image": "https://www.lanacion.com.py/resizer/cQ0GJFApqn6PsCD79y2JsL7MeJE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/26/senador-leite-exige-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
+      "updatedSlot": "manana",
+      "score": 10.74
     },
     {
       "id": "ev-0qu3yjp",
@@ -527,7 +676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1nsx9v7",
@@ -578,7 +727,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.24
     },
     {
       "id": "ev-1hxe3w3",
@@ -629,7 +778,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 10.38
+      "score": 10.05
+    },
+    {
+      "id": "ev-1ozrk4m",
+      "title": "Diario ABC Color: Resumen de los títulos principales del 27 de Noviembre de 2026",
+      "summary": "Spotify: Apple Podcast: ingrese aquí . Soundcloud: ABC Cardinal 730 AM · 27 11 2026 Madrugada Abc Titulares de Abc Edición Impresa: aquí. LN",
+      "keyPoints": [
+        "Spotify: Apple Podcast: ingrese aquí .",
+        "LN"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Diario ABC Color: Resumen de los títulos principales del 27 de Noviembre de 2026",
+          "url": "https://www.abc.com.py/podcast-radio-abc-cardinal-730-am/2026/11/27/diario-abc-color-resumen-de-los-titulos-principales-del-27-de-noviembre-de-2026",
+          "publishedAt": "2026-11-27T08:44:44.000Z",
+          "image": "https://www.abc.com.py/resizer/qxwEpws6kAsJfFsfaPYJAr1QuyA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/DESUDTW47VEPZHURH6IIVBEZ6M.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Edición impresa, 27 de noviembre de 2026",
+          "url": "https://www.lanacion.com.py/tapa/2026/11/27/edicion-impresa-27-de-noviembre-de-2026",
+          "publishedAt": "2026-11-27T04:12:10.000Z",
+          "image": "https://www.lanacion.com.py/resizer/TMEwK8bbN6SaajRQqC800vdx3dA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JPTRBTZUPJDMTKJUEIL32HGWVM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/DESUDTW47VEPZHURH6IIVBEZ6M.jpeg?auth=129a4735c20fc648feb3931eda4528bb38700de1543a7fcd6d2c2eec96e23a22&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/podcast-radio-abc-cardinal-730-am/2026/11/27/diario-abc-color-resumen-de-los-titulos-principales-del-27-de-noviembre-de-2026"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T12:07:20.918Z",
+      "updatedSlot": "manana",
+      "score": 9.72
     },
     {
       "id": "ev-0ddl6a3",
@@ -680,7 +871,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T08:07:20.518Z",
       "updatedSlot": "manana",
-      "score": 9.93
+      "score": 9.6
     },
     {
       "id": "ev-1tvyjok",
@@ -727,7 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.86
+      "score": 9.53
     },
     {
       "id": "ev-0ybua0t",
@@ -769,7 +960,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.44
+      "score": 9.11
     },
     {
       "id": "ev-0ot2bvr",
@@ -811,7 +1002,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.41
+      "score": 9.08
     },
     {
       "id": "ev-0nv3ft4",
@@ -853,7 +1044,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.06
     },
     {
       "id": "ev-0c7xah0",
@@ -891,7 +1082,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.37
+      "score": 9.04
     },
     {
       "id": "ev-1mizs24",
@@ -933,7 +1124,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.3
+      "score": 8.97
     },
     {
       "id": "ev-0zo0o6n",
@@ -975,7 +1166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.22
+      "score": 8.89
     },
     {
       "id": "ev-0dky2m5",
@@ -1017,7 +1208,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.57
     },
     {
       "id": "ev-0u18tt1",
@@ -1059,7 +1250,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.61
+      "score": 8.28
     },
     {
       "id": "ev-1r06sgd",
@@ -1110,7 +1301,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 7.58
+      "score": 7.24
     },
     {
       "id": "ev-1fvc7ec",
@@ -1152,7 +1343,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.76
+      "score": 6.43
     },
     {
       "id": "ev-1pcrbmn",
@@ -1194,7 +1385,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.64
+      "score": 6.3
     },
     {
       "id": "ev-0m7gnas",
@@ -1236,7 +1427,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-14z1f2e",
@@ -1278,7 +1469,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-04yl9nj",
@@ -1320,49 +1511,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.58
-    },
-    {
-      "id": "ev-0sog6wz",
-      "title": "Senador Leite exige informes a entidades públicas sobre dinero colocado en Ueno Bank",
-      "summary": "El senador Gustavo Leite realizó un reclamo a las 12 instituciones públicas que a la fecha no están respondiendo al pedido de informes que ha solicitado sobre los movimientos financieros y bancarios, saldos y extractos de cuentas, entre otros datos, que realizaron através de Ueno Bank.",
-      "keyPoints": [
-        "El senador Gustavo Leite realizó un reclamo a las 12 instituciones públicas que a la fecha no están respondiendo al pedido de informes que ha solicitado sobre los movimientos financieros y bancarios, saldos y extractos de…",
-        "La lista está conformada por las dos entidades binacionales, ministerios y entes públicos así como varias cajas de jubilaciones y pensiones."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Exigen informes a entidades públicas sobre dinero colocado en Ueno Bank",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/27/exigen-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank",
-          "publishedAt": "2026-11-27T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/LixvRAVyMO31q4SKFccp7c7E6R8=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/BO4557R545DTHNVKZ6H3BIIGLA.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senador Leite exige informes a entidades públicas sobre dinero colocado en Ueno Bank",
-          "url": "https://www.lanacion.com.py/politica/2026/11/26/senador-leite-exige-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank",
-          "publishedAt": "2026-11-26T20:59:37.000Z",
-          "image": "https://www.lanacion.com.py/resizer/cQ0GJFApqn6PsCD79y2JsL7MeJE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/SWCIAHUHEBFFDKPVKLZK52LUNU.jpg?auth=1d524cf90b039bded0a53d6c247f748fd90c755aecb5c0ad9ffab63636cd6900&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/26/senador-leite-exige-informes-a-entidades-publicas-sobre-dinero-colocado-en-ueno-bank"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 6.58
+      "score": 6.24
     },
     {
       "id": "ev-1vkuzrn",
@@ -1404,7 +1553,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.5
+      "score": 6.17
     },
     {
       "id": "ev-0ib97oo",
@@ -1446,7 +1595,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.37
+      "score": 6.04
     },
     {
       "id": "ev-0dhadqe",
@@ -1488,7 +1637,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.21
+      "score": 5.88
     },
     {
       "id": "ev-1owj4ur",
@@ -1530,7 +1679,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.15
+      "score": 5.82
     },
     {
       "id": "ev-16br93x",
@@ -1563,73 +1712,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.71
-    },
-    {
-      "id": "ev-1tlnb42",
-      "title": "Luqueño vs. Olimpia: pasillo a los campeones en Itauguá",
-      "summary": "El pasillo hasta ahora virtual al monarca del torneo Clausura, Olimpia , sería concretado en la previa por el Sportivo Luqueño que oficia de local en el estadio del 12 de Octubre de Itauguá y que cuenta con un alarmante racha adversa contra su adversario de turno, al que medirá a partir de las 20:00.",
-      "keyPoints": [
-        "El pasillo hasta ahora virtual al monarca del torneo Clausura, Olimpia , sería concretado en la previa por el Sportivo Luqueño que oficia de local en el estadio del 12 de Octubre de Itauguá y que…"
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Luqueño vs. Olimpia: pasillo a los campeones en Itauguá",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/27/luqueno-vs-olimpia-pasillo-a-los-campeones-en-itaugua",
-          "publishedAt": "2026-11-27T04:33:51.000Z",
-          "image": "https://www.abc.com.py/resizer/YJclwZZfxHNHFpCocuSK_OJkIjo=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/5XJMJ7RPRJDK7JOBMWU3X4Q76A.jpg?auth=211adaea3268c8541458e80f1b7425f2820809777f8ac2cea4f7ef1cb97bc21b&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/27/luqueno-vs-olimpia-pasillo-a-los-campeones-en-itaugua"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 5.7
-    },
-    {
-      "id": "ev-1ozrk4m",
-      "title": "Edición impresa, 27 de noviembre de 2026",
-      "summary": "LN",
-      "keyPoints": [
-        "LN"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Edición impresa, 27 de noviembre de 2026",
-          "url": "https://www.lanacion.com.py/tapa/2026/11/27/edicion-impresa-27-de-noviembre-de-2026",
-          "publishedAt": "2026-11-27T04:12:10.000Z",
-          "image": "https://www.lanacion.com.py/resizer/TMEwK8bbN6SaajRQqC800vdx3dA=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/JPTRBTZUPJDMTKJUEIL32HGWVM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/JPTRBTZUPJDMTKJUEIL32HGWVM.jpg?auth=7850c1a0b8e672a2b5d5dcfaf843506cb446eb8168139ea96795088a087f6c81&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/tapa/2026/11/27/edicion-impresa-27-de-noviembre-de-2026"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 5.67
+      "score": 5.38
     },
     {
       "id": "ev-0653q2k",
@@ -1662,7 +1745,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0j90i3j",
@@ -1691,7 +1774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1w9ho8d",
@@ -1724,7 +1807,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0vkuxh7",
@@ -1757,7 +1840,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1nxstb6",
@@ -1790,7 +1873,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1x6a4jb",
@@ -1823,7 +1906,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-0hz3ydi",
@@ -1856,7 +1939,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.66
+      "score": 5.32
     },
     {
       "id": "ev-1om13yw",
@@ -1898,7 +1981,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.62
+      "score": 5.29
     },
     {
       "id": "ev-0wm6blo",
@@ -1931,7 +2014,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.61
+      "score": 5.27
     },
     {
       "id": "ev-11gmhzb",
@@ -1964,7 +2047,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.59
+      "score": 5.26
     },
     {
       "id": "ev-0d8v8ul",
@@ -1997,7 +2080,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.58
+      "score": 5.24
     },
     {
       "id": "ev-1hfaz6p",
@@ -2030,7 +2113,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.2
+      "score": 4.86
     },
     {
       "id": "ev-0gimm8s",
@@ -2077,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.17
+      "score": 4.84
     },
     {
       "id": "ev-1g6yaoz",
@@ -2110,7 +2193,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.97
+      "score": 4.64
     },
     {
       "id": "ev-0stkmot",
@@ -2143,7 +2226,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.72
+      "score": 4.39
     },
     {
       "id": "ev-0woiurp",
@@ -2176,7 +2259,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.64
+      "score": 4.3
     },
     {
       "id": "ev-1qcqa0k",
@@ -2209,7 +2292,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.43
+      "score": 4.1
     }
   ],
   "runs": [
@@ -2226,6 +2309,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 8
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-27T12:07:20.918Z",
+      "added": 0,
+      "updated": 6,
+      "candidates": 9
     }
   ]
 }
