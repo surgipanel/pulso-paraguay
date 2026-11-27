@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-27T16:07:15.625Z",
+  "generatedAt": "2026-11-27T19:37:15.973Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -152,7 +152,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T16:07:15.625Z",
       "updatedSlot": "tarde",
-      "score": 26.84
+      "score": 26.55
     },
     {
       "id": "ev-1ipj4g4",
@@ -260,7 +260,81 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T16:07:15.625Z",
       "updatedSlot": "tarde",
-      "score": 20.9
+      "score": 20.61
+    },
+    {
+      "id": "ev-0kz9d04",
+      "title": "Como un paseo en la huerta: Libertad se quedó con el podio de la Copa Paraguay",
+      "summary": "Libertad goleó a Cerro Porteño en el estadio Defensores del Chaco y se quedó con el tercer puesto de la Copa Paraguay 2026. El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes.",
+      "keyPoints": [
+        "Libertad goleó a Cerro Porteño en el estadio Defensores del Chaco y se quedó con el tercer puesto de la Copa Paraguay 2026.",
+        "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "Como un paseo en la huerta: Libertad se quedó con el podio de la Copa Paraguay",
+          "url": "https://www.npy.com.py/noticias/deportes/como-un-paseo-en-la-huerta-libertad-se-quedo-con-el-podio-de-la-copa-paraguay",
+          "publishedAt": "2026-11-27T16:21:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Libertad golea a Cerro Porteño",
+          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno",
+          "publishedAt": "2026-11-27T03:40:34.000Z",
+          "image": "https://www.lanacion.com.py/resizer/iyp5q8feq0D9XsCJgD6fpgP-88M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LUBTVCCJTBBERISBTZVKUL3LMY.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Gustavo Costas: “Yo acá vine para ganar y no me voy a ir ni en pedo”",
+          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/26/gustavo-costas-yo-aca-vine-para-ganar-y-no-me-voy-a-ir-ni-en-pedo",
+          "publishedAt": "2026-11-27T01:49:05.000Z",
+          "image": "https://www.abc.com.py/resizer/1eiprKb_2ZznO_NkjAx23dajADQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PQ4HPPZW6RANPAGMZBL22AHAMA.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Cerro Porteño consigue un fallo parcial en su reclamo arbitral",
+          "url": "https://elnacional.com.py/deportes/cerro-porteno-consigue-fallo-parcial-su-reclamo-arbitral-n115887",
+          "publishedAt": "2026-11-27T00:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b08d5291ae86.webp"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Libertad se sube al podio goleando a un pálido Cerro Porteño",
+          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/26/libertad-se-sube-al-podio-goleando-a-un-palido-cerro-porteno",
+          "publishedAt": "2026-11-27T00:24:20.000Z",
+          "image": "https://www.abc.com.py/resizer/LeAeQ1XP6PId-8sIndQLUhhY43Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z6CQUYEOSRGG3NMLC5BSGWIKPY.jpeg"
+        },
+        {
+          "sourceId": "npy",
+          "sourceName": "NPY",
+          "title": "No hay copa, pero sí podio: Cerro Porteño y Libertad se juegan el tercer puesto",
+          "url": "https://www.npy.com.py/noticias/deportes/no-hay-copa-pero-si-podio-cerro-porteno-y-libertad-se-juegan-el-tercer-puesto",
+          "publishedAt": "2026-11-26T13:56:20.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LUBTVCCJTBBERISBTZVKUL3LMY.jpg?auth=81669b3df9283c7502d9d95c27718e8f2ccb15281e95d8a69ef8836327d5e7d6&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T19:37:15.973Z",
+      "updatedSlot": "tarde",
+      "score": 17.73
     },
     {
       "id": "ev-1koy072",
@@ -344,74 +418,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T16:07:15.625Z",
       "updatedSlot": "tarde",
-      "score": 17.98
-    },
-    {
-      "id": "ev-0kz9d04",
-      "title": "Libertad golea a Cerro Porteño",
-      "summary": "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes. Cerro Porteño y Libertad buscarán quedarse con el tercer lugar de la Copa Paraguay 2026, en un duelo que se disputará este jueves a las 19:30 en el Defensores del Chaco.",
-      "keyPoints": [
-        "El Repollero se impuso 3-0 y llevó el premio de 100 millones de guaraníes.",
-        "Cerro Porteño y Libertad buscarán quedarse con el tercer lugar de la Copa Paraguay 2026, en un duelo que se disputará este jueves a las 19:30 en el Defensores del Chaco.",
-        "El pedido azulgrana apuntaba a sanciones de hasta un año de suspensión para la terna."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Libertad golea a Cerro Porteño",
-          "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno",
-          "publishedAt": "2026-11-27T03:40:34.000Z",
-          "image": "https://www.lanacion.com.py/resizer/iyp5q8feq0D9XsCJgD6fpgP-88M=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LUBTVCCJTBBERISBTZVKUL3LMY.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Gustavo Costas: “Yo acá vine para ganar y no me voy a ir ni en pedo”",
-          "url": "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/11/26/gustavo-costas-yo-aca-vine-para-ganar-y-no-me-voy-a-ir-ni-en-pedo",
-          "publishedAt": "2026-11-27T01:49:05.000Z",
-          "image": "https://www.abc.com.py/resizer/1eiprKb_2ZznO_NkjAx23dajADQ=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/PQ4HPPZW6RANPAGMZBL22AHAMA.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Cerro Porteño consigue un fallo parcial en su reclamo arbitral",
-          "url": "https://elnacional.com.py/deportes/cerro-porteno-consigue-fallo-parcial-su-reclamo-arbitral-n115887",
-          "publishedAt": "2026-11-27T00:55:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b08d5291ae86.webp"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Libertad se sube al podio goleando a un pálido Cerro Porteño",
-          "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/26/libertad-se-sube-al-podio-goleando-a-un-palido-cerro-porteno",
-          "publishedAt": "2026-11-27T00:24:20.000Z",
-          "image": "https://www.abc.com.py/resizer/LeAeQ1XP6PId-8sIndQLUhhY43Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Z6CQUYEOSRGG3NMLC5BSGWIKPY.jpeg"
-        },
-        {
-          "sourceId": "npy",
-          "sourceName": "NPY",
-          "title": "No hay copa, pero sí podio: Cerro Porteño y Libertad se juegan el tercer puesto",
-          "url": "https://www.npy.com.py/noticias/deportes/no-hay-copa-pero-si-podio-cerro-porteno-y-libertad-se-juegan-el-tercer-puesto",
-          "publishedAt": "2026-11-26T13:56:20.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/LUBTVCCJTBBERISBTZVKUL3LMY.jpg?auth=81669b3df9283c7502d9d95c27718e8f2ccb15281e95d8a69ef8836327d5e7d6&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/libertad-golea-a-cerro-porteno"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T12:07:20.918Z",
-      "updatedSlot": "manana",
-      "score": 16.96
+      "score": 17.69
     },
     {
       "id": "ev-01jc8yv",
@@ -503,7 +510,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 16.91
+      "score": 16.62
     },
     {
       "id": "ev-1el5wqb",
@@ -563,7 +570,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T08:07:20.518Z",
       "updatedSlot": "manana",
-      "score": 16.47
+      "score": 16.18
     },
     {
       "id": "ev-1tlnb42",
@@ -614,7 +621,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T12:07:20.918Z",
       "updatedSlot": "manana",
-      "score": 10.58
+      "score": 10.29
     },
     {
       "id": "ev-0sog6wz",
@@ -665,7 +672,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T12:07:20.918Z",
       "updatedSlot": "manana",
-      "score": 10.41
+      "score": 10.12
     },
     {
       "id": "ev-0qu3yjp",
@@ -716,7 +723,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1nsx9v7",
@@ -767,7 +774,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1hxe3w3",
@@ -818,7 +825,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.71
+      "score": 9.42
     },
     {
       "id": "ev-1ozrk4m",
@@ -860,7 +867,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T12:07:20.918Z",
       "updatedSlot": "manana",
-      "score": 9.39
+      "score": 9.09
     },
     {
       "id": "ev-0ddl6a3",
@@ -911,7 +918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T08:07:20.518Z",
       "updatedSlot": "manana",
-      "score": 9.27
+      "score": 9
     },
     {
       "id": "ev-1tvyjok",
@@ -958,7 +965,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 9.19
+      "score": 9
     },
     {
       "id": "ev-0ybua0t",
@@ -1000,7 +1007,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.77
+      "score": 8.48
     },
     {
       "id": "ev-0ot2bvr",
@@ -1042,7 +1049,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.75
+      "score": 8.46
     },
     {
       "id": "ev-0nv3ft4",
@@ -1084,7 +1091,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.72
+      "score": 8.43
     },
     {
       "id": "ev-0c7xah0",
@@ -1122,7 +1129,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.7
+      "score": 8.41
     },
     {
       "id": "ev-1mizs24",
@@ -1164,7 +1171,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.63
+      "score": 8.34
     },
     {
       "id": "ev-0zo0o6n",
@@ -1206,7 +1213,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.55
+      "score": 8.26
     },
     {
       "id": "ev-0dky2m5",
@@ -1248,7 +1255,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-0u18tt1",
@@ -1341,7 +1348,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.91
+      "score": 6.62
     },
     {
       "id": "ev-1fvc7ec",
@@ -1383,7 +1390,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 6.09
+      "score": 5.8
     },
     {
       "id": "ev-1pcrbmn",
@@ -1425,7 +1432,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.68
     },
     {
       "id": "ev-0m7gnas",
@@ -1467,7 +1474,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-14z1f2e",
@@ -1509,7 +1516,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-04yl9nj",
@@ -1551,7 +1558,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1vkuzrn",
@@ -1593,49 +1600,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.83
-    },
-    {
-      "id": "ev-0ib97oo",
-      "title": "AUDIO: IPS explica cobertura de 60 días y opciones para trabajadores del Grupo Vázquez",
-      "summary": "ABC Cardinal 730 AM · 26 11 2026 Periodísticamente - Enrique Galeano - Director jurídico de IPS ABC Cardinal 730 AM · 26 11 2026 Conferencia del BCP",
-      "keyPoints": [
-        "ABC Cardinal 730 AM · 26 11 2026 Periodísticamente - Enrique Galeano - Director jurídico de IPS",
-        "ABC Cardinal 730 AM · 26 11 2026 Conferencia del BCP"
-      ],
-      "category": "economia",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: BCP estima que la próxima semana empezará rescate a ahorristas y mipymes pendientes",
-          "url": "https://www.abc.com.py/730am/ancho-perfil/2026/11/26/audio-bcp-estima-que-la-proxima-semana-empezara-rescate-a-ahorristas-y-mipymes-pendientes",
-          "publishedAt": "2026-11-27T00:35:28.000Z",
-          "image": "https://www.abc.com.py/resizer/RtEJTiuuzxr-AaUXOJWuBOqMRYY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CSLMLU2LWBAWZEUARDHIOUP7GI.jpg"
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "AUDIO: IPS explica cobertura de 60 días y opciones para trabajadores del Grupo Vázquez",
-          "url": "https://www.abc.com.py/730am/periodisticamente/2026/11/26/audio-ips-explica-cobertura-de-60-dias-y-opciones-para-trabajadores-del-grupo-vazquez",
-          "publishedAt": "2026-11-27T00:32:04.000Z",
-          "image": "https://www.abc.com.py/resizer/xF8hHlTU232WSz0l652zp2AYjcw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/R57RNG3XN5F3PIBJ3FLNI4DFN4.webp"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/R57RNG3XN5F3PIBJ3FLNI4DFN4.webp?auth=3a3abdceb0c219e13c18593e1d9b9c45e0a6e90876d8fd84c48fbb3c137ca678&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/730am/periodisticamente/2026/11/26/audio-ips-explica-cobertura-de-60-dias-y-opciones-para-trabajadores-del-grupo-vazquez"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 5.71
+      "score": 5.54
     },
     {
       "id": "ev-0dhadqe",
@@ -1677,7 +1642,49 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.55
+      "score": 5.5
+    },
+    {
+      "id": "ev-0ib97oo",
+      "title": "AUDIO: IPS explica cobertura de 60 días y opciones para trabajadores del Grupo Vázquez",
+      "summary": "ABC Cardinal 730 AM · 26 11 2026 Periodísticamente - Enrique Galeano - Director jurídico de IPS ABC Cardinal 730 AM · 26 11 2026 Conferencia del BCP",
+      "keyPoints": [
+        "ABC Cardinal 730 AM · 26 11 2026 Periodísticamente - Enrique Galeano - Director jurídico de IPS",
+        "ABC Cardinal 730 AM · 26 11 2026 Conferencia del BCP"
+      ],
+      "category": "economia",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: BCP estima que la próxima semana empezará rescate a ahorristas y mipymes pendientes",
+          "url": "https://www.abc.com.py/730am/ancho-perfil/2026/11/26/audio-bcp-estima-que-la-proxima-semana-empezara-rescate-a-ahorristas-y-mipymes-pendientes",
+          "publishedAt": "2026-11-27T00:35:28.000Z",
+          "image": "https://www.abc.com.py/resizer/RtEJTiuuzxr-AaUXOJWuBOqMRYY=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/CSLMLU2LWBAWZEUARDHIOUP7GI.jpg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "AUDIO: IPS explica cobertura de 60 días y opciones para trabajadores del Grupo Vázquez",
+          "url": "https://www.abc.com.py/730am/periodisticamente/2026/11/26/audio-ips-explica-cobertura-de-60-dias-y-opciones-para-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-27T00:32:04.000Z",
+          "image": "https://www.abc.com.py/resizer/xF8hHlTU232WSz0l652zp2AYjcw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/R57RNG3XN5F3PIBJ3FLNI4DFN4.webp"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/R57RNG3XN5F3PIBJ3FLNI4DFN4.webp?auth=3a3abdceb0c219e13c18593e1d9b9c45e0a6e90876d8fd84c48fbb3c137ca678&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/730am/periodisticamente/2026/11/26/audio-ips-explica-cobertura-de-60-dias-y-opciones-para-trabajadores-del-grupo-vazquez"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T04:55:41.554Z",
+      "updatedSlot": "manana",
+      "score": 5.41
     },
     {
       "id": "ev-1owj4ur",
@@ -1719,40 +1726,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 5.49
-    },
-    {
-      "id": "ev-16br93x",
-      "title": "Nacional vs. Rubio Ñu: fútbol profesional con entradas a 5.000 guaraníes",
-      "summary": "Con la clasificación asegurada a la fase de grupos de la Copa Paraguay , Nacional juega este viernes contra el descendido Rubio Ñu , a las 17:30, por la vigesimoprimera fecha (penúltima) del campeonato Clausura 2026. Lea más : El 2 de Mayo llega casi al límite en el “minutaje” Sub 19 La decisión de fijar las entradas en 5.000 guaraníes (para cualquier sector) es una acertada de la dirigencia académica, más aún para este tramo del penúltimo mes del año.",
-      "keyPoints": [
-        "Con la clasificación asegurada a la fase de grupos de la Copa Paraguay , Nacional juega este viernes contra el descendido Rubio Ñu , a las 17:30, por la vigesimoprimera fecha (penúltima) del campeonato Clausura 2026."
-      ],
-      "category": "deportes",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Nacional vs. Rubio Ñu: fútbol profesional con entradas a 5.000 guaraníes",
-          "url": "https://www.abc.com.py/deportes/futbol/2026/11/27/nacional-vs-rubio-nu-futbol-profesional-con-entradas-a-5000-guaranies",
-          "publishedAt": "2026-11-27T04:39:44.000Z",
-          "image": "https://www.abc.com.py/resizer/_k-uwhGGt5DlHtSfwPjllAnNxXU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F6ZPYAIPS5HGTHW3XRE54IQGIU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F6ZPYAIPS5HGTHW3XRE54IQGIU.jpg?auth=e5215446dfa4282e325d2d64e97b7a192a688f44d212481273abe4e2cc0b24f9&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/27/nacional-vs-rubio-nu-futbol-profesional-con-entradas-a-5000-guaranies"
-      },
-      "firstSeenAt": "2026-11-27T04:55:41.554Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-27T04:55:41.554Z",
-      "updatedSlot": "manana",
-      "score": 5.05
+      "score": 5.2
     },
     {
       "id": "ev-1om13yw",
@@ -1797,6 +1771,39 @@
       "score": 5
     },
     {
+      "id": "ev-16br93x",
+      "title": "Nacional vs. Rubio Ñu: fútbol profesional con entradas a 5.000 guaraníes",
+      "summary": "Con la clasificación asegurada a la fase de grupos de la Copa Paraguay , Nacional juega este viernes contra el descendido Rubio Ñu , a las 17:30, por la vigesimoprimera fecha (penúltima) del campeonato Clausura 2026. Lea más : El 2 de Mayo llega casi al límite en el “minutaje” Sub 19 La decisión de fijar las entradas en 5.000 guaraníes (para cualquier sector) es una acertada de la dirigencia académica, más aún para este tramo del penúltimo mes del año.",
+      "keyPoints": [
+        "Con la clasificación asegurada a la fase de grupos de la Copa Paraguay , Nacional juega este viernes contra el descendido Rubio Ñu , a las 17:30, por la vigesimoprimera fecha (penúltima) del campeonato Clausura 2026."
+      ],
+      "category": "deportes",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Nacional vs. Rubio Ñu: fútbol profesional con entradas a 5.000 guaraníes",
+          "url": "https://www.abc.com.py/deportes/futbol/2026/11/27/nacional-vs-rubio-nu-futbol-profesional-con-entradas-a-5000-guaranies",
+          "publishedAt": "2026-11-27T04:39:44.000Z",
+          "image": "https://www.abc.com.py/resizer/_k-uwhGGt5DlHtSfwPjllAnNxXU=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/F6ZPYAIPS5HGTHW3XRE54IQGIU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/F6ZPYAIPS5HGTHW3XRE54IQGIU.jpg?auth=e5215446dfa4282e325d2d64e97b7a192a688f44d212481273abe4e2cc0b24f9&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/deportes/futbol/2026/11/27/nacional-vs-rubio-nu-futbol-profesional-con-entradas-a-5000-guaranies"
+      },
+      "firstSeenAt": "2026-11-27T04:55:41.554Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-27T04:55:41.554Z",
+      "updatedSlot": "manana",
+      "score": 4.75
+    },
+    {
       "id": "ev-0653q2k",
       "title": "Horóscopo de hoy: día viernes 27 de noviembre para todos los signos",
       "summary": "CELEBRIDADES NACIDAS ESTE DÍA: Alison Pill, 41; Jaleel White, 50; Fisher Stevens, 63; Kathryn Bigelow, 75. FELIZ CUMPLEAÑOS: las decisiones precipitadas causarán errores costosos. Tómese su tiempo, infórmese y compare opciones. Cíñase a un presupuesto. Puede hacer mucho para reevaluar su estilo de vida, lugar de residencia y costo de vida si elimina gastos innecesarios y se concentra en saldar sus deudas.",
@@ -1827,7 +1834,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0j90i3j",
@@ -1856,7 +1863,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1w9ho8d",
@@ -1889,7 +1896,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0vkuxh7",
@@ -1922,7 +1929,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1nxstb6",
@@ -1955,7 +1962,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1x6a4jb",
@@ -1988,7 +1995,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0hz3ydi",
@@ -2021,7 +2028,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0wm6blo",
@@ -2054,7 +2061,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.94
+      "score": 4.65
     },
     {
       "id": "ev-11gmhzb",
@@ -2087,7 +2094,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.93
+      "score": 4.64
     },
     {
       "id": "ev-0d8v8ul",
@@ -2120,7 +2127,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.91
+      "score": 4.62
     },
     {
       "id": "ev-1hfaz6p",
@@ -2153,7 +2160,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.53
+      "score": 4.24
     },
     {
       "id": "ev-0gimm8s",
@@ -2200,7 +2207,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.5
+      "score": 4.21
     },
     {
       "id": "ev-1g6yaoz",
@@ -2233,7 +2240,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.31
+      "score": 4.02
     },
     {
       "id": "ev-0stkmot",
@@ -2266,7 +2273,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-27T04:55:41.554Z",
       "updatedSlot": "manana",
-      "score": 4.06
+      "score": 4
     },
     {
       "id": "ev-0woiurp",
@@ -2363,6 +2370,13 @@
       "added": 0,
       "updated": 3,
       "candidates": 9
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-27T19:37:15.973Z",
+      "added": 0,
+      "updated": 1,
+      "candidates": 11
     }
   ]
 }
