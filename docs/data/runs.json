@@ -1,5 +1,37 @@
 [
   {
+    "startedAt": "2026-11-28T19:37:10.756Z",
+    "finishedAt": "2026-11-28T19:38:46.544Z",
+    "edition": "2026-11-28",
+    "slot": "tarde",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 252,
+    "clusters": 209,
+    "candidates": 7,
+    "added": 0,
+    "updated": 4,
+    "eventsTotal": 50,
+    "sourcesOk": 7,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChVtgef7h9ib2wW4gpjRn\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChVtgf5fKyXuagbmmDFtD\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 7
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-28T16:07:20.336Z",
     "finishedAt": "2026-11-28T16:08:56.221Z",
     "edition": "2026-11-28",
@@ -2620,37 +2652,6 @@
       "cacheReadTokens": 0,
       "cacheWriteTokens": 0,
       "fallbacks": 60
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-11-16T02:40:56.826Z",
-    "finishedAt": "2026-11-16T02:42:35.850Z",
-    "edition": "2026-11-15",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 248,
-    "clusters": 207,
-    "candidates": 6,
-    "added": 0,
-    "updated": 1,
-    "eventsTotal": 50,
-    "sourcesOk": 7,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 0,
-      "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch5qVDdxWcVNahgtQjZD6\"}"
-      ],
-      "inputTokens": 0,
-      "outputTokens": 0,
-      "cacheReadTokens": 0,
-      "cacheWriteTokens": 0,
-      "fallbacks": 6
     },
     "forced": false
   }

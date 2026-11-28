@@ -1,20 +1,20 @@
 {
   "date": "2026-11-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-28T16:07:20.336Z",
+  "generatedAt": "2026-11-28T19:37:10.756Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
   "events": [
     {
       "id": "ev-04xoobc",
-      "title": "Fernández Valdovinos se entrega a la Justicia y queda detenido por el caso Ueno",
-      "summary": "El exministro de Economía y Finanzas, Carlos Fernández Valdovinos, se entregó a la Justicia de este viernes y quedó detenido en el marco de la investigación por el caso ueno bank. El exfuncionario está imputado por presuntos hechos de lavado de dinero y otros delitos vinculados a operaciones financieras y al manejo de recursos públicos.",
+      "title": "Caso Ueno: imputan a Fernández Valdovinos y piden su prisión preventiva",
+      "summary": "El exministro de Economía y Finanzas, Carlos Fernández Valdovinos, fue imputado por lavado de dinero, administración en provecho propio, asociación criminal y cohecho pasivo agravado. La Fiscalía solicitó su prisión preventiva. El exministro de Economía y Finanzas se presentó este sábado ante la Unidad Especializada de Delitos Económicos y Anticorrupción (UDEA), en el marco de la investigación fiscal.",
       "keyPoints": [
-        "El exministro de Economía y Finanzas, Carlos Fernández Valdovinos, se entregó a la Justicia de este viernes y quedó detenido en el marco de la investigación por el caso ueno bank.",
-        "La Fiscalía emitió una orden de captura en horas de la mañana de ayer y la vivienda del exalto funcionario del gobierno de Santiago Peña fue allanada.",
-        "La Fiscalía y la Policía realizaron un operativo en la residencia del exministro, en el barrio Santo Domingo, en cumplimiento de una orden de detención.",
-        "Uno de los fiscales del equipo investigador, Christian Benítez, dijo a los periodistas que el Ministerio Público también pidió la prisión preventiva de Fernández, quien estuvo al frente de la cartera de Economía entre agosto de…"
+        "El exministro de Economía y Finanzas, Carlos Fernández Valdovinos, fue imputado por lavado de dinero, administración en provecho propio, asociación criminal y cohecho pasivo agravado.",
+        "El exministro de Economía y Finanzas se presentó este sábado ante la Unidad Especializada de Delitos Económicos y Anticorrupción (UDEA), en el marco de la investigación fiscal.",
+        "abccolor · 28 11 2026 Diego Díaz (Carlos Fernández Valdovinos)",
+        "El exministro de Economía se abstuvo de declarar ante el Ministerio Público."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -22,6 +22,22 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Imposición de medidas a Fernández Valdovinos se dará esta tarde",
+          "url": "https://www.lanacion.com.py/politica/2026/11/28/imposicion-de-medidas-a-fernandez-valdovinos-se-dara-esta-tarde",
+          "publishedAt": "2026-11-28T17:44:48.000Z",
+          "image": "https://www.lanacion.com.py/resizer/IQR3V70ye-98vhCd1un2CT05Uas=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S3YZKZNWVNDBRJDU3X5DWX2RAI.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Imputan a Fernández Valdovinos por cuatro delitos y solicitan su prisión preventiva",
+          "url": "https://elnacional.com.py/politica/imputan-fernandez-valdovinos-cuatro-delitos-solicitan-su-prision-preventiva-n116002",
+          "publishedAt": "2026-11-28T16:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b0af9732e4da.jpg"
+        },
         {
           "sourceId": "abc",
           "sourceName": "ABC Color",
@@ -192,15 +208,15 @@
         }
       ],
       "image": {
-        "url": "https://statics.elnacional.com.py/2026/03/69b15c98750f0.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/politica/fernandez-valdovinos-entrega-justicia-queda-detenido-caso-ueno-n115937"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/FY6LQF3IR5BXDAFLNTF77CYHVM.jpeg?auth=c645dcc7917be10fbbcfe2761f3d4b55b3d1f44c395f51cae98035c66bfd2179&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/judiciales/2026/11/28/caso-ueno-imputan-a-fernandez-valdovinos-y-piden-su-prision-preventiva"
       },
       "firstSeenAt": "2026-11-28T04:41:26.664Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-28T16:07:20.336Z",
+      "updatedAt": "2026-11-28T19:37:10.756Z",
       "updatedSlot": "tarde",
-      "score": 26.96
+      "score": 26.84
     },
     {
       "id": "ev-028nfda",
@@ -315,7 +331,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T16:07:20.336Z",
       "updatedSlot": "tarde",
-      "score": 20.76
+      "score": 20.47
     },
     {
       "id": "ev-1nue3ut",
@@ -383,7 +399,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 17.1
+      "score": 16.81
     },
     {
       "id": "ev-0c9xhdb",
@@ -467,7 +483,107 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T16:07:20.336Z",
       "updatedSlot": "tarde",
-      "score": 14.72
+      "score": 14.43
+    },
+    {
+      "id": "ev-1cu8zxy",
+      "title": "Hambre Cero bajo la lupa: Proponen crear comisión bicameral para auditar los fondos",
+      "summary": "Surgió una iniciativa para crear una comisión bicameral encargada de fiscalizar el manejo del programa Hambre Cero. De aprobarse, estaría integrada por 10 legisladores de ambas Cámaras del Congreso y tendría potestad de realizar inspecciones sorpresa en las escuelas. Además, habilitaría canales…",
+      "keyPoints": [
+        "Surgió una iniciativa para crear una comisión bicameral encargada de fiscalizar el manejo del programa Hambre Cero."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Hambre Cero bajo la lupa: Proponen crear comisión bicameral para auditar los fondos",
+          "url": "https://www.ultimahora.com/hambre-cero-bajo-la-lupa-proponen-crear-comision-bicameral-para-auditar-los-fondos",
+          "publishedAt": "2026-11-28T18:54:51.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Los ajustes presupuestarios dan margen a Hambre Cero",
+          "url": "https://www.lanacion.com.py/editorial/2026/11/28/los-ajustes-presupuestarios-dan-margen-a-hambre-cero",
+          "publishedAt": "2026-11-28T03:02:00.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Diputados analizarán la creación de una Comisión Bicameral para auditar fondos de “Hambre Cero”",
+          "url": "https://www.abc.com.py/politica/2026/11/27/diputados-analizaran-la-creacion-de-una-comision-bicameral-para-auditar-fondos-de-hambre-cero",
+          "publishedAt": "2026-11-27T22:08:13.000Z",
+          "image": "https://www.abc.com.py/resizer/EjpZiRIkYAuziQvi_iVWEkbaELM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/T72767VMFFAD7GZ3BIZKG2UB2U.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/T72767VMFFAD7GZ3BIZKG2UB2U.jpg?auth=b519afd62ae8ee863236fcdf34eeee7b6db93d58a7617c55b81f04807bf0caf0&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/27/diputados-analizaran-la-creacion-de-una-comision-bicameral-para-auditar-fondos-de-hambre-cero"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T19:37:10.756Z",
+      "updatedSlot": "tarde",
+      "score": 13.94
+    },
+    {
+      "id": "ev-0fwowfs",
+      "title": "Obras de Haendel y Bach se cruzarán en el Concierto de Navidad de la Embajada de Alemania",
+      "summary": "El Bach Collegium de Asunción , el ensamble vocal instrumental de la Sociedad Bach del Paraguay , protagonizará este martes 1 de diciembre el Concierto de Navidad de la Embajada de Alemania en Paraguay. Ricardo Flecha llega con “Una Flecha en el aire” al Centro Cultural Casa del Trovador La presentación será a las 19:30, en la Capellanía Virgen de la Asunción (ex Seminario Metropolitano - Avda.",
+      "keyPoints": [
+        "El Bach Collegium de Asunción , el ensamble vocal instrumental de la Sociedad Bach del Paraguay , protagonizará este martes 1 de diciembre el Concierto de Navidad de la Embajada de Alemania en Paraguay.",
+        "Para el próximo martes 1 de diciembre está previsto el tradicional Concierto de Navidad de la Embajada de Alemania en Paraguay que invita a disfrutar de obras del barroco alemán y villancicos",
+        "El Bach Collegium de Asunción, dirigido por Diego Sánchez Haase, interpretará obras de Haendel y Bach e invitará al público a cantar villancicos universales y paraguayos."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Obras de Haendel y Bach se cruzarán en el Concierto de Navidad de la Embajada de Alemania",
+          "url": "https://www.abc.com.py/espectaculos/musica/2026/11/28/obras-de-haendel-y-bach-se-cruzaran-en-el-concierto-de-navidad-de-la-embajada-de-alemania",
+          "publishedAt": "2026-11-28T18:49:40.000Z",
+          "image": "https://www.abc.com.py/resizer/41paVIGpmWhM88mjG_wDAvBM6XA=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SEUJUJEIMVEFBPL2GGUIT7KXBE.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "El Bach Collegium de Asunción cierra su temporada con Haendel, Bach y villancicos",
+          "url": "https://elnacional.com.py/agenda-cultural/el-bach-collegium-asuncion-cierra-su-temporada-haendel-bach-villancicos-n115977",
+          "publishedAt": "2026-11-28T14:55:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b0aeb6a4b812.jpeg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Concierto de Navidad de la embajada alemana",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/concierto-de-navidad-de-la-embajada-alemana",
+          "publishedAt": "2026-11-28T04:11:07.000Z",
+          "image": "https://www.lanacion.com.py/resizer/rpxpQYw6kePpYSMA_u4ivq_QcyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6R6HMIB3HFGWNBJLUAUBRUETYU.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/SEUJUJEIMVEFBPL2GGUIT7KXBE.jpg?auth=d2faad3cfbbcd83941ec56465f18842897fd423730e40db913ea7e14d5e84ae4&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/espectaculos/musica/2026/11/28/obras-de-haendel-y-bach-se-cruzaran-en-el-concierto-de-navidad-de-la-embajada-de-alemania"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T19:37:10.756Z",
+      "updatedSlot": "tarde",
+      "score": 13.93
     },
     {
       "id": "ev-0y2ccdj",
@@ -549,7 +665,57 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 13.91
+      "score": 13.62
+    },
+    {
+      "id": "ev-1r3ql0v",
+      "title": "Alliana dispone “reestructuración” del cuadro de oficiales de las FF.AA.",
+      "summary": "El titular del Poder Ejecutivo, Pedro Alliana , firmó hoy el decreto N° 7284 , por el cual “reestructura el cuadro de Oficiales Generales y Almirantes de las Fuerzas Armadas de la Nación, en tiempo de paz y establece los cargos privativos” en la institución castrense.",
+      "keyPoints": [
+        "El titular del Poder Ejecutivo, Pedro Alliana , firmó hoy el decreto N° 7284 , por el cual “reestructura el cuadro de Oficiales Generales y Almirantes de las Fuerzas Armadas de la Nación, en tiempo de…",
+        "El presidente de la República y comandante en jefe de las Fuerzas Armadas, Pedro Alliana, introdujo modificaciones en la estructura jerárquica de la institución castrense, mediante un decreto firmado el viernes 27 de noviembre."
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Alliana redefine la estructura del alto mando militar",
+          "url": "https://elnacional.com.py/politica/alliana-redefine-estructura-alto-mando-militar-n115953",
+          "publishedAt": "2026-11-28T12:00:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6afef1cbd6aaa.jpeg"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Alliana dispone “reestructuración” del cuadro de oficiales de las FF.AA.",
+          "url": "https://www.abc.com.py/politica/2026/11/27/alliana-dispone-reestructuracion-del-cuadro-de-oficiales-de-las-ffaa",
+          "publishedAt": "2026-11-28T00:12:52.000Z",
+          "image": "https://www.abc.com.py/resizer/yAVF6_QjIyyZc5dDWib9MBxF7iw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Q2EVCET4NRACRDANVOJSKW7BOE.jpg"
+        },
+        {
+          "sourceId": "ultimahora",
+          "sourceName": "Última Hora",
+          "title": "Alliana reestructura el cuadro de generales y almirantes de las Fuerzas Armadas y redefine los cargos de la cúpula militar",
+          "url": "https://www.ultimahora.com/alliana-reestructura-el-cuadro-de-generales-y-almirantes-de-las-fuerzas-armadas-y-redefine-los-cargos-de-la-cupula-militar",
+          "publishedAt": "2026-11-27T23:25:14.000Z",
+          "image": null
+        }
+      ],
+      "image": {
+        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Q2EVCET4NRACRDANVOJSKW7BOE.jpg?auth=f0cf53b53517cef7ed3d601aa1aeb0501f9e6150b1a04f311557158b7a4d7150&width=1200",
+        "credit": "ABC Color",
+        "articleUrl": "https://www.abc.com.py/politica/2026/11/27/alliana-dispone-reestructuracion-del-cuadro-de-oficiales-de-las-ffaa"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T19:37:10.756Z",
+      "updatedSlot": "tarde",
+      "score": 13.37
     },
     {
       "id": "ev-0y7lh5q",
@@ -600,7 +766,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 12.49
+      "score": 12.2
     },
     {
       "id": "ev-0gl4j6p",
@@ -651,7 +817,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T12:07:11.006Z",
       "updatedSlot": "manana",
-      "score": 10.65
+      "score": 10.36
     },
     {
       "id": "ev-1go00xt",
@@ -702,7 +868,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T12:07:11.006Z",
       "updatedSlot": "manana",
-      "score": 10.59
+      "score": 10.3
     },
     {
       "id": "ev-1iu2med",
@@ -753,7 +919,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 10.12
+      "score": 9.83
     },
     {
       "id": "ev-18sost9",
@@ -804,7 +970,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.99
+      "score": 9.7
     },
     {
       "id": "ev-0hwh3vj",
@@ -855,7 +1021,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-17m4530",
@@ -906,7 +1072,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-10mg00j",
@@ -957,7 +1123,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-1xz807r",
@@ -1008,7 +1174,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 9.91
+      "score": 9.62
     },
     {
       "id": "ev-0ck8s98",
@@ -1050,49 +1216,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.99
-    },
-    {
-      "id": "ev-1cu8zxy",
-      "title": "Diputados analizarán la creación de una Comisión Bicameral para auditar fondos de “Hambre Cero”",
-      "summary": "La Cámara de Diputados analizará la creación de una comisión bicameral para auditar los recursos destinados al programa Hambre Cero en las Escuelas, iniciativa impulsada durante el gobierno del expresidente Santiago Peña. El planteamiento se da luego de que el programa fuera uno de los afectados por los mayores recortes previstos en el Presupuesto General de la Nación (PGN) para 2027, por cerca de US$ 130 millones (unos G. 830.000 millones).",
-      "keyPoints": [
-        "La Cámara de Diputados analizará la creación de una comisión bicameral para auditar los recursos destinados al programa Hambre Cero en las Escuelas, iniciativa impulsada durante el gobierno del expresidente Santiago Peña.",
-        "Prudente y después de rigurosos análisis técnico-financieros, el Gobierno aplicó una estratégica fórmula de ahorro sin afectar en esencia al programa de alimentación esco­lar Hambre Cero"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Los ajustes presupuestarios dan margen a Hambre Cero",
-          "url": "https://www.lanacion.com.py/editorial/2026/11/28/los-ajustes-presupuestarios-dan-margen-a-hambre-cero",
-          "publishedAt": "2026-11-28T03:02:00.000Z",
-          "image": null
-        },
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Diputados analizarán la creación de una Comisión Bicameral para auditar fondos de “Hambre Cero”",
-          "url": "https://www.abc.com.py/politica/2026/11/27/diputados-analizaran-la-creacion-de-una-comision-bicameral-para-auditar-fondos-de-hambre-cero",
-          "publishedAt": "2026-11-27T22:08:13.000Z",
-          "image": "https://www.abc.com.py/resizer/EjpZiRIkYAuziQvi_iVWEkbaELM=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/T72767VMFFAD7GZ3BIZKG2UB2U.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/T72767VMFFAD7GZ3BIZKG2UB2U.jpg?auth=b519afd62ae8ee863236fcdf34eeee7b6db93d58a7617c55b81f04807bf0caf0&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/27/diputados-analizaran-la-creacion-de-una-comision-bicameral-para-auditar-fondos-de-hambre-cero"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 8.91
+      "score": 8.69
     },
     {
       "id": "ev-0ts5asi",
@@ -1134,7 +1258,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.81
+      "score": 8.52
     },
     {
       "id": "ev-1bospv5",
@@ -1176,49 +1300,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.76
-    },
-    {
-      "id": "ev-1r3ql0v",
-      "title": "Alliana dispone “reestructuración” del cuadro de oficiales de las FF.AA.",
-      "summary": "El titular del Poder Ejecutivo, Pedro Alliana , firmó hoy el decreto N° 7284 , por el cual “reestructura el cuadro de Oficiales Generales y Almirantes de las Fuerzas Armadas de la Nación, en tiempo de paz y establece los cargos privativos” en la institución castrense.",
-      "keyPoints": [
-        "El titular del Poder Ejecutivo, Pedro Alliana , firmó hoy el decreto N° 7284 , por el cual “reestructura el cuadro de Oficiales Generales y Almirantes de las Fuerzas Armadas de la Nación, en tiempo de…",
-        "El presidente de la República, Pedro Alliana, emitió en la tarde de este viernes un decreto que establece la dotación de oficiales de máxima jerarquía en tiempo de paz, reorganiza los cargos privativos y ajusta la…"
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Alliana dispone “reestructuración” del cuadro de oficiales de las FF.AA.",
-          "url": "https://www.abc.com.py/politica/2026/11/27/alliana-dispone-reestructuracion-del-cuadro-de-oficiales-de-las-ffaa",
-          "publishedAt": "2026-11-28T00:12:52.000Z",
-          "image": "https://www.abc.com.py/resizer/yAVF6_QjIyyZc5dDWib9MBxF7iw=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/Q2EVCET4NRACRDANVOJSKW7BOE.jpg"
-        },
-        {
-          "sourceId": "ultimahora",
-          "sourceName": "Última Hora",
-          "title": "Alliana reestructura el cuadro de generales y almirantes de las Fuerzas Armadas y redefine los cargos de la cúpula militar",
-          "url": "https://www.ultimahora.com/alliana-reestructura-el-cuadro-de-generales-y-almirantes-de-las-fuerzas-armadas-y-redefine-los-cargos-de-la-cupula-militar",
-          "publishedAt": "2026-11-27T23:25:14.000Z",
-          "image": null
-        }
-      ],
-      "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/Q2EVCET4NRACRDANVOJSKW7BOE.jpg?auth=f0cf53b53517cef7ed3d601aa1aeb0501f9e6150b1a04f311557158b7a4d7150&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/politica/2026/11/27/alliana-dispone-reestructuracion-del-cuadro-de-oficiales-de-las-ffaa"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 8.67
+      "score": 8.47
     },
     {
       "id": "ev-02poy13",
@@ -1259,7 +1341,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.46
+      "score": 8.17
     },
     {
       "id": "ev-0srgunm",
@@ -1301,7 +1383,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.24
+      "score": 8
     },
     {
       "id": "ev-0kwmef2",
@@ -1343,7 +1425,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.07
+      "score": 8
     },
     {
       "id": "ev-1lno3yy",
@@ -1427,7 +1509,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-17ylm0t",
@@ -1469,7 +1551,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.91
+      "score": 5.62
     },
     {
       "id": "ev-1rfwl3x",
@@ -1530,73 +1612,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T12:07:11.006Z",
       "updatedSlot": "manana",
-      "score": 5.84
-    },
-    {
-      "id": "ev-1brr937",
-      "title": "Areguá: relanzan hoy libro sobre maestros del barro",
-      "summary": "Una publicación que busca acercar a niños y familias a la riqueza de la cultura alfarera de la Ciudad Creativa.",
-      "keyPoints": [
-        "Una publicación que busca acercar a niños y familias a la riqueza de la cultura alfarera de la Ciudad Creativa."
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Areguá: relanzan hoy libro sobre maestros del barro",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/aregua-relanzan-hoy-libro-sobre-maestros-del-barro",
-          "publishedAt": "2026-11-28T04:27:12.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ejXQgPbWZhz-lQzqCyUoo9Oqcro=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6C4FDVIKO5E7PCYW6IAP2GQ6IM.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6C4FDVIKO5E7PCYW6IAP2GQ6IM.jpg?auth=f1ec8f090e09ff2c547d65de3656ee2a040f1cb37094a29c97b7e539426eaf5b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/aregua-relanzan-hoy-libro-sobre-maestros-del-barro"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 5.03
-    },
-    {
-      "id": "ev-1yzzyzf",
-      "title": "Centre Català d’Asunción festeja su aniversario",
-      "summary": "Celebrando sus 112 años de fundación, el Centre Català d’Asunción ofrecerá hoy una velada artística",
-      "keyPoints": [
-        "Celebrando sus 112 años de fundación, el Centre Català d’Asunción ofrecerá hoy una velada artística"
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Centre Català d’Asunción festeja su aniversario",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/centre-catala-dasuncion-festeja-su-aniversario",
-          "publishedAt": "2026-11-28T04:21:14.000Z",
-          "image": "https://www.lanacion.com.py/resizer/DehDhYNxFSASl8YSyzxHvAtG1uU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H7GGHBS2RZCHZD2D3QFE7KVVMI.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H7GGHBS2RZCHZD2D3QFE7KVVMI.jpg?auth=bcbe0200250a3ec018c81c2d39673e01766f47c042707005ca857af86a6b9ddb&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/centre-catala-dasuncion-festeja-su-aniversario"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 5.02
+      "score": 5.55
     },
     {
       "id": "ev-0vnx3fo",
@@ -1638,7 +1654,73 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.02
+      "score": 5
+    },
+    {
+      "id": "ev-1brr937",
+      "title": "Areguá: relanzan hoy libro sobre maestros del barro",
+      "summary": "Una publicación que busca acercar a niños y familias a la riqueza de la cultura alfarera de la Ciudad Creativa.",
+      "keyPoints": [
+        "Una publicación que busca acercar a niños y familias a la riqueza de la cultura alfarera de la Ciudad Creativa."
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Areguá: relanzan hoy libro sobre maestros del barro",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/aregua-relanzan-hoy-libro-sobre-maestros-del-barro",
+          "publishedAt": "2026-11-28T04:27:12.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ejXQgPbWZhz-lQzqCyUoo9Oqcro=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6C4FDVIKO5E7PCYW6IAP2GQ6IM.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6C4FDVIKO5E7PCYW6IAP2GQ6IM.jpg?auth=f1ec8f090e09ff2c547d65de3656ee2a040f1cb37094a29c97b7e539426eaf5b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/aregua-relanzan-hoy-libro-sobre-maestros-del-barro"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedSlot": "manana",
+      "score": 4.74
+    },
+    {
+      "id": "ev-1yzzyzf",
+      "title": "Centre Català d’Asunción festeja su aniversario",
+      "summary": "Celebrando sus 112 años de fundación, el Centre Català d’Asunción ofrecerá hoy una velada artística",
+      "keyPoints": [
+        "Celebrando sus 112 años de fundación, el Centre Català d’Asunción ofrecerá hoy una velada artística"
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Centre Català d’Asunción festeja su aniversario",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/centre-catala-dasuncion-festeja-su-aniversario",
+          "publishedAt": "2026-11-28T04:21:14.000Z",
+          "image": "https://www.lanacion.com.py/resizer/DehDhYNxFSASl8YSyzxHvAtG1uU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/H7GGHBS2RZCHZD2D3QFE7KVVMI.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/H7GGHBS2RZCHZD2D3QFE7KVVMI.jpg?auth=bcbe0200250a3ec018c81c2d39673e01766f47c042707005ca857af86a6b9ddb&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/centre-catala-dasuncion-festeja-su-aniversario"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedSlot": "manana",
+      "score": 4.73
     },
     {
       "id": "ev-14ltcvr",
@@ -1671,40 +1753,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.01
-    },
-    {
-      "id": "ev-0fwowfs",
-      "title": "Concierto de Navidad de la embajada alemana",
-      "summary": "Para el próximo martes 1 de diciembre está previsto el tradicional Concierto de Navidad de la Embajada de Alemania en Paraguay que invita a disfrutar de obras del barroco alemán y villancicos",
-      "keyPoints": [
-        "Para el próximo martes 1 de diciembre está previsto el tradicional Concierto de Navidad de la Embajada de Alemania en Paraguay que invita a disfrutar de obras del barroco alemán y villancicos"
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Concierto de Navidad de la embajada alemana",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/concierto-de-navidad-de-la-embajada-alemana",
-          "publishedAt": "2026-11-28T04:11:07.000Z",
-          "image": "https://www.lanacion.com.py/resizer/rpxpQYw6kePpYSMA_u4ivq_QcyQ=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/6R6HMIB3HFGWNBJLUAUBRUETYU.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/6R6HMIB3HFGWNBJLUAUBRUETYU.jpg?auth=4db3d0856da60d5d27736890b6d994a2c7d6393a9354a45075b70be9a3259dbf&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/concierto-de-navidad-de-la-embajada-alemana"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.72
     },
     {
       "id": "ev-1n4fvi7",
@@ -1737,7 +1786,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5
+      "score": 4.7
     },
     {
       "id": "ev-17wgdy7",
@@ -1770,7 +1819,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1g1iv99",
@@ -1803,7 +1852,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1acn3iv",
@@ -1836,7 +1885,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-16cbrp3",
@@ -1869,7 +1918,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0eh5yw3",
@@ -1902,7 +1951,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-05oh2bp",
@@ -1931,7 +1980,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0pvynzk",
@@ -1964,7 +2013,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1q6js8k",
@@ -1997,7 +2046,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-1t00wo0",
@@ -2030,7 +2079,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.99
+      "score": 4.7
     },
     {
       "id": "ev-0fe1qig",
@@ -2059,7 +2108,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.9
+      "score": 4.61
     },
     {
       "id": "ev-1s3lgzs",
@@ -2088,7 +2137,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.87
+      "score": 4.58
     },
     {
       "id": "ev-0lvsuiy",
@@ -2117,7 +2166,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.84
+      "score": 4.55
     },
     {
       "id": "ev-07aa7hg",
@@ -2150,7 +2199,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 4.06
+      "score": 4
     },
     {
       "id": "ev-01if60h",
@@ -2179,7 +2228,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 2.53
+      "score": 2.24
     },
     {
       "id": "ev-1vellqm",
@@ -2208,7 +2257,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 2.48
+      "score": 2.19
     },
     {
       "id": "ev-1mpz5ui",
@@ -2237,7 +2286,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 2.42
+      "score": 2.13
     },
     {
       "id": "ev-0lz2q23",
@@ -2266,7 +2315,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 2.33
+      "score": 2.04
     },
     {
       "id": "ev-0kh4p5w",
@@ -2330,6 +2379,13 @@
       "added": 0,
       "updated": 4,
       "candidates": 6
+    },
+    {
+      "slot": "tarde",
+      "at": "2026-11-28T19:37:10.756Z",
+      "added": 0,
+      "updated": 4,
+      "candidates": 7
     }
   ]
 }
