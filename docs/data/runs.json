@@ -1,5 +1,37 @@
 [
   {
+    "startedAt": "2026-11-28T08:07:15.748Z",
+    "finishedAt": "2026-11-28T08:08:54.603Z",
+    "edition": "2026-11-28",
+    "slot": "manana",
+    "ok": true,
+    "error": null,
+    "aiMode": "ia",
+    "model": "claude-haiku-5-5",
+    "articles": 307,
+    "clusters": 250,
+    "candidates": 9,
+    "added": 0,
+    "updated": 7,
+    "eventsTotal": 50,
+    "sourcesOk": 10,
+    "sourcesTotal": 11,
+    "ai": {
+      "mode": "ia",
+      "aiCalls": 0,
+      "aiErrors": [
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChUz5R2Y1e66LeCwxMTiX\"}",
+        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChUz5RSbAq23qwYFjMibY\"}"
+      ],
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "fallbacks": 9
+    },
+    "forced": false
+  },
+  {
     "startedAt": "2026-11-28T04:41:26.664Z",
     "finishedAt": "2026-11-28T04:43:15.362Z",
     "edition": "2026-11-28",
@@ -2619,38 +2651,6 @@
       "cacheReadTokens": 0,
       "cacheWriteTokens": 0,
       "fallbacks": 7
-    },
-    "forced": false
-  },
-  {
-    "startedAt": "2026-11-15T15:34:50.492Z",
-    "finishedAt": "2026-11-15T15:36:26.036Z",
-    "edition": "2026-11-15",
-    "slot": "tarde",
-    "ok": true,
-    "error": null,
-    "aiMode": "ia",
-    "model": "claude-haiku-5-5",
-    "articles": 263,
-    "clusters": 214,
-    "candidates": 8,
-    "added": 0,
-    "updated": 5,
-    "eventsTotal": 50,
-    "sourcesOk": 7,
-    "sourcesTotal": 11,
-    "ai": {
-      "mode": "ia",
-      "aiCalls": 0,
-      "aiErrors": [
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch4xgt58ZZgQ9bVtwQx9v\"}",
-        "API 401: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch4xgtSTD2B3o357qNp7m\"}"
-      ],
-      "inputTokens": 0,
-      "outputTokens": 0,
-      "cacheReadTokens": 0,
-      "cacheWriteTokens": 0,
-      "fallbacks": 8
     },
     "forced": false
   }

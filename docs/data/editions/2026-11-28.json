@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
   "timezone": "America/Asuncion",
-  "generatedAt": "2026-11-28T04:41:26.664Z",
+  "generatedAt": "2026-11-28T08:07:15.748Z",
   "aiMode": "extractivo",
   "model": null,
   "maxEvents": 50,
@@ -12,9 +12,9 @@
       "summary": "Un bebé de 10 meses falleció en el Hospital Regional de Caacupé y su padre denunció una presunta negligencia médica. La Fiscalía intervino, se solicitó una autopsia y el Ministerio de Salud dispuso una auditoría para esclarecer las circunstancias del deceso.",
       "keyPoints": [
         "Un bebé de 10 meses falleció en el Hospital Regional de Caacupé y su padre denunció una presunta negligencia médica.",
-        "Un bebé de 10 meses murió repentinamente en el Hospital Regional de Caacupé, el jueves en horas de la tarde, cuando esperaba recibir el alta.",
         "Enrique Arzamendia denunció presunta negligencia médica tras la muerte de su bebé de 10 meses en el Hospital Regional de Caacupé, cuando estaba a punto de recibir el alta.",
-        "El director Hugo Cañete sostuvo que el pequeño, de 10 meses, padecía insuficiencia respiratoria crónica y sufrió una descompensación aguda."
+        "El director Hugo Cañete sostuvo que el pequeño, de 10 meses, padecía insuficiencia respiratoria crónica y sufrió una descompensación aguda.",
+        "El hombre cuestionó la atención recibida por el niño en el Hospital Regional, aseguró que estaba evolucionando favorablemente y que tenía prevista su alta."
       ],
       "category": "pais",
       "scope": "paraguay",
@@ -22,6 +22,14 @@
       "summaryKind": "extractivo",
       "model": null,
       "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Denuncian supuesta negligencia médica",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/28/denuncian-supuesta-negligencia-medica",
+          "publishedAt": "2026-11-28T05:13:15.000Z",
+          "image": "https://www.lanacion.com.py/resizer/b4otx58C0zCwsBtJDEngCF3OKlY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/HHS2O4PLRZF37A24Q36GKATA2I.jpg"
+        },
         {
           "sourceId": "ultimahora",
           "sourceName": "Última Hora",
@@ -88,25 +96,93 @@
         }
       ],
       "image": {
-        "url": "https://abccolor-abccolor-prod.web.arc-cdn.net/resizer/v2/GJTWRFEHKJH4BOPKOC2FNYBAZA.jpg?auth=f5ad87d24662e08de4e270e6dd412800d3f443b0785f045f5cc2933e169bdf61&width=1200",
-        "credit": "ABC Color",
-        "articleUrl": "https://www.abc.com.py/policiales/2026/11/27/autopsia-revela-de-que-fallecio-el-bebe-de-10-meses-en-el-hospital-de-caacupe"
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/HHS2O4PLRZF37A24Q36GKATA2I.jpg?auth=474419431f3804a4d8d6b9efbcb7ea8a8722160e450180d7cd5ecb3223f858b7&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/28/denuncian-supuesta-negligencia-medica"
       },
       "firstSeenAt": "2026-11-28T04:41:26.664Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 20.63
+      "score": 20.76
+    },
+    {
+      "id": "ev-1nue3ut",
+      "title": "Viruela símica: Paraguay llega a 30 casos confirmados en lo que va del año",
+      "summary": "Ante el repunte de notificaciones se mantiene habilitado las teleconsultas con infectólogos y seguimiento. Se mantiene activa la vigilancia epidemiológica y recomiendan acudir de inmediato a un servicio de salud ante la aparición de lesiones o erupciones en la piel.",
+      "keyPoints": [
+        "Ante el repunte de notificaciones se mantiene habilitado las teleconsultas con infectólogos y seguimiento.",
+        "Se mantiene activa la vigilancia epidemiológica y recomiendan acudir de inmediato a un servicio de salud ante la aparición de lesiones o erupciones en la piel.",
+        "El Ministerio de Salud Pública y Bienestar Social informó que el país registra 30 casos confirmados de Mpox en lo que va del año y reiteró el llamado a consultar de inmediato ante la aparición de…",
+        "El Ministerio de Salud Pública contabiliza 30 personas diagnosticadas con Mpox en el país, mientras que otras 20 notificaciones continúan en proceso de evaluación."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Salud confirma 30 casos de viruela símica este año",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/28/salud-confirma-30-casos-de-viruela-simica-este-ano",
+          "publishedAt": "2026-11-28T05:17:30.000Z",
+          "image": "https://www.lanacion.com.py/resizer/XZaU3Tf5664pMeoSWlAuTueHflY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CUHNBFL4S5BXRPX4ZW3G4PCWUQ.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Paraguay suma 30 casos confirmados de viruela símica y refuerza medidas de prevención",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/27/paraguay-suma-30-casos-confirmados-de-viruela-simica-y-refuerza-medidas-de-prevencion",
+          "publishedAt": "2026-11-27T23:01:49.406Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/4KL3X2R7DBB2RMVZYKAXTQT4SY.jpg?auth=81242b048139d95245fe00519a6eb49703e576838311a9f572ed2b364616b963&width=1200&height=630&smart=true"
+        },
+        {
+          "sourceId": "abc",
+          "sourceName": "ABC Color",
+          "title": "Suben a 30 los casos de viruela del mono en Paraguay y evalúan 20 como sospechosos",
+          "url": "https://www.abc.com.py/internacionales/2026/11/27/suben-a-30-los-casos-de-viruela-del-mono-en-paraguay-y-evaluan-20-como-sospechosos",
+          "publishedAt": "2026-11-27T22:05:07.000Z",
+          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Paraguay registra 30 contagios de viruela del mono y mantiene otros 20 casos en estudio",
+          "url": "https://www.adndigital.com.py/paraguay-registra-30-contagios-de-viruela-del-mono-y-mantiene-otros-20-casos-en-estudio",
+          "publishedAt": "2026-11-27T21:54:13.000Z",
+          "image": null
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Viruela símica: Paraguay llega a 30 casos confirmados en lo que va del año",
+          "url": "https://www.lanacion.com.py/pais/2026/11/27/viruela-simica-paraguay-llega-a-30-casos-confirmados-en-lo-que-va-del-ano",
+          "publishedAt": "2026-11-27T21:32:13.000Z",
+          "image": "https://www.lanacion.com.py/resizer/57EO9xtNdLbbCH4QcuOeZZP2UEc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4KL3X2R7DBB2RMVZYKAXTQT4SY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4KL3X2R7DBB2RMVZYKAXTQT4SY.jpg?auth=81242b048139d95245fe00519a6eb49703e576838311a9f572ed2b364616b963&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/27/viruela-simica-paraguay-llega-a-30-casos-confirmados-en-lo-que-va-del-ano"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
+      "updatedSlot": "manana",
+      "score": 17.76
     },
     {
       "id": "ev-04xoobc",
       "title": "Caso Ueno Bank: ordenan la detención del exministro Carlos Fernández Valdovinos",
-      "summary": "La Fiscalía ordenó la detención del exministro Carlos Fernández Valdovinos en el marco de la investigación del caso Ueno Bank. La Policía desplegó un operativo en su vivienda, pero no lo encontró. El equipo de agentes fiscales de Delitos Económicos y Anticorrupción remitió el oficio a la Comandancia de la Policía Nacional en el marco de la causa caratulada \"Santiago Peña Palacios y otros s/ lesión de confianza y otros\", vinculada al caso ueno bank.",
+      "summary": "La Fiscalía ordenó la detención del exministro Carlos Fernández Valdovinos en el marco de la investigación del caso Ueno Bank. La Policía desplegó un operativo en su vivienda, pero no lo encontró. El exministro de Economía se presentó ante la Policía Nacional y quedó bajo custodia por su presunta implicación en el vaciamiento de la entidad bancaria.",
       "keyPoints": [
         "La Fiscalía ordenó la detención del exministro Carlos Fernández Valdovinos en el marco de la investigación del caso Ueno Bank.",
-        "El equipo de agentes fiscales de Delitos Económicos y Anticorrupción remitió el oficio a la Comandancia de la Policía Nacional en el marco de la causa caratulada \"Santiago Peña Palacios y otros s/ lesión de confianza…",
         "El exministro de Economía se presentó ante la Policía Nacional y quedó bajo custodia por su presunta implicación en el vaciamiento de la entidad bancaria.",
-        "El equipo fiscal que se encuentra investigando el fraude de Ueno Bank ordenó la detención del exministro de Economía y Finanzas, Carlos Fernández Valdovinos."
+        "El equipo de agentes fiscales de Delitos Económicos y Anticorrupción remitió el oficio a la Comandancia de la Policía Nacional en el marco de la causa caratulada \"Santiago Peña Palacios y otros s/ lesión de confianza…",
+        "Carlos Gustavo Fernández Valdovinos, se presentó voluntariamente ante el Departamento de Crimen Organizado de la Policía tras la orden de detención en el marco del caso Ueno Bank."
       ],
       "category": "politica",
       "scope": "paraguay",
@@ -171,6 +247,14 @@
           "image": "https://statics.elnacional.com.py/2026/03/69b15c98750f0.jpg"
         },
         {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Comitiva fiscal ingresa a la vivienda de Carlos Fernández Valdovinos",
+          "url": "https://elnacional.com.py/politica/comitiva-fiscal-ingresa-vivienda-carlos-fernandez-valdovinos-n115931",
+          "publishedAt": "2026-11-27T15:05:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b09a9c13f369.jpg"
+        },
+        {
           "sourceId": "npy",
           "sourceName": "NPY",
           "title": "Caso Ueno Bank: ordenan la detención del exministro Carlos Fernández Valdovinos",
@@ -202,19 +286,17 @@
       },
       "firstSeenAt": "2026-11-28T04:41:26.664Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 17.86
+      "score": 17.58
     },
     {
       "id": "ev-0y2ccdj",
-      "title": "Alliana anuncia rebaja de G. 600 en el gas de Petropar y declara feriado el 7 de diciembre",
-      "summary": "El presidente confirmó la reducción del precio del Ñandegas y anunció que el lunes 7 de diciembre será feriado por Caacupé. Con la determinación, una garrafa de 10 kilos permitirá que cueste G. 6.000 menos. El presidente de la República anunció la decisión en el Palacio de Gobierno y explicó que busca permitir que los fieles puedan visitar a la Virgen de Caacupé.",
+      "title": "Anuncian rebaja de G. 600 en precio de gas de Petropar",
+      "summary": "Con la determinación, una garrafa de 10 kilos permitirá que cueste G. 6.000 menos. Tras aplicar una nueva reducción de G. 600 por kilogramo a nivel nacional, la petrolera estatal consolida una diferencia de entre el 20% y el 22% por debajo de las tarifas del sector privado, impulsada en la caída de costos registrada durante noviembre.",
       "keyPoints": [
-        "El presidente confirmó la reducción del precio del Ñandegas y anunció que el lunes 7 de diciembre será feriado por Caacupé.",
         "Con la determinación, una garrafa de 10 kilos permitirá que cueste G. 6.000 menos.",
-        "El presidente de la República anunció la decisión en el Palacio de Gobierno y explicó que busca permitir que los fieles puedan visitar a la Virgen de Caacupé.",
-        "Alliana anuncia rebaja de G. 600 en el gas de Petropar y declara feriado el 7 de diciembre; Ordenan la detención del exministro Carlos Fernández Valdovinos; Funcionarios de Aseo Urbano exigen mejores condiciones de trabajo; Incautan…"
+        "Tras aplicar una nueva reducción de G. 600 por kilogramo a nivel nacional, la petrolera estatal consolida una diferencia de entre el 20% y el 22% por debajo de las tarifas del sector privado, impulsada en…"
       ],
       "category": "economia",
       "scope": "paraguay",
@@ -229,6 +311,14 @@
           "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/28/anuncian-rebaja-de-g-600-en-precio-de-gas-de-petropar",
           "publishedAt": "2026-11-28T03:02:00.000Z",
           "image": "https://www.lanacion.com.py/resizer/nZPSTiK54b9Y9U2osd_rvAij73A=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/J54MO46CCRDVLLTLCOG3QFWCXY.jpg"
+        },
+        {
+          "sourceId": "hoy",
+          "sourceName": "HOY",
+          "title": "Gas de Petropar amplía brecha de precios y se ubica hasta un 22% más barato que privados",
+          "url": "https://www.hoy.com.py/nacionales/2026/11/27/gas-de-petropar-amplia-brecha-de-precios-y-se-ubica-hasta-un-22-mas-barato-que-privados",
+          "publishedAt": "2026-11-27T20:10:43.274Z",
+          "image": "https://www.lanacion.com.py/resizer/v2/OJCRS7MAQBCA3KW5YO6GAZH43Q.jpeg?auth=ec6ec02559df3548667c62b8b270c42ec7eaee7a62c3940671269da0739f720d&width=1200&height=630&smart=true"
         },
         {
           "sourceId": "lanacion",
@@ -272,15 +362,117 @@
         }
       ],
       "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/CEWW3J4QL5FJBG36M6S5XZXRD4.jpeg?auth=88a14f6052d272879c67a4000692b774a22068b4ceb8a2727e4655b0148ab5c3&width=1200",
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/J54MO46CCRDVLLTLCOG3QFWCXY.jpg?auth=529988819489ca07bd9428cea4aa2012e9859d576534cbe0c01c677754f26715&width=1200",
         "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/27/alliana-anuncia-rebaja-de-g-600-en-el-gas-de-petropar-y-declara-feriado-el-7-de-diciembre"
+        "articleUrl": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/11/28/anuncian-rebaja-de-g-600-en-precio-de-gas-de-petropar"
       },
       "firstSeenAt": "2026-11-28T04:41:26.664Z",
       "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
       "updatedSlot": "manana",
-      "score": 11.86
+      "score": 14.58
+    },
+    {
+      "id": "ev-0y7lh5q",
+      "title": "Senado apunta a acelerar una salida para trabajadores afectados por la caída de Ueno",
+      "summary": "Los proyectos legislativos que buscan atender la situación de los trabajadores desvinculados de las empresas del Grupo Vázquez podrían ser tratados el próximo martes 1 de diciembre, durante una sesión extraordinaria de la Cámara de Senadores. El titular del Congreso, Basilio Núñez adelantó que el Senado podría reunirse de manera extraordinaria el próximo martes para abordar las propuestas legislativas relacionadas con la situación de los empleados de las empresas vinculadas al Grupo Vázquez, que quedaron sin actividad tras la crisis de Ueno Bank.",
+      "keyPoints": [
+        "Los proyectos legislativos que buscan atender la situación de los trabajadores desvinculados de las empresas del Grupo Vázquez podrían ser tratados el próximo martes 1 de diciembre, durante una sesión extraordinaria de la Cámara de Senadores.",
+        "El titular del Congreso, Basilio Núñez adelantó que el Senado podría reunirse de manera extraordinaria el próximo martes para abordar las propuestas legislativas relacionadas con la situación de los empleados de las empresas vinculadas al Grupo…",
+        "El presidente del Congreso, Basilio “Bachi” Núñez, anunció que buscará adelantar para el martes una sesión extraordinaria del Senado, con el objetivo de poner a consideración los proyectos que plantean mecanismos de indemnización o adelanto de…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Senado analizaría este martes adelanto de liquidaciones y designación de dos miembros del BCP",
+          "url": "https://www.lanacion.com.py/politica/2026/11/27/senado-analizaria-este-martes-adelanto-de-liquidaciones-y-designacion-de-dos-miembros-del-bcp",
+          "publishedAt": "2026-11-27T22:01:21.000Z",
+          "image": "https://www.lanacion.com.py/resizer/0OZ36XAhMuJw_h5367eNTFJ_ibU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/F4F7TJS4MRHHBDK7YHBR7VAZRQ.jpeg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Senado prevé sesión extra para definir auxilio a trabajadores del Grupo Vázquez",
+          "url": "https://www.adndigital.com.py/senado-preve-sesion-extra-para-definir-auxilio-a-trabajadores-del-grupo-vazquez",
+          "publishedAt": "2026-11-27T19:25:56.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/whatsapp-image-2026-11-23-at-142653.jpeg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Senado apunta a acelerar una salida para trabajadores afectados por la caída de Ueno",
+          "url": "https://elnacional.com.py/politica/senado-apunta-acelerar-una-salida-trabajadores-afectados-caida-ueno-n115943",
+          "publishedAt": "2026-11-27T19:25:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
+        }
+      ],
+      "image": {
+        "url": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg",
+        "credit": "El Nacional",
+        "articleUrl": "https://elnacional.com.py/politica/senado-apunta-acelerar-una-salida-trabajadores-afectados-caida-ueno-n115943"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
+      "updatedSlot": "manana",
+      "score": 13.16
+    },
+    {
+      "id": "ev-1iu2med",
+      "title": "Justicia y Policía requisan 61 armas caseras, 11 celulares y bebidas artesanales en el ex Tacumbú",
+      "summary": "Todo lo incautado quedó a disposición de las autoridades competentes. Procedimiento fue desarrollado por la Dirección General de Establecimientos Penitenciarios como parte de los controles preventivos permanentes que se vienen realizando cada mes. El operativo fue realizado por el Ministerio de Justicia con acompañamiento de la Policía Nacional.",
+      "keyPoints": [
+        "Todo lo incautado quedó a disposición de las autoridades competentes.",
+        "Procedimiento fue desarrollado por la Dirección General de Establecimientos Penitenciarios como parte de los controles preventivos permanentes que se vienen realizando cada mes.",
+        "El operativo fue realizado por el Ministerio de Justicia con acompañamiento de la Policía Nacional."
+      ],
+      "category": "pais",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Requisan más de 60 armas caseras en el ex-Tacumbú",
+          "url": "https://www.lanacion.com.py/pais_edicion_impresa/2026/11/28/requisan-mas-de-60-armas-caseras-en-el-ex-tacumbu",
+          "publishedAt": "2026-11-28T05:32:17.000Z",
+          "image": "https://www.lanacion.com.py/resizer/d6BAf4VYC9gHKutEbLf_tc8JxQw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/VWDJWADGAFC35NGR6SSNETKKQU.jpg"
+        },
+        {
+          "sourceId": "elnacional",
+          "sourceName": "El Nacional",
+          "title": "Incautan 61 armas blancas y 11 celulares durante requisa en el Centro Nacional de Prevenidos",
+          "url": "https://elnacional.com.py/nacionales/incautan-61-armas-blancas-11-celulares-durante-requisa-centro-nacional-prevenidos-n115932",
+          "publishedAt": "2026-11-27T20:30:00.000Z",
+          "image": "https://statics.elnacional.com.py/2026/11/6b099ea740618.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Justicia y Policía requisan 61 armas caseras, 11 celulares y bebidas artesanales en el ex Tacumbú",
+          "url": "https://www.lanacion.com.py/pais/2026/11/27/justicia-y-policia-requisan-61-armas-caseras-11-celulares-y-bebidas-artesanales-en-el-ex-tacumbu",
+          "publishedAt": "2026-11-27T18:20:42.000Z",
+          "image": "https://www.lanacion.com.py/resizer/ea6OHSBbb6PNJYxhEjSwHDFYWcY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7NN2YT43INDINLGQHW7XTWVJLE.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/7NN2YT43INDINLGQHW7XTWVJLE.jpg?auth=511a76822806935e673132b3ee546e29baec0c4324d258e273f5c33ad17322c9&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/27/justicia-y-policia-requisan-61-armas-caseras-11-celulares-y-bebidas-artesanales-en-el-ex-tacumbu"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
+      "updatedSlot": "manana",
+      "score": 10.78
     },
     {
       "id": "ev-18sost9",
@@ -331,7 +523,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 10.94
+      "score": 10.66
     },
     {
       "id": "ev-0hwh3vj",
@@ -382,7 +574,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 10.86
+      "score": 10.58
     },
     {
       "id": "ev-17m4530",
@@ -433,7 +625,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 10.86
+      "score": 10.58
     },
     {
       "id": "ev-10mg00j",
@@ -484,7 +676,58 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 10.86
+      "score": 10.58
+    },
+    {
+      "id": "ev-1xz807r",
+      "title": "Ejecutivo solicita modificar el PGN 2026 para destinar USD 72 millones a Salud",
+      "summary": "El Poder Ejecutivo remitió a la Cámara de Diputados un proyecto de ley que modifica el Presupuesto General de la Nación 2026 para el Ministerio de Salud Pública y Bienestar Social (MSPBS). La iniciativa fue elaborada por el Ministerio de Economía y Finanzas (MEF) y lleva la firma del presidente de la República, Pedro Alliana.",
+      "keyPoints": [
+        "El Poder Ejecutivo remitió a la Cámara de Diputados un proyecto de ley que modifica el Presupuesto General de la Nación 2026 para el Ministerio de Salud Pública y Bienestar Social (MSPBS).",
+        "El pedido del Ejecutivo llega cuando los contratados de Salud denunciaron que no están cobrando a tiempo sus salarios.",
+        "Una modificación presupuestaria por G. 464.961 millones fue puesta a consideración de la Cámara de Diputados por el Poder Ejecutivo, con el propósito de garantizar recursos para el pago del personal contratado del Ministerio de Salud…"
+      ],
+      "category": "politica",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo solicita modificar el PGN 2026",
+          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/28/ejecutivo-solicita-modificar-el-pgn-2026",
+          "publishedAt": "2026-11-28T03:02:00.000Z",
+          "image": "https://www.lanacion.com.py/resizer/tEiNwCeGr8sOR6jfmyQt_odL5WE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LJ3O6MTNDVCPBK2CRD7MY7JPWU.jpg"
+        },
+        {
+          "sourceId": "adn",
+          "sourceName": "ADN Digital",
+          "title": "Ejecutivo plantea reasignar G. 465.000 millones para pagar a contratados de Salud",
+          "url": "https://www.adndigital.com.py/ejecutivo-plantea-reasignar-g-465-000-millones-para-pagar-a-contratados-de-salud",
+          "publishedAt": "2026-11-27T19:19:35.000Z",
+          "image": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/04/msp.jpg"
+        },
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Ejecutivo solicita modificar el PGN 2026 para destinar USD 72 millones a Salud",
+          "url": "https://www.lanacion.com.py/politica/2026/11/27/ejecutivo-solicita-modificar-el-pgn-2026-para-destinar-usd-72-millones-a-salud",
+          "publishedAt": "2026-11-27T19:03:43.000Z",
+          "image": "https://www.lanacion.com.py/resizer/gndtH3mHQyUcWt1Mq3mMlg14HSk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ROQV3SOUD5F2DLRKYG2QEB64JA.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ROQV3SOUD5F2DLRKYG2QEB64JA.jpg?auth=da5cd1c96708f749843a0f00be9e76fcc6b73256942eb9bf2bfe79aad18b7f8b&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/27/ejecutivo-solicita-modificar-el-pgn-2026-para-destinar-usd-72-millones-a-salud"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T08:07:15.748Z",
+      "updatedSlot": "manana",
+      "score": 10.58
     },
     {
       "id": "ev-0ck8s98",
@@ -526,7 +769,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.94
+      "score": 9.65
     },
     {
       "id": "ev-1cu8zxy",
@@ -568,7 +811,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.86
+      "score": 9.58
     },
     {
       "id": "ev-0ts5asi",
@@ -610,7 +853,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.76
+      "score": 9.48
     },
     {
       "id": "ev-1bospv5",
@@ -652,7 +895,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.71
+      "score": 9.42
     },
     {
       "id": "ev-1r3ql0v",
@@ -694,91 +937,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.63
-    },
-    {
-      "id": "ev-1nue3ut",
-      "title": "Suben a 30 los casos de viruela del mono en Paraguay y evalúan 20 como sospechosos",
-      "summary": "En un comunicado, el despacho de Salud indicó que las notificaciones de la enfermedad \"aumentaron de forma significativa\" desde la semana epidemiológica del 15 y 21 de noviembre pasado, que concentró el 93 % de los casos confirmados y sospechosos.",
-      "keyPoints": [
-        "En un comunicado, el despacho de Salud indicó que las notificaciones de la enfermedad \"aumentaron de forma significativa\" desde la semana epidemiológica del 15 y 21 de noviembre pasado, que concentró el 93 % de los…",
-        "Ante el repunte de notificaciones se mantiene habilitado las teleconsultas con infectólogos y seguimiento."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "abc",
-          "sourceName": "ABC Color",
-          "title": "Suben a 30 los casos de viruela del mono en Paraguay y evalúan 20 como sospechosos",
-          "url": "https://www.abc.com.py/internacionales/2026/11/27/suben-a-30-los-casos-de-viruela-del-mono-en-paraguay-y-evaluan-20-como-sospechosos",
-          "publishedAt": "2026-11-27T22:05:07.000Z",
-          "image": "https://www.abc.com.py/resizer/Vray45Ja6Zg2GOtClINwc6G0K9Y=/cloudfront-us-east-1.images.arcpublishing.com/abccolor/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Viruela símica: Paraguay llega a 30 casos confirmados en lo que va del año",
-          "url": "https://www.lanacion.com.py/pais/2026/11/27/viruela-simica-paraguay-llega-a-30-casos-confirmados-en-lo-que-va-del-ano",
-          "publishedAt": "2026-11-27T21:32:13.000Z",
-          "image": "https://www.lanacion.com.py/resizer/57EO9xtNdLbbCH4QcuOeZZP2UEc=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/4KL3X2R7DBB2RMVZYKAXTQT4SY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/4KL3X2R7DBB2RMVZYKAXTQT4SY.jpg?auth=81242b048139d95245fe00519a6eb49703e576838311a9f572ed2b364616b963&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/pais/2026/11/27/viruela-simica-paraguay-llega-a-30-casos-confirmados-en-lo-que-va-del-ano"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 9.45
-    },
-    {
-      "id": "ev-0y7lh5q",
-      "title": "Senado analizaría este martes adelanto de liquidaciones y designación de dos miembros del BCP",
-      "summary": "El presidente del Congreso, Basilio “Bachi” Núñez, anunció que buscará adelantar para el martes una sesión extraordinaria del Senado, con el objetivo de poner a consideración los proyectos que plantean mecanismos de indemnización o adelanto de liquidaciones para los trabajadores afectados por la crisis del Grupo Vázquez.",
-      "keyPoints": [
-        "El presidente del Congreso, Basilio “Bachi” Núñez, anunció que buscará adelantar para el martes una sesión extraordinaria del Senado, con el objetivo de poner a consideración los proyectos que plantean mecanismos de indemnización o adelanto de…",
-        "Los proyectos legislativos que buscan atender la situación de los trabajadores desvinculados de las empresas del Grupo Vázquez podrían ser tratados el próximo martes 1 de diciembre, durante una sesión extraordinaria de la Cámara de Senadores."
-      ],
-      "category": "politica",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Senado analizaría este martes adelanto de liquidaciones y designación de dos miembros del BCP",
-          "url": "https://www.lanacion.com.py/politica/2026/11/27/senado-analizaria-este-martes-adelanto-de-liquidaciones-y-designacion-de-dos-miembros-del-bcp",
-          "publishedAt": "2026-11-27T22:01:21.000Z",
-          "image": "https://www.lanacion.com.py/resizer/0OZ36XAhMuJw_h5367eNTFJ_ibU=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/F4F7TJS4MRHHBDK7YHBR7VAZRQ.jpeg"
-        },
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Senado apunta a acelerar una salida para trabajadores afectados por la caída de Ueno",
-          "url": "https://elnacional.com.py/politica/senado-apunta-acelerar-una-salida-trabajadores-afectados-caida-ueno-n115943",
-          "publishedAt": "2026-11-27T19:25:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/10/6ae1f86d755ef.jpeg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/F4F7TJS4MRHHBDK7YHBR7VAZRQ.jpeg?auth=f8cd6a457cd37607ed8b14adfe083d328fe6505a8201e28ba1b8e43a57fff631&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/27/senado-analizaria-este-martes-adelanto-de-liquidaciones-y-designacion-de-dos-miembros-del-bcp"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 9.44
+      "score": 9.34
     },
     {
       "id": "ev-02poy13",
@@ -819,49 +978,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.42
-    },
-    {
-      "id": "ev-1iu2med",
-      "title": "Incautan 61 armas blancas y 11 celulares durante requisa en el Centro Nacional de Prevenidos",
-      "summary": "El operativo fue realizado por el Ministerio de Justicia con acompañamiento de la Policía Nacional. También decomisaron herramientas, objetos metálicos, bebidas artesanales y otros elementos prohibidos en poder de las personas privadas de libertad. Todo lo incautado quedó a disposición de las autoridades competentes.",
-      "keyPoints": [
-        "El operativo fue realizado por el Ministerio de Justicia con acompañamiento de la Policía Nacional.",
-        "Todo lo incautado quedó a disposición de las autoridades competentes."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "elnacional",
-          "sourceName": "El Nacional",
-          "title": "Incautan 61 armas blancas y 11 celulares durante requisa en el Centro Nacional de Prevenidos",
-          "url": "https://elnacional.com.py/nacionales/incautan-61-armas-blancas-11-celulares-durante-requisa-centro-nacional-prevenidos-n115932",
-          "publishedAt": "2026-11-27T20:30:00.000Z",
-          "image": "https://statics.elnacional.com.py/2026/11/6b099ea740618.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Justicia y Policía requisan 61 armas caseras, 11 celulares y bebidas artesanales en el ex Tacumbú",
-          "url": "https://www.lanacion.com.py/pais/2026/11/27/justicia-y-policia-requisan-61-armas-caseras-11-celulares-y-bebidas-artesanales-en-el-ex-tacumbu",
-          "publishedAt": "2026-11-27T18:20:42.000Z",
-          "image": "https://www.lanacion.com.py/resizer/ea6OHSBbb6PNJYxhEjSwHDFYWcY=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/7NN2YT43INDINLGQHW7XTWVJLE.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://statics.elnacional.com.py/2026/11/6b099ea740618.jpg",
-        "credit": "El Nacional",
-        "articleUrl": "https://elnacional.com.py/nacionales/incautan-61-armas-blancas-11-celulares-durante-requisa-centro-nacional-prevenidos-n115932"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 9.32
+      "score": 9.13
     },
     {
       "id": "ev-0gl4j6p",
@@ -903,7 +1020,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.32
+      "score": 9.03
     },
     {
       "id": "ev-0srgunm",
@@ -945,7 +1062,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.19
+      "score": 8.91
     },
     {
       "id": "ev-0kwmef2",
@@ -987,7 +1104,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 9.03
+      "score": 8.74
     },
     {
       "id": "ev-1lno3yy",
@@ -1029,7 +1146,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 8.87
+      "score": 8.59
     },
     {
       "id": "ev-18czs5n",
@@ -1071,7 +1188,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 6.87
+      "score": 6.58
     },
     {
       "id": "ev-0c9xhdb",
@@ -1113,49 +1230,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 6.86
-    },
-    {
-      "id": "ev-1xz807r",
-      "title": "Ejecutivo solicita modificar el PGN 2026 para destinar USD 72 millones a Salud",
-      "summary": "El Poder Ejecutivo remitió a la Cámara de Diputados un proyecto de ley que modifica el Presupuesto General de la Nación 2026 para el Ministerio de Salud Pública y Bienestar Social (MSPBS). La iniciativa fue elaborada por el Ministerio de Economía y Finanzas (MEF) y lleva la firma del presidente de la República, Pedro Alliana.",
-      "keyPoints": [
-        "El Poder Ejecutivo remitió a la Cámara de Diputados un proyecto de ley que modifica el Presupuesto General de la Nación 2026 para el Ministerio de Salud Pública y Bienestar Social (MSPBS).",
-        "El pedido del Ejecutivo llega cuando los contratados de Salud denunciaron que no están cobrando a tiempo sus salarios."
-      ],
-      "category": "pais",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo solicita modificar el PGN 2026",
-          "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/11/28/ejecutivo-solicita-modificar-el-pgn-2026",
-          "publishedAt": "2026-11-28T03:02:00.000Z",
-          "image": "https://www.lanacion.com.py/resizer/tEiNwCeGr8sOR6jfmyQt_odL5WE=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/LJ3O6MTNDVCPBK2CRD7MY7JPWU.jpg"
-        },
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Ejecutivo solicita modificar el PGN 2026 para destinar USD 72 millones a Salud",
-          "url": "https://www.lanacion.com.py/politica/2026/11/27/ejecutivo-solicita-modificar-el-pgn-2026-para-destinar-usd-72-millones-a-salud",
-          "publishedAt": "2026-11-27T19:03:43.000Z",
-          "image": "https://www.lanacion.com.py/resizer/gndtH3mHQyUcWt1Mq3mMlg14HSk=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/ROQV3SOUD5F2DLRKYG2QEB64JA.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/ROQV3SOUD5F2DLRKYG2QEB64JA.jpg?auth=da5cd1c96708f749843a0f00be9e76fcc6b73256942eb9bf2bfe79aad18b7f8b&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/politica/2026/11/27/ejecutivo-solicita-modificar-el-pgn-2026-para-destinar-usd-72-millones-a-salud"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 6.86
+      "score": 6.58
     },
     {
       "id": "ev-17ylm0t",
@@ -1197,7 +1272,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 6.86
+      "score": 6.58
     },
     {
       "id": "ev-1go00xt",
@@ -1239,7 +1314,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 6.86
+      "score": 6.58
     },
     {
       "id": "ev-1rfwl3x",
@@ -1295,7 +1370,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 6.41
+      "score": 6.12
     },
     {
       "id": "ev-1brr937",
@@ -1328,40 +1403,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.98
-    },
-    {
-      "id": "ev-14ltcvr",
-      "title": "Laboratorio infantil para crear cuentos",
-      "summary": "La artista visual, diseña­dora, ilustradora y docente Araceli Balbuena dirigirá hoy un laboratorio de creación de cuentos para niños con el objetivo de fomentar la ima­ginación infantil, potenciar la expresión oral y escrita",
-      "keyPoints": [
-        "La artista visual, diseña­dora, ilustradora y docente Araceli Balbuena dirigirá hoy un laboratorio de creación de cuentos para niños con el objetivo de fomentar la ima­ginación infantil, potenciar la expresión oral y escrita"
-      ],
-      "category": "cultura",
-      "scope": "paraguay",
-      "expiresAt": null,
-      "summaryKind": "extractivo",
-      "model": null,
-      "sources": [
-        {
-          "sourceId": "lanacion",
-          "sourceName": "La Nación",
-          "title": "Laboratorio infantil para crear cuentos",
-          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/laboratorio-infantil-para-crear-cuentos",
-          "publishedAt": "2026-11-28T04:16:44.000Z",
-          "image": "https://www.lanacion.com.py/resizer/nB7yAIjIlfKQT_1fBn-M5t7yCmw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S222GVHFUFALXMOBIYP65ZZXRY.jpg"
-        }
-      ],
-      "image": {
-        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S222GVHFUFALXMOBIYP65ZZXRY.jpg?auth=0d900d2b518d0ffb81bb9b40bf58616d333426353a744a3fa287bef55419dfb9&width=1200",
-        "credit": "La Nación",
-        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/laboratorio-infantil-para-crear-cuentos"
-      },
-      "firstSeenAt": "2026-11-28T04:41:26.664Z",
-      "firstSlot": "manana",
-      "updatedAt": "2026-11-28T04:41:26.664Z",
-      "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.69
     },
     {
       "id": "ev-1yzzyzf",
@@ -1394,7 +1436,40 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.69
+    },
+    {
+      "id": "ev-14ltcvr",
+      "title": "Laboratorio infantil para crear cuentos",
+      "summary": "La artista visual, diseña­dora, ilustradora y docente Araceli Balbuena dirigirá hoy un laboratorio de creación de cuentos para niños con el objetivo de fomentar la ima­ginación infantil, potenciar la expresión oral y escrita",
+      "keyPoints": [
+        "La artista visual, diseña­dora, ilustradora y docente Araceli Balbuena dirigirá hoy un laboratorio de creación de cuentos para niños con el objetivo de fomentar la ima­ginación infantil, potenciar la expresión oral y escrita"
+      ],
+      "category": "cultura",
+      "scope": "paraguay",
+      "expiresAt": null,
+      "summaryKind": "extractivo",
+      "model": null,
+      "sources": [
+        {
+          "sourceId": "lanacion",
+          "sourceName": "La Nación",
+          "title": "Laboratorio infantil para crear cuentos",
+          "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/laboratorio-infantil-para-crear-cuentos",
+          "publishedAt": "2026-11-28T04:16:44.000Z",
+          "image": "https://www.lanacion.com.py/resizer/nB7yAIjIlfKQT_1fBn-M5t7yCmw=/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/S222GVHFUFALXMOBIYP65ZZXRY.jpg"
+        }
+      ],
+      "image": {
+        "url": "https://lanacionpy-lanacionpy-prod.web.arc-cdn.net/resizer/v2/S222GVHFUFALXMOBIYP65ZZXRY.jpg?auth=0d900d2b518d0ffb81bb9b40bf58616d333426353a744a3fa287bef55419dfb9&width=1200",
+        "credit": "La Nación",
+        "articleUrl": "https://www.lanacion.com.py/la-nacion-del-finde/2026/11/28/laboratorio-infantil-para-crear-cuentos"
+      },
+      "firstSeenAt": "2026-11-28T04:41:26.664Z",
+      "firstSlot": "manana",
+      "updatedAt": "2026-11-28T04:41:26.664Z",
+      "updatedSlot": "manana",
+      "score": 5.68
     },
     {
       "id": "ev-0vnx3fo",
@@ -1436,7 +1511,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.97
+      "score": 5.68
     },
     {
       "id": "ev-0fwowfs",
@@ -1469,7 +1544,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.96
+      "score": 5.67
     },
     {
       "id": "ev-1n4fvi7",
@@ -1502,7 +1577,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.95
+      "score": 5.66
     },
     {
       "id": "ev-17wgdy7",
@@ -1535,7 +1610,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-1g1iv99",
@@ -1568,7 +1643,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-1acn3iv",
@@ -1601,7 +1676,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-16cbrp3",
@@ -1634,7 +1709,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-0eh5yw3",
@@ -1667,7 +1742,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-05oh2bp",
@@ -1696,7 +1771,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-0pvynzk",
@@ -1729,7 +1804,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-1q6js8k",
@@ -1762,7 +1837,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-1t00wo0",
@@ -1795,7 +1870,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.94
+      "score": 5.66
     },
     {
       "id": "ev-0fe1qig",
@@ -1824,7 +1899,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.85
+      "score": 5.57
     },
     {
       "id": "ev-1s3lgzs",
@@ -1853,7 +1928,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.82
+      "score": 5.54
     },
     {
       "id": "ev-0lvsuiy",
@@ -1882,7 +1957,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.79
+      "score": 5.5
     },
     {
       "id": "ev-07aa7hg",
@@ -1915,7 +1990,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 5.01
+      "score": 4.73
     },
     {
       "id": "ev-01if60h",
@@ -1944,7 +2019,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 3.48
+      "score": 3.2
     },
     {
       "id": "ev-1vellqm",
@@ -1973,7 +2048,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 3.44
+      "score": 3.15
     },
     {
       "id": "ev-1mpz5ui",
@@ -2002,7 +2077,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 3.37
+      "score": 3.09
     },
     {
       "id": "ev-0lz2q23",
@@ -2031,7 +2106,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 3.28
+      "score": 3
     },
     {
       "id": "ev-0kh4p5w",
@@ -2064,7 +2139,7 @@
       "firstSlot": "manana",
       "updatedAt": "2026-11-28T04:41:26.664Z",
       "updatedSlot": "manana",
-      "score": 2.15
+      "score": 1.87
     }
   ],
   "runs": [
@@ -2074,6 +2149,13 @@
       "added": 50,
       "updated": 0,
       "candidates": 60
+    },
+    {
+      "slot": "manana",
+      "at": "2026-11-28T08:07:15.748Z",
+      "added": 0,
+      "updated": 7,
+      "candidates": 9
     }
   ]
 }
